@@ -1,0 +1,671 @@
+Pre-print book chapter, to be published in: 
+Analysing Organised Crime, Financial Crime and Criminal Justice: Theoretical Concepts and 
+Challenges, Routledge Spring 2021 
+ 
+ 
+Unexplained Wealth Orders and the Right Not To Self-Incriminate 
+Dr Marnie Lovejoy1 
+Introduction 
+In April 2016, shortly after the Panama Papers exposed the dubious dealings of the offshore finance 
+industry and its links to the UK2, the government released the Action Plan for anti-money laundering 
+and counter-terrorist finance.3 The Action Plan announced the need to create: 
+“aggressive  new  legal  powers  (…)  to  enable  the  relentless  disruption  of 
+criminals and terrorists”.4 
+These aggressive legal powers include Unexplained Wealth Orders (UWOs), which were introduced to 
+the Proceeds of Crime Act 2002 through the Criminal Finances Act 2017.5 The aim of UWOs is to 
+facilitate the recovery of illicit assets, where the authorities are unable to use other freezing or 
+recovery tools because of their inability to obtain evidence.6 UWOs are an instrument of compulsion. 
+They compel a person to provide information about the origin of targeted assets, in cases where the 
+court suspects the value of the assets to be disproportionate to the person’s known legitimate 
+income.7 To lie or to give misleading statements under this compulsion is a criminal offence8 and non-
+compliance results in the legal presumption that the assets are recoverable in civil proceedings.9 The 
+design of this new legal instrument follows an international trend to target criminal assets in rem 
+rather than prosecute criminal conduct in personam.10 However, such instruments are controversial. 
+They  are  intrusive  and  circumvent  procedural  safeguards  commonly  applicable  in  criminal 
+proceedings.11 The common argument that such safeguards should not apply to these modern 
+                                                           
+ Principal Lecturer, Associate Head, Portsmouth Law School, University of Portsmouth. 
+2 International Consortium of Investigative Journalists, ‘The Panama Papers: Exposing the Rogue Offshore 
+Finance Industry’ < https://www.icij.org/investigations/panama-papers/> accessed 17 August 2020. 
+3 Home Office and HM Treasury, ‘Action Plan for anti-money laundering and counter-terrorist finance’ (Home 
+Office/HM Treasury 2016). 
+4 ibid, 3. 
+5 Proceeds of Crime Act, ss 362A-326I (England, Wales and Norther Ireland); Proceeds of Crime Act 
+(investigations: Scotland), ss 326A-326I (Scotland). 
+6 Explanatory Notes to the Criminal Finances Act, paras 12-13.  
+7 Proceeds of Crime Act 2002, s 362B(3). 
+8 ibid, s 362E. 
+9 ibid, s 362C(2); civil recovery proceedings are covered in Part 5 of the Proceeds of Crime Act 2002 and are 
+based on the fact that assets originate from unlawful conduct. 
+10 For example: Open-ended Intergovernmental Working Group on Asset Recovery, ‘Model Provisions on In 
+Rem Forfeiture’ (24 August 2011); Swiss Federal Law on freezing and recovering illicit assets of politically 
+exposed persons, SR 161.1.; European Commission, ‘Commission staff working document,  
+Analysis of non-conviction based confiscation measures in the European Union’ (12 April 2019). 
+11 J Hendry and C King, ‘How far is too far? Theorising non-conviction-based asset forfeiture’ 11 (2015) IJLC 
+396, 406; C King, ‘Using civil processes in pursuit of criminal law objectives: a case study of non-conviction-
+based asset forfeiture’ 16 (2012) IJEP 337 f.  instruments because they are tools of administrative or civil law, is not entirely convincing considering 
+the criminal law connotation of the issue as well as the severe potential consequences for the affected 
+person.12 The design and application of UWOs appears, at least prima facie, to infringe several fair trial 
+guarantees: the presumption of innocence, the principle of legality, the principle of equality of arms 
+and as an instrument of coercive compulsion certainly the right not to self-incriminate.13 
+This chapter will focus on last principle of the above. The right not to self-incriminate, if indeed 
+applicable in UWO proceedings, could be violated at various stages. Firstly, the fact that a person is 
+compelled under threat of a fine or imprisonment to provide potentially incriminating information is 
+per se problematic.  Secondly, questions will arise in relation to the use of information obtained in this 
+manner, either in criminal14 or civil proceedings, but also in relation to potential negative inferences 
+drawn from a refusal to answer an UWO.15 Because of the limited scope of a book chapter, the 
+following analysis will mainly focus on problems regarding the right not to self-incriminate at the 
+investigation stage and will not discuss the problems in relation to the use of coercively obtained 
+information or negative inferences drawn from non-compliance to such an order at a later trial stage. 
+In domestic courts, the application of the privilege against self-incrimination16 in UWO proceedings 
+has been discussed to a limited extent in the Hajiyeva case.17 However, the judicial assessment in this 
+case did not extend to a detailed analysis of Strasbourg case law on the principle deriving from Article 
+6 of the European Convention on Human Rights. In order to evaluate the future success of UWOs as a 
+truly innovative legal tool, such an analysis is crucial. Only if the use of UWOs can withstand legal 
+challenges before the European Court of Human Rights, will these new investigatory powers ultimately 
+be able to serve their purpose of facilitating the fight against financial crime. 
+Functioning of Unexplained Wealth Orders under sections 396A to 396I Proceeds of Crime Act 2002 
+The Criminal Finances Act 2017 introduced UWOs as new investigatory powers by amending Chapter 2 
+of Part 8 of the Proceeds of Crime Act 2002. In an ex parte hearing18, without notice to the respondent, 
+the High Court can issue an UWO on application of a law enforcement authority19 if the following 
+requirements are met20: Firstly, the person holding the targeted assets is either a politically exposed 
+person (PEP) from a non-EEA country21 or there are reasonable grounds for suspecting that the person 
+is or was involved in serious crime22. Secondly, the value of the targeted assets is above the threshold 
+                                                           
+12 Home Office and HM Treasury (n 3), 22. 
+13 H D Lodge, Criminal Finances Act 2017, A Guide to the New Law (The Law Society 2017), 55. 
+14 S 362F Proceeds of Crime Act 2002 offers a ‘use immunity’, e.g. statements gathered through an UWO 
+cannot be used in criminal proceedings. The value of this provision in relation to the right not to self-
+incriminate is discussed below. 
+15 For problems relating to negative inferences see Murray v United Kingdom (1996) 22 EHRR 29. 
+16 The discussion was, however, limited to the civil procedure privilege under s 14 of the Civil Evidence Act 
+1968. Although there are overlaps between s 14 Civil Evidence Act 1968 and the principle under Article 6 
+European Convention of Human Rights, the guarantees are not identical, see Gold Nuts Ltd v Revenue and 
+Customs Commissioner [2016] UKFTT 82 (TC), [2016] S.T.I 1342. 
+17 National Crime Agency v Hajiyeva [2018] EWHC 2534 (Admin), 1 WLR 5887; Hajiyeva v National Crime 
+Agency [2020] EWCA Civ 108, 1 WLR 3209. 
+18 Lodge submits that the fact that UWOs are issued in ex parte hearings might to be challenged in the future, 
+see Lodge (n 13), 45 and 55.  
+19 The National Crime Agency; Her Majesty’s Revenue and Customs; The Financial Conduct Authority; the 
+Director of the Serious Fraud Office; the Director of Public Prosecutions, see Proceeds of Crime Act 2002, s 
+362A(7). 
+20 Proceeds of Crime Act 2002, s 362B. 
+21 ibid, ss 362B(4)(a) and 396B(7). 
+22 ibid, s 362B(4)(b); serious crime is defined under s 362B(9). of £50,00023 and the court is satisfied that there are reasonable grounds for suspecting that the known 
+sources of the respondent’s lawfully obtained income would have been insufficient for the purpose of 
+enabling the respondent to obtain the property.24  This is a surprisingly low evidential threshold, 
+particularly since the respondent does not have the opportunity to challenge the evidence prior to the 
+issuing of the UWO.25 The person targeted by an UWO will receive notice that an UWO was issued 
+only ex post and will be given a period to respond to the request.26 The order will request the 
+respondent to set out the nature and extent of their interest in the property, how they obtained the 
+property, details of the settlement, if property is held by the trustees of a settlement and any other 
+information in connection with the property.27  
+To give false or misleading statements to an UWO, either knowingly or recklessly, is a criminal 
+offence.28. Non-compliance to an UWO has the effect that the targeted property is presumed to be 
+recoverable under Part 5 of the Proceeds of Crime Act 2002.29 What heightens the concerns in relation 
+to the right not to self-incriminate at the investigation stage is that the first UWO was issued with a 
+penal warning attached to it.  Although such a consequence is not set out in the statutory provisions 
+covering UWOs, under the current use of this legal instrument, a compelled person can be held in 
+contempt of court for disobeying an UWO and can face a fine or imprisonment. The following penal 
+notice was attached to the UWO against Zamira Hajiyeva:  
+“If you disobey this order you may be held to be in contempt of court and 
+may be imprisoned, fined or have your assets seized.”30 
+This warning is further specified under the important notes to the order: 
+“Further or alternatively, any person who disobeys the Unexplained 
+Wealth Order, or knows of either order and does anything which helps or 
+permits another to breach the terms of the same, may be held to be in 
+contempt  of  court  and  may  be  imprisoned,  fined  or  have  their  assets 
+seized.”31 
+The consequences set out in the statutory provisions together with the practice of attaching a penal 
+notice to a UWO have therefore a twofold impact on a respondent who refuses to provide information 
+about the targeted assets because it might be incriminatory. Firstly, they can be held in contempt of 
+court and face a fine or imprisonment in committal proceedings and secondly, their targeted assets 
+are presumed be recoverable in civil proceedings. Especially the threat of penal sanctions for 
+disobedience to an UWO seems to encroach on the right not to self-incriminate. It allows authorities 
+to obtain potentially incriminating evidence from a suspect through coercion, whilst they themselves 
+are either not willing or unable to obtain the evidence in a different way.32  It could be argued that the 
+purpose of UWOs is not to gather evidence for future criminal or civil actions against a person, but to 
+                                                           
+23 ibid, s 362B(1)(b). 
+24 ibid, ss 326(3) and 326(6); criticism to this central test in Lodge (n 13), 46-48. 
+25 Lodge (n 13), 46-47. 
+26 Proceeds of Crime Act 2002, s 362A(6). 
+27 ibid, s 362A(3). 
+28 ibid, s 362E. 
+29 ibid, s 362C. 
+30 National Crime Agency v Hajiyeva (n 17) [89].  
+31 ibid [90].  
+32 Explanatory Notes to the Criminal Finances Act, para 12; the right not to self-incriminate might also be 
+engaged if information obtained through a UWO is later used in criminal proceedings or if negative inference is 
+drawn from the refusal to answer a UWO, but this is outside of the scope of this book chapter.  start purely in rem recovery proceedings of specific assets.33 However, the following analysis will show 
+that this argument might be flawed. It fails to take into consideration the strong criminal law 
+connotation of UWOs and it could lead to a situation where high profile criminals are being offered a 
+de facto immunity for their crimes.  
+The woman who infamously spent £16.3 million in Harrods in ten years 
+On the 27 February 2018 the National Crime Agency (NCA) obtained the first ever UWO, which 
+targeted a Knightsbridge property that was bought for £11.5 million by Vicksburg Global Inc, a British 
+Virgin Island company, controlled by Zamira Hajiyeva.34  Hajiyeva, who infamously spent £16.3 million 
+in the department store Harrods in ten years,35 is the wife of Jahangir Hajiyev.36  He was the former 
+chairman of the state-owned International Bank of Azerbaijan and was sentenced to 15 years in prison 
+in Azerbaijan in 2016 for charges of fraud, embezzlement, and misappropriation of public funds.  In 
+2016, Hajiyeva herself was apparently arrested in absentia by Azeri authorities and was briefly 
+detained in 2018 in the UK, based on a request for extradition.37 In September 2019, the Magistrates’ 
+Court blocked her extradition on the grounds that she would not receive a fair trial in Azerbaijan.38  
+The UWO against Hajiyeva was based on the assumption that her husband is a PEP within the 
+definition of the law and that there are reasonable grounds for suspecting that Hajiyev’s lawful income 
+from his role as chairman of the bank would have been insufficient to obtain the targeted property. 
+According to the NCA, Hajiyeva herself did not have any independent income either and mainly relied 
+on her husband’s provision. 39 An interesting fact that was not mentioned in the judgement is that the 
+Home Office granted Zamira Hajiyeva a Tier 1 investor visa in return for a seven-figure investment in 
+UK bonds and shares in 2010.40 Apparently, the origin of the funds available to this couple were not 
+suspicious to the authorities at that time, even though Hajiyev was the chairman of the International 
+Bank of Azerbaijan and therefore a PEP.   
+In July 2018, Hajiyeva applied to the High Court to have the UWO against her discharged on eight 
+grounds:  According to Hajiyeva’s submissions, Mr Hajiyev was not a PEP within the meaning of the 
+law; the NCA had mischaracterised the respondent's role when persuading the court that the income 
+requirement in the act was met; the NCA had been wrong to place reliance on Mr Hajiyev's conviction 
+in a non-EEA country; the NCA had not established the income requirement to the relevant standard; 
+the order ought to be discharged by virtue of the penal warning wrongly attached to it; the order 
+offended the respondent's right to peaceful enjoyment of her possessions under article 1 of the First 
+Protocol to the Convention for the Protection of Human Rights and Fundamental Freedoms; the order 
+offended the privilege against self-incrimination and spousal privilege under s 14 Civil Evidence Act 
+1968; and given all the circumstances of the case, the court ought not to have exercised its discretion 
+to make the order.41 
+                                                           
+33 Home Office and HM Treasury (n 3), 22. 
+34 National Crime Agency v Hajiyeva (n 17) [10-20]. 
+35 ibid [83]. 
+36 ibid [11]. 
+37 ibid [17-20]; Hajiyeva v National Crime Agency (n 17) [9]. 
+38 Hajiyeva v National Crime Agency (n 17) [9]. 
+39 National Crime Agency v Hajiyeva (n 17) [57]. 
+40 Sean O’Neill, ‘Attracting the megarich while keeping out illicit money’ The Times (London, 11 October 2018). 
+41 Hajiyeva v National Crime Agency (n 17). Of particular interest here is Hajiyeva’s argument that the order violated her privilege against self-
+incrimination under s 14 Civil Evidence Act 1968.42 The High Court as well as the Court of Appeal 
+dismissed this ground firmly, but their arguments were limited to the civil guarantee under this 
+provision and did not take into account Strasbourg case law on Article 6 of the European Convention 
+on Human Rights. The High Court held that the UWO did not violate the privilege against self-
+incrimination,43 because this privilege only applies as regards to criminal offences under the law of 
+any part of the UK.44 According to Supperstone J, there was no real and appreciable risk in the present 
+case that Hajiyeva or her husband would be prosecuted for such offences in the UK.45 The court further 
+submitted that if they were prosecuted in the UK, the offences would comprise qualifying offences 
+under the Fraud Act 2006 for which the privilege against self-incrimination has been excluded by s 
+13(1) Fraud Act 2006.46 The court also stated that with the creation of UWOs, Parliament effectively 
+abrogated the privilege against self-incrimination to that extent.47 In December 2019, the Court of 
+Appeal dismissed an appeal by Hajiyeva and reiterated Supperstone J’s submissions in relation to the 
+privilege under s14 CEA 1968.48  
+Hajiyeva has not been granted leave to bring the case to the Supreme Court and at the time of writing 
+it is not known if Hajiyeva intends to bring this case to the Human Rights Court in Strasbourg.49 Since 
+the issuing of this first UWO, this new legal instrument has been used a number of times again with 
+variable success.50 The legal issue of a potential infringement of the right not to self-incriminate has, 
+however, not yet been raised again. The following analysis is therefore a first attempt to examine 
+whether UWOs at the investigation stage are reconcilable with the guarantees under the criminal limb 
+of Article 6 of the European Convention on Human Rights.  
+The right not to self-incriminate under Strasbourg case law 
+The right not to self-incriminate, although generally acknowledged to lie at the heart of the notion of 
+a fair trial, is not expressly set out in the European Convention on Human Rights.51 The Court describes 
+the principle and its rationale in the case of Saunders v UK as follows: 
+“Their rationale lies, inter alia, in the protection of the accused against 
+improper  compulsion  by  the  authorities  thereby  contributing  to  the 
+avoidance of miscarriages of justice and to the fulfilment of the aims of 
+Article 6 (…). The right not to incriminate oneself, in particular, presupposes 
+that the prosecution in a criminal case seek to prove their case against the 
+accused without resort to evidence obtained through methods of coercion or 
+                                                           
+42 ibid (n 17) [45-56]; the following discussion is limited to the right not to self-incriminate and does not take 
+into consideration potential spousal privileges.  
+43 Civil Evidence Act 1968, s 14. 
+44 National Crime Agency v Hajiyeva (n 17) [107]. 
+45 ibid [108]. 
+46 ibid [113]; this argument is flawed, as Hajiyeva is more likely to be prosecuted for money laundering 
+offences in the UK than for fraud offence, see below. 
+47 ibid [110-112].   
+48 Hajiyeva v National Crime Agency (n 17) [45-56]. 
+49 J Ames, ‘Zamira Hajiyeva: McMafia banker’s wife could lose her £15m home after court defeat’ The Times 
+(London, 6 February 2020). 
+50 National Crime Agency v Hussain et al [2020] EWHC 432 (Admin), [2020] 1 W.L.R. 2145; National Crime 
+Agency v Baker [2020] EWHC 822 (Admin), [2020] 4 WLUK 113. 
+51 European Court of Human Rights, ‘Guide on Article 6 of the European Convention on Human Rights’ 
+(Updated on 30 April 2020) <https://www.echr.coe.int/Documents/Guide_Art_6_criminal_ENG.pdf> accessed 
+25 August 2020, para 184. oppression in defiance of the will of the accused. In this sense the right is 
+closely linked to the presumption of innocence contained in Article 6 para. 2 
+of the Convention.”52 
+It is clear from this statement that the right not to self-incriminate applies within the realm of criminal 
+law only and it seems to be the view of the domestic courts that UWO proceedings are located outside 
+of the criminal law territory and therefore outside of the scope of this principle.53 However, the extent 
+of the application of the criminal limb of Article 6 of the Convention depends on the existence of a 
+criminal charge in the autonomous sense of this term54, not its formal domestic classification.55 A 
+review of Strasbourg case law on this issue is therefore pivotal and the following analysis shows that 
+the High Court and the Court of Appeal might have set aside concerns in relation to the right not to 
+self-incriminate too prematurely in the Hajiyeva-case.56 Funke v France57 is one of the key Strasbourg 
+cases  on  the  question  whether  a  conviction  for  refusing  to  provide  potentially  incriminating 
+information violates the right not to self-incriminate under the criminal limb of Article 6. It therefore 
+offers a good starting point for this study.  
+The key case of Funke v France 
+Funke, was suspected of tax offences, but was never formally charged and tax proceedings against 
+him were never opened. He was, however, compelled by French custom officers, under threat of fines 
+and imprisonment, to produce statements of overseas bank accounts, which they suspected existed.58 
+Funke refused to comply with this request and was later convicted in proceedings for disclosure of 
+documents. Funke claimed that his criminal conviction for the refusal to comply with the compulsion 
+violated his right to a fair trial.59 The French government objected to this using the argument that no 
+criminal proceedings had ever been opened against Funke and the criminal limb of Article 6 should 
+therefore not apply.60 The court dismissed this objection because Funke did not complain about the 
+actual tax proceedings, but the disclosure of information proceedings in which he had been convicted 
+for a refusal to produce potentially incriminating bank statements upon compulsion by custom 
+officers. The court concluded the question of a potential infringement of Funke’s right to remain silent 
+as follows: 
+“The Court notes that the customs secured Mr Funke’s conviction in 
+order to obtain certain documents which they believed must exist, although 
+they were not certain of the fact. Being unable or unwilling to procure them 
+by some other means, they attempted to compel the applicant himself to 
+provide the evidence of offences he had allegedly committed. The special 
+features of customs law (…) cannot justify such an infringement of the right 
+of  anyone  "charged  with  a  criminal  offence",  within  the  autonomous 
+meaning of this expression in Article 6 (art. 6), to remain silent and not to 
+                                                           
+52 Saunders v United Kingdom (1997) 23 EHRR 313 [68]. 
+53 National Crime Agency v Hajiyeva (n 17) [108]. 
+54 The ECtHR assesses the existence of a criminal charge according to the ‘Engel criteria’: the classification in 
+domestic law, the nature of the offence and the severity of the penalty that the person concerned risks 
+incurring, see Engel et al v the Netherlands (1979-80) EHRR 706.  
+55 Although the classification in domestic law is the starting point, this criterion is not decisive unless an 
+offence is classified as criminal, see European Court of Human Rights (n 51) para 19. 
+56 National Crime Agency v Hajiyeva (n 17) [104-116]; Hajiyeva v National Crime Agency (n 17) [45-56]. 
+57 Funke v France (1993) 16 EHRR 297. 
+58 ibid. 
+59 ibid [38]. 
+60 ibid [39]. contribute to incriminating himself. There has accordingly been a breach of 
+Article 6 para. 1 (art. 6-1).”61 
+A comparison of the situation in Funke to the UWO proceedings reveals interesting parallels. As 
+mentioned above, a respondent to an UWO who disobeys the order, e.g. remains silent, faces a fine 
+or imprisonment in committal proceedings because UWOs are issued with a penal warning attached 
+to them.62 A person targeted by an UWO is, therefore, compelled under the threat of penal sanctions 
+to  provide  potentially  incriminating  evidence.63  The  crucial  point,  however,  is  that  Funke  was 
+considered to be charged with a criminal offence in the autonomous meaning of the expression, 
+whilst, at least in the case of Hajiyeva, the domestic courts did not consider that criminal proceedings 
+in the UK were anticipated. Supperstone J clearly stated that: 
+“(…)  I do not consider that the evidence discloses a real and appreciable 
+risk that Mrs Hajiyeva or her husband will be prosecuted for offences in the 
+UK. (…) Accordingly the threshold test for the privileges to apply has not 
+been satisfied.”64  
+According  to  the  Convention  jurisprudence,  the  existence  of  a  criminal  charge  is  assessed 
+autonomously and can be defined as the official notification given to an individual by the competent 
+authority of an allegation that the affected person has committed a criminal offence. This is the case 
+if the situation of the suspect has been substantially affected by actions taken by the authorities as a 
+result of a suspicion against them.65 The European Court of Human Rights has held in previous cases 
+that a charge exists in the autonomous sense, not only when a person is arrested or formally charged 
+with an offence, but already when a person is questioned about their involvement in a criminal 
+offence, even if they are treated as a mere witness.66 
+In the case of Hajiyeva, the High Court used the threshold test for the application of the privilege in 
+civil procedures,67 e.g. whether there was a real and appreciable risk that Hajiyeva or her husband 
+would be prosecuted for offences in the UK and concluded that this threshold had not been reached. 
+In other words, the court implied that Hajiyeva was, at the time of issue of the UWO, not charged with 
+an  offence  because  neither  were  criminal  proceedings  at  that  time  pending,  nor  were  they 
+anticipated.68 This argument might be formally correct because no criminal proceedings had ever been 
+opened against Hajiyeva in the UK. However, substantially this situation does not seem to be as clear. 
+The strong criminal law connotation of UWOs has to be taken into consideration when assessing this 
+issue.69  It cannot be ignored that UWOs are based on the suspicion that the known lawful sources of 
+the respondent’s income have been insufficient to acquire the targeted property. In other words, the 
+authorities suspect that the targeted property has been acquired unlawfully. A respondent to an UWO 
+is, therefore, suspected of holding criminal property. What seems to have been overlooked is that this 
+constitutes in itself a criminal offence in the UK. Under s 329 of the Proceeds of Crime Act 2002 a 
+person commits an offence if they acquire, use or possess criminal property. It would therefore not 
+                                                           
+61 ibid [44]. 
+62 National Crime Agency v Hajiyeva (n 17) [89-90]. 
+63 Either statements or documents can be requested through UWOs. 
+64 ibid [115]. 
+65 Deweer v Belgium App no 6903/75 (ECtHR, 27 February 1980) [42-46]. 
+66 Heaney and McGuinness v Ireland (2000) 22 EHRR 12; Kalēja v Latvia App no 22059/08 (ECtHR, 5 October 
+2017). 
+67 National Crime Agency v Hajiyeva (n 17) [108]. 
+68 ibid. 
+69 E.g. Bendenoun v France App no 12547/86 (ECtHR, 24 February 1994) [47]. be fanciful to describe UWO proceedings as proceedings in which a person is questioned about their 
+suspected involvement in a criminal offence – namely money laundering. Even though the questioning 
+does not take place in the usual criminal justice setting, but in proceedings that are at least formally 
+classified to be civil in nature. In front of this background, it would not be surprising either if the 
+European Court of Human Rights would come to the conclusion that a person affected by a UWO could 
+in certain circumstances, at least substantially, be considered as charged with a criminal offence. 
+The argument against such a conclusion would be that UWOs are purely in rem instruments; they are 
+intended to target property and not persons and they were not designed to imply guilt. This argument 
+is sustainable in situations where UWOs are used to target ‘abandoned’ illicit assets, acquired or held 
+by criminals that are not currently within the jurisdiction of the UK and that are for whatever reason 
+not available for prosecution in the UK.70  However, the design of UWOs is much broader. UWOs can 
+be used if the holder of the targeted property is in the UK. It is even possible that UWOs are issued 
+against illicit assets that stem from crimes that were committed entirely in the UK.71 It is difficult to 
+support the view that UWOs only target property and not the holder of property in situations, where 
+a respondent to an UWO effectively holds criminal property in the UK and is physically ‘available’ to 
+prosecution authorities. This person is under suspicion of having committed a criminal offence as 
+described above, otherwise an UWO would be baseless. It is not realistic in such a scenario to treat 
+the respondent to an UWO as a mere third party as they themselves will have likely committed an 
+offence.72 
+The High Court submitted in the Hajiyeva case that neither Hajiyeva nor her husband were facing 
+criminal proceedings in the UK,73 but it cannot be argued that a respondent to an UWO would never 
+face criminal prosecution in the UK. Such an assumption would indeed lead to highly undesirable 
+consequences.  It would mean that a respondent to an UWO enjoys de facto immunity from criminal 
+prosecution for money laundering offences committed in the UK because they were targeted by an 
+UWO before proceedings were opened. The use of UWO proceedings would allow them, to relinquish 
+their property to the authorities and therewith buy themselves out of criminal responsibility. Surely, 
+this cannot be within the spirit this new legal instrument and it is surely not within the public interest 
+that large scale financial crimes are not being prosecuted and criminals are not being held criminally 
+accountable. UWOs should be a measure of last resort where orthodox prosecution would fail, but 
+not an alternative settlement that allows high profile criminals to escape justice.  
+For these reasons, there seems to be a realistic prospect that the European Court of Human Rights 
+could rely on its findings in Funke v France74 and conclude that under certain circumstances a person 
+affected by a UWO has to be considered charged with a criminal offence even though no formal 
+prosecution has yet been opened. In certain circumstances, criminal proceedings must be anticipated. 
+Otherwise, UWOs would offer a blank de facto immunity to all respondents. This means that UWOs 
+could fall under the scope of the criminal limb of Article 6 of the European Convention on Human 
+Rights and the right not to self-incriminate would apply.  
+                                                           
+70 For example because the person is in a country with which mutual legal assistance or extradition is doomed 
+to fail or the person is dead.  
+71 E.g. in relation to a respondent that has been involved in serious crime, Proceeds of Crime Act 2002, s 
+362B(4)(b)(i): “the respondent is, or has been, involved in serious crime (whether in a part of the United 
+Kingdom or elsewhere)”. 
+72 E.g. Acquiring, using or possessing criminal property under s 329 Proceeds of Crime Act 2002. 
+73 National Crime Agency v Hajiyeva (n 17) [108]. 
+74 Funke v France (n 57). Post-Funke cases 
+There are several other cases that followed the Funke judgement75 and concluded that Respondent 
+States have violated the applicant’s right not to self-incriminate in prosecutions for failure to provide 
+information, even though the applicant was not formally charged with a criminal offence and it seems 
+reasonable to assume that the Funke judgement76 would influence a judicial assessment of UWO 
+proceedings as well. In Heaney and McGuinness v Ireland77, the applicants were arrested in relation to 
+terrorist offences and compelled under threat of penal sanctions to provide a full account of their 
+movements. Even though they were not formally charged with a criminal offence, the fact that they 
+were arrested and questioned in relation to an IRA bombing meant for the Strasbourg Court that they 
+were at least suspected of having been involved in a criminal offence and therefore substantially 
+charged in the autonomous sense of the term.78 In Marttinen v Finland79, the applicant refused to 
+provide information about his assets in a debt enforcement enquiry relying on his right not to self-
+incriminate. The applicant was subject to correlating pre-trial investigations for debtor’s fraud, which 
+were frozen at the time of the compulsion. The Finish Supreme Court argued in this case that: 
+“The purpose of the powers of enforcement authorities to oblige the 
+debtor to provide an account of his property, and of the coercive means 
+available to ensure compliance with this obligation, is to make enforcement 
+more efficient. Although it is possible to impose a threat of a fine to secure 
+compliance  with  the  obligation  to  give  the  information  requested  in 
+connection with the enforcement inquiry, and a sentence may be ordered on 
+a person concealing information or giving false information, the debtor is 
+not, when complying with his or her obligation to give information on his or 
+her property for the purposes of enforcement, a person charged with a 
+criminal offence within the meaning of Article 6 of the Convention, to whom 
+the rights of the accused would apply.”80 
+The European Court of Human Rights did not agree with this submission and held that Marttinen, 
+should be considered charged in the autonomous sense of the expression. According to the Strasbourg 
+Court it is not a requirement for the application of the principle that the allegedly incriminating 
+evidence obtained through coercion was actually used in a criminal trial.81  
+There are however cases with a similar set of facts in which the Strasbourg Court has denied the 
+application of the right not to self-incriminate in investigation procedures because it considered the 
+applicant not to be charged with a criminal offence. Although these cases seem to contradict Funke 
+prima facie, they can be distinguished based on their facts. In Weh v Austria82, Weh’s car was caught 
+by a speed camera exceeding the speed limit and proceedings against an unknown driver were 
+opened. Weh was required by the state authorities to provide the identity of the driver at the time of 
+the speeding incident. Weh inaccurately stated that the driver was a person living in the state of Texas 
+in the USA. He was later fined for providing inaccurate information.83 The Strasbourg Court held in this 
+                                                           
+75 ibid.  
+76 ibid.  
+77 Heaney and McGuinness v Ireland (n 66). 
+78 ibid [41-59]. 
+79 Marttinen v Finland App no 19235/03 (ECtHR, 21 July 2009). 
+80 ibid [21]. 
+81 ibid [58-66]. 
+82 Weh v Austria (2005) 40 EHRR 37. 
+83 ibid [11-23]. case that the right not to self-incriminate had not been violated. The case was, according to the Court, 
+distinguishable from cases like Funke84 or Heaney and McGuinness85 because the criminal proceedings 
+against the applicant were less likely: 
+“In Funke and in Heaney and McGuinness (…) criminal proceedings 
+were anticipated, though they had not been formally opened, at the time the 
+respective  applicants  were  required  to  give  potentially  incriminating 
+information.  In Funke the  customs  authorities  had  a  specific  suspicion 
+against the applicant, in Heaney and McGuinness the applicants had been 
+arrested  on  suspicion  of  terrorist  offences.  In  the  present  case  the 
+proceedings for speeding were conducted against unknown offenders, when 
+the authorities requested the applicant under section 103 § 2 of the Motor 
+Vehicles Act to disclose who had been driving his car on 5 March 1995. 
+There  were  clearly  no  proceedings  for  speeding  pending  against  the 
+applicant and it cannot even be said that they were anticipated as the 
+authorities did not have any element of suspicion against him.”86 
+Later cases in relation to the procurement of a driver’s identity by compulsion show that the 
+distinguishing characteristics from Funke v France87 in these cases are not so much, as suggested in 
+Weh88, the degree of likelihood of the criminal proceedings, but the degree of the compulsion used. 
+In O’Halloran and Francis v UK89, the Strasbourg Court set out, citing Brown v Stott90, that the 
+compulsion in such cases flowed from the fact that all who own or drive motor cars know that by doing 
+so they subject themselves to a regulatory regime to protect public safety and they therefore accept 
+certain  responsibilities  including  the  present  compulsion.91  The  court  further  set  out  that  the 
+compulsion in this case was narrow, because it only required the affected person to provide the 
+authorities with the identity of the driver. Interesting for the assessment of UWOs is the following 
+statement of the court in this case: 
+“The information is thus markedly more restricted than in previous 
+cases, in which applicants have been subjected to statutory powers requiring 
+production of “papers and documents of any kind relating to operations of 
+interest  to  [the]  department” (see Funke, cited above,  §  30),  or 
+of “documents, etc., which  might  be  relevant  for the assessment  of 
+taxes” (see J.B. v. Switzerland, cited above, § 39).”92 
+It seems likely from this statement that the Strasbourg Court would consider the compulsion used in 
+UWO proceedings to be less restricted than the one in Weh or O’Halloran and Francis.93 As mentioned 
+above, UWOs require the respondent to provide extensive information about the targeted assets: 
+namely, to set out the nature and extent of their interest in the property, how they obtained the 
+property, details of the settlement, if property is held by the trustees of a settlement and any other 
+                                                           
+84 Funke v France (n 57). 
+85 Heaney and McGuinness v Ireland (n 66). 
+86 Weh v Austria (n 83) [52-53]. 
+87 Funke v France (n 57). 
+88 Weh v Austria (n 83). 
+89 O’Halloran and Francis v United Kingdom (2008) 46 EHRR 21. 
+90 Brown v Stott [2001] 2 WLR 817. 
+91 O’Halloran and Francis v United Kingdom (n 90) [57]. 
+92 ibid [58]. 
+93 O’Halloran and Francis v United Kingdom (n 90). information in connection with the property.94 This is not comparable with the procurement of the 
+identity of the driver of ones car at a specific moment in time and the compulsion does not derive 
+from a regulatory framework that supports public safety, but from a suspicion that money laundering 
+offences have been committed. 
+In the case of Fayed v UK95, administrative investigation proceedings by inspectors of the Department 
+for Trade and Industry (DTI)96 were considered to be outside of the application of the criminal limb of 
+Article 6. The Court described these proceedings as follows: 
+“[Their] purpose (…) was to ascertain and record facts which might 
+subsequently be used as the basis for action by other competent authorities - 
+prosecuting, regulatory, disciplinary or even legislative (…).97 
+“Acceptance  of  the  applicants'  argument  would  entail  that  a  body 
+carrying out preparatory investigations at the instance of regulatory or other 
+authorities  should  always  be  subject  to  the  guarantees  of  a  judicial 
+procedure set forth in Article 6(1) by reason of the fact that publication of 
+its findings is liable to damage the reputation of the individuals whose 
+conduct is being investigated. Such an interpretation of Article 6(1) would in 
+practice unduly hamper the effective regulation in the public interest of 
+complex  financial  and  commercial  activities.  In  the  Court's  view, 
+investigative proceedings of the kind in issue in the present case fall outside 
+the ambit and intendment of Article 6(1) (…).98 
+This raises the questions whether, the Strasbourg Court could per analogiam consider that UWO 
+proceedings are also fact finding procedures or preparatory proceedings outside of the scope of the 
+criminal procedure guarantees of Article 6. However, some characteristics of UWOs make such an 
+analogy difficult. UWOs are not used to investigate complex corporate or financial issues. They, in fact, 
+do not require any investigatory work as such. UWOs simply compel the respondent, under threat of 
+a fine or imprisonment, to explain how they have obtained the targeted property. 99 It is not because 
+of the complexity of the issue that UWOs are used, but because enforcement agencies are unwilling 
+or unable to obtain this information, or evidence relating to this information, themselves.100  A second 
+point that cannot be neglected is that DTI investigations are used to establish a set of facts. These 
+facts might well be just descriptive and neutral in value. This is different with UWOs – if a respondent 
+does not have the right to remain silent to an UWO, their answer will inevitably either be exculpatory 
+or incriminating.101 
+The above shows that it is reasonable to believe that because of the strong criminal law connotation 
+of UWOs and the degree and nature of the compulsion used, the Strasbourg Court could find that 
+under certain circumstances a respondent to a UWO should be considered charged with a criminal 
+offence in the autonomous meaning of the term. This would mean that UWOs, if they are issued with 
+                                                           
+94 Proceeds of Crime Act 2002, s 362A(3). 
+95 Fayed v United Kingdom (1994) 18 EHRR 393; the same reasoning was later followed in Saunders v United 
+Kingdom (n 52). 
+96 Based on s 432(2) Companies Act 1985. 
+97 Fayed v United Kingdom (n 96) [61]. 
+98 ibid [62]. 
+99 Proceeds of Crime Act 2002, s362A(3). 
+100 Explanatory Notes to the Criminal Finances Act, paras 12. 
+101 Because the compulsion through UWOs is not used to assess a person’s tax liability, it can also not be 
+compared to the case of Allen v United Kingdom (2002) 35 EHRR CD289.  a penal warning attached to them, might violate the right not to self-incriminate under the criminal 
+limb of Article 6 of the Convention. This would, however, not the case if Parliament lawfully abrogated 
+the right not to self-incriminate, as the High Court submitted in the Hajiyeva case.102  
+Valid abrogation of the right not to self-incriminate in UWOs proceedings 
+According to the High Court, Parliament abrogated the privilege against self-incrimination by creating 
+the legal instrument of UWOs.103 Whether such an abrogation is compatible with the Convention, 
+depends firstly on whether the right not to self-incriminate is an absolute or a qualified right and 
+secondly, if the right is qualified, whether the infringement is justified.  The Strasbourg Court did not 
+find it necessary in the case of Saunders v the United Kingdom to decide whether the right not to self-
+incriminate was absolute or not.104  However, the Court stated that it did not accept the Respondent 
+State’s argument that the public interest in the investigation and punishment of corporate fraud could 
+justify a marked departure of the basic principle of fair procedure.105 Post-Saunders, the Court’s 
+position seems to have shifted not only in terms of the definition of the right not to self-incriminate, 
+but also on the issue whether it can be balanced against public interest grounds.  In other words, the 
+Court seems to accept that in certain circumstances the legislator can validly abrogate the right not to 
+self-incriminate.106  
+The case of Jalloh v Germany was concerned with a person being forced to produce real evidence. 
+Through forceful administration of an emetic substances, the applicant regurgitated a small bag of 
+cocaine.107 The Court clearly distinguished this case from cases such as Funke v France108 or JB v 
+Switzerland109, where the right not to self-incriminate was violated in the sense that a suspect was 
+compelled to produce a potentially incriminating documents rather than other forms of real evidence 
+that are usually not covered by the principle.110 However, the Court also set out to what extent an 
+infringement could be considered lawful. Interestingly, and seemingly in departure from its statement 
+in Saunders111, the Court engages in a balancing test between public interest factors and the violated 
+right:  
+“In order to determine whether the applicant’s right not to incriminate 
+himself  has  been  violated,  the  Court  will  have  regard,  in  turn,  to  the 
+following factors: the nature and degree of compulsion used to obtain the 
+evidence;  the  weight  of  the  public  interest  in  the  investigation  and 
+punishment of the offence in issue; the existence of any relevant safeguards 
+in the procedure; and the use to which any material so obtained is put.”112 
+                                                           
+102 National Crime Agency v Hajiyeva (n 17) [110-112]. 
+103 ibid [110-112]. 
+104 Saunders v United Kingdom (n 52) [74]. 
+105 ibid. 
+106 For a detailed discussion of this shift, see A L-T Choo, The Privilege Against Self-Incrimination and Criminal 
+Justice (Hart 2013), 62 f. 
+107 Jalloh v Germany (2007) 44 EHRR 32. 
+108 Funke v France (n 57). 
+109 JB v Switzerland App no 31827/96 (ECtHR, 3 May 2001). 
+110 Jalloh v Germany (n 108) [113]. 
+111 Saunders v United Kingdom (n 52). 
+112 Jalloh v Germany (n 108) [117]. In the following case of O’Halloran and Francis v the United Kingdom113, in which the applicants were 
+compelled to reveal the identity of the driver of their car, the Court reiterated these factors, but 
+dropped the public interest element once again: 
+“In the light of the principles contained in its Jalloh judgment, and in 
+order to determine whether the essence of the applicants’ right to remain 
+silent and privilege against self-incrimination was infringed, the Court will 
+focus on the nature and degree of compulsion used to obtain the evidence, 
+the existence of any relevant safeguards in the procedure, and the use to 
+which any material so obtained was put.”114 
+In light of these cases it seems evident that the right not to self-incriminate is not an absolute right. 
+However the Court’s assessment of when an infringement is justified and whether public interest 
+factors are decisive is inconsistent. It is therefore difficult to assess at this point whether the 
+Strasbourg Court would accept that Parliament has lawfully abrogated the right not to self-incriminate 
+by creating UWOs. Clearly the investigation of financial crimes and the recovery of illicit funds are in 
+the public interest. However, the degree of compulsion exercised through UWOs is, as discussed 
+above, undeniably high.115   
+Statutory ‘use immunity’ and potential infringements of the right not to self-incriminate 
+UWOs can only be used under the statutory safeguard that statements in response to such order 
+cannot be used in evidence against the respondent in criminal proceedings.116  This ‘use immunity’ is 
+a feature that the legislator has often attached to statutory compulsion powers after the Strasbourg 
+decision of Saunders v UK117 and it will clearly give some weight in the Court’s assessment whether 
+UWOs infringe on the very essence of the right not to self-incriminate.118  However, whether this ‘use 
+immunity’ is capable of curing all of the discussed concerns in relation to the right not to self-
+incriminate is doubtful.  It should not be overlooked that the European Court of Human Rights made 
+it clear that it is not a requirement for a violation of the right not to self-incriminate that the evidence 
+obtained has actually been used in criminal proceedings: 
+ “The Court points out that in previous cases it has expressly found that 
+there is no requirement for allegedly incriminating evidence obtained by 
+coercion to be actually used in criminal proceedings before the right not to 
+incriminate  oneself  applies.  In  particular,  in  the  case  of Heaney  and 
+McGuinness v. Ireland (no. 34720/97, §§ 43-46, ECHR 2000-XII) it found 
+that the applicants could rely on Article 6 §§ 1 and 2 in respect of their 
+conviction and imprisonment for failing to reply to questions, even though 
+they were subsequently acquitted of the underlying offence. Indeed, in the 
+case of Funke v. France (cited above, §§ 39-40), the Court found a violation 
+of the right not to incriminate oneself even though no underlying proceedings 
+were brought, and by the time of the Strasbourg proceedings none could 
+be.”119 
+                                                           
+113 O’Halloran and Francis v UK (n 90). 
+114 ibid [55]. 
+115 See above, discussion of UWO in light of Funke v France (n 57). 
+116 Proceeds of Crime Act 2002, s 362F. 
+117 Saunders v United Kingdom (n 52). 
+118 Choo (n 107), 34 f. 
+119 Marttinen v Finland (n 80) [64]. Academics have also raised concerns to what extent ‘use immunity’ could cure potential problems 
+that compulsion powers create in relation to the right not to self-incriminate. Choo concluded that the 
+availability of ‘use immunity’ would protect the privilege against self-incrimination at least to the 
+extent of the immunity granted, but he seems sceptical about whether ‘use immunity’ will dissipate 
+concerns deriving from the actual use of compulsion powers rather than the use of evidence obtain 
+by compulsion: 
+“The availability of ‘use immunity’ to a person would mean (…) that, to 
+the extent to which immunity is guaranteed, the provision of information by 
+him or her can no longer ‘reasonably lead to, or increase the likelihood of, 
+the prosecution of that person for a criminal offence’. Thus the privilege 
+against self-incrimination would, by definition, be protected to that extent. It 
+would be naïve, however, to believe that any concerns generated by legal 
+compulsion  to  provide  potentially  self-incriminatory  information  will 
+dissipate to the extent to which ‘use immunity’ is available to protect the 
+privilege. After all, it might be considered undignified for a person to be 
+compelled, on pain of a criminal sanction, to provide information revealing 
+criminal wrongdoing even though there is no possibility of this being used 
+against him or her in a subsequent trial. Such compulsion might be regarded 
+as objectionable in itself and, as a practical matter, might well produce 
+information that proves to be of indirect assistance to the authorities.”120  
+The discussion above has shown that UWOs might potentially violate the right not to-self incriminate 
+at an investigation stage already, if the Strasbourg Court comes to the conclusion that a respondent 
+to an UWO is charged in the autonomous sense of the expression. The concern raised in this chapter 
+relates to the compulsion itself rather than the use of evidence obtained through it. It is not 
+unreasonable to think that the Strasbourg Court could draw on the parallels to the Funke121 case and 
+conclude that UWOs, independent of the use of the gathered evidence, violate the right not to self-
+incriminate in its very essence.  This violation would not be cured by the availability of a use immunity.  
+Concluding thoughts and recommendations 
+According to the above analysis, there is a reasonable possibility that the European Court of Human 
+Rights could find that UWOs in their investigation stage do violate the right not to self-incriminate 
+because a person affected by such an order could, in certain circumstances, be considered charged 
+with a criminal offence under the autonomous meaning of the expression. It is difficult to predict 
+whether the Court would accept that Parliament has abrogated the right not to self-incriminate to a 
+lawful extent by creating UWOs or whether the available ‘use immunity’ granted is a sufficient 
+safeguard to dissipate concerns in relation to this right. 
+The two main problems of UWOs are the following: firstly, they are issued with a penal warning 
+attached to them, which means that a respondent could face criminal sanctions for a refusal to provide 
+potentially incriminating information and secondly, that because of their design, their scope is broad 
+and seems to overshoot the original target. UWOs should be measures of ultima ratio that step in 
+where orthodox prosecution fails, but they cannot be used as an alternative settlement for high profile 
+money laundering cases.  Otherwise, authorities would grant a de facto immunity to respondents to 
+UWO, which cannot be in the public interest. The following recommendation would limit the scope of 
+                                                           
+120 Choo (n 107), 35. 
+121 Funke v France (n 57). UWOs to more reasonable range and would not only address the issues mentioned in relation to the 
+right not to self-incriminate but bring the legal instrument back in line with its initial rationale. 
+The concerns in relation to the right not to self-incriminate are heightened by the fact that the order, 
+in practice, is issued with a penal warning. It seems that Parliament did not intend such a consequence. 
+According to the statutory provisions, the only consequence for non-compliance to an UWO is that 
+the targeted property is presumed to be recoverable in civil recovery proceedings.122 To extend the 
+consequences for non-compliance does not only seem unnecessary, but it potentially undermines the 
+future success of this innovative legal instrument be creating potentially defeating issues in relation 
+to the right not to self-incriminate. 
+Secondly, UWOs were designed to step in where orthodox prosecution fails, not for mere convenience 
+of enforcement agencies. Their use is justified, for example, where criminal property is in the UK, but 
+the holders are outside of the jurisdiction, potentially in a country with which mutual legal assistance 
+proceedings are doomed to fail because of political of factual reasons. However, the statutory 
+provisions do not include such a caveat. UWOs can be issued if the respondent is in the UK. There is 
+no reason why in these circumstance criminals should not face orthodox prosecution. UWOs should 
+not  have  the  perverted  effect  of  allowing  criminals  to  avoid  criminal  responsibility  simply  by 
+relinquishing property targeted by UWOs. This cannot be within the spirit of this legal tool. The 
+legislator should therefore add as a legal requirement for issuing UWOs that the holder of the targeted 
+property is outside of the jurisdiction of the UK and that mutual legal assistance and extradition will 
+not be successful because of political or factual reasons or that the respondent is not available for 
+prosecution for other reasons.   
+Finally, there seems to be a desperate need for a cultural change in relation to illicitly acquired assets 
+of high net worth individuals that are invested in UK property. What is frankly disturbing in the case 
+of Zamira Hajiyeva is that ten years ago, she was granted a Tier 1 investor visa by the Home Office in 
+return for a seven figure investment in UK bonds and shares.  How is it possible that politically exposed 
+persons with extraordinary wealth are being courted by government in this way? How is it possible 
+that the legal professionals involved in the conveyance of the property, later targeted by an UWO, did 
+not suspect that the funds used were illicit? How is it possible that the bank granting a mortgage to 
+the Hadjiyev’s had no reservations to do so? It seems that draconian measures, such as unexplained 
+wealth orders, would not be necessary if there was a genuine commitment not to allow the UK to 
+become a safe haven for illicit funds.  
+ 
+                                                           
+122 Proceeds of Crime Act 2002, s 362C.  

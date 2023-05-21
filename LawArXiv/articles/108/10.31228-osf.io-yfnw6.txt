@@ -1,0 +1,1560 @@
+THE NECESSITY OF PLEADING ELEMENTS IN
+PRIVATE ANTITRUST  CONSPIRACY CLAIMS
+Max Huffman*
+I.  INTRODUCTION
+The use of private  actions to vindicate public  rights is a perplexing
+difficulty  in  the  enforcement  of laws  relating  to  economic  regulation.
+Private  antitrust enforcement  presents  a  particularly  dramatic  example-
+one that has captivated scholars for decades,  and which remains  a subject
+of vociferous debate.'  The challenge  is an institutional  one.  At bottom,
+private antitrust enforcement presents the danger of incentives misaligned
+*  Counsel, Robbins,  Russell, Englert, Orseck,  Untereiner & Sauber LLP.  Visiting
+Associate Professor, West Virginia University College of Law, Fall 2007.  Beginning Fall
+2008, Associate Professor, Indiana University School of Law-Indianapolis.  This Article
+began as an academic amicus curiae brief supporting the petitioners in Bell Atlantic Corp. v.
+Twombly,  127  S.  Ct. 1955 (2007) (No. 05-1126),  with the financial  support of my then-
+employer, the University of Cincinnati College of Law.  Primary thanks are due to Richard
+R. Huffman for his continuing guidance in life and work. Thanks also to Scott Dodson, Roy
+T. Englert, Jr.,  Patricia V. Galvan, Peter Richman, Letha Schwiesow, D. Daniel Sokol, Suja
+Thomas, and Elizabeth Thornburgh for edits and suggestions.  All errors are my own.
+1. The extent of the appropriate remedy for a private suit is one area of debate.  See,
+e.g.,  HERBERT  HOVENKAMP,  THE  ANTITRUST  ENTERPRISE  (2005);  RICHARD  POSNER,
+ANTITRUST LAW (2d ed.) (2002); Robert H. Lande, Five Myths About Antitrust Damages, 40
+U.S.F. L. REV.  651,  651  (2006) (attacking  the conventional  wisdom that treble damages
+remedies over-deter);  William H. Page, The Scope of Liabilityf or Antitrust Violations, 37
+STAN.  L.  REV.  1445,  1450-52  (1985)  (demonstrating  that  optimal  deterrence  analysis
+supports treble damages liability in conjunction with procedural  limitations on suit).  That
+debate  assumes meritorious claims.  Another difficulty is the danger of non-meritorious
+strike  suits.  See, e.g.,  William H.  Wagener, Note, Modeling the Effect  of One-Way Fee
+Shifting on Discovery Abuse in Private Antitrust Litigation, 78 N.Y.U. L. REV.  1887,  1891-
+93,  1921  (2003).  Cf  Posner, supra, at 275  & n.8  (noting the  "class  action  extortion"
+problem).  On the other hand, commentators have emphasized the importance of the private
+suit in the overall  enforcement scheme.  See generally Steven  C. Salop  & Lawrence  J.
+White, Economic Analysis ofPrivate Antitrust Litigation, 74 GEO. L.J. 1001,  1001 & nn.1-3
+(canvassing authorities).
+627628  U. PA. JOURNAL OF BUSINESS AND EMPLOYMENT LAW [Vol.  10:3
+from  the  rationales  for  antitrust  enforcement.2   The  solution  is  a
+combination  of substantive  and  procedural  refinements  to  realign  the
+incentives.3
+On the substantive side, courts and scholars have long recognized that
+parallel conduct by horizontal  competitors-those  competing  in the same
+geographic  and product  markets  and  at  the  same  level  of the  chain  of
+distribution-does  not  raise  red  flags  about  the  possibility  of  illegal
+concerted action.4  That understanding  underlies decades of Supreme Court
+precedent,  dating back at least to the opinion  of Justice  Clark in  Theatre
+Enterprises, Inc. v.  Paramount Film Distribution Corp.,' and continuing
+through cases  such  as Matsushita Electric Industrial Co. v.  Zenith Radio
+Corp.,6 Brooke Group Ltd. v. Brown &  Williamson Tobacco Corp.,' and
+most recently, Bell Atlantic Corp. v. Twombly.8  According to the Court in
+Matsushita, Sherman  One  requires  a  theory  of the  plaintiffs  case  that
+"tends  to  exclude  the  possibility  that  the  alleged  conspirators  acted
+independently."9  The more recent decisions also recognize another reality
+that has informed antitrust decision-making  since at least the neo-classical
+economic  revolution  in the  field beginning  in the  1960's.  Litigation  in
+general, but especially onerous, complex litigation that characterizes most
+private-plaintiff  suits  under  section  1 of the  Sherman  Act,1°  can be a
+massive  expenditure of productive  resources.  It  is dead-weight  loss that
+cannot be justified if the conduct complained of is most likely innocent.1
+Procedural issues regarding private plaintiffs'  access to courts arise as
+well.  The  well-understood  substantive  principles  regarding  antitrust
+conspiracies are met with equally well-known dictum regarding the method
+2.  See  Max  Huffman, A  Standing Frameworkf or Private ExtraterritorialA ntitrust
+Enforcement, 60 SMU L. REV. 103,  114 (2007) (discussing the self-interest that motivates
+private plaintiffs).
+3. Id. at 113 & n.70 (describing "optimizing" remedies that both deter and compensate
+appropriately).
+4.  See  C.  Brien  Dillon,  Similarity  of  Prices  with  Those  of  Competitors, in
+SOUTHWESTERN  LEGAL FOUNDATION  1958 INSTITUTE ON ANTITRUST LAWS 23, 30-32 (1958)
+(canvassing Supreme Court case law and enforcement authorities' positions and concluding
+conscious parallelism is not sufficient to establish a conspiracy).
+5.  346 U.S. 537 (1954).
+6.  475 U.S. 574 (1986).
+7.  509 U.S. 209 (1993).
+8.  127 S.C t. 1955 (2007).
+9.  475 U.S. at 588.
+10.  15 U.S.C. § 1 (2000 & Supp. V 2005).
+11.  See Richard A. Epstein, Motions to Dismiss in Antitrust Cases:  Separating Fact
+from Fantasy, 3-4 (AEI-Brookings Joint Center for Regulatory Studies, Related Publ'n 06-
+08, 2006).  Of course, if private litigation offers sufficient benefits in the form of deterrence
+or compensation, the twin goals of private antitrust enforcement the loss is justifiable.  See
+Huffman, supra note 2, at 107.  There is reason to be skeptical on that front, however.  See
+infra Part III.A.2008] PRIVATE ANTITRUST CONSPIRACY CLAIMS
+of pleading  cases  in  federal  court.  Justice  Black in  Conley v.  Gibson12
+placed a gloss on Federal Rule of Civil Procedure 8,"3 holding that so long
+as any statement of facts could be proved consistent with the allegations a
+plaintiff made in  its complaint, the complaint  was sufficient to  survive  a
+motion to dismiss.  That rule-itself a staple of Supreme  Court doctrine,
+and reaffirmed  recently  in cases  such as  Leatherman v.  Tarrant County
+Narcotics Intelligence & Coordination Unit4 and Swierkiewicz v. Sorema
+N.A."5-- could,  if  taken  literally,  have  extraordinary  and  far-reaching
+consequences.  A  plaintiff  could  plead  that  "the  sky  is  blue,"  and
+nonetheless be  entitled to discovery,  because it  is possible to prove  facts
+consistent with the sky being blue that would provide a basis for relief.6
+There  is  obvious  tension  between  concerns  for  false  positives  in
+private Sherman One suits and traditional understandings of ease of access
+to  courts  for  private  plaintiffs.  That  tension  presents  certain  neat
+coincidences.  The modern conceptions  of both  schemes,  tracing back to
+Theatre Enterprises and  Conley,  are  both  creatures  of the  last  half-
+century."  Both  schemes  provide  mechanisms-one  procedural,  one
+substantive-meant to  compensate  for injury and deter injurious conduct.
+Both present dangers of abuse that can summon drastic social ills.  But the
+two schemes also dovetail neatly in a demonstration of Sir Henry Maine's
+famous  statement  that  "substantive  law  has  at  first  the  look  of being
+gradually  secreted  in  the  interstices  of  procedure."'"  Together,  they
+12.  355  U.S. 41,  45-46  (1957)  (discussing the burden  of proof on the  movant  in a
+motion to dismiss for failure to state a claim upon which relief may be granted).
+13.  FED. R. Civ. P. 8.
+14.  507 U.S. 163 (1993).
+15.  534 U.S. 506 (2002).
+16.  Cf Geoffrey C. Hazard Jr., From Whom No Secrets Are Hid, 76 TEx. L. REV. 1665,
+1668 (1998)  (noting that "literal compliance with Conley" could consist of nothing more
+than the parties' names and a prayer for relief).  Such a literal interpretation is, of course, a
+reductio ad absurdum of the language the Court employed in Conley. See Conley, 355 U.S.
+41, 45 (stating that a complaint should not be dismissed for failing to state a claim unless it
+appears beyond doubt that the plaintiff can prove no set of facts).
+It also fails to heed the text of Rule 8 and writes out of the rule the power expressly granted
+to federal  trial courts to dismiss plaintiffs'  suits for "failure  to state a claim upon which
+relief can be granted."  FED.  R. Civ. P.  12(b)(6).  On the other hand, Professor Thomas
+argues  carefully  that the  open-door  approach  to pleading  followed  by  the  more liberal
+understanding  of  Conley  is  commanded  by  the  Seventh  Amendment  to  the  U.S.
+Constitution.  See Suja Thomas, Why the Motion to Dismiss is Now Unconstitutional,M  INN.
+L. REV. (forthcoming 2008) (draft at 7, availablea t http://ssm.com/abstract- 1010062).
+17.  Theatre Enterprises, Inc. v. Paramount Film Distribution Corp., 346 U.S. 537, 544
+(1954)  (holding that earlier decrees against defendant for violating antitrust laws had little
+relevancy in present conspiracy action suit against defendant); Conley v. Gibson, 355 U.S.
+41,  47  (1957)  (validating  plaintiffs'  private  cause  of action  against  railroad  union  for
+discriminatory practices).
+18.  SIR HENRY  S.  MAINE,  DISSERTATIONS  ON  EARLY  LAW AND  CUSTOM  389  (John
+Murray, Albemarle Street 1883).630  U. PA. JOURNAL OF BUSINESS AND EMPLOYMENT LAW  [Vol.  10:3
+prescribe the means by which potentially meritorious antitrust litigation can
+proceed to discovery and trial.  The two schemes also permit litigation that
+is  not based on any reasonable  belief of wrongful  conduct to be  stopped
+before excessive waste occurs.
+The  Supreme  Court  in  2007  again  affirmed  the  Rule  8  pleading
+standard and the principles underlying Theatre Enterprisesa nd its progeny.
+In Bell Atlantic Corp. v. Twombly,'9 the Court demonstrated that a middle
+ground exists in which the liberal pleading standard can be reconciled with
+the  conservative  substantive  legal  rule.  Twombly  has been  called  the
+sleeper case  of the 2006 Supreme Court term.20  The reaction to Twombly
+was immediate  and vociferous,  with courts re-evaluating their approaches
+to motions to  dismiss2' and many scholars expressing  their views that the
+Court's interpretation of Rule 8 is an abandonment of the Conley rule.22
+The  interplay  between  Rule  8 and the  requirements  for  proving  a
+conspiracy  under  Sherman  One  came  before  the  federal  courts  in  the
+context  of a  private  antitrust  suit  brought  by  end-user  consumers  that
+alleged  a  conspiracy  among  providers  of  local  telephone  and  internet
+services. 23 The  plaintiffs  argued  that  the  defendants  conspired  both  to
+prevent entry by other competitors  into their respective  service  areas and
+not  to  enter  into  each  others'  service  areas  in  competition  with  one
+another.24  The  result,  according  to  plaintiffs,  was  that  the  petitioners
+maintained  monopolies  in  their  geographic  markets,  causing  injury  to
+consumers."s  The allegations made in Twombly, if proved, would represent
+per se violations of Sherman One, and give rise to treble damages liability
+in a civil suit and jail time and criminal fines in a criminal proceeding.26
+19.  127 S. Ct. 1955 (2007).
+20.  See Michael C. Dorf, The Supreme Court Wreaks Havoc in the Lower Federal
+Courts-Again, FINDLAw,  Aug.  13,  2007,  http://writ.lp.findlaw.com/dorf/20070813.html
+(describing the impact of Twombly in contrast to its relative prior obscurity).
+21.  See, e.g., In re Elevator Antitrust Litig., No. 06-3128-CV, slip op. 8-9 (2d Cir. Sept.
+4,  2007)  (citing  Twombly  in holding  that plaintiffs did not meet  pleading  standard  for
+conspiracy claim).  See also Dorf, supra note 20 (counting 457 cites to Twombly between
+the May 2007 decision date and the August 13 publication date of the column).
+22.  See id.  See also A. Benjamin  Spencer, PlausibilityP  leading, 28-35 (forthcoming
+2008) (on file with author) (criticizing Twombly for being "dramatically inconsistent" with
+the Federal Rules and Conley); Scott Dodson, PleadingS tandards After Bell Atlantic Corp.
+v.  Twombly, 93  VA.  L.  REV.  IN BRIEF  121  (2007);  Gregory  P. Joseph,  Supreme Court
+Rewrites  Pleading  Requirements  (2007),  available  at
+http://www.scotusblog.com/movabletype/archives/Sup%20Ct%20Rewrites%20Pleading%2
+ORules.pdf;  Max  Huffiman,  Casenote: Bell  Atlantic  v.  Twombly,  eCCP  (May  2007),
+available at http://www. globalcompetitionpolicy.org/;  Thomas, supra note 16.
+23.  Twombly, 127 S. Ct. at 1961.
+24.  Id. at 1962.
+25.  Id.
+26.  See  15  U.S.C.  §  1 (2000  &  Supp.  V  2005)  (felony  to  conspire  to  restrain
+commerce);  15 U.S.C. § 15(a) (2000) (treble damages for private plaintiffs).2008] PRIVATE ANTITRUST CONSPIRACY CLAIMS
+The local telephone industry at issue in Twombly has been marked by
+a  complex  history  of  regulated  monopoly  and,  since  1996,  torturous
+attempts at  deregulation.2 The petitioners'  respective  "service  markets"
+' 
+are  the  result  of  historical  accident.  Before  February  8,  1996,  when
+President  Clinton  signed  the  Telecommunications  Act  of  1996,28  the
+monopolies in those markets were protected by state law.29  The patchwork
+of monopoly in local service areas traces itself to another massive antitrust
+suit, that one brought by the Antitrust Division of the U.S. Department of
+Justice  against  the  American  Telephone  and  Telegraph  Company.  The
+parties settled that suit in 1982 with a consent decree, and two years later,
+under Judge  Green's  Modified  Final Judgment,30  AT&T  divested  all  its
+local telephony  assets by spinning off the seven Baby Bells.  A  series of
+mergers  among  the  Baby  Bells  produced  four  remaining  competitors:
+BellSouth  Corporation,  SBC  Communications,  Inc.,  Qwest
+Communications International,  Inc. and Verizon Communications,  Inc., the
+defendants in Twombly.31
+Deregulation in local telephony had the effect of creating two business
+models for firms seeking to provide  local telecom services.  One model is
+that  of  the  traditional  local  telephone  provider-the  incumbent  Baby
+Bells-which  are  commonly  referred  to  as  Incumbent  Local  Exchange
+Carriers  (ILECs).  Prior  to  deregulation,  those  providers  maintained
+exclusive franchises in particular regions under state law.  ILECs own and
+27.  According to economist Robert Crandall of the Brookings Institution, "no industry
+has been as  ill-prepared  to move  from regulated  monopoly  to competition  as the  local
+telephone industry."  Robert W. Crandall, Are We Deregulating Telephone Services? Think
+Again,  BROOKINGS  INSTITUTION,  March  1997,  available  at
+http://www.brookings.edu/papers/1997/03telecommunications-crandall.aspx.  See also Phil
+Weiser, Paradigm Changes in Telecommunications Regulation, 71 U. COLO. L. REv.  819,
+837-41  (2000)  (discussing  the  need  for evolving  regulatory  approaches  in  the  telecom
+industry).
+28.  Telecommunications  Act  of 1996,  Pub.  L.  No.  104-104,  § 101(a),  110  Stat. 56
+(codified in scattered sections of 47 U.S.C.).
+29.  See AT&T Corp. v. Iowa Utilities Board, 525 U.S. 366, 371  (1999) (noting states,
+"typically granted an exclusive franchise in each local service area" until the 1990s).  The
+Court in Twombly colorfully noted that "[t]he  ILECs were bom in this  world" and they
+"doubtless liked the world the way it was."  Twombly, 127 S. Ct. at 1972.
+30.  United States v. American Telephone, 552 F. Supp.  131  (D.D.C. 1982) (divestiture
+ordered to be effective Jan.  1, 1984) (approving consent decree that mandated, inter alia,
+equal access to interconnection facilities).
+31.  See Twombly v. Bell Atlantic Corp., 313 F. Supp. 2d 174 (S.D.N.Y. 2003).  At the
+time suit was filed in Twombly, Bell Atlantic Corp. had not yet merged with Verizon Corp.
+Under another merger that was consummated in December 2006, Bell South Corp. and SBC
+Communications  Inc.  have  now joined  forces  as  AT&T.  See  In  re AT&T  Inc.  and
+BellSouth Corp. Application for Transfer of Control , No. 06-74, Mem. Op. and Order 2-3
+(filed  Mar.  26,  2007),  available  at
+http://fjallfoss.fcc.gov/edocs-public/attachmatch/FCC-06-189A  1. pdf  (approving  the
+proposed AT&T and BellSouth merger).632  U. PA. JOURNAL OF BUSINESS AND EMPLOYMENT LAW  [Vol. 10:3
+provide service using their local networks.32  The other business model is a
+class  of  competitors  known  as  Competitive  Local  Exchange  Carriers
+(CLECs) that seek to serve customers in competition  with the ILECs now
+that the local  markets  have been  opened to competition.  CLECs  usually
+compete by leasing network space  from ILECs at rates prescribed by the
+Telecommunications  Act  of 1996.3'  The  Twombly plaintiffs  alleged that
+but for a  conspiracy  on the  part of the ILEC  defendants,  CLECs  would
+have  entered  into  competition  on a  larger  scale,  and  ILECs  would  have
+entered as CLECs into each others'  territories.  The resulting competition,
+according to plaintiffs, would have produced lower prices for consumers.34
+Alleging a class of all users of local telephone and internet service from the
+passage  of the  Telecommunications  Act  until  the  time  of  filing  suit,
+plaintiffs sought treble damages relief for the alleged harm.35
+The trial court dismissed plaintiffs' complaint.  In doing so, the court
+viewed  the  Rule  8(a)(2)  pleading  standard  through  the  lens  of  the
+substantive  Sherman One cause of action.36  Because  "the Supreme  Court
+has never held that proof of parallel business behavior . . . itself constitutes
+a  Sherman  Act offense,"  the  court noted its responsibility to "distinguish
+between  conduct  that represents  the natural convergence  of competitors'
+market behavior,  and conduct that appears to have been taken pursuant to
+an agreement.,,37  The court then turned to the "plus factor" framework that
+courts  of  appeals  widely  regard  as  defining  the  distinction  between
+innocent  parallel  conduct  and circumstantial  evidence  of conspiracy.  It
+held the plus factors were shorthand for plaintiffs'  responsibility to "assert
+facts that, if true, support the existence of a conspiracy."38
+The district court held the specific allegations  of the complaint were
+insufficient to amount to allegations of a conspiracy.39  While the plaintiffs
+alleged that the defendants'  territorial markets appeared gerrymandered, the
+court observed that was the result of historical accident.  Parallel refusal to
+be hospitable  to entry by CLECs would be in each ILEC's unilateral best
+interest.  Parallel conduct in not entering into competition with one another
+32.  See Iowa Utilities Board, 525 U.S. at 371.
+33.  Id. at 371-72 (citing 47 U.S.C. § 251(c) (1994)).
+34.  Twombly,  313  F.  Supp.  2d  at  177-78  (alleging  that the  conspiracy  forced  the
+plaintiffs "to pay the supracompetitive rates of ILECs rather than the presumably lower rates
+that competition would have fostered").
+35.  Id. at 176.
+36.  Id. at 179-82.
+37.  Id. at 179 (quoting Theatre Enterprises, Inc. v. Paramount Film Distribution Corp.,
+346 U.S. 537, 544 (1954)).
+38.  Id. at  180-82.  On plus  factors generally, see 2 JOSEPH P. BAUER & WILLIAM  H.
+PAGE,  KINTNER'S FEDERAL ANTITRUST LAW § 11.5 (Anderson Publishing Co. 2d ed. 2002).
+Cf. Matsushita  Electric  Industrial  Co. v. Zenith Radio  Corp.,  475  U.S.  574,  588 (1986)
+(holding parallel conduct is insufficient to demonstrate a conspiracy).
+39.  Twombly, 313 F. Supp. 2d at 179.2008] PRIVATE ANTITRUST CONSPIRACY CLAIMS
+was  explainable  by  the  fundamentally  different  nature  of the  CLEC
+business model ("essentially middlemen, buying network time from ILECs
+.. . and  selling  it  for a  profit") from  the  ILEC  business  model.40   One
+specific allegation was of a quote by one defendant's CEO.  The court held
+that the quote must be taken in the context in which it was made.  Viewed
+in context, the quote spoke only to the defendant company's unilateral best
+interest.4'  Finally, the court rejected an allegation that the defendants had
+conspired  because  it was  conclusory.  A  unanimous panel  of the  Second
+Circuit  reversed,  holding  that  the  Conley  standard  commanded  the
+conclusion  that  factual  allegations  that  were  ambiguous  as  to  whether
+conduct  was  legitimate  or illegal  were sufficient  to  survive  a motion  to
+42
+dismiss.
+The Second Circuit applied more formalistically the rule that "a  court
+would  have to conclude that there is  no set of facts  that would  permit a
+plaintiff to demonstrate  that the particular parallelism  was the  product of
+collusion  rather than coincidence.'43  That standard  was easily met by the
+plaintiffs'  complaint  in  Twombly.  It  was  possible,  for  example,  that
+observed parallel conduct in  failing to enter other ILECs'  service  areas as
+CLECs was the result of a market division agreement.  It was possible that
+observed parallel inhospitality to entry by CLECs reflected a conspiracy to
+maintain the oligopoly to which the ILECs had grown accustomed.
+So long as a conspiracy is "among the realm of plausible possibilities"
+from  the  complaint's  allegations-which  clearly  it  was,  and  would  be
+except in the truly marginal circumstance-a court should deny a motion to
+dismiss.44  The court  of appeals  acknowledged  the  Supreme Court's rule
+that to survive summary judgment, a Sherman  One plaintiff must provide
+evidence  "'that  tends  to  exclude  the  possibility'  that  the  alleged
+conspirators acted independently.'45  But it concluded that the Matsushita
+rule applied only at the summary judgment stage of proceedings.
+The  tension  between  the  district  court  and  the  Second  Circuit  in
+Twombly  is  at bottom  a  tension  between  a  pragmatic  and  a  formalistic
+40.  Id.
+41.  Twombly,  313  F. Supp. 2d at  182-88.  Richard  Notebaert, the CEO of Quest, is
+quoted as stating that "competing as a CLEC 'might be a good way to turn a quick dollar but
+that doesn't make it right."' Id. at 184.
+42.  Twombly  v. Bell Atlantic Corp.,  425 F.3d 99,  108  (2d Cir. 2005) (rejecting  the
+argument  "that  antitrust  complaints  merit  a  more  rigorous  pleading  standard,  whether
+because of their typical complexity  and sometimes  amorphous  nature, or because of the
+related  extraordinary  burdens  that  litigation  beyond  the  pleading  stage  may  place  on
+defendants and the courts.").
+43.  Id. at 114.
+44.  Id. at 111.
+45.  Id. at 113-14 (quoting Matsushita Electric Industrial Co. v. Zenith Radio Corp., 475
+U.S. 574, 588 (1986),  which cites Monsanto Co. v. Spray-Rite Serv. Corp., 465 U.S. 752,
+764).634  U. PA. JOURNAL OF BUSINESS AND EMPLOYMENT LAW [Vol.  10:3
+approach  to  pleading.  The  district  court  stated  that  its  holding  "is
+somewhat  in  tension  with  Federal  Rule  of  Civil  Procedure  8, which
+requires  only  a  'short  and  plain  statement  of the  claim,'  and  allows
+plaintiffs to base their complaints on statements of ultimate facts.''46 For its
+part, the Second Circuit recognized:
+that  a  balance  is  being  struck  here,  that  on  one  side  of that
+balance  is  the  sometimes  colossal  expense  of  undergoing
+discovery,  that  such costs themselves  likely lead defendants  to
+pay  plaintiffs  to  settle  what  would  ultimately  be  shown  to  be
+meritless  claims,  that  the  success  of such  meritless  claims
+encourages others to be brought, and that the overall result may
+well be  a  burden  on the  courts  and a  deleterious effect on the
+manner  in  which  and  efficiency  with  which  business  is
+conducted.47
+The Supreme Court reversed the Second Circuit, holding in an opinion
+by Justice Souter that the complaint did not contain enough facts to cross
+the line from  a mere possibility of illegal conspiratorial  activity  into the
+arena  of "plausibility. 4'8  Rather than making  any  effort to  reconcile the
+tension between Rule 8 and the leading case interpreting the rule, Conley,
+and what it concluded was the need to protect defendants against frivolous
+antitrust litigation, the Court simply wrote the heart of Conley out of the
+books.  Perhaps  the most  remarkable  for having been penned by Justice
+Souter,  one of the  Court's more liberal members,  the Court held that the
+famous  "no  state  of  facts"  standard  from  Conley  "after  puzzling  the
+profession for 50 years ...  has earned its retirement. ,41
+This Article undertakes  a positivist justification of the rule announced
+in Twombly.  Part II concentrates on the procedural questions that arise at
+the motion to dismiss stage of litigation.  Federal Rule of Civil Procedure 8
+codifies a standard of pleading under which complaints must both provide
+proper  notice  to  the  defendants-a  universally  accepted  basis  for  the
+pleading requirement-and  show pleaders'  entitlement to relief-a much
+more controversial  proposition.50  The "notice"  requirement  is not terribly
+vigorous.  The  "demonstration"  requirement  is  what  keeps  Rule  8  from
+being an open door.  It also comports with the plain language of Rule 8 and
+the motion to  dismiss construct  of Rule  12(b)(6).51  Rule  8(e)  (formerly
+46.  Twombly, 313 F. Supp. 2d at 180 (internal quotations omitted).
+47.  Twombly, 425 F.3d at 117.
+48.  Bell Atlantic Corp. v. Twombly, 127 S. Ct. 1955, 1965-66 (2007).
+49.  Id. at 1969.
+50.  See, e.g., Christopher M. Fairman, The Myth of Notice Pleading, 45 ARIz. L. REV.
+987 (2003) (arguing that the pleading rules exist to provide notice only).
+51.  See FED. R. Civ. P. 8(a), 12(b)(6).2008] PRIVATE ANTITRUST CONSPIRACY CLAIMS
+8(f))  is also  relevant.  It prescribes,  simply, that district courts  must use
+their discretion to do "justice."52
+Part III examines the implications for the private Sherman One claim
+of the new understanding  of Rule  8.  Viewing  the pleading  requirement
+through  the  lens  of  the  governing  substantive  law,  in  order  to  plead
+Sherman  One  properly  a  plaintiffs  factual  allegations  must  create  an
+inference of a conspiracy.  To survive a motion to dismiss, a plaintiff must
+plead plus factors, which are facts "tending to exclude the possibility"53 that
+each  defendant  acted  in its unilateral  best  interest.  Couching plaintiffs'
+pleading  responsibility  in this manner makes clear that  the Twombly  rule
+does not apply uniquely to Sherman One litigation.  It is trans-substantive.
+It is the substantively complex nature of the Sherman One claim that gives
+rise to any particular difficulties for private litigants.54  Part II continues to
+consider anecdotes of pleading practice in the Sherman One context in the
+lower courts since Twombly.
+II.  THE FEDERAL PLEADING AND DISMISSAL SCHEME
+Rule  8  controls  the  sufficiency  of plaintiffs'  statement  of claims.55
+Together with Rule 12(b)(6),  it provides a mechanism for courts to dismiss
+claims.56   The  rules  require  courts  to  construe  pleadings  "so  as  to  do
+justice."57   The  standards  exist  to  accomplish  two  primary  ends.  They
+mitigate the concern that a defendant-much  like Kafka's character Josef
+K.-might be subjected to defending against suit without knowing what it
+did  that  gave  rise  to  the  claims. 8  More  controversially,  Rules  8  and
+12(b)(6) give district courts means to dismiss suits that are not justifiable in
+light of the governing substantive legal scheme.59
+52.  See FED. R. Civ. P. 8(e) (as amended 2007).
+53.  Twombly, 127 S.Ct. at 1964.
+54.  See A. Benjamin Spencer, PlausibilityP  leading (Washington & Lee Legal Studies
+Paper No. 2007-17, 26-27, 2007) available at http://papers.ssm.com/abstractid=1003874
+(arguing that the substantive requirements for a Sherman One claim make pleading Sherman
+One more difficult than other civil claims); see also Dodson, supra note 22, at 124 (noting
+that "several courts have already interpreted [Twombly] beyond antitrust").
+55.  FED. R. Civ. P.  8(a) (listing  the requirements  for a pleading  stating  a claim  for
+relief).
+56.  FED. R. Civ. P. 12(b)(6)  (allowing dismissal  for a "failure  to state a claim  upon
+which relief can be granted").
+57.  FED. R. Civ. P. 8(e).
+58.  Cf FRANZ  KAFKA,  THE  TRIAL  (Breon  Mitchell  trans.,  Schocken  Books  1998)
+(1925).
+59.  See, e.g.,  Richard L.  Marcus,  The Revival of Fact Pleading Under the Federal
+Rules, 86 COLUM. L. REV. 433, 436 (1986)  (arguing the purpose of pleading should be to
+better enable courts to decide cases on the merits); see also Allan Ides, Bell Atlantic and the
+Principle of Substantive Sufficiency  Under Federal Rule of Civil Procedure 8(a)(2):
+Toward a Structured Approach to Federal Pleading Practice, 243 F.R.D. 604, 607 (2007)636  U. PA. JOURNAL OF BUSINESS AND EMPLOYMENT LAW  [Vol.  10:3
+A.  The Relevant FederalR  ules
+The Federal Rules are to be interpreted like federal  statutes, according
+to  plain  language  principles  of  interpretation.  The  Supreme  Court
+unanimously  held in Leatherman that Rule 8 "meant what it said.",60  The
+rules, then, are not subject to amendment by judicial interpretation.61  The
+plain  language  of Rule  8  and  Rule  12  provide  substantial  ammunition
+supporting the  Court's decision  in Twombly  strictly to curtail the  Conley
+rule.
+The preeminent  treatise on federal  procedure  notes that the broadest
+interpretation of the Conley dictum (the "sky is blue" allegations) cannot be
+the  rule.62  Professor  Miller notes that  "a  bare averment  that the pleader
+wants  compensation  and  is  entitled  to  it"  is  insufficient.63   That
+understanding of Rule 8 respects the requirement  contained in the rule that
+a  plaintiff make  "a  short  and plain  statement  of the  claim  showing  the
+pleader is entitled to relief."6"  Despite Conley, the Supreme Court held in
+2005-its most recent prior analysis of the Rule 8 standard-that a plaintiff
+must allege facts making out each element of its claim.
+In Dura Pharmaceuticals,I nc. v. Broudo,65 the Court considered the
+standards for pleading a private plaintiff claim for a violation of the federal
+securities  laws.  The substantive  claim at issue in Dura was a violation of
+section  10(b) of the Securities Exchange Act of 1934 and SEC Rule lOb-5.
+The  claim  required  proof  of  six  elements,  one  of  which  is  "loss
+causation.  66  Loss  causation  is  the  existence  of a proximate  causal  link
+(discussing  three  rules  governing  pleading  under Rule  8 including  notice,  ensuring  the
+viability  of the  claim,  and  the  requirement  that  the  claim  be  premised  on  a  "factual
+transaction and not simply on an abstract invocation of the law").  Of course, the rules are
+not written on a blank slate.  The Federal Rules operate against a constitutional backdrop.  It
+is possible the Constitution has more stringent standards than does the text of Rules 8 and 12
+for permitting plaintiffs to have access to federal court.  See Thomas, supra note 16, at 6-7
+(arguing "the Supreme Court was wrong to state that Congress and the rule-makers could
+impose essentially limitless requirements upon plaintiffs at the pleading stage").
+60.  Leatherman  v. Tarrant County  Narcotics  Intelligence  & Coordination  Unit, 507
+U.S. 163, 168 (1993).
+61.  See id.; see also Pavelic & LeFlore v. Marvel Entertainment Group, 493 U.S.  120,
+123  (1989)  ("We  give  the  Federal  Rules of Civil  Procedure  their  plain  meaning,  and
+generally with them as with a statute, when we find the terms unambiguous, judicial inquiry
+is complete .... (internal quotations and citations omitted)).
+62.  CHARLES A.  WRIGHT & ARTHUR R. MILLER,  FEDERAL PRACTICE & PROCEDURE  §
+1216, 235-36 (3d ed. 2004) (interpreting Rule 8(a)).
+63.  Id.
+64.  FED. R. Civ. P. 8(a)(2); see Brownlee v. Conine, 957 F.2d 353, 354 (7th Cir. 1992)
+(holding that facts alleged must "outline or adumbrate" a claim).
+65.  Dura Pharmaceuticals, Inc. v. Broudo, 544 U.S. 336 (2005).
+66.  Id. at 341 (citing 15 U.S.C. § 78j(b) and 17 C.F.R. § 240.1Ob-5).2008] PRIVATE ANTITRUST CONSPIRACY CLAIMS
+between  a material  misrepresentation  and the plaintiffs  loss.67  Although
+the  Private  Securities  Litigation  Reform  Act governs  claims  under  Rule
+1Ob-5  and imposes  a heightened pleading  standard on those claims, 68 the
+Court  "assume[d],  at least  for argument's sake,  that neither  the Rules nor
+the securities statutes  impose any special further requirement  in respect to
+the pleading  of proximate causation or economic  lOSS.,'69  In Dura, Rule  8
+and  Conley governed  the pleading  issue.  The Court  held that the notice
+requirement  from Conley was not satisfied  because the complaint did not
+contain  allegations  going to  an essential  element-one  that  the  plaintiff
+would be required to prove at trial--of the plaintiffs claim.7°
+It  is  interesting  that,  after  the  Court's  unanimous  statements  in
+Leatherman and  Swierkiewicz that  Rule  8 is  subject  to  plain-language
+interpretation, the Dura Court relied for its holding on a judicial gloss from
+Conley.7  In Dura, Rule 8's textual requirement that the plaintiff "show[]
+entitle[ment] to relief' would have been a sufficient basis for the holding.
+By  contrast,  Dura is  harder  to justify  based  on a  lack  of notice.  The
+"notice" goals Conley grafted onto Rule 8 were met in Dura7.2
+The Second Circuit in  Twombly gave Dura only passing mention.  It
+preferred the Court's 2002 decision in Swierkiewicz v. Sorema N.A.73 which
+held that a plaintiff need not plead around a burden-shifting framework for
+a Title  VII claim.  The Title  VII complaint at issue in  Swierkiewicz was
+sufficient even  if the plaintiff did  not plead a lack of non-discriminatory
+reasons for its disparate treatment.74
+In one  sense,  the  Title  VII  claim  in Swierkiewicz makes  a  facially
+attractive  analogy  to the  Sherman  One suit.  In a  suit under Title  VII, a
+plaintiff can  claim  he  or  she  was  treated  differently  than  was  another
+employee,  who is not a member of a protected  class.  The employer then
+has the burden to demonstrate a legitimate,  non-discriminatory reason for
+the disparate treatment.  Only if the employer  does  so  must the plaintiff
+67.  Id. at 341.
+68.  See Tellabs, Inc.  v. Makor Issues & Rights, Ltd.,  127  S. Ct. 2499, 2508  (2007)
+(citing 15 U.S.C. § 78u-4(b)).
+69.  Dura, 544 U.S. at 346.
+70.  Id. at 346.
+71.  See FED.  R. Civ. P.  8(a)(2)  (plaintiff must make a  "showing  that the pleader is
+entitled to relief').  Commentators, too, have preferred Conley's gloss to the text of Rule 8.
+See Fairman, supra note  50, at 988 (citing Rule  8(a) for the proposition  that a complaint
+need only put the defendant on notice).
+72.  It is unclear how the failure to plead "loss causation" creates a notice problem for a
+lob-5 defendant.  That element has nothing to do with the conduct of the defendant and
+everything  to do with the circumstances  of the plaintiff.  Cf Ides, supra note 59, at 612
+(notice has nothing to do with the requirement of substantive sufficiency of a complaint).
+73.  Swierkiewicz v. Sorema N.A.,  534 U.S. 506 (2002).
+74.  Id. at 511-12 (interpreting  Title VII of the Civil Rights Act of 1964, 42 U.S.C.  §
+2000e (1994  & Supp. V 1999)).638  U. PA. JOURNAL OF BUSINESS AND EMPLOYMENT LAW [Vol.  10:3
+bring  evidence  to  demonstrate  that  justification  is  pretextual.75  The
+conspiracy claim under Sherman One is analogous.  A plaintiff must prove
+sufficient facts giving rise to an inference of conspiracy, and the defendants
+can rebut those facts with a non-conspiratorial justification for the conduct
+alleged.  If the defendants do so, presumably-like the Title VII plaintiff-
+the Sherman One plaintiff would argue the justification is pretextual.
+Viewed  more  pragmatically,  the  Sherman  One  conspiracy  claim  is
+dramatically  different  from  Swierkiewicz7. 6   The  Title  VII-type  burden
+shifting  analysis  has  no  place  in  the  context  of  Sherman  One.  The
+plaintiff's affirmative case includes the requirement that the plaintiff plead
+and prove that the conduct alleged was the product of a conspiracy.  That
+requirement  exists  whether  or  not  the  defendant  provides  an  alternate
+explanation.  The distinction is made clearer by noting Justice  Thomas's
+admonition  in Swierkiewicz that "the McDonnell Douglas framework does
+not apply  in every  employment discrimination  case."77  That is much in
+contrast  to  the  Sherman  One standard.  The requirement  that a  plaintiff
+plead and prove that conduct was the result of a conspiracy is immutable.
+The  reason  Swierkiewicz  does  little  to  inform  the  Sherman  One
+standard is perhaps best understood as a policy distinction underlying the
+respective  substantive  legal rules  of Title VII  and Sherman  One.  As  in
+Conley,  itself  an  employment-rights  case,  McDonnell  Douglas  and
+Swierkiewicz reflect a policy decision favoring workers in protected classes
+by presuming discrimination from a showing of disparate treatment.  The
+antitrust rules  do  not presume  a  conspiracy  from  allegations  of parallel
+conduct.  They presume  legitimate business justifications exist  for firms'
+conduct.7"
+It  is easy to be  misled by the  language  the  Supreme  Court used in
+Conley to  gloss the  Rule  8  standard.  Under the  "sky  is blue"  pleading
+theory, so long as a plaintiff s complaint did not affirmatively demonstrate
+the lack of entitlement  to relief, the motion  to dismiss would be denied.
+Another dean of federal civil procedure, Professor Hazard, stated that view
+75.  See McDonnell Douglas Corp. v. Green, 411 U.S. 792, 802-03 (1973).
+76.  But see Bell Atlantic Corp. v. Twombly, 127 S. Ct. 1955,  1982 (2007) (Stevens, J.,
+dissenting); Dodson, supra note 22, at 127-28; Spencer, supra note 54, at 42-43.
+77.  Swierkiewicz, 534 U.S. at 511.
+78.  Cf Epstein, supra note 11,  at 3-4 (noting the danger of drawing negative inferences
+from neutral conduct); Twombly, 127 S. Ct. at 1964.  Commentators who consider Twombly
+in tension with Swierkiewicz do not address this distinction.  See Dodson, supra note 22, at
+127-28.  This distinction prevents reconciling the apparent tension between  Twombly and
+the Sherman One claim on the one hand, and Swierkiewicz and the Title VII claim on the
+other, by either reinterpreting Sherman One to involve burden shifting or reinterpreting Title
+VII to include the lack of a non-discriminatory reason for the employment decision as an
+element of the plaintiff's affirmative case.  The first would improperly increase the risk of
+false positives (see infra Part III) while the second would undermine the Title VII claim.2008] PRIVATE ANTITRUST CONSPIRACY CLAIMS
+this way:  "Literal  compliance with Conley v.  Gibson could consist simply
+of giving  the  names  of the  plaintiff and  the  defendant,  and  asking  for
+judgment."79
+Surely Conley did not announce such a non-standard.  If it did, it was
+dictum, as the complaint in Conley easily satisfies even the more stringent
+standard  the Court recognized in Dura and Twombly.8°  More importantly
+for the  purposes  of this  Article,  Dura and  Twombly  clearly  require  the
+pleading of elements of a claim.  The elements are the "showing"  that the
+plaintiff is "entitled to relief."'"
+Looking  beyond  the plain  text  of Rule  8 (and  beyond  the  glosses
+imposed by courts following Conley), commentary by Judge Charles Clark,
+the  "architect"  of the  federal  rules,  and  his  contemporaries  supports
+interpreting Rule  8 to require plaintiffs  to plead elements.  The thrust  of
+Rule 8, to Judge Clark, was the avoidance of detail  in pleadings-not the
+elimination of a requirement that the plaintiff "state a claim."82  According
+to New Jersey Supreme  Court Justice Arthur T. Vanderbilt, analyzing  the
+Federal Civil Rules,
+the objective of reaching an issue of law or of fact in two or at the
+most  three  simple  pleadings  has  been  attained  but  not  at the
+sacrifice of stating the elements of a claim or defense  ....  The
+grand  objective  of the  movement  for  simplified  procedure  by
+rules of court is the elimination of the interminable prolixity and
+absurd  technicalities  of special  pleading-not  by  abandoning
+stating the essentials of a cause of action or of a defense, but by
+doing so in 'simple, concise and direct'  terms.83
+Others noted the importance  of following the text of Rules 8 and 12.
+"A claim for which relief can be granted is a claim which is cognizable  in
+law.,84  Another commentator decried interpretations  of Rule 8(a)(2)  that
+79.  Geoffrey C. Hazard, supra note 16, at 1685.
+80.  See Conley v. Gibson,  355 U.S. 41,  42-43  (1957)  (paraphrasing  the complaint).
+Any  realistic appreciation  of Conley must acknowledge  Justice  Black's frustration with
+shenanigans by unions in avoiding their Railway Labor Act obligations to represent black
+members  fairly.  The opinion  begins, "Once  again [black] employees  are here  under the
+Railway Labor Act asking that their collective bargaining agent be compelled to represent
+them  fairly.  In a  series of cases  . . . this  Court has repeatedly  ruled that an exclusive
+bargaining agent under the Railway Labor Act is obligated to represent all employees in the
+bargaining unit fairly and without discrimination on the basis of race ....  Id. at 42.
+81.  Rule 12(b)(6) provides further support for the plain-language interpretation of Rule
+8(a).  If the broadest understanding of the Conley gloss were law, it would write out of the
+federal rules the power to dismiss cases which Rule 12(b)(6) expressly grants.
+82.  Charles E. Clark, Special Pleadingi n the "Big Case ", 21 F.R.D. 45, 52 (1957).
+83.  Statement of Judge  Hall, in  Claim or Cause of Action,  13  F.R.D.  253,  264-65
+(1952)  (quoting a letter from Judge Vanderbilt).
+84.  Statement of Judge  Mathes,  in Claim or Cause of Action,  13  F.R.D.  253,  265
+(1952).640  U. PA. JOURNAL OF BUSINESS AND EMPLOYMENT LAW  [Vol.  10:3
+emphasized  liberal  pleading  at the  expense  of the  plain language  of the
+rule.  "Those words 'showing  that the pleader is entitled to relief  seem to
+have been read out of the Rule ....85
+86
+B.  Application to "The Big Case"
+Even advocates  of liberal pleading  practice  emphasize  the necessity
+that  a  complaint  put  the  defendant  on  notice  of the  claims  against  it.
+Indeed,  "notice"  is the  preferred justification  for the  pleading  standard.
+Professor Fairman favors a less stringent pleading standard, but nonetheless
+recognizes that the notice requirement is what precludes a plaintiff's resort
+to  alleging  legal  conclusions,  rather  than  facts  supporting  the  claims.
+"Legal  conclusions do not comport  with  a  notice standard."87  Professor
+Ides  advances  another justification  for the  prohibition  of pleading  legal
+conclusions.  He argues that "the complaint must place the claims asserted
+within the  context  of a  factual  narrative.""s  Ides derives  his  view  from
+some combination of Rule 8's requirement of a "showing" of entitlement to
+relief and the Article III "case  or controversy"  requirement  for a claim in
+federal court.89
+If one looks only to "Form 9," the model form in the Federal Rules for
+a  complaint  alleging  negligence,90  it  might  appear  that  conclusory
+allegations are always permitted. 9' Form 9 establishes as a matter of law
+that a complaint  alleging the defendant  "negligently  drove"  is  sufficient.
+Alleging "negligence"  is certainly alleging a legal conclusion.92  Form 9 is
+not terribly informative as to the problem of pleading "the big case" such as
+a  Sherman  One  conspiracy.  "Negligently  drove"  describes  a  narrow,
+generally agreed-upon set of circumstances.  The allegation provides notice
+to the party who is alleged to have negligently driven what generally, if not
+85.  Statement of Moses Laskey, in Claim or Cause of Action,  13  F.R.D. 253, 268-69
+(1952).
+86.  Judge Clark's term.  Clark, supra note 82,  at 45.  Judge Clark believed the rules
+applied equally in the context of massive complex litigation, including antitrust claims.  Id.
+at 52.  See also Mark C. Weber, The FederalC  ivil Rules Amendments of 1993 and Complex
+Litigation: A Comment on Transsubstantivity and Special Rules for Large and Small Cases,
+14 REV.  LITIG. 113,  113  (1994).  But see Epstein, supra note  11,  at  1-3 (noting that the
+Federal Rules were never meant to deal with complex cases).
+87.  Fairman, supra note 50, at 999.
+88.  Ides, supra note 59, at 608.
+89.  Id. at 607.
+90.  See FED. R. Civ. P. 84, Form 9.  Form 9 is as a matter of law a sufficient complaint
+in negligence.  It is notable for its brevity.
+91.  Id.  See Dodson, supra note 22, at 127 (arguing Form 9 demonstrates conclusory
+allegations are necessarily sufficient);  Spencer, Plausibility Pleading, supra note 54, at 38
+(citing other examples of legal conclusions in the form complaints).
+92.  See id.2008] PRIVATE ANTITRUST CONSPIRACY CLAIMS
+what exactly, he or she is supposed to have done wrong.93  "Conspiracy,"  as
+is demonstrated in some depth within, at least under the antitrust laws, is a
+slippery concept.94
+Judge  Clark would have  agreed that some  line exists beyond  which
+allegations  are too conclusory  to be sufficient.  He considered  it "settled"
+that  "the  pleader  shows  the  facts  and  the  court  applies  the  legal
+conclusion."95
+The notice requirement distinguished Twombly from Swierkiewicz and
+Conley.  In both  of those cases, the  defendants  knew  exactly  what they
+supposedly  had done wrong.  The complaints  alleged plaintiffs  had been
+treated  differently  based  on  national  origin  and  race,  respectively.  An
+additional  allegation  that  there  was  no  race  or  national-origin  neutral
+justification for the defendant's conduct would not improve the defendants'
+understanding of what they did to aggrieve the plaintiffs.
+The  Sherman  One  claim  is  different.  Allegations  that a  defendant
+"conspired"  does  not tell the defendant  what conduct,  from the  limitless
+possible  things  corporations  (acting  through their  agents)  do, constituted
+the conspiracy.  That is especially so in view of the imperfect  and much-
+debated definition of a Sherman One conspiracy.96  Answering a complaint
+and preparing a defense would require an internal investigation that would
+mirror  the  discovery  process  in  litigation.97   Even  that  would  not
+necessarily inform the defendant what conduct the plaintiff would seize on
+to  support its claim.  If notice concerns  could justify the  result in Dura,
+where  the unpleaded element  was a causal connection  between the  fraud
+and harm to the plaintiff-a subsidiary element in the  1O b-5  claim-they
+are all the more pressing where the unpleaded element is the crux of what
+the plaintiff is supposed to have done wrong.
+The notice  concerns  take  on  special  significance  in the  context  of
+massive  commercial  tort  cases.  The  onerous  nature  of discovery  gives
+plaintiffs "an in terrorem increment of the settlement value."98  Blue Chip
+Stamps v.  Manor Drug Stores and Dura are  securities  fraud  cases,  but
+93.  See Ides, supra note 59, at 611-12 (range of conduct giving rise to "negligence" is
+sufficiently small).  But see Spencer, supra note 54, at 38 (arguing "reckless" in Form  10 is
+indefinite).
+94.  See Ides, supra note 59, at 610 (although what constitutes "notice"  does not vary
+with  different  kinds of claims,  what kind  of pleading  is required to  give  that notice  is
+variable;  Form 9 does not inform the manner of pleading more complex claims); see also
+infra Part II1. It is not outstanding to note that the distinction between conclusory "factual"
+allegations,  which the forms  approve, and  conclusory  legal  allegations,  which  Twombly
+reiterates are insufficient, is an arbitrary one.  Gray areas will exist.  However, "conspiracy"
+and "agreement" under the antitrust laws is not within the gray areas.
+95.  Clark, supra note 82, at 52.
+96.  See infra Part Ill.
+97.  Cf Bell Atlantic Corp. v. Twombly, 127 S. Ct. 1955, 1970 n.10 (2007).
+98.  Blue Chip Stamps v. Manor Drug Stores, 421 U.S. 723, 741 (1975).642  U. PA. JOURNAL OF BUSINESS AND EMPLOYMENT LAW  [Vol. 10:3
+twice  the  Supreme Court  has  expressed the  same concern  for settlement
+leverage in the context of private antitrust litigation.  In Associated General
+Contractorso  f California,I nc. v. California State Council of Carpenters9,9
+the Court noted that a district court retains discretion "to insist upon some
+specificity  in  pleading  before  allowing  a  potentially  massive  factual
+controversy  to  proceed."'00   The  same  is  true in  Twombly.  Courts and
+commentators note "the costs of modem federal antitrust litigation"'0' and
+the  concerns,  which  private  antitrust  litigation  presents  in  spades,  of
+"asymmetric discovery costs.''102
+One  response  is  that  district  courts  can  use  their powers  over  the
+discovery process to rein in those costs  and abuses.  The  Twombly  Court
+believed that response is too facile.03  Judge  Easterbrook has argued that
+for a host of reasons, control of discovery by district judges is a marginally
+effective protection against abuses.  If discovery is used to find the details
+of the  claim  because the  complaint  is  sketchy,  limiting  areas  of inquiry
+based on the contours  of the cause of action is impossible.  It is also not
+effective to confine areas of inquiry based on the likelihood of it producing
+fruit;  judges  have  no  way  to  know  what  the  files  of the  recipient  of
+discovery  contain.  Only  truly  ridiculous  requests  will  be  possible  to
+contain."  Another problem with relying  on district judges  to use  their
+inherent powers to rein in discovery costs is "the increasing caseload of the
+federal courts."'05  Even if judges were equipped to do it, close monitoring
+of years of pre-trial activities would bring the system to a halt.06
+A more robust response  is that the very circumstances giving rise to
+asymmetric  discovery  costs  inure  to  defendants'  benefit  as  well.
+Asymmetric  discovery costs will exist in circumstances where information
+99.  459 U.S. 519 (1983).
+100.  Id. at 528 n.17.
+101.  Car Carriers, Inc. v. Ford Motor Co., 745 F.2d 1101,  1106 (7th Cir. 1984).
+102.  Asymmetric costs incentivize abusive discovery requests by one party, because the
+other party has no way to retaliate with its own onerous requests.  See Frank Easterbrook,
+Discovery as Abuse, 69 B.U. L. REv. 635,  637, 643 (1989);  William H. Wagener, Note,
+Modeling the Effect of One-Way Fee Shifting on Discovery Abuse  in Private Antitrust
+Litigation, 78 N.Y.U. L. REv. 1887, 1902-03 (2003).
+103.  Bell Atlantic Corp. v. Twombly, 127 S. Ct. 1955, 1967 n.6 (2007).
+104.  Easterbrook,  supra  note  102,  at  638-39.  The  Twombly  Court  agreed.
+"[D]etermining  whether some illegal agreement may have taken place between unspecified
+persons  at  different  ILECs  (each  a  multibillion  dollar  corporation  with  legions  of
+management level employees)  at some point over seven years is a sprawling, costly, and
+hugely time-consuming  undertaking not easily susceptible to the kind of line drawing and
+case management that the dissent envisions."  Twombly, 127 S. Ct. at 1967 n.6.
+105.  Car Carriers,7 45 F.2d at 1106.
+106.  But see Suja Thomas,  Why Summary Judgment Is  Unconstitutional, VA. L. REV.
+(forthcoming  2008)  (on  file  with  author)  (arguing  the  concern  for  expensive  pretrial
+litigation is overblown).2008] PRIVATE ANTITRUST CONSPIRACY CLAIMS
+asymmetries  are present as  well.'17  If it  is  more  expensive  to defend  a
+private antitrust suit than it is to prosecute one, it is commensurately  more
+difficult for a private antitrust plaintiff to learn what happened in  order to
+draft  its  complaint,  or  to  structure  a  document  request  or  a  deposition
+notice.  This  information  asymmetry  favoring  defendants  encourages  a
+liberal pleading standard.
+Three  reasons-two  primarily  theoretical,  one  doctrinal-show
+otherwise.  Noted  commentators  including  Judge  Bork  and  Professor
+Epstein have shown that error in antitrust litigation should be on the side of
+false negatives  rather than  false positives,  because the  market  is able  to
+correct  for  a  failure  to  regulate  but  not  for  the  loss  caused  by  over-
+regulation.0 8 That concern is greater in the context of private litigation than
+in the  context  of government  enforcement  because  of the  concerns  for
+misaligned  incentives.  Also, Sherman  One  claims,  more  so than  claims
+under other legal schemes that are better understood (like the auto accident
+in  Form  9),  raise  the  concern  that  plaintiffs  are  not  able  to  exercise
+judgment  about  the  likelihood  that  observed  actions  result  from  illegal
+conduct.'09  They are therefore  more likely to sue over innocent  conduct,
+exacerbating  the  false  positive  concern.  Finally,  the  doctrine  supports
+stringent  review  of  pleadings  in  large  civil  litigation  to  better  align
+settlements and liability with actual bad conduct."0
+Twombly, involving  a purported class of all users  of local telephone
+and  Internet  services  against  all  of the  Baby Bells, may  have boasted  a
+nuisance  settlement  value exceeding  $10  million.  Given  the potentially
+crippling  liability  the  defendants  faced,  plaintiffs  would  have  massive
+leverage in negotiations.  The concern that underlies Blue Chip Stamps and
+107.  Thanks especially to Scott Dodson for demonstrating this point to me.
+108.  Epstein, supra note 11, at 4; ROBERT BoRK, THE ANTITRUST PARADOX 117 (rev. ed.
+1993).
+109.  Empirical  evidence  supports  the  proposition  that  lay jurors  are  more  likely  to
+believe conduct  is the result of an  antitrust  conspiracy  than  is consistent with  a robust
+understanding of business conduct.  See Barbara S. Swain, Presentation at the ABA Section
+of Antitrust Law, 55th Annual Spring Meeting:  We All Had the Same Idea:  How a Jury
+Considers Claims Under the Monsanto Standard (Apr. 18,  2007) (paper and slides on file
+with author).  Analysis should be done of the relevance of that research to understanding
+decision-making by plaintiffs and the impact of that evidence on pleading private antitrust
+claims.
+110.  See, e.g.,  Associated Gen. Contractors v. California  State Council of Carpenters,
+459 U.S. 519, 528 n.17 (1983).  Built into the doctrinal view is the understanding that a
+plaintiff that does not know of illegal conduct has no right to conduct a fishing expedition in
+an attempt to find it. See DM Research, Inc. v. College of Am. Pathologists,  170 F.3d 53,
+56 (1st Cir.  1999).  Cf Brian  Fitzsimmons, Note,  The Injustice of Notice & Heightened
+Pleading Standardsf or Antitrust Conspiracy Claims:  It is Time to Balance the Scale for
+Plaintiffs, Defendants and Society, 39 RUTGERS L.J. (forthcoming 2008) (draft at 2, on file
+with author) (arguing that a balance should be struck between denying plaintiffs access to
+needed facts and preventing the harm to defendants from discovery in meritless cases).644  U. PA. JOURNAL OF BUSINESS AND EMPLOYMENT LAW  [Vol.  10:3
+Associated General Contractorsi s that settlements are made with no regard
+to defendants'  actual liability.  That danger was presented in Twombly."'
+"The  Big Case,"  a  term coined  by Judge Clark  requires  a  "critical
+assessment of the costs and benefits of stopping litigation at the pleading
+stage relative to those of going forward with discovery."'12  That was what
+the  Supreme  Court  meant  in Associated General Contractors, when  it
+recommended that district courts "insist upon some specificity in pleading"
+in large private antitrust cases.' 13
+According  to  Federal  Rule  of Civil Procedure  8(e),  "[a]ll  pleadings
+shall be so construed as to do substantial justice."  That injunction is an odd
+one.  District courts are required (they do not have discretion) to use their
+discretion.  The Rule  8(e)  injunction  is  also result  oriented,  not process
+oriented.  It  insists that substantial justice be accomplished  and does  not
+limit a court's choices as to how to achieve it1.14
+Former  Rule  8(f)  tends  to be  applied  to  resuscitate  a complaint  to
+protect a plaintiffs cause of action.'  In Swierkiewicz, the  Court quoted
+Rule  8(f)  in passing  while  emphasizing  the  simplicity  of the  Rule  8(a)
+notice pleading standard.  In Conley, the Court used Rule 8(f) for the same
+purpose.16  Neither Court discussed the rule  in greater detail  or found it
+necessary  to  invoke  it  to  hold  the  complaints  met  the  notice  standard.
+Certainly,  there  is  nothing  about  former  Rule  8(f)  that  prevents  its
+application as recommended here.  Judge Keeton did so in Cash Energy v.
+111.  "The same rules of discovery that generate one or two days worth of litigation in
+simple contract disputes" can take "years if not decades"  in the case of massive class action
+litigation against national companies like the Twombly defendants.  Epstein, supra note 11,
+at 6.  Cf Paul J. Stancil, Atomism and the PrivateM  erger Challenge, 78 TEMP. L. REV. 949,
+996-99 (2005)  (describing the  "staggering"  expense of defending against private antitrust
+suits in the merger context).  Indeed, the Supreme Court was convinced.
+That  potential  expense  is  obvious  enough  in  the  present  case:  plaintiffs
+represent  a putative  class  of at  least  90 percent  of all  subscribers  to  local
+telephone or high-speed Internet service in the continental United States, in an
+action  against  America's  largest  telecommunications  firms  (with  many
+thousands of employees generating reams and gigabytes of business records) for
+unspecified (if any) instances of antitrust violations that allegedly occurred over
+a period of seven years.
+Bell Atlantic Corp. v. Twombly, 127 S.C t. 1955, 1967 (2007); Epstein, supra note 11,  at 6.
+112.  Epstein, supra note 11, at 12.
+113.  Associated General Contractors,4 59 U.S. at 528 n.17.
+114.  Courts and defendants can also hang their hats on Federal Rule of Civil Procedure
+1, which requires that the rules "be construed and administered to secure the just, speedy,
+and inexpensive determination of every action and proceeding."
+115.  Swierkiewicz v. Sorema N.A.,  534 U.S. 506, 513-14 (2002); Conley v. Gibson, 355
+U.S. 41, 47 (1957).
+116.  Of  course,  Conley  can  only  be  understood  by  reference  to  the  particular
+circumstances of that litigation. See supra note 80.2008] PRIVATE ANTITRUST CONSPIRACY CLAIMS
+Weiner,"'  a case  involving common-law  fraud claims  in  the context of a
+supposed  violation of the Superfund statute.  According  to Judge  Keeton,
+"'substantial  justice,'  may  be  read  as  requiring  judges to  exercise  some
+degree  of discretion  rather  than  invariably  applying  the  general  rule  of
+notice pleading.""'8  The Twombly Court's rejection of the Conley gloss in
+the  context  of the  massive  litigation  at  issue  is  reminiscent  of Judge
+Keeton's wisdom in applying Rule 8(f),  although the Supreme Court failed
+to invoke the rule."19
+III.  THE SUBSTANTIVE LAW OF SHERMAN ONE
+Twombly  does  not  state  a  new  way  to  understand  pleading
+procedure.2°  It  is  an application  of the plain language  of Rule  8 to the
+complex  substantive  law  of antitrust conspiracies.  At a  minimum,  that
+means  that  the  Twombly  rule  is  trans-substantive.  The  prolixity  of a
+complaint  will  depend on the  complexity  of the  substantive  rule  of law
+being applied.'2
+A.  ParallelC  onduct is Not Enough
+The  Sherman  One  claim  requires a  showing  of a  conspiracy.  That
+element  has  never  been  satisfied  with  a  mere  showing  of competitors'
+parallel conduct.'22
+The rationale for requiring more than a showing of parallel conduct by
+competitors to  state a Sherman One claim is simple.  No matter what the
+level of competitiveness  in an industry, economists know that firms acting
+rationally  can  be  expected  to  behave  in  a  parallel  manner.  Amici
+117.  768 F. Supp. 892 (D. Mass. 1991).
+118.  Id. at 897.  The approach is taken without citing authority other than the former
+Rule 8(f), and has not been followed by any court.
+119.  Commentators, too, have done surprisingly little to clarify Rule 8(e) (formerly 8(f)).
+Like  the  majority  of courts  invoking  its  language,  commentators  favoring  simplified
+pleading standards cite the former Rule 8(f) in support.  See, e.g., Fairman, supra note 55, at
+993.  None have invoked it in support of Judge Keeton's interpretation in Cash Energy.
+120.  But see, e.g., Kendall v. Visa U.S.A.,  Inc.,  No. 05-16549,  Slip Op. 2191  n.5 (9th
+Cir. Mar. 7, 2008).
+121.  Cf Ides, supra note 59, at 610.
+122.  Arguing against the Twombly result, Professor Thomas contends that "evidence that
+the ILECs engaged in the same behavior against the CLECs, and also the same behavior of
+not competing with one another could demonstrate to a jury that the ILECs agreed to engage
+in this behavior  ....  [T]his parallel behavior could show agreement."  Thomas, supra, note
+16 (draft at 32).  That is incorrect.  Parallel conduct is not inconsistent with a conspiracy, but
+it is not indicative  of-it in no circumstances "demonstrates"-a conspiracy.  To permit a
+jury to infer an agreement from parallel behavior is indistinguishable from permitting the
+same jury to infer agreement from the fact that the sky is blue, which it seems clear no court
+has ever done.  See supra notes 16, 79.646  U. PA. JOURNAL OF BUSINESS AND EMPLOYMENT LAW  [Vol. 10:3
+economists  in Twombly argued that in a "perfectly competitive market, all
+firms  charge  the  same  price  at  all  times."' 23   That  is  because  in  a
+competitive market, all firms are price takers.  They all respond in the same
+manner to the same impulses, and none has the ability to raise prices above
+its costs. 124
+The  same  result  occurs  if  the  firms  do have  power  over  price  as
+oligopolists  in  a  concentrated  industry-much  more  akin  to  the  real
+circumstances in Twombly.'25  Parallel conduct occurs perhaps for the same
+reason  as  in  a  competitive  market,  for  example  when  regulatory
+developments or technological  innovations affect all  firms in the industry
+in  the  same  manner. 126  Parallel  conduct  also  potentially  occurs  for  a
+different, but also innocent, reason.  Firms, like gas-station competitors on
+opposite  street  comers,  may  look  two  moves  ahead  and  appreciate  the
+effect their actions will have on their competitor, and vice  versa.  Those
+oligopolists know, and they know their competitors know, and they know
+their competitors know they know,'27 that if they act as industry mavericks
+they  will  be  less  profitable  than  if  they  tacitly  agree  not to  cut,  or to
+increase, prices.128  That kind of coordination-although  a contracts scholar
+might well call it an implied agreement-is not illegal.129
+There  are  two  primary  justifications  for  permitting  such  tacit
+collusion.  One, advanced by Professor Turner in his  1962 paper  on the
+subject, holds that an oligopolist acting in its unilateral best interest is the
+same thing  as tacit collusion,  so to  outlaw the latter would be to require
+123.  Cert.-Stage  Brief of William Baumol et al. in Support of Petitioners at 8-9, Bell
+Atlantic Corp. v. Twombly, No. 05-1126 (U.S. 2007).
+124.  Id. at 7.  This understanding  is well developed in the case  law.  See e.g.,  Weit v.
+Cont'l  Ill. Nat'l.  Bank & Trust Co.,  641  F.2d 457, 463  (7th Cir.  1981)  (stating parallel
+pricing in industries characterized  by fungible products and comparable cost structures is
+not probative of conspiracy).
+125.  Indeed, oligopoly  of some  form  is characteristic  of "the  vast majority of actual
+markets."  BORK, supra note 108, at 102.
+126.  See Weit, 641 F.2d at 463 (7th Cir. 1981) (citing and discussing Peveley Dairy Co.
+v. U.S.,  178 F.2d 363 (8th Cir. 1949), for the proposition that regulated input prices provide
+an innocent rational explanation for parallel pricing behavior).
+127.  See Note, Conscious Parallelism:F act or Fancy?, 3 STAN.  L. REV. 679, 680 (1951)
+("Competition has  been likened to a mutual  confidence  game, where  each competitor is
+trying to outguess the other fellow.") (citing M. A. Adelman, Effective Competition and the
+Antitrust Laws, 61 HARV. L. REV. 1289,  1299 (1948)).
+128.  See  Dennis  W.  Carlton,  Robert  H.  Gertner  &  Andrew  M.  Rosenfield,
+Communication Among Competitors: Game Theory and Antitrust, 5 GEO. MASON  L. REV.
+423,  428  (1997)  (citing  EDWARD  CHAMBERLAIN,  THE  THEORY  OF  MONOPOLISTIC
+COMPETITION (1933));  BORK,  The Antitrust Paradox, supra note  108, at  103 ("By such a
+process the rivals may work themselves up to the monopoly price (and the restricted output
+necessary  to raise the price), jointly maximizing their profits, without ever once meeting
+surreptitiously ...".).
+129.  Brooke  Group Ltd.  v. Brown & Williamson  Tobacco Corp.,  509  U.S.  209, 227
+(1993).2008]
+PRIVATE ANTITRUST CONSPIRACY CLAIMS
+irrational  conduct.30   Professor  Whinston  recently  demonstrated  the
+difficulty  that  Turner  recognized:  "Can  we  tell  [oligopolists]  'Do  not
+tacitly  collude'?  Or 'Do  not make your pricing  decisions with regard to
+what your rivals do'?"''  The concern is heightened when we consider the
+punitive nature of the Sherman One enforcement  scheme.  "[W]ould  it be
+fair  to  send  managers  to  jail  for  failing  to  follow  such  vague
+prescriptions?"' 32  The private treble-damages remedy is no better, because
+of its punitive nature.
+A  second  rationale  for permitting  tacit  collusion,  which  is  closely
+related  to  the  first,  turns  on  the  difficulty  of  distinguishing  between
+independent  parallel  activity and  interdependent  conduct.  To an outside
+observer,  the  two  are  indistinguishable.  For  one  example,  imitating
+successful  strategies  of  competitors  is  acting  in  parallel,  but  it  is
+competitive,  not  anti-competitive.'33   Far  from  being  probably  anti-
+competitive,  parallel  conduct  by competitors  is most  likely the result  of
+unilateral-and therefore legitimate-business decisions.'34
+This wisdom underlay the Supreme Court's 1954 decision in Theatre
+Enterprises,I nc. v. Paramount Film DistributingC  orp.,'35 a case in many
+ways very similar to Twombly.  In an opinion written by Justice Tom Clark,
+formerly  the  head  of the  Antitrust  Division  at  the  U.S.  Department  of
+Justice,36 the  Court considered  allegations that parallel  refusal to permit
+"first-run"  movies to be shown  outside of densely populated metropolitan
+areas  violated  Sherman  One.  The  defendants  were  a group  of motion
+picture producers and distributors, including Paramount  Film Distributing,
+Loew's,  Inc.,  Twentieth-Century  Fox,  United  Artists,  Warner  Brothers
+Pictures, and Columbia Pictures.1"'  Plaintiff was an operator of a suburban
+Baltimore theater, called the Crest, that was modem and well-appointed in
+every way but its location.'38  All of the defendants  rebuffed the plaintiffs
+efforts to  obtain first-run movies,  arguing  that exclusive  franchises  were
+130.  See  Donald  F.  Turner,  The Definition of Agreement  Under the Sherman Act:
+Conscious Parallelism and Refusals to Deal, 75 HARV. L. REV. 655, 692 (1962).
+131.  Michael D. Whinston, Lectures in Antitrust Economics 39, 52 (2006).
+132.  Id. at 52-53.
+133.  Cert.-Stage Brief of William Baumol  et al.  in Support of Petitioners at 8-9, Bell
+Atlantic Corp. v. Twombly, No. 05-1126 (U.S. 2007).
+134.  Epstein, supra note 11,  at 3. See also supra note 123.
+135.  346 U.S. 537 (1954).
+136.  Justice Thomas C. Clark was the former head of the Antitrust Division of the U.S.
+Department  of Justice.  See TIMELINE  OF ANTITRUST  ENFORCEMENT  HIGHLIGHTS AT THE
+DEPARTMENT OF JUSTICE, http://www.usdoj.gov/atr/timeline.pdf (last visited Sept. 5, 2007).
+137.  Theatre Enterprises,3 46 U.S. at 539, n.2.
+138.  Id. at 540 ("the Crest is a suburban theatre, located in a small shopping center, and
+served by limited public transportation facilities; and, with a drawing area of less than one-
+tenth that of a downtown theatre, it cannot compare with those easily accessible theatres in
+the power to draw patrons.").648  U. PA. JOURNAL OF BUSINESS AND EMPLOYMENT LAW [Vol.  10:3
+necessary  for  their  business,  and  plaintiffs  inferior  location  made  an
+exclusive  franchise  with  that  theater  unattractive. 39   Many  of  the
+defendants  shared  the  same  rational,  non-conspiratorial  explanation  for
+their individual refusals to deal with the plaintiff in the market for first-run
+pictures. 14   According  to  the  Court,  "The  crucial  question  is  whether
+respondents'  conduct  toward  petitioner  stemmed  from  independent
+decision or from an agreement, tacit or express ....  [T]his Court has never
+held  that  proof  of parallel  business  behavior  conclusively  establishes
+agreement  or,  phrased differently,  that such  behavior  itself constitutes  a
+141
+Sherman Act offense.'
+Procedurally,  Theatre Enterprises is  poor  authority  for the  rule  in
+Twombly at the motion-to-dismiss stage.  The Court in Theatre Enterprises
+reached  the  un-outstanding  conclusion  that  a  refusal  to  grant  a  directed
+verdict for the plaintiff should be affirmed.142  But the Court's substantive
+rule  on the  definition  of a  Sherman One  agreement  provides  substantial
+support  for  the  result  in  Twombly.  Conscious  parallel  conduct  by
+competitors does not suffice to  state a claim under Sherman One.  Noted
+antitrust  commentators  such as  Professor Turner have  accepted the  rule.
+"[C]onscious parallelism is never meaningful by itself ....  [It is] a neutral
+fact in the absence of evidence which would lead one to expect that price
+would  have  been  different  if  truly  independent  decisions  had  been
+made."'43
+Turner's  proposition  is  by  no  means  unchallenged  among
+commentators  in the modern era.  The other side of the argument-most
+prominently  advanced  by  Judge  Posner-holds  that  consciously  parallel
+conduct, where competing gas stations on opposite street comers raise and
+lower  prices,  seemingly  in  unison,  sometimes  several  times a  day,  does
+actually reflect a meeting of the minds of those competitors, and should be
+treated  as  conspiratorial.'44   Posner  recognizes  his  approach  is  not  the
+"traditional  legal  approach,"  and  instead  defines  collusive  pricing as  an
+139.  Id. at 540.
+140.  Id. at 540 ("the downtown theatres offer far greater opportunities for the widespread
+advertisement and exploitation  of newly  released features, which is thought necessary to
+maximize the overall return from subsequent runs as well as first-runs.  The respondents, in
+the light of these  conditions,  attacked  the guaranteed  offers of petitioner, one of which
+occurred during the trial, as not being made in good faith.  Respondents Loew's and Warner
+refused petitioner  an exclusive  license because they owned  the three  downtown theatres
+receiving their first-run product").
+141.  Id. at 540-41.
+142.  Id. at 541.
+143.  Turner, supra note 130, at 659.
+144.  Richard A. Posner, Oligopoly and the Antitrust Laws:  A Suggested Approach, 21
+STAN. L. REV. 1562,  1575 (1969);  POSNER,, supra note 1, at 94-96.  Cf Mark D. Anderson,
+Vertical Agreements Under Section 1 of the Sherman Act:  Results in Search of Reasons, 37
+U. Fla. L. Rev. 905, 934 (1985)  (describing the Turner-Posner divide).2008] PRIVATE ANTITRUST CONSPIRACY CLAIMS 649
+economic construct. 45  As Posner states, "From  an economic standpoint  it
+is  a  detail  whether  the  collusive  pricing  scheme  was  organized  and
+implemented  in  such  a  way  as  to  generate  evidence  of  actual
+communications."' 46  Professor Whinston points out, however, that there is
+1
+neither clear understanding of what exactly constitutes tacit collusion.  For
+example,  is  it tacitly collusive  anytime prices in an oligopolistic industry
+exceed  marginal  cost?147   Recent  game  theoretic  economic  analysis,
+detailed by economists including Werden and Carlton, has offered a more
+nuanced  understanding  of consciously  parallel  pricing  than  the  Turner-
+Posner  divide  demonstrates. 48   However,  from  a  doctrinal  perspective,
+what is essential is that the Theatre Enterprisesr ule has been solidly etched
+into the body of Sherman  One doctrine. 49  Barring federal legislation, the
+doctrinal approach to conscious parallelism should remain unmolested.50
+It is a dangerous  game to indulge the inference of a conspiracy based
+on facts, like parallel conduct, that more likely indicate legitimate unilateral
+conduct.  As Professor Epstein has argued, such an inference presents two
+harms.  One is the direct costs on the business of the particular defendants,
+and  the  dead  weight  economic  costs  of  litigation.  The  other  is  the
+disincentives the inference  would create for firms vigorously to compete,
+because  all  "business  decisions  would  be  colored"  by  the  danger  of
+Sherman  One  litigation.'5'  Those  are  precisely  the  concerns  underlying
+Dura, Blue Chip Stamps and Associated General Contractors.
+Firms  faced  with  sanctions  for  acting  in  parallel  would  be  acting
+rationally  if  they  deliberately  avoided  the  most  efficient  course  of
+conduct-whether  that  be  imitating  competitors'  winning  strategies,  or
+pricing in parallel so as not to give a competitor an advantage.  Judge Bork
+145.  POSNER, supra note 1, at 69.
+146.  Id. at 94.
+147.  Whinston,  supra note  131,  at  53-54  (answering  in  the  negative.  Whinston
+distinguishes theoretically between "dynamic strategies" and "static  Cournot competition,"
+but recognizes even that distinction is difficult to appreciate in practice).
+148.  See  Gregory  J.  Werden,  Economic  Evidence  on  the Existence of  Collusion:
+Reconciling Antitrust Law with Oligopoly Theory, 71  ANTITRUST L.J. 719, 759-80 (2004);
+Dennis  W.  Carlton,  The  Relevance for Antitrust Policy of Theoretical and Empirical
+Advances in Industrial Organization, 12  GEO. MASON  L.  REV.  47,  50  (2003);  Carlton,
+Gertner & Rosenfield,  supra note  128,  at 430-39; Willard K. Tom, Game Theory in the
+Everyday Life of the Antitrust Practitioner,5   GEO. MASON L.  REV. 457, 458-61  (1997)
+(discussing authorities).
+149.  See  Bell  Atlantic  Corp.  v.  Twombly,  127  S. Ct.  1955,  1964  (2007);  Theatre
+Enterprises,  Inc. v. Paramount Film Distributing Corp. 346 U.S. 537,  541  (1954);  Brooke
+Group Ltd. v. Brown & Williamson Tobacco Corp., 509 U.S. 209, 227 (1993).  See also E.I.
+du Pont de Nemours & Co. v. FTC, 729 F.2d 128,  137-39 (2d Cir. 1984) (reversing FTC
+order based on consciously parallel conduct).
+150.  Cf Dillon, supra note 4, at 53 ("Theatre Enterprises killed conscious parallelism as
+a legal doctrine; I hope you will make it your business to see that it stays buried.").
+151.  Epstein, supra note 11.650  U. PA. JOURNAL OF BUSINESS AND EMPLOYMENT LAW  [Vol. 10:3
+argued  that  "[a]  cluster  of  considerations  require  nonintervention  in
+doubtful cases."1'52  And, in a related context, "adjustment to shifting costs
+and demand is socially desirable, and it is best that appropriate  responses
+be  made  as  quickly  as  possible."'53   A  rule  that  penalizes  firms  (by
+exposing  them  to  litigation  beyond  the  motion  to  dismiss  stage)  for
+undertaking  the  rational  response  to  stimuli,  whether  the  actions  of
+competitors  or external  to the market,  risks  increasing  price rigidity  and
+stifling other business decisions.  That is all the more so where, as in the
+case  of the definition  of agreement  under  Sherman  One,  the substantive
+standards for liability remain vague.  Whinston notes that under the Posner
+definition of agreement,  "[f]alse  positives are a real danger" because  it is
+difficult even to define what qualifies, and to structure an effective remedy
+for tacitly collusive conduct.'54
+Those theoretical arguments  are powerful.  The expense of litigation
+creates  a powerful  disincentive  to  engage  in conduct  that might  bring it
+about.'55  Where that conduct is harmful, that is a good result.  Where that
+conduct is beneficial, it is a grievous error.'56
+The theoretical  explanation  for  the  Twombly  rule runs  up against a
+criticism, however, which is that the danger of litigation apparently did not
+prevent the  Twombly defendants  from acting rationally  in pursuit of their
+unilateral  best interest in response to market stimuli.  Where,  then, is the
+chilling effect?  One response  to the criticism is that we have no way of
+knowing how many industries have been limited in their competitive vigor
+by  the  threat  of  litigation,  or  indeed,  in  what  circumstances  the  very
+defendants  in Twombly may have avoided pro-competitive conduct out of
+fear of litigation.
+Another response to the criticism is merely one of fairness.  Onerous
+litigation  is a sanction in a very real sense, and sanctioning firms for what
+we want them to do makes no sense.
+152.  BoRK, supra note 108, at 133.
+153.  Id. at 388 (discussing the Robinson Patman Act).
+154.  Whinston, supra, note 131, at 54.
+155.  This proposition is generally accepted.  See, e.g., Whinston, supra note  131,  at 54-
+55  ("Firms  will  naturally  avoid  placing  themselves  in  positions  that  trigger  antitrust
+intervention, whether monetary  damages  or restructuring,  and this may lead them to shy
+away from cost reductions  or product improvements that might improve their margins.");
+Cert.-Stage Brief, supra note 123,  at 14-16 (discussing conduct by competitors that might
+appear  conspiratorial  but  is highly  beneficial,  competitive  conduct).  What is  less  well
+understood, and perhaps impossible accurately to test, is the magnitude of the effect.
+156.  It is usually in the context of section 2 of the Sherman Act, 15 U.S.C. § 2 (2000 &
+Supp.  V 2005), that courts  and  commentators  discuss  the  concern for "false  positives"
+preventing vigorous competition.  See, e.g., Matsushita  Electric Industrial  Co. v. Zenith
+Radio Corp., 475 U.S. 574, 593-94 (1986).  These arguments thus have all the more force in
+the context of Sherman Two litigation.2008] PRIVATE ANTITRUST CONSPIRACY CLAIMS
+Finally, Professor Fairman argued  in 2003 that  courts have  required
+fact-based pleading in conspiracy claims long before Twombly. "'  If so, it
+is  the  Second  Circuit's  rule  that  is  the  aberration,  and  the  Twombly
+defendants would have made their business decisions based on expectations
+developed under the dominant approach courts took to pleading.'58
+The  challenge  is  to  distinguish  those  claims  that  are  inappropriate
+sanctions  for  pro-competitive  conduct-the  false  positives-from  those
+that  appropriately  act  as  disincentives  to  harmful  conduct.  Courts  and
+commentators  understand that the height of competitive activity may look
+very much like conduct that violates Sherman One.59  The surest way is  to
+enforce rigorously the Dura requirement that a plaintiff plead the elements
+of the substantive claim.  In a nutshell, that is what Twombly now requires
+for private suits alleging antitrust conspiracies.
+B.  Pleading Plus Factors
+In 1984 in Monsanto Co. v. Spray-Rite Services Corp.,16° the Supreme
+Court  refused  to  infer  an  agreement  from  conduct  that  occurs  "in  the
+normal  course  of  business  and  do[es]  not  indicate  illegal  concerted
+action.' 6'   This is an application of the same rule that prohibits liability for
+parallel conduct.  Instead, and for the various reasons discussed previously
+in this Article, "there must be evidence that tends to exclude the possibility
+that the [defendants]  were acting independently.' 62  The Court reiterated
+that requirement two years later, in the opinion that served as a capstone to
+the decades-old  litigation  in Matsushita Electric Industrial Co. v. Zenith
+Radio Corp.1 63  "[A]  plaintiff seeking damages for a violation of § 1 must
+present  evidence  'that  tends  to  exclude  the  possibility'  that  the  alleged
+conspirators acted independently."' 64 That is a faithful rendering of Justice
+Clark's Theatre Enterprisesr ule.
+157.  Fairman, supra note 50, at 1011-21 (arguing this is a legally erroneous approach).
+158.  See infra notes 204-05 and accompanying  text (discussing DM Research,  Inc.  v.
+College of American Pathologists,  170 F.3d 53 (1st Cir. 1999)).
+159.  See, e.g.,  Cosmetic Gallery,  Inc.  v. Schoeneman  Corp., 495  F.3d 46, 52 (3d  Cir.
+2007) (discussing competitive conduct that appears to violate the Sherman Act).
+160.  465 U.S. 752 (1984).
+161.  Id. at 763 (internal quotations omitted).
+162.  Id. at 764.
+163.  475 U.S. 574 (1986).
+164.  Id. at  588  (quoting Monsanto).  Matsushita tells  a  compelling  tale  about the
+necessity to resolve claims early in litigation.  Millions of dollars and dozens of years were
+spent on  litigation  in that case,  only to  learn that the plaintiffs'  theory of liability  was
+insufficient as a matter of law.  See Matsushita Electric Industrial Co. v. Zenith Radio Corp,
+475 U.S. at 576 (showing that the Matsushita lesson gives strong contextual support for the
+result in Twombly).652  U. PA. JOURNAL OF BUSINESS AND EMPLOYMENT LAW [Vol.  10:3
+Those  rules  are  substantive  rules  of  the  law  of conspiracies  in
+antitrust, not procedural  requirements imposed because  of some particular
+feature  of the antitrust claim.  Such an account  implies that the Twombly
+opinion is not a civil procedure  opinion at all, but is important only from
+the perspective of the substantive antitrust law.  That explains how Theatre
+Enterprises could have compelled the result in Twombly, although the issue
+arose at a very different stage of the litigation.
+Procedurally, Dura commanded the conclusion-and Swierkiewicz did
+not  undermine  it-that  the  Twombly  plaintiffs  were  required  to  plead
+allegations that satisfy the Matsushita and Theatre Enterprises rules.  The
+question is, then, what about the state of the market for local telephone and
+Internet services makes parallel conduct in that market any more nefarious
+than in the vast majority of circumstances?
+Allegations  of facts that are neutral,  or ambiguous,  do not meet the
+standard.  Commentators  analyzing  Matsushita agree  that  "proof  of an
+agreement  requires  some  evidence  that  is  exclusively  of agreement."'165
+Courts  and  commentators  have  stated  the  required  showing  for
+circumstantial  evidence  of  conspiracy  to  be  one  of "parallel  conduct
+plus"-with the "plus"  representing  allegations  that  make  it unlikely  the
+parallel conduct is based on a firm's pursuit of its unilateral best interest.166
+Professor Epstein explained plus factors using the language  of Monsanto.
+"A plus factor is any form of evidence that tends to exclude the possibility
+that  individuals  work independently."'167   Whinston  describes  "evidence"
+that "increas[es]  the likelihood that a price-fixing conspiracy  is taking, or
+has taken, place."'161  Such plus-factor evidence is necessary when there is
+no direct evidence of a conspiracy, but where enforcement policy demands
+there be a way to prove a conspiracy with indirect evidence. 69
+165.  2  BAUER  & PAGE,  supra note  38,  §  11.4,  at  59.  Professors  Bauer and  Page
+demonstrate this concept graphically with a Venn diagram comprised of overlapping circles.
+If the leftmost circle represents evidence that indicates agreement, and the rightmost circle
+represents evidence that indicates independent action, the overlap represents evidence that is
+ambiguous as to whether it indicates agreement  or independent action.  "[E]vidence  solely
+in [the overlap] is insufficient."  Id. § 11.5, at 59-60.
+166.  See Mitchael v. Intracorp, Inc.,  179 F.3d 847, 858-59 (10th Cir. 1999) (describing
+plus  factors);  Werden,  supra note  148,  at  745 (locating the  first use  of the term "plus
+factors" in the Ninth Circuit's 1952 decision in C-O-Two Fire Equip. Co. v. United States,
+197 F.2d 489 (9th Cir. 1952)).
+167.  Epstein, supra note 11, at 10-11 (citing Apex Oil Co. v. DiMauro, 822 F.2d 246 (2d
+Cir. 1987)).
+168.  Whinston, supra note 131,  at 39.
+169.  Id. at 38-39.2008]
+PRIVATE ANTITRUST CONSPIRACY CLAIMS
+Notably, although  the doctrine  was argued to  the Court in  Twombly
+and has been discussed in the lower courts for decades, the Supreme Court
+did not expressly adopt the doctrine of plus factors. 70
+The  idea  of plus  factors  has  long  been  understood  by  the  Court.
+Theatre  Enterprises recognized  that  "business  behavior  is  admissible
+circumstantial  evidence from which the fact finder may infer agreement."''
+In  Twombly,  the  Court  came  close  to  explicitly  adopting  the  construct,
+twice quoting other sources (the Second Circuit's decision below and one
+of the parties'  briefs) as referencing "plus factors,"  and in the now-famous
+footnote  four  defining  additional  circumstantial  facts  that  might  be
+sufficient  to  vault  allegations  of parallel  conduct  into  allegations  of a
+conspiracy."'  It  is  fair to  read the  Twombly opinion  as  giving  implicit
+approval  to  an  approach  to  implementing  the  Theatre  Enterprises,
+Matsushita and Monsanto rules that has been followed in the lower courts
+for  decades.  With  the  deepening  body  of  case  law  and  scholarly
+commentary  defining plus factors, an appropriate  vehicle  for the Court to
+consider them in greater depth may present itself in the near future.
+It is good that the Court did not simply adopt wholesale the plus factor
+doctrine  from  the  courts  of  appeals.  Much  remains  to  be  decided  to
+consider that framework sufficiently developed.  Professor Whinston wrote
+about the definition of a Sherman One agreement generally, arguing that it
+is "paradoxical  that the least controversial area of antitrust is perhaps  the
+one  in which  the  basis of the  policy  in  economic  theory is  weakest."'73
+That theoretical weakness invokes Judge Bork's concern for "fair warning"
+to a regulated entity-impossible "if the 'law'  depends on the sympathies
+and prejudices of any one of the hundreds of federal judges before whom [a
+businessman]  may find himself arraigned."''74  Although Whinston did not
+adopt  the  terminology  of  plus  factors,  he  described  them  as  being
+represented by either structural evidence or behavioral evidence.'75
+Evidence  that tends to exclude the possibility of unilateral conduct is
+not difficult  to  recognize  at the  margins.  One  example  is the  one  plus
+factor  that  the  Twombly  Court  appeared  to  approve  in  footnote  four:
+170.  Bell Atlantic Corp.  v. Twombly,  127 S. Ct.  1955,  1964  (2007).  See Interstate
+Circuit  v.  United  States,  306  U.S.  208  (1939);  E.  THOMAS  SULLIVAN  &  JEFFREY  L.
+HARRISON,  UNDERSTANDING  ANTITRUST AND  ITS ECONOMIC IMPLICATIONS  186-87  (3d ed.
+1998).  Special thanks to Roy Englert for this observation about Twombly.
+171.  346  U.S.  at  540.  Compare Whinston,  supra note  131,  at  39  (noting  that
+circumstantial evidence of conspiracy is divided into structural and behavioral evidence).
+172.  Twombly,  127  S. Ct.  at  1965  n.4  (referencing  "complex  and  historically
+unprecedented  changes  in  pricing  structure  made  at  the  very  same  time  by  multiple
+competitors, and made for no other discernible reason").
+173.  Whinston, supra note 131, at 26.
+174.  BORK, supra note 108, at 81.
+175.  Whinston, supra note 131, at 39-52.654  U. PA. JOURNAL OF BUSINESS AND EMPLOYMENT LAW  [Vol.  10:3
+"complex and historically unprecedented changes in pricing structure made
+at the  very  same  time  by  multiple  competitors,  and  made  for no other
+discernible  reason."' 76  Of course,  the challenge in the footnote  four plus
+factor  is in  the  words,  "for no  other  discernible  reason."  The difficult
+question in  Twombly  is precisely  whether "other  discernible reasons"  for
+the  ILECs  parallel  refusal  to  enter  into  competition  as  CLECs  in  one
+another's  territories  undid the plaintiffs'  allegations  that the  refusal  was
+irrational.
+Plus factors have included a vague amalgam of matters, all of which
+are relevant (in the way the Federal Rules of Evidence define the term) to
+proof of conspiracy, but many of which fall far short of rising to the level
+of "tending  to exclude the possibility" of unilateral  conduct.  Some of the
+facts  pleaded  in  Twombly,  including  trade  association  involvement  and
+oligopolistic market structure, have been considered plus factors.'77  But the
+Court  held  they  did  not  make  it  less  likely  that  the  defendants  acted
+unilaterally, or more likely they conspired.'78
+The answer, such as it is, is to require plaintiffs to plead facts that, if
+true, give rise to a reasonable  inference that the observed parallel conduct
+was the product of a conspiracy.  The implications of this answer are more
+dramatic than they appear to be at first glance.  The economic analysis of
+oligopoly  theory,  the  modern  understanding  of which  can  be  traced to
+Stigler's  seminal  1964  article,  "A  Theory  of  Oligopoly,''179  turns  on
+structural  features  of markets  that  make  collusion  more  likely.8°  But
+structural  market  features  are  neutral  facts  under  a  legal  regime  that
+requires "some  setting suggesting the agreement necessary to make out a §
+1 claim."''  Courts have refused to adopt wholesale the economic definition
+of conspiracy,  carving  out  from  it  the  broad  swath  of conduct  that  is
+176.  Twombly,  127 S.C t. at 1965 n.4 (citing Brief for Respondents  37 and Reply Brief
+for Petitioners 12).
+177.  See Apex Oil Co. v. DiMauro, 822 F.2d 246, 253-54 (2d Cir. 1987).
+178.  Cf Williamson Oil Co. v. Philip Morris USA,  346 F.3d 1287,  1319-20 (11th Cir.
+2003) (holding that eleven plus factors show "nothing more than [evidence] that the tobacco
+industry is a classic oligopoly, replete with consciously parallel pricing behavior"); cf Weit
+v.  Cont'l Ill.  Nat'l. Bank & Trust, 641  F.2d 457, 463 (7th  Cir.  1981)  (holding that plus
+factors  including  opportunities  to  conspire  and  meetings  among  competitors  are  not
+sufficient to survive summary judgment on claim of conspiracy).
+179.  George J. Stigler, A Theory of Oligopoly, 72 J. POL. ECON. 44 (1964).
+180.  See id. at 44-56 (discussing and modeling market structures conducive to collusion);
+Andrew  R.  Dick, Identifying Contracts, Combinations and Conspiracies in Restraint of
+Trade,  17  MANAGERIAL  & DECISION  ECON.  203,  208-11  (1996)  (examining  industry
+characteristics  that  assist in forecasting  cartel  activity);  POSNER, supra note  1 at 69-93
+(listing  factors that  make collusion  more  likely and  factors  that provide  circumstantial
+evidence of collusion).
+181.  Twombly, 127 S.C t. at 1966; c.f E.I. du Pont de Nemours & Co. v. FTC, 729 F.2d
+128,  139  (2d  Cir.  1984)  (stating  that  an oligopolistic  industry  structure  "represents  a
+condition, not a 'method"').2008] PRIVATE ANTITRUST CONSPIRACY CLAIMS
+consciously parallel rather than explicitly conspiratorial.'82  Legal  doctrine
+thus  narrows  considerably,  vis-d-vis  economic  theory,  the  sort  of
+allegations that will suffice to state a Sherman One claim.' 3
+As noted  above,  at the  margins,  facts that rise to  the level of being
+plus factors  are easy to  define.  The  Twombly  plaintiffs'  quote  from one
+defendant's  CEO  was  most  consistent  with  that  defendant's  making  a
+unilateral business  decision, but certainly a quote  that was more concrete
+and  damning  ("we  met  and  decided  on  prices")-perhaps  from  a
+disgruntled  former  employee-might  be  sufficient.  Notably,  Justice
+Stevens in dissent in Twombly argued discovery was essential to determine
+whether  the  CEO's  quote  was  indeed  neutral. 84   Allegations  of trade
+association involvement were neutral, but allegations of a secret meeting in
+a smoke-filled room would be indicative of a conspiracy.'85  Allegations of
+joint  refusal  to  enter  one another's  markets  were  neutral,  but  the  same
+allegations of failure to enter, in a market in which the prevailing norm was
+vigorous entry and exit, might be very different.'86  Allegations  of parallel
+price  structures  are neutral,  but allegations of parallel  and irrational  price
+structures might be sufficient.'87  This description of the shades of gray in
+the plus factor framework demonstrates the impossibility of splitting hairs
+with a chain saw.'88  The plus factor framework will always be difficult to
+182.  See In re High Fructose Corn Syrup Antitrust Litigation, 295 F.3d 651, 654-55 (7th
+Cir. 2002)  (noting  that  "the  statutory  language"  of Sherman  One  "is  broad enough  to
+encompass a purely tacit agreement to fix prices," but that the legal doctrine requires proof
+of an actual agreement, not just tacit coordination).
+183.  See POSNER, supra note 1, at 94 ("there  is no distortion of accepted meanings in
+viewing tacit collusion as a form of concerted rather than unilateral activity").
+184.  See Twombly,  127  S. Ct. at  1986-87 (Stevens, J.,  dissenting) (imagining that the
+CEO might have confessed to a conspiracy and arguing the only way to find out would be to
+depose him).
+185.  See Epstein, supra note 11, at 11.  But see Dillon, supra note 4, at 25-26 (arguing
+that as a practical matter, such evidence is unlikely to surface in most cases. "L 'espionnage
+type of conspiracy, where men from competing companies meet at midnight  in a smoke-
+filled  hotel room,  wearing  long  black robes and  black hats,  and  reduce  their  collusive
+agreement to writing, is pass&.").
+186.  Cf.T wombly, 127 S.C t. at  1972 (discussing the historical accident justification for
+the  Gerrymandered  service  areas, which  otherwise  might  be evidence  of conspiratorial
+activity).
+187.  Id. at 1966 n.4 (citing both Respondent and Petitioner briefs which, in turn, suggest
+that "complex and historically unprecedented changes in pricing structure made at the very
+same time by multiple competitors, and made for no other discernible reason would support
+a plausible inference of conspiracy.").
+188.  Cf E.I. du  Pont de Nemours  & Co. v. FTC, 729 F.2d 128,  139 (2d  Cir. 1984)
+(noting the "fine distinction"  between "oligopolistic pricing alone," which  is permissible,
+and price changes by one player in a concentrated market serving as signals, picked up by
+its competitor).  For this reason it has been considered impossible to outlaw consciously
+parallel pricing.  See Clamp-All Corp. v. Cast Iron Soil Pipe Inst., 851  F.2d 478, 484 (1st
+Cir.  1988)  ("it  is  close  to  impossible  to  devise  a  judicially  enforceable  remedy  for656  U. PA. JOURNAL OF BUSINESS AND  EMPLOYMENT LAW  [Vol. 10:3
+sum up in a simple legal rule.8 9  Antitrust law's unfortunate century-long
+flirtation with per se rules shows that clarity may best be achieved through
+the common law process.'90
+Interestingly, some of the facts that are proposed to be legitimate plus
+factors  would  require  economic  analysis  to  establish.'9'  It  is  not
+newsworthy to observe that economic  analysis is a substantial  aspect of a
+private  antitrust  suit in  the modem  era.  Economic  analysis  is  regularly
+employed  on  questions  ranging  from  defining  the  relevant  market  to
+establishing antitrust injury.  "In antitrust litigation, the factual complexity
+and economic  nature  of the  issues  involved  require  the  presentation  of
+economic  expert  testimony  in  all  but  a  few  cases."' 92   In  the  case  of
+conspiracies  under  Sherman  One,  at  least  since  Matsushita, economic
+principles have been imbedded in the governing substantive rule of law.'93
+A possible implication of defining the pleading requirement based on
+the substantive elements of the offense is that plaintiffs may be required, in
+the  absence  of the  ability  to  make  direct  allegations  of conspiracy,  to
+produce an economic expert affidavit supporting their complaint.94  Justice
+'interdependent'  pricing.").  But see Thomas A. Piraino, Jr., Regulating Oligopoly Conduct
+Under the Antitrust Laws, 89 MINN.  L.  REv.  9,  15,  32-49 (2004)  (arguing that conduct
+should be illegal if it is contrary to independent self interest);  Alan Devlin, A Proposed
+Solution to the Problem of Parallel Pricing in Oligopolistic Markets, 59 STAN.  L. REv.
+1111,  1143-50 (2007) (proposing a solution to the inability to legally sanction consciously
+parallel pricing by means of methods involving "analogizing  conscious  parallelism in an
+oligopoly with unilateral contract", prohibiting "parallel price increases arrived at through
+barometric price  leadership"  and requiring  "barriers to entry into the  relevant market be
+shown to exist").
+189.  See William H. Page, Communication and Concerted Action, 38 Loy. U. CHI. L. J.
+405,  426-35  (2007)  (proposing  a  definition  of plus  factors  that  turns  on  the  type  of
+communication among competitors).
+190.  Cf  Leegin Creative Leather Prods., Inc. v. PSKS, Inc.,  127 S. Ct. 2705, 2717-18
+(2007) (where a practice can be both pro-competitive and anti-competitive, rule-of-reason
+analysis on a case-by-case basis is better than per se condemnation).
+191.  The  observation that doctrine rejects the pure economic  definition of conspiracy
+does not undermine this conclusion.  Economic experts are able to apply their craft within
+the relevant doctrinal  framework.  See Brief of Amici  Curiae Economists  in Support of
+Petitioners at 8-9, Bell Atlantic Corp. v. Twombly, 127 S. Ct. 1955 (2007) (No. 05-1126),
+2006 WL 2506633; Page, supra note  189, at 429 (arguing "most economists believe that
+[explicit communication]  is usually necessary"  to show agreement "in  complex real-world
+markets").
+192.  John Lopatka & William H. Page, Economic Authority and the Limits of Expertise
+in Antitrust Cases, 90 CORNELL L. REv. 617, 617 (2005).
+193.  See Matsushita  Electric  Industrial Co. v. Zenith Radio  Corp.,  475 U.S.  574, 588
+(1986)  (requiring  an evaluation  of the  "competing  inferences  of independent  action  or
+collusive action" from the facts alleged); id. at 592 (emphasizing the economic irrationality
+of the story advanced by the plaintiffs).
+194.  Cf Epstein, supra note 11,  at 12-13 (noting that true but vacuous factual allegations
+at the motion to dismiss stage present starkly the economic question of what inference to
+draw from those facts).2008] PRIVATE ANTITRUST CONSPIRACY CLAIMS
+Stevens,  in  his  Twombly  dissent,  raised  just  that  specter.'95  That  is  a
+dramatic  result,  but  it  is  in  reality the  simple  application  of the  Rule  8
+standard in the context of a massively complex substantive legal scheme. 96
+C.  Recent PleadingP ractice
+Twombly  has  had  an  impact  extending  far  beyond  the  substantive
+Sherman  One  arena,  evidenced  by the  number  of citations  the  case  has
+enjoyed among the lower courts since the opinion came down in May 2007.
+Within a year of its being handed down,  Twombly has been cited by U.S.
+tribunals more than 4800 times. 19  That number is more meaningful  when
+compared to the three other antitrust cases decided in the 2006 Term by the
+Supreme  Court-Weyerhaeuser, Credit Suisse v.  Billing, and Leegin-all
+of which might have been thought to be higher profile than Twombly when
+certiorari  was granted.198  Taken together, in approximately  the same time
+period, those cases have been cited 70 times by U.S. tribunals.'99  A better
+comparison that also paints a dramatic (if somewhat less so) picture,  is to
+the other pleading cases from the 2006 Supreme Court Term, Tellabs, Inc.
+v.  Makor Issues & Rights, Ltd.00  and Erickson v. Pardus2.'  Tellabs has
+informed the decisions of 186 tribunals since the opinion was  issued, and
+Erickson has been cited by 1189 courts.202  This loose bundle of statistics
+tells at a minimum that Twombly is having an impact far beyond the scope
+of the Sherman One claim, with which it ostensibly deals.203
+195.  See  Twombly,  127  S.  Ct. at  1988 (arguing  "the Federal  Rules contemplate  that
+pretrial  matters will  be settled through a  flexible process  of give and take,  of proffers,
+stipulations,  and  stonewalls,  not  by  having  trial judges  screen  allegations  for  their
+plausibility vel non without requiring an answer from the defendant").
+196.  Cf supra notes 90-94 and accompanying text (arguing that Form 9 does a poor job
+of demonstrating the manner of pleading claims more complex than simple negligence).
+197.  According to a Westlaw citation search run April 3,  2008.  See also Dorf, supra,
+note 20 (describing the impact of Twombly by a citation-count comparison at three months
+from its issuance).
+198.  Weyerhaeuser Co. v. Ross-Simons Hardwood Lumber Co., 127 S. Ct. 1069 (2007);
+Credit Suisse USA LLC v. Billing, 127 S. Ct. 2383 (2007); Leegin Creative Leather Prods.,
+Inc. v. PSKS, Inc., 127 S. Ct. 2705 (2007).
+199.  According to a Westlaw citation search run April 3, 2008.
+200.  127 S. Ct. 2499 (2007)
+201.  127 S. Ct. 2197 (2007).
+202.  According to a Westlaw citation search run April 3, 2008.
+203.  See In re Elevator Antitrust  Litigation,  502 F.3d 47,  50 n.3 (2d  Cir. 2007) ("A
+narrow view of Twombly would have limited its holding to the antitrust context, or perhaps
+only to Section 1 claims; but we have concluded  that Twombly affects pleading standards
+somewhat more broadly.") (citing authorities applying Twombly outside the Sherman One
+and  outside  the  antitrust arenas);  Thomas,  supra note  16,  at 7  (predicting  "far-ranging
+ramifications to the  impingement of the jury trial right in other types of cases").  Also,
+Sherman One  itself boasts only 309 cites by tribunals over the past year, according to a
+Westlaw citation search run on April 3, 2008.658  U. PA. JOURNAL OF BUSINESS AND EMPLOYMENT LAW [Vol.  10:3
+The extent of its actual impact in the Sherman One arena is difficult to
+evaluate.  This Article notes above that the idea of true "notice" pleading in
+the antitrust arena has something of an urban legend quality.2°4  Many pre-
+Twombly influential decisions exist in which courts have required pleading
+that would satisfy the  Twombly standard.  Judge Boudin's opinion in DM
+Research, Inc. v.  College of American Pathologists25  is  the leading  pre-
+Twombly  authority  on pleading  a  Sherman  One  conspiracy.  The  court
+refused to sanction the fishing expedition that would entail from permitting
+a conclusory allegation of "conspiracy"  to entitle the plaintiff to discovery
+to  determine  what facts  demonstrated  the  conspiracy.  "[T]he  discovery
+process  is  not  available  where,  at  the  complaint  stage,  a  plaintiff has
+nothing more than unlikely speculations.  While this may mean that a civil
+plaintiff must do more detective work in advance, the reason  is to protect
+society from the costs of highly unpromising litigation.2°6
+In  Car Carriers, Inc.  v.  Ford Motor  Co.,207  the  Seventh  Circuit
+rejected  as  insufficient  the  allegation  that  "'defendants  and  their  co-
+conspirators  entered  into  contracts  and  engaged  in  a  continuing
+combinations  [sic]  and conspiracies  to  restrain  trade  in  the  business  of
+providing  haulaway  motor  transportation  for  new  Ford  automobiles.' 208
+The  Car Carriers court  was  swayed  by  "the  costs  of modem  federal
+antitrust  litigation  and  the  increasing  caseload  of the  federal  courts"  in
+holding  that  the  allegation  of a  legal  conclusion was  insufficient.2 9   In
+addition, Judge Posner wrote in Sutliff, Inc. v. Donavan Cos. 210 that Conley
+"has  never  been  taken  literally."21'  That  approach  comports  with  the
+204.  See supra note 150 and accompanying text.
+205.  170 F.3d 53,56 (1st Cir. 1999) (holding while this may mean that a civil plaintiff
+must do more detective work in advance, the reason is to protect society from the costs of
+highly unpromising litigation.").
+206.  Id. at 56.
+207.  745 F.2d 1101 (7thCir. 1984).
+208.  Id. at 1104 (quoting the complaint).
+209.  Id. at 1106.
+210.  727 F.2d 648 (7th Cir. 1984) (Posner, J.).
+211.  Id. at 654.  See also, e.g.,  Tal v. Hogan,  453 F.3d  1244,  1261  (10th  Cir. 2006)
+(arguing that conclusory allegations  are not sufficient to  support an antitrust  conspiracy
+claim);  Univ. Life Ins.  Co. of Am. v. Unimarc  Ltd., 699  F.2d 846, 852 (7th Cir. 1983)
+(finding the allegations insufficient because plaintiffs failed to show likelihood of injury); In
+re Plywood Antitrust Litig., 655 F.2d 627, 641 (5th Cir. 1981)  (supporting the argument that
+plaintiffs need particularized proof in order to establish damages);  Larry R. George Sales
+Co. v. Cool Attic Corp., 587 F.2d 266, 273 (5th Cir. 1979) (stating that the requirements of
+pleading  a claim under the  Sherman  Act can not be met by  simple  allegations); Heart
+Disease Research Found. v. Gen. Motors Corp., 463 F.2d 98, 100 (2d Cir. 1972) (dismissing
+a claim where simple claims of conspiracy  or injury were insufficient without supporting
+facts); Five Smiths, Inc. v. Nat'l Football League Players Ass'n, 788 F.  Supp.  1042,  1048
+(D. Minn.  1992)  (supporting the argument that allegations of conspiracy without particular
+facts are inadequate to state a claim); Fort Wayne Telsat v. Entm't & Sports Programming2008] PRIVATE ANTITRUST CONSPIRACY CLAIMS 659
+Supreme  Court's  own  recognition  in  Associated General Contractors,
+where  allegations  by a union  of conduct by employers  to  undermine the
+union  were  rejected,  that  "in  a[n]  [antitrust]  case  of this  magnitude,  a
+district  court  must  retain  the  power  to  insist  upon  some  specificity  in
+pleading  before  allowing  a  potentially  massive  factual  controversy  to
+'12
+proceed."
+The recent conclusion of the Second Circuit in In re Elevator Antitrust
+Litigation213  that, after  Twombly,  allegations  of parallel  conduct  coupled
+with  conclusory  allegations  of  a  conspiracy-allegations  nearly
+indistinguishable  from  those  the  same  court  had  held  sufficient  in
+Twombly-is  not  path  breaking  in  light  of the  depth  of pre-Twombly
+precedent  on  conspiracy  claims  generally  and  Sherman  One  claims
+specifically.214  It  is true,  however, that the Second Circuit's approach  to
+pleading Sherman One in Elevators is diametrically opposed to that court's
+approach prior to reversal in Twombly.215
+The Ninth Circuit has reached post-Twombly a result not inconsistent
+with the pre-Twombly DM Research precedent.  In Kendall v.  Visa U.S.A.,
+Inc., allegations that the defendants agreed, unaccompanied  by allegations
+giving rise to  an  inference  of an agreement,  were  insufficient  to  state  a
+216
+claim.
+In  In  re Late Fee and Over-Limit Fee Litigation in  the  Northern
+District  of California,217  allegations  of "lockstep  pricing"  of late  fees,
+together  with  allegations  of  opportunity  and  incentive  to, collude  and
+conclusory allegations of agreement, were insufficient to meet the Sherman
+One  standard  post-Twombly.218   The  court  also  noted  features  of the
+complaint,  including  the  conclusory nature  of the  conspiracy  allegations
+and the pleading of facts, which themselves provided innocent explanations
+for the  parallel  conduct  alleged,  that  should  have  encouraged  dismissal
+under such cases as Sutliff or DM Research.  In In re Graphics Processing
+Units Antitrust Litigation, the  Northern  District  of California  held  that
+allegations  of  parallel  pricing  and  parallel  product  releases  were
+Network, 753 F. Supp.  109, 113 (S.D.N.Y. 1990) (quoting HeartD  isease for the proposition
+that conclusory statements without facts permit dismissal of antitrust claim).
+212.  459 U.S. 519, 528 n.17 (1983).  Justice Stevens, the dissenter in Twombly, wrote the
+opinion in Associated General Contractors.
+213.  502 F.3d 47 (2d Cir. 2007).
+214.  See id. at 50-52 (rejecting the allegations as insufficient).
+215.  See supra notes 43-45  and accompanying  text (discussing  the  Second  Circuit's
+original opinion in Twombly).
+216.  See Kendall v. Visa U.S.A., Inc., No. 05-16549, slip op. 2191-2194 (9th Cir. Mar.
+7, 2008).
+217.  2007 WL 4106353 (N.D. Cal. Nov. 16, 2007).
+218.  Id. at *5.660  U. PA. JOURNAL OF BUSINESS AND EMPLOYMENT LAW  [Vol.  10:3
+insufficient  to  survive  a  motion  to  dismiss  post-Twombly.21 9   Those
+holdings would not be surprising even in the pre-Twombly world.
+But Twombly does not spell the end of Sherman One litigation.220  This
+Article discusses above the sorts of plus factors that should be sufficient to
+permit a claim to proceed.221  Plaintiffs in Pennsylvania and California have
+been able to clear the hurdle.  In In re OSB Antitrust Litigation, the Eastern
+District  of Pennsylvania  held  that  allegations  of secret  meetings  and  a
+published  price  list  were  sufficient  to  survive  the motion  to  dismiss.222
+Likewise,  in In re Rubber Chemicals Antitrust Litigation, allegations  of
+parallel pricing,  together with allegations of meetings, including who was
+present and how they were involved in fixing prices, were sufficient.223
+IV.  CONCLUSION
+Potential  criticisms  of the  approach  to  pleading  the  Sherman  One
+claim  discussed  in  this  Article  abound.  The  application  of Rule  8,
+according  to its terms, to the  substantive  antitrust rules has the  effect of
+making more difficult the task for private plaintiffs in entering the litigation
+arena.  That is more so because antitrust conspiracy claims, at least, involve
+conduct that is secretive in nature.  The defendants are also the gatekeepers
+of the kind of information necessary  to  satisfy the pleading  requirement.
+Those  two  factors  produce  dramatic  information  asymmetries.  Justice
+Stevens discussed in his dissent (in a portion which Justice  Ginsburg did
+not join) that the result is to protect "antitrust defendants-who  in this case
+are some of the wealthiest corporations in our economy-from the burdens
+of pretrial discovery., 224  Those concerns  ignore  fundamentals  about the
+legal and regulatory scheme.
+Telecom regulation and antitrust have had an uneasy relationship since
+1996.  When  the  Telecom  Act was  passed,  it  was predictable  that  the
+requirements  of  interconnectivity  would  present  exclusionary  conduct
+concerns,  as  competitors  sought  to  enter  new  markets  and  incumbents
+219.  2007 WL 2875686, at *10-*11 (N.D. Cal. Sept. 27, 2007) (noting that Plaintiffs
+allegations could lead to a conclusion of coincidence rather than conspiracy).
+220.  But cf  Thomas,  supra note  16 (draft  at  7-8) (arguing that after  the trilogy  of
+summary judgment decisions in 1986, which included the Matsushita decision, "the courts
+exponentially increased their use of summary judgment," particularly in antitrust cases, and
+that the same should be expected for the motion to dismiss after Twombly).
+221.  See supra notes 165-198 and accompanying text (discussing pleading plus factors).
+222.  2007 WL 2253419, at *3 (E.D. Pa. Aug. 3, 2007)  ("Plaintiffs in the instant  case
+have alleged  facts that strongly suggest-and are  'not  merely consistent with'-a price-
+fixing conspiracy.").
+223.  504 F.S upp. 2d 777, 790 (N.D. Cal. 2007) ("Plaintiffs'  allegations against Welch
+are specific and substantial enough to state a cognizable claim.").
+224.  Bell  Atlantic  Corp.  v.  Twombly,  127  S. Ct.  1955,  1989  (2007)  (Stevens,  J.,
+dissenting).2008] PRIVATE ANTITRUST CONSPIRACY CLAIMS
+sought to keep them out.  So they did, and in Verizon Communications Inc.
+v. Law Offices of Curtis V. Trinko,n5 the Supreme Court held there was no
+place  for  a  Sherman  Two  suit  in  the  regulatory  scheme.16   One  might
+wonder whether the same rule could be applied to the Sherman One claim
+raised  in  Twombly.  The  Supreme  Court  noted  that  some  of plaintiffs'
+allegations  supporting  their  conspiracy  claims  were  the  result  of  the
+changing regulatory  scheme.  That being  so, perhaps,  like Sherman Two,
+the  Sherman  One  claims  should  be  approached  with  particular
+circumspection in that particular industry.
+What is clear about antitrust claims in general, and their application in
+this  industry  specifically,  is  that  the  substantive  law  imposes  a  heavy
+burden  on  plaintiffs.  It  does  so  to  protect  against  the  direct  harm  to
+individual defendants and the broader economic consequences of punishing
+commercial activity.  Unlike the civil rights claims at issue in the Supreme
+Court's  other  recent  pleading  cases,  where  individual  dignity  of  the
+plaintiffs is implicated, private suits under the antitrust laws primarily serve
+the  purpose  of  vindicating  broader  economic  interests.  The  remedy
+available  serves  as  an  incentive-perhaps  a  poorly  designed  one 
+2-to
+encourage private plaintiffs to incur the expense.  But it is the public right
+at stake, not the individual remedy, that is the primary thrust of the cause of
+action.  Thus,  imposing  strict  standards for private  claims  as  a matter of
+substantive antitrust law-with the effect of making it harder to survive the
+procedural  hurdle  of a  motion  to  dismiss2S-is a  necessary  protection
+against  misaligned  incentives.  That  check  would  be  undermined  by  a
+contrary  rule that  allowed claims  to proceed despite  the  failure  to plead
+elements.  The Twombly Court struck a substantially correct balance.
+225.  540 U.S. 398 (2004).
+226.  See id. at 412-16 ("The 1996 Act is, in an important respect, much more ambitious
+than the antitrust laws. It attempts 'to eliminate the monopolies enjoyed by the inheritors of
+AT&T's  local  franchises.'  Section 2 of the  Sherman Act, by contrast,  seeks merely to
+prevent unlawful monopolization. It would be a serious mistake to conflate the two goals.").
+227.  See Huffman, supra note 2, at 114 ("little incentive exists for private plaintiffs to
+limit  their  claims,  so  the  remedy  does  not  result  in  too  great  of deterrence  by  the
+defendant.").
+228.  Cf Twombly,  127 S. Ct. at 1975 (Stevens, J., dissenting) (accusing  the majority of
+"an interpretation of Federal Rule of Civil Procedure 12(b)(6) that seems to be driven by the
+majority's appraisal of the plausibility of the ultimate factual allegation").

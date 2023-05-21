@@ -1,0 +1,1718 @@
+THE “TOO BIG TO FAIL” PROBLEM 
+ 
+Saule T. Omarova* 
+ 
+“Too big to fail” – or “TBTF” – is a popular metaphor for a core 
+dysfunction of today’s financial system: the recurrent pattern of government 
+bailouts of large, systemically important financial institutions. The financial 
+crisis of 2008 made TBTF a household term, a powerful rhetorical device for 
+expressing  the  widely  shared  discontent  with  the  pernicious  pattern  of 
+“privatizing gains and socializing losses” it came to represent in the public’s 
+eye. Ten years after the crisis, TBTF continues to frame much of the public 
+policy debate on financial regulation. Yet, the analytical content of this term 
+remains remarkably unclear. 
+Taking a fresh look at the nature of the TBTF problem in finance, this 
+article offers a coherent framework for understanding the cluster of closely 
+related, but conceptually distinct, regulatory and policy challenges this label 
+actually denotes. It identifies the fundamental paradox at the heart of the 
+TBTF metaphor: TBTF is an entity-centric, micro-level metaphor for a 
+complex  of  interrelated  systemic,  macro-level  problems.  While  largely 
+unacknowledged, this inherent tension between the micro and the macro, the 
+entity and the system, critically shapes the design and implementation of the 
+key post-2008 regulatory reforms in the financial sector.  
+To trace these dynamics, the article deconstructs the TBTF metaphor into 
+its two basic components: (1) the “F” factor focused on the “failure” of 
+individual financial firms; and (2) the “B” factor focused on their “bigness” 
+(i.e.,  relative  size  and  structural  significance).  Analyzing  post-crisis 
+legislative and regulatory efforts to solve the TBTF problem through this 
+simplifying lens reveals critical gaps in that process, which consistently 
+favors  the  inherently  micro-level  “F”  factor  solutions  over  the  more 
+explicitly macro-level “B” factor ones. It also suggests potential ways of 
+rebalancing and expanding the TBTF policy toolkit to encompass a wider 
+range of measures targeting the relevant systemic dynamics in a more direct 
+and assertive manner. 
+ 
+                                                 
+* Saule T. Omarova is Professor of Law and Public Policy at Cornell University. I would 
+like to thank the organizers of and participants in the Minnesota Law Review Symposium, 
+“Recession in Retrospect: Financial Regulation and Consumer Protection Ten Years since 
+the Financial Crisis of 2008” (Oct. 12, 2018). Special thanks to Claire Hill, Robert Hockett, 
+and Patricia McCoy. All errors are my own. 2  The TBTF Problem - DRAFT  [20-Dec-18 
+	
+Introduction ................................................................................................... 2 
+I.  Deconstructing TBTF: A Paradox Inside the Metaphor ........................... 5 
+A. The “F” Factor: “Failure” in Focus ..................................................... 6 
+B. The “B” Factor: “Bigness” in the Background .................................... 7 
+II. In the Shadow of a Hidden Paradox: Post-Crisis Solutions to the TBTF 
+Problem .................................................................................................. 10 
+A. The “F” Factor Solutions: Prioritizing the “Micro” .......................... 10 
+1. Capital and Liquidity Regulation; Stress Tests ............................. 10 
+2. Resolution Plans; Orderly Liquidation Authority ......................... 13 
+B. The “B” Factor Solutions: Struggling with the “Macro”................... 14 
+1. Size Limits ..................................................................................... 15 
+2. Activity-Based Limits .................................................................... 15 
+C. How Clear Is The Line? ..................................................................... 17 
+III. Facing the Paradox: TBTF in a Systemic Context ................................ 19 
+A. Systemic Dynamics and Vulnerability of Current Solutions ............ 20 
+1. Complexity and Arbitrage ............................................................. 20 
+2. Interactions with the Real Economy .............................................. 22 
+3. Procyclicality and Collective Agency ........................................... 24 
+B. Paradox Resurfaces: The Rhetoric of “Unintended Consequences” . 26 
+IV. What Now? Reframing the Problem, Rebalancing Solutions ............... 28 
+A. Reinforcing Existing Tools: Size Caps; Structural Separation ......... 28 
+B. Expanding the Reform Agenda: Prices, Products, Public Options .... 34 
+Conclusion .................................................................................................. 39 
+ 
+INTRODUCTION  
+The phrase “too big to fail” – or “TBTF” – is a popular metaphor for one 
+of the core dysfunctions of today’s financial system: the recurrent pattern of 
+government bailouts of large, systemically important financial institutions.1 
+It is by no means a new phenomenon. The “too big to fail” label became 
+famous in 1984, in connection with the crisis involving Continental Illinois 
+                                                 
+1 See, e.g., William Safire, Too Big To Fail Or To Bail Out? N.Y. TIMES (Apr. 6, 2008), 
+available  at  https://www.nytimes.com/2008/04/06/opinion/06iht-
+edsafire.1.11699108.html?_r=1. (“Before too big to fail became a nervously practical answer 
+to the worry about moral hazard, the word coined to describe the method used to rescue a 
+financial entity from the consequences of risky or irresponsible behavior was bailout”). 20-Dec-18]  The TBTF Problem -DRAFT  3 
+National Bank and Trust Company.2 The phrase itself, however, is even older 
+than that: in 1975, for example, public commentators and media used it to 
+describe the government rescue of Lockheed Corporation.3 
+The global financial crisis of 2008 brought the TBTF phenomenon into 
+the spotlight and breathed new life into the old metaphor.4 In 2008-2009, to 
+contain a systemic calamity, the governments in the U.S. and Europe rolled 
+out massive capital and liquidity support programs not only for banks but also 
+for large non-bank financial institutions, including investment banks, money 
+market mutual funds, and insurers.5 At the time, the sheer scale and visibility 
+of these stabilization efforts created a significant political backlash against 
+government bailouts as a policy tool.  
+Ironically,  however,  the  crisis  containment  measures  resulted  in  the 
+creation of fewer and bigger financial institutions.6 The post-crisis increase 
+in the level of concentration of the U.S. financial industry is difficult to deny. 
+For example, as of the year-end 2017, top five U.S. bank holding companies 
+(BHCs) held 48% of the country’s BHC assets.7 By early 2018, there were 
+four U.S. BHCs with more than $1.9 trillion in assets on their individual 
+balance sheets.8 Despite the post-crisis passage of the Dodd-Frank Act,9 the 
+most wide-ranging regulatory reform in the U.S. financial sector since the 
+1930s, the TBTF remains a “live” issue on the public policy agenda and 
+continues to generate intense academic and political debates.10  
+                                                 
+2 See FDIC, HISTORY OF THE EIGHTIES: CONTINENTAL ILLINOIS AND “TOO BIG TO 
+FAIL,” available at https://www.fdic.gov/bank/historical/history/235_258.pdf.  
+3 See Amy Farber, Historical Echoes: “Too Big To Fail” Is One Big Phrase, FRBNY: 
+LIBERTY  STREET  ECONOMICS  (Oct.  5,  2012),  available  at 
+http://libertystreeteconomics.newyorkfed.org/2012/10/historical-echoes-too-big-to-fail-is-
+one-big-phrase.html.  
+4 See, generally, Mark Labonte, Systemically Important or “Too Big To Fail” Financial 
+Institutions, Congressional Research Service Report R42150 (Sept. 24, 2018), available at 
+https://fas.org/sgp/crs/misc/R42150.pdf. 
+5 For a comprehensive overview of these programs in the U.S., see Xiaoxi Liu, The Costs 
+of Bailouts in the 2007-08 Financial Crisis, 22 FORDHAM J. CORP.& FIN. L. 417 (2017).  
+6 See Matt Egan, Too-big-to-fail banks keep getting bigger, CNN.COM (Nov. 21, 2017), 
+available  at  https://money.cnn.com/2017/11/21/investing/banks-too-big-to-fail-jpmorgan-
+bank-of-america/index.html; Yaman Onaran, Too Big To Fail, BLOOMBERG.COM (Dec. 8, 
+2017),  available  at  https://www.bloomberg.com/quicktake/big-fail  (“There  are  some 
+6,000 banks in the U.S. The biggest six have $10 trillion in assets, almost twice as much as 
+the next 30 combined. The six biggest banks in the U.S. and Europe have increased their 
+assets more than five-fold since 1997. That’s a lot of money in a small number of hands.”). 
+7 Labonte, supra note 4 at 2. 
+8 Id. 
+9 Dodd-Frank Wall Street Reform and Consumer Protection Act, Pub. L. No. 111-203, 
+124 Stat. 1376 (2010) (codified in scattered sections of the U.S. Code). 
+10 During his Senate confirmation hearings in late 2017, Jerome Powell, now the 
+Chairman of the Federal Reserve, famously proclaimed that the TBTF problem ceased to 4  The TBTF Problem - DRAFT  [20-Dec-18 
+Importantly, “TBTF” is a rhetorically potent device, which explains the 
+popularity of multiple variations on the “too big” theme in academic and 
+popular discussions.11 The phrase is not only extremely capacious but also 
+emotionally  charged.  It  strongly  conveys  a  clear  sense  of  fundamental 
+unfairness,  the  “wrongfulness”  of  granting  the  ultimate  privilege  of 
+invincibility to the most powerful financial conglomerates. A full decade 
+after the crisis nearly destroyed global financial markets, the TBTF label 
+effectively  crystallizes  the  widely  shared  discontent  with  the  financial 
+system.12  Yet,  it  is  surprisingly  conceptually  imprecise.  Despite  the 
+significant  and  rapidly  growing  scholarly  literature  discussing  various 
+aspects of the TBTF phenomenon, the analytical substance of that term 
+remains  remarkably  unclear.13  In  many  ways,  it  still  functions  as  the 
+discursive  equivalent  of  the  common  “you  know  it  when  you  see  it” 
+approach.  
+The purpose of this article is to take a fresh, deeper and more sustained, 
+look at the nature of the TBTF problem in finance – and to offer a coherent 
+framework for understanding the cluster of closely related, but analytically 
+distinct, regulatory and policy challenges this label actually denotes. To be 
+clear, this article is not intended as a comprehensive technical analysis of the 
+key determinants of, and policy responses to, the TBTF phenomenon. It seeks 
+neither to dissect any particular scholarly argument on this broad topic nor to 
+critique any particular regulatory measure in this area. My approach here is 
+deliberately high-level and taxonomic: this is a broad field-mapping exercise, 
+a thought-organizing and clarifying experiment. Developing this type of a 
+conceptual map is of critical importance. A careful deconstruction – and 
+rediscovery – of the full meaning of the TBTF metaphor elucidates the 
+                                                 
+exist.  See  Jeffry  Bartash,  Powell  says  the  U.S.  no  longer  has  too-big-to-fail  banks, 
+MARKETWATCH.COM  (Nov.  29,  2017),  available  at 
+https://www.marketwatch.com/story/powell-says-the-us-no-longer-has-too-big-to-fail-
+banks-2017-11-28. Many disagree with this assessment, however. See Dennis Kelleher, ‘Too 
+Big To Fail’ is Alive and Kicking. AM. BANKER (Aug. 1, 2018). For a recent official proposal 
+targeting  the  TBTF  problem,  see  FEDERAL  RESERVE  BANK  OF  MINNEAPOLIS,  THE 
+MINNEAPOLIS  PLAN  TO  END  TOO  BIG  TO  FAIL  (2017),  available  at 
+https://www.minneapolisfed.org/~/media/files/publications/studies/endingtbtf/the-
+minneapolis-plan/the-minneapolis-plan-to-end-too-big-to-fail-final.pdf?la=en  [hereinafter, 
+THE MINNEAPOLIS PLAN]. 
+11 See Amanda Aronczyk, Too Big To Fail Is Too Hard To Resist, MARKETPLACE (Apr. 
+5, 2011), available at https://www.marketplace.org/2011/04/05/business/economy-40/too-
+big-fail-too-hard-resist.  
+12 See sources cited supra note 6; Kelleher, supra note 10. 
+13  For  a  glimpse  of  the  wide-ranging  literature  on  TBTF  as  a  financial-sector 
+phenomenon, see SIMON JOHNSON & JAMES KWAK, THIRTEEN BANKERS: THE WALL STREET 
+TAKEOVER  AND  THE  NEXT  FINANCIAL  MELTDOWN  (2010);  GARY  H.  STERN  &  RON 
+FELDMAN, TOO BIG TO FAIL: THE HAZARD OF BANK BAILOUTS (2004). 20-Dec-18]  The TBTF Problem -DRAFT  5 
+fundamental reasons for the continuing persistence of the TBTF phenomenon 
+in the financial sector. It also enables us to start envisioning new, potentially 
+more effective and integrated solutions to the TBTF problem.  
+The article is organized as follows. Part I of the article begins by breaking 
+down the TBTF metaphor into two interrelated but conceptually distinct 
+components – one focused on the failure of a large financial firm, and another 
+focused  primarily  on  its  size  –  and  discussing  the  fundamental  tension 
+between the “micro” and “macro” levels of analysis implicit in this duality. 
+Part II uses this basic framework to make sense of the wide-ranging post-
+2008  efforts  to  combat  the  TBTF  problem  and  demonstrates  the 
+predominantly micro-level, entity-centric nature of such efforts. Part III 
+examines the resulting inability of the key post-crisis regulatory reforms to 
+address TBTF as a systemic, macro-level problem. Part IV sketches out 
+potential ways of filling the gaps in the current TBTF policy, by expanding 
+and strengthening the more explicitly macro-level, structural approaches to 
+this complex, multi-faceted problem. 
+I.  DECONSTRUCTING TBTF: A PARADOX INSIDE THE METAPHOR 
+At the heart of the TBTF problem, there is a fundamental paradox: TBTF 
+is  an  entity-centric,  micro-level  metaphor  for  a  cluster  of  interrelated 
+systemic, macro-level problems. This inherent conceptual tension between 
+the micro and the macro, the entity and the system, frames much of the public 
+policy debate on TBTF. It also renders TBTF a uniquely complex and multi-
+layered  phenomenon  and  explains,  on  a  deeper  level,  the  seemingly 
+intractable and persistent nature of the TBTF problem.14  
+Yet, to date, this critically important internal tension has gone largely 
+unnoticed – and its analytical implications unrecognized – by scholars and 
+policymakers grappling with numerous specific aspects and manifestations 
+of the TBTF phenomenon. Despite the enormous  amount of post-crisis 
+learning  and  experimentation,  there  remains  a  significant  gap  in  our 
+collective understanding of the TBTF problem. To fill this gap, it may be 
+helpful to begin by broadening our theoretical lens and exploring the hidden 
+meaning of the TBTF metaphor. 
+Intuitively, the easiest method of deconstructing TBTF is to break the 
+concept into two principal components, corresponding to the two letters that 
+give the acronym its meaning: the letter “B” and the letter “F.” For ease of 
+reference, I call these two components the “B factor” and the “F factor,” 
+respectively. Despite its apparent simplicity, this technique yields important 
+new insights into the complex inner dynamics of the all-too-familiar TBTF 
+problem. 
+                                                 
+14 See infra Parts II-III. 6  The TBTF Problem - DRAFT  [20-Dec-18 
+A.  The “F” Factor: “Failure” in Focus 
+What I call here the “F factor” is by far the more salient and widely 
+discussed component of the TBTF phenomenon.  
+The letter “F” in the acronym stands for a “failure” of a particular 
+financial institution. The “F” factor, accordingly, denotes bailouts, or various 
+forms of government rescue of financial firms on the brink of insolvency. 
+Historically, the phrase “too big to fail” emerged directly in response to, and 
+in the context of, such government rescue efforts.15 It is, therefore, hardly 
+surprising that public discussions on the TBTF problem continue to revolve 
+primarily  around  the  ever-present  possibility  of  government  bailouts  of 
+failing financial institutions. 
+The continuing discursive and practical emphasis on the “F” factor also 
+reflects the heightened normative salience of large financial institutions’ 
+seeming  immunity  to  failure.  Because  bailouts  involve  publicly  funded 
+assistance to privately owned firms, whose financial woes are a direct result 
+of their own profit-seeking activities, they tend to trigger negative reactions 
+across  the  political  spectrum.16  At  bottom,  a  bailout  is  the  ultimate 
+manifestation  of  the  infamous  dynamics  of  “privatization  of  gains, 
+socialization of losses.”17 It exemplifies the fundamental unfairness of the 
+situation in which a firm that fully enjoyed the benefits of being a free market 
+participant when things were going well repudiates the basic rules of the free 
+market when its business decisions bring it to the brink of collapse.  
+Relatedly,  government  bailouts  of  private  firms  evoke  an  array  of 
+explicitly distributional concerns.18 An actual rescue of a large financial 
+institution is an extraordinary act, a direct grant of explicit and tangible public 
+subsidy not available to smaller entities. Moreover, the sheer expectation that 
+the government will always bail out TBTF financial institutions, internalized 
+by other market participants, generates the specter of implicit public subsidy 
+of such institutions’ private risk-taking.19 The well-known notion of “moral 
+hazard” captures the economic inefficiencies associated with this implicit 
+subsidy: large firms shielded from the negative consequences of their risk-
+                                                 
+15 See supra notes 1-3 and accompanying text.  
+16 See Adam Levitin, In Defense of Bailouts, 99 GEO. L. J. 435 (2011). 
+17 See, e.g., Joseph Stiglitz, U.S. Does Not Have Capitalism Now, CNBC.COM (19 Jan. 
+2010), available at https://www.cnbc.com/id/34921639. 
+18 Levitin, supra note 16, at 452 (“Concerns about the systemic risk posed by TBTF 
+firms are ultimately distributional anxieties. It is the fear of the broadest macroeconomic 
+impact—that everyone will be affected—that animates discussions of systemic risk. While 
+macroeconomic impacts are broadly felt by everyone, they are not felt equally. Some are 
+harmed more than others, and some might even benefit.”). 
+19 For a review of the literature on the TBTF subsidy prepared by the staff of the Federal 
+Deposit  Insurance  Corporation  (FDIC),  see 
+https://www.fdic.gov/news/news/speeches/literature-review.pdf.  20-Dec-18]  The TBTF Problem -DRAFT  7 
+taking have an incentive to take greater risks than they otherwise would.20 
+While it is notoriously difficult to quantify the implicit TBTF subsidy, there 
+is  hardly  any  confusion  about  the  fundamental  unfairness  and  uneven 
+distributional consequences of this pattern: the most vulnerable members of 
+society typically end up bearing the disproportionate share of losses caused 
+by TBTF firms’ risky behavior.21  
+In this sense, bailouts violate the ideologically enshrined public-private 
+boundary in finance and expose the porous and negotiated nature of that 
+boundary.22 On a deeper level, therefore, TBTF is a public-private boundary 
+problem  and,  by  extension,  a  problem  of  political  legitimacy.23  These 
+political dynamics built into the “F” factor are especially visible during a 
+systemic  crisis  when  bailouts  of  TBTF  firms  constitute  a  concerted 
+government strategy of crisis containment.24  
+To sum up, the interplay of these considerations explains why the focus 
+of the ongoing debate on the TBTF problem remains primarily on the failure 
+of an individual firm, or the “F” factor. Placing the undesirable macro-level 
+effects of certain financial firms’ failure at the core of the TBTF problem 
+gives the debate a degree of conceptual and normative clarity, which is 
+critical from the perspective of devising and implementing specific policy 
+responses. 
+B.  The “B” Factor: “Bigness” in the Background 
+In contrast to the “F” factor, the “B” factor generally remains in the 
+background of the academic and policy discussions of TBTF. There are 
+several reasons for the muted discursive salience of the “B” factor.  
+To start with, there is a significant ambiguity with respect to what exactly 
+                                                 
+20 See Labonte, supra note 4, at 4-5 (discussing “moral hazard”). 
+21 See, e.g., Ben S. Bernanke, Chairman, Fed. Reserve Bd., Community Development in 
+Challenging  Times,  Address  at  the  Federal  Reserve  Community  Affairs  Research 
+Conference  (Apr.  29,  2011),  available  at 
+https://www.federalreserve.gov/newsevents/speech/bernanke20110429a.htm  (stating  that 
+poor communities and individuals have been hit the hardest by the economic problems in the 
+aftermath of the financial crisis). 
+22 For in-depth discussions of the public-private balance in modern finance, see Robert 
+C. Hockett & Saule T. Omarova, Private Wealth and Public Goods: A Case for a National 
+Investment Authority, 43 J. CORP. L. 437 (2018) [hereinafter, National Investment Authority]; 
+Robert C. Hockett & Saule T. Omarova, The Finance Franchise, 102 CORNELL L. REV. 1143 
+(2017) [hereinafter, Finance Franchise]; Robert C. Hockett & Saule T. Omarova, Public 
+Actors in Private Markets: Toward a Developmental Finance State, 93 WASH. U. L. REV. 
+103 (2015) [hereinafter, Public Actors]; Robert C. Hockett & Saule T. Omarova, “Private” 
+Means to “Public” Ends: Governments as Market Actors, 15 THEORETICAL INQUIRIES IN L. 
+53 (2014). 
+23 See Levitin, supra note 16, at 446-47. 
+24 See Anna Gelpern, Financial Crisis Containment, 41 CONN. L. REV. 1051 (2008-09). 8  The TBTF Problem - DRAFT  [20-Dec-18 
+the “B” factor denotes.  As used in the acronym TBTF, the letter “B” stands 
+for “big” or “bigness.” Thus, on its face, it refers simply to the size of the 
+firms’ balance sheets. Size, however, is itself mainly a proxy for an individual 
+firm’s structural power and functional significance within the market. From 
+this perspective, it makes sense to interpret the “B” factor as encompassing 
+the much  more capacious and multi-faceted notion of individual  firms’ 
+“systemic importance.”25 Indeed, much of the public discussion of the TBTF 
+phenomenon currently revolves around issues of identifying, regulating, and 
+supervising  so-called  “systemically  important  financial  institutions,”  or 
+SIFIs.26  The  TBTF  problem,  accordingly,  is  often  recast  in  terms  of 
+preventing the failure – and avoiding bailouts – of SIFIs.27  
+This melding of two concepts – TBTF and SIFI – dramatically expands 
+the analytical scope of the “B” factor. The size of an individual firm’s balance 
+sheet – its “bigness” in a literal sense – becomes only one key metric of 
+systemic significance; the others include the firm’s “interconnectedness,” 
+complexity of its operations and structure, and degree of substitutability of 
+its products and services.28 Isolating, measuring, and balancing these and 
+other related attributes, however, is notoriously difficult.29 It involves making 
+numerous qualitative judgments lacking the simplicity of a purely size-based 
+scale.30 In effect, a substantively more capacious definition of the “B” factor 
+opens it to competing interpretations and thus potentially blunts its impact as 
+a policy tool.  
+                                                 
+25 In fact, in a recent study of the TBTF subsidy, the International Monetary Fund (IMF) 
+deliberately used the term “too important to fail,” or “TITF,” instead of the more familiar 
+TBTF.  See INT’L MONETARY FUND, GLOBAL FINANCIAL STABILITY REPORT: MOVING FROM 
+LIQUIDITY-  TO  GROWTH-DRIVEN  MARKETS  102  (Apr.  2014),  available  at 
+file:///C:/Users/sto24/Downloads/_c3pdf%20(2).pdf.  
+26 The Dodd-Frank Act established the Financial Stability Oversight Council (FSOC) 
+and granted it authority to designate non-bank financial institutions as SIFIs, thereby 
+subjecting them to consolidated prudential oversight by the Federal Reserve. 12 USC § 
+5323(a)(1).  
+27 See, e.g., Labonte, supra note 4, at 1 (defining TBTF as merely a “popular” term for 
+SIFIs). 
+28 See Basel Committee on Banking Supervision, Globally systemically important 
+banks: Assessment methodology and the additional loss absorbency requirement 1-2 (Nov. 
+2011), available at https://www.bis.org/publ/bcbs207.pdf. 
+29 The bitter fight over designation of MetLife, a large insurance conglomerate, as a SIFI 
+subject to enhanced prudential supervision under the Dodd-Frank Act provides a powerful 
+illustration of these difficulties. See, e.g., John Heltman, FSOC gives up effort to designate 
+MetLife  as  SIFI,  AM.  BANKER  (Jan.  18,  2018),  available  at 
+https://www.americanbanker.com/news/fsoc-gives-up-effort-to-designate-metlife-as-sifi.  
+30 See Int’l Monetary Fund, Bank for Int’l Settlements, Fin. Stability Bd, Guidance to 
+Assess the Systemic Importance of Financial Institutions, Markets, and Instruments: Report 
+to  G-20  Finance  Ministers  and  Governors  (Oct.  2009),  available  at 
+https://www.imf.org/external/np/g20/pdf/100109.pdf.   20-Dec-18]  The TBTF Problem -DRAFT  9 
+Even without this complicating interpretive twist, however, the “B” factor 
+lacks the normative clarity and rhetorical appeal of the “F” factor. While a 
+firm’s failure is an unambiguously bad thing, it is not necessarily the case 
+with respect to its size. Unlike an actual failure of a big financial firm, the 
+size of the firm, by itself, is not likely to trigger a cascade of other firms’ 
+failures. Although a particular firm’s size can amplify the impact of its 
+actions on the stability of the market, size is fundamentally an attribute rather 
+than an act. Moreover, the growing size of an individual firm’s balance sheet 
+may  actually  generate  beneficial  economies  of  scale.31  Diversifying  the 
+firm’s assets – a factor that goes to that firm’s broader systemic importance 
+rather than its “bigness” – may also generate potentially beneficial economies 
+of scope.32 The importance of economies of scale and scope in the provision 
+of financial services makes it much more difficult to define the normative 
+baseline for assessing the effects of the “B” factor. 
+The inherently relative, or relational, nature of the “B” factor in the TBTF 
+formulation further complicates this task. What makes a particular firm 
+problematic is not simply that it is “big” in some absolute terms but that it is 
+“too big” in terms of the macro-economic effects of its failure. In this sense, 
+the “B” factor denotes an explicitly systemic, macro-level aspect of the 
+problem. All “B” factor determinations involve dynamic assessments of an 
+individual entity’s size, market power, or functional significance in relation 
+to, and as part of, the financial system as a whole – a difficult and context-
+dependent  exercise,  often  involving  counterfactual  assumptions  and 
+predictive conclusions.  
+In sum, what I call here the “B” factor is where the fundamental tension 
+within the TBTF metaphor – that between the “micro-“ and the “macro-“ 
+levels of analysis – manifests itself most clearly. By broadening the inquiry 
+beyond the discrete event of an individual financial firm’s failure, the “B” 
+factor potentially points to the deeper, more structurally significant drivers of 
+the TBTF dynamics. At the same time, it is inherently more complex, difficult 
+to define with precision, and thus politically and normatively contestable. 
+ 
+                                                 
+31 See, e.g., Inci Otker-Robe et al., The Too-Important-to-Fail Conundrum, Int’l 
+Monetary  Fund,  Staff  Discussion  Note  SGN/11/12  (May  2011),  available  at 
+https://www.imf.org/external/pubs/ft/sdn/2011/sdn1112.pdf (reviewing available evidence 
+on the economies of scale). 
+32 See, e.g., Arnoud W. A. Boot, The Future of Banking: From Scale and Scope 
+Economies  to  Fintech,  2  EUR.  ECON.  77,  83-87  (2017),  available  at 
+file:///P:/ARTICLES/STRUCTURAL%20REFORM/DRAFTS.NOTES/TBTF%20DRAFT
+S/Boot.From.Scale.to.Fintech.2017.pdf (reviewing research on the economies of scope in 
+finance).  10  The TBTF Problem - DRAFT  [20-Dec-18 
+II. IN THE SHADOW OF A HIDDEN PARADOX: POST-CRISIS SOLUTIONS TO THE 
+TBTF PROBLEM 
+Breaking the TBTF concept into two principal components – the “F” 
+factor focused on the failure of individual financial firms, and the “B” factor 
+focused on the size and other indicia of such firms’ structural power and 
+functional importance – provides a helpful framework for assessing the 
+nature and efficacy of specific solutions to the TBTF problem. In the first 
+instance, it allows for drawing a relatively clear conceptual line between two 
+groups of post-crisis TBTF policy responses: the “F” factor solutions and the 
+“B” factor solutions, respectively.33 
+A.  The “F” Factor Solutions: Prioritizing the “Micro” 
+What I call the “F” factor solutions to the TBTF problem are those 
+policies and regulations that explicitly target the firm failure aspect of the 
+problem.34 Consistent with the heightened salience of the “F” factor in the 
+TBTF  context,  this  group  comprises  the  vast  majority  of  post-crisis 
+regulatory reforms in this area. 
+As a general matter, all currently adopted (or seriously discussed) “F” 
+factor solutions to the TBTF problem fall into one, or both, of the two related 
+categories. They seek either (1) to minimize individual financial firms’ 
+chances of failing (the “don’t let them get too risky” approach); or (2) to 
+minimize the broader fallout from individual firms’ failure (the “let them fail 
+without bringing down the system and thus necessitating bailout” approach). 
+While a detailed analysis of all post-crisis reforms is beyond the scope of this 
+discussion, a brief summary of the relevant regulatory changes helps to 
+illustrate the point. 
+1.  Capital and Liquidity Regulation; Stress Tests 
+The first category of the “F” factor solutions includes a wide variety of 
+familiar microprudential regulatory tools – such as, e.g., capital adequacy 
+ratios, liquidity requirements, consolidated oversight – strengthened and 
+repurposed  as  post-crisis  tools  of  macroprudential  regulation  and 
+supervision.35  
+                                                 
+33 Of course, this is only a relatively clear line. As discussed below, various post-crisis 
+macroprudential regulatory and supervisory measures attempt to mediate, at least in part, the 
+distinction between the “F” and the “B” components of the TBTF problem. See infra note 
+48 and accompanying text; Part II.C. 
+34 It is important to note, however, that there is no officially labeled “TBTF policy” or 
+“TBTF regulatory regime.” Reflecting the all-encompassing nature of the TBTF metaphor, 
+these terms are used in public discourse to denote to a complex of regulatory policies that 
+seek to address various aspects of the problem. 
+35 On macroprudential regulation generally, see Robert Hockett, The Macroprudential 
+Turn: From Institutional ‘Safety and Soundness’ to Systematic ‘Financial Stability’ in 20-Dec-18]  The TBTF Problem -DRAFT  11 
+Capital regulation is the central element in this regime. Its purpose is to 
+limit individual banks’ and BHCs’ leverage, primarily by mandating that they 
+continuously meet certain mandatory ratios of loss-absorbing “regulatory 
+capital” to assets.36 The modern system of so-called “risk-based” capital 
+regulation emerged in 1988, when the Basel Committee on Bank Supervision 
+(BCBS) published the first common set of risk-based capital standards – 
+known as Basel I – agreed upon by regulators from the leading industrialized 
+countries.37 In the years leading up to the financial crisis, however, Basel I 
+came under intense criticism for being too blunt and not sufficiently sensitive 
+to the actual risk of banking firms’ assets. In 2004, the BCBS published a 
+revised capital accord, Basel II, which effectively allowed large financial 
+institutions’ to determine their own risk-based capital requirements.38 As 
+became clear in the fall of 2008, this “tailored” and “risk-sensitive” approach 
+led to a dangerous decline in the levels of loss-absorbing capital across the 
+banking sector and correspondingly excessive accumulation of leverage and 
+risk in the financial system.39 
+In  2010,  the  BCBS  adopted  Basel  III,  which,  among  other  things, 
+significantly tightened the scope and definition of “regulatory capital” in 
+order to enhance its loss-absorbing capacity; imposed more stringent and 
+varied risk-based capital requirements (including certain additional “buffers” 
+and “surcharges” on top of the core ratios); and introduced a new, non-risk-
+based “leverage ratio” requirement.40 These changes generally sought to 
+strengthen banking institutions’ safety and soundness by forcing them to 
+maintain a more effective balance-sheet cushion against sudden losses of 
+their assets’ value.41 
+                                                 
+Financial Supervision, 9 VA. L. & BUS. REV. 201 (2015); Gabriele Galati & Richhild 
+Moessner,  Macroprudential PolicyA Literature  Review  (Bank for Int’l  Settlements, 
+Working Paper No. 337, 2011), www.bis.org/publ/work337.pdf; Int’l Monetary Fund, 
+Macroprudential  Policy:  An  Organizing  Framework  (2011), 
+https://www.imf.org/external/np/pp/eng/2011/031411.pdf. For an early articulation of the 
+importance of macro- approach to regulation, see Fixer-Upper, infra note 89. 
+36 For an overview of bank capital regulation, see RICHARD SCOTT CARNELL, JONATHAN 
+R. MACEY, GEOFFREY P. MILLER. THE LAW OF FINANCIAL INSTITUTIONS 238-267 (6th ed., 
+2017);  MICHAEL S. BARR, HOWELL E. JACKSON, MARGARET E. TAHYAR, FINANCIAL 
+REGULATION: LAW AND POLICY 291-311 (2nd ed., 2018). 
+37 For a brief history of Basel I Accord, see BARR ET AL., supra note 36 at 291-295. 
+38 See id., at 296-306. 
+39  See  id.,  at  306-311.  By way  of  clarification,  Basel II  merely  formalized  and 
+exemplified the generally permissive regulatory approach to bank capital – and, more 
+broadly, safety and soundness – in the pre-crisis era. Thus, the fateful erosion of U.S. banks’ 
+loss-absorbing capacity happened despite the significant delays in the U.S. implementation 
+of Basel II.    
+40  For  an  official  summary  table  of  Basel  III  requirements,  see 
+https://www.bis.org/bcbs/basel3/b3_bank_sup_reforms.pdf.   
+41 In the U.S., the new Basel III requirements were adopted into regulation by 2014. See 12  The TBTF Problem - DRAFT  [20-Dec-18 
+In addition to these traditional solvency-enhancing measures, Basel III 
+also includes new liquidity requirements: a Liquidity Coverage Ratio (LCR) 
+and a Net Stable Funding Ratio (NSFR).42 The LCR seeks to ensure the short-
+term resilience of individual banking institutions by mandating that they 
+maintain a sufficient stock of “high-quality liquid assets” (HQLA), which 
+they can easily convert into cash in private markets to meet all of their 
+liquidity needs for 30 calendar days.43 The NSFR, in turn, seeks to limit 
+banking  institutions’  reliance  on  short-term  wholesale  funding  that  can 
+quickly dry up under market stress conditions.44 Specifically, it requires 
+banks to have stable funding to meet net outflows in a stressed environment 
+for a full year.45 Thus, both LCR and NSFR explicitly aim to improve banks’ 
+ability to withstand market-wide shocks. 
+Post-crisis introduction of mandatory stress tests, in turn, aims to ensure 
+that  individual  financial  institutions  are,  in  fact,  sufficiently  resilient  to 
+shocks and, therefore, more likely to avoid failure. In the U.S., for example, 
+the Federal Reserve conducts annual Comprehensive Capital Analysis and 
+Review (CCAR) of the largest BHCs, which test their capital planning and 
+positions under various severely adverse economic scenarios.46 In addition, 
+certain large BHCs are also required to conduct periodic internal stress tests.47  
+It is worth noting here that, in a certain sense, the post-crisis regime of 
+enhanced prudential supervision may be viewed as an attempt to synthesize, 
+albeit in a partial and indirect manner, the entity-level and the system-level 
+factors in addressing the TBTF problem.48 This regime seeks to prevent 
+                                                 
+https://www.federalreserve.gov/supervisionreg/basel/USImplementation.htm.  
+42 For an overview of Basel III liquidity standards, see BARR ET AL., supra note 36 at 
+327-329. 
+43 See https://www.bis.org/publ/bcbs238.htm.  
+44 See https://www.bis.org/bcbs/publ/d295.htm.  
+45 Id. 
+46 See https://www.federalreserve.gov/supervisionreg/ccar.htm. The Federal Reserve’s 
+CCAR includes as one of its components the supervisory stress tests of the largest BHCs 
+mandated by Section 165(i)(1) of the Dodd-Frank Act. 12 USC § 5365(i)(1), as amended. 
+47 See 12 USC § 5365(i)(2), as amended.  
+48 See infra Part II.C. The “Minneapolis Plan to End Too Big to Fail,” published by the 
+Federal Reserve Bank of Minneapolis in December 2017, provides a clear example of a 
+deliberate effort to reorient some of the traditional “F” factor solutions toward the “B” 
+aspects of the TBTF problem. See THE MINNEAPOLIS PLAN, supra note 10. Thus, the 
+Minneapolis Plan advocates using significantly heightened capital requirements (up to 38% 
+of the firm’s total consolidated assets) as the lever for forcing large banking institutions to 
+reduce, on their own, the size of their balance sheets and their systemic significance. Id. Not 
+surprisingly, the Minneapolis Plan was quickly labeled as too radical to be adopted into 
+policy, at least in the foreseeable future. See Jeff Cox, Minneapolis Fed proposes massive 
+regulation  change  for  banks,  CNBC.,  (10  Jan.  2018),  available  at 
+https://www.cnbc.com/2018/01/10/minneapolis-fed-proposes-massive-regulation-change-
+for-big-banks.html.  20-Dec-18]  The TBTF Problem -DRAFT  13 
+individual firms’ failure as a threat to systemic stability – and adopts firms’ 
+“bigness” as the key metric for gauging that threat. Thus, enhanced prudential 
+standards apply to financial institutions on a consolidated basis.49 Their 
+applicability and the degree of burdensomeness also explicitly depend on 
+individual firms’ asset size. Under the original text of the Dodd-Frank Act, 
+enhanced prudential standards applied to BHCs with over $50 billion in total 
+assets.50 In 2018, Congress raised this baseline threshold to $250 billion and 
+further conditioned the applicability of various specific provisions of the Act 
+on BHCs exceeding specified size thresholds.51 Tellingly, however, this push 
+for loosening prudential standards applicable to smaller institutions is driven 
+by a fundamentally micro-level rationale: the belief that “the character of 
+regulation should match the character of a firm.”52 
+2.  Resolution Plans; Orderly Liquidation Authority 
+A related but conceptually distinct group of “F” factor solutions to the 
+TBTF problem targets the resolvability of large financial institutions. The 
+core idea here is simple: if, despite regulatory limitations on its risk-taking, a 
+large financial firm nevertheless fails, its failure should be contained and 
+managed in a way that ensures uninterrupted functioning of the rest of the 
+financial system. In other words, the goal is to minimize, if not eliminate, the 
+likelihood of government-funded bailouts of private financial firms. 
+To this end, the Dodd-Frank Act requires all SIFIs and BHCs with at least 
+$250 billion in total consolidated assets to prepare and submit to regulators 
+credible resolutions plans, or “living wills.”53 These plans must contain 
+detailed information about the firms’ structure and operations and lay out 
+how they would be resolved in an orderly and timely manner under various 
+failure  scenarios.54  Failure  to  submit  a  credible  resolution  plan  triggers 
+regulatory action, including imposition of more stringent capital or liquidity 
+requirements and restrictions on activities or acquisitions.55 
+                                                 
+49 This principle is at the core of the post-crisis concept of SIFI supervision.  
+50 The original text of the Dodd-Frank Act, as enacted on July 21, 2010, is available at 
+https://www.govinfo.gov/content/pkg/PLAW-111publ203/pdf/PLAW-111publ203.pdf.  A 
+brief legislative history of the Dodd-Frank Act is available at https://www.llsdc.org/dodd-
+frank-legislative-history.  
+51 Economic Growth, Regulatory Relief, and Consumer Protection Act, Pub. L. No. 115-
+174 (05/24/2018).  
+52 Bd. Of. Gov. of Fed. Res. Sys., Statement on Proposals to Modify Enhanced 
+Prudential Standards for Large Banking Organizations by Vice Chairman for Supervision 
+Randal  K.  Quarles  (Oct.  31,  2018),  available  at 
+https://www.federalreserve.gov/newsevents/pressreleases/quarles-opening-statement-
+20181031.htm.  
+53 See 12 USC § 5365(d), as amended. 
+54 See, generally, 12 CFR Part 243. 
+55 12 CFR § 243.6.  14  The TBTF Problem - DRAFT  [20-Dec-18 
+Furthermore, Title II of the Dodd-Frank Act established the Orderly 
+Liquidation Authority (OLA), a special resolution regime for financial firms 
+whose failure would have “serious adverse effects on financial stability.”56 
+The OLA is generally modeled on the traditional bank resolution regime.57 
+Although the statute establishes a multi-agency procedure for initiating the 
+OLA proceedings, the FDIC manages the process and exercises receivership 
+powers similar in scope to its bank receivership powers.58 This includes, 
+among other things, the power to create and operate a bridge company if 
+necessary to ensure the continuity of operations critical to the economy. This 
+so-called “Single Point of Entry” (SPOE) approach allows the failed firm’s 
+functional subsidiaries – banks, broker-dealers, etc. – to operate as usual, 
+while the recapitalization takes place at the level of the parent holding 
+company.59   
+To facilitate SPOE resolutions, the Federal Reserve promulgated rules 
+requiring all G-SIBs60 – a handful of the largest, globally significant U.S. 
+financial  institutions  –  to  meet  certain  “total  loss-absorbing  capacity” 
+(TLAC) requirements through equity and long-term debt at the level of the 
+ultimate parent company.61 The TLAC requirements seek to take advantage 
+of structural subordination of the parent company’s debt to mitigate the risk 
+of a run at the level of the operating subsidiaries. Accordingly, the “bail-in” 
+of the failed parent company’s TLAC creditors is envisioned as a practical 
+alternative to a publicly funded bailout.62  
+B.  The “B” Factor Solutions: Struggling with the “Macro” 
+The “B” factor solutions to the TBTF problem are those policies and 
+regulations that explicitly address the “bigness” aspect of the problem.63 
+Consistent with the muted salience of the “B” factor in the TBTF context, 
+only a small number of post-crisis regulatory reforms are in this group. These 
+reforms, moreover, tend to be highly controversial and difficult to implement. 
+The “B” factor solutions generally fall into two categories: (1) regulatory 
+measures that directly target financial firms’ balance-sheet size: and (2) 
+                                                 
+56 12 U.S.C. § 5383(b). 
+57 For an overview of OLA, see BARR ET AL., supra note 36 at 991-996. 
+58 See id.; Labonte, supra note 4 at 29. 
+59 See FDIC, Resolution of Systemically Important Financial Institutions: The Single 
+Point  of  Entry  Strategy,  78  Fed.  Reg.  76,614  (Dec.  18,  2013),  available  at 
+https://www.fdic.gov/news/board/2013/2013-12-10_notice_dis-b_fr.pdf.  
+60The international Financial Stability Board regularly designates certain financial 
+institutions as “global systemically important banks,” or G-SIBs, using a specially designed 
+assessment  methodology.  The  2018  list  of  G-SIBs  included  eight  U.S.  BHCs.  See 
+http://www.fsb.org/2018/11/2018-list-of-global-systemically-important-banks-g-sibs/.  
+61https://www.federalreserve.gov/newsevents/pressreleases/files/bcreg20161215a1.pdf.  
+62 Id. 
+63 See supra Part I.B. 20-Dec-18]  The TBTF Problem -DRAFT  15 
+structural reforms that inhibit the growth and reduce systemic significance of 
+TBTF firms by subjecting them to various activity-based limitations.64 
+1.  Size Limits 
+Direct limits on financial firms’ size – a traditional antitrust tool – are 
+both the most obvious and the least common type of a “B” factor solution.  
+As a practical matter, size limits are relevant only in the context of regulatory 
+approvals of mergers. Thus, Section 622 of the Dodd-Frank Act generally 
+prohibits mergers and acquisitions if they would result in a firm with total 
+liabilities  exceeding  10%  of  the  total  liabilities  of  all  financial  firms.65 
+Importantly, however, these concentration limits do not limit or preclude 
+financial institutions’ “organic” growth not involving outside acquisitions. 
+Another potential source of size limits is Section 121 of the Dodd-Frank 
+Act, which gives the Federal Reserve authority to require any BHC with at 
+least $250 billion in assets to terminate any activities and to sell any assets, 
+if such a BHC poses “a grave threat to the financial stability of the United 
+States.”66 The exercise of this authority, however, is subject to stringent 
+procedural  requirements  and  reserved  for  extraordinary  situations:  the 
+Federal Reserve cannot order divestment of a firm’s assets based simply on 
+its “bigness.” To date, the Federal Reserve has not exercised this power in 
+practice. 
+2.  Activity-Based Limits 
+“Structural reform” is a broad term for measures that limit the universe 
+of legally permissible activities and investments of certain financial firms – 
+mainly, publicly insured deposit-taking institutions. In many ways, structural 
+reform  constitutes  a  deeper,  more  explicitly  system-oriented  form  of 
+macroprudential  regulation.67  It  is  also  the  most  politically  salient  and 
+controversial such form.  
+In Europe, the trauma of the latest financial crisis has led to a serious 
+effort to reconsider the traditionally prevalent “universal banking” form of 
+organization in the European financial sector. In the post-crisis era, several 
+jurisdictions,  including  the  U.K.,  Germany,  Belgium,  France,  and  the 
+European Union, sought to address their newly salient TBTF problem by 
+introducing some form of intra-firm structural separation between publicly 
+insured deposit-taking activities and the rest of financial services performed 
+                                                 
+64 The following discussion focuses on the currently existing regulations and does not 
+examine any proposed reforms that, if adopted, would fall into the “B” factor category. 
+65 12 USC § 1852. 
+66 12 USC § 5331. 
+67 For a detailed discussion, see Saule T. Omarova, Central Banks, Systemic Risk, and 
+Financial Sector Structural Reform, in ROSA LASTRA & PETER CONTI-BROWN (EDS), 
+RESEARCH HANDBOOK ON CENTRAL BANKING 487 (2018) [hereinafter, Structural Reform]. 16  The TBTF Problem - DRAFT  [20-Dec-18 
+by universal banks.68 In the United Kingdom, this structural reform took form 
+of “ring-fencing” traditional banks’ “core activities” – retail deposit-taking 
+and payments, small business lending, etc. – in separately capitalized and 
+managed  entities,  which  were  expressly  prohibited  from  engaging  in 
+proprietary trading and other risky financial activities.69 The stated purpose 
+of this approach was twofold: (1) to shield vital retail banking services from 
+external financial shocks (i.e., to minimize contagion); and (2) to make large 
+financial institutions easier to resolve in the event of failure.70  
+  The EU Commission pursued a similar strategy of “subsidiarization,” 
+initially laid out in the Liikanen Report and later formulated (in a revised 
+form) in the EU Commission’s proposed regulation.71 The Commission’s 
+proposal,  however,  invited  intense  controversy  and  was  ultimately 
+withdrawn.72 
+The principal piece of post-crisis structural reform in the U.S. is the so-
+called “Volcker Rule,” named after the former Chairman of the Federal 
+Reserve Paul Volcker.73 It refers to Section 619 of the Dodd-Frank Act, 
+which prohibits federally-insured banks and their affiliates – or “banking 
+entities” – from (1) conducting short-term proprietary trading in financial 
+instruments (including securities and derivatives), and (2) investing in or 
+sponsoring certain “covered funds” (including, principally, hedge funds and 
+private equity funds).74  The original impetus behind this provision was to 
+erect a strict structural barrier between publicly subsidized banks that offer 
+systemically critical public utility-type products and services, on the one 
+hand, and non-depository financial institutions that trade and deal in risky 
+financial  assets,  on  the  other.75  As  enacted,  however,  the  Rule’s 
+transformative  aspirations  are  significantly  diluted  by  the  numerous 
+exclusions and exemptions from its prohibitions.76   
+In December 2013, after several years of issuing proposed rules and 
+getting thousands of comments, federal bank regulators issued a joint final 
+rule, in which they further defined the scope of the statutory prohibitions and 
+                                                 
+68 See id. at 492-495. 
+69 The UK reforms were the brainchild of the Vickers Commission, named after Sir John 
+Vickers, a prominent Oxford economist. For an overview of the UK “ring-fencing” reforms, 
+see id. at 492-493. 
+70 Id. at 493. 
+71 For an overview of the EU’s structural reform efforts, see id.at 494-495. 
+72 See https://ec.europa.eu/info/sites/info/files/cwp_2018_annex_iv_en.pdf.  
+73 See Structural Reform, supra note 67, at 496-498. 
+74 12 U.S.C. § 1851 (2012)).  
+75 See Jeff Merkeley & Carl Levin, The Dodd-Frank Act Restrictions on Proprietary 
+Trading and Conflicts of Interest: New Tools to Address Evolving Threats, 48 HARV. J. ON 
+LEGIS. 515 (2011). 
+76 For a list of statutory “permitted activities,” see 12 U.S.C. § 1851(d).  20-Dec-18]  The TBTF Problem -DRAFT  17 
+exemptions.77 As implemented by the regulators, the Volcker Rule attempts 
+to draw a myriad of fine lines between transactions and activities that, despite 
+being  economically  similar,  are  either  (1)  prohibited,  (2)  categorically 
+excluded from the prohibitions, or (3) specifically exempt from them.78 This 
+elaborate line drawing, in effect, translates the statute’s harshly prohibitive 
+main operative provisions into a far more porous and fluid regime, whose 
+applicability and degree of intrusiveness depend on facts and circumstances 
+surrounding transactions at hand.79  
+In June 2018, federal bank regulators proposed further loosening of the 
+Volcker Rule, expressly seeking to limit the applicability of its structural 
+limitations to the largest U.S. financial conglomerates.80 The continuing 
+rollback of the Volcker Rule raises serious questions about its future impact.  
+C.  How Clear Is The Line? 
+The purpose of the preceding discussion was not to provide a detailed 
+analysis of the Volcker Rule or any other specific set of post-crisis reforms 
+but merely to outline the key features that explain the underlying differences 
+between what I call the “B” factor solutions and the “F” factor solutions to 
+the  TBTF  problem.  Even  a  brief  discussion  of  these  ongoing  reforms, 
+however, is illuminating.  
+Thus, it is clear that, compared to the “B” factor solutions, the “F” factor 
+solutions occupy a far more prominent position in the evolving post-crisis 
+regime of macroprudential regulation and supervision. Failure of a large 
+financial firm seems to provide a much more easily graspable analytic focus 
+for the TBTF policy-making. The range of regulatory and supervisory tools 
+designed  to  reduce  the  chances  of  a  systemically  important  financial 
+institution’s failure and bailout is fairly wide and varied. As the existing 
+methods  of  identifying  and  monitoring  the  key  indicators  of  systemic 
+importance  are  growing  increasingly  sophisticated,  policy-makers  and 
+regulators seek to apply these tools in a more tailored and risk-sensitive 
+                                                 
+77 See, 12 C.F.R. Parts 44 (OCC), 248 (Federal Reserve), 351 (FDIC) and 17 C.F.R. Part 
+255 (SEC). All subsequent references to the Volcker Rule are to the statutory text as 
+interpreted and implemented in the final rule issued by the federal regulatory agencies. For 
+a summary of the tortured history of the rulemaking, as well as a detailed analysis of the final 
+rule’s provisions, see Sullivan & Cromwell LLP, U.S. Agencies Approve Final Volcker Rule, 
+Detailing Prohibitions and Compliance Regimes Applicable to Banking Entities Worldwide 
+(Jan. 27, 2014). 
+78 For an overview of these provisions, see Structural Reform, supra note 67, at 496-
+498. 
+79 Id., at 496.  
+80 For an overview of the proposed changes, see Nathan S. Brownback & V. Gerard 
+Comizio,  Significant  Revisions  of  the  Volcker  Rule,  Harvard  Law  School  Forum  on 
+Corporate  Governance  and  Financial  Regulation  (June  18,  2018),  available  at 
+https://corpgov.law.harvard.edu/2018/06/18/significant-revisions-of-the-volcker-rule/.  18  The TBTF Problem - DRAFT  [20-Dec-18 
+manner.  
+Yet, despite all of this conceptual and operational refinement, the size of 
+individual  financial  institutions’  balance  sheets  –  their  “bigness”  in  its 
+simplest form – remains a critical determinant of the nature and intensity of 
+the appropriately tailored prudential oversight.81 It is no coincidence, for 
+example,  that  the  post-crisis  regime  of  enhanced  prudential  supervision 
+applies only to BHCs above a certain asset size, which now stands at $250 
+billion.82  Recent  legislative  and  regulatory  efforts  to  roll  back  various 
+provisions  of  the  Dodd-Frank  Act,  moreover,  are  framed  explicitly  by 
+reference  to  easing  compliance  burden  of  “small”  and  “medium-sized” 
+financial  institutions.83  In  an  important  sense,  the  “B”  factor  provides 
+conceptual scaffolding that quietly supports the rich array of “F” factor 
+solutions to the TBTF problem. 
+In fact, the post-crisis regime of enhanced prudential supervision of large 
+BHCs and SIFIs, discussed above, may be viewed as a partial attempt to 
+mediate the conceptual distinction between the “F” and the “B” aspects of the 
+TBTF problem.84 Thus, the currently evolving macroprudential approach 
+fully embraces the notion that the source of the problem is the capacity of a 
+single firm (“micro”) to generate undesirable systemic effects (“macro”) – 
+but takes the view that this capacity can be controlled and diminished without 
+necessarily shrinking or dismembering the firm.85  
+The “B” factor solutions, in turn, display a different, albeit similarly 
+revealing, internal tension. As described above, policies in this category 
+much more explicitly aim to effect structural changes in the financial sector 
+and, at least in that sense, are inherently systemically oriented. These policies 
+target firms’ size and activities in a more intrusive manner, by directly 
+capping their liabilities or determining the composition of their assets. While 
+“F”  factor  solutions  generally  aim  to  shape  financial  firms’  economic 
+incentives to better align them with the public interest, “B” factor solutions 
+operate by directly redrawing the key legal and economic boundaries within 
+financial markets. The bluntness and potentially high-impact character of this 
+type of regulatory intervention render “B” factor solutions inherently more 
+politically salient and controversial than “F” factor solutions.  
+                                                 
+81 See supra Part II.A. 
+82 See supra note 51 and accompanying text. 
+83 Id.; see also supra notes 77-75 and accompanying text. 
+84 See supra Part II.A. 
+85 Even the Minneapolis Plan does not advocate mandatory size limits or activity-based 
+breakups of large banking firms, relying instead on capital requirements to incentivize such 
+firms to reduce their size and systemic importance voluntarily. See supra note 48 and 
+accompanying text. Moreover, the proposal’s general framing retains its conceptual focus on 
+the need to minimize the likelihood and public costs of bank bailouts – the quintessential 
+feature of the “F” factor approach. See THE MINNEAPOLIS PLAN, supra note 10.  20-Dec-18]  The TBTF Problem -DRAFT  19 
+Yet, despite these differences, post-crisis “B” factor solutions are often 
+framed simply as a variation on the familiar “F” factor ones. Policymakers 
+and regulators routinely justify size limits or activity restrictions as measures 
+targeting the resilience and resolvability of TBTF firms, rather than their 
+“bigness” or structural market power.86 In this sense, the predominantly 
+macro-level “B” factor approach seeks to replicate, and continues to exist 
+within, the primarily micro-level “F” factor discourse. This consciously self-
+limiting interpretation has significant practical implications: it leaves the full 
+potential of the financial sector structural reform largely untapped. 
+Importantly, this discursive triumph of “micro” over “macro,” entity-
+centric over systemic perspectives creates an appearance of normative and 
+conceptual coherence in the current approaches to the TBTF problem. It 
+accordingly  makes  the  fundamental  paradox  embedded  in  the  TBTF 
+metaphor  more  difficult  to  see  and  appreciate.  The  tensions  re-emerge, 
+however, as TBTF policies come under pressure in the process of their 
+implementation. 
+III. FACING THE PARADOX: TBTF IN A SYSTEMIC CONTEXT  
+As discussed above, the bulk of post-crisis solutions to the TBTF problem 
+operate mainly on a micro-level and target primarily individual financial 
+institutions’ balance sheets. While the overall orientation and rhetoric of post-
+crisis  financial  regulation  are  self-consciously  macro-prudential,  most 
+regulatory  tools  are  still  fundamentally  geared  toward  identifying, 
+monitoring,  and  influencing  individual  firms’  economic  choices.87  An 
+unspoken assumption behind much of regulatory action in this realm is that 
+fortifying individual financial firms’ balance sheets – that is, making them 
+both less prone to failure and easier to resolve if they nevertheless fail – will 
+more or less automatically translate into a stronger, more resilient financial 
+system.88 
+This  common  fallacy  of  composition  becomes  difficult  to  ignore, 
+however, when one widens the lens beyond a single entity’s balance sheet –
+or even many individual entities’ balance sheets – and examines the efficacy 
+of TBTF solutions in the context of the broader systemic dynamics.89 This 
+                                                 
+86 See supra notes 69-70 and accompanying text. Presumably, this normative framing 
+reflects policymakers’ and regulators’ desire to downplay the politically contestable aspects 
+of structural reforms. 
+87 See supra Part II.A. 
+88 See supra notes 84-85 and accompanying text. 
+89 For more on this underlying “fallacy of composition” in financial regulation, see Saule 
+T. Omarova, Ethical Finance: Risk, Culture, and Structure, 27 CORNELL J. L. & POL’Y 101; 
+131-133  (2018);  Robert  Hockett,  Bretton  Woods  1.0:  A  Constructive  Retrieval  for 
+Sustainable Finance, 16 N.Y.U. J. LEG. & PUB. POL’Y 401 (2013); Robert Hockett, A Fixer-
+Upper for Finance, 87 WASH. U. L. REV. 1213 (2010) [hereinafter, Fixer-Upper]; Robert 20  The TBTF Problem - DRAFT  [20-Dec-18 
+shift in perspective exposes certain important vulnerabilities built into the 
+current  regulatory  approaches.  It  also  sheds  light  on  potential  ways  to 
+strengthen or supplement such approaches in order to address the TBTF 
+problem more effectively.90   
+A.   Systemic Dynamics and Vulnerability of Current Solutions 
+Perhaps  the  most  significant  truly  systemic  factor,  explicitly  and 
+prominently  incorporated  in  the  existing  TBTF  policy,  is  markets’ 
+susceptibility  to  risk  contagion.  Many  regulatory  and  supervisory 
+requirements expressly seek to minimize or eliminate the risk of one firm’s 
+failure spreading throughout the system, via direct counterparty exposures, 
+asset “fire sales,” or otherwise.91 Both the “F” and the “B” factor solutions to 
+the TBTF problem, discussed above, are more or less directly concerned with 
+minimizing contagion and containing the damage from any large financial 
+firm’s failure.92 
+Despite  its  obvious  importance,  however,  contagion  is  not  the  only 
+relevant systemic factor in the TBTF context. In today’s interconnected and 
+fast-moving  financial  universe,  each  individual  firm’s  risk  profile  is 
+invariably  dependent  upon  a  wide  variety  of  system-wide  trends  and 
+relational dynamics. Incorporating these dynamics into analyses of firms’ 
+resilience is, therefore, both necessary and complicated. To put it simply, 
+what seems perfectly workable in the context of a single balance sheet, 
+considered in isolation, may or may not produce intended results when the 
+entity actually interacts with the outside world. 
+A few examples help to illustrate how certain core systemic dynamics 
+shape the efficacy of the traditional TBTF solutions. 
+1.  Complexity and Arbitrage 
+It  is  a  well-known  fact  that  today’s  financial  system  is  growing 
+increasingly  complex  and  difficult  to  manage.  This  overarching  trend 
+manifests itself not only in the dazzling organizational complexity of large 
+financial conglomerates, but also in the exponential growth of complex 
+                                                 
+Hockett, Bubbles, Busts, and Blame? CORNELL LAW SCHOOL RES. PAPER NO. 11–09, 
+available at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1805930. 
+90 See infra Part IV. 
+91 In fact, the concept of “systemic risk” in the financial sector is often defined by 
+reference to contagion. See, e.g., Steven L. Schwarcz, Systemic Risk, 97 GEO. L. J. 193, 204 
+(2008) (defining systemic risk as “the risk that (i) an economic shock such as market or 
+institutional failure triggers (through a panic or otherwise) either (X) the failure of a chain of 
+markets or institutions or (Y) a chain of significant losses to financial institutions, (ii) 
+resulting in increases in the cost of capital or decreases in its availability, often evidenced by 
+substantial financial-market price volatility.”). 
+92 See supra Part II. 20-Dec-18]  The TBTF Problem -DRAFT  21 
+financial  instruments  –  derivatives,  asset-backed  securities,  and  other 
+structured products – and correspondingly complex markets in which they 
+trade.93  
+Derivatives  and  structured  products  are  notoriously  difficult  to 
+understand  and  value,  even  with  the  help  of  increasingly  sophisticated 
+mathematical  modeling.94  Functionally,  they  separate  and  repackage 
+ownership,  payment,  and  other  rights  and  obligations  associated  with 
+previously largely indivisible financial assets. Institutionally, they trade in 
+globalized, technologically sophisticated, dealer-run markets that connect 
+myriads  of  institutional  actors  through  an  intricate  network  of  direct 
+contractual links and indirect common exposure to risks.95 These markets are 
+huge, unpredictable, and fundamentally opaque.96 
+Importantly,  this  complexity,  opacity,  interconnectedness,  and 
+fragmentation make it extremely difficult to measure and analyze not only 
+the overall pattern of risk distribution in the financial system but also the true 
+level of individual financial firms’ risk exposure. This is particularly true 
+because the shape-shifting nature of derivatives and other complex financial 
+instruments enables continuous – and dangerously procyclical – flows of risk 
+and leverage across regulatory boundaries.97 The pre-crisis growth of the 
+infamous “shadow banking” sector is a vivid example of these dynamics.98 
+In the post-crisis era, rapid advances in digital technology and computing 
+power – and the increasingly high role of “fintech” – potentially further 
+amplify the underlying patterns of hidden accumulation and dispersion of 
+risk.99 
+These  macro-level  conditions  of  market  complexity  and  pervasive 
+                                                 
+93 See Saule T. Omarova, License to Deal: Mandatory Approval of Complex Financial 
+Products, 90 WASH .U. L. REV. 64; 68-84 (2012) [hereinafter, License to Deal]. 
+94 See, e.g., Henry T.C. Hu, Misunderstood Derivatives: The Causes of Informational 
+Failure and the Promise of Regulatory Incrementalism, 102 YALE L.J. 1457, 1463 (1993) 
+(arguing that financial regulators cannot keep up with development of complex derivatives). 
+95 See, Dan Awrey, The Mechanisms of Derivatives Market Efficiency, 91 N.Y.U. L. 
+REV. 1104 (2016). 
+96 Id. 
+97 See Charles Goodhart, Financial Regulation, HANDBOOK OF CENTRAL BANKING, 
+FINANCIAL REGULATION AND SUPERVISION 326 (EIJFFINGER & MASCIANDARO, EDS., 2011); 
+Marcus Brunnermeier et al., The Fundamental Principles of Financial Regulation, Geneva 
+Reports on the World Economy 11 (2009). For more on market procyclicality, see infra Part 
+III.A.3. 
+98  See,  e.g.,  Tobias  Adrian  &  Hyun  Song  Shin,  The  Shadow  Banking  System: 
+Implications for Financial Regulation, Fed. Res. Bank of NY Staff Report No. 382 (July 
+2009); Tobias Adrian, Adam B. Ashcraft, Nicola Cetorelli, Shadow Bank Monitoring, Fed. 
+Res. Bank of NY Staff Report No. 638 (Sept. 2013); Gary Gorton & Andrew Metrick, 
+Regulating the Shadow Banking System, Brookings Paper on Econ. Activity (2011). 
+99 See Saule T. Omarova, New Tech v. New Deal: Fintech as a Systemic Phenomenon, 
+36 YALE J. REG. (forthcoming 2019) [hereinafter, Fintech as a Systemic Phenomenon]. 22  The TBTF Problem - DRAFT  [20-Dec-18 
+regulatory arbitrage cast significant doubt on the ability of the primarily 
+micro-level TBTF solutions to deliver the desired results. As risky activities 
+and exposures of large, diversified financial institutions get harder to quantify 
+and contain, keeping these institutions from failing and triggering a cascade 
+of losses becomes an increasingly system-wide undertaking. This means that 
+keeping the principal focus of TBTF regulation on individual firms’ balance 
+sheets is bound to miss the core market dynamics allowing risk move in and 
+out of any individual firm’s observable orbit. 
+2.  Interactions with the Real Economy 
+Another crucial systemic aspect that current TBTF solutions tend to 
+ignore is the functional relationship between the financial sector and the 
+broader economy.  
+The principal object of the current regime of prudential regulation and 
+supervision  of  financial  institutions  is  these  institutions’  safety  and 
+soundness. Regulators and supervisors monitor and evaluate the strength of 
+firms’ loss-absorbing capital cushions, robustness of their risk underwriting 
+and management procedures, and quality of their asset portfolios primarily 
+with the eye toward preventing these firms’ failure. However, regulators do 
+not second-guess private financial firms’ substantive business decisions in 
+terms of how well they channel capital to its most productive uses in the non-
+financial,  or  “real,”  economy.100    Although  various  tax  or  regulatory 
+incentives may influence these decisions, individual financial institutions are 
+generally  free  of  governmental  interference  in  their  credit-allocation 
+decisions.101  
+In fact, this vesting of substantive control over economy-wide credit 
+allocation in private actors’ hands is a core element of the U.S. paradigm of 
+financial regulation.102 The reason for this outsourcing of allocative decisions 
+to  private  financial  firms  is  rooted  fundamentally  in  their  presumed 
+                                                 
+100 To the extent that there are direct legal and regulatory restrictions on the types or 
+concentrations of loans and other assets that banking institutions can hold on their balance 
+sheets, these restrictions are designed to ensure banks’ safety and soundness. While these 
+regulations affect financial flows into various segments of the economy, they are not meant 
+to operate as tools of industrial policy. 
+101 Thus, specific laws and regulations may deliberately incentivize financial firms to 
+invest in various “preferred” asset classes. This includes, for example, allowing banks to 
+calculate their capital ratios using lower risk weights for certain residential mortgage loans. 
+This  is,  however,  very  different  from  regulators  judging  the  validity  of  individual 
+commercial loans extended by any particular bank on the basis of their broader macro-
+structural or socio-economic impact, rather than by reference to the bank’s own safety and 
+soundness. 
+102 Elsewhere, I refer to this paradigm as the “New Deal settlement in finance.” See 
+Fintech as a Systemic Phenomenon, supra note 99. For a deeper theoretical account, see 
+Finance Franchise, supra note 22. 20-Dec-18]  The TBTF Problem -DRAFT  23 
+informational advantages and individualized economic incentives. Because 
+private  market  actors  are  presumably  superior  decision-makers  “on  the 
+ground,” their judgments on which real-economy projects to fund are not to 
+be substituted by those of the regulators.103 
+ In this paradigm, the public explicitly bears the primary responsibility 
+for maintaining the appropriate aggregates of credit in the economy, or 
+system-wide credit modulation.104 As explained in detail elsewhere, this 
+division of roles is characteristic of the public-private franchise model of 
+finance.105 This model is inherently unstable: the private franchisees (private 
+financial institutions) often abuse their allocative powers in pursuit of higher 
+profits. The entire regime of government regulation of financial firms – 
+especially, TBTF firms – is designed to guard against this danger and to 
+minimize the obvious moral hazard built into this system.106  
+In reality, however, allocation and modulation of credit and money in the 
+financial system are intimately connected tasks. Systemically destabilizing 
+asset price booms are the direct effect of socially suboptimal allocative 
+decisions by individual market participants.107 Forgetting or ignoring this 
+fundamental link undermines both the financial system and the real economy. 
+The former suffers from excessive speculation and instability, while the latter 
+suffers from excessive financialization and erosion of productive capacity. 
+Not only does the financial system grow too large vis-à-vis the rest of the 
+economy, it also becomes too self-referential and even predatory. Instead of 
+serving capital needs of the productive economic enterprise, it systematically 
+diverts financial flows toward socially unproductive financial speculation.108 
+Viewed from this perspective, the familiar methods of combatting TBTF 
+appear  fundamentally  incomplete.  While  focusing  on  the  safety  and 
+soundness, solvency and liquidity of large financial firms, the post-crisis 
+TBTF solutions remain essentially agnostic with respect to the macro-level 
+structural effects of these firms’ credit allocation decisions. Yet, persistent 
+economy-wide misallocation of credit is a critical factor in destabilizing the 
+financial system and exacerbating the moral hazard built into its operation. 
+In this sense, decisively resolving the TBTF problem ultimately requires a 
+serious rebalancing of the currently dysfunctional relationship between the 
+financial system and the broader economy. As long as the financial system 
+remains self-referentially speculative and divorced from the real economy, 
+                                                 
+103 See sources cited supra note 102.  
+104 Finance Franchise, supra note 22, at 1150-1157. See also, Fixer-Upper, supra note 
+89 (advocating “regulation as modulation”). 
+105 See Finance Franchise, supra note 22. 
+106 Id. at 1158-1164 (explaining these general dynamics in the banking context). 
+107 Id. at 1213-1214. 
+108 Id. at 1212-1218 See also, National Investment Authority, supra note 22, at 448-458. 24  The TBTF Problem - DRAFT  [20-Dec-18 
+the TBTF phenomenon is unlikely to disappear. 
+3.  Procyclicality and Collective Agency 
+A vital attribute of the financial system relevant to the TBTF discussion 
+is the pervasive tendency toward procyclicality in the operation of financial 
+markets – and the correspondingly critical market-stabilizing role of certain 
+“big” market actors. 
+On a fundamental level, the term “procyclicality” denotes a particularly 
+pernicious  form  of  self-reinforcing,  or  recursive,  collective  action 
+problems.109  Generally,  collective  action  problems  arise  in  situations  in 
+which the multitude of individually rational actions ultimately produce a 
+suboptimal  –  collectively  irrational  –  outcome.110  Financial  markets,  in 
+particular, are rife with collective action problems that have a recursive 
+quality.111 Financial asset bubbles, fueled by short-term speculation and 
+followed  by  devastating  busts,  exemplify  this  phenomenon.  While  it  is 
+individually rational for each firm to purchase assets during the bubble phase 
+and sell them during the bust phase, these mutually reinforcing, individually 
+rational decisions aggregate into collectively dysfunctional outcomes: i.e., 
+financial crises.112  
+Avoiding  this  collective  irrationality  necessarily  requires  coherent 
+collective agency, exercised counter-cyclically.113 In simple terms, it requires 
+a different kind of a market actor: one whose actions are not constrained by 
+the same dictates of individual rationality that make everyone else to pile into 
+the same market “bet,” and who is both able and willing to take the opposite 
+side of that collectively irrational bet. This market contrarian role is essential 
+to the stable functioning of the financial market: it effectively operates as the 
+internal mechanism of dynamic countercyclical self-regulation.  
+Importantly, to be effective, the relevant collective agent must be not only 
+free of the usual motivational constraints: it also must possess sufficient 
+resources to withstand the inevitable market pressure long enough to generate 
+the desired price correction. In other words, the collective agent must be 
+“big.” In the context of today’s huge and interconnected financial markets, 
+that agent must be very big. 
+This basic reality casts the familiar TBTF problem in an unexpected light. 
+                                                 
+109 For an in-depth analysis of market procyclicality as a recursive collective action 
+problem, see Robert Hockett, Recursive Collective Action Problems: The Structure of 
+Procyclicality in Financial and Monetary Markets, Macroeconomies, and Formally Similar 
+Contexts, 3 J. FIN. PERSP. 1 (2015) [hereinafter, Recursive Collective Action Problems]. 
+110 Id. at 3. 
+111 Id. at 1. 
+112 Id. at 17-22; Robert Hockett, Bretton Woods 1.0: A Constructive Retrieval for 
+Sustainable Finance, 16 N.Y.U. J. LEG. & PUB. POL’Y 401, 420-425 (2013). 
+113 Recursive Collective Action Problems, supra note 109, at 23-32.  20-Dec-18]  The TBTF Problem -DRAFT  25 
+It brings to the fore the fact that, to ensure financial stability, we need to have 
+a  certain  kind  of  “big,”  economically  powerful,  strategically  positioned 
+market actor.114 From this perspective, “bigness” is not a bug but a necessary 
+institutional feature of the modern financial system. Of course, this fact does 
+not invalidate any of the fundamental public policy concerns associated with 
+the TBTF phenomenon – including, in particular, concerns related to the 
+destabilizing effects of moral hazard.115 It means, however, that a truly 
+effective  solution  to  the  TBTF  problem  must  incorporate  a  thoughtful 
+approach to strengthening the existing – and creating new – institutional 
+forms  of  counter-cyclcical  collective  agency  in  today’s  large-scale  and 
+increasingly complex financial markets.  
+As a practical matter, only public instrumentalities acting directly within 
+financial markets are fully equipped to perform this critical function.116 
+Public instrumentalities’ unique built-in advantages—large size, access to 
+public  funding,  long-term  investment  horizon,  legal  and  regulatory 
+privileges—enable them to take on greater risk at times when no private 
+market actor is able to do so.117 Public instrumentalities are the true “natural” 
+market contrarians whose presence is critical in order to resolve financial 
+markets’ dysfunctional tendency toward procyclicality. Even the biggest 
+private firms are inherently incapable of performing this role reliably and 
+consistently.118  
+This  analysis  helps  to  reframe  the  “bigness”  element  of  the  TBTF 
+metaphor  not  simply  as  an  issue  of  individual  firms’  size  or 
+interconnectedness, but as a much broader issue of the relative roles and 
+competencies of the public and private actors in the financial system. It also 
+highlights the deeper sense in which TBTF is ultimately a problem of the 
+public-private  balance  in  finance. Focusing  on  individual  private  firms’ 
+balance sheets or other characteristics is simply too narrow an approach to 
+                                                 
+114 To some extent, the renewed legislative and regulatory emphasis on the critical 
+stability-enhancing role of clearinghouses and other “financial market utilities” (FMUs) – 
+big, strategically positioned entities acting as collective agents in certain market contexts – 
+reflects the post-crisis realization of this fundamental fact. It is telling, for example, that Title 
+VIII of the Dodd-Frank Act deals specifically with systemically important FMUs. See 12 
+U.S.C. § 5461 et seq. However, to the extent that these systemically significant FMUs are 
+profit-seeking private entities, their elevated status in the post-crisis era raises an additional 
+specter  of  potentially  significant  TBTF  concerns.  See,  e.g.,  David  Skeel,  What  if  a 
+clearinghouse fails? (June 6, 2017), available at https://www.brookings.edu/research/what-
+if-a-clearinghouse-fails/; Steven J. Lubben, Failure of a Clearinghouse: Dodd-Frank’s Fatal 
+Flaw? 10 VA. L. & BUS. REV. 149 (2015); Mark Roe, Clearinghouse Overconfidence, 101 
+Cal. L. Rev. 1641 (2013). 
+115 See supra Part I.A. 
+116 See Recursive Collective Action Problems, supra note 109, at 24. 
+117 See Public Actors, supra note 22, at 138. 
+118 See id; sources cited supra note 114. 26  The TBTF Problem - DRAFT  [20-Dec-18 
+this problem. 
+B.  Paradox Resurfaces: The Rhetoric of “Unintended Consequences”  
+This fundamental inability of the current TBTF solutions to incorporate 
+the broader systemic determinants of the TBTF phenomenon comes into 
+sharp relief in the context of the financial industry’s efforts to roll back post-
+crisis  regulatory  reforms.  In  the  U.S.,  these  efforts  aim  primarily  at 
+dismantling or weakening the principal elements of the Dodd-Frank Act’s 
+regime  of  macroprudential  regulation  and  supervision  of  financial 
+institutions.  
+Rhetorically, this deregulatory campaign is often framed by reference to 
+so-called “unintended consequences” of post-crisis regulation.119 However 
+disingenuous  or  self-interested  the  industry’s  claims  may  be,  they 
+nevertheless highlight a very real underlying weakness of the current regime: 
+the lack of sufficient attention to the systemic, macro-level aspects of the 
+TBTF problem. 
+For example, one of the industry’s most commonly used deregulatory 
+arguments posits that strict prudential oversight of banks and other regulated 
+financial institutions  merely  pushes  risky  activities  into the unregulated 
+“shadow” markets. Therefore, the argument goes, the post-crisis attempts at 
+instituting such oversight are inherently futile and harmful. 
+Regardless of its obviously and deeply flawed logic, this argument hits at 
+the  real  point  of  vulnerability  in  the  current  regulatory  philosophy:  its 
+systematic bias toward fundamentally entity-level solutions. As a result of 
+this bias, most post-crisis regulatory reforms do not deal in a sufficiently 
+explicit manner with the broader dynamics of risk creation and transfer across 
+the formal entity and sectoral boundaries. Accordingly, most current TBTF 
+solutions do not directly foreclose opportunities for regulatory arbitrage that 
+dilute or distort their intended effect.  
+Another reliable – and quite successful – industry argument is that the 
+supposedly  excessively  burdensome  and  costly  post-crisis  regulation 
+unnecessarily constrains availability of credit to individuals and small and 
+medium-sized businesses. The argument is that the higher costs of regulatory 
+compliance  –  and  especially  the  more  stringent  regulatory  capital 
+requirements – make it prohibitively expensive for banks to make loans to 
+otherwise deserving companies. This, in turn, impedes economic growth and 
+                                                 
+119 Of course, proponents of greater oversight of the financial sector also use the rhetoric 
+of “unintended consequences” to show that various provisions of the Dodd-Frank Act, as 
+implemented, failed to deliver the expected public benefits. This discussion, however, 
+purposely focuses on the explicitly anti-regulatory or deregulatory arguments advanced or 
+supported by the financial industry. These arguments use the rhetoric of “unintended 
+consequences” to roll back many of the core post-crisis attempts to eliminate or control the 
+TBTF problem.   20-Dec-18]  The TBTF Problem -DRAFT  27 
+job-creation.  Therefore,  the  argument  goes,  it  is  necessary  to  lift  or 
+significantly relax post-crisis regulatory constraints on banks’ risk-taking for 
+the sake of the real economy and its unimpeded growth.120  
+Substantively, this argument is without merit.121 There is currently no 
+shortage of capital available for lending in the banking system, so the real 
+problem is not so much banks’ lending capacity as the systematic distortions 
+in their credit allocation decisions.122 In the context of the present discussion, 
+however, this particular line of deregulatory rhetoric is noteworthy for its 
+overt acknowledgment of the fundamental functional link between finance 
+and the broader economy. The industry’s deregulatory offensive effectively 
+seizes on the fact that the post-crisis shift to macroprudential oversight is not 
+sufficiently “macro-” in its scope. As long as this remains the case, it will be 
+difficult to rebuke the industry’s attacks on the regulatory regime designed to 
+constrain the growth of TBTF firms. 
+A different, more subtle line of arguments against pursuing aggressive 
+TBTF policies build on the financial markets’ need for coherent collective 
+agency, exercised counter-cyclically, as a vital self-correction mechanism.123 
+As discussed above, only sufficiently large market participants can perform 
+this critical stabilization role effectively and on the requisite scale: in this 
+sense, “big” is not necessarily “bad.”124 This understanding, however, can be 
+used  to  argue  that  “smart”  regulatory  reforms  should  view  the  size  of 
+financial mega-firms’ balance sheets not so much as a problem – and, in any 
+event, not as the main problem – but more as an organic product and an 
+institutional feature of modern finance. Accordingly, instead of seeking to 
+eliminate  the  TBTF  problem  through  overly  restrictive  regulations,  the 
+                                                 
+120 See, e.g., Joint Letter to Congress from The Mid-Size Bank Coalition of America and 
+the Regional Bank Coalition (Jan. 26, 2017), available at http://regionalbanks.org/wp-
+content/uploads/2017/01/MBCA-RBC-Joint-Letter-to-Congress-1-26-17.pdf  (“Many  of 
+Dodd-Frank’s provisions sap resources that we could instead deploy to extend credit and 
+dynamically serve our communities. We face higher operational costs and are forced to divert 
+capital and funding away from the products we offer and lending that helps businesses 
+expand and create jobs.”). 
+121 See, e.g., Anat Admati et al., Fallacies and Irrelevant Facts in the Discussion of 
+Capital Regulation, CENTRAL BANKING AT A CROSSROADS: EUROPE AND BEYOND 33 
+(CHARLES GOODHART ET AL., EDS. 2014). 
+122 See, Written Testimony of Saule T. Omarova before the U.S. Senate Committee on 
+Banking, Housing, and Urban Affairs, “Fostering Economic Growth: Midsized, Regional 
+and  Large  Institution  Perspective,”  (June  15,  2017),  available  at 
+https://www.banking.senate.gov/imo/media/doc/Omarova%20Testimony%206-15-17.pdf.  
+The allocative distortion results from the basic fact that it remains far more profitable for 
+banks and other financial institutions to channel credit into speculative secondary-market 
+trading rather than to fund long-term investments in the real economy. See National 
+Investment Authority, supra note 22, at 446-458. 
+123 See supra notes 109-115 and accompanying text. 
+124 Id. 28  The TBTF Problem - DRAFT  [20-Dec-18 
+argument goes, we should aim to accommodate and manage the growth and 
+activities of large, systemically important market actors.  
+Although this argument is typically framed in technocratic terms, it 
+carries a clear normative message: The government should not waste its 
+limited resources trying to depress the size or market power of individual 
+financial firms – it should “work with” these firms to help them perform their 
+socially beneficial functions. In practical terms, however, this usually means 
+asymmetrically expanding the public’s responsibility for backing up these 
+firms’ rapidly growing private liabilities and supporting the rapidly growing 
+markets in which they trade. Recent proposals to formalize and enlarge the 
+scope of the government’s role as the provider of “last resort” liquidity and 
+solvency support to major dealer-firms and other SIFIs illustrate this trend.125 
+They also underscore the deeply political stakes in the TBTF battle over the 
+public-private balance of power in finance. 
+In sum, many of the familiar criticisms of – and arguments for reversing 
+– post-crisis regulatory reforms derive their strength from playing on various 
+systemic aspects of the TBTF problem, which these reforms do not explicitly 
+or effectively address. By doing so, these deregulatory and anti-regulatory 
+arguments exploit the hidden tensions within the TBTF concept and policy 
+framework.126  
+Of course, rolling back post-crisis regulatory reforms is by no means the 
+only, or the best, possible response to this reappearance of the TBTF paradox. 
+To the contrary, since the problem with the current TBTF solutions is their 
+failure to incorporate certain core macro-level dynamics, the appropriate cure 
+for this problem would be to expand and strengthen the structural, systemic 
+focus of the TBTF policy toolkit.  
+IV. WHAT NOW? REFRAMING THE PROBLEM, REBALANCING SOLUTIONS 
+Generally,  there  are  two  mutually  complementary  approaches  to 
+rendering the TBTF policy more effective and responsive to key systemic 
+dynamics discussed above: (1) to build up the arsenal of more comprehensive 
+and  assertive  “B”  factor  solutions;  and  (2)  to  supplement  traditional 
+regulatory approaches to TBTF by directly targeting specific dysfunctions in 
+the operation of financial markets. 
+A.  Reinforcing Existing Tools: Size Caps; Structural Separation 
+A good starting point for rebalancing post-crisis TBTF policies would be 
+                                                 
+125  See,  e.g.,  Kathryn  Judge,  The  Guarantor  of  Last  Resort,  97  TEXAS L. REV. 
+(forthcoming 2019); HAL S. SCOTT, CONNECTEDNESS AND CONTAGION (2016); PERRY 
+MEHRLING, THE NEW LOMBARD STREET: HOW THE FED BECAME THE DEALER OF LAST 
+RESORT (2010). 
+126 See supra Part II.C. 20-Dec-18]  The TBTF Problem -DRAFT  29 
+to  expand  the  range  and  potential  impact  of  the  “B”  factor  solutions, 
+discussed above.127 The “B” factor, with its more organic focus on the 
+structural drivers of the TBTF problem, deserves greater prominence in how 
+we understand and mitigate that problem in the interconnected and complex 
+world of modern finance.128  
+The most readily available choice in this respect is to start using the 
+existing regulatory and supervisory tools more assertively and consistently – 
+and for the explicit purpose of shaping the broad structural dynamics in the 
+financial sector. For example, the Federal Reserve could begin exercising its 
+broad statutory powers to reduce the balance sheet size and to limit the scope 
+of activities of any BHC with assets above the $250-billion threshold that 
+poses “a grave threat to the financial stability of the United States.”129 
+Pursuant to this authority, the Federal Reserve can order these large financial 
+institutions  to  terminate  any  activity,  divest  any  assets,  or  freeze  any 
+acquisition plans.130 Although the exercise of this authority by the Federal 
+Reserve  is  explicitly  conditioned  on  the  requisite  “grave  threat” 
+determination,  it  nevertheless  represents  a  potentially  powerful  tool  for 
+breaking up TBTF mega-firms. A similarly potent tool that federal bank 
+regulators could start utilizing is their legal authority to order significant asset 
+divestitures  and  other  restructuring  by  large  financial  institutions  that 
+repeatedly failed to submit credible “living wills,” discussed above.131  
+Of course, the key challenge for the Federal Reserve and other regulators 
+is to signal to the market their resolve to use these extraordinary tools in the 
+appropriate circumstances – and be ready to follow through with this threat 
+in practice. This is a difficult commitment to make credibly, especially in 
+light  of  federal  bank  regulators’  traditional  distaste  for  taking  public 
+enforcement actions – and the financial industry’s traditional propensity to 
+fight such inherently complex determinations in courts. 
+To target the “B” factor in the TBTF problem more consistently and 
+directly, Congress could extend the regulators’ authority to break up TBTF 
+                                                 
+127 See supra Part II.B. 
+128 It should be emphasized here that all of the explicitly systemically oriented, structural 
+solutions discussed below should supplement, rather than replace, the current regime of 
+entity-based regulation and supervision. It is crucial to address the TBTF problem on the 
+micro-level and the macro-level as part of a unified and dynamic strategy. For a recent 
+defense of entity-based prudential oversight of non-bank SIFIs, see Jeremy C. Kress, Patricia 
+A.  McCoy,  Daniel  Schwarcz,  Regulating  Entities  and  Activities:  Complementary 
+Approaches to Nonbank Systemic Risk, S. CAL. L. REV. (forthcoming 2019), available at 
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3238059. 
+129 12 USC § 5331. For an earlier discussion of Section 121 of the Dodd-Frank Act that 
+created this authority, see supra note 66 and accompanying text. 
+130 Id. 
+131 See supra notes 53-55 and accompanying text. 30  The TBTF Problem - DRAFT  [20-Dec-18 
+firms by simply mandating such restructuring whenever any firm reaches 
+some specified size threshold. Several academic and legislative proposals 
+have  advanced  this  TBTF-focused  variation  on  the  traditional  antitrust 
+approach.132  For  example,  in  October  2018,  Senator  Bernie  Sanders 
+introduced a bill aptly entitled “Too Big To Fail, Too Big To Exist,” which 
+would cap the size of the largest financial institutions so that any single 
+company’s total exposure would not exceed 3% of the country’s GDP.133 
+In addition to, or in lieu of, these antitrust-type measures, policymakers 
+and regulators could also pursue a range of broader structural reforms aiming 
+to control the growth of TBTF firms by restricting their permissible business 
+activities. In fact, one of the fundamental tenets of the U.S. system of banking 
+laws and regulations is the principle of separation of banking from commerce, 
+which seeks to keep deposit-taking institutions structurally separate from 
+non-financial,  commercial  companies.  Thus,  U.S.  commercial  banks 
+generally cannot conduct any activities that fall outside the statutory concept 
+of “the business of banking.”134 Moreover, under the BHC Act, companies 
+that own or “control” U.S. banks – i.e., U.S. BHCs – are generally restricted 
+in their ability to engage in any business activities other than banking, 
+managing banks, or certain activities “closely related” to banking.135  
+ Since the 1980s, the scope of banks’ and BHCs’ permissible activities 
+has  been  steadily  and  gradually  expanding.136  Most  notably,  in  1999, 
+Congress authorized certain qualifying BHCs to become “financial holding 
+companies” (FHCs) and to conduct a wide range of financial and even some 
+commercial activities.137 One obvious consequence of this activity expansion 
+was a dramatic consolidation of market power in the small number of mega-
+                                                 
+132 See Jonathan R. Macey & James P. Holdcroft, Jr., Failure is an Option: An Ersatz-
+Antitrust Approach to Financial Regulation, 120 YALE L. J. 1368 (2011); SIMON JOHNSON 
+& JAMES KWAK, THIRTEEN BANKERS: THE WALL STREET TAKEOVER AND THE NEXT 
+FINANCIAL MELTDOWN (2010).  
+133  The  original  text  of  the  proposed  legislation  is  available  at 
+https://www.sanders.senate.gov/download/tbtfleg?inline=file.  At the time of its unveiling, 
+the bill’s proposed size cap equaled about $584 billion, which would have resulted in the 
+breakup of six largest U.S. BHCs. See, https://www.sanders.senate.gov/newsroom/press-
+releases/sanders-sherman-introduce-legislation-to-break-up-too-big-to-fail-financial-
+institutions.  
+134 12 U.S.C. § 24 (Seventh). 
+135 12 U.S.C. §§ 1841-43. In essence, the BHC Act is an antitrust legislation tailored to 
+the unique public significance and vulnerabilities of the modern banking system. 
+136 See Saule T. Omarova, The Quiet Metamorphosis: How Derivatives Changed the 
+“Business of Banking,” 63 U. MIAMI L. REV. 1041 (2009); Saule T. Omarova, The 
+Merchants of Wall Street: Banking, Commerce, and Commodities, 98 MINN. L. REV. 265 
+(2013) [hereinafter, Merchants of Wall Street]. 
+137 12 U.S.C. § 1843(k). See also sources cited supra note 136.  20-Dec-18]  The TBTF Problem -DRAFT  31 
+sized financial conglomerates.138 Another, perhaps less obvious, systemic 
+consequence was a qualitative increase in the nature and degree of fragility-
+inducing interconnectedness and complexity in the financial sector. Among 
+other things, the removal of the Glass-Steagall era prohibitions on cross-
+affiliations created unprecedented opportunities for undetected leakages of 
+the public subsidy from insured banks to their non-bank affiliates engaged in 
+high-risk dealing and trading operations.139 This direct amplification of the 
+TBTF problem is especially pronounced in the context of large U.S. banking 
+institutions expanding into purely commercial activities that themselves have 
+a  heightened  systemic  significance,  such  as  trading  in  key  physical 
+commodities and energy.140  
+These developments notwithstanding, however, U.S. banks’ and BHCs’ 
+activities,  investments,  and  organizational  affiliations  remain  subject  to 
+significant  limitations.  In  this  sense,  the  existing  regime  of  separating 
+banking from commerce provides a natural platform for federal regulators to 
+maintain and reinforce – rather than weaken or eliminate – certain key 
+structural boundaries in the financial system.141 
+In the post-crisis era, there have been several attempts to legislate further 
+structural separations between depository institutions and other financial 
+market  intermediaries.    Thus,  in  July  2013,  a  bipartisan group  of  U.S. 
+Senators, led  by  Elizabeth  Warren  and  John  McCain,  introduced  a bill 
+entitled the “21st Century Glass-Steagall Act of 2013.”142 The proposed bill 
+                                                 
+138 See Dafna Avraham, Patricia Selvaggi, and James Vickery, A Structural View of U.S. 
+Bank  Holding  Companies,  FRBNY  ECON.  POL.  REV.  65  (July  2012),  available  at 
+https://www.newyorkfed.org/medialibrary/media/research/epr/12v18n2/1207avra.pdf.  
+139 For an analysis of these important intra-FHC dynamics, and their systemic stability 
+implications,  see  Saule  T.  Omarova,  From  Gramm-Leach-Bliley  to  Dodd-Frank:  the 
+Unfulfilled Promise of Section 23A of the Federal Reserve Act, 89 N. C. L. Rev.1683 (2011). 
+140 For a comprehensive analysis of U.S. FHCs’ commodities activities in the post-1999 
+era, see Merchants of Wall Street, supra note 136. 
+141 Recently, the U.S. regime of separation of banking and commerce came under 
+increasing pressure from the financial industry seeking to expand its presence in the 
+emerging “fintech” sector, among other things, by acquiring or affiliating with various 
+technology firms. Allowing organizational affiliations between banks and technology firms, 
+however, would critically undermine the public policy goals at the heart of the U.S. bank 
+regulation. It would also potentially open the door to the formation of mega-sized finance-
+technology conglomerates that would take the TBTF problem to a qualitatively new level, 
+both as a political matter and as a matter of economic policy. For a detailed discussion, see, 
+Written Testimony of Saule T. Omarova before the U.S. Senate Committee on Banking, 
+Housing, and Urban Affairs, “Fintech: Examining Digitization, Data, and Technology,” 
+(Sept.  18,  2018),  available  at 
+https://www.banking.senate.gov/imo/media/doc/Omarova%20Testimony%20and%20Appe
+ndix%209-18-18.pdf.  
+142  The  original  text  of  the  proposed  legislation  is  available  at 
+http://www.warren.senate.gov/files/documents/21stCenturyGlassSteagall.pdf.  The Glass-32  The TBTF Problem - DRAFT  [20-Dec-18 
+sought  to  (1)  prohibit  federally  insured  deposit-taking  institutions  from 
+affiliating  or  having  interlocking  management  with  securities  firms, 
+insurance companies, and derivatives dealers; and (2) tighten the scope of 
+banks’ permissible activities, among other things, by prohibiting investments 
+in structured or synthetic products.143 
+In a somewhat different vein, the post-crisis proponents of so-called 
+“narrow” banking advocate separating banks’ deposit-taking function from 
+their lending function, thus restricting or even taking away banks’ power to 
+create credit and money and effectively turning them into “safe” money-
+market mutual funds.144 While some of these proposals would allow “narrow 
+banks” to engage in some forms of low-risk lending, others would restrict 
+their activities to providing basic payments and safekeeping services and 
+investing in government debt and other short-term money instruments. 
+All of these proposed approaches – imposition of mandatory size caps, 
+revival of the Glass-Steagall regime, and creation of “narrow banks” – raise 
+potentially significant design and implementation issues and, accordingly, 
+invite both serious conceptual criticism and politically motivated attacks.145 
+Whether, and under what conditions, any of these specific measures could – 
+or even should – become law is a complicated question beyond the scope of 
+this discussion. For present purposes, the key point is that these ideas define 
+the current range of potential “B” factor solutions to the TBTF problem that 
+are  far  more  radical  than  the  Volcker  Rule  or  “ring-fencing”  reforms, 
+discussed above.146  
+Ironically, the radicalism of these proposed structural reforms comes 
+fundamentally from recreating ideas born out of the Great Depression. Of 
+course,  that  fact  does  not  automatically  invalidate  these  proposals. 
+                                                 
+Steagall Act of 1933 prohibited organizational affiliations between commercial banks and 
+securities firms. Banking Act of 1933 (Glass-Steagall Act), Pub. L. No. 73-66, 48 Stat. 162 
+(codified as amended in scattered sections of 12 U.S.C.), repealed in part by Financial 
+Services Modernization Act of 1999 (Gramm-Leach-Bliley Act), Pub. L. No. 106-102, 113 
+Stat. 1338 (codified in scattered sections of 12 and 15 U.S.C.). 
+143 Id. Sec.3. 
+144 See, e.g., LAWRENCE KOTLIKOFF, JIMMY STEWART IS DEAD: ENDING THE WORLD’S 
+ONGOING FINANCIAL PLAGUE WITH LIMITED PURPOSE BANKING (2011); Adam Levitin, Safe 
+Banking, 83 U. CHI. L. REV. 357 (2016); George Pennacchi, Narrow Banking, 4 ANN. REV. 
+OF FIN. ECON. 1 (2012); Arthur J. Wilmarth, Narrow Banking: An Overdue Reform that 
+Could Solve the Too-Big-to-Fail Problem and Align U.S. and U.K. Regulation of Financial 
+Conglomerates, 31 BANKING & FIN. SERV. POL’Y REP. 1 (2012). In principle, these proposals 
+build on the idea of “100% reserve banking,” advanced in the wake of the Great Depression 
+by economists Irving Fisher and Henry Simons and later developed by the Austrian and 
+Chicago school economists. 
+145 For a discussion of these proposals, see Structural Reform, supra note 67, at 498-
+500. 
+146 See supra Part II.B.2. 20-Dec-18]  The TBTF Problem -DRAFT  33 
+Nevertheless, it raises concerns about the extent to which they take into 
+account – and are able to reshape or counteract – the systemic dynamics that 
+continue to impede effective resolution of the TBTF problem.147 Achieving 
+that lofty goal is likely to require a bolder and more comprehensive approach 
+to  structural  reform  than  the  “neo-Glass-Steagall”  regime  or  “narrow 
+banking” are able to offer. 
+This new kind of an enhanced structural reform should incorporate an 
+explicitly  systemic  view  of  finance  and  draw  the  legal  and  regulatory 
+boundaries not simply with an eye to individual firms’ balance sheets, but 
+with an eye to the functional dynamics of the financial market as a whole. 
+Accordingly, these reforms would have to pursue a deliberately diverse and 
+ambitious  set  of  policy  objectives,  well  beyond  the  familiar  goals  of 
+insulating deposit-taking banks from excessive risk-taking and minimizing 
+the likelihood and public cost of their failure. Thus, these reforms should 
+explicitly seek to reduce the levels of complexity and opacity of the financial 
+system.  They  should  also  seek  to  minimize  the  incentives  –  or  create 
+structural  disincentives  –  for  individual  firms  to  engage  in  regulatory 
+arbitrage, especially in the usual procyclical fashion. Finally, and perhaps 
+most  importantly,  these  reforms  should  target  the  systemic  problem  of 
+continuous credit misallocation and growth of speculative secondary-market 
+trading.  
+To achieve these goals, it might make sense, for example, to redefine the 
+key structural boundary in the financial sector as that separating financial 
+institutions whose principal function is to assist companies’ and individuals’ 
+capital-raising in primary markets, on the one hand, from institutions engaged 
+predominantly  in  facilitating  trading  and  transfer  of  financial  risk  in 
+secondary markets, on the other.148 Among other things, this supra-functional 
+approach to structural reform would refocus regulatory attention on the core 
+sources of systemic financial instability: the built-in propensity of secondary 
+markets for financial instruments to over-generate tradable risk.149  
+Needless to say, developing a blueprint for this type of a comprehensive 
+and  bold  structural  reform  is  no  easy  task.  It  requires  a  fundamental 
+attitudinal shift in the debate on the proper scope and tools of financial 
+                                                 
+147 See supra Part III. 
+148 For an early effort to articulate this supra-functional approach to structural reform, 
+see Saule T. Omarova, Wall Street as Community of Fate: Toward Financial Industry Self-
+Regulation, 159 U. PENN. L. REV. 411, 475-482 (2011) (proposing separate licensing and 
+regulatory regimes for (1) financial institutions facilitating “risk transfer” through the 
+creation and trading of complex financial products, and (2) financial institutions facilitating 
+more traditional “capital formation” in primary markets). 
+149 For a detailed explanation and a taxonomy of the core meta-transactional techniques 
+for such over-generation of tradable financial risks in secondary markets, see Fintech as a 
+Systemic Phenomenon, supra note 99. 34  The TBTF Problem - DRAFT  [20-Dec-18 
+regulation:  a  shift  that  involves  re-examining  underlying  assumptions, 
+redefining key problems, resetting normative priorities, and recognizing new 
+possibilities.150 
+B.  Expanding the Reform Agenda: Prices, Products, Public Options  
+Even  the  most  thoughtfully  designed  and  comprehensive  structural 
+reform,  however,  is  vulnerable  to  private  market  actors’  attempts  to 
+circumvent regulatory boundaries.151 It is, therefore, important to expand the 
+reform  agenda  beyond  the  traditional  “B”  factor  solutions  and  to  start 
+devising policy tools that would target undesirable market dynamics directly. 
+In a deliberate shift from financial firms’ “bigness” or systemic significance 
+to  financial  markets’  functional  mechanisms,  these  next-generation  “B” 
+factor solutions would seek to reduce and control systemic complexity, 
+regulatory arbitrage, and over-generation and misallocation of credit.  
+Systemically Significant Prices 
+Among other things, that may mean expanding the conceptual framework 
+to incorporate a focus on what has been termed “systemically important 
+prices and indices,” or SIPIs.152 SIPIs are prices and indices that take on 
+particular market‐wide importance, because they are (1) associated with 
+ubiquitous inputs to production, (2) associated with highly popular asset 
+classes, or (3) used as benchmarks in determining other prices.  Examples of 
+SIPIs include prevailing wage and salary rates, certain energy and commodity 
+prices, the S&P500 index, the federal funds rate, and the leading interbank 
+borrowing rates.153  SIPIs play a critical role in the growth, complexification, 
+and volatility of financial markets.154 Accordingly, the malfunctioning of the 
+mechanisms used to determine individual SIPIs is an important potential 
+source of systemic instability. Thus, the process for setting certain SIPIs gives 
+                                                 
+150 I intend to develop the basic framework for such an explicitly systemically oriented 
+approach to structural reform in a separate research project. 
+151  See Structural  Reform, supra  note 67, at  501-502  (discussing  the “boundary 
+problem”). 
+152 See Robert C. Hockett & Saule T. Omarova, Systemically Significant Prices, 2 J. FIN. 
+REG. 1 (2016) [hereinafter, Systemically Significant Prices] (introducing and discussing the 
+concept of SIPIs, market vulnerabilities they create, and regulatory strategies for addressing 
+such vulnerabilities). 
+153 Id. 
+154 For example, until very recently, the London Interbank Offered Rate (LIBOR), a 
+reference rate at which large banks borrowed short-term wholesale funds from one another 
+on an unsecured basis, served as the principal benchmark for the vast majority of variable-
+rate loans, mortgage-backed securities, and derivatives traded in global financial markets. 
+As of 2013, LIBOR underpinned more than $300 trillion in derivatives contracts alone. See 
+David Hou & David Skeie, LIBOR: Origins, Economics, Crisis, Scandal, and Reform, 
+FRBNY Staff Report No. 667 (Mar. 2014),  20-Dec-18]  The TBTF Problem -DRAFT  35 
+rise to concerns about large-scale market  manipulation and conflicts of 
+interest  likely  to  have  widely  distortive  effects  on  financial  markets.155 
+Moreover, excessive speculation in assets whose prices are systemically 
+important poses a heightened danger of triggering self-reinforcing fire sale 
+spirals across numerous markets.156  
+Regulatory  measures  that  minimize  market  vulnerabilities  arising  in 
+connection with the operation of various SIPIs are, therefore, important 
+supplements to the more traditional entity-focused TBTF solutions.157 Such 
+measures could include the creation of a special regime for designating 
+particular asset prices and indices as SIPIs and subjecting their derivation and 
+maintenance  to  specially  developed  regulatory  standards.  Among  other 
+things, this regime could require licensing of private firms that create or 
+maintain  specific  indices  or  benchmarks  designated  as  SIPIs,  impose 
+supervisory controls on the process of deriving SIPIs, mandate enhanced 
+antitrust and antifraud oversight of the relevant markets and activities, or even 
+establish some form of utility-style regulation with respect to certain SIPIs.158   
+Financial Product Approval 
+Another potential regulatory reform along the same, more explicitly 
+macro-structural, lines would introduce a system of mandatory pre-approval 
+of financial products, explicitly aimed at reducing the complexity and opacity 
+of financial markets.159 As explained more fully in my prior work, the idea of 
+product approval operationalizes a simple but powerful intuition: if we cannot 
+effectively regulate and control systemic risk associated with the increasing 
+complexity and interconnectedness in financial markets, we need to reduce 
+and control the overall level of complexity in the system.160 Because much of 
+that risk-generating complexity is a result of strategic efforts of financial 
+firms that structure, market, and deal in complex financial instruments, the 
+                                                 
+155 Recent price-rigging scandals involving LIBOR and foreign exchange benchmark 
+rates demonstrate the far-reaching global impact of dysfunctional SIPI dynamics. As a result 
+of these scandals, LIBOR is currently being phased out. See Jill Treanor, Libor interest rate 
+to be phased out after string of scandals, THE GUARDIAN (Jul 28, 2017), available at 
+https://www.theguardian.com/business/2017/jul/27/libor-interest-rate-phased-out-scandals.   
+156 For a detailed discussion of market vulnerabilities associated with SIPIs, see 
+Systemically Significant Prices, supra note 152, at 9-13. 
+157 For a more detailed discussion of the relevant regulatory measures, see id. at 14-20. 
+158 Id. 
+159 See License to Deal, supra note 93 (advancing a proposal for designing a financial 
+product approval scheme). 
+160 Id. at 66. It is worth emphasizing that, in the context of this discussion, complexity – 
+of financial instruments, institutions, and markets – is viewed merely as a key functional 
+variable driving and explaining an entire complex of socially undesirable dynamics in the 
+financial system, and not as some intrinsic social “evil.” See id. at 68-75 (discussing the 
+concept of strategic complexity and its role in increasing systemic risk). 36  The TBTF Problem - DRAFT  [20-Dec-18 
+most radical and direct method of reducing systemic risk would be to insert 
+regulatory controls at the point of product development, before the risk is 
+introduced into the financial system.161 
+A properly designed product approval regime would provide a procedural 
+mechanism for ensuring that financial innovation and the creation of complex 
+financial instruments, in fact, advance productive economic enterprise and 
+offer real public benefits – as opposed to merely fueling financial speculation 
+and regulatory arbitrage.162 Under this regime, financial institutions would 
+have to demonstrate to the regulators that each complex financial product 
+they intend to market meets three statutory tests: (1) an “economic purpose” 
+test, which would place the burden of proving the social and commercial 
+utility of each proposed financial instrument on the financial institutions 
+seeking its approval; (2) an “institutional capacity” test, which would require 
+a review of the applicant firm’s ability to effectively manage the risks and 
+monitor the market dynamics of the proposed product; and (3) a broad 
+“systemic effects” test, which would require a finding that approval of the 
+proposed product would not pose an unacceptable risk of increasing systemic 
+vulnerability  and  otherwise  will  not  raise  significant  public  policy 
+concerns.163  
+In essence, this approach would function as a simple burden-shifting 
+device: instead of prohibiting any specific activities, it would impose the duty 
+to provide information necessary for evaluating potential risks and benefits 
+of a specific financial product on the party that has the best access to such 
+information – and the greatest incentives not to disclose it voluntarily.164 By 
+eliminating socially counterproductive complexity, this approach would also 
+potentially  enhance  the  reliability  of  traditional  mechanisms  of  private 
+market discipline.165  
+Credit Modulation and Allocation 
+Another set of unorthodox policy tools may be combined under the 
+general heading of “public options:” i.e., various institutional forms of direct 
+public participation in financial market activities. As elaborated elsewhere, 
+public  instrumentalities  already  play  an  indispensable  role  in  making, 
+                                                 
+161 Id. at 66. 
+162 For a discussion of how systemic complexity, financial speculation, and regulatory 
+arbitrage continue to hinder the effective operation of post-crisis TBTF policies, see supra 
+Part III. 
+163 License to Deal, supra note 93, at 67. 
+164 Of course, designing a workable regime of financial product approval is a complex 
+undertaking bound to raise multiple legal, economic, and political questions. For an in-depth 
+discussion of these issues, see id. at 113-140. 
+165 Id. at 68-69. 20-Dec-18]  The TBTF Problem -DRAFT  37 
+facilitating, and preserving putatively private financial markets.166 They act 
+as collective agents, uniquely capable of counteracting and thus solving 
+recursive  collective  action  problems  permeating  the  operation  of 
+decentralized markets in which they operate.167 Crucially, they act within, not 
+without, the markets – a factor that fundamentally changes the way we are 
+conditioned to understand public-private dynamics in finance. As market 
+actors, public instrumentalities are able to affect asset prices and shape 
+private firms’ behavior in a more nimble and direct way than can be done 
+through traditional regulation or supervision. Expanding these participatory 
+capacities of public actors would accordingly amplify this self-correction 
+market mechanism crucial for safeguarding systemic financial stability.  
+One potential example of such proactive and systematic exercise of 
+collective agency would be an expansion of the Federal Reserve’s so-called 
+“open market operations” (OMO) beyond their current focus on interest rate-
+setting via trading in U.S. government bonds, to encompass trading in a wide 
+range of financial assets.168 This more comprehensive OMO strategy – or 
+OMO Plus – would aim explicitly to prevent destabilizing asset price bubbles 
+and  busts,  by  executing  counter-cyclical  trades  in  the  relevant  asset 
+markets.169 In parallel to its existing Treasury bond-trading, the Federal 
+Reserve Bank of New York (FRBNY) would establish a separate trading 
+portfolio replicating the market portfolio: effectively, an index fund reflecting 
+the proportional values of all financial asset classes constituting the financial 
+market as a whole.170 If, for example, a particular asset class—such as 
+mortgage-backed securities or technology stocks—rises in market value at 
+rates suggestive of a bubble trend, the FRBNY trading desk would short these 
+securities, in order to put downward pressure on their prices.171 Acting in this 
+manner would tend to tighten the flow of speculative credit to the asset class 
+in  question,  both  because  (1)  speculative  profit  prospects  would  be 
+diminished by the price drop; and (2) the Federal Reserve’s actions would 
+signal to the market its determination that current prices of the asset in 
+question are artificially inflated. Conversely, the FRBNY trading desk would 
+go  long  on  particular  asset  classes  when  they  appear  to  be  artificially 
+undervalued. The same process would apply with respect to broader market 
+price fluctuations.172  
+                                                 
+166 See sources cited supra note 22. 
+167 See supra Part III.A.3. 
+168 For a basic description of the mechanism of Open Market Operations, see ANN-
+MARIE MEULENDYKE, U.S. MONETARY POLICY AND FINANCIAL MARKETS 163–88 (1998).  
+169 For a more detailed proposal, see Public Actors, supra note 22 at 141-144. 
+170 This portfolio could be constituted synthetically, rather than through the purchase of 
+actual assets – an option with fewer upfront costs. See id. at 141. 
+171 Id. at 142. 
+172 Id.  38  The TBTF Problem - DRAFT  [20-Dec-18 
+Another example of a policy directly targeting broad financial market 
+dynamics would involve an establishment of a new federal instrumentality – 
+dubbed elsewhere the National Investment Authority (NIA) – charged with 
+developing and implementing a comprehensive strategy of national economic 
+development.173 This new instrumentality would operate as a true hybrid 
+public-private market actor, enabling private investors to overcome currently 
+insurmountable collective action problems that render investment in long-
+term public infrastructure projects individually irrational.174  
+In highly simplified and abbreviated terms, the NIA would function much 
+like a typical Wall Street asset manager: it would set up a series of collective 
+investment funds (structured similarly to traditional private equity funds), 
+actively solicit private investors to purchase passive equity stakes in its funds, 
+and  then  select  and  manage  individual  funds’  portfolios  of  public 
+infrastructure assets.175 Reversing the fundamental logic of a traditional 
+“public-private  partnership”  model,  this  new  entity  would  channel  the 
+enormous  amounts  of  private  capital  held  by  pension  funds,  insurance 
+companies, university endowments, banks, foreign sovereign wealth funds, 
+and  other  institutional  investors  into  the  coordinated  construction  and 
+maintenance  of  large-scale,  economic  growth-boosting  infrastructures.176 
+Examples  of  such  transformative  public  infrastructures  would  include 
+nationwide  networks  of  clean  energy  provision  and  state-of-the-art 
+transportation, regional air and water cleaning and preservation programs, 
+systems of ongoing adult education and technical training, networks of mixed 
+public-private “startup” finance funds, and so on.177  
+At present, private investors are often unwilling to finance such socially 
+beneficial projects, primarily because of the longer time horizons and higher 
+private risks associated with the provision of public goods.178 The NIA would 
+act directly and proactively to alleviate these risks. By deliberately exploiting 
+the unique advantages of the federal government – its vast scale, high risk 
+tolerance, lengthy investment horizons, and direct backing by the full faith 
+and credit of the United States – it would enable private investors to capture 
+reasonable  gains  from  the  provision  of  currently  under-provided, 
+transformative collective goods.179  
+                                                 
+173 For a detailed proposal, see National Investment Authority, supra note 22. 
+174 See id. at 444-454 (identifying and analyzing such collective action problems). 
+175 See id. at 475-480 (outlining the general structure and functions of the NIA as an 
+asset manager). 
+176 Under the traditional “public-private partnership” model, profit-seeking private firms 
+are typically paid to manage – or mis-manage – public money. See id. at 439-440. 
+177 For a detailed discussion of the specific methods and techniques of financial and legal 
+engineering the NIA could adapt to this end, see id.at 469-490. 
+178 See id. at 448-451; 454-455. 
+179 See id. at 446-458. The key to achieving this goal is the NIA’a ability to synthesize 20-Dec-18]  The TBTF Problem -DRAFT  39 
+If thoughtfully designed and implemented, this innovative reform would 
+open new opportunities for a more effective channeling of financial capital 
+into  productive  economic  enterprise,  as  opposed  to  socially  harmful 
+speculation in financial instruments.180 In this sense, it would significantly 
+enhance the long-term stability and resilience of the U.S. financial system – 
+and blunt some of the key underlying systemic factors that currently hinder 
+the ability of traditional TBTF solutions to deliver their intended results in 
+practice.181 In a truly organic fashion, an effective structural rebalancing of 
+the nation’s real economy would also help to rebalance, both structurally and 
+functionally, its financial system. 
+To be clear, the purpose of this brief overview is not to elaborate any 
+specific proposal in any significant detail but to provide some examples of 
+potential  avenues  for  introducing  an  explicitly  systemic,  market-wide 
+perspective in the TBTF policy. Supplementing the familiar range of TBTF 
+solutions with these types of bolder, broader measures is a critical – and 
+presently largely missing – element in the process of eliminating the TBTF 
+problem.182 Of course, such unorthodox “public options” as those sketched 
+out above are bound to meet with fierce criticism and resistance on the part 
+of the financial industry. Even the well-meaning observers and experts might 
+be hesitant to venture quite so far outside the established policy perimeter. 
+Yet, simply articulating these innovative options as potential additions to the 
+financial sector reform agenda would mark a significant step toward a more 
+coherent  and  integrated  strategy  of  eliminating  the  TBTF  phenomenon. 
+Hopefully, for good. 
+CONCLUSION 
+“Too big to fail,” or TBTF, is a complex, capacious, and rhetorically 
+powerful metaphor. It functions as an “umbrella” term, a discursive mirror 
+reflecting the full spectrum of interrelated systemic, macro-level problems in 
+today’s finance. At the same time, however, TBTF is a fundamentally micro-
+level, entity-centric concept. While largely unacknowledged, this inherent 
+tension between the micro and the macro, the entity and the system, continues 
+to frame the ongoing public policy debate on TBTF. It also decisively shaped 
+the design and implementation of the key post-2008 regulatory reforms in the 
+financial sector.  
+Deconstructing the TBTF metaphor into its two basic components – the 
+                                                 
+privately payable “equity strips” that reflect otherwise non-capturable public gains from the 
+provision of collective goods. Id. at 451-454. 
+180 For a thorough discussion of the institutional design and implementation issues in 
+connection with this proposal, see id. at 480-490.  
+181 See supra Part III. 
+182 To re-emphasize, these measures should supplement, not supplant, the current regime 
+of entity-based prudential regulation and supervision. See supra note 128.  40  The TBTF Problem - DRAFT  [20-Dec-18 
+“F” factor focused on the “failure” of individual financial firms and the “B” 
+factor focused on their relative size and structural significance – provides a 
+helpful framework for analyzing post-crisis legislative and regulatory efforts 
+to solve the TBTF problem. This analysis reveals critical gaps in the post-
+crisis reform process, which consistently favors the inherently micro-level 
+“F” factor solutions over the more explicitly macro-level “B” factor ones. It 
+also suggests potential ways of rebalancing and expanding the current TBTF 
+policy toolkit to encompass a wider range of measures targeting the relevant 
+market-wide, or systemic, dynamics in a more direct and assertive manner.  
+Pushing the boundaries of our collective understanding of, and efforts to 
+eradicate, the TBTF phenomenon by reinstituting the importance of self-
+consciously structural, systemic policy responses is bound to invite numerous 
+questions and criticisms, both constructive and otherwise. There may not be 
+simple answers or bullet-proof defenses to all of them. Yet, the TBTF 
+problem is not going to disappear unless and until we find better, more 
+comprehensive  and  effective,  ways  of  solving  it.  By  mapping  out  the 
+conceptual terrain on which such solutions may be found, this article is taking 
+a meaningful step toward that goal. 

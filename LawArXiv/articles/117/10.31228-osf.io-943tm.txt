@@ -1,0 +1,1531 @@
+ 
+ 
+ 
+ 
+       DEVELOPMENTS 
+ 
+ 
+THE EXPANDING ROLE  
+AND IMPORTANCE OF STANDARDS IN  
+THE INFORMATION AND COMMUNICATIONS  
+TECHNOLOGY INDUSTRY 
+ 
+Brad Biddle, Frank X. Curci,  
+Timothy F. Haslach, Gary E. Marchant,  
+Andrew Askland, and Lyn Gaudet* 
+ 
+ABSTRACT: Standards play a particularly critical role in the information and com-
+munications technology (ICT) industry: they facilitate important interoperability goals. 
+Standards development processes in the ICT industry are extraordinarily complex, and 
+many aspects of these processes are not well understood. Inspired by discussions at a 
+workshop that included leading practitioners, academics, and policymakers specializing 
+in standards, the authors identify factors that explain both the growing importance and 
+the growing complexity of standards in the ICT industry. The authors provide a frame-
+work for understanding how standards development efforts are structured, with a 
+particular focus on the more informal specification development groups known as 
+Consortia. The authors also explore two particular challenges in standard setting: the 
+development of intellectual property policies that adequately balance different stake-
+holder interests, and the potential for ethical conflict issues. 
+ 
+CITATION: Brad Biddle, Frank X. Curci, Timothy Haslach, Gary E. Marchant, 
+Andrew Askland, and Lyn Gaudet, The Expanding Role and Importance of Standards in 
+the Information and Communications Technology Industry, 52 Jurimetrics J. 177–208 
+(2012). 
+ 
+                                                                                                           
+  *Brad Biddle is Standards Counsel with Intel Corporation and an Adjunct Professor at the 
+Sandra Day O’Connor College of Law, Arizona State University. Frank X. Curci is a Shareholder 
+with Schwabe, Williamson, and Wyatt, Portland, Oregon. Timothy F. Haslach is a Shareholder 
+with Schwabe, Williamson, and Wyatt, Portland, Oregon. Gary E. Marchant is Lincoln Professor 
+of Emerging Technologies, Law & Ethics and Faculty Director, Center for Law, Science & 
+Innovation, Sandra Day O’Connor College of Law, Arizona State University. Andrew Askland is 
+Director, Center for Law, Science & Innovation, Sandra Day O’Connor College of Law, Arizona 
+State University. Lyn Gaudet received her J.D. in 2011 from the Sandra Day O’Connor College of 
+Law, Arizona State University. The paper reflects the authors’ personal views, and should not be 
+attributed to their respective organizations or institutions. 
+ 
+WINTER 2012  177 Biddle et al. 
+ 
+  Standards adopted by various types of private and quasi-governmental 
+standards-setting organizations (SSOs) play a critical and growing role in the 
+development and commercialization of many technologies.1 No industry is 
+more dependent upon and affected by such standards than the information and 
+communications technology (ICT) industry, which encompasses computer, 
+telecommunication, and personal entertainment technologies and products. 
+Standards are critical to the interoperability of different products and technol-
+ogies developed by different ICT companies and are of growing importance at 
+a time of globalization because, unlike government regulation, private stan-
+dards can be international in their application. Yet, in some situations, stan-
+dards can be an impediment to technology innovation and implementation. For 
+example, standards can be counterproductive if they are duplicative or incon-
+sistent with other standards, fail to properly understand and anticipate technol-
+ogy  trajectories,  are  anticompetitive,  or  have  been  designed  to  further 
+parochial commercial or political interests.  
+Despite the growing importance of standards in an increasingly globalized 
+world, surprisingly little scholarly analysis and discourse addresses this im-
+portant field. As one pair of authors recently lamented somewhat tongue in 
+cheek, “standards quite often fall into the category of ‘boring things’ that fail 
+to elicit much attention or scrutiny.”2 This attention deficit may be due in part 
+to the complexity and lack of transparency of standard-setting activities, which 
+are currently accessible primarily to experts within the ICT companies directly 
+affected by such standards. To help address that gap, in January 2010, the 
+Center for Law, Science & Innovation at Arizona State University’s Sandra 
+Day O’Connor College of Law convened the first meeting of an intended 
+series of annual workshops on standards that bring together leading practition-
+ers, scholars, and other stakeholders to discuss current issues and controversies 
+in standard setting.  
+This article grows out of that first workshop (the ASU Workshop). Part I 
+begins with a discussion of the role and importance of standards in the ICT 
+industry and includes a framework for understanding the wide variety of SSOs 
+employed in this industry. Part II explores two particular challenges in the 
+current  standard-setting protocol: the development of  intellectual property 
+policies that adequately balance different stakeholder interests, and the poten-
+tial for ethical conflict issues in standards development. 
+ 
+                                                                                                           
+  1. U.S.  STANDARDS  STRATEGY  COMM.,  AM.  STANDARDS  INST.,  UNITED  STATES 
+STANDARDS  STRATEGY  4  (2010),  available  at  http://publicaa.ansi.org/sites/apdl/Documents/ 
+Standards%20Activities/NSSC/USSS_Third_edition/USSS%202010-sm.pdf  (“[S]tandards  are 
+more essential today than at any time in our nation’s history.”); see also OFFICE OF TECH. 
+ASSESSMENT, TCT-512, GLOBAL STANDARDS: BUILDING BLOCKS FOR THE FUTURE 3 (1992) 
+(stating that standards are ever present and affect our lives in multiple ways). 
+  2. Stefan Timmermans & Steven Epstein, A World of Standards but not a Standard World: 
+Towards a Sociology of Standards and Standardization, 36 ANN. REV. SOC. 69, 71 (2010). 
+ 
+178  52  JURIMETRICS   The Expanding Role and Importance of Standards in the ICT Industry 
+ 
+I. THE ROLE AND IMPORTANCE  
+OF STANDARDS IN THE ICT INDUSTRY 
+ 
+  This Part describes the importance and role of standards in the ICT indus-
+try, the variety of SSOs and specification-development groups, and compli-
+cating  factors  in  creating  standards  in  the  ICT  industry.  It  suggests  a 
+framework for understanding different organizational approaches to standard-
+setting.  
+A. Basic Importance, Role, and Posture of Standards  
+     in the ICT Industry 
+Standards are critically important in the ICT industry. ICT products con-
+sist of a variety of equipment, devices, and components that work only if they 
+can connect to, and operate with, other equipment, devices, and components 
+often made by other manufacturers. Examples of such equipment include 
+computer hardware, computer chips, software, printers, modems, scanners, 
+Internet networks, wireless communication devices, and many others. Tech-
+nology standards provide an interface between these various devices to ensure 
+that they are compatible and can function together. Many of these interopera-
+bility standards are now terms in daily use by the public. WiFi has transformed 
+how we go online. USB cables enable us to connect our computers, phones, 
+cameras, music players, and countless other devices. We send text messages 
+using SMS. New devices and new ways to communicate are enabled by 3G 
+and 4G telecommunication networks. We listen to MP3-formatted music and 
+view DVDs and Blu-Ray discs. We browse the Internet, viewing web pages 
+rendered in HTML.  
+These well-known standards barely scratch the surface of important ICT 
+industry standards. Standards such as PCI and PCI-Express, for example, are 
+relatively unknown to consumers but have played a crucial role in the ICT 
+hardware industry. Large ICT companies like Intel, Microsoft, and Oracle are 
+involved in hundreds of different standards development efforts at any given 
+time.  
+The convergence of computing and communications has magnified the 
+importance of standards. Consider a single device that enables phone calls 
+over a cellular network and over the Internet (VOIP), sends and receives text 
+and multimedia messages, connects to WiFi access points, browses the Inter-
+net, plays music and video, and takes photos and transfers them to a PC. The 
+development and operation of this device would use potentially hundreds of 
+different standards.3  
+                                                                                                           
+  3. See Brad Biddle et al., How Many Standards in a Laptop? (And Other Empirical 
+Questions) 2010 INT’L TELECOMM. UNION SEC. TELECOMM. STANDARDIZATION KALEIDOSCOPE 
+ACAD. CONF. PROC. 123 (empirical study which identifies 251 technical interoperability standards 
+implemented in a modern laptop computer, and estimates that the total number of standards 
+relevant to such a device is much higher).  
+ 
+WINTER 2012  179 Biddle et al. 
+ 
+ICT standards are usually developed by SSOs in which various industry 
+representatives actively participate to represent novel and diverse models of 
+governance and a form of self-regulation.4 The format, process, participation, 
+and outputs of different SSOs vary considerably.5 Important issues may in-
+clude the question of whether a particular technology is standardized, the cost 
+and performance tradeoffs associated with the standards, whether particular 
+intellectual property (IP) is included, and licensing terms associated with IP.6 
+Accordingly, many ICT industry companies devote substantial resources to 
+standards development.7 
+Even though most standards are developed by private SSOs, government 
+regulators and policymakers are also key stakeholders in connection with 
+standards.8 Antitrust regulators frequently scrutinize standards development 
+efforts to ensure that standardization efforts promote innovation and consumer 
+welfare and do not enable collusion or other kinds of anticompetitive beha-
+viors.9 Policymakers may also have special concerns when private-sector-
+driven standards are adopted into public regulations, or when standards affect 
+significant matters of public policy.10 Additionally, policymakers in some 
+regions of the world increasingly appear to be using standards as a tool of 
+industrial policy to advance particular national interests. Notably, there is no 
+global consensus on the right governmental approach to standards policy: the 
+United States generally embraces a “bottom-up” private sector-driven model 
+of  standards  development,  whereas  the  European  Union  and  increasingly 
+China have a more government-centric “top-down” approach.11 
+                                                                                                           
+  4. Kevin Werbach, Higher Standards: Regulation in the Network Age, 23 HARV. J.L. & 
+TECH. 179, 179 (2009) (“standardization is regulation.”); Jane K. Winn, Standard Developing 
+Organizations as a Form of Self-Regulation (July 25, 2006) (manuscript at 1), http://papers.ssrn. 
+com/sol3/papers.cfm?abstract_id=924008. 
+  5. See infra Part I.B. 
+  6. See Joseph Scott Miller, Standard Setting, Patents, and Access Lock-in: RAND Licensing 
+and the Theory of the Firm, 40 IND. L. REV. 351, 352 (2007); see generally Brian Kahin, Common 
+and Uncommon Knowledge: Reducing Conflict Between Standards and Patents, in OPENING 
+STANDARDS: THE GLOBAL POLITICS OF INTEROPERABILITY 177 (Laura DeNardis, ed., 2011) 
+(describing the importance of standards in the information technology field and reconciling patent 
+enforcement and standard rights).  
+  7. Brian DeLacey et al., Strategic Behavior in Standard-Setting Organizations, at 1, 2 
+(Harvard NOM Working Paper No. 903214, 2006), available at http://ssrn.com/abstract=903214. 
+  8. See generally Stacy Baird, The Government at the Standards Bazaar, 18 STAN. L. & 
+POL’Y REV. 35 (2007) (stating that government regulators should step in and offer standards when 
+there is a critical public interest in the subject or the matter is vital to national security, defense, 
+public safety, or general health). 
+  9. U.S. DEP’T. OF JUSTICE & FED. TRADE COMM’N, ANTITRUST ENFORCEMENT AND 
+INTELLECTUAL PROPERTY RIGHTS: PROMOTING INNOVATION AND COMPETITION 6–7 (2007), 
+available at http://www.justice.gov/atr/public/hearings/ip/222655.pdf; David J. Teece & Edward 
+F. Sherry, Standards Setting and Antitrust, 87 MINN. L. REV. 1913, 1934 (2003). 
+  10. Teece & Sherry, supra note 9, at 1918.  
+  11. See  Christopher  S.  Gibson,  Globalization  and  the  Technology  Standards  Game: 
+Balancing Concerns of Protectionism and Intellectual Property in International Standards, 22 
+BERKELEY TECH. L.J. 1403, 1410–18 (2007) (comparing U.S., Chinese, and E.U. standards-setting 
+approaches); Jane K. Winn, US and EU Regulatory Competition in ICT Standardization Law & 
+ 
+ 
+180  52  JURIMETRICS   The Expanding Role and Importance of Standards in the ICT Industry 
+ 
+Consumers are also key stakeholders in standards.12 As any owner of a 
+Betamax player or an orphaned mobile phone power adapter can attest, stan-
+dards (or the lack thereof) can have real-world impacts. Consumers benefit 
+from  product  interoperability,  increased  product  choices,  and  competition 
+between vendors.  
+Notwithstanding the importance of standards, the standards-development 
+process is not well understood. Few people, including practicing lawyers and 
+graduating law students, have a comprehensive view of standards develop-
+ment. Some ICT company representatives (and their associated consultants 
+and service providers) are experts at standards development, but this expertise 
+tends to be narrowly focused on achieving immediate business objectives in 
+particular technology areas. Knowledge is rarely shared in a systematic way 
+outside of a particular company. Regulators and policymakers have some 
+insight into standards development (for example, in the course of investigating 
+a problematic standardization activity, or when participating in government-
+driven efforts) but they have relatively little insight into private-sector-driven 
+efforts and rarely capture or share knowledge in a comprehensive way. Stan-
+dards are a black box for consumers; they blissfully enjoy the benefits without 
+any knowledge of the operations or development. And academic analysis of 
+standards development has been sparse. A recent paper by four economists at 
+the Harvard Business School noted, “[I]t is striking how little work has ad-
+dressed the question of how standards-setting organizations work in prac-
+tice.”13 A discussion of the variety of SSOs is warranted. 
+B. The Variety of Standards-Setting Organizations 
+The ASU Workshop described in the introduction to this article brought 
+together leading practitioners, scholars, and other stakeholders with extensive 
+experience in standards development. Given the level of expertise of the work-
+shop participants, the authors of this paper were struck by the observation that 
+the participants did not share a common vocabulary or conceptual framework 
+for describing different standards-development structures and methodologies. 
+Here, the authors explore a framework for understanding the variety of ways 
+SSOs  are  organized,  with  a  particular  focus  on  less  formal  standards-
+development methodologies.14 For context, some examples of standards and 
+the organizations that created them are:  
+                                                                                                           
+Policy, 2005 INST. ELECTRICAL ELECTRONIC ENGINEER SEC. STANDARDIZATION INNOVATION 
+INFO. TECH. PROC. 283–84 (comparing European and American regulatory standards). 
+  12. Jane K. Winn & Nicolas Jondet, A “New Approach” to Standards and Consumer 
+Protection, 31 J. CONSUMER POL’Y 459, 464 (2008).  
+  13. Delacey et al., supra note 7, at 3. 
+  14. During the workshop participants discussed a framework based in part on a “SSO Tax-
+onomy” described in a white paper published by the Intellectual Property Owners Association 
+(IPO). INTELL. PROP. OWNERS ASSOC. STANDARDS SETTING COMM., INTELL. PROP. OWNERS 
+ASS’N, STANDARDS PRIMER: AN OVERVIEW OF STANDARDS SETTING BODIES AND PATENT-
+RELATED ISSUES THAT ARISE IN THE CONTEXT OF STANDARD SETTING ACTIVITIES 3–9 (2009) 
+[hereinafter STANDARDS PRIMER], available at http://www.ipo.org/AM/Template.cfm?Section= 
+ 
+ 
+WINTER 2012  181 Biddle et al. 
+ 
+  WiFi: 802.11 specifications developed by the Institute of Electrical and 
+Electronics  Engineers  (IEEE),  a  large  member-driven  501(c)(3)15 
+nonprofit SSO.16 The Wi-Fi Alliance, a 501(c)(6) industry association 
+made  up  of  400  company  members,  provides  compliance  testing 
+(including a “WiFi Certified” logo program) and marketing services.17 
+ 
+  USB: The USB Promoters Group, a contractual arrangement between a 
+small group of major ICT companies, acts as steward for the USB 
+specifications; the USB Implementers Forum, a 501(c)(6) body with 800 
+members, distributes the specifications and provides compliance testing 
+and marketing.18  
+ 
+  SMS: SMS was developed as part of the Global Systems Mobile (GSM) 
+telephony protocol, which was initially created by a consortium of 13 
+European  governments  and  then  later  transferred  to  the  European 
+Telecommunications  Standards  Institute  (ETSI),  an  independent 
+nonprofit SSO.19 
+ 
+  3G  and  4G:  3G  and  4G  are  families  of  standards  for  wireless 
+communications defined by the International Telecommunication Union 
+(ITU), a Geneva-based U.N. body run by government member states.20  
+ 
+  MP3: Created by the Moving Picture Experts Group, a working group of 
+the International Standards Organization (ISO).21 ISO is a Geneva-based 
+international-standard-setting body composed of representatives from 
+various national standards organizations.22  
+ 
+  DVD and Blu-Ray: The DVD and Blu-Ray optical disc formats were 
+established through private negotiations between commercial parties and 
+are  managed  by  the  DVD  Forum  and  Blu-ray  Disc  Association, 
+                                                                                                           
+Search&section=Standards_Setting_Webinar_10_21_09&template=/CM/ContentDisplay.cfm&Co
+ntentFileID=61348. Part I.B of this article draws from concepts in the IPO paper and from the 
+related workshop discussion, but ultimately reflects solely the views of the authors.  
+  15. Section 501(c) of the Internal Revenue Code identifies different types of nonprofit 
+corporations. See 26 U.S.C. (c) of t (2006). See also infra Part I.B.2.c. 
+  16. Organization, WI-FI ALLIANCE, http://www.wi-fi.org/organization.php (last visited Nov. 
+25, 2011). 
+  17. Id. 
+  18. About USB Implementers Forum, Inc., USB IMPLEMENTERS FORUM, INC., http://www. 
+usb.org/about (last visited Nov. 25, 2011).  
+  19. About 3GPP, 3GPP, http://www.3gpp.org/About-3GPP (last visited Nov. 28, 2011); see 
+also 1. Introduction to SMS Messaging, DEVELOPER’S HOME (Nov. 28, 2011), http://www. 
+developershome.com/sms/smsIntro.asp. 
+  20. IMT-Advanced (4G) Mobile Wireless Broadband on the Anvil, INT'L TELECOMM. UNION 
+(Nov. 21, 2010), http://www.itu.int/newsroom/press_releases/2009/48.html; Licensing Policy for 
+3G Generation Mobile, INT'L TELECOMM. UNION (Apr. 4, 2011), http://www.itu.int/osg/spu/ni/3G/.  
+  21. Overview of the MPEG Committee, MP3’ TECH, http://www.mp3-tech.org/ (last visited 
+Nov. 28, 2011). 
+  22. About ISO, INT’L ORG. FOR STANDARDIZATION, http://www.iso.org/iso/about.htm (last 
+visited Jan. 4, 2012). 
+ 
+182  52  JURIMETRICS   The Expanding Role and Importance of Standards in the ICT Industry 
+ 
+respectively.23 The DVD Forum is an unincorporated association based 
+in Japan and made up of member companies.24 The Blu-Ray Disc 
+Association is a California Nonprofit Mutual Benefit Corporation.25   
+ 
+  HTML: Originally proposed as a standard by the Internet Engineering 
+Task Force (IETF), the standardization arm of the nonprofit Internet 
+Society;  later  established  by  the  World  Wide  Web  Consortium,  a 
+nonprofit with 360 diverse members. HTML was also adopted as an ISO 
+standard.26  
+  
+First, Part II.B.1 describes the basic organizational differences among dif-
+ferent types of SSOs. Part II.B.2 describes different organizational approaches 
+employed by one subtype of SSO: Consortia.  
+1. SDOs v. Consortia 
+While SSOs make it their business to develop and promulgate standards, 
+specifications and guidelines, they do not themselves have standardized struc-
+tures. At the highest level, SSOs can be broken down into two types: (1) for-
+mal  standards-development  organizations  (SDOs);  and  (2)  specification-
+development consortia or special interest groups (sometimes called SIGs or 
+Fora but referred to in this paper as Consortia). That is, the superset of SSOs 
+is comprised of two subsets: SDOs and Consortia.  
+The defining characteristic of an SDO is formal recognition by a govern-
+ment authority (although, as described below, in the case of U.S.-based SDOs 
+this quality of government recognition is attenuated).27 The most well-known 
+SDOs are the International Telecommunications Union (ITU), the Interna-
+tional Organization for Standardization (ISO), and the International Electro-
+technical Commission (IEC). These are international bodies that develop and 
+adopt formal international standards.28 There are also regional SDOs, such as 
+the European Telecommunications Standards Institute (ETSI), which is recog-
+                                                                                                           
+  23. About DVD Forum, DVD FORUM, http://www.dvdforum.org/about-mission.htm (last 
+visited Nov. 28, 2011); BLU-RAY DISC ASS’N, http://us.blu-raydisc.com/ (last visited Nov. 28, 
+2011).  
+  24. The DVD Forum Charter, DVD FORUM, http://www.dvdforum.org/about-charter.htm 
+(last updated Mar. 8, 2010). 
+  25. BLU-RAY  DISC  ASS’N,  AMENDED  &  RESTATED  BYLAWS  OF  BLU-RAY  DISC 
+ASSOCIATION 1  (2010), available at http://www.blu-raydisc.com/Assets/Downloadablefile/BDA_ 
+Bylaws_%28v2.0%29-18618.pdf. 
+  26. Mission, W3C (Oct. 14, 2011, 5:00 AM), http://www.w3.org/Interaction/.  
+  27. Winn, supra note 11, at 283–284.  
+  28. Membership in each organization is led by national delegations. STANDARDS PRIMER, 
+supra note 14, at 4. The ITU, ISO and IEC have historically been acknowledged as the principal 
+bodies that can produce formal international standards that are recognized under the World Trade 
+Organization’s Technical Barriers to Trade (TBT) Agreement. Id. For a critical assessment of this 
+phenomenon, see James A. Thomas, PlainTalk: Time to Take Stock, ASTM STANDARDIZATION 
+NEWS (Aug. 2000), http://www.astm.org/PRESIDENT/08_00_time_to_take_stock.html.  
+ 
+WINTER 2012  183 Biddle et al. 
+ 
+nized by the European Union.29 Additionally, almost every country has some 
+form of national body to oversee and coordinate its standardization process.  
+In the United States, the American National Standards Institute (ANSI) is 
+the national body that provides input to the ISO and IEC on behalf of the 
+United States.30 Notably, ANSI is not a government agency, but rather an inde-
+pendent nonprofit entity. ANSI itself does not develop standards, but it does 
+accredit SSOs that comport with ANSI’s rules. ANSI designates standards as 
+“American National Standards” when certain criteria are met. Given the quasi-
+governmental role played by ANSI, SSOs accredited by ANSI sufficiently 
+meet the government recognition criteria such that the 200-plus standards 
+setting organizations accredited by ANSI would be considered SDOs in our 
+taxonomy. ANSI-accredited SDOs include organizations that are quite impor-
+tant to the ICT industry, such as the IEEE31 (which developed the WiFi32 and 
+Ethernet specifications,33 among other things) and the JEDEC Solid State 
+Technology Association, formerly known as the Joint Electron Devices Engi-
+neering Council (JEDEC) (which develops widely adopted computer-memory-
+related specifications).34  
+The government recognition test provides the most categorical distinction 
+between an SDO and a Consortium, but other generalizations apply. SDOs are 
+typically open to all interested participants and they follow robust procedural 
+rules aimed at ensuring transparency and due process for all participants.35 As 
+discussed further below, Consortia often limit participation and employ more 
+streamlined governance models. SDOs usually refer to their technical specifi-
+cations as standards, while Consortia often frame their output as industry 
+specifications. However, there are exceptions to these general rules. Nongo-
+vernmental participation is limited at the ITU, for example. Additionally, 
+organizations like the World Wide Web Consortium (W3C) or the IETF—
+                                                                                                           
+  29. About ETSI, EUR. TELECOMM. STANDARDS INST., http://www.etsi.org/WebSite/About 
+ETSI/AboutEtsi.aspx (last visited Jan. 4, 2012).   
+  30. Introduction to ANSI, AM. NAT’L STANDARDS INST., http://www.ansi.org/about_ansi/ 
+introduction/introduction.aspx?menuid=1 (last visited Jan. 4, 2012).   
+  31. AM. NAT’L STANDARDS INST., ANSI ACCREDITED STANDARDS DEVELOPERS 81 (Jan. 3, 
+2012), http://publicaa.ansi.org/sites/apdl/Documents/Standards%20Activities/American%20National 
+%20Standards/ANSI%20Accredited%20Standards%20Developers/JAN12ASD.pdf. 
+  32. WI-FI ALLIANCE, WI-FI CERTIFIEDTM MAKES IT W-FI: AN OVERVIEW OF THE WI-FI 
+ALLIANCE APPROACH TO CERTIFICATION 2 (Sept. 2006), http://www.wi-fi.org/sites/default/files/ 
+membersonly/WFA_Certification_Overview_WP_en.pdf. 
+  33. Iljitsch van Beijnum, Speed Matters: How Ethernet Went from 3Mbps to 100Gbps . . . 
+and Beyond, ARS TECHNICA (July 14, 2011 9:30 PM), http://arstechnica.com/gadgets/news/2011/ 
+07/ethernet-how-does-it-work.ars. 
+  34. AM. NAT’L STANDARDS INST., supra note 31, at 97; JEDEC-Talking Points Fact Sheet, 
+JEDEC,  http://www.jedec.org/sites/default/files/JEDEC-TalkingPointsFactSheet-final_sm.pdf  (last 
+visited Jan. 4, 2012). 
+  35. See, e.g., ANSI Essential Requirements: Due Process Requirements for American 
+National Standards, AM. NAT’L STANDARDS INST., 4 (Jan. 2010), http://publicaa.ansi.org/sites/ 
+apdl/Documents/Standards%20Activities/American%20National%20Standards/Procedures,%20G
+uides,%20and%20Forms/2010%20ANSI%20Essential%20Requirements%20and%20Related/201
+0%20ANSI%20Essential%20Requirements.pdf. 
+ 
+184  52  JURIMETRICS   The Expanding Role and Importance of Standards in the ICT Industry 
+ 
+Consortia in our broad categorization—have participation and procedural rules 
+similar to those of many SDOs. IETF and W3C are also examples of Consortia 
+that refer to their output as “standards.”  
+The organizational structure and operational procedures of SDOs gener-
+ally tend to be well documented and reasonably well understood. Consortia, in 
+contrast, are often opaque to nonparticipants. Further, Consortia are structured 
+in a bewildering variety of ways. A description of the various types of Con-
+sortia follows. These Consortia run the gamut from reciprocal licensing pro-
+grams to nonprofit, mutual benefit corporations. As it is with SSOs generally, 
+rarely can it be said that one size of Consortia will fit all, or that any two Con-
+sortia will exactly mirror each other. 
+2. Types of Consortia 
+There are a number of models and techniques for the development of in-
+dustry specifications. Sometimes, the promoters of a specification—several 
+companies acting in concert, or potentially a single company—will simply 
+define and publish a specification. In other cases the promoters may decide 
+that a more formal structure is needed, especially where there will be multiple 
+related specifications and updates, or when sophisticated compliance testing 
+efforts are necessary. The latter model is driven by the particular motivation of 
+the early promoters, and potentially influenced by the needs of adopters of the 
+specification. Part I.B.2 describes several models of specification develop-
+ment, including Single Promoter Specifications, Contractual Consortia, Incor-
+porated Consortia, a hybrid model, and others. 
+a. Single-Promoter Specifications 
+While not technically a Consortium, one of the most basic forms of pro-
+motion for a specification is for a single company to make a specification 
+available for industry adoption. The company may employ a so-called just 
+publish model, which would not include the promise of a patent license to 
+those claims necessary for the implementation of the specification (often de-
+fined as Necessary Claims). To foster broader adoption of the specification, 
+however, many companies include a covenant not to assert Necessary Claims 
+when they are used to implement the specification. Examples of this can be 
+seen in the Microsoft Open Specification Promise36 and IBM’s Interoperability 
+Specifications Pledge.37 
+A promoter of a specification might also call for the execution of a 
+royalty-free license agreement, which grants implementers a license to Neces-
+sary Claims of the specification promoter and requires the implementer to 
+                                                                                                           
+  36. Open Specification Promise, MICROSOFT CORP., http://www.microsoft.com/openspecific 
+ations/en/us/programs/osp/default.aspx (last visited Nov. 25, 2011) [hereinafter Microsoft Open 
+Specification Promise].  
+  37. Interoperability Specifications Pledge, IBM, http://www-03.ibm.com/linux/ossstds/Isp 
+list.html (last visited Nov. 24, 2011).  
+ 
+WINTER 2012  185 Biddle et al. 
+ 
+license its own Necessary Claims to the promoter of the specification and any 
+other implementers. Intel uses this model with the Enhanced Host Controller 
+Interface (EHCI) specification, for example.38 
+The business motive for the single-promoter approach often appears to be 
+that the promoters are encouraging adoption of noncore technologies to drive 
+the market demand for their core technologies. The promoter develops the 
+specification, essentially giving it away to the industry to promote competition 
+between implementers, while at the same time driving the demand for the 
+promoter’s products. 
+b. Contractual Consortia  
+In some circumstances, multiple promoters jointly develop a specification. 
+In such a scenario, each promoter may be willing to contribute their Necessary 
+Claims, but each also wants a licensing commitment from the other promoters. 
+The promoters will execute a Promoters Agreement, which addresses the 
+licensing commitment in Necessary Claims and joint ownership in the specifi-
+cation copyright.  A Promoters Agreement typically  establishes procedural 
+rules for developing specifications, including the process  for contributing 
+Necessary Claims, reviewing draft specifications, and adopting final specifi-
+cations. A Promoters Agreement generally will also include some sort of go-
+vernance provisions, defining decision-making procedures and other logistical 
+concerns. This Promoters Agreement is the basic building block of the Con-
+tractual Consortium. 
+In situations where the promoters are hoping to further develop the speci-
+fication or drive quick industry adoption, they will include provisions within 
+the Promoters Agreement that allow other companies to contribute ideas into 
+the specification development process, and to enable implementers to adopt 
+the specification. This is usually accomplished with another set of agreements 
+known as Contributors Agreements and Adopters Agreements.39  
+A Contributors Agreement will often mirror the Promoters Agreement in 
+that it will require the contributor to contribute Necessary Claims to the speci-
+fication, or later versions of the original specification. Like the Promoters 
+Agreement, it will set forth the requirements for participating in meetings 
+where the specifications are developed. In contrast, an Adopters Agreement 
+will usually be limited to a reciprocal licensing commitment and will not allow 
+adopters to participate in specification development. 
+                                                                                                           
+  38. EHCI Specification, INTEL CORP., http://www.intel.com/technology/usb/ehcispec.htm 
+(last visited Nov. 24, 2011). 
+  39. For an example of a Contributor Agreement for the Wireless USB specification, see, 
+Wireless Host Controller Interface Specification for Wireless Universal Serial Bus-Contributor 
+Agreement, INTEL CORP. (Jun. 3, 2004), http://www.intel.org/content/dam/doc/technical-specifi 
+cation/wireless-host-controller-ubs-interface-contributor-agreement.pdf. For a copy of the associated 
+Adopters Agreement, see Wireless USB Adopters Agreement, USB IMPLEMENTERS FORUM INC., 
+http://www.usb.org/developers/wusb/WUSB_Adopters_Agreement_Final_020411.pdf (last visited 
+Nov. 25, 2011). 
+ 
+186  52  JURIMETRICS   The Expanding Role and Importance of Standards in the ICT Industry 
+ 
+The mere adoption of a specification through one or many contracts is not 
+always enough to police compliance with the specification. Promoters may 
+want to ensure that products that implement the specification actually comply 
+with the technical requirements of the specification. Accordingly, the promo-
+ters may include interoperability or compliance-testing-requirements provi-
+sions within the various agreements. These programs may be administered 
+through so-called plug fests where promoters, contributors, and adopters get 
+together and test the interoperability of their products or use some other means 
+of  determining  compliance  with  the  specification.40  An  example  of  a 
+multiagreement Contractual Consortium with a compliance program may be 
+found in the MXM Graphics Module SIG.41 
+The Contractual Consortia model may be viewed as fast and efficient, 
+avoiding the costs and time associated with establishing a more formal, inde-
+pendent consortium. There are potential drawbacks to the Contractual Consor-
+tia model, however. Legal risks arise in the areas of partnership and trademark 
+law, and promoters of Contractual Consortia may face certain practical im-
+plementation challenges. 
+The Promoters Agreement and the associated Contributors and Adopters 
+Agreements typically include a disclaimer of partnership. Regardless of this 
+disclaimer, those not privy to these contracts may believe that the various 
+contracting parties have created an association of two or more persons en-
+gaged in an enterprise: the enterprise of specification development and pro-
+motion. The legal definition of a partnership is generally stated as “an associa-
+tion of two or more persons to carry on as co-owners a business for profit.”42 
+While it can be argued that the contracts that create Contractual Consortia do 
+not contemplate group profit, it can also be argued that the reason for execut-
+ing these agreements is to allow the contracting parties to benefit in some 
+manner. If a Contractual Consortia is determined to be a legal partnership, 
+partnership liability claims could be raised against the various parties to these 
+agreements, although the likelihood of success is unclear.  
+Assuming that the group does not meet the definition of partnership, 
+questions concerning ownership of any trademarks or service marks associated 
+with the specification become complex. Because there is no independent entity 
+(no partnership or incorporated body), the service mark or marks must be held 
+by one of the contracting parties and licensed to the other parties. This may, in 
+                                                                                                           
+  40. See, e.g., Cindy Arce, What’s a Plugfest?, CEA DIGITAL DIALOGUE (Mar. 12, 2010),  
+http://blog.ce.org/index.php/2010/03/12/whats-a-plugfest/. For more on CEA-hosted plugfests,  
+see also PlugFests, CONSUMER ELECTRONICS ASS’N, http://www.ce.org/Standards/plugfests.asp 
+(last visited Jan. 4, 2012).  For a description of a Microsoft-hosted plugfest, see Plugfests and 
+Events, MICROSOFT CORP., http://www.microsoft.com/openspecifications/en/us/applied-interoper 
+ability/testing/plugfests-and-events/default.aspx (last visited Jan. 4, 2012). 
+  41. MXM  Graphics  Module,  MXM-SIG.ORG,  http://www.mxm-sig.org/index.cfm  (last 
+visited Nov. 24, 2011).  
+  42. REVISED UNIF. P’SHIP ACT § 101 (1997). 
+ 
+WINTER 2012  187 Biddle et al. 
+ 
+turn, lead to administrative costs and burdens placed on the licensing party that 
+that party might not want. 
+The contractual model also creates money-management challenges. If the 
+promoters desire to share costs associated with some aspect of specification 
+development—even something as simple as costs of reserving hotel confe-
+rence rooms, for example—then one promoter must act as a de facto treasurer 
+for the group, collecting and disbursing funds from other promoters. For many 
+companies this sort of activity may be impossible as an accounting matter, and 
+perhaps could create some legal risks (for example, if funds were misma-
+naged) even where logistically feasible.  
+c. Incorporated Consortia 
+Perhaps the most formal Consortia structures are Incorporated Consortia. 
+In the United States, these organizations are usually organized under Section 
+501(c)(6) of the Internal Revenue Code, as well as the nonprofit-corporation 
+statutes of the domicile jurisdiction.43 Merely being organized under these 
+statutes does not in itself qualify the organization for tax-exempt status. In-
+stead, the corporate entity must file the appropriate applications for recogni-
+tion of tax-exempt status.44  
+Incorporated Consortia may be formed to develop and promote one par-
+ticular specification or family of specifications, or to develop and publish best-
+practices documents or design guidelines. For instance, PCI-SIG was origi-
+nally established to promote the PCI Local Bus Specification, a method of 
+connecting different components inside a computer.45 Over time, the base 
+specification was adapted and updated into a family of interconnected specifi-
+cations such as the PCI-X and PCI Express specifications.46 The Digital Living 
+Network Alliance, on the other hand, has developed a number of design 
+guidelines that in effect delineate best practices in the development of inter-
+connected products for home entertainment networks.47 It does this by refe-
+rencing existing standards and specifications instead of developing its own 
+independent specifications.  
+Like Contractual Consortia, Incorporated Consortia are organized around 
+multilateral contracts. In this case, the contract is a Membership or Participa-
+tion Agreement. Among other things, this agreement requires the members of 
+the Consortium to abide by the obligations set forth in the Consortium’s By-
+laws and Intellectual Property Rights Policy in exchange for access to mem-
+                                                                                                           
+  43.26 U.S.C. § 501(c)(6) (2006). 
+  44. INTERNAL REVENUE SERV., U.S. DEP’T OF THE TREASURY, PUB. NO. 557, TAX-EXEMPT 
+STATUS FOR YOUR ORGANIZATION, at 47 (2010), available at http://www.irs.gov/pub/irs-pdf/p 
+557.pdf; see also Bluetooth SIG Inc. v. United States, 611 F.3d 617, 620–621 (9th Cir. 2010). 
+  45. PCI-SIG Overview, PCI-SIG, http://www.pcisig.com/news_room/overview/association/ 
+pcisig_overview.pdf (last visited Nov. 25, 2011).  
+  46. See Specifications, PCI-SIG, http://www.pcisig.com/specifications (last visited Jan. 6, 
+2012).  
+  47. Getting Started, DIGITAL LIVING NETWORK ALLIANCE, http://www.dlna.org/digital_ 
+living/getting_started/ (last visited Nov. 24, 2011). 
+ 
+188  52  JURIMETRICS   The Expanding Role and Importance of Standards in the ICT Industry 
+ 
+bership benefits, which include access to the specifications or design guide-
+lines and the benefits of the licensing commitments that accompany them.  
+Just as Contractual Consortia have different levels of contracts with dif-
+ferent rights and obligations, Incorporated Consortia may have different mem-
+bership levels. Some organizations, such as PCI-SIG, have only one level of 
+membership with all members treated equally.48 Others, such as the Continua 
+Health Alliance (an organization focused on establishing systems of interoper-
+able telehealth devices and services), have three levels of membership with the 
+highest level paying the highest dues but enjoying more member benefits than 
+the lower, less-expensive levels.49 The various membership levels tend to 
+mirror the three types of Contractual Consortia agreements: promoters, contri-
+butors and adopters. 
+Incorporated Consortia Bylaws provide for the governance of the organi-
+zation as well as the process for the development of specifications or design 
+guidelines. The Bylaws may provide for the election of Directors, the perma-
+nent right for certain members to appoint Directors, or a combination of per-
+manent and elected seats on the Board of Directors. Likewise, the Bylaws will 
+generally provide for the establishment of working groups to handle the actual 
+development of the specifications or design guidelines, as well as groups to 
+handle marketing and groups to run compliance or certification programs. 
+Incorporated Consortia with multiple membership levels may limit participa-
+tion, voting, and governance of working groups to certain membership levels. 
+Finally, the Bylaws will delineate the various qualifications and benefits af-
+forded to the different membership levels, or members as a whole. 
+Like Contractual Consortia, Incorporated Consortia typically provide their 
+members with a promise by the other members to grant them licenses in the 
+Necessary Claims needed to implement the Consortia’s specification. This 
+Intellectual Property Rights Policy may be a stand-alone document, or in-
+cluded in the Bylaws.  
+Among the benefits of Incorporated Consortia are the ability to own and 
+license trademarks associated with the group’s specifications or design guide-
+lines. Included with these benefits is the ability to administer compliance or 
+certification programs associated with using the Consortium’s marks with the 
+compliant or certified products of its members. Additionally, the corporate 
+structure  makes  managing money easier, as the promoters can contribute 
+funding into a bank account controlled by the entity. Finally, as an indepen-
+dent entity, the Incorporated Consortia avoids any partnership implications 
+that may be associated with Contractual Consortia. 
+                                                                                                           
+  48. See, e.g., Join PCI-SIG, PCI-SIG, http://www.pcisig.com/membership/join_pci_sig/ (last 
+visited Jan. 4, 2012) (offering membership for $3000). 
+  49. See, e.g., Continua Health Alliance Membership, CONTINUA HEALTH ALLIANCE, http:// 
+www.continuaalliance.org/about-the-alliance/join.html (last visited Jan. 4, 2012) (offering the 
+opportunity to join as a “Promoter,” “Contributor” or “Supporting Participant,” at different price 
+points and with different associated membership benefits). 
+ 
+WINTER 2012  189 Biddle et al. 
+ 
+d. The Hybrid (Combining Elements of Contractual and Incorporated    
+    Consortia) 
+The Promoters of a Contractual Consortia specification may opt to addi-
+tionally establish an independent incorporated nonprofit entity to drive indus-
+try adoption of the specification. Under this model, specification development 
+and ownership is governed by a contract between the promoters, but other 
+matters—such as trademark ownership, marketing functions, and interactions 
+with adopters—are handled by an independent organization. This independent 
+nonprofit organization may operate a compliance program and can own and 
+license the service marks or certification marks associated with the specifica-
+tion (thus avoiding the trademark ownership issue). Perhaps the most promi-
+nent example of this model is the USB Implementers Forum.50  
+A similar hybrid option for promoters is to create a limited liability com-
+pany or other for-profit corporation to act as an agent for the promoters and 
+manage the licensing and compliance programs under the specification. High-
+Definition Multimedia Interface (HDMI) serves as a prominent example of 
+this model. In the case of HDMI, adopters can execute an agreement with 
+HDMI LLC that provides a license to Necessary Claims of the promoter com-
+panies, a trademark license, and various other rights.51 This limited patent pool 
+is then intended as a unitary resource for implementers to obtain the licenses 
+necessary to implement the specification or participate in the entity’s com-
+pliance programs.52  
+Hybrid models enable promoters to engage in specification development 
+under a contractual agreement, but delegate the complexity associated with 
+managing adopter relationships and compliance-testing programs to a separate 
+legal entity. The promoters, however, may find that the contractual model still 
+becomes unwieldy. For example, any time the promoters want to engage with 
+any separate legal entity (their own agent or any other party), the agreement of 
+all promoters is required. Over time the administrative burden of obtaining 
+separate approval and signatures on multiparty agreements may prove ineffi-
+cient.  
+e. Other Models  
+One of the perceived drawbacks of Incorporated Consortia is the time and 
+expense associated with the actual organization of the entity. Given multiple 
+founders, the negotiation of the Bylaws and Intellectual Property Rights Poli-
+cies of Incorporated Consortia can be burdensome. One attempt at alleviating 
+this burden can be found in the structure of Institute of Electrical and Elec-
+                                                                                                           
+  50. USB-IF Compliance Program, USB IMPLEMENTERS FORUM, INC., http://www.usb.org/ 
+developers/compliance/ (last visited Nov. 25, 2011). 
+  51. HDMI Specification Adopter Agreement, HDMI, 3–5, http://www.hdmi.com/pdf/HDMI_ 
+Adopter_Agreement_2002.11.01.pdf (last visited Nov 23, 2011). 
+  52. See e.g., Becoming an Adopter, HDMI, http://www.hdmi.org/manufacturer/adopter_ 
+registration.aspx (last visited Nov. 23, 2011).  
+ 
+190  52  JURIMETRICS   The Expanding Role and Importance of Standards in the ICT Industry 
+ 
+tronics Engineers Industry Standards and Technology Organization (IEEE-
+ISTO).53 IEEE-ISTO’s goal is to serve as an umbrella organization to adminis-
+ter various programs that are, in most aspects, similar to individual subsidiary 
+corporations. The different programs define their own missions, set their own 
+dues and largely define their own governing rules. IEEE-ISTO pools the re-
+sources of its member programs under one corporation and provides the mem-
+ber programs with most of the administrative and corporate compliance ser-
+vices necessary for them to operate as they would if they were independent 
+entities.  
+Another model, conceptually distinct from a Consortium, is the “many-to-
+many licensing model” adopted by MPEG LA, a firm that attempts to aggre-
+gate particular standards-related patent claims into a patent pool that can be 
+accessed by any adopter.54 The licensing policies in many Consortia include a 
+promise of access to a license in Necessary Claims, but it is not up to the Con-
+sortium to go out and secure the licenses for the members. The MPEG LA 
+patent pool model attempts to fill this gap. Standards and specifications are 
+administered under one umbrella entity, where the actual licenses are granted 
+to those who wish to implement the standards and specifications. This affords 
+the implementers of the standard or specification with some level of certainty 
+that they have all of the licenses necessary to implement, without having to 
+search for and negotiate multiple patent licenses.  
+Patent pools and Incorporated Consortia can work together in a model 
+adopted by the HDBaseT Alliance, a Consortium focused on digital home 
+networking.55 Under this model, specification development and other adminis-
+trative duties are carried out under the Incorporated Consortium. Most of the 
+original licenses of Necessary Claims under the first HDBaseT specification 
+are handled both as a promise of a license in the Alliance Intellectual Property 
+Rights Policy as well as a patent pool where that promise is fulfilled.  
+C. Complicating Factors in Standards Development 
+The problem of poor understanding of standards and standard setting is 
+compounded by the extraordinary complexity of the ICT standards develop-
+ment process. Standards can and do vary “in scope, specificity, flexibility, 
+exactitude, cost, and payoff.”56 Industry technical specifications and standards 
+are developed in a bewildering variety of ways: some are driven by govern-
+ments; some by large, diverse groups of industry and academia; some by large 
+industry groups; some by small groups of companies; still others by noncom-
+mercial grassroots efforts. 
+                                                                                                           
+  53. IEEE-ISTO, http://www.ieee-isto.org (last visited Nov. 25, 2011).  
+  54. About, MPEG LA, http://www.mpegla.com/main/Pages/About.aspx (last visited Nov. 24, 
+2011) (internal quotation marks omitted).  
+  55. About the Alliance, HDBASET ALLIANCE, http://hdbaset.org/about_us. (last visited Nov. 
+25, 2011). 
+  56. Timmermans & Epstein, supra note 2, at 75. 
+ 
+WINTER 2012  191 Biddle et al. 
+ 
+There are other important scenarios—such as relatively informal contract-
+based technical collaborations between parties—which result in a technical 
+specification that the parties themselves adopt and make available to others 
+(for example, a supplier may agree on an interface with one customer and then 
+publish that interface specification so that other customers can also use it). 
+Sometimes these informally developed specifications are provided to more 
+formal  standards-development  organizations  and  evolve  into  formal  stan-
+dards.57 
+Another complicated area that is indirectly related to standards develop-
+ment is the world of open-source software. While typically developing soft-
+ware code instead of technical specifications, open-source efforts demonstrate 
+informal but often highly effective mechanisms for organizing interested par-
+ties and agreeing upon technical details. Increasingly, methodology and con-
+cepts pioneered in the open-source software communities are being applied to 
+standard setting in a wide variety of contexts in the ICT sector and else-
+where.58 
+Two additional factors have recently emerged that add to the complexity 
+of the ICT standards-development environment. Telecommunications, soft-
+ware, and hardware have historically been standardized in different forums, 
+subject to different rules and different cultures. Increasingly these lines are 
+blurring as technologies converge, creating confusion and culture clashes as 
+different standardization paradigms collide. Forums and methods that worked 
+for one sector seem alien or ineffective to those familiar with another sector. 
+For example, the relatively freewheeling culture of the Internet Engineering 
+Task Force—the group that produces a number of key Internet standards—
+may prove difficult to navigate for a telecommunications industry engineer 
+accustomed to the long-established, highly formal processes of the Interna-
+tional Telecommunications Union. 
+Another complicating factor is globalization.59 Most countries have na-
+tional standards bodies that regulate different national industries. The ICT 
+industry, in contrast, is fundamentally global. Moreover, much of the ICT 
+standardization activity has been driven by the private sector. This model has 
+worked well under the U.S. government’s approach to standards. Other na-
+tional standards bodies are struggling to define their role within ICT standards, 
+                                                                                                           
+  57. See, e.g., David Ng, One Size-Fits-All Mobile Phone Charger: IEC Publishes First 
+Standard,  CELLULAR  NEWS  (Jan.  10,  2011),  http://www.cellular-news.com/story/47664.php 
+(describing the adoption by the IEC of a specification developed by the USB Implementers Fo-
+rum).  
+  58. Laura DeNardis, Open Standards and Global Politics, 13 INT'L J. COMM. L. & POL’Y 
+168, 179 (2009); Nicos L. Tsilas, The Threat to Innovation, Interoperability, and Government 
+Procurement Options from Recently Proposed Definitions of “Open Standards,” 10 INT'L J. 
+COMM. L. & POL’Y (SPECIAL ISSUE) 1, 1 (2005); Andy Updegrove, W3C Launches New “Agile” 
+Standards Development Platform, CONSORTIUMINFO.ORG (Aug. 17, 2011, 8:04 AM), http://www. 
+consortiuminfo.org/standardsblog/article.php?story=20110817080459979.  
+  59. See generally Gibson, supra note 11 (discussing how globalization complicates standards 
+setting). 
+ 
+192  52  JURIMETRICS   The Expanding Role and Importance of Standards in the ICT Industry 
+ 
+however, and in some cases seem uncomfortable with the bottom-up, private-
+sector-oriented model generally favored by U.S. policymakers and most com-
+mercial interests.60  
+The diversity of models used in the formation and administration of SSOs 
+suggests that one size cannot fit all. The differing needs and desires of the key 
+players in the development of standards and industry specifications seem to 
+dictate a need for flexibility in the organization and administration of SSOs. 
+The models discussed above are only a few of the more notable examples. Just 
+as new specifications are constantly under development, so too are refinements 
+to the organizational models for SSOs. At the same time, the diversity of stan-
+dard-development models potentially may create inefficiency. Better under-
+standing  of  different  models  may  enable  more  streamlined  and  effective 
+specification-development efforts. Future research might focus on identifying 
+conditions where one model would be more effective than another. To aid 
+such future research, a discussion of some of the specific problems with cur-
+rent standard-setting protocol is warranted. 
+ 
+II. KEY CHALLENGES IN  
+STANDARD-SETTING 
+ 
+This Part explores two particular problem areas  within  contemporary 
+models of standards development: intellectual property policies and ethical 
+dilemmas. The difficulty of balancing the different intellectual property inter-
+ests  of  various  stakeholders  is  a  well-recognized—if  rather  intractable— 
+problem in standards development. The potential for ethical conflicts, such as 
+the possibility that an individual’s membership on an SSO board could clash 
+with ethical duties owed to his employer, is a less-explored phenomenon, but 
+also presents some difficult tensions. 
+A. Intellectual Property Policies 
+The relationship between standards and patents has long been a favorite 
+topic of standards-focused legal experts. Notwithstanding our earlier assertion 
+that standards generally are an underexplored area of academic inquiry, the 
+particular topic of patents and standards has generated a significant amount of 
+academic analysis.61 Unsurprisingly, the subject generated robust and sophisti-
+cated discussion at the ASU Workshop. The discussion in this Part draws 
+inspiration from that discussion, but ultimately attempts a modest feat: we 
+outline a framework for understanding several key patent-related issues in 
+                                                                                                           
+  60. Jane K. Winn, Globalization and Standards: The Logic of Two-Level Games 5 I/S J. L. 
+POL’Y FOR INFO. SOC’Y 185, 199 (2009). 
+  61. See  generally  Brad  Biddle,  Literature  Review:  Recent  Scholarship  Focused  on 
+Technology Standards (Jan. 2005–Jul. 2009), STANDARDSLAW.ORG (Aug. 16, 2009), http:// 
+standardslaw.org/wp-content/uploads/Standards_Lit_Review_Biddle_16AUG09.pdf  (identifying 
+41 academic papers focused on patents and standards). 
+ 
+WINTER 2012  193 Biddle et al. 
+ 
+standards development from the perspective of an ICT company engaged in a 
+standards-setting effort. The goal is to provide an introduction to, and sum-
+mary of, three important concepts that are addressed in SSO intellectual prop-
+erty policies: the definition of necessary claims, the scope and nature of patent 
+licensing obligations, and patent disclosure rules.  
+ICT companies face a risk when they implement a specification or stan-
+dard that the company’s actions relating to that implementation potentially 
+infringe upon patent rights held by another party. In other words, absent a 
+license granted by the owner of such a patent, companies must consider 
+whether the company’s efforts to implement an SSO’s published standard 
+could result in a patent infringement claim by the owner. 
+These concerns about potential blocking patents are exacerbated by the 
+fact that the development of cutting-edge interoperable and compatible devices 
+and other technologies often implicates a large number of patent rights held by 
+multiple patent holders. For example, building a mobile device with multiple 
+features and components could possibly implicate up to hundreds of patents 
+held by others.62 Given the likelihood that features specified by various stan-
+dards will include patented technology, a company that implements the SSO’s 
+standards will want to understand and reduce the risk of being sued for patent 
+infringement by a holder of a potential blocking patent.  
+Part II.A.1 discusses IP Policies within an SSO generally. Next, the con-
+cept and impact of necessary claims is introduced in Part II.A.2. Parts II.A.3–4 
+then discuss common SSO contractual obligations that require participating 
+patent holders to grant licenses to necessary claims and disclose their relevant 
+patent portfolios. 
+1. Adoption of SSO IP Policies 
+Because of concerns about potential blocking patents and other IP issues, 
+SSOs generally negotiate and adopt a policy, often called a Patent Policy or an 
+Intellectual Property Right Policy (herein collectively referred to as IP Policy), 
+which attempts to address, among other issues, certain concerns about poten-
+tial blocking patents owned or otherwise controlled by SSO participants.63 
+Many SSOs take steps to have their IP Policies impose reciprocal licensing 
+promises on all implementers, even those that were not actively involved in 
+development of the particular standard.64 SSOs have no ability to impose li-
+censing obligations on parties who choose not to participate in the SSO. Con-
+                                                                                                           
+  62. See Mark A. Lemley, Ten Things to Do About Patent Holdup of Standards (and One Not 
+to), 48 B.C. L. REV. 149, 150–51 (2007) (providing a general discussion of problems presented by 
+multiple patents in the ICT field).  
+  63. See  COMM.  ON  TECHNICAL  STANDARDIZATION,  AM.  BAR  ASS’N.,  STANDARDS 
+DEVELOPMENT PATENT POLICY MANUAL ix–xiii (Jorge L. Contreras ed., 2007) [hereinafter 
+PATENT POLICY MANUAL] (providing a detailed overview of the many issues and provisions that 
+are typically addressed in an SSO’s IP Policy). 
+  64. See discussion infra Part II.A.3. 
+ 
+194  52  JURIMETRICS   The Expanding Role and Importance of Standards in the ICT Industry 
+ 
+sequently, the IP Policy cannot solve the problem of potential blocking patents 
+owned or controlled by a nonparticipant. 
+2. IP Policies Focus on Necessary Claims 
+IP Policies typically do not attempt to govern every conceivable type of 
+patent claim that may arise in the development and subsequent implementation 
+of the SSO standards. Usually there are practical reasons why an SSO cannot 
+attempt such a broad application of its IP Policy.  
+One fundamental reason for not engaging in such a broad endeavor is that 
+prospective participants may become alienated and decline to participate if an 
+SSO’s IP Policy obligates a potential participant to license patent claims that 
+the participant believes are particularly valuable. An IP Policy that has an 
+overly broad application, or is otherwise perceived to be too burdensome or 
+unfair, could have the unintentional impact of limiting the number of industry 
+players that are willing to participate in that SSO.65 
+To address this situation, SSO IP Policies generally narrow their applica-
+tion to only those patent claims that are necessary or essential to allow imple-
+mentation of the SSO’s approved standards. In other words, the governing 
+application of an IP Policy is typically limited to only those patent rights that 
+are unavoidably infringed by an implementer for the purpose of implementing 
+the standard.66 These are often called Essential Claims or Necessary Claims 
+(hereinafter collectively referred to as Necessary Claims).67 
+Because of the profound ramifications of an IP Policy’s definition of Ne-
+cessary Claims, it is not surprising that there are often protracted negotiations 
+between founding members of an SSO concerning the final scope and meaning 
+of the term. Also, it is not surprising that the scope and meaning of Necessary 
+Claims can vary greatly from one IP Policy to the next.68  
+The meaning and scope of Necessary Claims is often the most analyzed 
+provision in an IP Policy. For example, some IP Policies may include, while 
+others may exclude, optional portions of the standard from the type of imple-
+mentations that give a participant a right to seek a license in another partici-
+pant’s Necessary Claims.69  
+Other IP Policies may limit the meaning of Necessary Claims to “techni-
+cally feasible” implementations (whatever the cost of that implementation) 
+                                                                                                           
+  65. See Damien Geradin & Miguel Rato, Can Standard-Setting Lead to Exploitative Abuse? 
+A Dissonant View on Patent-Hold Up, Royalty Stacking and the Meaning of FRAND 3 EUR. 
+COMPETITION J. 101, 104 (2007) available at http://ssrn.com/abstract=946792 (discussing how 
+SSO bylaws that are perceived to be “burdensome or unfair” can deter technology developers from 
+joining the SSO). 
+  66. See PATENT POLICY MANUAL, supra note 63, at 10–13 for a further discussion of the 
+scope and significance of Necessary Claims.  
+67. PATENT POLICY MANUAL, supra note 63, at 10–13. 
+  68. See id. 
+  69. Id. at 16–17 (“Optional Portions” are defined as “those Portions or criteria of a Standard 
+that may, but are not required to, be selected in an implementation of the Standard.”) (internal 
+quotation marks omitted). 
+ 
+WINTER 2012  195 Biddle et al. 
+ 
+compared to more cost-effective “commercially reasonable/feasible” imple-
+mentations.70 Another common concern of some prospective participants as 
+they evaluate an IP Policy is whether the scope and meaning of Necessary 
+Claims  will  encompass  the  company’s  patent  rights  in  its  underlying  or 
+enabling  technology.  A  license  commitment  applicable  to  underlying  or 
+enabling technologies is often not acceptable to certain prospective partici-
+pants.71  
+Another concern of some participants is whether their Necessary Claims 
+will be limited to their contributions made during the development of the stan-
+dard or, by contrast, whether their Necessary Claims obligation could arise 
+from contributions to the standard made by others. It might become difficult 
+for a participant to monitor which of its patent rights might be included among 
+Necessary Claims if such inclusion could potentially result from actions of 
+others engaged in the development of the standard.  
+Prospective SSO participants scrutinize IP Policies to evaluate which pa-
+tents in their company’s patent portfolio could be included in and governed as 
+Necessary Claims. A prospective member’s comfort level with the scope of 
+the Necessary Claims is often a gauge of the company’s willingness to partici-
+pate with that SSO.  
+3. Obligation to Grant RAND License in Necessary Claims 
+The Necessary Claims definition is important because IP Policies will im-
+pose a licensing obligation in connection with these claims. Most SSOs  re-
+quire participants to license their Necessary Claims on reasonable and nondi-
+scriminatory (RAND) terms to implementers that seek to implement the SSO’s 
+applicable standard.72  
+The typical RAND provision is not itself the actual licensing instrument.73 
+Instead, a typical RAND term is a contractual covenant of the granting partici-
+pant, pursuant to which that entity agrees that it will, at some point in the fu-
+ture, grant a license on reasonable and nondiscriminatory terms to any re-
+questing implementer of that SSO’s applicable standard.74 The actual RAND 
+license is a bilateral agreement negotiated between and executed by only the 
+                                                                                                           
+  70. Id. at 18–19 (distinguishing between technical and commercial feasibility, and discussing 
+how the difference applies to IP Policies) (internal quotation marks omitted). 
+  71. See id. at 12–13 (discussing and defining “enabling technologies”). 
+  72. PATENT POLICY MANUAL, supra note 63, at 47. See Timothy F. Haslach, Facilitating 
+Interoperability  and  De  Facto  Standardization,  in  TECHNOLOGY  LICENSING  STRATEGIES: 
+LEADING LAWYERS ON STRUCTURING AGREEMENTS, NEGOTIATING VALUE, AND CAPITALIZING 
+ON INTELLECTUAL PROPERTY 105, 109–10 (2007) for a discussion of licensing commitments and 
+licensing statements. See also Biddle et al., supra note 3, at 123, which found that about 75% of 
+specifications implemented in a modern laptop computer were developed under RAND IPR terms. 
+See also Miller, supra note 6, at 355 (discussing some challenges associated with the more typical 
+RAND licensing commitment). 
+  73. PATENT POLICY MANUAL, supra note 63, at 47. 
+  74. STANDARDS PRIMER, supra note 14, at 14.  
+ 
+196  52  JURIMETRICS   The Expanding Role and Importance of Standards in the ICT Industry 
+ 
+granting entity holding the applicable Necessary Claims and the particular 
+party that seeks rights in those Necessary Claims.  
+In addition to the RAND covenant, some IP Policies contain other provi-
+sions that attempt to impose additional requirements on the structure of these 
+bilateral RAND license agreements. One significant variation on the tradi-
+tional RAND model is RF-RAND: An IP Policy may require that the holder of 
+a Necessary Claim offer to license its claims on royalty free and otherwise 
+reasonable and nondiscriminatory terms.75  
+As an alternative to mandating RAND or RF-RAND license terms, some 
+IP Policies contain a provision pursuant to which each participant agrees not to 
+assert its rights in its Necessary Claims against other implementers who are 
+implementing the applicable standard in accordance with the IP Policy (Non-
+Assertion Clause). A typical Non-Assertion Clause may also state that if the 
+participant that holds the applicable Necessary Claim nonetheless sues an 
+implementer in violation of the Non-Assertion Clause, then the suing party 
+will lose its rights under the IP Policy.76  
+IP Policies normally do not attempt to mandate all of the terms that must 
+be included in a particular RAND or RF-RAND license.77 Indeed, because of 
+the nature of negotiating separate bilateral agreements, the licenses will not 
+necessarily have identical terms and conditions (subject, however, to the obli-
+gation to otherwise comply with the requirements of the IP Policy). 
+4. Patent Disclosure Procedures 
+In addition to imposing licensing obligations for Necessary Claims, some 
+SSO IP Policies require some type of early disclosure or notice of the exis-
+tence of applicable Necessary Claims during some portion of the develop-
+mental stages of a standard.78 Other SSOs rely solely on licensing promises to 
+address the problem of potentially blocking patents.79  
+                                                                                                           
+  75. The royalty-free RAND license is also referred to as RAND-Z or RAND-Zero. See 
+Teece & Sherry, supra note 9, at 1955. 
+  76. See, e.g., Microsoft Open Specification Promise, supra note 36. 
+  77. But see infra note 78, for a discussion of the growing interest in Ex-Ante Disclosure of 
+detailed licensing terms. 
+  78. In recent years there have also been proposals that IP Policies should go one-step beyond 
+the disclosure of the mere existence of Necessary Claims by including so-called “ex ante” disclo-
+sure requirements in an IP Policy (hereinafter “Ex Ante Disclosure”). Ex-Ante Disclosure, gener-
+ally, means that the holder of a Necessary Claim will be required to disclose not only the existence 
+of its Necessary Claim, but may “also be permitted (or required) to reveal the specific economic 
+and other terms upon which” it would be willing to license those Necessary Claims to implemen-
+ters.  Andrew  Updegrove,  Editorial,  It’s  Time to  Get on  the  Ex  Ante  Bus, CONSORTIUM 
+STANDARDS BULL., June 2006, at 3, available at http://www.consortiuminfo.org/bulletins/pdf/jun 
+06.pdf. Despite the potential benefits of Ex-Ante Disclosure provisions, it appears that “standards 
+organizations have not rushed to embrace the ex ante idea.” Timothy Simcoe, How Much Ex Ante 
+Is Enough?, TALK STANDARDS (Sept. 23, 2009, 5:12 AM), http://www.talkstandards.com/how-
+much-ex-ante-is-enough/ (emphasis added). While commentators have presented several reasons 
+why they believe standards organizations have not warmly embraced of Ex-Ante Disclosure 
+provisions, it appears one key reason cited by several participants at the ASU Workshop is the real 
+ 
+ 
+WINTER 2012  197 Biddle et al. 
+ 
+Having some level of disclosure of Necessary Claims may enable the 
+SSO’s technical working group engaged in the development of the applicable 
+standard to “design around” the disclosed Necessary Claims during the work-
+ing group’s development process.80 Additionally, a disclosure procedure al-
+lows implementers to identify applicable Necessary Claims so that they can 
+ultimately seek applicable RAND licenses.81 
+Disclosure procedures can be difficult to implement as a practical matter. 
+One key issue is whether the disclosure obligation imposes a duty on each 
+SSO participant to conduct a company-wide search for its Necessary Claims. 
+Broad search requirements may be viewed as an unrealistic burden by certain 
+companies,  particularly  large  multinational  corporations  with  large  patent 
+portfolios and many affiliates.82 
+Even if an IP Policy states that the disclosure obligation does not impose a 
+company-wide obligation, uncertainty may remain about whether individuals 
+in a participating company (and, potentially, in its affiliated companies) need 
+to be engaged to fulfill the disclosure obligations. Because of this concern, IP 
+Policies often state that the disclosure obligation is limited to the actual, per-
+sonal knowledge of those representatives of a company actively engaged in 
+developing the applicable standard, but even this standard may create com-
+pliance concerns for some participants, while also potentially reducing the 
+value of disclosures.  
+Other disclosure issues that raise concerns among participants include:  
+(i) Are there time limits to the disclosure obligation? For example, while 
+the disclosure obligation during a designated disclosure period might be ob-
+vious, what are the exact obligations after these disclosure periods end and 
+how long do these obligations last?  
+(ii) Not all IP Policies are clear about what information needs to be dis-
+closed. If the participant has patents, does the participant simply identify 
+those patents which it believes are Necessary Claims or should it provide 
+                                                                                                           
+or perceived concern that negotiating these types of provisions will be extremely difficult and 
+protracted and, thus, will add another major layer of complexity to what are often already complex 
+negotiations involved in creating the IP Policy.  
+  79. As a general rule disclosure rules appear to be more common in SDOs; Consortia fre-
+quently rely on licensing obligations alone. 
+  80. Andrew Updegrove, Ex Ante Disclosure: Risks, Rewards, Process and Alternatives, 
+CONSORTIUM STANDARDS BULL., June 2006, at 12, available at http://www.consortiuminfo.org/ 
+bulletins/pdf/jun06.pdf. See also PATENT POLICY MANUAL, supra note 63, at 31 (discussing patent 
+disclosure procedures and their importance to SSOs); Andrew Updegrove, Intellectual Property 
+Rights and Standards Setting, in THE ESSENTIAL GUIDE TO STANDARDS (2007) [hereinafter 
+Updegrove, Intellectual Property Rights], http://www.consortiuminfo.org/essentialguide/intellectual 
+.php (discussing further reasons for, and practical challenges associated with, patent disclosures).  
+  81. See PATENT POLICY MANUAL, supra note 63, at 31. See also, Updegrove, Intellectual 
+Property Rights, supra note 80.  
+  82. IP Policies often impose obligations, including disclosure, on affiliates of members in 
+addition to the member itself. Robert M. Webb, There Is a Better Way: It’s Time to Overhaul the 
+Model for Participation in Private Standard-Setting, 12 J. INTELL. PROP. L. 163, 219 (2004). 
+Thus, a “company-wide” disclosure obligation could become a daunting task for members that are 
+large multinational corporations with multiple affiliates. 
+ 
+198  52  JURIMETRICS   The Expanding Role and Importance of Standards in the ICT Industry 
+ 
+more information about why it concluded that these patents are Necessary 
+Claims (which could potentially reveal trade secrets)?  
+(iii) Does the duty of disclosure only encompass patent registrations? 
+Should it encompass the disclosure of still-confidential patent applications? 
+How would such a disclosure be phrased? 
+  SSOs are realizing that a balanced and fair IP Policy is an important fea-
+ture in attracting and retaining members and other implementers of its stan-
+dards. Expending sufficient time and effort to formulate an appropriate defini-
+tion for the IP Policy’s Necessary Claims is a critical aspect of that IP Policy, 
+particularly because the meaning and scope of Necessary Claims has a signifi-
+cant impact on the breadth of licensing obligations and on potential disclosure 
+procedures. 
+B. Ethical Conflict Issues in Standards Development 
+Standards-development efforts can raise a complex array of ethical issues. 
+For example, participants in these efforts frequently play dual roles: they may 
+be employees of companies with strong commercial interests in the outcome 
+of a specification-development process and simultaneously serve as members 
+of the board of directors of the SSO directing the process. These dual-role 
+participants risk potential conflicts between legal duties owed to their em-
+ployer and duties owed to the SSO. Other examples involve attorneys: in-
+house counsel for a company may be asked to advise these dual-role partici-
+pants on matters that implicate the legal interests of the SSO, or counsel for 
+the SSO may find their communications to their SSO client compromised by 
+dual-role participants in ways that risk undermining the protections of the 
+attorney-client privilege.  
+Among the group of practitioners, scholars, and other stakeholders with 
+experience in standards development at the ASU Workshop, there was a 
+striking consensus that standards development raises difficult ethical issues 
+and that these issues have not been adequately explored in academic literature 
+or elsewhere.83 However, there was an equally striking lack of consensus 
+among these experts on the precise nature of these issues, the seriousness of 
+the associated risks, and on the appropriate way to analyze them.  
+Part II.B attempts to identify a noncomprehensive set of key ethical issues 
+that might arise in the standards-setting context, with a particular focus on 
+conflicts of interest. The effort focuses on high-level issue spotting rather than 
+extensive analysis of particular issues. Even with this limitation, a challenge to 
+this effort arises from the diverse structures and processes used to create stan-
+dards. For example, issues that might arise in the context of a nonprofit incor-
+porated Consortium may be quite different from those that arise in a “Big I” 
+                                                                                                           
+  83. Supporting this view: none of the over 70 academic papers on standards identified in a 
+recent literature review addressed the topic of ethics. See generally Biddle, supra note 61. 
+ 
+WINTER 2012  199 Biddle et al. 
+ 
+standards-development organization.84 Accordingly, it is important to recog-
+nize that the issues identified below might apply only in a limited set of stan-
+dards-setting circumstances.  
+Parts II.B.1–6 describe conflicts in various configurations. First, the au-
+thors illustrate conflicts between SSO board duties and duties to an employer. 
+Second, conflicts outside of an SSO board role are described, including prob-
+lems that may arise when a corporate employee contributes to an SSO’s efforts 
+in an individual capacity. Next, potential conflicts for attorneys are presented, 
+including in-house and outside counsel. Finally, some best practices are pro-
+posed for mitigating some of these ethical concerns. 
+1. Conflicts between Board Duties and Duties to Employer 
+Consortia and other SSOs engaged in specification development are often 
+formed as nonprofit corporations under applicable U.S. state law; many apply 
+for tax exempt status as a nonprofit mutual benefit corporation under Section 
+501(c)(6) of the Internal Revenue Code.85 Under this model, a small group of 
+promoter companies provide start-up funding for the new corporation, and 
+these promoter companies name a representative to the Board of Directors of 
+the new entity. Each promoter company typically names a company employee 
+to serve on the Board of the new SSO. As a matter of corporate law, Board 
+members must be natural persons.86 The individual serving on the Board is 
+generally not compensated by the SSO.  
+While the details can differ depending on applicable state law, generally 
+the individual appointed to the Board of a nonprofit corporation incurs three 
+duties to the corporation imposed by corporate law: a duty of care, a duty of 
+loyalty, and a duty of obedience.87 The duty of care requires that the Board 
+member exercise “reasonable care when he or she makes a decision as a ste-
+ward of the organization.”88 Pursuant to the duty of loyalty, Board members 
+must meet a “standard of faithfulness,” characterized by one commentator as 
+an obligation to “give undivided allegiance when making decisions affecting 
+                                                                                                           
+  84. STANDARDS PRIMER, supra note 14, at 5 (internal quotation marks omitted). The Big I 
+standards-setting organizations are “the four widely recognized, well-established, formal interna-
+tional-standards developers: the International Telecommunication Union (ITU), the International 
+Organization for Standardization (ISO), the International Electrotechnical Commission (IEC), and 
+the Joint Technical Committee (JTC1) which is a joint group of IEC and ISO.” Id. at 4.  
+  85. See, e.g., Bluetooth SIG, Inc. v. United States, No. C05-1778-JCC, 2008 WL 312712, at 
+*2 (W.D. Wash. Feb. 1, 2008) , aff'd, 611 F.3d 617 (9 Cir. 2010). Other examples of this model of 
+SSO include the USB Implementers Forum, PCI-SIG, Inc., and the Wi-Fi Alliance. See By Laws 
+of PCI-SIG (An Oregon Nonprofit Corporation), PCI-SIG (June 29, 2010), http://www.pci 
+sig.com/membership/about_us/bylaws/Bylaws_of_PCI-SIG_May_2010_signed.pdf;  About  USB 
+Implementers Forum, Inc., USB Implementers Forum, Inc., http://www.usb.org/about (last visited 
+Nov. 25, 2011);  Organization, WI-FI  ALLIANCE, http://www.wi-fi.org/organization.php (last 
+visited Nov. 25, 2011). 
+86. See, e.g., DEL. CODE ANN. tit. 8, § 141(b) (2010). 
+  87. BRUCE R. HOPKINS, LEGAL RESPONSIBILITIES OF NONPROFIT BOARDS 13 (2d ed. 2009). 
+  88. What Are the Legal Responsibilities of Nonprofit Boards, BOARDSOURCE, http://www. 
+boardsource.org/Knowledge.asp?ID=3.364 (last visited Dec. 1, 2011).  
+ 
+200  52  JURIMETRICS   The Expanding Role and Importance of Standards in the ICT Industry 
+ 
+the organization.”89 The duty of obedience requires the Board member to be 
+faithful to the organization’s mission: she is “not permitted to act in a way that 
+is inconsistent with the central goals of the organization.”90 
+Typically the individual serving on the Board of an SSO remains em-
+ployed  by  their  promoter-company  employer.  Accordingly,  the  employee 
+serving on the nonprofit Board is simultaneously subject to a duty of loyalty to 
+their employer: under most state laws, an employee has a duty to act solely for 
+the benefit of the employer when engaging in any conduct that relates to the 
+employment.91 This duty may be further amplified in an employment contract. 
+These legal duties to the employer are complemented by the practical reality 
+that the employer provides the individual’s salary and career path, incentiviz-
+ing loyalty to the employer.  
+At the time of formation of a new Consortium, the interests of the new 
+entity and the interests of the various promoter companies that formed the 
+entity are likely to be well aligned; however, these interests could diverge over 
+time. A promoter company may change its strategy and decide that it supports 
+a competing standards effort. Perhaps in such a case the promoter company’s 
+interests would be best served by a Board vote in favor of delay or abandon-
+ment of a specification, while the broader interests of the SSO would be served 
+by releasing the specification. The individual serving on the Board of the non-
+profit SSO would face a potential conflict: she may be unable to simulta-
+neously discharge their duties owed to the SSO and to their employer.  
+Conflicts of interest can be resolved in various ways, such as by appropri-
+ate disclosures, recusal from particular decisions, or resignation from either 
+position. In any given case, however, the individual facing a potential conflict 
+may encounter difficult decisions. The interests of the individual and her em-
+ployer may not be well aligned. For example, suppose the employer strongly 
+desires a particular outcome from a Board vote and dismisses the employee’s 
+concerns about a potential conflict. The individual may be left to decide on her 
+own whether a conflict exists and what action to take. Moreover, as further 
+discussed below, the legal resources typically available to such individuals—
+in-house counsel at their employer and outside counsel for the SSO—may not 
+be in a position to advise the individual.  
+The individual sitting on an SSO Board facing a potential conflict be-
+tween duties owed to the SSO and duties owed to their employer may take 
+some comfort in the fact that, to date, the associated risks appear to more theo-
+retical than practical. There appears to be no reported cases where an individ-
+ual was subject to liability in such circumstances, and the experts at the ASU 
+Workshop did not raise any examples of individuals facing liability. Two 
+theories may account for this apparent disconnect between theoretical and 
+                                                                                                           
+  89. Id. 
+  90. Id. 
+  91. See, e.g., CAL. LABOR CODE §§ 2860, 2863 (West 2001) (codifying the “duty of 
+loyalty”). 
+ 
+WINTER 2012  201 Biddle et al. 
+ 
+actual risk. First, while the existence of duties owed in connection with service 
+on a nonprofit Board is clear, the question of precisely who can assert breach 
+of such duties and what remedies are available is less clear, and this lack of 
+clarity may disincentivize litigation.92 Second, participants in standards-devel-
+opment efforts may tacitly recognize that individuals serving on SSO Boards 
+will  advance  the  interests  of  their  employers,  notwithstanding  potential 
+breaches of duties imposed by principles of corporate law. That is, in a situa-
+tion where the employer provides substantial funding to launch a new SSO, 
+appoints an employee to the Board of the SSO, and pays the salary and all 
+costs related to that employee’s participation on the Board, the expectation of 
+the employer, the employee and all other members of the SSO may be that the 
+employee is there to advocate for the interests of the employer. In such a case, 
+behavior that might theoretically amount to a breach of duties owed to the 
+SSO could be perceived by all stakeholders involved as consistent with the 
+norms of the standard-setting environment. 
+2. Conflicts Arising Outside of Dual Roles 
+While the dual-role scenario—under which an individual serves both as a 
+Board member for an independent nonprofit and as an employee of a corpora-
+tion with a strong interest in the activities of the nonprofit—presents perhaps 
+the most overt conflict of interest risks, conflicts could conceivably arise in 
+other  scenarios  as  well.  As  a  general  matter,  standards  development  can 
+present various circumstances where individuals play ambiguous roles, and 
+this ambiguity can give rise to potential conflicts. Two examples are identified 
+below. 
+First, consider the example of the Institute of Electrical and Electronics 
+Engineers Standards Association (IEEE-SA). The IEEE-SA has produced over 
+3,400 technical standards, including critical information-technology standards 
+such as Ethernet and WiFi.93 The IEEE-SA permits two classes of members: 
+individual members and corporate members. Standards development efforts in 
+the IEEE are performed through a process based either on individual-based 
+ballots or corporate ballots, but not both.94 The vast majority of IEEE stan-
+dards are developed based on the individual-ballot process.95  
+                                                                                                           
+  92. Evelyn Brody, The Board of Nonprofit Organizations: Puzzling Through the Gaps 
+Between Law and Practice, 76 FORDHAM L. REV. 521, 560 (2007). 
+  93. See  IEEE  Standards  Online  Collections,  IEEE,  http://www.ieee.org/publications_ 
+standards/publications/subscriptions/prod/standards_overview.html  (follow  “IEEE  All-Inclusive 
+Standards” and “IEEE All Information Technology Standards” hyperlinks) (last visited Nov. 23, 
+2011). 
+  94. See FAQs: IEEE-SA Membership, THE IEEE STANDARDS ASS’N, http://standards.ieee. 
+org/faqs/about.html#9 (last visited Nov. 21, 2011). 
+  95. The IEEE-Standards website lists 22 standards development projects underway under the 
+corporate balloting model. See Corporate Standards in Development, STANDARDS.IEEE.ORG, 
+http://standards.ieee.org/develop/corpchan/corpstdsdev.html (last visited Nov. 28, 2011). It also 
+lists over 800 under development under the individual balloting model. See Browse Standards by 
+ 
+ 
+202  52  JURIMETRICS   The Expanding Role and Importance of Standards in the ICT Industry 
+ 
+The IEEE-SA Bylaws require that individual participants “shall act based 
+on their qualifications and experience.”96 Representatives in the corporate 
+process “are appointed by an entity to represent that entity and act on its be-
+half. Such representatives may participate in IEEE-SA standards-development 
+activities and take action based upon instruction from the entity for which they 
+have been appointed as an entity representative.”97 One interpretation of the 
+Bylaws would be that individual participants should act based solely on their 
+qualifications and experience, and should not look to their employers for di-
+rection; only when acting as an entity representative under the rarely used 
+corporate-ballot process should an individual take action based on instructions 
+from her employer. At least one participant at the ASU workshop advocated 
+for this interpretation.  
+Some IEEE-SA materials, however, suggest a more nuanced interpretation 
+of the obligations of individuals. The membership page of the IEEE-SA web-
+site states that “[w]hile participants may represent the interests of their em-
+ployers, individual members participate in the process and ballot as individu-
+als, rather than as a corporate entity.”98 Moreover, the Bylaws contain provi-
+sions that require disclosure of affiliation by participating individuals, and 
+processes for avoiding dominance in the voting process by individuals affi-
+liated with the same organization.99 This more nuanced approach seems to 
+better comport with the practical reality that many of the participants in the 
+IEEE-SA standards process are in fact funded by their employers and partici-
+pate as part of their core job activities. Indeed, at the ASU workshop one par-
+ticipant dismissed the idea that participants acted purely in an individual ca-
+pacity, free from employer influence, as an “obvious fiction.”  
+Under either interpretation of the IEEE-SA Bylaws, individual partici-
+pants face potential complexity. The Bylaws appear to impose some obligation 
+for individuals to act in ways that potentially create a conflict with their em-
+ployers. Imagine a scenario where an employer, who funds an individual’s 
+participation, insists on a particular option that the individual is convinced 
+would be ill-advised. A choice to unequivocally advocate for the employer-
+desired position, for example, would seem to open the individual up to at least 
+a theoretical risk of liability for breach of the contractual obligation to follow 
+the Bylaws and related policies set forth in the IEEE-SA membership agree-
+ment.  
+                                                                                                           
+Topic,  STANDARDS.IEEE.ORG,  http://standards.ieee.org/develop/project/  (last  visited  Nov.  28, 
+2011).  
+  96. IEEE-SA Standards Board Bylaws, IEEE STANDARDS ASS'N, 8 (Feb. 2011), http:// 
+standards.ieee.org/develop/policies/bylaws/sb_bylaws.pdf. 
+  97. Id. 
+  98. IEEE-SA Membership, IEEE STANDARDS ASS’N, http://standards.ieee.org/membership/ 
+(last visited Nov. 25, 2011) (emphasis added).  
+  99. See IEEE-SA Standards Board Bylaws, IEEE STANDARDS ASS’N, 10–11 (Feb. 2011), 
+http://standards.ieee.org/develop/policies/bylaws/sb_bylaws.pdf (sections 5.2.1.3 Dominance and 
+5.2.1.5 Disclosure of affiliation). 
+ 
+WINTER 2012  203 Biddle et al. 
+ 
+The controversy over Open Office XML provides the context for a second 
+example that illustrates how ambiguity over standards-related roles can lead to 
+an allegation of a conflict of interest.100 In the midst of an acrimonious dispute 
+about the international standardization process for Microsoft-supported OO-
+XML, the Free Software Foundation Europe alleged that dual roles played by 
+one individual in connection with ISO and at the standards-development body 
+ECMA amounted to an “an insufficiently resolved conflict of interest.”101 No 
+remedial action or other changes, however, appear to have been taken in con-
+nection with this allegation.  
+3. Conflict Issues for Company Participants 
+Another potential concern for companies that participate in a standards-
+setting effort might be that a conflict of interest of a particular individual could 
+be imputed to that individual’s employer in a manner that would create liabil-
+ity for the employing company. An individual serving on an SSO Board who 
+is accused of not meeting her duties to the SSO might point to an employer 
+mandate as the cause for their failure to meet their duty. One can imagine 
+difficult tensions that could arise between employer and employee in such a 
+scenario. Further, one can imagine other Board members of the SSO perceiv-
+ing that the employer is the bad actor in these circumstances. Whether such 
+tensions could rise to actionable legal claims either between employee and 
+employer or between the SSO and the employer is unclear. No such cases 
+appear to have been litigated, but prudence would seem to dictate that employ-
+ers be mindful of the duties owed by their employees to the SSO and careful to 
+not pressure these individuals into situations that create a conflict of interest. 
+4. Conflicts for In-House Counsel 
+In-house counsel for companies participating in standards-development 
+efforts also can face complex ethical questions. One scenario arises when an 
+individual begins serving on an SSO Board. That individual may have a 
+longstanding relationship with in-house counsel for their shared employer: that 
+in-house counsel routinely advises the individual in the context of that individ-
+ual’s activities performed on behalf of the employing corporation. Joining an 
+SSO Board may raise legal issues for the individual that are separate from the 
+legal interests of the employing corporation. For example, the individual may 
+be concerned about personal liability in the event that the SSO is sued, and she 
+may want to understand the scope of any indemnities offered either by the 
+SSO or by her employer (who is likely directing the employee to join the 
+Board). Further, once the individual is on the Board, at times they represent 
+                                                                                                           
+  100. See, e.g., Ryan Paul, Microsoft's Office Open XML Now an Official ISO Standard, ARS 
+TECHNICA,  http://arstechnica.com/microsoft/news/2008/04/microsofts-office-open-xml-now-an-
+official-iso-standard.ars (last visited Nov. 23, 2011).  
+  101. Letter from Shane Coughlan to SNV Schweizerische Normen-Verinigung (Aug. 13, 
+2007), available at http://siug.ch/ms-ooxml/fsfe-letter.pdf.    
+ 
+204  52  JURIMETRICS   The Expanding Role and Importance of Standards in the ICT Industry 
+ 
+the interests of the SSO, a separate legal entity. The in-house counsel has one 
+client, however: the employing corporation. Tenets of professional responsi-
+bility require that the attorney not offer legal advice to the individual in his or 
+her individual capacity, nor to the SSO.102 Maintaining this responsibility may 
+require difficult discernment of boundaries and a change to the historical 
+working relationship between the individual and the in-house counsel.  
+At a practical level, the individual in this circumstance may not have good 
+options for obtaining appropriate legal advice. Engaging a personal attorney to 
+advise on the risks of serving on a board, while perhaps prudent, may not be a 
+realistic option for some employees. SSOs often employ outside counsel to 
+represent the interests of the SSO, but for budgetary or other reasons this out-
+side counsel may not be available and engaged on all SSO activities. In-house 
+counsel for the employing corporation may be tempted to fill these gaps, par-
+ticularly when the issues arise in the context of the ongoing relationship be-
+tween the individual and the in-house counsel on other corporate matters, but 
+it is clear that personal legal advice for the individual and legal advice for the 
+SSO are outside the proper scope of in-house counsel duties.  
+A related point concerns the maintenance of the attorney-client privilege. 
+A conversation between in-house counsel and the board-serving individual 
+could be protected by the attorney-client privilege, provided that the various 
+elements of the privilege are met and the individual is acting in their capacity 
+as an employee of the employing corporation.103 If the individual is acting in 
+their capacity as a representative of the SSO, however, then there is no attor-
+ney-client relationship and no applicable privilege. It would thus be imperative 
+for in-house counsel and the individual to have a clear understanding of what 
+role the individual is playing at any given moment. Further, the individual 
+would need an understanding of the requirements to maintain privilege. For 
+example, the individual could not take privileged information learned while 
+acting as an employee and disclose it to fellow Board members while acting as 
+a Board member.  
+The situation seems to call for something analogous to Upjohn warnings, 
+normally used in the context of corporate investigations.104 Upjohn warnings 
+are a mechanism for making clear that counsel for a corporate entity represents 
+that entity, and not the constituent individuals who are part of the organiza-
+tion.105 While the specific focus of Upjohn warnings is to maintain the ability 
+                                                                                                           
+  102. Grace M. Giesel, Upjohn Warnings, the Attorney-Client Privilege, and Principles of 
+Lawyer Ethics: Achieving Harmony, 65 U. MIAMI L. REV. 109, 161–62 (2010). While an in-house 
+attorney could theoretically represent multiple clients, including potentially the individual board 
+member and the SSO, this arrangement would be extremely unusual and highly problematic. The 
+interests of the various parties are likely to be legally adverse and simultaneous representation 
+would presumably violate conflict-of-interest principles. See MODEL RULES OF PROF’L CONDUCT 
+R. 1.7 (2009). 
+  103. Giesel, supra note 102, 151–52. 
+  104. Upjohn Co. v. United States, 449 U.S. 383 (1981). 
+  105. A.B.A.  White  Collar  Crime  Committee  Working  Group,  Upjohn  Warnings: 
+Recommended Best Practices When Corporate Counsel Interacts With Corporate Employees, AM. 
+ 
+ 
+WINTER 2012  205 Biddle et al. 
+ 
+of the entity to waive privilege in counsel-employee discussions in certain 
+circumstances, the broader point of the warning is to establish an unambiguous 
+understanding between counsel and an individual about the precise nature of 
+their relationship.106 In-house counsel may find the concept useful to address 
+the potential ambiguities surrounding the relationship with employees serving 
+on SSO Boards. 
+5. Issues for Outside SSO Counsel 
+Outside counsel for SSOs may find themselves facing the mirror image of 
+issues faced by in-house counsel. Maintaining privilege in communications 
+with SSO constituents is a particularly challenging point. If an SSO is faced 
+with litigation or a similar legal dispute, the organizations that participate in 
+the SSO will be key stakeholders and will be deeply interested in obtaining all 
+available information about the dispute. Given this interest and the individ-
+ual’s legal and practical loyalties to her employer, the individual serving on 
+the SSO Board will have strong incentives to share information with the em-
+ployer. For outside counsel, ensuring that Board members do not disclose 
+information in a manner that defeats privilege may prove difficult. 
+Discovery may present a similar challenge. As a practical matter, the 
+Board members of SSOs often utilize the email addresses of their primary 
+employer to do Board business, and thus key SSO communications and other 
+documents are stored on systems that are not controlled by the SSO. If these 
+documents are subpoenaed, the organization that controls the documents may 
+not have identical incentives to the SSO. For example, the SSO might be in-
+clined to fight a subpoena under a privilege theory, whereas the organization 
+hosting the documents might be willing to produce the documents (perhaps 
+even without notice to the SSO) to close the matter quickly and cheaply. Si-
+milarly, when faced with a discovery demand, counsel for an SSO might find 
+that they do not have practical control of or access to key documents.  
+Outside counsel for SSOs might also face the inverse of the issue faced by 
+in-house counsel asked to opine on matters outside of their client’s purview. In 
+some cases outside counsel for SSOs develop strong relationships with the 
+individuals serving on the SSO Board. These individuals may ask counsel to 
+discuss matters that go beyond the scope of the SSO and impact the legal in-
+terests of the individual’s primary employers or the individual’s personal legal 
+interests. In such a case, outside counsel may be well served to bring Upjohn-
+style clarity to the discussion, as explored above. 
+Finally, standards-setting efforts may present outside counsel with partic-
+ularly complex conflicts of interest and attorney-client relationship-formation 
+issues. SSOs routinely include parties whose interests are adverse outside of 
+the standard-setting context. In the course of SSO formation, counsel might 
+                                                                                                           
+BAR ASS’N, 14 (July 17, 2009), http://meetings.abanet.org/webupload/commupload/ CR301000/ 
+newsletterpubs/ABAUpjohnTaskForceReport.pdf.  
+  106. Giesel, supra note 102, at 110–11. 
+ 
+206  52  JURIMETRICS   The Expanding Role and Importance of Standards in the ICT Industry 
+ 
+need to engage directly with a number of these parties simultaneously, raising 
+the need for, at a minimum, artful conflict disclosures and waivers.107 After an 
+SSO is formed, counsel may find that the SSO’s interests become legally 
+adverse to member companies participating in the SSO, or that members en-
+gage in disputes that create new potential conflicts for counsel.  
+6. Best Practices for Mitigating Conflict Risks 
+As discussed above, the ASU Workshop demonstrated some consensus 
+that ethical matters related to standards deserve attention, but there was a lack 
+of consensus over the nature and degree of these ethics-related risks. Given 
+this observation, and given the fact that the topic of ethical issues in standards 
+development is virtually unexplored in the academic and practitioner literature, 
+it is unsurprising that no best practices or similar guidelines have been docu-
+mented. No attempt will be made to do so here, but we will observe that the 
+area seems ripe for further analysis.    
+Two simple concepts highlighted above may be candidates for inclusion 
+in a broader best practices effort: 
+ 
+  Employers should recognize that employees serving on SSO Boards are 
+serving in an individual capacity and face potentially conflicting duties. 
+Taking care to avoid having actual conflicts arise serves all parties’ in-
+terests, including the employer.  
+  In-house and outside counsel engaged in standards efforts can learn 
+from the concept of Upjohn warnings, and apply the idea when engaging 
+with dual-role employees.  
+ 
+Additionally,  SSO  communications  processes,  document  management, 
+and conflict management for outside counsel might be other areas for focused 
+attention. In sum, ethical issues surrounding standards setting are complex, 
+and having better tools to analyze and manage them would benefit all stake-
+holders involved with the standards-setting process.  
+ 
+Standards provide structure and consistency to many areas of technology 
+and are a critical component of most of the informational services and prod-
+ucts we rely on in our daily lives, for example, the Internet, our computers, our 
+phones, our televisions, and countless other technology-dependent devices. 
+Despite being an integral component of many industries, standards are largely 
+created and flourish or fail behind the scenes. The 2010 ASU Workshop 
+helped bring standards to the forefront by providing an opportunity for stan-
+dards practitioners to come together and engage in discourse on pressing is-
+sues in the standards field. 
+                                                                                                           
+  107. See MODEL RULES OF PROF’L CONDUCT R. 1.7.  
+ 
+WINTER 2012  207 Biddle et al. 
+ 
+This article describes several key topics in standards practice today and 
+demonstrates the complex technological and legal environment in which stan-
+dards operate. The multitude of interests represented in standards develop-
+ment,  the  diversity  of  entities  adopting  standards,  and  the  breadth  of 
+experience of the various parties involved make standards a growing yet chal-
+lenging area of legal practice. 
+Historically, the discipline of standards has been largely ignored by legal 
+academia and neglected in the training of young lawyers. In recent years, 
+however, the role of standards has greatly evolved and expanded; once limited 
+to technical specifications, standards now play a central role in technology 
+development, management, and governance. Because of this increasing role as 
+a driver and regulator of technology, standards are being recognized for their 
+vital importance to legal practice and legal scholarship. To continue engage-
+ment with the standards community, in April 2011, ASU hosted a two-day 
+standards roundtable that addressed the increasingly global context for stan-
+dards development. With additional conferences and other future events fo-
+cused on the intersection of standards, technology and the law, the Center for 
+Law, Science & Innovation at the Sandra Day O’Connor College of Law will 
+continue to foster dialogue within the standards community. 
+ 
+ 
+208  52  JURIMETRICS 

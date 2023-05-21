@@ -1,0 +1,1164 @@
+LegalReferenceServicesQuarterly,34:119–137,2015
+PublishedwithlicensebyTaylor&Francis
+ISSN:0270-319Xprint/1540-949Xonline
+DOI:10.1080/0270319X.2015.1038143
+Improving Digital Publishing of Legal
+Scholarship
+BENJAMIN J. KEELE
+RobertH.McKinneySchoolofLaw,IndianaUniversity,Indianapolis,Indiana,USA
+5 
+1
+0
+2 Legal scholarship’s main mode of formal communication, the law
+e 
+un journal article, is mostly stuck in the print publishing model. By
+J
+6  adoptingsometoolsandpracticesmadepossiblebydigitalcommu-
+1
+8  nications, legal scholarship can become more accessible, ﬂexible,
+0
+3: and interdisciplinary. Instructive examples can be found in the
+1
+at  science, technology, engineering, and medicine (STEM) journals.
+] 
+e These practices are publishing in HTML and e-book formats and
+el
+Ke adoptingpersistentidentiﬁersforscholarlyworks.
+n 
+mi
+KEYWORDS lawjournals,legalscholarship, persistentidentiﬁers
+a
+nj
+e
+B
+[
+],  INTRODUCTION
+s
+e
+rsiti Since the ﬁrst law reviews were published in the late 19th century, journals
+e
+niv have grown in numbers and inﬂuence.1 Now there are hundreds of law
+U journals, both student-edited and published by commercial publishers.2 Law
+a 
+an journalsserveasamajorvenueforsharinglegalscholarshipwithacademics,
+ndi practitioners, and nonlegal researchers.3 Law libraries have long supported
+I
+[
+y 
+b
+d 
+e
+d
+a
+o
+nl
+w
+o ©BenjaminJ.Keele
+D
+AddresscorrespondencetoBenjaminJ.Keele,ResearchandInstructionalServicesLibrar-
+ian, Ruth Lilly Law Library, Indiana University Robert H. McKinney School of Law, 530 West
+NewYorkSt.,Indianapolis,IN46202-3225,USA.E-mail:bkeele@indiana.edu
+Color versions of one or more of the ﬁgures in the article can be found online at
+www.tandfonline.com/wlrs.
+1 MichaelI.Swygert&JonW.Bruce,TheHistoricalOrigins,Founding,andEarlyDevel-
+opmentofStudent-EditedLawReviews,36HastingsL.J.739,742(1985).
+2 JohnDoyle,TheLawReviews:DoTheirPathsofGloryLeadbuttotheGrave?,10J.App.
+Prac.&Process179,180(2009).
+3 Michael L. Closen & Robert J. Dzielak, The History and Inﬂuence of the Law Review
+Institution,30AkronL.Rev.15,23(1996).
+119120 B.J.Keele
+law journals through research and administrative assistance, and many are
+taking a greater role in disseminating legal scholarship.4
+Both authors and editors of law journal articles—whether student, fac-
+ulty, or professional—want legal scholarship to reach appropriate audi-
+ences in useful formats. They also want to know how their works are
+being used. Before widespread electronic communications, printing the
+articles in paper volumes and distributing them to subscribers (mostly
+libraries) was the best path. Now with digital publishing technologies,
+journals also post their content online and distribute them through legal
+research databases. However, most journals hew to the closest digital coun-
+terpart to printed paper, the Portable Document Format (PDF) ﬁle. Digital
+5 
+01 legal scholarship is, for the most part, comprised of black text on a white
+2
+e  background with footnotes, typeset and paginated for publication in a print
+n
+u issue.
+J
+16  To see what is truly possible in scholarly publishing, we can look
+8 
+0 to science, technology, engineering, and medicine (STEM) journals. They
+3:
+1 have adopted tools and practices that take better advantage of the ca-
+at  pabilities digital communications offer. These practices include publish-
+] 
+e
+el ing in formats other than PDF and using persistent standard identiﬁers,
+e
+K such as digital object identiﬁers (DOI) for online articles. Legal scholar-
+n 
+mi ship can implement these ideas with some modiﬁcations and thereby im-
+a prove its accessibility and usability, both in the short term and for future
+nj
+Be generations.
+[
+],  This article will describe how major STEM publishers distribute in for-
+s
+e mats beyondPDFand use persistentidentiﬁers.Then itwilldiscusshowlaw
+rsiti journals and authors could adapt these practices for legal scholarship.
+e
+v
+ni
+U
+a 
+n PUBLISHING BEYOND THE PDF
+a
+di
+n
+I
+y [ As far as documents go, law review articles have not been very complicated.
+b
+d  They have plenty of text and footnotes, but compared to scientiﬁc research,
+e
+d there are few images or tables, much less dynamic simulations or video.
+a
+o
+nl STEM journals have incorporated these more-complex features to display
+w
+their author’s ﬁndings. Legal scholarship could be enriched through inte-
+o
+D
+grating images, video, and other media if law journals could augment their
+publishing capacities.
+The key to achieving greater publishing ﬂexibility is to discard the men-
+tality that articles need only be PDF ﬁles. Legal scholarship’s use of PDF
+as the virtually exclusive format of choice has prevented journals from ex-
+perimenting with different media and hindered the exchange of ideas and
+4 See Simon Canick, Library Services for the Self-Interested Law School: Enhancing the
+VisibilityofFacultyScholarship,105LawLibr.J.175,184(2013).ImprovingLegalScholarlyPublishing 121
+research between legal scholarship and other ﬁelds of study. The attitude
+that law review articles should be in PDF and closely resemble articles as
+they were printed in the past is understandable, in the sense that PDF is
+comfortingly familiar and therefore maintains the printed page’s association
+with scholarly inquiry and professorial authority. PDF ﬁles can be copied,
+searched, and printed, but other formats can do much more. This is not to
+suggest that PDF should not be used but rather that it should not be the
+primary or exclusive distribution format.
+Publishing in HTML and EPUB formats provides greater ﬂexibility for
+formatting, more display options for readers, and deeper computer analysis.
+This is because PDF is an image-based format. It is very good at present-
+5 
+01 ing content the same way, regardless of the device displaying it. HTML and
+2
+e  EPUB, in contrast, are based on markup languages. This means the infor-
+n
+u mation is marked, or tagged, with directions that tell devices how to display
+J
+16  the text. In a sense, the information is separated from its presentation so
+8 
+0 that each reader can decide how the text will be shown. Readers wishing
+3:
+1 for a particular font, larger text size, or a speciﬁc contrast level can make
+at  these adjustments. HTML is also more likely to be readable by screen reader
+] 
+e
+el programs used by visually challenged readers.
+e
+K For example, the science journal PLoS ONE, published by the Public
+n 
+mi Library of Science, releases articles in HTML, PDF, and XML. Figure 1 shows
+a the HTML version of a PLoS ONE article.5 It looks like an online Web page
+nj
+Be ratherthanaprintedpage.Thetableofcontentsontheleftletsreadersjump
+[
+],  to the desired section.
+s
+e ForreaderspreferringPDForwishingtoprintanarticle,thePDFversion
+rsiti of the PLoS ONE article (Figure 3) contains all the information that can be
+e
+niv included in a PDF ﬁle. For PDFs, the text can be laid out optimally for
+U reading in print. Some PDF articles in STEM journals are set in two columns
+a 
+n of text, for instance; this is great for reading on paper, but cumbersome to
+a
+ndi read on a screen.
+I
+y [ In 2013 Cambridge University Press began publishing some journal ar-
+d b ticles in EPUB format for e-book reader devices.6 Looking at an article from
+e
+d the journal Psychological Medicine,7 we see how a scholarly article can ap-
+a
+o
+nl pearasHTML,PDF,orEPUB.Figure4showstheHTML,andFigure5shows
+w
+the PDF. Note that the PDF looks like a very traditional academic paper.
+o
+D
+Figure 6 shows the EPUB version displayed in Adobe Digital Editions.
+5 Sarah Marshall-Pescini, Maria Ceretta, & Emanuela Prato-Previde, Do Domestic Dogs
+Understand Human Actions as Goal-Directed?, 9 PLoS ONE e106580 (2014), doi:10.
+1371/journal.pone.0106530.
+6 Danny Davies, Cambridge Journals Blog, Introducing EPUB for Journals, http://
+blog.journals.cambridge.org/2013/11/introducing-epub-for-journals/(Nov.11,2013).
+7 J. Leaviss & Lesley Uttley, Psychotherapeutic Beneﬁts of Compassion-Focused Ther-
+apy: An Early Systematic Review, 45 Psychological Medicine 927 (2015), doi: 10.1017/
+S0033291714002141122 B.J.Keele
+5 
+1
+0
+2
+e 
+n
+u
+J
+6 
+1
+8 
+0
+3:
+1
+at 
+] 
+e
+el
+e
+K
+n 
+mi FIGURE 1 This article from PLoS ONE is in HTML format. The left column has a table of
+a contentsthatallowsthereadertojumptodifferentsectionsofthearticle.Intherightcolumn
+nj
+e areadditionaldownloadoptions.ReaderscandownloadthearticleinPDForXMLformatas
+B
+[ wellasHTML.
+s],  “DoDomesticDogsUnderstandHumanActionsasGoal-Directed?”bySarahMarshall-Pescini,
+e
+siti MariaCeretta,andEmanuelaPrato-PrevideislicensedunderCCBY4.0
+r
+e
+v
+ni
+U
+a 
+n
+a
+di
+n
+I
+[
+y 
+b
+d 
+e
+d
+a
+o
+nl
+w
+o
+D
+FIGURE 2 Images from the PLoSONE from Figure 1. To the left of the images are options
+fordownloadingtheimagesinPowerPoint,TIFF,orPNGformats.Theseoptionsmakereuse
+oftheimageseasy,consistentwiththeCreativeCommonAttributionlicense.
+“DoDomesticDogsUnderstandHumanActionsasGoal-Directed?”bySarahMarshall-Pescini,
+MariaCeretta,andEmanuelaPrato-PrevideislicensedunderCCBY4.0ImprovingLegalScholarlyPublishing 123
+5 
+1
+0
+2
+e 
+n
+u
+J
+6 
+1
+8 
+0
+3:
+1
+at 
+] 
+e
+el
+e
+K
+n 
+mi
+a
+nj
+e
+B
+], [ FIGURE 3 The PLoSONE article from Figure 1 in PDF format. This format is most suitable
+es forprintingtopaper.
+siti “DoDomesticDogsUnderstandHumanActionsasGoal-Directed?”bySarahMarshall-Pescini,
+er MariaCeretta,andEmanuelaPrato-PrevideislicensedunderCCBY4.0
+v
+ni
+U
+A great advantage of the EPUB format for e-reader devices is that the
+a 
+an text can be reﬂowed and resized to ﬁt the screen of most mobile devices.
+ndi The article in Figure 5 has a table of contents for navigation. EPUB also
+I
+y [ allows embedded media like images and audio ﬁles.
+b
+d  To my knowledge, very few law journals regularly publish in formats
+e
+d other than PDF. The YaleLawJournal, StanfordLawReviewOnline supple-
+a
+o
+nl ment, and Richmond Journal of Law and Technology publish in both HTML
+w
+o and PDF. Through a publisher, Quid Pro Quo Books, the YaleLawJournal,
+D
+Harvard Law Review, Stanford Law Review, and University of Chicago Law
+Review publishe-bookversions,includingEPUBandMOBI(theformatused
+by the Amazon Kindle) formats. While the HTML and PDF versions are gen-
+erally free to access on the journals’ Web sites, Quid Pro Quo Books sells
+the e-book versions.
+Law reviews wishing to publish in HTML or EPUB may encounter a
+few challenges. Editors or support staff would have to acquire some tools
+and knowledge. Assuming Word and WordPerfect will continue to be pre-
+dominant formats for submissions and editing, the conversions from those124 B.J.Keele
+5 
+1
+0
+2
+e 
+n
+u
+J
+6 
+1
+8 
+0
+3:
+1
+at 
+] 
+e
+el
+e
+K
+n 
+mi
+a
+nj
+e
+B
+[
+], 
+s
+e
+siti
+r
+e
+v
+ni
+U
+a 
+n FIGURE 4 An article from PsychologicalMedicine in HTML format. This format will display
+a
+di wellonawidevarietyofscreens.Underthetableofcontentsareadditionalformatsavailable
+n
+[I fordownload,includingPDFandEPUB.
+by  “PsychotherapeuticBeneﬁtsofCompassion-focusedTherapy:AnEarlySystematicReview”by
+d  J.LeavissandL.UttleyislicensedunderCCBY3.0
+e
+d
+a
+o
+nl formats to HTML or EPUB should occur, as it does for PDFs, at the end of
+w
+o the editorial pipeline.
+D
+Converting a word processor ﬁle to HTML or EPUB is feasible but
+will require a learning curve. A number of conversion tools are available,
+ranging from open source (such as pandoc) to proprietary products. The
+conversionwillprobablynotbeperfect,andsomelevelofmanualinspection
+and editing will be necessary. Also, both HTML and EPUB allow additional
+metadata that will help make articles easier to ﬁnd in search engines; adding
+this metadata in the proper way will also require some additional work.
+Likewise, word processor ﬁles can be converted to EPUB format, or
+the HTML ﬁle can be used. Either way, there are open source (Calibre)ImprovingLegalScholarlyPublishing 125
+5 
+1
+0
+2
+e 
+n
+u
+J
+6 
+1
+8 
+0
+3:
+1
+at 
+] 
+e
+el
+e
+K
+n 
+mi
+a
+nj
+e
+B
+[
+], 
+s
+e
+siti
+r
+e
+v
+ni
+U
+a 
+n
+a
+di
+n FIGURE 5 ThearticlefromFigure4inPDFformat.Thisjournalhasselectedalayoutthatis
+I
+y [ verysimilartotraditionalpaperjournals.
+b “PsychotherapeuticBeneﬁtsofCompassion-focusedTherapy:AnEarlySystematicReview”by
+d 
+e J.LeavissandL.UttleyislicensedunderCCBY3.0
+d
+a
+o
+nl and commercial (oXygen Author) tools available to handle these tasks. For
+w
+o law journals, time will be needed to test these conversion tools, establish
+D
+templates and style sheets, and become familiar with the programs. Once
+procedures for conversion and quality checks are ﬁnalized, the time and
+energy needed thereafter should decrease. While larger publishers have es-
+tablished these workﬂows, ﬁle conversion is a realm of experimentation for
+law journals. With persistence, though, editors, librarians, and support staff
+can ﬁnd tools and processes for conversion that work for them.
+This work could be performed by support staff the journal may have
+or library staff as part of the law library’s support of legal scholarship. Con-
+version services could be hired to convert and format ﬁles. Finally, journal126 B.J.Keele
+5 
+1
+0
+2
+e 
+n
+u
+J
+6 
+1
+8 
+0
+3:
+1
+at 
+] 
+e
+el
+e
+K
+n 
+mi
+a
+enj FIGURE 6 The article from Figure 4 in EPUB format, displayed in Adobe Digital Editions.
+B
+[ Thisformatwouldbebestfordisplayonane-readerdevice.
+],  “PsychotherapeuticBeneﬁtsofCompassion-focusedTherapy:AnEarlySystematicReview”by
+s
+e
+siti J.LeavissandL.UttleyislicensedunderCCBY3.0
+er editors could prepare the ﬁles as part of their duties. The main downside
+v
+ni to this approach is that editors change every year, so some resources will
+U
+a  have to be committed to training. However, a journal considering publish-
+n
+dia ing in more formats should weigh the beneﬁts of increased accessibility and
+In ﬂexibility for readers against the resources that would be expended.
+[
+y  Some cultural norms in legal scholarship will also have to change. Page
+b
+d  numbers may no longer be the obvious choice for pinpoint citations. STEM
+e
+d
+a journal PDFs have page numbers, but they start at page 1 and often note
+o
+nl that the pagination is not for citation purposes. One option would be to
+w
+o designate the PDF with pagination as the canonical version that should be
+D
+cited. Another option more attuned to Web publishing is to use paragraph
+numbers. This approach has a couple of advantages. First, the article is
+amenable to pinpoint citation regardless of format, and second, a citation to
+a paragraph is more precise than one to a page.
+Paragraph numbers have been adopted by a few law journals, among
+them the Richmond Journal of Law and Technology8 (Figure 7), the early
+8 Michael Arnold & Dennis R. Kiker, The Big Data Collection Problem of Little Mobile
+Devices,21RichmondJ.L.&Tech.10(2015),http://jolt.richmond.edu/v21i3/article10.pdf.ImprovingLegalScholarlyPublishing 127
+5 
+1
+0
+2
+e  FIGURE 7 An article from the Richmond Journal of Law & Technology displays paragraph
+n
+Ju numbersinbracketsPDFdisplaysparagraphnumbersinbrackets.Paragraphnumbersallow
+6  precisecitationtoaparagraph,regardlessoftheﬁleformat.
+1
+8  ©RichmondJournalofLaw&Technology.ReproducedwithpermissionofRichmondJournal
+0
+3: ofLaw&Technology.Permissiontoreusemustbeobtainedbytherightsholder.
+1
+] at  issues of the JournalofLegalAnalysis9 (Figure 8), and LawLibraryJournal10
+e
+el (Figure 9).
+e
+K A number of courts have adopted citation rules that favor paragraph
+n 
+mi numbers over page numbers in reporter volumes (also called media or ven-
+nja dor neutral citation).11 The American Association of Law Libraries’ Uniform
+Be Citation Guide also favors paragraph numbers. Once a policy decision is
+[
+],  madetochangethiscitationnorm,itwouldnotbedifﬁculttoaddparagraph
+s
+rsitie nanudmbleegraslasscthhoelaarrsticalnedispeudbiltiesdh.eCrsersthaoinullyd, cchoannsgideesrwwohueldthheravtehotosebcehmanagdees,
+e
+v
+ni are justiﬁed by the possible beneﬁts.
+U
+a 
+n
+a
+ndi USING PERSISTENT IDENTIFIERS
+I
+[
+y 
+b
+d  Law journals have tiptoed into digital publishing, and they have already
+e
+d experienced some of its challenges. One major difﬁculty is dealing with link
+a
+o
+nl rot—thatis,URLsthatnolongerworkbecausethelinkeddocumenthasbeen
+w
+o
+D
+9 JonathanR.Macey&GeoffreyP.Miller,JudicialReviewofClassActionSettlements,1J.
+LegalAnalysis167(2009),doi:10.4159/jla.v1i1.6.
+10 Bonnie Shucha, “Whatever Tribal Precedent There May Be”: The (Un)availability of
+Tribal Law, 106 Law Libr. J. 199 (2014), http://www.aallnet.org/mm/Publications/llj/LLJ-
+Archives/Vol-106/no-2/2014-11.pdf.
+11 See Ian Gallacher, CiteUnseen:HowNeutralCitationandAmerica’sLawSchoolsCan
+Cure Our Strange Devotion to Bibliographical Orthodoxy and the Constriction of Open and
+Equal Access to the Law, 70 Alb. L. Rev. 70 491 (2006); Peter W. Martin, Neutral Citation,
+Court Web Sites, and Access to Authoritative Case Law, 99 Law Libr. J. 329 (2007); Michael
+Umberger, CheckingUponCourtCitationStandards:HowNeutralCitationImprovesPublic
+AccesstoCaseLaw,31Leg.Ref.Serv.Q.312(2012)doi:10.1080/0270319X.2012.741036.128 B.J.Keele
+5 
+1
+0
+2
+e 
+n
+u
+J
+6 
+1
+8 
+0
+3:
+1
+at 
+] 
+e
+el
+Ke FIGURE 8 AnarticlefromtheJournalofLegalAnalysisdisplaysparagraphnumbersinsmall
+n  digitsinthepagemargins.Thisisarelativelyunobtrusivewaytodisplayparagraphnumbers.
+mi © Oxford University Press. Reproduced with permission of Oxford University Press. Permis-
+a
+nj siontoreusemustbeobtainedbytherightsholder.
+e
+B
+[ movedtoanotherlocation,placedbehindapaywall,ordeleted.Anumberof
+], 
+s studies have found that link rot is undermining the usefulness of law journal
+e
+siti citations of online sources.12 This is concerning when formally published
+r
+ve scholarship is expected to be stable and reliably accessible. Web sites are
+ni
+U often reorganized or redesigned (and rightfully so; we certainly would not
+na  expectalljournalWebsitestorefrainfromupdatingtheirsoftwareoradding
+a
+di features), but this means that citations to articles may not always point to
+n
+[I the cited source. Broken URLs in footnotes reduce articles’ credibility and
+y 
+b make life difﬁcult for later researchers who want to double-check an article’s
+d 
+e claims or further investigate relevant literature.
+d
+a
+o Law journals may overhaul their sites more often than other scholarly
+nl
+w publicationsbecausetheirleadershipchangesregularlyand,likenewhome-
+o
+D owners, the new editors may want to make the journal Web site their own.
+If an online renovation results in articles being taken down or moved, any
+12 Mary Rumsey, Runaway Train: Problems of Permanence, Accessibility, and Stability
+in the Use of Web Sources in Law Review Citations, 94 Law Libr. J. 27 (2002); Susan Lyons,
+PersistentIdentiﬁcationofElectronicDocumentsandtheFutureofFootnotes, 97 Law Libr. J.
+681(2005);RaizelLieblerandJuneLiebert,SomethingRottenintheStateofLegalCitation:The
+LifeSpanofaUnitedStatesSupremeCourtCitationContaininganInternetLink(1996–2010),
+15YaleJ.L.&Tech.273(2012);JonathanZittrain,KendraAlbert,andLawrenceLessig,Perma:
+ScopingandAddressingtheProblemofLinkandReferenceRotinLegalCitations, 127 Harv.
+L.Rev.F.176(2014).ImprovingLegalScholarlyPublishing 129
+5 
+1
+0
+2
+e 
+n
+u
+J
+6 
+1
+8 
+0
+3:
+1
+at 
+] 
+e
+el
+e
+K
+n 
+mi
+a
+nj
+e
+B
+[
+], 
+s
+e
+siti
+r
+e
+v
+ni
+U
+a 
+n
+a
+di
+n
+I
+[
+y 
+d b FIGURE 9 An article from LawLibraryJournal displays paragraph numbers with a pilcrow
+e (¶).
+d
+oa ©AmericanAssociationofLawLibraries’LawLibraryJournal.Reproducedwithpermissionof
+nl AmericanAssociationofLawLibraries.Permissiontoreusemustbeobtainedbyrightsholder.
+w
+o
+D
+footnotes including the old URLs are likely to break. Redirects are an option,
+but editors are unlikely to be able to maintain multiple layers of redirects
+to keep all the URLs functional. Broken links to a journal’s articles hurt the
+citing articles and complicate the task of determining where and how often
+the journal’s content has been cited. Reducing link rot would strengthen the
+law’s scholarly literature.
+TheprimarytoolusedbySTEMpublisherstoaddressthisproblemisdig-
+ital object identiﬁers (DOIs). DOIs have been established as an International
+Standards Organization standard and are often used like URLs. However, a
+DOI is assigned to an intellectual object and then matched with a URL for its130 B.J.Keele
+current online location with a registry. If an article’s URL changes, the pub-
+lisher provides an update to the registry. When a researcher enters a DOI
+in a browser URL bar, the DOI is resolved to the current URL. Thus, DOIs
+provide a persistent way for publishers to point readers to articles. DOIs
+are useful for addressing link rot in citations of scholarly works; for other
+types of online resources, other Web archiving services, such as Perma, the
+Internet Archive’s Wayback Machine, and WebCite, should be used.
+CrossRef is a major DOI registration agency in the scholarly communi-
+cationsﬁeld.Membershipfeesarerequired,butacademiclawjournalscould
+join through an afﬁliated university press or university library, which may
+reduce the cost. The California Digital Library offers a service called EZID
+5 
+01 for assigning and maintaining DOIs for research products.
+2
+e  A DOI is written “10.(publisher preﬁx)/(publisher-assigned identi-
+n
+u ﬁer).” For example, the DOI 10.2307/1372820 is expressed as a URL
+J
+16  by adding “doi.org/“ in front, so doi.org/10.2307/1372820 resolves to
+8 
+0 http://www.jstor.org/stable/1372820. This is a Duke Law Journal article in
+13: JSTOR.13 Even if JSTOR changes its Web site or transitions to new owner-
+at  ship, if it fulﬁlls its duty and updates the CrossRef registry, that DOI will lead
+] 
+e
+el to that article. Each DOI points to one copy of a work. The same article
+e
+K is available in Duke’s digital repository, but that DOI will not point to that
+n 
+mi copy. Also, a DOI may lead to a copy that requires payment or subscription.
+a Like a normal URL, a DOI does not distinguish between business models.
+nj
+Be DOIs can be used like serial numbers for articles such that a citation
+[
+],  network can be established and researchers can know what articles cite
+s
+e to and are cited by other works. CrossRef provides a service called cited-
+rsiti by linking. This is a database of citation connections between articles in
+e
+niv CrossRef’s registry and an optional service that is available once a journal
+U beginsassigningDOIstoitsarticles.Ifajournalwishestoknowwhatarticles
+a 
+n citeto itsarticles, itmust participate incited-bylinkingand provideCrossRef
+a
+ndi with data on the journals’ articles and their citations.
+I
+y [ Figure 10 shows an article from AdvancesinBioinformatics.14 The arti-
+b
+d  clehasaDOIinitscitationinformation,andtheﬁrstentryofitsbibliography
+e
+d hasa“ViewatPublisher”link.Thislinkusesthecitedarticle’sDOIandshows
+a
+o
+nl that CrossRef’s system has connected the two articles.
+w
+Figure 11 shows the other side of this linking. This article from PLoS
+o
+D
+Medicine15 has a sizable list of works that cite to it. This list is generated
+from CrossRef’s database of citation connections.
+13 E. Donald Elliott, Re-inventing Rulemaking, 41 Duke L.J. 1490 (1992), doi:10.2307/
+1372820.
+14 Attaphongse Taparugssanagorn, Siwaruk Siwamogsatham, and Carlos Pomalaza-Ra´ez,
+BreastCancerNodesDetectionUsingUltrasonicMicroscaleSubarrayedMIMORADAR, 2014
+AdvancesinBioinformaticsArticleID797013,doi:10.1155/2014/797013.
+15 John P. A. Ioannidis, Why Most Published Research Findings Are False, 2 PLoS Med.
+e124,doi:10.1371/journal.pmed.0020124.ImprovingLegalScholarlyPublishing 131
+5 
+1
+0
+2
+e 
+n
+u
+J
+6 
+1
+8 
+0
+3:
+1
+at 
+] 
+e
+el FIGURE 10 The reference list from an article in AdvanceinBioinformatics. Under “Linked
+e
+K References,”theﬁrstreferenceincludesalinktothecitedarticleusingaDOI.
+n  “Breast Cancer Nodes Detection Using Ultrasonic Microscale Subarrayed MIMO RADAR” by
+mi
+a Attaphongse Taparugssanagorn, Siwaruk Siwamogsatham, and Carlos Pomalaza-Ra´ez is li-
+nj censedunderCCBY3.0
+e
+B
+[ Cited-by linking serves a similar function to Westlaw’s KeyCite, Lexis’s
+], 
+es Shepard’s, and HeinOnline’s ScholarCheck but with some remarkable im-
+siti provements.First,thecitationnetworkismoreopen;areaderdoesnotneed
+r
+e
+v to subscribe to a proprietary database to see the citations to and from the
+ni
+U article, though the full text of the article can be kept behind a paywall. It is
+na  also open in another sense. DOIs are used by journals in many other ﬁelds
+a
+di of study, so citations to legal scholarship from nonlegal authors could be
+n
+[I recorded through the DOIs, even if the nonlegal articles would never be
+y 
+b added to a legal research database. Google Scholar captures some of these
+d 
+e nonlegal citations, but thus far I have noticed a number of errors in the ci-
+d
+a
+o tation counts and irregular determinations as to whether one article actually
+nl
+w cites another. The DOI data are vetted by the publisher and CrossRef, so
+o
+D they are more likely to be accurate.
+Cited-by linking is optional, so any list of citations cannot be known
+to be complete. However, it is another useful way to ascertain how legal
+scholarship connects to other disciplines, and the citation network would
+become stronger if more law journals joined and added their citation data.
+There have been a few suggestions that law journals adopt DOIs as
+part of their citations and metadata.16 Some law journals that are published
+16 Lyons, supra n. 9, at 687; John Doyle, TheBusinessofLawReviews, 39 Conn. L. Rev.
+CONNtempulations30,33(2007);Zittrainetal.,supran.8,at189.132 B.J.Keele
+5 
+1
+0
+2
+e 
+n
+u
+J
+6 
+1
+8 
+0
+3:
+1
+at 
+] 
+e
+el
+e
+K
+n 
+mi
+a
+nj
+e
+B
+[
+],  FIGURE 11 Citations list for an article in PLoS Medicine article. Articles citing the PLoS
+s
+e MedicinearticleuseditsDOI,sothecitationscanbedisplayedtogether,showingthearticle’s
+siti impact.
+r
+ve “Why Most Published Research Findings Are False” by John P.A. Ioannidis is licensed under
+ni theCreativeCommonsAttributionLicense.
+U
+a 
+n
+dia in the journal databases JSTOR and Project MUSE have DOIs assigned to
+n
+I the copies in the databases, and journals by major academic publishers also
+[
+y  generally use DOIs. SSRN now assigns DOIs to working papers uploaded to
+b
+ed  its database. While very few student-edited law journals have implemented
+d
+a DOIs, one notable exception is the University of Pittsburgh Law Review,
+o
+nl shown in Figure 12.17 Published by the University of Pittsburgh University
+w
+Do LibrarySystem,thelawreview’sarticlessince2003haveDOIs.TheUniversity
+ofPittsburghLawReview hasnotyetjoinedthecited-bylinkingnetwork,but
+with DOIs it at least has that option.
+In addition to joining CrossRef and assigning DOIs for its articles, jour-
+nals that participate in cited-by linking provide citation metadata in accor-
+dance with CrossRef’s XML (another kind of markup language) standards.
+While this may seem technically intimidating, CrossRef has ample documen-
+17 Leo P. Mart´ınez, A Uniﬁed Theory of Insurance Risk, 74 U. Pitt. L. Rev. 713 (2013),
+doi:10.5195/lawreview.2013.297.ImprovingLegalScholarlyPublishing 133
+5 
+1
+0
+2
+e 
+n
+u
+J
+6 
+1
+8 
+0
+3:
+1
+at 
+] 
+e
+el
+e
+K
+n 
+mi
+a
+nj
+e
+B
+[
+], 
+s
+e
+siti
+r
+e
+v
+ni
+U
+a 
+n
+a
+di
+n
+[I FIGURE 12 An article from the University of Pittsburgh Law Review displays its DOI on a
+by  cover sheet and page footer. This journal is one of few law journals to assign DOIs to its
+d  articles.
+e
+ad “A Uniﬁed Theory of Insurance Risk” by Leo P. Martinez is licensed under
+o
+nl CC˜BY-NC-ND˜3.0˜US
+w
+o
+D
+tation that would help journal editors or support staff establish workﬂows to
+collect and supply necessary information to CrossRef.
+In addition to facilitating reliable online access and establishing citation
+networks, using DOIs also enables journals to collect information on other,
+less-traditional ways its content is being used. These altmetrics (from alter-
+native metrics) include counting mentions of articles on blogs, Twitter feeds,134 B.J.Keele
+5 
+1
+0
+2
+e 
+n
+u
+J
+6 
+1
+8 
+0
+3:
+1
+at 
+] 
+e
+el
+e
+K FIGURE 13 The HTML version of an article in PeerJ. At the bottom on the left column is
+n 
+mi metrics data for the article. The metrics show the number of visitors, views, and downloads
+a ofthearticle.
+nj
+e “ArtiﬁcialLightandNocturnalActivitiesinGammarids”byElizabethK.Perkin,FranzHo¨lker,
+B
+[ StefanHeller,andRu¨digerBerghahanislicensedunderCC-BY3.0
+], 
+s
+e
+siti andotherlessformalvenuesofcommunication.18 SinceDOIsarearelatively
+er stable and open way of pointing to a speciﬁc article, tools can compilethose
+v
+ni mentions into scholarly impact proﬁles. This article (Figure 13) from STEM
+U
+a  journal PeerJ shows how altmetrics can be used.19
+n
+a Another example is ImpactStory, a nonproﬁt that has developed tools
+di
+n that collect references to an author’s scholarly work and compile them into
+I
+[
+y  a proﬁle that can be used to supplement the author’s traditional academic
+b
+d  CV (Figure 14).20
+e
+d
+a Many legal academics are active blog authors and Twitter users; if legal
+o
+nl scholarship used DOIs as part of citations to articles, one could capture
+w
+o an article’s inﬂuence in less-formal legal and nonlegal publications. Adding
+D
+altmetrics and cited-by linking to the tools we currently use, like Google
+Scholar and legal research databases, will let academic authors and their
+institutions better understand their audience and inﬂuence, both within and
+18 See Mark Popielarski, Assessing Altmetrics: Why Law Librarians (and Law Schools)
+ShouldCareAboutAltmetrics,19AALLSpectrum28(Nov.2014).
+19 ElizabethK.Perkinetal.,ArtiﬁcialLightandNocturnalActivityinGammarids,2.PeerJ
+e279(2014),doi:10.7717/peerj.279.
+20 ImpactStory, https://impactstory.org/benkeele/products/articles (accessed March 30,
+2015).ImprovingLegalScholarlyPublishing 135
+5 
+1
+0
+2
+e 
+n
+u
+J
+6 
+1
+8 
+0
+3:
+1
+at 
+] 
+e
+el
+e
+K
+n 
+mi
+nja FIGURE 14 Theauthor’sImpactStoryproﬁle.ImpactStoryusesstandardidentiﬁersforarticles
+e to show altmetrics for each article. Combined data for all the articles is displayed at the top,
+B
+], [ andlevelsofdownloads,views,andcitationsareshowntotherightofeacharticletitle.
+s © Impactstory. Reproduced by permission of Impactstory. Permission to reuse must be
+e
+siti obtainedbyrightsholder.
+r
+e
+v
+ni
+U
+beyondtheirdiscipline.Aslegalscholarshipbecomesmoreinterdisciplinary,
+a 
+an adoptingDOIs,cited-bylinking,andaltmetricswillhelpconnectlegalworks
+ndi with scholarship in related ﬁelds.
+I
+y [ In addition to obtaining needed funding and administrative support
+b
+d  for joining CrossRef and participating in its network, there are a few other
+e
+d challengesthatshouldbeaddressed.Manylegalarticleshavemultiplecopies
+a
+o
+nl existing in different places. It is not difﬁcult to imagine an article being
+w
+o posted on an author’s personal Web site, an institutional repository of her
+D
+university, the journal’s Web site, and SSRN (whether as a draft or the ﬁnal
+published version). A DOI can point to only one of these copies, so it must
+be understood that while a DOI helps ensure persistent access to at least
+one copy of the article, there may well be more, equally legitimate copies
+available.
+An article having a DOI does not mean it must remain online for-
+ever, but a persistent identiﬁer does indicate an intention to keep the work
+persistently available. Thus, law journals and authors should have an under-
+standing as to when a work is ﬁnalized and persistent citation and linking136 B.J.Keele
+5 
+1
+0
+2
+e 
+n
+u
+J
+6 
+1
+8  FIGURE 15 This article from F1000Research has two versions, both of which are available
+0
+3: to readers. In the right column, readers can see the article’s revision history, peer reviews,
+1
+at  andaccesseachversionofthearticlethatwassubmitted.
+]  “InterpretationofmRNA Splicing Mutations in Genetic Disease: Review of theLiterature and
+e
+el Guidelines for Information-theoretical Analysis” by Natasha G. Caminsky, Eliseos J. Mucaki,
+e
+K andPeterK.RoganislicensedunderCCBY4.0
+n 
+mi
+a
+nj is appropriate. One option is to assign DOIs only to works that have been
+e
+B formally published, however that is deﬁned (acceptance by a journal, or
+[
+],  perhaps an author simply declaring it as a completed work). This makes
+s
+e
+siti SSRN’s practice of assigning DOIs to working papers somewhat of an aber-
+er ration. Especially confusing is that the same DOI is assigned to a paper
+v
+ni regardless of whether a new draft is uploaded. An early draft of a paper may
+U
+a  be posted to SSRN and receive a DOI. Later drafts are uploaded and replace
+n
+a theﬁrstdraft;ﬁnally,thepublishedversionisposted.TheDOIpointsonlyto
+di
+n the latest version, raising the possibility that researchers may cite a working
+I
+[
+y  paper with a DOI, and later the content of the paper they have cited may
+b
+d  change.
+e
+d
+a Another option is to publish each draft as a distinct work but link
+o
+nl all the drafts together as related. This is the approach taken by STEM
+w
+o journal F1000 Research (Figure 15).21 As a paper progresses from submis-
+D
+sion through peer review and revision to an accepted article, each draft is
+published and given a different DOI. The researcher can easily see which
+versionistheﬁnalarticle,butdraftsthatmayhavebeenreferencedearlierare
+21 Natasha G. Caminsky, Eliseos J. Mucaki, & Peter K. Rogan, Interpretation of mRNA
+SplicingMutationsinGeneticDisease:ReviewoftheLiteratureandGuidelinesforInformation-
+theoreticalAnalysis[v2;refstatus:indexed,http://f1000r.es/54y],3F1000Research282(2015),
+doi:10.12688/f1000research.5654.2.ImprovingLegalScholarlyPublishing 137
+still online, and one can see how a paper changed in response to reviewer
+comments.
+Legal scholarship generally does not employ formal peer review, and
+this is a level of transparency that may not be comfortable for some authors.
+Nonetheless, SSRN and academic repositories would do well to consider
+whenascholarlyworkthatisnotformallypublishedissufﬁcientlydeveloped
+to warrant more than transitory availability.
+CONCLUSION
+5 
+01 In 1996, Bernard Hibbitts speculated that law review publication “as we
+2
+e  know it” could disappear in the next decade.22 Eighteen years later, Hibbitts
+n
+u would probably still recognize the law reviews published today, even if he
+J
+16  read the articles on his computer rather than paper. Hibbitts’s call for legal
+8 
+0 scholarship to embrace digital publishing is still relevant, though the options
+3:
+1 haveevolved.STEMjournalsshowthatpublishinginHTMLandEPUB,along
+at  withPDF,andassigningpersistentidentiﬁerstodigitalarticlesisfeasible.Law
+] 
+e
+el libraries provide crucial support for producing, disseminating, and collecting
+e
+K legal scholarship. This scholarship will become more accessible and ﬂexible
+n 
+mi if law journals, likely with help from law libraries, adopt some of these
+a practices.
+nj
+e
+B
+[
+], 
+s
+e ACKNOWLEDGMENT
+siti
+r
+e
+niv This paper was ﬁrst presented at the Legal Scholarship We Like and Why It
+U Matters conference, sponsored by the JournalofThingsWeLike (Lots), on 8
+a 
+n November 2014.
+a
+di
+n
+I
+[
+y 
+b
+d 
+e
+d
+a
+o
+nl
+w
+o
+D
+22 Bernard J. Hibbitts, LastWrites—ReassessingtheLawReviewintheAgeofCyberspace,
+71N.Y.U.L.Rev.615,616(1996).

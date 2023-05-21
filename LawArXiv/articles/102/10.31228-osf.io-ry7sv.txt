@@ -1,0 +1,689 @@
+THE RIGHT TO BE FORGOTTEN:
+AN ANALYSIS FROM AN AMERICAN PERSPECTIVE AND WHAT IT
+MEANS FOR THE U.S. TO ADOPT IT
+Ani Kristo
+14 December 2018
+ABSTRACT
+Today’s society is part of a shared digital life, with an Internet population of 3.2 billion
+people. Thoughthiscolossaldatainfrastructureenablescommunication,informationsharing,
+andcollaboration,itisaplacethatfavorsaparadigmofcontinuouscollectionandstorageof
+data, without much analysis of how that disrupts certain social norms and induces cases of
+violationsoffundamentalrightslikeprivacy,freedom,andprotectionfromdiscrimination.
+In2016, theEuropeanUnionadoptedtheGeneralDataProtectionRegulation, whichin-
+troduced a right for individuals to have their personal data erased. This opened a discussion
+onprivacyandidentityconcernsinthecontextofperpetualstigmatizationanddiscrimination
+duetoobsoletedatathatremainsontheweb. ThroughanalysesofsomecasesintheU.S.and
+E.U.,thispaperwillinvestigatethechallengesofimportingasimilarlegalframeworkforthe
+erasureofpersonaldataintheU.S.,whileensuringthefreedomofexpressionandmaintaining
+thequalityofthesearchenginesandrespectivewebsites.TABLE OF CONTENTS
+1 INTRODUCTION 1
+2 BACKGROUND ON G.D.P.R. 3
+3 THE CENTRAL DEBATE IN THE U.S. 6
+3.1 ExistinglegalframeworksintheU.S. . . . . . . . . . . . . . . . . . 8
+4 RELEVANT CASES 11
+4.1 GoogleSpainv. AEPDandMarioCostejaGonza´lez . . . . . . . . 12
+5 OPEN CHALLENGES AND SOLUTIONS 13
+6 PROPOSED SOLUTIONS 15
+7 CONCLUSION 17
+214-Dec-18] ANANALYSISFROMANAMERICANPERSPECTIVE 1
+1. INTRODUCTION
+TheInformationAgehasledtoanexponentialincreaseindatacollectionfrombothprivate
+companies and government agencies. Thanks to the ubiquitous inter-connectivity brought
+by the Internet, user data is now easily captured, collected, and stored in massive data
+centers for its preciousness in automatic knowledge discovery and applications of pattern
+recognition in the marketing realm. Consequently, the storage centers keep growing as
+data is always stored by default, and not forgotten. Looking at the last few years, this has
+caused personal data to be too vulnerable to security breaches like the notorious incidents
+atYahoo,1 Equifax,2 eBay,3 Adobe,4 andCambridgeAnalytica.5
+Despite being conscious that modern technology enables for unprecedented forms of
+data matching, de-anonymization, and mining, users are often unaware of what sorts of
+operations their data goes through, nor do they have control over how it is used. In addi-
+tion,mostserviceprovidersusevagueandinaccessibletermsintheirsoftwareagreements,
+which results in another opaque wall for the average user of their products, consequently
+contributing to the creation of extensive digital dossiers.6 While many observers in the
+U.S. used to perceive digital redemption as entirely unworkable and ridiculous, after the
+Snowdenrevelations,thegeneralpublichasbeguntoconsidertheideamoreseriously.7
+1. Nicole Perlroth, “Yahoo Says Hackers Stole Data on 500 Million Users in 2014,” September 2016,
+https://www.nytimes.com/2016/09/23/technology/yahoo-hackers.html.
+2. SeenaGressin,“TheEquifaxDataBreach:WhattoDo,”September2017,https://www.consumer.ftc.
+gov/blog/2017/09/equifax-data-breach-what-do.
+3. GordonKelly,“eBaySuffersMassiveSecurityBreach,AllUsersMustChangeTheirPasswords,”May
+2014, https://www.forbes.com/sites/gordonkelly/2014/05/21/ebay-suffers-massive-security-breach-all-
+users-must-their-change-passwords/.
+4. BradArkin,“ImportantCustomerSecurityAnnouncement,”October2013,https://theblog.adobe.com/
+important-customer-security-announcement/.
+5. Emma Graham-Harrison and Carole Cadwalladr, “Revealed: 50 million Facebook proﬁles harvested
+forCambridgeAnalyticainmajordatabreach,”March2018,https://www.theguardian.com/news/2018/mar/
+17/cambridge-analytica-facebook-influence-us-election.
+6. MegLetaAmbroseandJefAusloos,“Therighttobeforgottenacrossthepond,”JournalofInformation
+Policy3(2013):1–23.
+7. “ForgettingMadeImpossible,”inCtrl+Z:TheRighttoBeForgotten,byMegLetaJones(NYUPress,
+2016),55–80,ISBN:9781479881703,http://www.jstor.org/stable/j.ctt1803zhx.6.2 THERIGHTTOBEFORGOTTEN [14-Dec-18
+Incentivized by these and additional issues, in 2016, the European Union adopted the
+General Data Protection Regulations (G.D.P.R.)8 - a massively complex law aimed at reg-
+ulating data protection and privacy for E.U. citizens, as well as personal data export by
+service providers outside the European Economic Area. In Article 17, this new law in-
+troduces the Right to Erasure, more commonly referred to as the Right to Be Forgotten,
+as a basic and universal right for all data subjects9. It asserts that data subjects have the
+right to request the removal of their personal data from any data controller without undue
+delay.10 The law speciﬁes cases when this right is applicable, including when the personal
+data is no longer necessary for the purposes for which it was collected and when the data
+subject revokes their consent. If the personal data has been publicized, the regulations
+require the data controller11 to “take reasonable steps, including technical measures, to in-
+form controllers which are processing the personal data that the data subject has requested
+theerasure[...] ofanylinksto,orcopyorreplicationof,thosepersonaldata”.12
+Oneofthemainuse-casesforthesafeguardsthatG.D.P.R.providesisthatofprotection
+againstperpetualstigmatizationasaconsequenceofaspeciﬁcactionperformedinthepast.
+Individuals whose personally identiﬁable information is still present and discoverable by
+online services in the context of unﬂattering events, such as arrests or public scandals,
+could be subject to ostracism and discrimination from employers or creditors. In these
+cases, the Right to Be Forgotten allows them to request the online erasure of their past,
+8. “Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the
+protection of natural persons with regard to the processing of personal data and on the free movement of
+such data, and repealing Directive 95/46/EC (General Data Protection Regulation),” Ofﬁcial Journal of the
+EuropeanUnionL119(May2016):1–88,http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2016:
+119:TOC.
+9. Article4oftheG.D.P.R.deﬁnestheterm‘datasubjects’asan“identiﬁedoridentiﬁablenaturalperson”,
+-inotherterms-auserofanonlineservicewhosedataispresent(givenorcollected)intheserviceprovider’s
+storagefacilities.
+10. “Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the
+protectionofnaturalpersonswithregardtotheprocessingofpersonaldataandonthefreemovementofsuch
+data,andrepealingDirective95/46/EC(GeneralDataProtectionRegulation),”Article17.
+11. Article4oftheG.D.P.R.deﬁnestheterm‘datacontroller’as“naturalorlegalperson,publicauthority,
+agencyorotherbodywhich,aloneorjointlywithothers,determinesthepurposesandmeansoftheprocessing
+ofpersonaldata”.
+12. “Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the
+protectionofnaturalpersonswithregardtotheprocessingofpersonaldataandonthefreemovementofsuch
+data,andrepealingDirective95/46/EC(GeneralDataProtectionRegulation),”Article17.14-Dec-18] ANANALYSISFROMANAMERICANPERSPECTIVE 3
+after a reasonable amount of time has passed, and at a point when the information would
+no longer bear interest for the public. In addition, this right extends facility for protection
+against instances of cyberbullying, non-consensual pornography, and the commercial use
+ofarrestinformation,byenforcingonlineserviceproviderstobuildthisfunctionalityasan
+inherentpartoftheirproducts.
+To date, the United States has not adopted this right and there are no legal frameworks
+that directly grant data subjects that degree of control over their personal data online. Al-
+thoughtherehavebeenpublicandlegaldebatesonthissubjectmatter,theFirstAmendment
+rights,speciﬁcallyfreedomofspeech,havealwaystrumpedanyclaimtoprivacywhendata
+was truthful, used fairly, and collected in a legal manner. However, American companies
+that operate in the E.U. and provide online services for E.U. citizens are required to abide
+to the G.D.P.R. and have started adopting measures that respect such regulations. There-
+fore,thequestionwhethertheU.S.willadopttheRighttoBeForgottenhasnotnecessarily
+reachedclosure.
+InthispaperIwillprovideananalysisofthepossibilityandfeasibilityofimportingthe
+Right to Be Forgotten in the U.S., through the lens of relevant legal cases in the E.U. and
+U.S.andlookatpossiblesolutionsthatreconciletheseconﬂictingviews.
+2. BACKGROUND ON G.D.P.R.
+European lawmakers and courts have a long history of protecting privacy. In 1995, at the
+time when Internet was still at infancy, the European Council issued the Data Protection
+Directive13 “ontheprotectionofindividualswithregardtotheprocessingofpersonaldata
+and on the free movement of such data”, which was superseded, in 2016, by a more com-
+prehensivereformcalled theGeneralDataProtectionRegulation (G.D.P.R.),whichenlists
+provisions that are better suited for the modern technologies and the recent data usage
+13. CouncilofEuropeanUnion,Directive95/46/EC,1995,https://eur-lex.europa.eu/LexUriServ/LexUri
+Serv.do?uri=CELEX:31995L0046:en:HTML.4 THERIGHTTOBEFORGOTTEN [14-Dec-18
+trends in the online world. Today, the G.D.P.R. is regarded as a gold standard for privacy
+protectionlawsaroundtheworldinthesetimesofatechnologicalrevolution.14
+TheG.D.P.R.deﬁnestheterm‘personaldata’as“anyinformationrelatingtoanidenti-
+ﬁedoridentiﬁablenaturalperson(‘datasubject’);anidentiﬁablenaturalpersonisonewho
+can be identiﬁed, directly or indirectly, in particular by reference to an identiﬁer such as a
+name,anidentiﬁcationnumber,locationdata,anonlineidentiﬁerortooneormorefactors
+speciﬁc to the physical, physiological, genetic, mental, economic, cultural or social iden-
+tity of that natural person”.15 However, Viviane Reding, Vice-President of the European
+CommissionandEUCommissionerforJustice,proposedaslightlymodiﬁeddeﬁnitionfor
+the type of data that the G.D.P.R. should protect. She stated that if we limit the notion of
+datatothe“informationthattheconsumershavevoluntarilygivenouttotheonlineservice
+providers”,thenitiseasiertorequirecontrollerstomanagethereferencesinmediaorany-
+where else, while respecting the state-speciﬁc laws for the freedom of expression.16 This
+deﬁnition of data falls under the ﬁrst category, according to the data type classiﬁcation of
+chief privacy counsel of Google, Peter Fleischer, who thinks that this makes space for a
+“legallyenforceablerightthatismostlysymbolicandentirelyunobjectionable”.17
+Amongalongoflistofrequirementsandprovisions,theG.D.P.R.introducestheRight
+to Data Portability, the Right to Not Be Proﬁled and the Right to Be Forgotten, which
+empower online users with the ability to have full control over giving and withdrawing
+consent on how their personal data is used and requesting erasure of its online presence.
+The Right to Data Portability maintains that data subjects have the right to receive all
+the personal data concerning them in a structured and portable format that can easily be
+14. “TheHistoryoftheGeneralDataProtectionRegulation,”https://edps.europa.eu/data-protection/data-
+protection/legislation/history-general-data-protection-regulation en.
+15. “Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the
+protectionofnaturalpersonswithregardtotheprocessingofpersonaldataandonthefreemovementofsuch
+data,andrepealingDirective95/46/EC(GeneralDataProtectionRegulation),”Article4.
+16. JohnHendel,“WhyJournalistsShouldn’tFearEurope’s’RighttobeForgotten’,”January2012,https:
+//www.theatlantic.com/technology/archive/2012/01/why-journalists-shouldnt-fear-europes-right-to-be-
+forgotten/251955/.
+17. Peter Fleischer, “Foggy thinking about the Right to Oblivion,” March 2011, http://peterfleischer.
+blogspot.com/2011/03/foggy-thinking-about-right-to-oblivion.html.14-Dec-18] ANANALYSISFROMANAMERICANPERSPECTIVE 5
+transmitted to other data controllers.18 On the other hand, data subjects have the Right to
+Not Be Proﬁled, which means that, unless explicit consent is given, the users shall not be
+subject to any form of automated processing of personal data to analyze or predict aspects
+concerning their performance at work, economic situation, health, personal preferences,
+interests, reliability, behavior, location or movements.19 Thirdly, the most interesting and
+controversial20 provision of the G.D.P.R. is the Right to Erasure (Right to Be Forgotten),
+whichis:
+... therighttoobtainfromthecontrollertheerasureofpersonaldataconcerning
+himorherwithoutunduedelay....21
+ThisrightisamorethoroughversionofLedroita` l’oubli,aFrenchlawfrom2010,pre-
+sented in Chartes du droit a` l’oubli nume´rique22 - an initiative from Nathalie Kosciusko-
+Morizet, aiming at deﬁning the rights of citizens with respect to targeted advertising en-
+abled by the data collection of individuals without their full knowledge, and the regulation
+ofthepersonalresultsdisplayedbysearchengines.
+This right, however, only pertains to the protection of personal data, as deﬁned above,
+and is applicable on a best effort standard for data controllers23. In addition, the G.D.P.R.
+gives data controllers the ability to refuse the user’s request for the erasure of personal
+databy enumeratingaset ofexemptions,including thecaseswhen thedatais necessaryto
+exercise the right of freedom of expression and information, for reasons of public interest
+18. “Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the
+protectionofnaturalpersonswithregardtotheprocessingofpersonaldataandonthefreemovementofsuch
+data,andrepealingDirective95/46/EC(GeneralDataProtectionRegulation),”Article20.
+19. Ibid.,Article22.
+20. PaulVoigt,“ThecomplianceburdenundertheGDPR,”September2016,https://globaldatahub.taylorwe
+ssing.com/article/the-compliance-burden-under-the-gdpr-data-protection-officers;TheCommittee’sopinion
+on the European Union Data Protection framework proposals, vol. 1 (2012), 33–34, https://publications.
+parliament.uk/pa/cm201213/cmselect/cmjust/572/572.pdf.
+21. “Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the
+protectionofnaturalpersonswithregardtotheprocessingofpersonaldataandonthefreemovementofsuch
+data,andrepealingDirective95/46/EC(GeneralDataProtectionRegulation),”Article17.
+22. “”Droit a` l’oubli” sur Internet : une charte signe´e sans Google ni Facebook,” October 2010, Original
+archivelink:http://www.prospective-numerique.gouv.fr/sites/default/files/CP SignatureCharteDAOsitesco
+llaboratifsetmoteursderecherche 13 10 2010.pdf,https://www.lemonde.fr/technologies/article/2010/10/13/
+droit-a-l-oubli-sur-internet-une-charte-signee-sans-google-ni-facebook 1425667 651865.html.
+23. Article 17 of the G.D.P.R. simply states that data controllers “shall take reasonable steps” to remove
+personaldata,henceindicatingalackofguaranteethatthesubject’srequestwillbepartiallyorfullygranted.6 THERIGHTTOBEFORGOTTEN [14-Dec-18
+in the area of public health, scientiﬁc or historical research or statistical purposes, and for
+theestablishment,exerciseordefenceoflegalclaims.24
+Beginning 25 May 2018, the G.D.P.R. is enforceable - directly binding and applicable
+- upon all the online service providers that which are based in the E.U. or whose users are
+citizensoftheE.U.. ThismeansthatdatacollectingandprocessingcompaniesintheU.S.,
+such as Google or Facebook, will also need to comply to this regulation if they operate in
+theE.U.,hence,forthbrininganelaboratediscussiononwhethertheU.S.shouldadoptthis
+rightwhilemaintainingitsconstitutionalityinthecontextoffreedomofspeech.
+3. THE CENTRAL DEBATE IN THE U.S.
+The Right to Be Forgotten is only applicable in cases when personal data is previously
+madepubliclyavailable,hencedifferingfromthemoregeneralRighttoPrivacy,asalluded
+by Warren and Brandeis,25 and exercisable for private data under the logical extension of
+the Fourth Amendment to digital properties. However, the Right to Be Forgotten does
+contradict the right to express one’s opinions without restraint, as outlined in the First
+AmendmentoftheBillofRights. Therefore,intheU.S.,anyrequestmadeunderthisright
+couldbeinterpretedasanattempttocensorship,henceviolatingthefreedomofexpression.
+Hitherto attempts by judges, legislators, and advocates to etch out some space for privacy
+concernsinthelightofthereverenceforexpression,explicitlygrantedintheConstitution,
+havebeenwoefullyunsuccessful.26
+Moreover, there is an inherent dimension of time in any claims to exercise the Right to
+BeForgotten. TheG.D.P.R.recognizesthatthepassageoftimeisoneofthemainfactorsin
+judgingthe necessityforthe continuationof dataprocessingby thecontroller.27 However,
+24. “Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the
+protectionofnaturalpersonswithregardtotheprocessingofpersonaldataandonthefreemovementofsuch
+data,andrepealingDirective95/46/EC(GeneralDataProtectionRegulation),”Article17.
+25. SamuelDWarrenandLouisDBrandeis,“Therighttoprivacy,”Harvardlawreview,1890,193–220.
+26. “ForgettingMadeImpossible.”
+27. “Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the
+protectionofnaturalpersonswithregardtotheprocessingofpersonaldataandonthefreemovementofsuch
+data,andrepealingDirective95/46/EC(GeneralDataProtectionRegulation),”Article17,p1(a).14-Dec-18] ANANALYSISFROMANAMERICANPERSPECTIVE 7
+theU.S.lawthatconcernsthesecaseshasnonotionof‘expiration’ofthefreedomofspeech
+afterthatcontenthasbeenconsumed,so,arguably,theremustexistawayofestablishinga
+balancebetweentheindividualandpublicinterestsfromatemporalperspective.
+Given that the introduction of this right primarily affects the press, journalistic orga-
+nizations have also participated in this discussion, with the New York Times warning that
+suchapowerfulrightcouldimpedejournalistsanddissidentsfromgettingtheirvoiceheard
+andthis“purge”willeventuallyleavethepubliclesswellinformed.28
+Furthermore, The Economist takes the discussion beyond the aspect of civil liberties
+whentheyidentifytheenormousburdenofcomplianceforsmallcompanies,which,inthis
+current state of technology where A.I.-enhanced software is primarily data-driven, “would
+keep technology companies from innovating”.29 Though, the very idea that the current
+technological trends of innovation are profoundly dependent on the collection of personal
+datacouldbethecoreproblemthattheG.D.P.R.isaddressing.
+Ontheotherhand,theargumentsfromthepartiesadvocatingtheRighttoBeForgotten
+mainlyconsistinthatpermanentstorageofallsortsofpersonalinformationmaybesubject
+to a large-scale data cross-referencing that could fuel up abusive, biased, and discrimina-
+tory software classiﬁcation systems, subsequently contributing to the establishment of an
+Orwellianstructure. SupportersoftheRighttoBeForgottenevenincludeprestigiousjour-
+nals in Europe, which have applauded the European Commission’s decision to arbitrate an
+effectivesystemthatallowstheexercisingofthisright. ElPa´ıswrites: “Inademocraticso-
+ciety,whereevencriminalrecordscanbecanceledafterawhile,theInternetcouldbecome
+a life sentence for some people”.30 The German daily Der Spiegel describes the ruling as
+28. “OrderingGoogletoForget,”TheNewYorkTimes,May2014,https://www.nytimes.com/2014/05/14/
+opinion/ordering-google-to-forget.html? r=0.
+29. “America should borrow from Europe’s data-privacy law,” April 2018, https://www.economist.com/
+leaders/2018/04/05/america-should-borrow-from-europes-data-privacy-law.
+30. “Derechoalolvido,”ElPa´ıs,May2014,https://elpais.com/elpais/2014/05/13/opinion/1400007067
+055407.html.8 THERIGHTTOBEFORGOTTEN [14-Dec-18
+“avictoryovertheomnipotenceofAmericanInternetcompaniesandavictoryofthevalue
+placedbythepeopleoftheOldWorldagainsttheeconomizationoftheprivatesphere”.31
+Nonetheless, the general opinion in the U.S. remains strongly negative towards the
+import of the Right to Be Forgotten. Andrew McLaughlin, former head of global public
+policy for Google and deputy chief technology ofﬁcer for the Obama Administration, has
+calledthis“anepicallybaddecision,atravesty,anexampleofgreatmoralandinstitutional
+failure on the part of the European Union itself”. He asserts that the suppression of true
+information, that is not libel or meant as hate speech, will only favor the interests of well-
+connected elites in Europe, who have a particularly strong concern in hiding embarrassing
+factsabouttheirlives.32
+Onasimilarnote,JonathanZittrain,professorofInternationalLawandComputerSci-
+ence at Harvard University, insists that the Right to Be Forgotten is a bad solution to a
+real problem since “the incentives are clearly lopsided towards content removal” without
+oversightorpenaltyprovisionsforimproperremovals,whichwilleasilyleadcompaniesto
+fulﬁll takedown requests without much selectivity, consequently decreasing the quality of
+contentontheInternet.33
+3.1. ExistinglegalframeworksintheU.S.
+While the U.S. law does not directly grant citizens the Right to Be Forgotten, there ex-
+istsafour-prongframeworkforhandlingcontentremovalrequestsonacase-by-casebasis.
+UndertheIntellectualPropertyrestrictionsandCopyrightlaws,userscanpreventtherepli-
+cationofcontentcreatedbytheinformationsubject,buttheyonlyreachthecreativeaspects
+ofthatworkanddonotreachinformationcreatedbyanotherpersonrelatedtothedatasub-
+31. “Europe:1,Google:0:EUCourtRulingaVictoryforPrivacy,”DerSpiegel,May2014,http://www.
+spiegel.de/international/business/court-imposes-right-to-be-forgotten-on-google-search-results-a-
+970419.html.
+32. February2015,https://www.intelligencesquaredus.org/debates/us-should-adopt-right-be-forgotten-
+online.
+33. Ibid.14-Dec-18] ANANALYSISFROMANAMERICANPERSPECTIVE 9
+ject.34 In addition, Section 107 of the DMCA35 permits the use of copyrighted material in
+situationsthatareconsideredfairuse,includingcriticism,comment,newsreporting,teach-
+ing, scholarship, or research, hence rendering the IP and copyright mechanisms unsuitable
+forcaseswhenthepersonaldatathatisexposedonthewebdoesnothaveanartisticnature
+orisusedfairly.
+Secondly, another legal mechanism that can be utilized to control the ﬂow of personal
+information online is that of contractual obligations, such as Non-Disclosure Agreements.
+However, the restrictions only apply to persons privy of the contract, whereas much of the
+onlineinformationaboutthedatasubjectsoccuroutsideofthatrelationship.
+Thirdly, subjects wishing to have their personal data removed can follow the avenue of
+defamationclaimswhentheinformationdamagestheirreputation. Unfortunately,informa-
+tion genuineness is an absolute defense in these cases and, in many instances, courts have
+maintainedthatpublicinterestandnewsworthinessarenotnecessarilydiminishedwiththe
+passageoftime.36
+Finally, the privacy torts (intrusion upon seclusion, public disclosure of private facts,
+misappropriation, and false light37), despite being relevant to digital redemption, are usu-
+ally successful in obstructing the distribution or access to information only if it is in the
+interest of the public, and not on an individual level, where the damages occur from con-
+tinuedaccesstopersonalinformation.38
+Even though there is no U.S. law that can provide the same beneﬁts as the G.D.P.R.’s
+Right to Be Forgotten, there exist multiple privacy-protecting regulations that work in dif-
+ferent contexts, such as the Fair Credit Reporting Act of 1970,39 the California Consumer
+34. CopyrightlawoftheUnitedStatesofAmerica:containedinTitle17oftheUnitedStatesCode(Library
+ofCongress,U.S.CopyrightOfﬁce),http://uscode.house.gov/browse/prelim@title17.
+35. Ibid.,Section107.
+36. Sidisv.FRPub.Corporation,1940,806;Estillv.HearstPublishingCo.,1951,1017;Perryv.Columbia
+BroadcastingSystem,Inc.,1974,797;Streetv.NationalBroadcastingCo.,1981,1227.
+37. WilliamLProsser,Lawoftorts(1971).
+38. “ForgettingMadeImpossible.”
+39. FairCreditReportingActno91-508(The91stUnitedStatesCongress,1970).10 THERIGHTTOBEFORGOTTEN [14-Dec-18
+Privacy Act of 2018,40 the Privacy Act of 1974 for medical records,41 Title XI for the
+U.S. Code (U.S. Bankruptcy Code),42 pardons, and statutes of limitation, which protect
+the privacy of consumers, the use of credit information, and limit the effect of stigma by
+preventingtheuseofsuchinformationforemploymentdiscrimination.
+ThelackofaU.S.legalframeworkthatisequivalenttotheG.D.P.R.inthecontextofthe
+Right to Be Forgotten does not suggest, however, that U.S. legislators have not considered
+or attempted to import this right. Speciﬁcally, the New York Assembly Bill 532343 and
+Senatebill456144wereintroducedinFebruary2017byAssemblymanDavidI.Weprinand
+State Sen. Tony Avella with the purpose of rectifying an individual’s reputation that was
+wrongly diminished through inaccurate information found on the Internet by mandating
+that:
+Upon the request from an individual, all search engines, indexers, publishers
+andanyotherpersonsorentitiesthatmakeavailable,onorthroughtheinternet
+informationabouttherequester,shallremoveinformation,articles,identifying
+information and other content about such individual that is “inaccurate”, “ir-
+relevant”,“inadequate”,or“excessive”withinthirtydaysofsuchrequest.45
+Thesebillswere,however,notenactedonthegroundsthattheproposalsweretoobroad,
+rely on a vague test based on what the government thinks the public should or should not
+be discussing, and is clearly unconstitutional under current First Amendment law since it
+protectsthepowertosuppressspeech.46
+The Obama Administration also prepared a blueprint for a Consumer Privacy Bill of
+Rights in their 2012 as part of a comprehensive report to improve consumers’ privacy
+40. CaliforniaConsumerPrivacyActno1798.100,AB-375(2017-2018Session)(2018).
+41. PrivacyActno93-579,88Stat.1896(The93rdUnitedStatesCongress,1974).
+42. Bankruptcy Code of the United States of America: contained in Title 11 of the United States Code,
+http://uscode.house.gov/browse/prelim@title11.
+43. Anacttoamendthecivilrightslawandthecivilpracticelawandrules,inrelationtocreatingtheright
+tobeforgottenactnoA05323(TheNewYorkStateAssembly,2017).
+44. Anacttoamendthecivilrightslawandthecivilpracticelawandrules,inrelationtocreatingtheright
+tobeforgottenactnoS04561(TheNewYorkStateSenate,2017).
+45. Ibid.
+46. Eugene Volokh, “N.Y. bill would require people to remove ’inaccurate,’ ’irrelevant,’ ’inadequate’ or
+’excessive’statementsaboutothers,”March2017,https://www.washingtonpost.com/news/volokh-conspirac
+y/wp/2017/03/15/n-y-bill-would-require-people-to-remove-inaccurate-irrelevant-inadequate-or-excessive-
+statements-about-others.14-Dec-18] ANANALYSISFROMANAMERICANPERSPECTIVE 11
+protections and ensure that the Internet remains an engine for innovation and economic
+growth.47 The outlined framework introduces protections over what personal data organi-
+zations collect from data subjects and how they use it by requiring collectors to provide
+transparency, respect for the context, secure data handling, focused collection, and ac-
+countability.48 This proposal has not moved forward since it would not give the F.T.C.
+the authority to enforce the principles, instead, make companies and industry associations
+write their own rules and then ask the F.T.C. to sign off on them, potentially overturning
+statelawsthatofferstrongerprotections.49
+4. RELEVANT CASES
+Historically,therehavebeenmultiplelawsuitsintheU.S.whosecentralclaimhasbeenthe
+removal of content that has caused reputation damage. The examples vary in the type of
+thepersonaldatathatwasusedaswellastheplatformbearingsuchdata. Thefollowingare
+some highlights of lawsuits that had the same nature as the content protected by the Right
+toBeForgottenintheG.D.P.R.
+Melvin v. Reid In 1931, the appellate court in Melvin v. Reid, held that the use of
+the real name of a prostitute in the movie “The Red Kimono”, depicting her murder trial
+in 1918, was “unnecessary” and harmful, since it had caused her ridicule and exposed her
+to obloquy, hence upholding the plaintiff’s claim that it violated her right to privacy. The
+court’smainargumentreliedonthefactthat“oneofthemajorobjectivesofsocietyasitis
+now constituted, and of the administration of our penal system, is the rehabilitation of the
+fallenandthereformationofthecriminal”.50
+Sidis v. F-R Publishing In this case, the court denied the claims of Sidis, a former
+child prodigy, that an article of great public interest, published by the defendant, had in-
+47. TheWhiteHouse,ConsumerDataPrivacyinaNetworkedWorld:AFrameworkforProtectingPrivacy
+andPromotingInnovationintheGlobalDigitalEconomy(February2012).
+48. Ibid.,p.10.
+49. Brendan Sasso, “Obama’s Privacy Bill of Rights Gets Bashed from All Sides,” February 2015, https:
+//www.theatlantic.com/politics/archive/2015/02/obamas-privacy-bill-of-rights-gets-bashed-from-all-
+sides/456576/.
+50. Melvinv.Reid,1931,91.12 THERIGHTTOBEFORGOTTEN [14-Dec-18
+truded upon his privacy by recounting his breakdown and the revulsion which the plaintiff
+thereafterfeltforhisformerlifeoffameandstudy.51
+LibertyLobby,Inc. v. PearsonInthiscasefrom1967,thejudgedeniedtheplaintiff’s
+request for an injunction for the publication of the contents of some letters that contained
+privateandconﬁdentialinformationabouttheplaintiffs,whichisoneofthecentralscenar-
+iosthattheG.D.P.R.’sRighttoBeForgottennowprotectsusersagainst.52
+Briscoe v. Readers Digest Association Later on, in 1971, the California Supreme
+Court in the case of Briscoe v. Readers Digest Association, decided that the exposure of
+a criminal who paid their debt to the society and started a new, law-abiding life, without
+sufﬁcient reason connected to the current events of public interest, constituted an invasion
+oftheirprivacy.53
+Throughout the years, the attitudes in case-speciﬁc decisions have changed sometimes
+in favor of the Right to Erasure and mostly not. In fact, Melvin v. Reid and Briscoe v.
+Readers Digest Association are two of the very few cases when these sorts of claims have
+won over the freedom of expression. Therefore, it is not quite right to argue that there has
+been a gradual tendency towards one end of the rope in this tug of war. However, it was
+not until the landmark case of Google Spain v. AEPD in 2014 when the discussion around
+truthfulcontentremovalfrompublishedsourceswasthoughtofthroughthelensofaRight
+toErasure,whichwouldbelaterbepopularizedastheRighttoBeForgotten.
+4.1. GoogleSpainv. AEPDandMarioCostejaGonza´lez
+The history of the Right to Be Forgotten in the E.U. starts with a decision of the Euro-
+pean Court of Justice for the case of Google Spain v. the Spanish Data Protection Agency
+(A.E.P.D.) and Mario Costeja Gonza´lez. On the order of the Spanish Ministry of Labour
+and Social Affairs, a Spanish newspaper called La Vanguardia published two announce-
+ments regarding the forced sale of Costeja’s properties arising from his social security
+51. Sidisv. FRPub. Corporation.
+52. LibertyLobby,Inc.v.Pearson,1967,489.
+53. Briscoev.Reader’sDigestAssociation,Inc.,1971,34.14-Dec-18] ANANALYSISFROMANAMERICANPERSPECTIVE 13
+debts. Arguing that the sale had been closed a long time ago and that it carried no fur-
+ther relevance, Costeja asked Google Spain to remove links to the announcement of the
+newspaperappearingfromaGooglesearchofhisname.54
+Eventually, the court ruled that an individual may request links to be removed from
+the search engine’s index search and that engines are processors of personal data and, as
+such, are responsible for taking the necessary steps to hide the digital footprint of the data
+in concern. In addition, the court ruled that the information in question must be obso-
+lete, seriously harmful, and belonging to a person with no public relevance or historical
+signiﬁcance.55
+Inthismonumentalcase,weseetheﬁrstattemptatdeﬁningthescopeofaccountability
+for the the data controllers, which was extended to search engines, and not the direct pub-
+lishers, because the impact on personal privacy of journalistic media articles is lower than
+theimpactcausedbytherevelationofuniversalresultsaffordedbyasearchengine,which
+makesitpossibletobuildupacompleteproﬁleoftheaffectedindividual.56
+If this case were to be carried out in the U.S., Costeja’s claims would most probably
+beunsuccessfulbecauseofFirstAmendment’sinterpretedpriorityandGoogle’simmunity
+from liability as a search platform as described in Section 230 of the Communications
+DecencyAct,whichtreatssearchenginessimplyasconduitsandpreventsthemfrombeing
+“treated as the publisher or speaker of any information provided by another information
+contentprovider”.57
+5. OPEN CHALLENGES AND SOLUTIONS
+Manychallengesstillexistintheaspectsofunderstandingthescopeandenforcingaccount-
+ability in the process of exercising of the Right to Be Forgotten. The primary questions is
+54. GoogleSpainSL,GoogleInc.v.AgenciaEspan˜oladeProteccio´ndeDatos,MarioCostejaGonza´lez,
+2014,131/12.
+55. Ibid.
+56. Marina Sant´ın, “The problem of the right to be forgotten from the perspective of self-regulation in
+journalism,”Elprofesionaldelainformacio´n(EPI)26,no.2(2017):303–310.
+57. CommunicationsDecencyActoftheUnitedStatesofAmerica:containedinTitle47oftheUnitedStates
+Code,Section230,http://uscode.house.gov/browse/prelim@title47.14 THERIGHTTOBEFORGOTTEN [14-Dec-18
+whether the online service providers should proactively take the necessary measures to
+track the ﬂow of personal data, record the intermediate conduits in the process, and take
+the necessary measures to be able to execute an erasure request swiftly and fully; or, al-
+ternatively, take a more reactive approach by evaluating and operating on a case-by-case
+basis. While the former is ideal for the end-users, it would introduce an enormous imple-
+mentation barrier for businesses since it demands a big infrastructural upgrade that incurs
+massive costs. In addition, this would result in a bigger collection of meta-data, which
+partlycontradictstheessenceofexercisingtheRighttoBeForgotten.
+Secondly,itisuncleartowhatextentdatachanneloperatorsshouldbeheldaccountable
+fortheerasureprocedures. TheG.D.P.R.doesnotexplicitlyenlistwhattypeoftheprovided
+serviceswouldqualifythecontrollersasresponsiblefortakingthenecessarystepstofulﬁll
+an erasure request. The deﬁnition of the protected personal data in Article 17 implies that
+the direct publisher will be responsible for the erasure, however, it is ambiguous whether
+that extends to the providers of third-party references to the publishing authority (i.e. the
+sharing of a link or the the whole content of personal data within the service platform,
+outsidetheplatformthroughtheutilitiesofthepublisher,oroutsideoftheplatformthrough
+otherutilitiesprovidedbyexternalapplicationsoroperatingsystems).
+In addition, there is no predeﬁned erasure strategy that clariﬁes whether the critical
+content should be permanently removed, stored in a dormant server and hidden from pub-
+lic access, or just hidden from “na¨ıve” users’ access but still reachable through speciﬁc,
+detailed,andexplicitsearchqueriesorsimilaroperations.
+Moreover, with an increasing number of modern hardware and software tools that ex-
+tend the capabilities of the traditional data-mining algorithms, a new set of methods of
+re-identiﬁcation and de-anonymization are being invented.58 Therefore, it appears that
+the sole redaction of the personal identiﬁable information, as deﬁned in Article 4 of the
+58. MelissaGymreketal.,“IdentifyingPersonalGenomesbySurnameInference,”Science339,no.6117
+(2013): 321–324, ISSN: 0036-8075, doi:10.1126/science.1229566, eprint: http://science.sciencemag.org/
+content/339/6117/321.full.pdf, http://science.sciencemag.org/content/339/6117/321; Arvind Narayanan
+andVitalyShmatikov,“Robustde-anonymizationoflargesparsedatasets,”inSecurityandPrivacy,2008.SP
+2008.IEEESymposiumon(IEEE,2008),111–125;ArvindNarayananandVitalyShmatikov,“Howtobreak
+anonymityofthenetﬂixprizedataset,”arXivpreprintcs/0610105,2006,14-Dec-18] ANANALYSISFROMANAMERICANPERSPECTIVE 15
+G.D.P.R. and cited in Section 2 of this paper, is not enough to hide the identity of individ-
+uals, nor does it prevent future providers from programmatically making inferences about
+their identity by utilizing these re-identiﬁcation algorithms that work on publicly available
+informationorauxiliarydata. Consequently,thisburdenstheDataProtectionOfﬁcerswith
+unreasonable liability and responsibility for being aware of all the contemporary methods
+of maliciously restoring the hidden identity of the protected data subjects, and continu-
+ously taking measures to provide up-to-date protection of the personal data in a climate of
+fast-paced technological advances and scientiﬁc research on Big Data. Unfortunately, this
+onerous duty for the controllers might render the current legal framework for data erasure
+to be simply a half measure for what should be a complete and effective, but currently
+unfeasible,personaldataprotectionframework.
+IftheU.S.weretoadopttheRighttoBeForgotteninsomemanner,thenitwillhavethe
+opportunitytoestablishmoretransparentguidelinesandfeasiblerestrictionsbyimproving
+overtheG.D.P.R.intheaforementionedtopics. Despitethefactthatmostofthebigcorpo-
+rations that deal with massive social networks and perform innovative large-scale personal
+dataprocessingarebasedintheSiliconValley,theU.S.hasyettoactivelycontributetothe
+discussion of possible solutions for the issues above. Nevertheless, there is potential for
+usingthisrightasatemplateintheU.S.bybuildinguponitssharedconstitutionalvalues.
+6. PROPOSED SOLUTIONS
+In her speech about data protection in the digital age, Commissioner Reding admitted that
+“it is clear that the Right to Be Forgotten cannot amount to a right of the total erasure
+of history”,59 and, especially in the U.S., that sentiment is strongly intertwined with the
+absolutenatureofthefreedomofexpression.
+The only way of reconciling these two opposing forces is to rely upon a collection
+of measures - computer code, technical design, market forces, government regulations,
+59. VivianeReding,TheEUDataProtectionReform2012:MakingEuropetheStandardSetterforModern
+DataProtectionRulesintheDigitalAge,January2012,http://europa.eu/rapid/press-release SPEECH-12-
+26 en.pdf.16 THERIGHTTOBEFORGOTTEN [14-Dec-18
+norms, and other social regulators - to jointly govern these values, since none of them can
+bedeemedasilverbullet.
+One of the non-legal alternatives is employing tools like reputation management ser-
+vices (e.g. Reputation.com60, Reputation Defender(cid:13)R61, and Integrity Defenders62) which
+are a form of PR or brand management for individuals. This alternative to the Right to Be
+Forgottenmaintainstherightofthecontentcreators(e.g. journalists)tofreelyexpresstheir
+thoughts, while providing reputation repair by oversaturating the online presence of a data
+subject with content from a large number of trust-afﬁrming transactions. These services
+do not necessarily present more accurate, relevant, or valuable information, but they offer
+a way to counterpoise damaging content. However, the truth remains that this “strong-
+arming” method is not effective for subjects wishing to have real seclusion, nor does it
+offerafeelingofempowermentwithprivacy.
+Probablythemosteffectivesolutiontohavingasystemofmanagingtheonlinepresence
+of a data subject is to provide preventative tools that incorporate forgetfulness-by-design.
+Thisimpliesthattheservicesoftwarebeengineeredtoautomaticallydestroydataaccording
+tosometime-decaymodelthatworkslikememoryinhumanbrains,orbyusingtimersthat
+dictate for how long the data will be accessible from the system. For example, Snapchat, a
+popular messaging app, is entirely built around the promise of “... empowering people to
+expressthemselves[and]liveinthemoment...”,63 whichisenabledbyallowinguserstoset
+self-destruction timers for their images and videos. Moreover, Telegram, another popular
+messagingapp,hasafeatureof‘secretchat’,whichaccomplishesthesamefunctionalityof
+dataephemeralityfortextmessaging. Ontheotherhand,onlineserviceswhosedatamodel
+is not compatible with a concept of lifetime or expiration, may use a decaying function
+that simulates the human forgetfulness with the passage of time, and then use this to bury
+olderdatadeeperintothesearchresultlistingsorbysimplyincreasingthedifﬁcultyofthe
+discoveryofthatdata.
+60. https://www.reputation.com/
+61. https://www.reputationdefender.com/
+62. http://integritydefenders.com/
+63. “SnapInc.,”http://www.snap.com/.14-Dec-18] ANANALYSISFROMANAMERICANPERSPECTIVE 17
+It is evident that a big redesign that accommodates these trade-offs needs a longer dis-
+cussion and understanding from all the involved stakeholders, however, there is space for
+immediate action for the initiation of a process of increasing awareness and caution on
+the side of the users. Seth P. Berman from Harvard Law calls for more accessible soft-
+ware use terms and bigger transparency for the end-user operations that the personal data
+is processed for. In addition, he advocates the idea that the U.S. government should create
+a liability scheme for data privacy, clarifying the accountability of data controllers.64 On
+the other hand, content creators, including news reporters at Reporters Without Borders,
+encouragemedia’sself-regulationandthestrictadherencetojournalisticethicsthatcanact
+as a preventative measure of concealing personal data that is not necessary for the purpose
+ofreporting.65
+Above all, multiple scholars like danah boyd, Jeffrey Rosen, and Julian Togelius, ex-
+perts in socio-technical research, observe that society will adjust to this revolution of tech-
+nology that has brought new paradigms of data processing. They claim that people will
+comeupwithcopingmechanismsasasolutiontodigitalforgetting,suchasthecreationof
+newnormsofatonement,forgivenessthroughempathy,andincreasingtheacceptabilityof
+closetedskeletonsbybecomingcapableofignoringthemorjudginglessharshly.66
+7. CONCLUSION
+In this paper I gave a brief overview of a new provision of the General Data Protection
+Regulation, namely the Right to Be Forgotten, which aims to give online users the ability
+to manage their online presence in an era of continuous and massive data collection. This
+newprotectionwasgenerallyapplaudedintheEuropeanUnionandisconsideredatriumph
+of civil liberties against the ‘evil’, data-hungry American companies. Even though the
+64. SethP.Berman,“GDPRintheU.S.:BeCarefulWhatYouWishFor,”May2018,http://www.govtech.
+com/analysis/GDPR-in-the-US-Be-Careful-What-You-Wish-For.html.
+65. Sant´ın,“Theproblemoftherighttobeforgottenfromtheperspectiveofself-regulationinjournalism.”
+66. FrankDFincham,JulieHHall,andStevenRHBeach,“Tillackofforgivenessdothuspart:Forgiveness
+in marriage,” Handbook of forgiveness, 2005, 207–226; Caryl E Rusbult et al., “Forgiveness and relational
+repair,”Handbookofforgiveness,2005,185–205.18 THERIGHTTOBEFORGOTTEN [14-Dec-18
+United States has historically embraced a culture of ‘going west’ - loosening the shackles
+ofthepastandseekinganewplaceofredemptionandre-inventionofoneself-theRightto
+Be Forgotten remains controversial in the U.S., with a low probability that the legislators
+deviseasimilarlegalframeworkdueitsarguedunconstitutionalitywithrespecttotheFirst
+Amendment rights. Quoting on the court ruling of Time Inc. v. Hill, a good summary of
+theAmericanattitudetowardsthisrightisthat“Theriskofexposureisanessentialincident
+oflifeinasocietywhichplacesaprimaryvalueonfreedomofspeechandofpress”.67
+However, even though the U.S. does not have a similar regulation for data controllers,
+American companies whose primary business model relies on personal data processing
+are required to comply to the G.D.P.R. as long as they serve to E.U. citizens or operate
+in the E.U. This has led to a general increase of awareness of the legal and ethical issues
+fromboththecustomersandprovidersside,inadditiontoencouragingabiggerdiscussion
+of data hygiene, organization, mindfulness, accountability, and risks. Though, the critics
+believe that this is not enough, and that “if America continues on today’s path, it will fail
+toprotecttheprivacyofitscitizensandlong-termhealthofitsﬁrms”.68
+Even though the G.D.P.R. is a very comprehensive set of regulations for data protec-
+tion in the E.U., when it comes to the Right to Be Forgotten, there are still a lot of open
+challenges that come with the rapid development of technological tools, for which there
+is no obvious legal solution that is general enough to work agnostically with any kind of
+onlineserviceprovidersandkeepupwithadversarialmethodsthatcouldpotentiallyantag-
+onize digital redemption and forgetfulness. However, there exist non-legal solutions that
+accommodate both sides of the central debate in the U.S. and ensure a sustainable future
+for online users’ seeking data erasure, as well as for service providers wishing to maintain
+theirbusinessobjectivesbykeepingtheircustomershappyandappreciated.
+67. Time,Inc.v.Hill,1967,374.
+68. “AmericashouldborrowfromEurope’sdata-privacylaw.”14-Dec-18] ANANALYSISFROMANAMERICANPERSPECTIVE 19
+REFERENCES
+Ambrose, Meg Leta, and Jef Ausloos. “The right to be forgotten across the pond.” Journal
+ofInformationPolicy3(2013):1–23.
+An act to amend the civil rights law and the civil practice law and rules, in relation to
+creating the right to be forgotten act no A05323. The New York State Assembly,
+2017.
+An act to amend the civil rights law and the civil practice law and rules, in relation to
+creatingtherighttobeforgottenactnoS04561.TheNewYorkStateSenate,2017.
+Arkin, Brad. “Important Customer Security Announcement.” October 2013. https://theblo
+g.adobe.com/important-customer-security-announcement/.
+BankruptcyCodeoftheUnitedStatesofAmerica:containedinTitle11oftheUnitedStates
+Code.http://uscode.house.gov/browse/prelim@title11.
+Berman, Seth P. “GDPR in the U.S.: Be Careful What You Wish For.” May 2018. http:
+//www.govtech.com/analysis/GDPR-in-the-US-Be-Careful-What-You-Wish-
+For.html.
+Briscoev.Reader’sDigestAssociation,Inc.,1971.
+CaliforniaConsumerPrivacyActno1798.100.AB-375(2017-2018Session).2018.
+CommunicationsDecencyActoftheUnitedStatesofAmerica:containedinTitle47ofthe
+UnitedStatesCode.http://uscode.house.gov/browse/prelim@title47.
+Copyright law of the United States of America: contained in Title 17 of the United States
+Code. Library of Congress, U.S. Copyright Ofﬁce. http://uscode.house.gov/browse/
+prelim@title17.
+Council of European Union. Directive 95/46/EC, 1995. https://eur-lex.europa.eu/LexUri
+Serv/LexUriServ.do?uri=CELEX:31995L0046:en:HTML.20 THERIGHTTOBEFORGOTTEN [14-Dec-18
+“Europe: 1, Google: 0: EU Court Ruling a Victory for Privacy.” Der Spiegel, May 2014.
+http://www.spiegel.de/international/business/court-imposes-right-to-be-forgotten-
+on-google-search-results-a-970419.html.
+“Derecho al olvido.” El Pa´ıs, May 2014. https://elpais.com/elpais/2014/05/13/opinion/
+1400007067 055407.html.
+Estillv.HearstPublishingCo.,1951.
+“The History of the General Data Protection Regulation.” https://edps.europa.eu/data-
+protection/data-protection/legislation/history-general-data-protection-regulation en.
+“Regulation(EU)2016/679oftheEuropeanParliamentandoftheCouncilof27April2016
+ontheprotectionofnaturalpersonswithregardtotheprocessingofpersonaldataand
+on the free movement of such data, and repealing Directive 95/46/EC (General Data
+Protection Regulation).” Ofﬁcial Journal of the European Union L119 (May 2016):
+1–88.http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2016:119:TOC.
+FairCreditReportingActno91-508.The91stUnitedStatesCongress,1970.
+Fincham, Frank D, Julie H Hall, and Steven RH Beach. “Til lack of forgiveness doth us
+part:Forgivenessinmarriage.”Handbookofforgiveness,2005,207–226.
+Fleischer,Peter.“FoggythinkingabouttheRighttoOblivion.”March2011.http://peterfle
+ischer.blogspot.com/2011/03/foggy-thinking-about-right-to-oblivion.html.
+“ForgettingMadeImpossible.”InCtrl+Z:TheRighttoBeForgotten,byMegLetaJones,
+55–80. NYU Press, 2016. ISBN: 9781479881703. http://www.jstor.org/stable/j.
+ctt1803zhx.6.
+GoogleSpainSL,GoogleInc.v.AgenciaEspan˜oladeProteccio´ndeDatos,MarioCosteja
+Gonza´lez,2014.14-Dec-18] ANANALYSISFROMANAMERICANPERSPECTIVE 21
+Graham-Harrison,Emma,andCaroleCadwalladr.“Revealed:50millionFacebookproﬁles
+harvested for Cambridge Analytica in major data breach.” March 2018. https://www.
+theguardian.com/news/2018/mar/17/cambridge-analytica-facebook-influence-us-
+election.
+Gressin, Seena. “The Equifax Data Breach: What to Do.” September 2017. https://www.
+consumer.ftc.gov/blog/2017/09/equifax-data-breach-what-do.
+Gymrek,Melissa,AmyL.McGuire,DavidGolan,EranHalperin,andYanivErlich.“Iden-
+tifying Personal Genomes by Surname Inference.” Science 339, no. 6117 (2013):
+321–324. ISSN: 0036-8075. doi:10.1126/science.1229566. eprint: http://science.
+sciencemag.org/content/339/6117/321.full.pdf. http://science.sciencemag.org/
+content/339/6117/321.
+Hendel,John.“WhyJournalistsShouldn’tFearEurope’s’RighttobeForgotten’.”January
+2012. https://www.theatlantic.com/technology/archive/2012/01/why-journalists-
+shouldnt-fear-europes-right-to-be-forgotten/251955/.
+House, The White. Consumer Data Privacy in a Networked World: A Framework for Pro-
+tecting Privacy and Promoting Innovation in the Global Digital Economy. February
+2012.
+Kelly,Gordon.“eBaySuffersMassiveSecurityBreach,AllUsersMustChangeTheirPass-
+words.” May 2014. https://www.forbes.com/sites/gordonkelly/2014/05/21/ebay-
+suffers-massive-security-breach-all-users-must-their-change-passwords/.
+“”Droita` l’oubli”surInternet:unechartesigne´esansGoogleniFacebook.”October2010.
+https://www.lemonde.fr/technologies/article/2010/10/13/droit-a-l-oubli-sur-internet-
+une-charte-signee-sans-google-ni-facebook 1425667 651865.html.
+LibertyLobby,Inc.v.Pearson,1967.
+Melvinv.Reid,1931.22 THERIGHTTOBEFORGOTTEN [14-Dec-18
+Narayanan, Arvind, and Vitaly Shmatikov. “How to break anonymity of the netﬂix prize
+dataset.”arXivpreprintcs/0610105,2006.
+.“Robustde-anonymizationoflargesparsedatasets.”InSecurityandPrivacy,2008.
+SP2008.IEEESymposiumon,111–125.IEEE,2008.
+Perlroth,Nicole.“YahooSaysHackersStoleDataon500MillionUsersin2014.”Septem-
+ber2016.https://www.nytimes.com/2016/09/23/technology/yahoo-hackers.html.
+Perryv.ColumbiaBroadcastingSystem,Inc.,1974.
+PrivacyActno93-579.88Stat.1896.The93rdUnitedStatesCongress,1974.
+Prosser,WilliamL.Lawoftorts.1971.
+Reding, Viviane. The EU Data Protection Reform 2012: Making Europe the Standard Set-
+terforModernDataProtectionRulesintheDigitalAge,January2012.http://europa.
+eu/rapid/press-release SPEECH-12-26 en.pdf.
+Rusbult,CarylE,PeggyAHannon,ShevaunLStocker,andEliJFinkel.“Forgivenessand
+relationalrepair.”Handbookofforgiveness,2005,185–205.
+Sant´ın, Marina. “The problem of the right to be forgotten from the perspective of self-
+regulation in journalism.” El profesional de la informacio´n (EPI) 26, no. 2 (2017):
+303–310.
+Sasso, Brendan. “Obama’s Privacy Bill of Rights Gets Bashed from All Sides.” February
+2015. https://www.theatlantic.com/politics/archive/2015/02/obamas-privacy-bill-of-
+rights-gets-bashed-from-all-sides/456576/.
+Sidisv.FRPub.Corporation,1940.
+“SnapInc.”http://www.snap.com/.
+Streetv.NationalBroadcastingCo.,1981.14-Dec-18] ANANALYSISFROMANAMERICANPERSPECTIVE 23
+The Committee’s opinion on the European Union Data Protection framework proposals.
+1:33–34.2012.https://publications.parliament.uk/pa/cm201213/cmselect/cmjust/572/
+572.pdf.
+“America should borrow from Europe’s data-privacy law.” April 2018. https://www.econ
+omist.com/leaders/2018/04/05/america-should-borrow-from-europes-data-privacy-
+law.
+“Ordering Google to Forget.” The New York Times, May 2014. https://www.nytimes.com/
+2014/05/14/opinion/ordering-google-to-forget.html? r=0.
+, February 2015. https://www.intelligencesquaredus.org/debates/us-should-adopt-right-
+be-forgotten-online.
+Time,Inc.v.Hill,1967.
+Voigt, Paul. “The compliance burden under the GDPR.” September 2016. https://global
+datahub.taylorwessing.com/article/the-compliance-burden-under-the-gdpr-data-
+protection-officers.
+Volokh,Eugene.“N.Y.billwouldrequirepeopletoremove’inaccurate,’’irrelevant,’’inad-
+equate’ or ’excessive’ statements about others.” March 2017. https://www.washingto
+npost.com/news/volokh-conspiracy/wp/2017/03/15/n-y-bill-would-require-people-
+to-remove-inaccurate-irrelevant-inadequate-or-excessive-statements-about-others.
+Warren, Samuel D, and Louis D Brandeis. “The right to privacy.” Harvard law review,
+1890,193–220.

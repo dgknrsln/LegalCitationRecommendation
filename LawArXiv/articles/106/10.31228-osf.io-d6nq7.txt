@@ -1,0 +1,926 @@
+PhilosStud
+https://doi.org/10.1007/s11098-020-01521-z
+Legal proof and statistical conjunctions
+Lewis D. Ross1
+(cid:2)TheAuthor(s)2020
+Abstract A question, long discussed by legal scholars, has recently provoked a
+considerable amount of philosophical attention: ‘Is it ever appropriate to base a
+legal verdict on statistical evidence alone?’ Many philosophers who have consid-
+eredthisquestionrejectlegalrelianceonbarestatistics,evenwhentheoddsoferror
+are extremely low. This paper develops a puzzle for the dominant theories con-
+cerningwhyweshouldeschewbarestatistics.Namely,thereseemtobecompelling
+scenarios in which there are multiple sources of incriminating statistical evidence.
+As we conjoin together different types of statistical evidence, it becomes increas-
+inglyincredibletosupposethatapositiveverdictwouldbeimpermissible.Isuggest
+that none of the dominant views in the literature can easily accommodate such
+cases, and close by offering a diagnosis of my own.
+Keywords Proof paradox (cid:2) Legal proof (cid:2) Statistical evidence (cid:2) Blue Bus problem (cid:2)
+Legal epistemology (cid:2) DNA (cid:2) Philosophy of law
+1 Introduction
+A question, long discussed by legal scholars, has recently provoked a considerable
+amount of philosophical attention: ‘Is it ever appropriate to base a legal verdict on
+statistical evidence alone?’ The dominant view is that merely statistical evidence
+& LewisD.Ross
+L.ross2@lse.ac.uk
+1 DepartmentofPhilosophy,Logic,andScientiﬁcMethod,LondonSchoolofEconomics,
+LakatosBuilding,PortugalStreet,Holborn,London,UK
+123L.D.Ross
+cannot provide a proper basis for a legal verdict, even when the odds of error are
+extremely low.1
+Here are some classic cases—sometimes referred to as ‘proof-paradoxical’
+scenarios2—which illustrate the intuitive case against imposing sanctions on the
+basis of bare statistics:
+BlueBus.Abusnegligentlycausesinjurytoapedestrian,butitisnotknownwhich
+companythebusbelongsto.Ontheroutewheretheaccidentoccurred,theBlue
+BusCompanyruns75%ofthebuses.Thereisnofurtherinformationavailableto
+settlewhichcompanythebusbelongsto.[AdaptedfromTribe1971].
+Gatecrasher. The organizers of the local rodeo decide to sue John for
+gatecrashing their event. Their evidence is as follows: John attended the
+Sunday afternoon event—he was seen and photographed on the main ranks
+duringtheevent.Noticketswereissued,soJohncannotbeexpectedtoprove
+that he bought a ticket with a ticket stub. However, while 1000 people were
+counted inthe seats, only300paid for admission. [Presentation adaptedfrom
+Blome-Tillmann forthcoming; original case due to Cohen 1977]
+Prisoners. One hundred prisoners are exercising in the prison yard. Ninety-
+nine of them suddenly join in a planned attack on a prison guard; the
+hundredthprisonerplaysnopart.Thereisnoevidenceavailabletoshowwho
+joined in and who did not. [Adapted from Redmayne 2008]
+The‘standard’intuitionisthatitwouldnotbeappropriateinthese casestoimpose
+civil or criminal sanctionson the basisof the inculpatory statisticalevidence. Such
+intuitions raise issues with important theoretical and practical ramiﬁcations for the
+law. The question of how to treat bare statistics impinges upon debates about the
+nature oflegalproofitself,3whetheritisacceptabletoconvictsomeone ofacrime
+simply on the basis of DNA evidence,4 how we should treat epidemiological
+evidence,5 and the impermissibility of demographic proﬁling.6 And these cases are
+not as artiﬁcial as one might initially suppose: the Blue Bus case has found close
+analogues in real case-law.7
+1 Manyviewsarecategorical.However,someextantviewsallow,oraresilentabout,theuseofbare
+statisticsincertainrestrictedcircumstances.IprovideacomprehensiveliteraturesurveyinSect.4.Fora
+succinct overview of contemporary debate, see Ross (2020a). Pardo (2019) provides a helpful
+introductiontotheproofparadoxalongsideotherlegalparadoxes.
+2 Foraplethoraofotherexamples,seeGardiner(2018).
+3 Somesupposethataversiontobarestatisticsthreatens‘legalprobabilism’,theideathatproofrequires
+establishing a claim to a given level of probability. For contrasting perspectives, see Haack (2014),
+HeddenandColyvan(2019)andSmith(2020).However,onecanarguablyrejecttheuseofbarestatistics
+withoutrejectinglegalprobabilism:wecanjustifytenetsofevidencelawthatexcludeorrestrictcertain
+classesofevidencewithoutappealingtoanyparticularviewofthenatureoflegalproof.
+4 Forexample,seeRv.Lashley[2000]EWCA88;WilsonvDPP2017IESC54;StatevToomes191
+S.W.3d122,129forrepresentativecasesfromdifferentjurisdictions.
+5 SeeRoss(ms)fordiscussion.
+6 E.g.seeBolinger(2018)foranexplicitconnectionbetweentheBlueBuscaseandissuessurrounding
+racialproﬁling.DiBelloandO’Neill(2020)providefurtherdiscussion.
+7 E.g.seeKaminskyv.HertzCorporation,288N.W.2d426.
+123Legalproofandstatisticalconjunctions
+Theaimofthispaperistodevelopapuzzleforthedominantviewthatweshould
+reject bare statistics in the courtroom. The puzzle is that there seem to be
+compellingscenariosinwhichtherearemultipleincriminatingsourcesofstatistical
+evidence. As we conjoin together different types of statistical evidence, it becomes
+increasingly incredible to suppose that a positive verdict would be impermissible.
+This suggests that whatever is wrong with the evidence in familiar proof-
+paradoxicalcasescannotsimplybeexplainedbygesturingatthestatisticalnatureof
+theevidenceinvolved.Todeepenthepuzzle,Ishowthatfourdominantapproaches
+in the literature struggle to draw a principled distinction between regular proof-
+paradoxical scenarios and those involving statistical conjunctions. I close by
+outlining my own view on what explains the intuitive difference between these
+cases,drawingontheempiricallysupported‘storymodel’oflegalfact-ﬁnding,and
+offer some reﬂections on where this leaves the state of the wider debate.
+2 Civil law
+Let’s begin with civil law cases, canonicallyrepresented by the Blue Bus scenario.
+Given that the operative standard of proof in civil law is the ‘balance of
+probabilities’ (sometimes called ‘preponderance of the evidence’), a reluctance to
+impose sanctions here is prima facie puzzling: surely it is more probable than not
+that the Blue Company caused the accident? Even though, conceptually, it seems
+liketheevidenceshouldstraightforwardlysatisfytherelevantstandardofproof,itis
+widely held that intuition baulks at this conclusion. Hence, there is apparently
+something amiss with the prospect of using mere statistics to settle a civil case.8
+Iwanttosuggestthatourintuitionsaboutthelegalimpotenceofpurelystatistical
+evidence are not stable when we introduce multiple sources of statistical evidence.
+The end result will be a case in which the total body of evidence seems to remain
+purely statistical, but in which sanctioning the Blue Company is compelling.
+ConsiderthefollowingvariationonBlueBus,involvingoneadditionalsourceof
+statistical evidence.
+Blue Bus2: A bus causes injury to a pedestrian, but it is not known which
+company the bus belongs to. On the route where the accident occurred, the
+BlueCompanyruns75%ofthebusesandtheRedCompany25%ofthebuses.
+Fresh tyre-marks are found at the scene of the accident that an investigator’s
+uncontested report states were caused by the offending vehicle. All parties
+agree these could only be made by a certain brand of bus tyre. A recent
+insurance application form shows that 90% of the Blue Company buses have
+that brand of tyre, while only 5% of Red Company buses do.
+The inculpatory evidence in this case remains purely statistical—the ﬁnding of the
+tyre-marks is only relevant insofar as presented alongside the reference-class (all
+buses) and probability (90%) linking these marks to the Blue Company. The
+8 Fordissenttohostilitytowardsstatisticsinthecivildomain,seeKrauss(2020).
+123L.D.Ross
+impermissibility of holding the Blue Company liable is surely less obvious in this
+variation. After all, we must remember that choosing not to sanction leaves the
+injured pedestrian without compensation. Still, you may not be convinced that the
+evidence is yet strong enough for sanction. Nonetheless, it is apparent that we can
+continue devising additional sources of statistical evidence and adding them to the
+case. Consider a third variation:
+Blue Bus3: A bus causes injury to a pedestrian, but it is not known which
+company the bus belongs to. On the route where the accident occurred, the
+BlueCompanyruns75%ofthebusesandtheRedCompany25%ofthebuses.
+Fresh tyre-marks are found at the scene of the accident that an investigator’s
+uncontested report states were caused by the offending vehicle. All parties
+agree these could only be made by a certain brand of bus tyre. A recent
+insurance application form shows that 90% of the Blue Company buses have
+the implicated brand of bus tyre, while only 5% of Red Company buses do.
+Moreover, police ﬁnd a bus hubcap on the road immediately after the crash.
+Only 2% of the Red Company buses were recorded as having the implicated
+brand of hubcap, while 96% of Blue Company buses have it.
+Suppose there is no known correlation between having the implicated hubcap and
+tyre, and that neither party adduces evidence about how many buses belonging to
+each company have both. Would it be impermissible to rule against the Blue
+Companyonthebalanceofprobabilities,leavingthevictimoftheaccidentwithout
+compensation? I think that this is hard to accept. However, if you are not yet
+convinced, we can repeat the same strategy, continuing to Blue Busn, conjoining
+ever more sources of inculpatory statistical evidence. The end result would be a
+bodyofevidenceaboutwhichadefendinglawyercouldforcetheconcessionthatit
+was all merely statistical, but where it becomes extremely difﬁcult to suppose,
+especially since proof-paradoxical cases never involve exculpatory evidence being
+offered,thatthecaseshouldnotwinthedayonthebalanceofprobabilitiesstandard
+ofcivilproof.Tomaintainuniformhostilitytostatisticalevidence,youwouldhave
+toholdthatthereisnovariationoftheBlueBuscaseinthisveinthatcouldlicense
+ﬁnding against the Blue Company. Such a position, leaving the victim of a
+negligently-caused accident uncompensated in order to preserve hostility to
+statistical evidence is difﬁcult to motivate.
+3 Criminal law
+To begin the discussion of criminal law, we need to ﬁrst brieﬂy dwell on the
+connection between the debate on bare statistical evidence and DNA proﬁling.
+When evaluating DNA evidence, courts rely entirely on a statistical estimate,
+provided by a forensic scientist, concerning the probability that the incriminating
+sample (blood, semen, hair, etc. found at a crime-scene) belongs to the accused
+person. The reason that a statistical estimate is provided rather than an outright
+assertionofamatchisthatitiswell-understoodthat,giventhelimitationsofDNA
+samplingtechniques,thereisalwaysthechanceofarandommatch.Inotherwords,
+123Legalproofandstatisticalconjunctions
+giventhelevelofdetailprovidedbyDNAproﬁlingtechniques,itispossiblethatthe
+allele-characteristics of the incriminating sample, while very similar to those
+belonging to the accused, may in fact belong to some other person. Extremely
+improbable although it may be, apparent DNA matches can turn out to be pure
+coincidences.
+With this in mind, it is not unusual for there to be cases that ﬁt the following
+mould:
+DNA:Someoneissexuallyassaultedinasecludedpark.Theycannotprovide
+an account of the attacker’s appearance. DNA evidence from the crime
+matchesthatofsomeoneonﬁleforsomeunrelatedreason.Theincriminating
+evidenceisthefollowing:aforensicscientistestimatesthechanceoftheDNA
+notbelongingtothatpersontobe1intenmillion.[AdaptedfromRoss2020b]
+How should we react to such cases? There is currently no consensus on this
+question. Both courts and legal scholars have been much more sympathetic to the
+legitimacy of cold hit convictions than philosophical commentators.9 Within the
+philosophicalliterature,anumberoftheoristshaveexplicitlyextendedtheirgeneral
+antipathy towards bare statistical evidence to endorse an outright rejection of cold
+hit DNA convictions, and suspicion of conviction in such cases follows implicitly
+frommanyextantviews.10Iwillreturntotheseviewsbelowinmoredepth.Firstly,
+however, I want to demonstrate that, just as with the civil law, there are statistical
+conjunctioncases inthecriminal lawthatmakeforbearingfromconvictionhardto
+accept. Consider a conjunction of a standard ‘proof-paradoxical’ case introduced
+earlier, and an apparent DNA proﬁle match.
+Prisoners & DNA: 100 prisoners are exercisingin the prison yard. Extremely
+grainy CCTV footage shows that 99 of them attack and kill the guard. The
+100th prisoner played no role in the assault and could have done nothing to
+stop it. From the footage it is impossible to distinguish which prisoners were
+involved. The 99 murderers escape in one direction and, some time later, the
+100th prisoner escapes in a different direction. One prisoner is recaptured.
+Upon testing, it is found that his DNA matches the most dominant DNA
+proﬁle found on a discarded switch-blade at the scene of the murder. The
+forensic scientist estimates the chance of a random match as 1 in ten million.
+Ithinkitishardtoacceptthatitwouldbeimpermissibleforajurytoconvictinsuch
+acase.Again,though,intuitionsmayvary.Nonetheless, aswiththecivilcase,itis
+9 SeeRoth(2010)forawide-rangingdiscussionofthelaw.Itisworthstressingthatthecase-lawisnot
+unequivocal. On the philosophical side of the debate, Ross (2020b) and Papineau (2020) offer some
+dissentfromphilosophicalscepticismaboutbarestatisticsincriminallaw,whileDiBello(2019)offersa
+decision-theoreticargumentthatvindicatesconvictioninDNAcases,butnotinshort-oddsproofparadox
+cases.
+10 Forexample,seetheworkofDuncanPritchardandMartinSmith.Whenweexamineotherextant
+viewsbelowinSect.4,itwillbeapparentwhymanypopulartheoriesareimplicitlyhostiletocold-hit
+DNAconvictionseveniftheiroriginalproponentsdonotconsiderthem.
+123L.D.Ross
+entirely possible to continue the general strategy of conjoining further sources of
+statistical evidence to strengthen the case against the accused.
+While some such further variations in the vein of Prisoners & DNA would
+doubtless be far-fetched, there are conceivable examples that would draw upon
+entirely familiar sources of evidence. Consider the following quote from two
+leading legal scholars about other types of forensic evidence such as ﬁngerprints:
+All forensic identiﬁcation methods are probabilistic in nature. Traditional
+forensic examiners, such as ﬁngerprint examiners, may treat their matches as
+unique, but as many have pointed out, such declarations of individualisation
+areﬁctive.TheGaltonpointsofaﬁngerprint,thecharacteristicsofaperson’s
+handwriting and the striations of a ballistics match all have underlying
+population statistics, just like a DNA genotype […]. The fact that the
+defendant’s ﬁngerprint, handwriting or gun ‘matches’ makes it more likely
+that the defendant was the source, but the inference is still probabilistic.
+[Cheng and Nunn 2016: 118]
+Itisworthstressingthatnotalltypesofforensicevidencearecurrentlypresentedin
+court in the same statistical way as apparent DNA matches. Fingerprint evidence,
+for instance, is usually presented in a non-statistical way—an expert identiﬁer uses
+their experience and intuition to testify as to whether two samples, in their view,
+upon examining similarities in ridge-patterns, were made by the same person.11
+However,thispracticehascomeinforafairdegreeofcriticism.Thesubjectivityof
+ﬁngerprint examination, according to some commentators, compares disfavourably
+with the rigorous modelling techniques used to generate DNA match estimates.
+Moreover, some high-proﬁle false positives provide grounds to suppose that such
+qualitative presentations are much less reliable than is often supposed. This debate
+is not my primary concern here. Rather, I simply want to note that one reasonable
+waythatithasbeensuggestedthatwerespondtosuchchallengesistoadvocatethat
+ﬁngerprint evidence should instead be presented in quantitative way, more in line
+with the way that a forensic scientist treats DNA evidence—namely by offering a
+statistical estimate about the probability of the incriminating sample matching the
+prints of the suspect.12 While we do not yet have widely agreed upon statistical
+models concerning the likelihood of random ﬁngerprint matches, there has been
+work in this direction and it is entirely conceivable that such a statistical estimate
+could become the norm for presentingﬁngerprintevidence,taking intoaccountthe
+estimated possibility of a random match.13
+If this is a conceivable courtroom practice, as it surely is, then this raises the
+possibility of statistical conjunction cases involving DNA, ﬁngerprints, and other
+forms of forensic evidence arrayed together to make an insurmountable case for
+11 See,forexample,Zabell(2005)orEvettandWilliams(2015)formethodologicaldiscussion.
+12 Zabellibid.provideswide-rangingdiscussionofthelimitationsofﬁngerprintevidenceandhowthe
+practicessurroundingitmightbeimproved.
+13 E.g.see Zhuetal.(2007)foronesuchattempt.Asfaras Iunderstandthemodel,thechanceofa
+randommatchwasestimatedat1in400,000.Thisispurelyillustrativeformyargument,nothingdepends
+ontheexactﬁgures.
+123Legalproofandstatisticalconjunctions
+conviction, even though they are being presented in a purely statistical way.14 I
+leave the exact details of these cases to the reader’s imagination—but, surely, it is
+hard to accept that the conjunction of such evidence, including ﬁngerprints and
+DNA, could never appropriately undergird a criminal conviction. The upshot is a
+simple one: if we accept that some cases involving conjoined sources of statistical
+evidence can license sanction, we cannot simply suppose that the statistical nature
+oftheevidence involved iswhatexplainsintuitivereluctancetosanctionintypical
+proof-paradoxical cases.15
+4 Four diagnoses of the proof paradox
+The intuitive bad-standing of bare statistics, widely highlighted by philosophers
+commentating on the law, can seemingly be disrupted upon considering cases
+involving multiple sources of statistical evidence. In these cases, the imposition of
+sanctionsseemstoberathercompelling.Letusnowturntoconsiderthetheoretical
+importance of this ﬁnding.
+Thedebatesurroundingstatisticalevidenceinthelawcontainsastrikinglacuna:
+thereisnowidelyagreedstatementofwhatmakesevidence‘merelystatistical’.For
+example, one recent paper, coming at an advanced point in the dialectic between
+two competing theories, states:
+Howdowe,then,deﬁnestatisticalevidence?Wedon’t.We—again,inaway
+that’s consistent with the theoretical literature on statistical evidence—start
+with the examples. They clearly capture something intuitively important. We
+then try to understand the relevant phenomena better. If we’re fortunate, we
+mayendupwithadeﬁnition,orananalysis.Orwemaynot[…]wemayneed
+tosettleforan‘‘Ican’tdeﬁneit,butIknowitwhenIseeit’’attitude.[Enoch
+and Spectre 2019: 184]
+The assumption in my discussion so far has been that taking one piece of
+uncontroversially statistical evidence—where the incriminating element consists
+only in the probability of the defending party possessing some inculpatory
+characteristicrelativetosomereference-class—andconjoiningitwithanotherpiece
+ofuncontroversiallystatisticalevidence,stillleavesuswithatotalbodyofevidence
+which remains merely statistical.
+Onepossibilityisthatabodyofevidenceinvolvingmultiplesourcesofstatistics
+possesses some normatively important property which elevates it above the merely
+statisticalevidencefoundinregularproof-paradoxicalcases.Itiscertainlytruethat
+insomelocalcontexts,multiplesourcesofstatisticalevidencecanhaveadistinctive
+14 Di Bello (forthcoming) provides helpful discussion of ﬁngerprint evidence in relation to the proof
+paradoxandMartinSmith’sdiagnosisofwhyweshouldeschewbarestatistics.
+15 Itisworthmentioningthatitwouldbestrangeifahostilitytobarestatisticsledtotheperversetactical
+incentiveinthecourtroomwherebyforensicevidencecouldrightfullyleadtoaconvictionifpresentedin
+aqualitativewaybuttheverysameevidencecouldnotrightfullyleadtoaconvictionifpresentedina
+quantitativeway.
+123L.D.Ross
+justiﬁcatory effect—for instance, having multiple sources of statistical evidence
+may reassure us that the incriminating evidence does not exist merely due
+to malpractice (e.g. police misconduct) or incompetence (e.g. forensic contamina-
+tion). But this cannot be the whole story. After all, in cases like the Blue Bus
+scenario, incompetence and malpractice are not at issue. They can even be
+stipulated out of the case. What we need is a more general explanation for why
+intuitions seem to differ between the multiple-source cases outlined above and the
+more familiar proof-paradoxical scenarios with which we started the paper. I will
+now consider four dominant theories aiming to explain what is wrong with relying
+upon bare statistics and will suggest that none of them can offer a straightforward
+explanationforwhycasesinvolvingmultiplesourcesofstatisticalevidenceseemto
+call for different treatment.
+The four types of theory I will consider are the following:16
+1. Epistemic diagnoses argue that bare statistics fail to confer some important
+epistemic property—e.g. justiﬁcation, knowledgeability, safety, etc.—onto
+legal verdicts.
+2. Moral and justice-based approaches argue that relying on bare statistics
+frustrates non-epistemic normative constraints on evidence law: e.g. back-
+wards-looking considerations such as respect for autonomy or due process, or
+forward-looking considerations- such as ensuring legal rules have the proper
+incentivising effect.
+3. Likelihoodtheoriesargue thatlegal proof shouldbe understoodinterms ofthe
+comparative likelihoodofcompeting accounts,ratherthan interms ofabsolute
+probabilities.
+4. ‘Phase change’ approaches argue that bare statistical evidence becomes
+acceptable only when the chance of error crosses some threshold of extreme
+improbability.
+4.1 Epistemic approaches
+Epistemic approaches to the proof paradox aim to identify some epistemic
+deﬁciency in bare statistical evidence. There are now a number of such theories,
+appealing to the absence of different epistemic properties. It is beyond a single
+paper to critique the details of each epistemic view in addition to discussing other
+theories, so I will here take a more general approach. I will outline and focus on a
+motivating analogy characteristic of epistemic views: the comparison between the
+proof paradox and lottery cases. A consideration of this motivating analogy will
+justify some scepticism about whether epistemic views can explain the difference
+between regular proof-paradoxical cases and those involving statistical
+conjunctions.
+16 Theseapproachesmayoverlap.Forinstance,onemightarguethatthereasonthatcertainepistemic
+properties are important is because rules promoting them align with the proper moral constraints on
+evidencelaw.Indeed,asdiscussedbelow,Enochetal.(2012)reliesonpreciselythisidea.
+123Legalproofandstatisticalconjunctions
+Epistemologistshavelongbeenconcernedwithstatisticalevidenceintheformof
+‘lottery propositions’, with an orthodoxy being that the highly probabilifying
+evidence supporting the proposition ‘I will lose a fair and large lottery’ fails to
+confer certain epistemic propertiesonto abeliefinthatproposition.Forinstance,it
+hasbeenpopulartosupposethat,evenifitisstupendouslylikely,onecannotknow
+that one’s lottery ticket is a loser (e.g. Williamson 2000), while others suggest that
+one lacks certain types of justiﬁcation to believe that one’s ticket is a loser (e.g.
+Smith2016).Thisisapuzzlingphenomenoninitsownright:ifIcan’tknowthatI
+will lose a ten million ticket lottery, how can I claim to know many ordinary
+propositions about which I may be fallible? There has been a great deal of
+sophisticated work devoted to exploring the ramiﬁcations of lottery cases for
+normative epistemological theorising.
+It has been widely noted by proponents of epistemic approaches to the proof
+paradoxthatthesescenarios bear astriking resemblance tolotterycases.While the
+evidence we have in unadorned proof-paradoxical scenarios is highly probabilify-
+ing, there nonetheless seems to be something unsatisfactory about endorsing it by
+issuingapositivelegalverdict,justaswhiletheevidencewehavethatwewilllose
+a large fair lottery is highly probabilifying, there seems to be something
+unsatisfactory about (say) asserting or claiming to know that you have lost. Given
+the similarity between proof-paradoxical cases and lottery scenarios, a number of
+leading epistemologists have attempted to explain the inadequacy of statistical
+evidence in the law with recourse to epistemic properties typically thought to be
+absent in lottery cases.17 Some explanations appeal directly to the absence of
+knowledge (e.g. Moss 2016; forthcoming, Blome-Tillmann 2017, Littlejohn 2018)
+or certain types of justiﬁcation (e.g. Smith’s 2018 normic theory of justiﬁcation),
+while others appeal to epistemic properties that have been defended as conditions
+for having knowledge or justiﬁcation such as: sensitivity (e.g. Enoch et al. 2012),
+safety(Pritchard2015;2018,Pardo2018),ortheeliminationofrelevantalternative
+error-possibilities(Gardiner2020).Withinthiswork,theanalogywithlotterycases
+is often an explicit part of the argumentation.18
+Totheextentthatepistemicapproachesaremotivatedbyaguidinganalogywith
+lottery cases, they appear to face a difﬁcult task to legitimise sanction in statistical
+conjunction cases.
+Firstly, epistemic approaches obviously cannot appeal to the fact that mistakes
+are less likely in statistical conjunction cases. After all, from the perspective of
+epistemologicaltheorising,itisnotusuallytakentomatterifthechanceofwinning
+a lotteryis merely low or extremely low.19 For example, whethera lottery has 100
+tickets or 1,000,000 tickets is not often supposed to make a difference when it
+comes to the various epistemic properties found in diagnoses of the impotence of
+17 SeeBackes(2019)foradiscussionoftheotherdirection:usinglegalcasesasevidencefortheoriesin
+epistemology.
+18 Inadditiontothepaperscitedin-text,seeBuchak(2014)foranearlyinﬂuentialendorsementofthis
+analogy.
+19 Forempiricalstudyofattitudestowardslotterypropositionsunderdifferentconditions,seeEbertetal.
+(2018).
+123L.D.Ross
+statistical evidence: even the evidence provided by a truly massive lottery will not
+make the belief that one has a losing ticket sensitive (one would have the same
+belief even if one had a winning ticket), safe (there is a close counterfactual
+possibility in which one has won), it will not eliminate a salient error-possibility
+(i.e.thatonehasawinningticket),andnorwillitprovidenormicjustiﬁcationtothe
+beliefthatonehasalosingticket(itwouldnotbeabnormalinthesenseofrequiring
+special explanation if one had a winning ticket). And, standardly, nor would one
+know that one had a losing ticket just by playing a very large lottery.
+A more plausible response would emphasise the epistemic signiﬁcance of there
+beingmorethanonesourceofevidenceinthestatisticalconjunctioncases.Thereis,
+after all, no doubt that having more than one source of evidence is typically an
+epistemically good-making feature of a belief. However, as we are stipulating that
+the additional evidence remains purely statistical, it is in fact no easy task for
+epistemic views to explain why there is a qualitative difference between cases
+involving one inculpatory statistic and multiple inculpatory statistics. To see this,
+consider that is possible to derive familiar epistemic results about the absence of
+knowledge—and all of the other epistemic properties mentioned—by considering
+scenariosinvolving multiple lotteries(i.e. Ido notknow thatI won’t win lottery1,
+lottery 2, or lottery 3). As John Hawthorne explains, our intuitions about multiple
+lotteriesmayinitiallydifferfromthosewehaveaboutmorefamiliarcasesinvolving
+asinglelottery,butthesearehardtodefendwhensubjectedtosustainedreﬂection:
+It is relatively easy to get ourselves in the frame of mind where we reckon
+ourselvestoknowthatwewillnotwintheNewYorkStatelotteryeachofthe
+nextthirtyyears(evenifweexpecttobuyaticketeachyear).Justaskpeople.
+They will happily claim to know that that will not happen. Now of course,
+with a little cognitive effort, that attitude can be disrupted. Suppose, using
+normal statistical calculations, the chance of winning the New York Lottery
+eachofthenextthirtyyearswas1inn.Wemightpointouttosomeonethatif
+he had a ticket in one great big lottery with n tickets, he would not reckon
+himselfabletoknowhewouldloseinthatcase.Intuitionswouldthenswitch.
+[Hawthorne 2003: 20]
+Hawthorne’s point can be seen even more clearly if we compare huge single
+lotteries with repeated iterations of smaller lotteries. It would be puzzling, if not
+implausible, if our best epistemological theory had the result that we cannot gain
+(say) knowledge that we have lost a lottery involving ten million players, but
+thought that we could know that we have lost three consecutive lotteries each only
+involving100players.Enteringmultiplelotteriesofdifferingsizesdoesprovideus
+with different sources of statistical evidence concerning lottery-relevant proposi-
+tionssuchas‘Iwillneverwinthelottery’or‘Iwon’tbeamillionairenextFriday’.
+However,fromtheepistemicperspective,whetherwehaveenteredonesinglelarge
+lottery, or multiple lotteries, seems to amount to a distinction without a difference.
+The apparent epistemic insigniﬁcance of distributing the statistical chance of error
+among multiple events seems to remain true even if we imagine that these chancy
+eventsaresomewhatdifferentfromeachother—e.g.‘lottery1’isanationallottery,
+‘lottery 2’ is the church rafﬂe, and ‘lottery 3’ is a workplace drawing of lots.
+123Legalproofandstatisticalconjunctions
+The combination of these two issues—(i) that the size of the lottery does not
+explain the absence of various epistemic properties in lottery beliefs, and (ii) the
+apparent insigniﬁcance of whether the statistical evidence is contained within one
+source or split into multiple sources—makes the statistical conjunctions cases a
+particularly sharp puzzle for epistemic diagnoses of the proof paradox insofar as
+they are motivated by the guiding comparison with lottery cases.
+However, it may be the case that some epistemic theories have greater potential
+to explain the difference between single and multiple-source statistical evidence
+cases than others. For example, some approaches, such as the sensitivity theory,
+seem to have little ﬂexibility in attempting to treat the cases differently. The
+sensitivitytheoryrequiresthatweonlyissueverdictsonthebasisofevidencethatis
+suchthatwewouldnothaveissuedtheverdicthaditbeenmistaken.Itisdifﬁcultto
+see how this condition could be met in, for example, Blue Bus3. Consider the
+possibility that a Red Bus had in fact caused the accident: the evidence would
+remainunchanged,insensitivetothetruth,andstilloverwhelminglyfavourholding
+the Blue Company liable. Other theories involve a formal apparatus that allows
+them more room to manoeuvre. For instance, the normic justiﬁcation and safety
+theories draw on a world-ranking framework in which there is no technical
+impossibility in claiming that while a verdict based on one piece of statistical
+evidenceisunsafeornormicallysupported,averdictbasedontwo(ormore)pieces
+of evidence is safe ornormically supported.Thedifﬁculty for these theories is that
+theywouldnotregardtheanalogousbeliefina‘multiplelottery’scenariotobesafe
+or normically supported. What we are owed is an explanation for why the legal
+cases outlined in this paper are epistemically different from multiple lottery cases,
+when the evidence involved in each seems to be fundamentally very similar.
+Insum,allepistemictheoriesseemtostrugglewithstatisticalconjunctioncases.
+But some may have more theoretical resources with which to respond than others.
+Giventhattherivaltheorieshavehithertobeenattemptingtoexplainthesamedata-
+points—andallclaimtobeabletodoso—considering statisticalconjunction cases
+will be a useful spur to further adjudicate between the merits of competing
+epistemic theories.
+4.2 Approaches concerning morality and justice
+Diagnoses of the proof paradox concerning morality and justice can be usefully
+separated into backwards and forward-looking theories.
+Let’s begin with the former, the backwards-looking views, which roughly
+suggest that relying on bare statistics violate certain duties that we have to
+defending parties. These theories, while insightful relative to certain scenarios, do
+not help us tell apart regular cases from those involving statistical conjunctions.
+One inﬂuential version of a backwards-looking view originated in the work of
+DavidWasserman,arguingthatproof-paradoxicalcasesfailtorespecttheautonomy
+of the defending party.20 Wasserman’s diagnosis was originally aimed at the
+20 Wasserman’sautonomyviewhasbeenusefullycritiquedanddevelopedbyPundik(2008).
+123L.D.Ross
+Gatecrasher scenario, which was among the earliest proof-paradoxical cases
+discussed by legal scholars. On Wasserman’s account, treating the individual
+attendeesimplyasamemberofareference-class‘‘ignoresthedefendant’scapacity
+todivergefromhisassociatesorfromhispast,therebydemeaninghisindividuality
+and autonomy’’ (Wasserman 1992: 942–3). Appealing to autonomy is one way to
+vindicate the aversion to treating defending parties simply as members of a
+reference-class; it would be more autonomy-respecting to use evidence that is, in
+some way, individualised to the conduct of the person in question.
+It is far from clear whether the autonomy-based story provides a plausible
+account of the intuitive reluctance to sanction in the unadorned Blue Bus case. For
+instance, as is pointed out in Pundik (2008: 318), in such cases we bring a legal
+claim against the bus company rather than an individual driver. Given that the
+company autonomously chose to run n number of buses on a given route, it is
+unclear as to how holding them liable on the basis of statistics speaking to their
+market-sharefailstotreatthecompanyasanautonomousagent.However,ifsucha
+verdict does fail torespect the autonomy of the buscompany,then it is hard tosee
+how this failure would not also be a feature of attributing liability in the more
+compelling Blue Bus3 scenario. After all, by using statistical information about the
+frequency of certain tyres and hubcaps, we also rely on a reference-class. As such,
+whichever way the proponent of an autonomy-theory goes on the Blue Bus case,
+theylackaclearwaytodistinguishthestandardversionfromthemorecompelling
+statistical conjunction variant.
+A second type of backwards-looking view, due to Alexander Nunn, argues that
+we can explain our reluctance to sanction in proof-paradoxical cases by properly
+considering what is demanded by the right of due process.21 On Nunn’s account, a
+central prohibitionthatdueprocess requirescompatibilityintheargumentsusedto
+justify imposing sanctions. To make this concrete, consider the prospect of
+convicting two separate persons of a ‘lone gunman’ crime. Even if the evidence
+against the two was, for whatever reason, compelling, there would be something
+perverse aboutconvictingbothofthem.Nunn’sdiagnosisisthattheperversitylies
+inusingmutuallyincompatibletheories—afterall,bothcouldn’thavebeenthelone
+gunman—to convict. The novelty of Nunn’s approach is to go further and extend
+this idea to proof-paradoxical cases, suggesting that the perverse results of a
+(hypothetical) simultaneous conviction of the entire inculpated population explains
+why we ought not rely on bare statistics in certain cases. Nunn writes:
+[I]fthesamenakedstatisticalevidencecouldbeusedtoconvictanyrandomly
+selectedmemberofapopulation,andthesimultaneousconvictionoftheentire
+population would constitute a due process violation (due to the mutually
+exclusive nature of the crime) then the conviction of even one of those
+individuals constitutes a due process violation. [Nunn 2015: 1427]
+However, as Nunn himself states, the due process defence is unavailable in all
+proof-paradoxicalcases.Forexample,Nunnexplicitlyconcedesthathisdueprocess
+21 Nunn(2015:1418–1421).
+123Legalproofandstatisticalconjunctions
+defence cannot explain what is problematic about sanction in the unadorned Blue
+Buscase.ThisisbecausethereisnoguaranteeoferrorifweimagineiteratedBlue
+Bus cases—there is no factual impossibility (only sheer improbability) in the
+prospect of being correct every single time if we held a Blue Bus responsible for
+thousands of accidents on the basis of statistical evidence alone. Hence, as the due
+processdefencecannotexplainwhywegoawryintheregularBlueBuscase,itwill
+not help us discern the difference between it and those cases involving statistical
+conjunctions—there is equally no guarantee of error in the prospect of iterated
+sanction in cases such as Blue Bus3.
+Before moving on I should be clear that both of these backwards-looking
+approaches may well be good diagnoses of speciﬁc scenarios.22 However, neither
+Wasserman nor Nunn’s view provides an explanation for what is different about
+cases involving statistical conjunctions from regular proof-paradoxical scenarios.
+Let’s move on to forward-looking theories. The best known forward-looking
+theory, developed by Enoch et al. (2012), and the one on which I focus, appeals to
+the role of legal incentives.23 It is nearly platitudinous that a central role for both
+civil and criminal law is to incentivise and disincentivise different types of
+behaviour. From this observation, it is natural to suppose that we can consider the
+proper verdicts in proof-paradoxical scenarios in light of their (dis)incentivising
+effects.24
+To illustrate the incentive approach, consider the Gatecrasher case. The
+incentive-based approach enjoins us to ask whether the following biconditional is
+true:‘onlyifIgatecrash,willIbesanctionedforgatecrashing’.Ifbarestatisticsare
+enoughtocarrytheday,thiscomesoutfalse—theattendeewillbepunished,given
+the existence of enough gatecrashers in the audience, regardless of whether they
+gatecrash or not. This incentivise structure is perverse insofar as rules against
+gatecrashing should disincentivise people from doing it. A similar story could be
+toldabouttheBlueBuscase:werethecompaniesinvolvedawareoftheirrespective
+market-share, they would be aware that their chance of being held liable in certain
+cases would be unrelated to their actual conduct.
+Whatdoestheincentiveviewsayaboutcasesinvolvingstatisticalconjunctions?
+In a separate paper, Enoch and Fisher (2015) argue that their incentive-based
+approach vindicates the prevailing legal practice of allowing convictions on the
+basis of bare DNA evidence but rightly rejects relying on other types of naked
+statistics.So,theirview,atleastbytheirownlights,promisestolicensesanctionin
+22 Althoughathoughtimplicitinmuchoftherecentphilosophicalliteratureseemstobethatprovidinga
+uniﬁedexplanationcoveringallproof-paradoxicalcasesisadesideratuminsofarasthecasesallseem
+structurallysimilar,forourpurposesweneedexpressnoviewonwhetherthisiscorrect.
+23 Forfurtherdevelopmentofthisview,seeEnochandFischer(2015)andEnochandSpectre(2019).
+24 A technical note: Enoch, Spectre and Fisher’s incentive view is a hybrid view that combines an
+epistemicconditionconcerningsensitivitywithforward-lookingconsiderationtodowithincentives.Ina
+nutshell,theideaisasfollows:thereasonthatthelawshouldcareaboutmakingepistemicallysensitive
+judgements—theyexplicitlywarnagainstepistemic‘fetishism’—isbecauseitpromotestherightsortof
+legalincentives.Elsewhere,EnochandSpectre(2019)clarifythattheincentivecomponentoftheviewis
+central and the epistemic component peripheral—if another epistemic condition turned out to better
+capturethecases,thenitshouldbesubstitutedforsensitivity.
+123L.D.Ross
+the Prisoners & DNA case. However, what about the civil law cases? Take a
+momenttoreconsiderBlueBus3.Clearlyitisconceivable,giventhatthereareonly
+twocompaniescompetingforagivenlocale,thatthepartiesmaybeaware—ifonly
+in very general terms—of which companies tend to use which brand of tyres and
+hubcaps.Supposethattheyweresoaware.Ifthiswerethecase,thenthescenariois
+in fact similar to the unadorned Blue Bus case insofar as the companies involved
+could be aware that, in a certain class of case, their chance of being held liable
+wouldbeunrelatedtotheiractualconduct.Thiswouldmeanthattheincentive-view
+cannotdifferentiatetheunconvincingBlueBuscasefromthestatisticalconjunction
+variant either.
+ThenaturalresponseisthatBlueBus3issimplysucharecherche´casethat,forall
+practical purposes, it has no incentivising or disincentivising effect. While this is
+plausibleasfarasitgoes,relyingonthisresponsebegsthefollowingquestion:ifwe
+can disregard scenarios such as Blue Bus3 because they are marginal, should we
+reallyaccepttheideathattheunadornedBlueBuscaseissufﬁcientlycommonsoas
+to have a substantial incentive-changing effect? Certainly, standard rules about
+negligent driving incentivise companies to avoid negligence on the pain of
+sanction—bus companies should encourage their employees to drive carefully to
+avoid being held liable for accidents. However, do we think that this general
+incentivisingeffectisreallydisruptedbythepossibilityofproof-paradoxicalcases?
+I am sceptical. We can put the worry as a choice between two options, neither of
+which is immediately promising for explaining what is different about statistical
+conjunction cases. Either the relevance of incentives is purely theoretical—i.e. not
+contingent on empirical assumptions about whether the potential for perverse
+incentive-schemes actually has any substantial behavioural effect—in which case
+BlueBusandBlueBus3areonparandtheviewcan’tdistinguishbetweenthem.Or
+the relevance of incentives is empirical and must be plausibly linked to the actual
+psychologyofactors intherelevantscenarios,e.g.thepsychologyofbuscompany
+CEOsdecidingonsafetystandards,—inwhichcaseitisdoubtfulthatthepossibility
+of any proof-paradoxical case really has any substantive effect on to how agents
+tend to act.25 This is not a knock-down argument against the incentive view, but it
+shows that itfacessomedifﬁcultquestions—and requires further elaboration—ifit
+is to accommodate cases involving statistical conjunctions.
+4.3 Likelihood theory
+The likelihood theory is a revisionary approach to legal proof that, according to its
+proponents, has the beneﬁt of explaining our reluctance to sanction in unadorned
+proof-paradoxical scenarios. The central claim of the likelihood theory is we often
+fall prey a speciﬁc error when thinking about legal proof: namely, we focus on the
+absoluteprobabilitiesofsomethingoccurringratherthanlookingatthecomparative
+25 Thisisnottosaythatarefusaltorelyonbarestatisticsisneversigniﬁcantfromtheperspectiveof
+incentives.Forexample,itplausiblymattersforincentivisingcertainbehaviourwhetherornotwecanuse
+epidemiological statistics to establish employer liabilityfor negligentlycaused diseases that wouldbe
+otherwiseimpossibletoprove.SeeRoss(ms)forfurtherdiscussion.
+123Legalproofandstatisticalconjunctions
+likelihoodofcompetingaccountsinlightoftheobservedevidence.26Refocusingon
+comparativelikelihoodratherthanabsoluteprobabilitiesismorefaithfultotheway
+thattrialsareconductedinpracticeinsofarasbothpartiestoalegaldisputetypically
+advance their own version of events—the job of the fact-ﬁnder is to compare the
+relative plausibility of the competing claims. The applicability of the likelihood
+theoryiseasiesttoseewithrespecttothecivil‘balanceofprobabilities’standardof
+proof: a claim will be proven on the likelihood approach to proof when, given the
+observedevidence,itissimplycomparativelymorelikelythantheopposingclaim.
+(A formal statement of the increased likelihood requirement applied to the civil
+standardwouldrunasfollows:ﬁndforthepursueriffPr(E/H1)/Pr(E/H2)[1where
+Eistheevidenceadduced,H1isthepursuer’sstory,andH2isthedefender’sstory).
+How does the likelihood theory help us diagnose the reluctance to sanction in
+standard proof-paradoxical cases? Take a concrete example, the Blue Bus case.
+While absolute probabilities seem to favour holding the Blue Company liable,
+suppose that we instead compare the comparative likelihood, given the cited
+statisticalevidence,oftwocompetingaccounts:(i)thatitwasaBlueBus,(ii)thatit
+wasaRedBus.Thestatisticalevidenceisequallycompatiblewitheitheraccount—
+indeed,itwouldmakenodifferencewhatsoevertotheunderlyingstatisticswhether
+(i) or (ii) obtained. So, according to proponents of the likelihood theory of proof,
+merely statistical evidence (compared with, say, an eye-witness report) does not
+make any substantial difference to the comparative likelihood of either account.
+Thereismuchthatisinsightfulinthelikelihoodapproach,butitdoesnotseemto
+accommodate the thought that sanction is acceptable in cases involving statistical
+conjunctions.For,supposethattheBlue Companylawyer advancedaveryspeciﬁc
+rebuttal in the Blue Bus3 scenario: viz. they suggest that the bus that caused the
+crash was a Red Company bus that: (1) was on the route at the time, (2) had the
+implicatedhubcap,and(3)hadtheimplicatedtypeoftyres.Indeed,thisisprecisely
+the account—perhaps the only tenable rebuttal—that a defending lawyer would
+advance.Inthiscase,theobservedevidenceisjustascompatiblewiththataccount
+as it is with the alternative account on which it was a Blue Bus with each of the
+aforementionedproperties. Thelikelihood theory thus predicts thatthere is no case
+against the Blue Company even in cases involving multiple sources of statistical
+evidence so long as a speciﬁc account is available consistent with the statistical
+evidence. The same feature of the likelihood theory that enables it to deal with
+familiar proof-paradoxical scenarios render it unable to make accommodation for
+similar cases involving statistical conjunctions.
+4.4 Phase change theory
+A ﬁnal theory, which I call ‘phase change’ theory after a paper due to Cheng and
+Nunn (2016), argues that statistical evidence involving very high probabilities is
+26 SeeworkduetoCheng(2012)and,morerecently,inaslightlydifferentvein,bySullivan(2019).I
+focusonCheng’sapproachinthissection.
+123L.D.Ross
+different in kind from the much shorter odds found in the unadorned Prisoners,
+Gatecrasher, and Blue Bus cases.
+Cheng and Nunn develop a version of the phase change theory which is neither
+purely psychological nor predicated on any particular theory of legal proof.27
+Rather, they show that highly probabilifying evidence such a DNA match is
+mathematically different from regular proof-paradoxical cases: when we perform
+logistic regression on such evidence we ﬁnd that, as the chance of an incorrect
+matchtransitionsfrom1intenmillionto1in100millionandbelow,thechanceof
+error within a given population sharply diminishes. On their view, ‘‘[this] phase
+change justiﬁes treating DNA as different in kind.’’28
+Let’s accept, for sake of discussion, Cheng and Nunn’s mathematical assump-
+tions: at around 1 in ten million chance of error, probabilifying evidence starts to
+undergoaqualitativechangethatdistinguishesitfromstatisticalevidenceinvolving
+shorter odds. The ‘phase change’ theory deals straightforwardly with criminal law
+statisticalconjunctioncasesinvolvingcertaintypesofforensicevidence,becauseit
+says that reliance on statistical evidence involving such long odds as we ﬁnd in
+DNA proﬁling cases are different in kind from more familiar proof-paradoxical
+cases where the odds of error are only in the order of 1/100. However, the phase
+change theory does not seem to capture the fact that it seems intuitively
+acceptable to sanction in the civil law statistical conjunction cases discussed
+earlier. Suppose we take the chance of a ‘random match’ in Blue Bus3 to be the
+chanceofagivenbushappeningtobeaRedCompanybus,operatingonthegiven
+route, with the implicated tyres, and the implicated hubcaps. The chance of this
+occurringisonlyintheorderof1/4000.29WhilethechanceoferrorinBlueBus3is
+certainlymuchlowerthanintheunadornedBlueBuscase,itisnowherenearthe1
+in ten million required for the hypothesised ‘phase change’. As such, the phase
+change theory, although a compelling way to legitimise DNA cases and perhaps
+other types of forensic evidence, cannot explain the difference between unadorned
+proof-paradoxicalcasesandthoseinvolvingstatisticalconjunctionsbelowthephase
+change threshold.
+5 Error and storytelling
+Let’sbrieﬂyrecap.Thereisanentrenchedhostilitytobasinglegalverdictsonbare
+statisticswithinthephilosophicaland(settingasideDNAevidence)legalliterature.
+This paper has explored cases involving multiple sources of statistical evidence.
+Thesecasesseemtoprovideacompellingbasisforacivilﬁndingofliabilityand,at
+leastwhensomeoftheevidenceisforensic,foracriminalconviction.Ihaveargued
+that four prominent types of theory struggle to explain the relevant difference
+27 MythankstoEdwardChengforclariﬁcatorycorrespondence.
+28 2016:117.
+29 1/4(thechanceofaredbusontheroute)*5/100(thechanceofaredbushavingX)*(2/100)the
+chanceofaredbushavingY).
+123Legalproofandstatisticalconjunctions
+between cases of multiple-source statistical evidence and more familiar proof-
+paradoxical scenarios.
+I want to close by discussing a ﬁnal strategy that we might use to explain the
+difference between the two types of case discussed in this paper: namely, to reject
+the intuitions to the effect that statistical conjunction cases are relevantly different
+from regular proof-paradoxical scenarios. Indeed, I think that we may be able to
+offerasortoferrortheoryabouttheapparentdifferenceinourintuitions.However,
+soIwillclaim,ifweacceptthiserrortheory,thisraisesanevenmorefundamental
+worry:itgivesusreasontodoubtourintuitionsabouttheoriginalproof-paradoxical
+scenarios too.
+A widely discussed paradigm concerning the evaluation of legal evidence is
+Pennington and Hastie’s ‘story model’.30 The story model, focusing on how jurors
+make decisions, is an empirically supported hypothesis that supposes legal fact-
+ﬁndingtobedrivenbyanexerciseinnarrativeconstruction.Accordingtothestory
+model,jurorsattemptto‘‘imposeanarrativestoryorganizationontrialinformation,
+in which causal and intentional relations between events are central.’’31 In a
+nutshell,legalfact-ﬁnderslookforstoriesthatﬁttheevidence.Whenwecanreadily
+construct a narrative on the basis of evidence adduced, where necessary drawing
+supplementary causal inferences in order to do, and when that story is inculpatory,
+weareprimedtoﬁndinfavourofsanctioningthedefendingparty.Inarelatedand
+complementary stream of research, psychologists who have examined the ‘Wells’
+effect’—the phenomenon of juror reluctance to rely on bare statistics, named after
+Gary Wells’ and collaborators’ initial study—have tested different psychological
+explanations for this reluctance. One explanation appeals to ‘ease of simulation’:
+legal fact-ﬁnders prefer sanctioning on the basis of non-statistical evidence to
+statistical evidence because the former makes it more demanding to construct
+mental scenarios indicating innocence, and vice versa concerning guilt.32 For
+example, a descriptive eye-witness is more evocative than a mere statistical report,
+and it is harder to imagine scenarios inconsistent with an eye-witness account than
+with a bare statistical report.
+This empirical research naturally suggests a reason for why cases involving
+statistical conjunctions seem more compelling to us, namely because: (i) they
+generate an easy-to-simulate inculpatory narrative in the mind of the assessor, and
+(ii) they make it more demanding to simulate an exculpatory narrative. Let me
+explain.
+Regularproof-paradoxicalcases are generally lacking innarrativestructure:e.g.
+they simply tell us that it was likely that the bus was blue, or that the gatecrasher
+lacked a ticket, and that is all there is to it. Conversely, the extra complexity of
+statistical conjunction cases makes them more evocative, and require us to take
+morestepstoimaginethatthedefendingpartywasnotatfault.TakeBlueBus3.In
+30 SeePenningtonandHastie(1991,1992,1993)forarepresentativesampleofpapersoutliningboththe
+theoreticalandempiricalsupportforthestorymodel.
+31 Ibid.(1992:189).
+32 SeeWells(1992)fortheoriginalstudyandNeidermeieretal.(1999)forfurtherempiricalworkin
+supportoftheeaseofsimulationhypothesis.
+123L.D.Ross
+theversiondiscussed,thereisstatisticalevidenceconcerningnotonlythefrequency
+ofbusesonaroute,butalsoconcerningahubcapfoundatthescene,andtyremarks
+foundontheroad.Thisisripefortheimpositionofanarrativestructure;itiseasyto
+imagine a blue bus causing a crash, that bus making marks on the road, and a
+hubcap belonging to that bus coming off and rolling into the bushes. It is easy to
+imagineanexusofphysicalcausalitythatexplainsalloftheadducedevidencejust
+by imposing a temporal narrative structure onto the evidence. Moreover, rejecting
+thatnarrativetakesmorecognitiveeffortthantheoriginalBlueBuscase.Wemust
+assume that not only has one improbable coincidence occurred, but three, or more,
+atdifferentpointsinthestory.This,Ithink,makesforacentraldifferencebetween
+cases involving statistical conjunctions and those involving only one source of
+evidence. We treat the former as a compelling story, the rejection of which would
+requiretheeffortfuladoptionofascepticalstanceatmultiplepointsofthenarrative.
+This makes error seem like amuch moredistant possibility than incases involving
+single-sourcestatisticalevidence,andprimesustoﬁndagainstthedefendingparty.
+Thisamountstoanentirelypsychologicaldiagnosisofwhywearemoreinclined
+to ﬁnd sanction acceptable in statistical conjunction cases. The harder question is
+this: what is the normative relevance of this psychological account? I suggest that
+ourpsychologicaldiagnosiscanfacilitateanargumentforasortoferrortheory,i.e.
+theclaimthatourintuitionsaboutstatisticalconjunctioncasesshouldnotbetrusted.
+Suppose we begin,naturally enough, from a veritistic perspective—what relevance
+does narrative and ease of simulation have for getting to the truth? Certainty, the
+ease of imposing narrative structure onto evidence and simulating an exculpatory
+scenario can be a helpful heuristic for truth. The mind has a general facility for
+discerning the plausible from the implausible. However, in other cases, the role of
+evocativenarrativesingeneratingjudgementsofplausibilityandimplausibilitycan
+amounttoacognitivebias.TaketheintuitiveshiftinessnotedbyHawthorneearlier,
+thatpeopleareinitiallymoreinclinedtosaythattheyknowtheywon’twinmultiple
+smaller lotteries but not that they won’t win a single giant lottery where the
+probabilityofwinningisidenticaltowinningmultipletimesinarow.Theprospect
+of winning the lottery multiple times in a row is an evocative and incredible-
+sounding story—it appears implausible to the imagination, and involves accepting
+that multiple incredible things will happen in a row. So, we are apt to discount the
+possibility and reject the attribution of knowledge. But, from the perspective of
+veritistic judgement, we should evidently not treat that possibility any differently
+from the judgement about losing the single larger lottery. To do otherwise is to be
+led astray by the imagination and fall prey to a type of bias. Framed this way, we
+might worry that the same bias is manifesting itself when we ﬁnd statistical
+conjunctioncasesmorepersuasivethanthoseinvolvingasinglesourceofevidence.
+While these thoughts are somewhat preliminary, we can see the outlines of an
+error theory that would recommend the following conclusion: to the extent that
+intuitions about statistical conjunction cases differ from unadorned proof paradox-
+ical scenarios, they should not be trusted—rather, if we are concerned with
+accuracy,wewouldbebetteroffdiscountingthefactthatthestatisticalevidenceis
+dispersed over multiple sources. If we accepted such a theory, then one might
+suppose that the theories discussed earlier in the paper actually face no issues with
+123Legalproofandstatisticalconjunctions
+statistical conjunction cases. Indeed, we might suppose that it is actually a mark in
+theirfavouriftheytreatsingleandmultiple-sourcebarestatisticsonpar.According
+tothiserrortheory,onceweunderstandtheaetiologyoftheintuitionsinvolved,we
+should not be perturbed about refusing to sanction even in cases involving the
+conjunction of many different types of statistical evidence.
+However, this error theory is in fact double-edged. The same psychological
+diagnosis that undermines intuitions about statistical conjunction cases can also
+undermine intuitions about the original proof-paradoxical scenarios. A standard
+lesson drawn from the proof paradox is that there is a disfavourable contrast
+betweenbarestatisticalevidence(bad)andfamiliarnon-statisticalevidencesuchas
+eye-witness testimony (good). It is easy to see why relying on the error theory
+outlinedaboveisproblematicforthosewhowishtoupholdourintuitionsaboutthe
+original proof paradox. Unlike bare single-source statistics, eye-witness accounts
+are narratively rich and it is cognitively demanding to generate consistent
+exculpatory accounts. The very same idea, that we should not allow the ease of
+simulation heuristic to lead us astray when evaluating evidence from a veritistic
+perspective, can also be used to call into question the disfavourable contrast
+betweenstatisticalandnon-statisticalevidence.So,totheextentthatanerrortheory
+canchallengeintuitionsaboutcasesinvolvingstatisticalconjunctions,theintuitions
+about the original proof paradox are open to challenge on the same basis.
+To close, it is worth pointing out that one might attempt to ﬁnd some
+considerationthatcouldvindicatetreatingnarrativelyrichevidencedifferentlyeven
+ifourintuitionsaboutitaredrivenbyapotentiallybias-inducingheuristic.Oneeasy
+but perhaps not altogether satisfying reason for the law to prefer narratively rich
+evidence follows from the importance ofthe perception offairnessin the law. One
+role for any legal system is to inspire public conﬁdence in its workings. This
+explains, for example, why cases can be overturned for being decided in an
+apparently biased way even if it is accepted that there was in fact no actual bias
+tainting the decision.33 If we can simply note that a normal observer does ﬁnd
+sanction reasonable in statistical conjunction cases but not in unadorned proof-
+paradoxicalscenarios,thenthiscreatesitsownreasontotreatthecasesdifferently.
+Appearances matter in the law, even if we cannot provide an underlying theory to
+vindicate the difference between the unadorned proof paradoxical cases and those
+involving statistical conjunctions. This is perhaps a somewhat conservative and
+quietistresponsetothepuzzleoutlinedinthispaper.Ifwewantabettersolution,we
+must throw down the gauntlet to those hostile to bare statistics—what is different
+about cases involving multiple sources of statistical evidence?34
+33 One of the most striking examples in modern times is R v Bow Street Metropolitan Stipendiary
+Magistrate,expartePinochetUgarte(No2)[2000]1AC147.TheextraditionofAugustoPinochetfrom
+theUnitedKingdomtoSpainwassetasidebecausethespouseofoneofthejudgeshadlinkstoAmnesty
+International,anintervenerinthecase.
+34 Anonymous reviewers and Dario Mortini provided instructive written feedback on this paper—my
+thankstothem.
+123L.D.Ross
+OpenAccess ThisarticleislicensedunderaCreativeCommonsAttribution4.0InternationalLicense,
+whichpermitsuse,sharing,adaptation,distributionandreproductioninanymediumorformat,aslongas
+you give appropriate credit to the original author(s) and the source, provide a link to the Creative
+Commonslicence,andindicateifchangesweremade.Theimagesorotherthirdpartymaterialinthis
+articleareincludedinthearticle’sCreativeCommonslicence,unlessindicatedotherwiseinacreditline
+tothematerial.Ifmaterialisnotincludedinthearticle’sCreativeCommonslicenceandyourintended
+use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain
+permission directly from the copyright holder. To view a copy of this licence, visit http://
+creativecommons.org/licenses/by/4.0/.
+References
+Backes, M. (2019). Epistemology and the law: Why there is no epistemic mileage in legal cases.
+PhilosophicalStudies.https://doi.org/10.1007/s11098-019-01337-6.
+Blome-Tillmann,M.(2017).‘Morelikelythannot’—Knowledgeﬁrstandtheroleofstatisticalevidence
+incourtsoflaw.InG.Carter&B.W.Jarvis(Eds.),Knowledgeﬁrst—Approachesinepistemology
+andmind(pp.278–292).Oxford:OxfordUniversityPress.
+Blome-Tillmann,M. (forthcoming). Statisticalevidence, normalcy, andthe gatecrasher paradox. Mind
+129(514),563–578.
+Bolinger,R.J.(2018).Therationalimpermissibilityofacceptingracialgeneralizations.Synthese.https://
+doi.org/10.1007/s11229-018-1809-5.
+Buchak,L.(2014).Belief,credence,andnorms.PhilosophicalStudies,169(2),1–27.
+Cheng,E.K.(2012).Reconceptualizingtheburdenofproof.YaleLJ,122,1254.
+Cheng,E.K.,&Nunn,G.A.(2016).DNA,BlueBus,andphasechanges.TheInternationalJournalof
+Evidence&Proof,20(2),112–120.
+Cohen,L.J.(1977).TheProbableandtheProvable.Oxford:ClarendonPress.
+Di Bello, M. (2019). Trial by statistics: Is a high probability of guilt enough to convict? Mind, 128,
+1045–1084.
+Di Bello, M. (forthcoming). Proof Paradoxes and Normic Support: Socializing or Relativizing?Mind
+fzz021.
+Di Bello, M., & O’Neil, C. (2020). Proﬁle evidence, fairness, and the risks of mistaken convictions.
+Ethics,130(2),147–178.
+Ebert, P. A., Smith, M., & Durbach, I. (2018). Lottery judgments: A philosophical and experimental
+study.PhilosophicalPsychology,31(1),110–138.
+Enoch, D., Spectre, L., & Fisher, T. (2012). Statistical evidence, sensitivity, and the legal value of
+knowledge.Philosophy&PublicAffairs,40(3),197–224.
+Enoch, D., Spectre, L., & Fisher, T. (2015). Sense and ‘sensitivity’: Epistemic and instrumental
+approachestostatisticalevidence.StanfordLawReview,67,557.
+Enoch,D.,Spectre,L.,&Fisher,T.(2019).Sensitivity,safety,andthelaw:ReplytoPardo.LegalTheory,
+25,178–199.
+Evett,I.,&Williams,R.(2015).AreviewofthesixteenpointﬁngerprintstandardinEnglandandWales.
+JournalofForensicIdentiﬁcation,65(4),557–580.
+Gardiner,G.(2018).Legalburdensofproofandstatisticalevidence.InD.Coady&J.Chase(Eds.),The
+Routledgehandbookofappliedepistemology.London,England:Routledge.
+Gardiner, G. (2020). The reasonable and the relevant: Legal standards of proof. Philosophy & Public
+Affairs,47,288–318.
+Haack, S. (2014). Evidence matters: Science, proof, and truth in the law. New York: Cambridge
+UniversityPress.
+Hawthorne,J.(2003).Knowledgeandlotteries.Oxford:OxfordUniversityPress.
+Hedden, B., & Colyvan, M. (2019). Legal probabilism: A qualiﬁed defence. Journal of Political
+Philosophy,27,448–468.
+Krauss,S.(2020).Againsttheallegedinsufﬁciencyofstatisticalevidence.FloridaStateUniversityLaw
+Review,47.https://ssrn.com/abstract=3440138.
+123Legalproofandstatisticalconjunctions
+Littlejohn,C.(2018).Truth,knowledge,andthestandardofproofincriminallaw.Synthese.https://doi.
+org/10.1007/s11229-017-1608-4.
+Moss,S.(2016).Probabilisticknowledge.Oxford:OxfordUniversityPress.
+Moss,S.(forthcoming).Knowledgeandlegalproof.InOxfordstudiesinepistemology(Vol.7).Oxford:
+OxfordUniversityPress.
+Niedermeier,K.,Kerr,N.,&Messe,L.(1999).Jurors’useofnakedstatisticalevidence:Exploringbases
+andimplicationsoftheWellseffect.JournalofPersonalityandSocialPsychology,76(4),533–542.
+Nunn, A. (2015). The incompatibility of due process and naked statistical evidence. Vanderbilt Law
+Review,68(5),1407.
+Papineau,D.(2020).Thedisvalueofknowledge.Synthese.https://doi.org/10.1007/s11229-019-02405-4.
+Pardo,M.S.(2018).Safetyvs.sensitivity:Possibleworldsandthelawofevidence.LegalTheory,24,
+50–75.
+Pardo,M.S.(2019).Theparadoxesoflegalproof:Acriticalguide.BostonUniversityLawReview,Vol.
+99,2019;UofAlabamaLegalStudiesResearchPaperNo.3293023.
+Pennington, N., & Hastie, R. (1991). A cognitive theory of juror decision making: The story model.
+CardozoLawReview,13,519.
+Pennington,N.,&Hastie,R.(1992).Explainingtheevidence:Testsofthestorymodelforjurordecision
+making.JournalofPersonalityandSocialPsychology,62(2),189–206.
+Pennington,N.,&Hastie,R.(1993).Thestorymodelforjurordecisionmaking.InR.Hastie(Ed.),Inside
+thejuror:Thepsychologyofjurordecisionmaking(pp.192–221).,Cambridgeseriesonjudgment
+anddecisionmakingCambridge:CambridgeUniversityPress.
+Pritchard,D.(2015).Risk.Metaphilosophy,46(3),436–461.
+Pritchard, D. (2018). Legal risk, legal evidence and the arithmetic of criminal justice. Jurisprudence,
+46(3),436–461.
+Pundik, A. (2008). Statistical evidence and individual litigants: A reconsideration of Wasserman’s
+argumentfromautonomy.TheInternationalJournalofEvidence&Proof,12(4),303–324.
+Redmayne,M.(2008).Exploringtheproofparadoxes.LegalTheory,14(4),281–309.
+Ross,L.D.(2020a).Recentworkontheproofparadox.PhilosophyCompass.https://doi.org/10.1111/
+phc3.12667.
+Ross,L.D.(2020b).Rehabilitatingstatisticalevidence.PhilosPhenomenolRes.https://doi.org/10.1111/
+phpr.12622.
+Roth,A.(2010).Safetyinnumbers—DecidingwhenDNAaloneisenoughtoconvict.NYULawReview,
+85,1130.
+Smith,M.(2016).Betweenprobabilityandcertainty:Whatjustiﬁesbelief.Oxford:OxfordUniversity
+Press.
+Smith, M. (2018). When does evidence sufﬁce for conviction? Mind. https://doi.org/10.1093/mind/
+fzx026.
+Smith, M. (2020). Against legal probabilism. In J. Robson & Z. Hoskins (Eds.), Truth and trial.
+Abingdon:Routledge.
+Sullivan,S.P.(2019).Alikelihoodstory:Thetheoryoflegalfact-ﬁnding.UniversityofColoradoLaw
+Review,90,1.
+Tribe,L.(1971).Trialbymathematics:Precisionandritualinthelegalprocess.HarvardLawReview,
+84(6),1329–1393.
+Wasserman,D.T.(1992).Themoralityofstatisticalproofandtheriskofmistakenliability’.Cardozo
+LawReview,13,935.
+Wells,G.L.(1992).Nakedstatisticalevidenceofliability:Issubjectiveprobabilityenough?Journalof
+PersonalityandSocialPsychology,62,739–752.
+Williamson,T.(2000).Knowledgeanditslimits.Oxford:OxfordUniversityPress.
+Zabell,S.L.(2005).Fingerprintevidence.JournalofLawandPolicy,13(1),143–179.
+Zhu, Y., Dass, S. C., & Jain, A. K. (2007). Statistical models for assessing the individuality of
+ﬁngerprints.IEEETransactionsonInformationForensicsandSecurity,2(3),391–401.
+Publisher’s Note Springer Nature remains neutral with regard to jurisdictional claims in published
+mapsandinstitutionalafﬁliations.
+123

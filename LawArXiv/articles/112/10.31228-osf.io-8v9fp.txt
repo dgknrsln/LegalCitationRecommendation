@@ -1,0 +1,898 @@
+1 
+ 
+Neurolaw in Australia: The use of neuroscience in Australian criminal proceedings 
+ 
+Armin Alimardani1*, Jason M. Chin2, 3 
+ 
+1-Faculty of Law, University of New South Wales (UNSW), NSW, Australia (a.alimardani@unsw.edu.au) 
+ 
+2-T.C. Beirne School of Law, University of Queensland, Queensland, Australia (j.chin@uq.edu.au) 
+3-School of Psychology, University of Queensland, Queensland, Australia 
+ 
+Abstract 
+Recent research has detailed the use of neuroscience in several jurisdictions, but Australia remains a notable 
+omission. To fill this substantial void we performed a systematic review of neuroscience in Australian criminal 
+cases. The first section of this article reports the results of our review by detailing the purposes for which 
+neuroscience is admitted into Australian criminal courts. We found that neuroscience is being admitted pre-trial (as 
+evidence of fitness to stand trial), at trial (to support the defence of insanity and substantial impairment of the mind), 
+and during sentencing. In the second section, we evaluate these applications. We generally found that courts admit 
+neuroscience cautiously, and to supplement more well-established forms of evidence. Still, we found some instances 
+in which the court seemed to misunderstand the neuroscience. These cases ranged from interpreting neuroscience as 
+“objective” evidence to admitting neuroscience when the same non-neuroscientific psychiatric evidence would be 
+inadmissible for being common sense. Furthermore, in some cases, neuroscientific evidence presents a double-edged 
+sword; it may serve to either aggravate or mitigate a sentence. Thus, the decision about whether or not to tender this 
+evidence is risky.   
+Keywords: Neurolaw; Australian criminal justice system; neuroscience; criminal law; law and science; law and 
+technology; sentencing 
+   2 
+ 
+Part I. Introduction 
+  In  step  with  rapid  technological  developments,  neuroscientific  evidence  is  playing  an  increasingly 
+important role in criminal proceedings in many jurisdictions across the world (see, [1–7]). Despite its widespread 
+use, little research has examined how neuroscientific evidence is being used in Australian Criminal courts.1 In this 
+article, we seek to fill that void by providing the first systematic review and analysis of the application of 
+neuroscientific evidence in Australian criminal proceedings. This is important because neuroscience in court has 
+been the subject of considerable academic debate, in part due to the potential for misunderstanding and prejudice it 
+presents [8, 9].2 Moreover, basic neuroscientific research itself has been criticized for its use of low sample sizes and 
+unduly flexible methodologies [10]. Generally, our review finds that Australian courts are appropriately cautious in 
+their use of neuroscience, using it as evidence corroborating more traditional forms of evidence, such as expert 
+witness statements and clinical psychological findings. However, we do note cases in which the use of neuroscience 
+was of little (or no) relevance, and in which the trial judge fundamentally misconstrued the evidence. 
+  In  this  article,  we  adopt  a  broad  definition  of  neuroscience.3  We  will  review  cases  in  which  the 
+neuroscientific evidence takes the form of both diagnostic (i.e., individuating) evidence and framework evidence 
+[11]. By diagnostic evidence, we mean evidence about the brain and brain functioning of a particular person (usually 
+the accused or offender). This can be gleaned by diagnostic imaging tools (e.g., functional magnetic resonance 
+imaging or fMRI) or classic neuropsychological testing (e.g., where a psychiatrist makes some inference about the 
+patient’s brain based on his or her behaviour). For a review of the latter, see [12]. By framework evidence, we mean 
+general knowledge about the relationship between the brain and behaviour. This form of evidence is based primarily 
+on imaging studies. Importantly, diagnostic evidence rests on framework knowledge because the expert must infer 
+that the individual’s case is an instance of an established relationship between brain and behaviour. For example, an 
+expert opining that an accused’s frontal lobe damage impaired his ability to control his actions is, by necessity, 
+relying on previous research demonstrating a relationship between the frontal lobe and impulse control [13]. 
+                                                 
+1 We are aware of two recent and well-considered works analysing Australian neurolaw that have adopted a narrow focus. First, 
+for a focus on the fMRI methodology, see [7]. And for a focus on New South Wales sentencing decisions in which the 
+neuroscientific evidence was a mitigating factor, see [49].  
+2 See [20] for a review of the current theoretical arguments surrounding neurolaw. 
+3 In adopting this scope, we follow other recent works, see, e.g., [4, 5]. 3 
+ 
+   In the remainder of this part, we will discuss how we went about researching the Australian criminal 
+neurolaw jurisprudence. Part II then goes on to review the use of neuroscience in criminal decisions. This review 
+spans its use both pre-trial and at trial. Part III then focuses on the role neuroscientific evidence plays in informing 
+sentencing decisions. Then, in Part IV, we draw upon the earlier parts to critically reflect on the use of neurolaw in 
+Australia. In Part V, we conclude.   
+It is useful to briefly describe the breadth of our search – the scope of cases from which we drew in filling 
+in the picture of Australian neurolaw (for more information about our methodology see the Appendix). First, we 
+reviewed all 695 criminal cases in the Australian Neurolaw database (on file with the authors) — the only public 
+database of Australian Neurolaw cases4 — and sorted the cases into different categories (e.g., ‘fitness to stand trial’). 
+We then performed our own search on AustLII — a public database of Australian cases with extensive coverage5 — 
+using a variety of keywords (i.e. ‘CT scan’). We restricted our search to the three levels of court most likely to hear 
+relevant criminal cases: The Supreme Court, the Court of Criminal Appeal, and the District Court. Further, the 
+search was not restricted to a specific time period or to specific jurisdictions in Australia.6 As a result of this search 
+on AustLII, we reviewed 779 cases (on file with authors). 
+The selection of cases and the sample size in this study were based on our intention to explore and illustrate 
+different uses of neuroscience in criminal courts and not to speak to the amount of neuroscientific evidence in 
+Australian criminal courts generally (quantitative analysis). Therefore, this article is unable to indicate whether any 
+particular use is more common than others. For instance, we cannot say that neuroscientific evidence is being 
+proffered more as evidence of vitiated intent or as evidence supporting a defence of mental impairment.7 Rather, our 
+qualitative results reflect the use of neuroscientific evidence in Australian criminal jurisprudence on the basis of 
+commonly used categories following the procedural timeline of a criminal law matter (i.e. pre-trial, trial and 
+sentencing). 
+Several limitations inherent to our search should be noted. First, many Australian criminal cases are not 
+reported or are otherwise made available. Additionally, our examination of the use of neuroscience in Australian 
+                                                 
+4 A large proportion of cases on the Database are not published, and the public do not have access to them. 
+See, https://neurolaw.edu.au. 
+5 See, https://www.austlii.edu.au/austlii/guide/user_guide.pdf. 
+6 The Australian jurisdictions are as follow: (i) New South Wales, (ii) Victoria, (iii) Queensland, (iv) Western Australia, (v) 
+South Australia, (vi) Tasmania, (vii) Northern Territory and (viii) Australian Capital Territory. 
+7 We will describe these criminal law concepts in Part II. 4 
+ 
+courts is based on the contents of the judgments. As such, we did not have access to the expert reports themselves. 
+This means that there may be other aspects of neuroscientific evidence that are relevant to this study but were 
+excluded from the judgment and have subsequently not been examined. Still, the reported decisions are significant 
+because they represent the precedents available to parties as they determine their positions and submissions. 
+Part II. Neuroscience pre-trial and at trial 
+Neuroscience Pre-Trial 
+In the pre-trial phase courts sometimes consider neuroscientific evidence in the context of applications to 
+declare the accused unfit to stand trial. As a matter of fairness and justice, parties are not tried unless they possess a 
+minimum capacity to understand and participate in proceedings (See [14–16]). In determining whether the accused 
+is fit to stand trial, the trial judge must determine if he or she can understand the nature of the charge and follow the 
+evidence that would be presented should the trial take place (See [14, 17] for a review). One way of establishing that 
+an accused is incapable of comprehending the charge and relevant evidence is to demonstrate that they suffer from 
+an “impaired mental process.” 
+For example, in R v Moar,8 the accused brought evidence from a clinical psychologist that he was suffering 
+from an impaired mental process. Moar was accused of several sexual assaults that had occurred over 40 years prior 
+to the trial and claimed, at the time of the trial, to be suffering from a variety of psychological and physical 
+ailments.9 The expert neuropsychologist diagnosed Moar with a cerebrovascular disease (i.e., a disease of the blood 
+vessels supplying oxygen to the brain) resulting in cognitive impairment.10 This diagnosis helped explain Moar’s 
+impaired short memory and difficulty in processing incoming information.11 Moreover, this evidence was largely 
+consistent with that of a geriatrician and a forensic psychiatrist, who also concluded that Moar was unfit to stand 
+trial.12 The court accepted the neuroscientific evidence and appeared to give it significant weight, finding that Moar 
+was indeed unfit to stand trial.  
+                                                 
+8 [2012] SADC 47. 
+9 Id. at 25. 
+10 Id. at 42-43. 
+11 Id. at 43. 
+12 Id. at 39-59. But note that two other experts, a psychiatrist and a forensic neuropsychologist opined that Moar’s condition was 
+not severe enough to merit a finding that he was unfit to stand trial. 5 
+ 
+Similarly, in Re Ma’a,13 the court accepted evidence from MRI, CT and SPECT scans to support other 
+psychological evidence suggesting that the accused was suffering from dementia stemming from damage to his front 
+and/or temporal lobes.14 Interestingly, the first set of scans were not conclusive and there was a suggestion of 
+malingering,15  but  later  scans  indicated  that  the  accused’s  condition  was  progressing.16  We  note  here  that 
+neuroscientific evidence, while not determinative of dementia, may be a useful diagnostic tool when malingering is 
+suspected.17  
+Overall, such cases indicate some uses of neuroscience before the trial begins. In the next section, we will 
+discuss different uses of neuroscience at trial.  
+Neuroscience at Trial 
+In this section, we will discuss uses of neuroscientific evidence at trial, beginning with the defence of 
+mental impairment/illness (all states except Tasmania and Queensland have removed the word “insanity” from their 
+criminal codes in favour of illness or impairment) [18]. These cases diverge from assessments of fitness to stand trial 
+in an important way: the assessment for fitness to stand trial involves an inquiry into the mental state of the accused 
+at the time of the trial, while applying the defence of mental impairment/illness involves an inquiry into the mental 
+state of the accused at the time the alleged crime was committed. Therefore, because any neuroscientific evidence 
+relevant to the accused will typically be gathered close to the time of trial, neuroscience is more logically relevant, 
+and can be more confidently applied, to the fitness to stand trial determinations. When applying neuroscience to the 
+defence of mental impairment, experts are forced to make estimations or guesses as to the mental state of the 
+accused at the time the act in question took place. This inherently leads to less probative value and relevance of 
+neuroscientific evidence. Despite this, neuroscience is still adduced in these situations, likely because it bears 
+directly on the presence or absence of a mental impairment or illness. 
+                                                 
+13 [2010] QMHC 6. 
+14 Id. at 47-49.  
+15 Id. at 24. 
+16 Id. at 11-13. 
+17 For other instances of the use of neuroscience for determination of accused’s fitness to stand trial see, R v Blackman [2016] 
+NSWSC 1579; R v Wilson [2015] NSWSC 1538; Robinson, Clifford Mark v R [2008] NSWCCA 64. See also R v Littler [2001] 
+NSWCCA 173 in which evidence of organic brain disease revealed in a CT scan support a decision to permanently stay the 
+charges against the accused. 6 
+ 
+Mental Illness Defence 
+  Mental illness is a complete defence to a criminal charge. The accused, however, bears the onus of proving 
+this defence on a balance of probabilities. To successfully raise the defence, the accused must prove that, due to a 
+mental disease, he or she did not understand the nature or quality of the act, or the wrongfulness of the act [18, 19]. 
+  R v Singh is illustrative of the use of neuroscience in supporting a mental illness defence.18 In that case, the 
+accused was charged with murder and three psychological experts reported on his mental state.19 Because Singh had 
+resided in a mental hospital just prior to the killing, a great deal of evidence contemporaneous with the act was 
+available. This included several of the results of neuropsychological testing and an MRI image. Both were consistent 
+with a neurodegenerative disorder (i.e., loss of neuron function or structure)20 capable of impairing cognitive and 
+emotional control (i.e., executive functions).21 The trial judge, accepting the psychological evidence, found that Mr. 
+Singh was not guilty on the ground of mental illness.22  
+  Another revealing case can be found in R v Berlingo,23 a case in which an accused charged with the murder 
+of his wife argued that he was suffering from fronto-temporal lobe dementia at the time the act was committed.  
+Importantly, there was neuroscientific evidence that was inconsistent with this contention.24 In particular, an expert’s 
+interpretation of the neuroscientific evidence was not consistent with this diagnosis:25 
+This witness felt that there was simply nothing in the MRI scan pictures that positively supported diagnosis of either 
+frontal lobe or fronto-temporal lobe dementia. Indeed, he went so far as to assert that the MRI scan pictures could 
+well have been those of someone aged 50. He said that he did not even see any age related atrophy and was surprised 
+that "this patient has cognitive problems". 
+Despite this lack of definitive neuroscientific corroboration, the Court found that the accused was suffering 
+from dementia and did so based on the classic manner of inferring it from the facts of the case and from expert 
+psychiatric testing. In particular, the accused was 72 and the attack seemed completely out of step with his 
+                                                 
+18 [2010] NSWSC 638. 
+19 Id. at 18. 
+20 Singh 24, 37-38. 
+21 Ibid. 
+22 Id. at 44. 
+23 [2003] SASC 109. 
+24 Id. at 83, 93-128.  
+25 Id. at 120. 7 
+ 
+personality  and  relationship  with  his  wife.26  Further,  his  children  testified  that  he  had  become  increasingly 
+withdrawn and confused in the years leading up to the attack.27 These observations were consistent with the 
+accused’s interview with the police after being arrested.28 Ultimately, the Court seemed to place the most weight on 
+the evidence of the expert (a neurologist) who “not only reviewed the relevant MRI and PET scans, but also made a 
+detailed clinical examination and assessment of the accused, personally interviewed the children of the accused and 
+had careful regard to the neuropsycholological [sic] reports.”29 As a result, the Court placed less weight on the 
+opinion of the Crown’s neurologist, who focused on the inconclusive MRI.30 
+  Berlingo demonstrates a sensitive approach to neuroscience. The Court readily acknowledged that a 
+dementia diagnosis would resolve the mental impairment defence issue: “It is common ground that, if it be shown 
+that the accused was, at the relevant time, suffering from a condition of fronto-temporal dementia, then he was 
+plainly suffering from a mental impairment within the meaning of the statute.”31 But, in determining whether fronto-
+temporal lobe dementia was present, the Court considered a variety of sources, brain imaging being just one.  
+Substantial Impairment  
+  Substantial impairment is a partial defence to murder, which reduces that charge to manslaughter.32 The 
+accused must show, on a balance of probabilities, that he or she was substantially impaired by an “abnormality of 
+mind” due to a non-transitory mental or psychological condition at the time the event occurred.33 As with the full 
+defence of mental impairment, the language in the substantial impairment defence seems to have invited parties to 
+proffer neuroscientific evidence.  
+The case of R v Peterson (No. 4) provides an example.34 Mr. Peterson was accused of murdering his friend 
+by bludgeoning his head with a table leg during a fight. Peterson was a man of limited intellectual ability35 and the 
+                                                 
+26 Id. at 54. 
+27 Id. at 66. 
+28 Id. at 57. 
+29 Id. at 151. 
+30 Id. at 237-238. 
+31 Id. at 235. 
+In this case, there were a number of expert witnesses who made different conclusions about accused’s mental condition. For more 
+detailed examination of their reports please refer to the case. 
+32 The defense of substantial impairment by abnormality of mind is only recognized in four Australian jurisdictions, see [18] 
+33 See [18]. 
+34 [2014] NSWSC 1056. 
+35 Id. at 59. 8 
+ 
+trial judge accepted that the deceased had started the fight (but rejected the accused’s self-defence claim).36 Four 
+experts – two psychiatrists and two clinical neuropsychologists – gave evidence about Peterson’s mental condition.37 
+The psychiatrists noted that Peterson suffered from two underlying conditions: intellectual disability and “executive 
+dysfunction caused by frontal lobe damage.”38  
+This diagnosis of frontal lobe damage was made on the basis of a behavioural assessment, and not any kind 
+of brain scan.39 The experts explained that these impairments affected the accused’s ability to control his behaviour40 
+and understand the consequences of his actions.41 Justice Campbell accepted the expert evidence42 and allowed the 
+partial defence.43  
+There  are  also  other  cases  in  which  neuroscientific  evidence  supports  the  defence  of  substantial 
+impairment.44 In Regina v A S Moffatt [No 3],45 for example, the court accepted that the long-term alcohol abuse 
+resulted in the brain impairment, however, it was concluded that the mental condition was not severe enough and 
+rejected the defence of substantial impairment. 
+Examining Intention 
+Besides the formal defences described above, neuroscientific evidence may be proffered as evidence 
+pertaining to the accused’s intention. The relevance of neuroscience is less clear in these cases than in doctrines that 
+specifically invoke mental impairment and illness [20]. Moreover, gradients of intention are themselves fuzzy and 
+the relationship between areas of the brain and these gradients is even fuzzier (see [21]).  
+In R v H, LP, the accused was charged with murder and attempted murder in relation to a shooting but 
+claimed that he did not have the intent to kill.46 The accused argued that he could not have formed the requisite 
+                                                 
+36 Id. at 45. 
+37 Id. at 56. 
+38 Id. at 57. 
+39 Id. 
+40 Id. at 60. 
+41 Id. at 62. 
+42 Id. at 76. 
+43 Id. at 75.; We will also discuss another substantial impairment case, Director of Public Prosecutions v AB [2013] NSWSC 
+1739 in our analysis in Part IV. 
+44 For example, see R v Glanville [2010] NSWSC 364, in which damage to the accused’s frontal lobes from a motorcycle 
+accident supported his substantial impairment defence. 
+45 [1999] NSWSC 233 
+46 [2013] SASC 183. 9 
+ 
+intention for murder because he was extremely intoxicated (blood level = .252-.284).47 To support this defence, the 
+accused tendered the evidence of a psychiatrist who provided a thorough explanation of the effect alcohol has on a 
+person’s brain.48 He noted that alcohol “depresses…brain function” 49 causing the drinker to go in and out of 
+consciousness, akin to an individual in a “comatosed [sic]” state.50 The trial judge concluded that, “Although his 
+condition was one of gross intoxication and his behaviour was in many ways bizarre, nevertheless I find it proved 
+beyond a reasonable doubt that the accused had the intention [to kill].”51 As such, while the trial judge admitted the 
+framework evidence52 that alcohol can impact brain function and behaviour, it appeared that the court did not find 
+such potential impact severe enough to negate his intention. 
+  Besides the intention to commit the charged criminal act, neuroscientific evidence may call into question 
+the accused’s intention in other ways. For instance, the Supreme Court of Western Australia admitted medical 
+evidence detailing an accused’s frontal lobe injury to assist in assessing admissions he made during a police 
+interview.53 The evidence of the brain injury was relevant to the voluntariness of the admissions,54 their reliability,55 
+and whether the conduct of the police in interviewing a brain-damaged individual was unfair.56 
+  Thus far, we have reviewed different uses of neuroscience at two stages: pre-trial and trial. In the following 
+section, we will discuss how neuroscientific evidence is relevant to sentencing.  
+Part III. Neuroscience at sentencing 
+Courts consider many factors when determining a prisoner’s sentence. Neuroscientific evidence informs the 
+application of many of these factors. First, neuroscientific evidence may impact upon the moral culpability of the 
+offender. This will be the case when brain impairment affects the offender's judgement, ability to understand the 
+                                                 
+47 Id. at 75. 
+48 Id. at 65-68. 
+49 Id. at 66. 
+50 Id. at 65. 
+51 Id. at 82. 
+52 i.e., the psychiatrist, of course, could not have examined the accused while he was intoxicated, and therefore the expert’s report 
+was not about the accused per se, but generally how brains are affected by alcohol. 
+53 The State of Western Australia v Clifton [2012] WASC 302. 
+54 Id. at 43-58. 
+55 Id. at 54. 
+56 Id. at 59-63. For more cases about memory and admission of evidence see, CDK v Commissioner of Victims Rights [2016] 
+NSWCATAD 300; R v Hawi & ors (No 27) [2011] NSWSC 1673. 10 
+ 
+wrongfulness of criminal behaviour, or capacity to control his/her acts and emotions. In other words, if brain 
+impairment is causally connected to the commission of the offence, the offender is less blameworthy.57  
+Another sentencing factor is deterrence.  Sentencing with the purpose of deterrence aims to deter the public 
+from committing similar crimes (i.e., general deterrence) or the offender from committing further crimes. (i.e., 
+specific deterrence). Punishing an individual with a brain impairment may reduce the effectiveness of general 
+deterrence because the offender is not representative of the population and is thus not a suitable example to deter the 
+society from committing a crime.58 An impairment may also militate against specific deterrence, as punishment may 
+not deter an individual with a brain abnormality from further offending. Similarly, if the brain impairment that 
+contributed to the offending is treated, there is less need for specific deterrence.59 In cases where brain impairment is 
+not treated, if the impairment makes the experience of custody more onerous for the offender than for other 
+prisoners, the court may mitigate the punishment.60 
+Finally, courts consider the protection of society when determining a sentence. Here, an untreatable (or 
+difficult to treat) brain abnormality may increase the risk of re-offending and thus militate towards a longer sentence 
+in order to keep the offender away from those who could be harmed.61 To illustrate this complex interplay between 
+sentencing factors and neuroscientific evidence, we will now discuss several representative cases. We will begin 
+with cases in which neuroscience mitigates the sentence and then contrast them with cases in which the sentence 
+was aggravated.62 
+Neuroscience as a mitigating factor 
+Neuroscientific evidence may mitigate sentencing by supporting an explanation for why the offender 
+behaved the way he or she did (i.e. the degree of offender’s culpability). That is the case in the first two sentencing 
+decisions we discuss, DPP v Cook63 and R v Terence Martin.64 Neuroscientific evidence may be also unrelated to the 
+commission of the crime itself but still relevant during sentencing. For instance, it may provide information about 
+                                                 
+57 R v Israil [2002] NSWCCA 255; R v Hemsley [2004] NSWCCA 228 (at 33 –36). 
+58 Engert (1995) 84 A Crim R 67 at 71 per Gleeson CJ; R v Hemsley [2004] NSWCCA 228. 
+59 Director of Public Prosecutions (Cth) v De La Rosa [2010] NSWCCA 194; also see, R v Henry (1999) 46 NSWLR 346, 
+(Wood CJ at CL, Adam and Kirby JJ) at 46. 
+60 See, R v Hemsley [2004] NSWCCA 228. 
+61 Benitez v R (2006) 160 A Crim R 166; Director of Public Prosecutions (Cth) v De La Rosa [2010] NSWCCA 194  
+62 For more discussion of mental condition and sentencing see [18, 50]. 
+63 [2015] VCC 116. 
+64 [2011]. Unreported judgment. For a summary of this case see, https://neurolaw.edu.au/cases/10703.   11 
+ 
+how the offender would react to a jail sentence. This jail-experience factor played a part in the third case in this 
+section, DPP v Buckley.65 
+In DPP v Cook, the offender pled guilty to a charge of armed robbery of a supermarket. At the time of the 
+robbery, the offender apologised to the staff and said that he had a drug issue. A month later he claimed that he 
+could not remember the robbery.66 Several expert psychological reports were tendered to the court. The first report 
+by a general practitioner concluded that the offender’s seizures caused a brain condition at the time of the offence. A 
+hospital neurology report on the offender noted that because of an organic brain disorder, the offender had 
+significant cognitive impairment including problems  with daily living and planning.67 Finally, a report by a 
+psychiatrist stated that there was a compounding interaction between the offender’s drug addiction, his pre-existing 
+cerebral deficits and dysfunctional background.68  
+The sentencing judge concluded that there was a causal relationship between these mental issues and his 
+criminal behaviour and noted that without the pre-existing mental illness, the offender would not have committed 
+that offence.69 The judge found that the offender’s brain damage reduced his moral culpability and made general 
+deterrence less of a factor.70 
+In Cook, the neuroscientific evidence focused on an impairment in brain structure, an effectively permanent 
+feature of the offender’s anatomy. By contrast, some conditions are more transient, such as those caused by a 
+chemical imbalance in the brain. This was the situation in R v Terence Martin,71 in which the offender was found 
+guilty of sexual intercourse with a minor and production of child exploitation material. The offender, who was a 
+member of Tasmanian Legislative Assembly, had no prior convictions. His sexual desire was triggered after taking 
+Parkinson’s medication. Before taking this medication, he was allegedly celibate. The medication did not initially 
+improve Martin’s condition and the dosage of the medication was doubled on two different occasions. Following the 
+increase in dosage, the offender formed hyperactive sexual tendencies. He spent approximately $150,000 on 
+engaging with sex workers on 506 occasions. He also looked at internet pornography including child pornography. 
+                                                 
+65 [2013] VCC 471. 
+66 Id. at 1; 3; 4. 
+67 Id. at 12. 
+68 Id. at 13. 
+69 Id. at 14. 
+70 Id. at 11; 14. 
+71 See, https://neurolaw.edu.au/cases/10703.   12 
+ 
+Changing the medication did not help to prevent further hypersexuality, however terminating all treatment was 
+successful in stopping his abnormal sexual behaviours.   
+A report from a neurologist indicated that the offender's behaviour was a severe case of hypersexuality 
+induced by the medication that also resulted in a change of sexual preference. Even though the offender understood 
+the relationship between the drug and his sexual activities, he was not able to control his behaviour. A forensic 
+psychiatrist similarly opined that the medication caused the offender's behaviour. The sentencing judge agreed that 
+the medication caused mental issues. Consequently, the offender's capacity for "choice, moral reasoning and 
+judgment" was reduced. As in Cook, this determination mitigated the offender’s moral culpability and reduced the 
+significance of general deterrence. 
+Unlike Cook and Martin, in some cases there is no connection between neuroscience and criminality, but 
+neuroscience is still relevant to sentencing. In DPP v Buckley,72 for instance, the offender suffered a stroke and a CT 
+scan indicated an acquired brain injury. While it appeared that the brain impairment was not causally related to 
+criminal behaviour and consequently did not influence the offender's moral culpability, the judge concluded that 
+psychological issues derived from the brain impairment would make the prison sentence more onerous for him.73 As 
+such, the brain impairment reduced the sentence due to custodial hardship.74  
+Neuroscience as an aggravating factor 
+While the offenders in the above cases appeared to benefit from adducing neuroscientific evidence at 
+sentencing, such evidence does not always represent such a clear advantage to the offender. This is the case when 
+the neuroscientific evidence suggests that the accused poses a particular risk of reoffending. In R v McCann,75 the 
+jury found the offender guilty of manslaughter for strangling the deceased.76 Five experts opined regarding the 
+offender's mental condition. A clinical psychologist found evidence of cognitive impairment consistent with frontal 
+                                                 
+72 [2013] VCC 47. 
+73 Id. at 12; 13. 
+74 Other than custodial hardship there are other sentencing factors that do not require a link between neurological impairment and 
+criminal behaviour. For example, because an offender with brain impairment may not be a proper tool to deter the society from 
+offending, the court may give lower consideration to general deterrence even if the brain impairment is not causally connected to 
+offending or it occurs after the crime, see, R v Caleb James O'Connor aka John Coble [2013] NSWDC 272. 
+75 [2012] NSWSC 1462. 
+76 Id. at 2-13; 28. 13 
+ 
+lobe  damage,  resulting  in  issues  such  as  poor  planning  and  evaluation  of  behavioural  responses.77  A 
+neuropsychologist reported that CT and MRI indicated brain abnormalities.78 The neuropsychological assessment 
+also revealed problems with working memory and impairment in creating novel ideas.79 
+Although the sentencing judge acknowledged that the offender’s mental condition meant that lower weight 
+should be attached to moral culpability and general deterrence, his honour also added that, “However, … the 
+irreversible condition of the frontal lobes and the brain generally, raises the question of his dangerousness in the 
+future.”80 As such, the offender’s brain condition was both a mitigating and aggravating factor. 81 
+There are several reasons why evidence of the offender’s brain condition will not always be an aggravating 
+factor, as it was in McCann. As noted above, the neuroscientific evidence may indicate a condition that is 
+temporary, such as with the effects of the Parkinson’s medication in Martin. Alternatively, the brain impairment 
+may reduce – rather than increase – the risk of future offending. This was the case in R v Goodridge (no 2).82 In 
+Goodrich, the offender was found guilty of murder.83 Much earlier – at the age of three – the offender was run over 
+by a car and experienced a head injury. As a result, he could not remember his childhood.84 In 2010, he suffered 
+another head injury following an assault in gaol.85  Four experts, three psychiatrists and a psychologist, submitted 
+reports. The psychologist reported that the offender had marked cognitive deficits that were associated with his 
+history of cerebral insult and a lengthy history of substance and alcohol abuse.86 The psychiatrists reported brain 
+damage resulting from excessive alcohol use and head injuries,87 baseline low IQ, poor judgment, cognitive 
+impairment,88 and the result of an MRI scan that indicated brain abnormality89 consistent with vascular disease.90 
+                                                 
+77 Id. at 17. 
+78 Focal abnormalities in the frontal lobes and significant cerebral atrophy Id. at 21. 
+79 Id. at 21. 
+80 Id. at 36; Although two psychiatrists believed that the risk of re-offending was fairly low, the judge accepted the third 
+psychiatrist’s opinion that the offender posed a risk of violence to community once he is released (Id. at 37-40). 
+81 Proof of brain impairment may also have another negative outcome for the defendant. For instance, according to the Crimes 
+(High Risk Offenders) Act 2006 (NSW), in order to prevent further offending by ‘high-risk sex and violent offenders’, the court 
+may impose post-sentence preventive detention order or an extended supervision order at the end of the custodial sentence. See, 
+Dangerous Prisoners (Sexual Offenders) Act 2003 (Qld); Dangerous Sexual Offenders Act 2006 (WA); Serious Sex Offenders 
+Act 2013 (NT); also see [51]. There are many concerns with regard to these Acts such as proportionality of the sentence, double 
+punishment and procedural fairness. See [51-53]. 
+82 [2012] NSWSC 1180. 
+83 Id. at 5-10. 
+84 Id. at 41. 
+85 Id. at 30. 
+86 Id. at 32, 41-43. 
+87 Id. at 33. 
+88 Id. at 34-36. 
+89 ‘cerebral atrophy and lesions in the white matter’ Id. at 35. 14 
+ 
+The MRI scan, a cognitive test, and the offender’s memory issues contributed to a diagnosis of dementia. 91 It was 
+concluded that if the cognitive decline continued, the offender's lifespan would not be more than 6 to 7 years.92 
+The sentencing judge concluded that “[h]is long-standing history of alcohol abuse and the concomitant 
+brain damage meant that he was prone to binge-drinking which tended to make him behave erratically and 
+aggressively”93 with impaired judgment. Consequently, his moral culpability was reduced.94 His mental condition 
+also significantly reduced the consideration of general and specific deterrence.95 Importantly, the sentencing judge 
+found that the offender’s severely compromised mental condition (i.e. his dementia and short lifespan) eliminated 
+his danger to the society.96 
+McCann  and  Goodrich  also  demonstrate  the  particular  relevance  of  neuroscientific  assessments  in 
+sentencing decisions (as opposed to trial decisions). The inquiry at sentencing is broadened from not just the state of 
+the accused’s (or offender’s) brain when the crime was committed, but its condition post-conviction and beyond. In 
+cases like these, neuroscientific evidence (and psychological evidence generally) is more likely to be relevant 
+because the state of the offender’s brain post-conviction is the fact-in-issue.97  
+The double-edged sword effect of neuroscience 
+As we discussed earlier in relation to R v McCann,98 while a brain abnormality may support a more lenient 
+sentence (for example, due to lessening the effect of general deterrence and reducing moral culpability), it may also 
+require the risk of re-offending to be given greater consideration. Since the neuroscientific evidence can both 
+support a more severe sentence or a more lenient sentence, it is often labelled a double-edged sword [1]. Many 
+scholars have discussed this dual effect of neuroscience on sentencing (see, [44-46]). For instance, Owen Jones and 
+                                                                                                                                                             
+90 Id. at 31. 
+91 Id. at 35. 
+92 Id. at 34; 36. 
+93 Id. at 37. 
+94 Id. at 18; 37. 
+95 Id. at 44; 45. 
+96 Id. at 46. 
+97 For further cases about contribution of neuroscience to sentencing in Australia see, R v Lepore [2013] SASCFC 13 (where 
+fresh neuroscientific evidence in the appellate court required mitigation of the sentence); The Queen v Hildebrandt [2014] VSC 
+321 (where the offender’s frontal-lobe damage was a mitigating factor in sentencing); The Queen v Giles [2014] VSC 210 (where 
+neuroscientific evidence indicated further consideration of future offending and protection of the society); The Queen v Furlan 
+[2014] VSC 361 (where the offender's acquired brain injury was a mitigating factor in sentencing); Ross v R [2006] NSWCCA 65 
+(where the sentence was found to be excessive for the defendant who suffered from frontal-lobe impairment); Regina v Michael 
+James ELSWORTH [2000] NSWSC 582 (where neuroscience explained the criminal behaviour); R v Tortell, R v Tsegay [2007] 
+NSWCCA 313 (where neuroscientific evidence indicated frontal-lobe damage); R v Millard [2014] ACTSC 267 (where 
+neuroscience reduced the consideration of moral culpability). 
+98 [2012] NSWSC 1462 15 
+ 
+Francis Shen explain that, “a brain too broken may be simply too dangerous to have at large, even if it is somehow 
+less culpable” ([25] p. 362 quoted in [5]).  
+Beyond McCann, this double-edged feature of neuroscientific evidence has been recognised in Australia 
+since at least 1979. In two highly cited judgments of the High Court of Australia (HCA), Veen v R99 and Veen v R 
+100
+(No 2),  the accused’s brain damage contributed to the successful defence of substantial impairment. However, 
+while his brain impairment was considered a mitigating factor, it also resulted in arguments regarding the danger the 
+101
+offender would present to society.  Accordingly, defence lawyers may find a decision about whether or not to use 
+neuroscientific evidence risky. However, that does not seem to be the case in Australia. In most sentencing cases 
+that we analysed in this study, neuroscience only leads to mitigation and is rarely used as evidence for the offender’s 
+risk of recidivism.102 
+Neuroscience and the Juvenile’s Brain  
+A  subset  of  sentencing  cases  focuses  on  juveniles.  These  cases  rely  on  studies  of  developmental 
+neuroscience that have increased our understanding  of the neural bases of psychosocial development during 
+adolescence  and  adulthood.  Such  studies  explain  the  relationship  between  neurological  development  and 
+behavioural tendencies such as risk-taking or impulsivity in adolescents [26]. For instance, the prefrontal cortex – 
+the area of the brain that is associated with advanced thinking abilities such as planning and measuring risk and 
+reward, as well as self-regulation and impulse control – is immature during adolescence. As such, juveniles are more 
+inclined to take risks and tend to act more impulsively than older individuals [27]. 
+In the U.S., scholars have discussed the  influence of this research on reduced sentences for juveniles in the 
+criminal justice system [28]. In some recent U.S. cases, courts ordered comparatively lower sentences for juveniles 
+who committed serious crimes than for their adult counterparts [29]. For instance, in one decision, the death penalty 
+                                                 
+99 [1979] HCA 7; (1979) 143 CLR 458 
+100 Veen v R (No 2) [1988] HCA 14; (1988) 164 CLR 465 (29 March 1988). 
+101 Also, in R v Morton [2010] NTSC 26, EEG and MRI scans confirmed brain damage and temporal lobe epilepsy resulting in 
+mental impairment, that led to a reduced weight given to moral culpability, and general and specific deterrence, but resulted in a 
+greater consideration of the need to protect society from the risk of recidivism.  
+102 Similar to this study, an empirical study in the U.S. by Deborah Denno titled “The Myth of the Double-Edged Sword: An 
+Empirical Study of Neuroscience Evidence in Criminal Cases” indicates that only in a few cases neuroscience is an indicative of 
+the offender’s risk of recidivism. [5] 16 
+ 
+for juveniles who committed their crimes before the age of 18 was set aside.103 In another case, life without parole 
+was prohibited for non-homicides with juveniles who were under 18 when the crime was committed [28, 29]. 104 
+While brain development and biological maturity are historically considered to have been achieved by the 
+age of eighteen or during early adulthood, some relatively recent studies have found that the connection between a 
+person’s prefrontal cortex and the areas of the brain associated with rewarding giving and responding to social and 
+emotional stimuli is not complete until their mid-twenties [27, 30]. The bond that develops between these two areas 
+of the brain in later years enables the prefrontal cortex to control the emotionally aroused actions and lead to socially 
+accepted behaviour [31]. 
+In Australian criminal proceedings, neuroscience has also contributed to the way in which courts sentence 
+juveniles and young adults. In Webster (a Pseudonym) v R105, the Victorian Court of Appeal106 stated that sentencing 
+young offenders requires a different application of the various purposes of punishment in comparison to sentencing 
+adults.107 Three reasons were given for this: the immaturity of a young offender reduces their moral culpability, 
+“custody can be particularly criminogenic for a young person, whose brain is still developing”, and the process of 
+maturation and development that they are experiencing provides a unique opportunity for rehabilitating a young 
+offender.108  
+To support the relationship between the immaturity of young offenders and their criminality, the court, 
+quoting  from  a  study  ([32]  p.  434),  mentioned  that  ‘[w]hile  the  cognitive  capacities  of  16-year-olds  may 
+approximate those of adults, psychosocial maturation proceeds more slowly than cognitive development, leading to 
+social and emotional differences between adolescents and adults that continue well beyond mid-adolescence and 
+have profound effects on decision making’.109 In relation to the importance of rehabilitating juvenile offenders, the 
+court referred to research [26] that has shown that immature juvenile brains respond to punishment in a way that 
+increases the risk of re-offending rather than reducing it.110 
+                                                 
+103 Roper v. Simmons, 543 U.S. 551 (2005). 
+104 Graham v. Florida, 560 U.S. 48 (2010). 
+105 [2016] VSCA 66. 
+106 Majority decision. 
+107 Id. at 7. 
+108 Id. at 8. 
+109 Id. at 26. 
+110 Id. at 27. 17 
+ 
+In another case, with regard to the influence of alcohol and drugs on young male offenders when compared 
+to more mature adults, the court explained that ‘[r]esearch shows that the executive functions of the brain of 
+eighteen and twenty-five years old males are still developing…Consequently, alcohol, drugs and passion impair the 
+judgment of young men to a greater degree than the same ingredients are likely to do with more mature males.’111 
+The court also noted that sentencing considerations related to the age of the offender should not alter based on the 
+seriousness of the offence.112   
+A different aspect of the mental development of a juvenile offender and their future dangerousness was 
+discussed in R v Wong.113 In that case, the psychiatrists explained that the brain and personality of an eighteen-year-
+old offender are still developing. As such, ‘[i]t would [be] expected that [the offender’s] brain and personality will 
+mature during the years he spends in custody accompanied by improved judgment and impulse control.’ 114 
+Part IV. Critical Analysis of Australian Criminal Courts’ Use of Neuroscientific Evidence 
+  Now that we have reviewed the many uses of neuroscience in Australian criminal courts, it is possible to 
+critically reflect on those uses. As many commentators have noted, the amount of basic and applied research in 
+neuroscience has greatly increased over the past several decades (For a review, see [33]). In other words, it is a 
+discipline that is still very much in its formative stages. While the scientific literature underlying neuroscience can 
+self-correct over the years, there are fewer opportunities for self-correction in law (e.g., limited rights of appeal) . As 
+a result, both scientists and legal actors must establish an “ethic of caution” when relying on neuroscientific 
+evidence [34]. In other words, should not go beyond their data and make claims that cannot be defended (see, [34] p. 
+38-42). 
+  The importance of caution when relying on neuroscientific evidence is underscored by recent findings 
+demonstrating uncertainties in its scientific foundations. For instance, it is well known that neural imaging studies 
+are expensive to perform and thus have historically included fewer participants than non-imaging behavioural 
+studies. Denes Szuchs and John Ioannidis recently performed a study finding that this lack of sample size is so 
+                                                                                                                                                             
+For a similar case see, R v Hawkins [2015] ACTSC 333 at 64, “[the offender’s] age is also relevant in itself. He is still a 
+relatively young man and neuroscience shows that the male brain is not fully mature and developed until mid twenties.” 
+111 R v Khosravi, Alborz [2008] NSWDC 298 at 1. 
+112 Id. at 71. 
+113 [2010] NSWSC 171. 
+114 Id. at 27. 18 
+ 
+problematic that it is likely that over half the published studies in cognitive neuroscience contain spurious findings 
+[10]. Similarly, neuroscience researchers have a great deal of discretion in how they analyse imaging data. Many 
+have likely strategically selected measurement points (i.e., voxels) in brain images when comparing them to the 
+behaviour of interest ([35]; see also [36]). This practice produces artificially inflated findings (i.e., “voodoo 
+correlations”) that misrepresent the robustness of the specific claim.  
+  More generally, there have  been two  broad academic responses (schools of thought) to the  use of 
+neuroscience evidence in the courtroom (see [20] for a review). The first is sceptical and cautious. These researchers 
+say that brain states are rarely relevant to criminal law criteria, which are largely behavioural [34]. And moreover, 
+the use of brain images in court may be highly prejudicial with lay factfinders ascribing them more weight than they 
+deserve ([8]; see also [9]). As a result, neuroscience may be high in persuasiveness but possess little-to-no legal 
+relevance (i.e., Morse refers to such evidence as merely ‘rhetorically relevant’)[9, 34]. The second school of thought 
+embraces a more expansive role for neuroscience in the criminal justice system [37]. 
+  As we will discuss below, we did not observe many of the first school of thought’s concerns about 
+neuroscience in court in our review of the Australian jurisprudence. This is demonstrated by the fact that the 
+neuroscience is generally treated as a contributory tool among other tools in assessing a mental state or merely a 
+suggestive evidence rather than dispositive proof of a mental state (i.e. smoking gun). For example, recall that in 
+Berlingo, other traditional forms of psychiatric assessment overcame imaging suggesting there was no mental 
+impairment.115  Still,  the  picture  in  Australia  was  not  unilaterally  so  rosy.  We  did  find  some  indication  of 
+neuroscience’s prejudice and merely rhetorical relevance. We will describe these in the following section. 
+Prejudicial Neuroscience and Rhetorical Relevance in Australian Neurolaw 
+  One of the most serious dangers presented by the rapid increase in neuroscience in court is that the tribunal 
+of fact may place undue weight on this evidence. In evidence law, this danger is meant to be countered by the trial 
+judge’s discretion to exclude evidence when the danger of prejudice it presents outweighs its probative value [38]. 
+                                                 
+115 Beyond the cases reviewed above, see also R v Santos [2001] NSWSC 923 where the offender’s substantial impairment 
+defence (manslaughter) was based on three contributory factors. First, the offender suffered personality change (i.e. irritable and 
+predisposed to losing temper) as the result of a head injury. Neuropsychological testing also showed cognitive impairment as 
+another result of head injury. The third factor was depression that according to expert report "added to his difficulties in 
+understanding [victim’s] actions and resolving the issues which arose from them.” (at 20) While none of these factors seems to be 
+sufficient to substantially impair the offender's abilities, the combination of these factors met that threshold. 19 
+ 
+And, in Uniform Evidence Act jurisdictions, there is a mandatory exclusion of such evidence in criminal matters 
+when it is adduced by the prosecution [38].116 For instance, trial judges often exclude images from grisly crime 
+scenes under the theory that they add little to the understanding of the crime, but may deeply prejudice the jury 
+against the accused [39]. In the context of neurolaw, one of the first objections to the use of neuroscientific images in 
+court was that they were overly prejudicial and added little to the expert’s testimony [8]. In particular, Joseph Dumit 
+was concerned that fact-finders would overemphasise testimony buttressed by brain images because they seemed 
+more objective: “…I argue there is an undue risk in courtrooms that brain images will not be seen as prejudiced, 
+stylized  representations  of  correlation,  but  rather  as  straightforward,  objective  photographs  of,  for  example, 
+madness” [8].117 
+Scans are not objective (see [8, 34]), in that their  meaning relies on interpretation by expert neuroscientists 
+(and others). In other words, brain scans are, by themselves, almost never dispositive of any legally meaningful 
+mental condition [8, 34, 40, 41]. To illustrate the latter point, Emma Sprooten and colleagues performed a meta-
+analysis of 537 fMRI studies spanning 21,427 total participants [42]. They examined whether those scans could 
+reliably differentiate between patients suffering from five major mental illnesses (schizophrenia, bipolar disorder, 
+major depressive disorder, anxiety disorders, and obsessive compulsive disorder). They found that fMRI was largely 
+not up to the task – the differences between patients and controls were largely the same across illnesses. In other 
+words, fMRI, currently, has very low diagnostic specificity. Of course, brain scans can certainly assist an expert in 
+coming to an opinion or diagnosis (see [8]). That process, however, depends on the subjective judgment of the 
+expert – the scan should not be mistaken as objective, dispositive evidence. 
+  In reviewing case law, it can be difficult (and sometimes impossible) to determine if a judge or jury is 
+misconstruing neuroscientific evidence as objective. We did, however, find one judgment in which a trial judge’s 
+reasons expressly misconceived neuroscientific as objective. In this case, R v Hussein,118 the issue was whether Mr. 
+Hussein was fit to stand trial. The defence proffered a clinical neuropsychologist, Dr. Dowla, who performed a scan 
+                                                 
+116 Uniform evidence jurisdictions are New South Wales, Tasmania, Victoria, the Northern Territory, and the Australian Capital 
+Territory. 
+117 The neurolaw literature mainly criticises the use of brain imaging evidence and it seems there is less concern about other types 
+of neuroscientific evidence (See [55, 56]). As such, the main focus of this section is on cases that brain imaging evidence is 
+discussed because that seem to present to most possibility for prejudice.  
+118 [2011] NSWDC 103. 20 
+ 
+showing abnormalities in the Hussein’s prefrontal cortex.119 Still, the prosecution’s experts maintained that Hussein 
+was fit to stand trial.120 Ultimately, the trial judge preferred the defence’s experts and seemed to misunderstand the 
+nature of the neuroscientific evidence: “To my mind, there is clear objective evidence from Dr. Dowla’s testing of 
+Mr. Hussein’s disability.”121 (emphasis added) He thus found Hussein unfit to stand trial.122 Brain scans, while a 
+useful diagnostic tool, should not be considered objective evidence. They rely on the subjective interpretation of the 
+analyst. 
+  Despite the experience in Hussein, many researchers have found that fact-finders do not have their 
+decision-making overwhelmed by the purported objectivity of neuroscience (see [43, 44]). Recently, Shen and 
+colleagues  performed  a  study,  presenting  some  participants  with  EEG  information  that  either  supported  or 
+challenged the accused’s credibility [43]. They found that the EEG information indeed influenced the verdict 
+participants chose, but the overall strength of the case was a stronger predictor of the verdict (approximately double 
+the effect size). While there still seems to be no strong consensus in the field [43], it seems safe to say that 
+neuroscientific evidence can affect jurors’ (or, more specifically, the jury-eligible subject pool commonly used in 
+studies like Shen’s) decision-making, but it does not seem as prejudicial as academics originally thought. 
+  Our review generally accords with findings like those made by Shen and colleagues. We found that 
+Australian judges rarely expressly favoured neuroscience over well-established behavioural psychological evidence. 
+One case that came close to the line was R v AB.123 In that case, the accused argued that he had been substantially 
+impaired when he killed his wife.124 The trial judge considered the opinions of several psychological experts who 
+opined on the accused’s dementia. Some of the cognitive measures were inconclusive. For instance, the accused 
+scored a 24 on the Minimum Mental State Examination (MMSE, a test for cognitive impairment) – a borderline 
+score.125 The trial judge weighed this score together with an MRI that showed frontal lobe damage: “…‘frontal 
+impairment’ – in which judgment and planning are adversely affected – are not demonstrated well in an MMSE and 
+behavioural impairments are not tested. It is important, therefore, not to ascribe too much significance to this test in 
+                                                 
+119 MRI and EEG scans did not indicate any abnormality. But the third test a Ceretec Brain Perfusion Study, showed some 
+abnormalities. Id. at 20, 24. 
+120 Id. at 40-43. 
+121 Id. at 40. 
+122 Id. at 46, 47. 
+123 [2013] NSWSC 1739. 
+124 See Part II for a description of substantial impairment. 
+125 Id. at 51. 21 
+ 
+light of the MRI’s demonstration of frontal lobe damage.”126 In other words, the trial judge appeared to be aware of 
+the limitations of the various tests that were performed, rather than irrationally preferring the neuroscientific tests.  
+  The experience in AB also illustrates the fact that, in Australia,  the neuroscience is regularly duplicative of 
+well-established clinical tests and thus may be categorized as merely rhetorically relevant [34]. In AB, for instance, 
+the finding of substantial impairment due to dementia was supported (beyond the MMSE) by other classic forms of 
+psychiatric testing and interviewing.127 The dangers with admitting merely rhetorically relevant evidence are not as 
+serious as misunderstanding evidence, but the practice can consume valuable court resources and encourage parties 
+to retain costly rebuttal witnesses. The practice can also lead to legal outcomes that are plainly irrational. The legal 
+treatment of neuroscientific and non-neuroscientific evidence about intoxication is an excellent example of an 
+irrational legal distinction. 
+On the topic of intoxication evidence, contrast the admitted testimony of the expert in H, LP (reviewed in 
+Part II), who couched his testimony about the effects of alcohol in neuroscientific terms, with a long line of cases 
+excluding opinion evidence about the effects of intoxication (but not couched in neuro-language). These latter cases 
+excluded the evidence because it was either irrelevant or duplicative of common sense. As to common sense, courts 
+noted that intoxication is a phenomenon that juries can adequately form their own judgments about: “where the jury 
+are faced with aberrations of human behaviour caused by the intake of alcohol, that is an area they are perfectly able 
+to form a judgment about without being assisted by the experts…”128 And regarding relevance, courts have held that 
+the expert evidence is not sufficiently probative of the fact in issue (often intent).  
+These cases excluding expert evidence about the role of intoxication on intent are difficult to reconcile with 
+H, LP. In H, LP, the defence’s psychiatrist had not examined the accused directly after the event and merely gave 
+framework evidence “of a general nature as to how alcohol affects the processes of thought that go on within a 
+person’s  brain.”129  This  was  precisely  the  type  of  evidence  excluded  in  the  earlier  cases,  only  couched  in 
+neuroscientific language. This distinction supports some concerns with neuroscientific evidence. Indeed, several 
+studies support a phenomenon sometimes termed “neuromania” whereby lay people prefer explanations that include 
+                                                 
+126 Ibid. 
+127 Id. at 52. It is noteworthy that as discussed above in cases such as Berlingo and Re Ma’a that malingering is suspected 
+neuroscientific evidence might be helpful and provide additional information on which to base a diagnosis. 
+128 R v Haidley and Alford [1984] VR 229 at 233, quoting R v Darrington and McGauley [1980] VR 353. And for similar 
+reasoning see R v Morgan [1986] 2 Qd R 627 at 656; R v Carn [1982] 5 A Crim R at 469-470.  
+129 H, LP at 66. 22 
+ 
+neuroscientific  jargon  [45].  For  example,  in  a  well-known  series  of  studies  titled  “The  seductive  allure  of 
+neuroscience explanations”, Deena Weisberg and colleagues reported that their participants found descriptions of 
+psychological phenomena more satisfying when they included irrelevant neuroscientific terms [46]. Similarly, 
+scientific studies are more persuasive to lay people when they include irrelevant neuroscience [47]. In our analysis, 
+neuromania indeed appears to be the only way to reconcile H, LP and the traditional Australian legal position on 
+intoxication evidence.130 
+Finally, while in some cases it appears that neuroscience is merely duplicate of other traditional forms of 
+evidence, it may still be useful. There are several circumstances where other types of evidence may be inconclusive 
+and unable to meet the legal standard of proof.131 This is evident in cases where the expert is not confident about the 
+outcome  of  the  assessment,  or  cases  in  which  different  experts  have  conflicting  opinions.  In  such  cases, 
+neuroscience can have a “buttressing” function when it is coupled with other types of evidence, forming a more 
+robust claim [48] and meet the standard of proof.132 
+  
+Part V. Conclusion 
+Despite recent research finding that parties increasingly rely on neuroscience as evidence in court, very 
+little is known about how such evidence is being used in the Australian legal context. This study has demonstrated, 
+for the first time, that neuroscience is being used in Australian courts in the forms of diagnostic and framework 
+evidence at several stages in the legal process: pre-trial, trial, and sentencing. In  general, the admission of 
+neuroscientific evidence throughout the court process leads to the conclusion that Australian courts welcome the 
+submission of neuroscience.  
+                                                 
+130 Although note that H, LP was a judge alone trial and thus the trial judge may have been more permissive towards the evidence 
+for that reason. Still, the contrast between the traditional position whereby intoxication evidence is irrelevant and the trial judge 
+in H, LP taking the time to specifically report the “neuroscientific” opinion evidence about intoxication is striking. We cannot, 
+however, conclusively rule out other distinctions between H, LP and the traditional position towards evidence of the effects of 
+extreme intoxication.  
+131 The two main standards of proof are ‘beyond reasonable doubt’ and ‘on the balance of probability’. When the ultimate fact in 
+question is to the detriment of the accused/offender, the standard is the former, and when it is for their benefit, the standard is the 
+latter.  
+132 For instance, in R v McCann (discussed above) two psychiatrists suggested that the offender posed a low risk of re-offending. 
+However, the court, based on the irreversible condition of the offender’s brain and another psychiatrist’s report (i.e. referred his 
+‘dementing process’), concluded that the offender was a danger to the community. 23 
+ 
+Our analysis of how Australian criminal courts use neuroscientific evidence suggests that courts perform 
+balanced reasoning between neuroscientific evidence and other types of evidence, and that neuroscience is generally 
+treated as a contributory tool rather than definitive proof (or, a ‘smoking gun’). Further, courts appear to be cautious 
+about the limitations of neuroscience and do not seem to unilaterally favour it over more traditional forms of 
+evidence. (except the alcohol case, H, LP which suggested the court prefers evidence couched in neuroscientific 
+language).133 
+Although this research extends our knowledge of the use of neuroscience and qualitatively examines 
+hazards and themes that may flow from the use of this evidence in Australian criminal law, it cannot provide 
+empirical conclusions. As such, we encourage more comprehensive empirical research to build on our findings. 
+ 
+Appendix 
+Following our review of criminal cases on the Australian Neurolaw database we sorted them into different 
+categories such as ‘fitness to stand trial’, ‘sentencing’, ‘the juvenile brain’, and ‘the brain and memory’. As our 
+categories were largely based on a review of cases in the Australian Neurolaw Database, the general search on 
+AustLII aimed to find any other reasons for the use of neuroscience in Australia that were not included in the 
+Australian Neurolaw Database.  
+We used a variety of keywords including ‘neuroscience’, ‘brain’, ‘neuropsychology’, ‘EEG’, ‘MRI’, ‘CT 
+scan’, ‘fMRI’ and ‘SPECT scan’. As the result of our search thousands of cases were produced; however, as the 
+purpose of this study is to explore different uses of neuroscience in criminal courts, we purposefully reviewed a 
+number of cases to find out whether neuroscience is used in a way that we had not previously considered. 
+Accordingly, revision of cases ended when we could not find any new use of neuroscience.  
+In order to identify cases where neuroscience was used for specific purposes, we used Boolean operators. 
+For instance, to find cases in which reference is made to both ‘memory’ and ‘the brain’, we searched ‘brain AND 
+memory’. We also used more complex searches such as ‘(false/5/memory) AND brain AND eyewitness’. This only 
+produced results in which ‘brain', ‘eyewitness', ‘false’ and ‘memory’ were noted in the case, and where there are not 
+                                                 
+133 And this is consistent with empirical research examining the effect of neuroscientific jargon on laypeople. See [46]. 24 
+ 
+more than 5 words between ‘false’ and ‘memory'. This approach (proximity operator) helped to avoid cases where 
+irrelevant  combinations  (i.e.  ‘false  accusation’  and  ‘childhood  memory’)  are  noted  in  different  parts  of  the 
+judgement. 
+We then sorted the cases into different categories (similar to our categories on the Australian Neurolaw 
+Database). A review of the dataset indicated that in some categories all the cases were from a single jurisdiction (i.e. 
+New South Wales). We conducted a further search to balance the distribution of cases from different jurisdictions. 
+As such, our research better represents the use of neuroscience in Australia.  
+Of the 779 cases that we reviewed, a proportion of the cases were irrelevant to the study and were 
+excluded. For instance, in many cases neuroscientific tests, such as MRI and CT scans, were used to examine other 
+body parts than the brain, or were conducted on the victim rather than the accused/offender. Occasionally the cases 
+were also the same as those listed on the Australian Neurolaw Database. 
+ 
+Acknowledgements  
+Special thanks to Prof. Gary Edmond, Dr Allan McCay, Prof. Nicole Vincent and anonymous reviewers for 
+providing feedback that greatly improved the manuscript.  
+ 
+Reference list 
+1.   Chandler, Jennifer A. 2016. The use of neuroscientific evidence in Canadian criminal proceedings. Journal 
+of Law and the Biosciences 2. Oxford University Press: 550–579. 
+2.   Catley, Paul, and Lisa Claydon. 2015. The use of neuroscientific evidence in the courtroom by those accused 
+of criminal offenses in England and Wales. Journal of Law and the Biosciences 2. Oxford University Press: 
+510–549. 
+3.   de Kogel, C. H., and E. J. M. C. Westgeest. 2015. Neuroscientific and behavioral genetic information in 
+criminal cases in the Netherlands. Journal of Law and the Biosciences 2: 580–605. doi:10.1093/jlb/lsv024. 25 
+ 
+4.   Farahany, Nita A. 2016. Neuroscience and behavioral genetics in US criminal law: an empirical analysis. 
+Journal of Law and the Biosciences 2. Oxford University Press: 485–509. 
+5.   Denno, Deborah W. 2015. The Myth of the Double-Edged Sword: An Empirical Study of Neuroscience 
+Evidence in Criminal Cases. Boston College Law Review 56. Boston College School of Law: 493–551. 
+6.   Denno, Deborah W. 2016. How Prosecutors and Defense Attorneys Differ in Their Use of Neuroscience 
+Evidence. Fordham L. Rev. 85. HeinOnline: 453–479. 
+7.   Houston, L, and A Vierboom. 2012. Neuroscience and law: Australia. International Neurolaw. Springer 
+Berlin Heidelberg: 11–42. 
+8.   Dumit, Joseph. 1999. Objective brains, prejudicial images. Science in Context 12. Cambridge University 
+Press: 173–201. 
+9.   Morse, Stephen J. 2005. Brain overclaim syndrome and criminal responsibility: A diagnostic note. Ohio St. 
+J. Crim. L. 3. HeinOnline: 397. 
+10.   Szucs, Denes, and John P A Ioannidis. 2017. Empirical assessment of published effect sizes and power in 
+the recent cognitive neuroscience and psychology literature. PLoS biology 15. Public Library of Science: 
+e2000797. doi:https://doi.org/10.1371/journal.pbio.2000797. 
+11.   Faigman, David L, Richard J Bonnie, B J Casey, Andre Davis, Morris B Hoffman, Owen D Jones, Read 
+Montague, Stephen Morse, Marcus E Raichle, and Jennifer A Richeson. 2016. G2i Knowledge Brief: A 
+Knowledge Brief of the MacArthur Foundation Research Network on Law and Neuroscience. MacArthur 
+Foundation Research Network on Law and Neuroscience. 
+12.   Buckholtz, Joshua W, Valerie F Reyna, and Christopher Slobogin. 2016. A neuro-legal lingua franca: 
+Bridging law and neuroscience on the issue of self-control. (Forthcoming; Vanderbilt Public Law Research 
+Paper No. 16–32) Mental Health Law & Policy Journal. 
+13.   Raine, A. 2013. The anatomy of violence: The biological roots of crime. Vintage. Vintage. 26 
+ 
+14.   Campbell, Ian Graham. 1988. Mental disorder and criminal law in Australia and New Zealand. Lexis Pub. 
+15.   Freckelton, Ian. 1996. Rationality and flexibility in assessment of fitness to stand trail. International Journal 
+of Law and Psychiatry 19. Elsevier Science: 39–59. 
+16.   Mullen, Paul E. 2002. Commentary: Competence assessment practices in England and Australia versus the 
+United States. Journal of the American Academy of Psychiatry and the Law Online 30. American Academy 
+of Psychiatry and the Law: 486–487. 
+17.   Samuels, Anthony, Colman O’Driscoll, and Stephen Allnutt. 2007. Fitness issues in the context of judicial 
+proceedings. Australasian Psychiatry 15. SAGE Publications Sage UK: London, England: 212–216. 
+18.   Bronitt, Simon, and Bernadette McSherry. 2017. Principles of Criminal Law. Thomson Reuters 
+(Professional) Australia Pty Limited. 4th ed. 
+19.   Allnutt, Stephen, Anthony Samuels, and Colman O’driscoll. 2007. The insanity defence: from wild beasts to 
+M’Naghten. Australasian psychiatry : bulletin of Royal Australian and New Zealand College of 
+Psychiatrists 15: 292–298. doi:10.1080/10398560701352181. 
+20.   Slobogin, Christopher. 2017. Neuroscience nuance: dissecting the relevance of neuroscience in adjudicating 
+criminal culpability. Journal of Law and the Biosciences 4: 577–593. doi:https://doi.org/10.1093/jlb/lsx033. 
+21.   Morse, Stephen J. 2002. Uncontrollable urges and irrational people. Virginia Law Review. JSTOR: 1025–
+1078. 
+22.   Farahany, Nita A, and James E. Coleman Jr. 2009. Genetics, Neuroscience, and Criminal Responsibility. In 
+The impact of behavioral sciences on criminal law, ed. Nita A. Farahany, 183–240. Oxford University Press. 
+23.   Barth, Abram S. 2007. A double-edged sword: The role of neuroimaging in federal capital sentencing. 
+American journal of law & medicine 33. SAGE Publications Sage CA: Los Angeles, CA: 501–522. 
+24.   Snead, O C. 2007. Neuroimaging and the Complexity of Capital Punishment. NYUL Rev. 82: 1265–1339. 27 
+ 
+25.   Jones, OD, and FX Shen. 2012. Law and neuroscience in the United States. In International Neurolaw: A 
+Comparative Analysis, ed. Tade Matthias Spranger, 349–380. Springer. 
+26.   Steinberg, Laurence. 2009. Adolescent development and juvenile justice. Annual review of clinical 
+psychology 5. Annual Reviews: 459–485. 
+27.   Scott, Elizabeth S, Richard J Bonnie, and Laurence Steinberg. 2016. Young Adulthood as a Transitional 
+Legal Category: Science, Social Change, and Justice Policy. Fordham L. Rev. 85. HeinOnline: 641–666. 
+28.   Grisso, Thomas, and Antoinette Kavanaugh. 2016. Prospects for developmental evidence in juvenile 
+sentencing based on Miller v. Alabama. Psychology, Public Policy, and Law 22. American Psychological 
+Association: 235–249. 
+29.   Scott, Elizabeth, Thomas Grisso, Marsha Levick, and Laurence Steinberg. 2015. The Supreme Court and the 
+transformation of juvenile sentencing. New York, NY: Trustees of Columbia University. 
+30.   Cohen, Alexandra O, Kaitlyn Breiner, Laurence Steinberg, Richard J Bonnie, Elizabeth S Scott, Kim 
+Taylor-Thompson, Marc D Rudolph, et al. 2016. When Is an Adolescent an Adult? Assessing Cognitive 
+Control in Emotional and Nonemotional Contexts. Psychological Science 27. SAGE Publications Inc: 549–
+562. doi:10.1177/0956797615627625. 
+31.   Cohen, Alexandra O, Richard J Bonnie, Kim Taylor-Thompson, and B J Casey. 2015. When Does a 
+Juvenile Become an Adult: Implications for Law and Policy. Temp. L. Rev. 88. HeinOnline: 769–943. 
+32.   Cauffman, Elizabeth, and Laurence Steinberg. 2012. Emerging findings from research on adolescent 
+development and juvenile justice. Victims & Offenders 7. Taylor & Francis: 428–449. 
+33.   Shen, Francis X. 2010. The Law and Neuroscience Bibliography: Navigating the Emerging Field of 
+Neurolaw. International Journal of Legal Information 38: 352–399. 
+34.   Morse, Stephen. 2017. Neuroscience Evidence in Forensic Contexts: Ethical Concerns. In Ethics Challenges 
+in Forensic Psychiatry and Psychology Practice, ed. E. H. Ezra and M. D. Griffith. Columbia University 28 
+ 
+Press. 
+35.   Vul, Edward, Christine Harris, Piotr Winkielman, and Harold Pashler. 2009. Puzzlingly high correlations in 
+fMRI studies of emotion, personality, and social cognition. Perspectives on psychological science 4. SAGE 
+Publications Sage CA: Los Angeles, CA: 274–290. 
+36.   Poldrack, Russell A, John Monahan, Peter B Imrey, Valerie Reyna, Marcus E Raichle, David Faigman, and 
+Joshua W Buckholtz. 2018. Predicting Violent Behavior: What Can Neuroscience Add? Trends in Cognitive 
+Sciences 22: 111–123. doi:https://doi.org/10.1016/j.tics.2017.11.003. 
+37.   Bennett, Elizabeth. 2016. Neuroscience and Criminal Law: Have We Been Getting It Wrong for Centuries 
+and Where Do We Go from Here. Fordham L. Rev. 85. HeinOnline: 437–451. 
+38.   Heydon, John Dyson, and Sir Rupert Cross. 2015. Cross on evidence. LexisNexis Australia. 
+39.   Bright, David A, and Jane Goodman-Delahunty. 2006. Gruesome evidence and emotion: anger, blame, and 
+jury decision-making. Law and human behavior 30. Germany: Springer: 183–202. 
+40.   Morse, S, and W Newsome. 2013. Criminal responsibility, criminal competence, and prediction of criminal 
+behavior. In A Primer on Criminal Law and Neuroscience, ed. Stephen J. Morse and Adina L. Roskies, 150–
+178. Oxford University Press. 
+41.   Satel, Sally, and Scott O Lilienfeld. 2013. Brainwashed: The Seductive Appeal of Mindless Neuroscience. 
+Basic Books. New York, NY: Basic Books. 
+42.   Sprooten, Emma, Alexander Rasgon, Morgan Goodman, Ariella Carlin, Evan Leibu, Won Hee Lee, and 
+Sophia Frangou. 2017. Addressing reverse inference in psychiatric neuroimaging: Meta‐analyses of task‐
+related brain activation in common mental disorders. Human brain mapping 38. Wiley Online Library: 
+1846–1864. doi:https://doi.org/10.1002/hbm.23486. 
+43.   Shen, Francis X, Emily Twedell, Caitlin Opperman, Jordan Dean Scott Krieg, Mikaela Brandt-Fontaine, 
+Joshua Preston, Jaleh McTeigue, Alina Yasis, and Morgan Carlson. 2017. The limited effect of 29 
+ 
+electroencephalography memory recognition evidence on assessments of defendant credibility. Journal of 
+Law and the Biosciences 4: 330–364. doi:https://doi.org/10.1093/jlb/lsx005. 
+44.   Schweitzer, Nicholas J, Michael J Saks, Emily R Murphy, Adina L Roskies, Walter Sinnott-Armstrong, and 
+Lyn M Gaudet. 2011. Neuroimages as evidence in a mens rea defense: No impact. Psychology, Public 
+Policy, and Law 17. American Psychological Association: 357–393. 
+45.   Legrenzi, Paolo, and Carlo Umiltà. 2011. Neuromania: On the limits of brain science. Translated by Frances 
+Anderson. Oxford University Press. 
+46.   Weisberg, Deena Skolnick, Frank C Keil, Joshua Goodstein, Elizabeth Rawson, and Jeremy R Gray. 2008. 
+The seductive allure of neuroscience explanations. Journal of cognitive neuroscience 20. MIT Press: 470–
+477. 
+47.   Rhodes, Rebecca E, Fernando Rodriguez, and Priti Shah. 2014. Explaining the alluring influence of 
+neuroscience information on scientific reasoning. Journal of Experimental Psychology: Learning, Memory, 
+and Cognition 40. American Psychological Association: 1432. 
+48.   Jones, Owen D. 2013. Seven Ways Neuroscience Aids Law. In Neurosciences and the Human Person: New 
+Perspectives on Human Activities, ed. Antonio M. Battro, Stanislas Dehaene, Marcelo Sánchez Sorondo, 
+and Wolf J. Singer, 181. Vatican City: The Pontifical Academy of Sciences. 
+49.   Page, Ellie A. 2017. The Criminal Mind: Neuroscientific Evidence as a Mitigating Factor in Sentencing in 
+New South Wales, Australia. Pac. Rim L. & Pol’y J. 26. HeinOnline: 659–691. 
+50.   McSherry, Bernadette, and Bronwyn Glynis Naylor. 2004. Australian criminal laws: Critical perspectives. 
+Oxford University Press. 
+51.   Tulich, Tamara. 2015. Post-Sentence Preventative Detention and Extended Supervision of High Risk 
+Offenders in New South Wales. UNSWLJ 38. HeinOnline: 823–853. 
+52.   McSherry, Bernadette. 2005. Indefinite and preventive detention legislation: From caution to an open door. 30 
+ 
+Criminal law journal 29: 94–110. 
+53.   Keyzer, Patrick, Cathy Pereira, and Stephen Southwood. 2004. Pre-emptive imprisonment for 
+dangerousness in Queensland under the Dangerous Prisoners (Sexual Offenders) Act 2003: The 
+constitutional issues. Psychiatry, psychology and law 11. Taylor & Francis: 244–253. 
+54.   Keyzer, Patrick, and Bernadette M McSherry. 2006. The Preventive Detention of “Dangerous” Sex 
+Offenders in Australia: Perspectives at the Coalface. International Journal of Criminology and Sociology 2: 
+296–305. 
+55.   Glannon, Walter. 2014. The Limitations and Potential of Neuroimaging in the Criminal Law. The Journal of 
+Ethics 18: 153–170. doi:10.1007/s10892-014-9169-y. 
+56.   Brown, Teneille R, and Emily R Murphy. 2010. Through a scanner darkly: functional neuroimaging as 
+evidence of a criminal defendant’s past mental states. Stanford law review 62. 
+   
+ 

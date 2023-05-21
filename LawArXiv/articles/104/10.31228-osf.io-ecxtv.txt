@@ -1,0 +1,1986 @@
+\\jciprod01\productn\C\CJP\26-1\CJP104.txt unknown Seq: 1 13-DEC-16 13:24
+INTERNATIONAL TRADE COMMISSION
+EXCLUSION ORDERS FOR THE
+INFRINGEMENT OF STANDARD-
+ESSENTIAL PATENTS
+J. Gregory Sidak*
+A patent holder whose U.S. patents have been infringed may seek
+redress for patent infringement from the U.S. International Trade Com-
+mission (ITC) under section 337 of the Tariff Act of 1930. Section 337
+authorizes the ITC, among other things, to investigate and bar from entry
+into the United States products that infringe a valid and enforceable U.S.
+patent. A holder of standard-essential patents (SEPs) that has committed
+to license its SEPs on fair, reasonable, and nondiscriminatory (FRAND)
+terms typically retains the right to file a complaint with the ITC. How-
+ever, as of October 2016, no SEP holder has been able to enforce an
+exclusion order against an infringer of SEPs. Limits on the availability of
+exclusion orders for SEPs have largely arisen from concerns that that
+remedy might facilitate patent holdup. In 2013, President Obama, acting
+through the U.S. Trade Representative (USTR), echoed those concerns in
+vetoing an exclusion order that the ITC had issued against an infringer
+of SEPs on the grounds that the exclusion order would not serve the
+public interest in that specific case. The USTR instructed the ITC to ex-
+amine, in future investigations, whether there is evidence that patent
+holdup or holdout has occurred. However, a detailed analysis of the
+ITC’s patent decisions shows that the ITC considered those allegations
+even before President Obama’s veto. In addition, the ITC’s decisions
+issued since President Obama’s veto have confirmed that, even after ex-
+amining evidence of patent holdup, public interest considerations will
+not necessarily weigh against the issuance of an exclusion order. Raising
+concerns about the theoretical risk of patent holdup and presenting un-
+supported allegations about the violation of a FRAND commitment will
+be insufficient to advise against the issuance of an exclusion order. In
+this Article, I examine the evidence that should inform the ITC’s decision
+in investigations concerning SEPs. I explain that, to the extent that the
+ITC needs to consider patent holdup in its public-interest analysis, the
+ITC should determine whether the SEP holder has made a FRAND offer
+* Chairman, Criterion Economics, Washington, D.C. Email: jgsidak@criterioneconom
+ics.com. I thank Urs˘ka Petrovc˘ic˘ and Marc T. Richardson for helpful research and comments.
+Copyright 2016 by J. Gregory Sidak. All rights reserved.
+125\\jciprod01\productn\C\CJP\26-1\CJP104.txt unknown Seq: 2 13-DEC-16 13:24
+126 CORNELL JOURNAL OF LAW AND PUBLIC POLICY [Vol.26:125
+to the respondent. If the SEP holder has extended a FRAND offer, any
+argument that the SEP holder is attempting to extract compensation
+above the boundaries of its FRAND commitment becomes moot. It is ir-
+relevant, for the purposes of the ITC investigation, why the respondent
+failed to accept the SEP holder’s FRAND offer.
+INTRODUCTION................................................. 127 R
+I. EXCLUSION ORDERS UNDER § 337....................... 129 R
+A. ITC Mandates and Responsibilities.................. 129 R
+B. The ITC’s Expedited Docket and Mediation Program
+for § 337 Investigations ............................ 130 R
+C. Elements to Establish a § 337 Claim ................ 132 R
+D. The ITC’s Discretion in Issuing an Exclusion Order . 134 R
+II. AVAILABLE REMEDIES FOR A VIOLATION OF § 337 ....... 136 R
+A. Limited Exclusion Orders........................... 136 R
+B. General Exclusion Orders .......................... 137 R
+C. Cease-and-Desist Orders ........................... 138 R
+D. Exclusion Order Bonds............................. 139 R
+III. ENFORCEMENT OF REMEDIES ............................ 141 R
+A. Presidential Review ................................ 141 R
+B. Enforcement, Stays, and Appeals.................... 142 R
+IV. EXCLUSION ORDERS FOR SEPS BEFORE AND AFTER
+PRESIDENT OBAMA’S VETO IN THE APPLE-SAMSUNG
+DISPUTE ............................................... 145 R
+A. Concerns That an Exclusion Order Might Facilitate
+Holdup ............................................ 145 R
+B. The ITC’s Decisions Before President Obama’s Veto. 147 R
+C. President Obama’s Veto............................ 151 R
+D. The Availability of an Exclusion Order After
+President Obama’s Veto............................ 152 R
+1. Certain Wireless Devices with 3G and/or 4G
+Capabilities and Components Thereof ........... 152 R
+2. Certain 3G Mobile Handsets and Components
+Thereof........................................ 154 R
+3. Certain Wireless Standard Compliant Electronic
+Devices, Including Communication Devices and
+Tablet Computers .............................. 155 R
+4. Summation .................................... 157 R
+V. FRAND-COMMITTED SEPS AND THE PUBLIC-INTEREST
+ANALYSIS.............................................. 157 R
+A. Evidence of Patent Holdup ......................... 158 R
+1. Has the SEP Holder Made a FRAND Offer? .... 158 R
+2. Has the SEP Holder Taken the Necessary Steps
+to Make a FRAND Offer?...................... 159 R\\jciprod01\productn\C\CJP\26-1\CJP104.txt unknown Seq: 3 13-DEC-16 13:24
+2016] INT’L TRADE COMMISSION EXCLUSION ORDERS 127
+B. The Burden of Proof ............................... 160 R
+C. A Patent’s Essentiality and the FRAND Commitment. 163 R
+1. Is the Patent’s Essentiality a Condition Precedent
+to the FRAND Obligations? .................... 164 R
+2. Is the FRAND Commitment an Enforceable
+Contract? ...................................... 165 R
+CONCLUSION................................................... 168 R
+INTRODUCTION
+In the United States, a patent holder can pursue several remedies
+against a patent infringer. Section 284 of the Patent Act provides that,
+upon a finding of infringement, “the court shall award the claimant dam-
+ages adequate to compensate for the infringement, but in no event less
+than a reasonable royalty . . . .”1 In addition, § 283 provides that a court
+“may grant injunctions in accordance with the principles of equity to
+prevent the violation of any right secured by patent.”2 Section 337 of the
+Tariff Act of 1930 also allows a patent holder to petition the U.S. Inter-
+national Trade Commission (ITC)—a federal agency that investigates
+matters of international trade and advises on international trade policy—
+to issue an exclusion order against an infringer, a remedy that denies the
+importation and sale in the United States of products that infringe a valid
+and enforceable U.S. patent.3 In a case of patent infringement, a patent
+holder may thus seek damages for the infringement, an injunction, and an
+exclusion order.
+The ITC has become a popular forum for enforcing intellectual
+property rights, including standard-essential patents (SEPs).4 However,
+as of October 2016, no SEP holder has been able to enforce an exclusion
+order against products that infringed SEPs. Limits on the availability of
+exclusion orders have arisen from concerns that exclusion orders would
+facilitate patent holdup—that is, that the SEP holder would use an exclu-
+sion order as a tool to force the potential licensee to accept a royalty that
+exceeds the fair, reasonable, and non-discriminatory (FRAND) range.5 In
+1 35 U.S.C. §284 (2012).
+2 Id. §283.
+3 19 U.S.C. §1337 (2012).
+4 See, e.g., NUMBEROF SECTION 337 INVESTIGATIONS INSTITUTEDBY CALENDAR YEAR,
+U.S. INT’L TRADE COMM’N, http://www.usitc.gov/intellectual_property/documents/cy_337_in
+stitutions.pdf; see also Bert C. Reiser & Cyrus T. Frelinghuysen, An Overview of Section 337
+Litigation Before the ITC, LAW360 (2010), http://www.law360.com/articles/183706/an-over
+view-of-section-337-litigation-before-the-itc (“The ITC, however, has grown ever more popu-
+lar as a forum for resolving intellectual property disputes, and the commission’s impact on
+international trade has grown more pronounced.”).
+5 See, e.g., Joseph Farrell, John Hayes, Carl Shapiro & Theresa Sullivan, Standard Set-
+ting, Patents, and Hold-Up, 74 ANTITRUST L.J. 603 (2007); Mark A. Lemley & Carl Shapiro,
+Patent Holdup and Royalty Stacking, 85 TEX. L. REV. 1991 (2007).\\jciprod01\productn\C\CJP\26-1\CJP104.txt unknown Seq: 4 13-DEC-16 13:24
+128 CORNELL JOURNAL OF LAW AND PUBLIC POLICY [Vol.26:125
+August 2013, President Obama, acting through the U.S. Trade Represen-
+tative (USTR), Michael Froman, echoed those concerns when he vetoed
+the ITC’s exclusion order that was granted against products that in-
+fringed SEPs on the grounds that the exclusion order would not serve the
+public interest.6 Ambassador Froman said in that particular case that the
+issuance of an exclusion order would harm U.S. consumers and the com-
+petitive conditions of the U.S. economy.7 He instructed the ITC to ex-
+amine, in future investigations, whether evidence of patent holdup or
+holdout advises against the issuance of an exclusion order against a prod-
+uct that infringes a FRAND-committed SEP.
+A comprehensive analysis of the ITC’s patent decisions reveals that
+the ITC entertained allegations of patent holdup and holdout in § 337
+investigations even before President Obama’s veto. Furthermore, in at
+least two investigations that followed President Obama’s veto, the ad-
+ministrative law judge (ALJ) examined in detail allegations about the
+SEP holder’s violation of its FRAND commitment, the asserted patent’s
+essentiality, and patent holdup. However, in none of the investigations
+has an ALJ found those allegations to be sufficiently supported by the
+facts to weigh against the issuance of an exclusion order. Therefore, the
+decisions adopted after President Obama’s veto show that an exclusion
+order remains a remedy available against a product that infringes SEPs.
+In this Article, I examine the evidence that should inform the ITC’s
+decision of whether to issue an exclusion order against a product that
+infringes FRAND-committed SEPs. To the extent that the ITC needs to
+consider patent holdup in its public-interest analysis, the ITC should de-
+termine whether the SEP holder has made a FRAND offer to the respon-
+dent. If the SEP holder has extended a FRAND offer, any argument that
+the SEP holder is attempting to extract compensation above the bounda-
+ries of its FRAND commitment becomes moot. It is irrelevant, for the
+purposes of the ITC investigation, why the respondent failed to accept
+the  SEP  holder’s  FRAND  offer.  Conversely,  evidence  that  the  SEP
+holder made an offer above the FRAND range would support the conclu-
+sion that the SEP holder attempted to hold up the respondent and, there-
+fore, could advise against the issuance of an exclusion order. Because the
+ITC has the statutory duty to issue an exclusion order unless public-inter-
+est factors advise against such a remedy,8 it should be the respondent’s
+burden to show that, in that specific case, the public interest in avoiding
+patent holdup outweighs the benefits of issuing an exclusion order. There
+6 Letter from Michael B.G. Froman, Ambassador, Exec. Office of the President, to Ir-
+ving A. Williamson, Chairman, U.S. Int’l Trade Comm’n at 3 (Aug. 3, 2013), https://ustr.gov/
+sites/default/files/08032013%20Letter_1.PDF [hereinafter Ambassador Froman’s Letter].
+7 Id. at 1–3.
+8 See 19 U.S.C. §1337(d)(1) (2012).\\jciprod01\productn\C\CJP\26-1\CJP104.txt unknown Seq: 5 13-DEC-16 13:24
+2016] INT’L TRADE COMMISSION EXCLUSION ORDERS 129
+is no valid legal or economic reason to place that burden of proof on the
+complainant in investigations concerning SEPs.
+In Part I, I explain the procedure by which a patent holder may
+petition the ITC for an exclusion order. In Part II, I analyze the available
+remedies for a § 337 violation, and in Part III I examine their enforce-
+ment. In Part IV, I analyze the ITC’s decisions in investigations directed
+toward products that allegedly infringed FRAND-committed SEPs. I also
+compare the ITC’s decisions before and after President Obama’s veto. In
+Part V, I analyze the evidentiary standard that should inform the ITC’s
+decisions, and the burden of proof that each party bears in presenting that
+evidence.
+I. EXCLUSION ORDERS UNDER § 337
+The ITC has broad investigative powers in the five primary areas of
+international  trade:  import  injury  investigations,  intellectual-property-
+based import investigations, industry and economic analysis, tariff and
+trade information services, and trade policy support.9 Section 337 inves-
+tigations  thus  fall  under  intellectual-property-based  import
+investigations.10
+A. ITC Mandates and Responsibilities
+The ITC grew from protectionist trade legislation in the early twen-
+tieth century. The Tariff Act of 1930, also known as the Smoot-Hawley
+Tariff Act, gave the ITC’s predecessor, the U.S. Tariff Commission, the
+authority to investigate matters of international trade.11 The initial pur-
+pose of the Smoot-Hawley Tariff Act was to protect domestic agriculture
+from foreign competition—although, as enacted, the Act raised tariffs in
+the industrial sector as well.12
+Congress replaced the Tariff Commission with the ITC as part of
+the Trade Reform Act of 1974.13 Pursuant to Article I, Section 8 of the
+Constitution, Congress has the power to regulate trade.14 The Supreme
+Court stated that, as a result of this power, “it necessarily follows that no
+9 About the USITC, U.S. INT’L TRADE COMM’N, http://www.usitc.gov/press_room/about
+_usitc.htm (last visited Sept. 30, 2016).
+10 Intellectual Property, U.S. INT’L TRADE COMM’N, https://www.usitc.gov/intellectual
+_property.htm (last visited Sept. 30, 2016).
+11 Tariff Act of 1930, ch. 497, §337, 46 Stat. 703 (1930) (codified as amended at 19
+U.S.C. §1337 (2012)).
+12 Sapna Kumar, The Other Patent Agency: Congressional Regulation of the ITC, 61
+FLA. L. REV. 529, 541 (2009); Protectionism in the Interwar Period, U.S. DEP’T OF STATE,
+https://history.state.gov/milestones/1921-1936/protectionism.
+13 Trade Reform Act of 1974, Pub. L. No. 93-618, 88 Stat. 1983 (1974) (codified as
+amended at 19 U.S.C. §1337).
+14 U.S. CONST. art. I, §8.\\jciprod01\productn\C\CJP\26-1\CJP104.txt unknown Seq: 6 13-DEC-16 13:24
+130 CORNELL JOURNAL OF LAW AND PUBLIC POLICY [Vol.26:125
+individual has a vested right to trade with foreign nations.”15 In other
+words, there is no legal right to import into the United States. Whereas
+the Tariff Commission had only advisory power, Congress granted the
+ITC the power, under § 337, to declare certain practices in import trade
+unlawful and to bar the importation of products that infringe a U.S. pat-
+ent.16 Congress further empowered the ITC to bar the sale for importa-
+tion of the infringing product and the sale of the offending product within
+the United States after importation.17
+In 1988, Congress enacted the Omnibus Trade and Competitiveness
+Act,18 which broadened § 337’s scope. The 1988 legislation made it eas-
+ier for a complainant to establish its case before the ITC in two ways,
+both of which are examined in detail in Part I.C. First, Congress ended
+the requirements that the complainant prove that the domestic industry
+was “efficiently and economically operated” and that the importation of
+infringing goods would “destroy or substantially injure” that industry.19
+Second, Congress added § 337(a)(3), which allows the complainant to
+establish the existence of the domestic industry by demonstrating that
+there is, within the United States, “substantial investment in [the pat-
+ent’s] exploitation, including engineering, research and development, or
+licensing.”20  I  analyze  the  ITC’s  domestic  industry  requirement  in
+greater detail in Part I.C.
+B. The ITC’s Expedited Docket and Mediation Program for § 337
+Investigations
+ITC § 337 investigations typically proceed more quickly than pat-
+ent-infringement cases in federal district court. Moreover, in 2010, the
+ITC instituted a mandatory mediation program to facilitate quicker, less
+costly resolution of § 337 disputes through settlement.
+The ITC will decide whether to investigate a case within thirty days
+of the patent holder’s filing of a complaint.21 If the ITC decides to inves-
+15 See Buttfield v. Stranahan, 192 U.S. 470, 493 (1904); see also Sealed Air Corp. v.
+U.S. Int’l Trade Comm’n, 645 F.2d 976, 986 (C.C.P.A. 1981) (“The importer has no right to
+complain as to the operation of the machinery, for the act of importation, even to our citizens,
+is not a vested right, but an act of grace.” (quoting In re Orion Co., 71 F.2d 458, 465 (C.C.P.A.
+1934) (internal citations omitted))).
+16 19 U.S.C. §1337(a)(1)(B)–(D) (2012).
+17 Id.
+18 Omnibus Trade and Competitiveness Act of 1988, Pub. L. No. 100-418, 102 Stat.
+1107 (codified at 19 U.S.C. §§2901–2906 (2012)).
+19 19 U.S.C. §1337(a) (1982) (repealed 1988).
+20 See 19 U.S.C. §1337(a) (2012).
+21 U.S. INT’L TRADE COMM’N, SECTION 337 INVESTIGATIONS: ANSWERSTO FREQUENTLY
+ASKED QUESTIONS 16 (2009), http://www.usitc.gov/intellectual_property/documents/
+337_faqs.pdf [hereinafter 337 FAQs].\\jciprod01\productn\C\CJP\26-1\CJP104.txt unknown Seq: 7 13-DEC-16 13:24
+2016] INT’L TRADE COMMISSION EXCLUSION ORDERS 131
+tigate, which is the norm,22 it will publish a notice of investigation in the
+Federal Register and serve a copy of the complaint and notice of investi-
+gation to all named respondents. After the notice of investigation, the
+ITC assigns an administrative law judge (ALJ) to preside over the hear-
+ings.23 In addition, an investigative attorney from the ITC’s Office of
+Unfair Import Investigations is assigned as a full party to the proceeding
+and is responsible for representing the public interest.24
+Within forty-five days of instituting the investigation, the ITC’s
+ALJ must set a target date for the completion of the investigation, which
+is typically twelve to fifteen months from its initiation.25 Patent infringe-
+ment cases in the federal district courts might take five years.26 In con-
+trast with the pace of complex commercial litigation in federal district
+court, each task within the ITC proceeding takes place within a com-
+pressed time frame. For example, discovery in the ITC usually occurs
+within five to seven months of the filing of the complaint.27 Evidentiary
+hearings in the ITC typically occur within seven months.28
+In August 2010, the ITC instituted, as a permanent agency program,
+a mediation program for § 337 investigations.29 The purpose of the medi-
+ation program is to facilitate settlement by providing an “inexpensive,
+confidential, and quick mechanism to evaluate whether settlement can be
+achieved.”30 Even if the parties do not reach a settlement, they might
+narrow issues and claims in the investigation during mediation.31 Private
+parties in all § 337 cases are “eligible” to participate in the mediation
+program,32 but, practically speaking, participation is mandatory at the
+discretion of the ALJ—that is, the presiding ALJ may nominate a § 337
+22 Id. (“Decisions not to institute an investigation are rare.”).
+23 Id. at 1–2.
+24 Id. at 2.
+25 Id. at 20; see also Christopher A. Hughes & Michael P. Dougherty, Current Trends in
+U.S. Patent Litigation: How to Succeed in “Rocket Docket” Courts, The ITC, and Arbitration,
+THE INTERNATIONAL COMPARATIVE LEGAL GUIDETO: PATENTS 2011, ch. 2, at 3 (Global Legal
+Group Ltd. 2011).
+26 See Gilbert B. Kaplan & Courtland Reichman, The ITC or the District Court? Where
+to Protect Your International Intellectual Property, 10 BRIEFLY, Nov. 2006, at 1.
+27 Id.
+28 See Russell E. Levine, The Benefits of Using the ITC, MANAGING INTELL. PROP., Sept.
+2004, at 27–28, http://www.kirkland.com/siteFiles/kirkexp/publications/2386/Document1/Le
+vine_MIP.pdf.
+29 U.S. INT’L TRADE COMM’N, USER MANUAL FOR COMMISSION MEDIATION PROGRAM
+FOR  SECTION  337  INVESTIGATIONS,  https://www.usitc.gov/intellectual_property/documents/
+Manual_for_Commission_Mediation_Program_337.pdf  [hereinafter  ITC  MEDIATION  PRO-
+GRAM USER MANUAL].
+30 U.S. INT’L TRADE COMM’N, SECTION 337 MEDIATION PROGRAM, Pub. No. 4579, at 3
+(Nov. 2015), https://www.usitc.gov/intellectual_property/documents/mediation_brochure_pub
+4579_2015_final.pdf [hereinafter ITC MEDIATION PROGRAM].
+31 ITC MEDIATION PROGRAM USER MANUAL, supra note 29, at 9. R
+32 Id. at 7.\\jciprod01\productn\C\CJP\26-1\CJP104.txt unknown Seq: 8 13-DEC-16 13:24
+132 CORNELL JOURNAL OF LAW AND PUBLIC POLICY [Vol.26:125
+case for inclusion in the mediation program.33 The Secretary to the Com-
+mission, who works with the mediator to conduct a settlement confer-
+ence, coordinates the program.34 The mediators, who serve on a pro bono
+basis and have been approved by the ITC, are outside experts and consul-
+tants with experience in both patent litigation and mediation.35
+Upon filing a complaint, each complainant and respondent receives
+materials explaining the mediation program.36 Private parties to a § 337
+dispute may request participation in the program by filing a Confidential
+Request to Enter Mediation, copies of which are served on all private
+parties.37 The presiding ALJ may refer § 337 investigations to the Secre-
+tary to the Commission, who may discuss the possibility of mediation
+with the parties involved. The ALJ may also require attendance by par-
+ties at mediation sessions.38 If the mediator concludes that further media-
+tion efforts “will not be fruitful,” then the mediation ceases.39 The ITC
+typically expects mediations to take one day. In fact, mandatory attend-
+ance by a party at a mediation session may not exceed a single day.40
+Unlike in arbitration, a settlement agreement, which is binding on all
+parties, can be achieved “only if all parties agree on that resolution.”41
+Upon reaching a settlement, the parties must jointly file a motion for
+termination of the investigation based on the settlement agreement or
+seek a consent order regarding termination.42
+C. Elements to Establish a § 337 Claim
+Section  337(a)(1)(B)  prohibits  “the  importation  into  the  United
+States, the sale for importation, and the sale within the United States after
+importation . . . of articles that infringe a valid and enforceable United
+States patent.”43 For a complainant to bring a successful § 337 claim
+before the ITC, the complainant must establish (1) infringement of a pat-
+ent under Title 35 of the U.S. Code, (2) the importation of the allegedly
+infringing product, and (3) the existence of a domestic industry related to
+the product that is protected by the patent.44
+33 ITC MEDIATION PROGRAM, supra note 30, at 5. R
+34 Id.
+35 Id. at 8.
+36 Id. at 7.
+37 Id.
+38 Id. at 7–8 (pursuant to 5 U.S.C. §§556(c)(6), (8) (2012)).
+39 Id. at 9.
+40 Id. at 8 n.1.
+41 Id. at 10.
+42 Id.
+43 19 U.S.C. §1337(a)(1)(B) (2012).
+44 Id. §1337(a)(1)–(2).\\jciprod01\productn\C\CJP\26-1\CJP104.txt unknown Seq: 9 13-DEC-16 13:24
+2016] INT’L TRADE COMMISSION EXCLUSION ORDERS 133
+The standard to establish patent infringement in the ITC is the same
+standard as in federal district court.45 Section 271 defines a patent in-
+fringer as one who “without authority makes, uses, offers to sell, or sells
+any patented invention, within the United States or imports into the
+United States any patented invention during the term of the patent there-
+for,”  as  well  as  one  who  “actively  induces”  the  infringement  of  a
+patent.46
+To satisfy § 337’s importation requirement, the complainant must
+prove “the importation into the United States, the sale for importation, or
+the sale within the United States after importation by the owner, im-
+porter, or consignee” of the infringing product.47 The importation re-
+quirement  is  “not  limit[ed]  ‘to  .  .  .  the  actual  physical  process  of
+importation.’”48 As long as there is a connection to importation, the im-
+portation requirement is satisfied. Moreover, there is no minimum quan-
+tity of infringing products that must be imported into the United States to
+meet  the  importation  requirement.49  Although  the  infringing  product
+must be imported, a foreign firm need not produce it to be investigated
+by the ITC. Thus, because the ITC considers the location of the product
+in question instead of the location of the respondent, a patent holder may
+pursue claims against multiple entities from all over the world in a single
+ITC investigation as long as the infringing product has been imported.
+Section 337(a)(2) provides that the prohibition on importation ap-
+plies “only if an industry in the United States, relating to the articles
+protected by the patent . . . exists or is in the process of being estab-
+lished.”50 Therefore, in addition to proving that the imported products
+infringe a valid and enforceable U.S. patent, the complainant must show
+the existence of a domestic industry related to the patent in suit. Section
+337(a)(3) clarifies that a U.S. industry exists if there are (1) significant
+investments in plant and equipment, (2) significant employment of labor
+or capital, or (3) substantial investment in the exploitation of the patent,
+including investments in engineering, research and development, or li-
+45 See, e.g., Texas Instruments, Inc. v. Tessera, Inc., 231 F.3d 1325, 1330 (Fed. Cir.
+2000) (“In section 337 proceedings relevant to patent infringement, the ITC follows Title 35 of
+the United States Code and the case law of this court.”).
+46 35 U.S.C. §271(a)–(b) (2012).
+47 19 U.S.C. §1337(a)(1)(B) (2012).
+48 Kaplan & Reichman, supra note 26, at 41–42 (quoting Welded Stainless Steel Pipe & R
+Tube, Inv. No. 337-TA-29, 1978 WL 50692, at *8 (USITC Feb. 22, 1978) (Final)). Kaplan and
+Reichman review several ITC determinations, illustrating the broad coverage of the importa-
+tion requirement. See id. at 41–43.
+49 Jamie D. Underwood & Ian A. Taronji, ITC Exclusion Is Better Than Litigation: Swift
+Action, Sweeping Remedies, EXECUTIVE COUNSEL, Jan.–Feb. 2008, at 1.
+50 19 U.S.C. §1337(a)(2) (2012).\\jciprod01\productn\C\CJP\26-1\CJP104.txt unknown Seq: 10 13-DEC-16 13:24
+134 CORNELL JOURNAL OF LAW AND PUBLIC POLICY [Vol.26:125
+censing.51 The complainant needs to satisfy only one of these criteria to
+prove the existence of a domestic industry.52
+D. The ITC’s Discretion in Issuing an Exclusion Order
+In deciding whether to issue an exclusion order, the ITC follows a
+two-step process. First, the ITC must determine whether there is a viola-
+tion of § 337. In doing so, the ITC must examine the requirements ana-
+lyzed  in  Part  I.C.  In  addition,  § 337(c)  affords  the  respondent  the
+opportunity to raise “[a]ll legal and equitable defenses” during the ITC’s
+determination of whether the respondent has violated § 337.53 Congress
+adopted this defense provision in 1975 after observing that “the ultimate
+issue of the fairness of competition raised by section 337[] necessitate[s]
+that the Commission review the validity and enforceability of patents, for
+the purposes of section 337, in accordance with contemporary legal stan-
+dards.”54 Because § 337 requires that the U.S. patent be both valid and
+enforceable,55 the ITC will conclude that there is no violation of § 337 if
+the respondent presents sufficient evidence that the patent is not valid or
+not enforceable.56 For example, the respondent could argue that the pat-
+ent is unenforceable because there exists an implied license for the patent
+in suit.57 Similarly, the respondent could present a defense of patent ex-
+haustion—a doctrine that determines that “the initial authorized sale of a
+patented item terminates all patent rights to that item.”58 Therefore, the
+defense provision of § 337(c) allows the respondent to raise any equita-
+51 For a detailed analysis of the criteria to establish the existence of a domestic industry,
+see J. Gregory Sidak, Economic Analysis of the Existence of a Domestic Industry in Sec-
+tion 337 Patent Infringement Cases at the U.S. International Trade Commission, 2 CRITERION
+J. ON INNOVATION (forthcoming 2017), https://www.criterioneconomics.com/economic-theory-
+of-investment-domestic-industry-requirement-itc.html.
+52 Id.; see also AM. BAR ASS’N, SECTION OF INTELLECTUAL PROP. LAW, A LAWYER’S
+GUIDE TO SECTION 337 INVESTIGATIONS BEFORE THE U.S. INTERNATIONAL TRADE COMMIS-
+SION55 (Tom M. Schaumberg ed., 3d ed. 2016).
+53 19 U.S.C. §1337(c) (2012).
+54 S. REP. NO. 93-1298, at 196 (1974), reprinted in 1974 U.S.C.C.A.N. 7186, 7329 (em-
+phasis added).
+55 19 U.S.C. §1337(a)(B)(i) (2012).
+56 See, e.g., Certain Personal Computers & Digital Display Devices, Inv. No. 337-TA-
+606, 2008 WL 2740242, at *1 (USITC Jan. 25, 2008) (Order No. 24: Denying Acer’s Motion
+for Summary Determination Regarding the ‘119 Patent) (“[R]espondents . . . moved for sum-
+mary determination that there is no violation of Section 337 based upon . . . [complainant’s]
+covenant not to sue.”).
+57 Certain Dynamic Random Access Memory Devices & Prods. Containing Same, Inv.
+No. 337-TA-595, 2008 WL 164309, at *2 (USITC Jan. 14, 2008) (Order No. 16: Denying
+Complainant’s Motion for Partial Summary Determination on Respondents’ Second, Third,
+Fourth, Sixth, Seventh, and Eighth Affirmative Defense).
+58 Certain Consumer Electronics with Display & Processing Capabilities, Inv. No. 337-
+TA-619, 2014 WL 1649089, at *3 (USITC Apr. 4, 2014) (Order No. 76: Denying Motion for
+Summary Determination as to Accused Products; and Denying Related Motion to Strike)
+(quoting Tessera, Inc. v. Int’l Trade Comm’n, 646 F.3d 1357, 1369 (Fed. Cir. 2011)).\\jciprod01\productn\C\CJP\26-1\CJP104.txt unknown Seq: 11 13-DEC-16 13:24
+2016] INT’L TRADE COMMISSION EXCLUSION ORDERS 135
+ble and legal defense that it could also raise in a patent infringement
+lawsuit to show that the asserted patent is invalid and unenforceable.
+However, if the ITC finds a violation of § 337, it must act. The ITC
+shall direct that the articles concerned . . . be excluded
+from entry in the United States, unless, after considering
+the effect of such exclusion upon the public health and
+welfare,  competitive  conditions  in  the  United  States
+economy, the production of like or directly competitive
+articles in the United States, and United States consum-
+ers, it finds that such articles should not be excluded
+from entry.59
+The Federal Circuit has emphasized that “the use of ‘shall’ in a statue is
+‘the language of command.’”60 That is, “[b]y statute, the Commission is
+required to issue an exclusion order upon finding a § 337 violation, ab-
+sent a finding that the effects of one of the statutorily-enumerated public-
+interest factors counsel otherwise.”61 Put differently, the ITC must issue
+an exclusion order if it finds a violation of § 337, unless the effect of the
+exclusion order on the statutory public-interest factors—public health
+and welfare, U.S. competitive conditions, the production of competitive
+articles, and U.S. consumers—outweighs the benefits of the exclusion
+order.
+As of October 2016, the ITC has found on only three occasions that
+the public-interest considerations outweighed the benefits of issuing an
+exclusion order.62 The Federal Circuit observed that, in the few cases in
+which the ITC denied an exclusion order upon finding infringement, the
+ITC did so because it concluded that “an exclusion order would deprive
+the public of products necessary for some important health or welfare
+need: energy efficient automobiles, basic scientific research, or hospital
+equipment.”63 Put differently, unless an exclusion order would pose “a
+59 19 U.S.C. §1337 (2012) (emphasis added).
+60 Farrel Corp. v. U.S. Int’l Trade Comm’n, 949 F.2d 1147, 1153 (Fed. Cir. 1991) (citing
+Ass’n of Am. R.R. v. Costle, 562 F.2d 1310, 1312 (D.C. Cir. 1977)).
+61 Spansion, Inc. v. U.S. Int’l Trade Comm’n, 629 F.3d 1331, 1358 (Fed. Cir. 2010)
+(emphasis added).
+62 Certain Fluidized Supporting Apparatus & Components Thereof, Inv. No. 337-TA-
+182/188, Pub. 1667, 1984 WL 63741 (USITC Oct. 1, 1984) (Final); Certain Inclined-Field
+Acceleration Tubes & Components Thereof, Inv. No. 337-TA-67, Pub. 1119, 0080 WL
+594319 (USITC Dec. 1, 1980) (Final); Certain Automatic Crankpin Grinders, Inv. No. 337-
+TA-60, Pub. 1022, 0079 WL 419349 (USITC Dec. 1, 1979) (Final); see also P. Andrew Riley
+& Scott A. Allen, The Public Interest Inquiry for Permanent Injunctions or Exclusion Orders:
+Shedding the Myopic Lens, 17 VAND. J. ENT. & TECH. L. 751, 759–62 (2015).
+63 Spansion, 629 F.3d at 1360 (emphasis added) (internal citation omitted).\\jciprod01\productn\C\CJP\26-1\CJP104.txt unknown Seq: 12 13-DEC-16 13:24
+136 CORNELL JOURNAL OF LAW AND PUBLIC POLICY [Vol.26:125
+real threat to the best interests of the country,” the ITC will issue an
+exclusion order upon finding a § 337 violation.64
+II. AVAILABLE REMEDIES FOR A VIOLATION OF § 337
+When the ITC finds a violation of § 337, it has three remedies at its
+disposal: it may issue a limited exclusion order, a general exclusion or-
+der, or a cease-and-desist order. An exclusion order is an in rem remedy,
+meaning that it is directed at the infringing input, not at the particular
+respondent. Section 337(d)(1) states that the ITC “shall direct that the
+articles concerned . . . be excluded from entry.”65 The Court of Customs
+and Patent Appeals (the predecessor to the Federal Circuit) stated that
+“[a]n  exclusion  order  operates  against  goods,  not  parties.”66  Conse-
+quently, the ITC does not need personal jurisdiction over the respondent
+to issue an exclusion order.67 A cease-and-desist order, by contrast, is an
+in personam remedy that is directed at the respondent. Section 337(f)(1)
+states that the ITC “may issue and cause to be served on any person” a
+cease-and-desist order.68 The Federal Circuit has confirmed that the ITC
+“may issue cease and desist orders when it has personal jurisdiction over
+the party against whom the order is directed.”69
+A. Limited Exclusion Orders
+A limited exclusion order prohibits named respondents, including
+manufacturers of the infringing input and downstream products, from im-
+porting the infringing input (and downstream products) into the United
+States.70 Although the remedy has a similar effect as an injunction that a
+court may issue in a patent infringement case, a limited exclusion order
+pursues a fundamentally different goal. Section 283 of the Patent Act
+provides a court the authority to grant an injunction “to prevent the viola-
+tion of any right secured by patent.”71 By issuing an injunction, a court
+aims to protect the patent holder’s patent rights. Conversely, the purpose
+of an ITC remedy is to protect U.S. domestic industry and trade, not to
+protect the patent holder.72 The ITC does not administer the Patent Act.
+64 Certain Wireless Devices with 3G and/or 4G Capabilities & Components Thereof,
+Inv. No. 337-TA-868, Pub. 2929, 2014 WL 2965327, at *113 (USITC June 13, 2014) (Initial).
+65 19 U.S.C. §1337(d)(1) (2012) (emphasis added).
+66 Sealed Air Corp. v. U.S. Int’l Trade Comm’n, 645 F.2d 976, 985 (C.C.P.A. 1981).
+67 Id. (stating that an exclusion order is “not contingent” upon a determination of per-
+sonal jurisdiction).
+68 19 U.S.C. §1337(f)(1) (2012) (emphasis added).
+69 Gamut Trading Co. v. U.S. Int’l Trade Comm’n, 200 F.3d 775, 784 (Fed. Cir. 1999).
+70 19 U.S.C. §1337(d)(1) (2012).
+71 35 U.S.C. §283 (1952).
+72 See, e.g., Elizabeth I. Winston, Patent Pledges at the International Trade Commission,
+inPATENT PLEDGES—GLOBAL PERSPECTIVESON PATENT LAW’S PRIVATE ORDERING FRONTIER
+(Jorge L. Contreras & Meredith Jacob eds., forthcoming 2017).\\jciprod01\productn\C\CJP\26-1\CJP104.txt unknown Seq: 13 13-DEC-16 13:24
+2016] INT’L TRADE COMMISSION EXCLUSION ORDERS 137
+The ITC is a federal agency with “investigative responsibilities on mat-
+ters of trade.”73 Consequently, it administers trade remedies, and not
+remedies for patent infringement.74
+Included in the ITC’s power to issue an exclusion order is the au-
+thority to issue a temporary exclusion order under the same standard that
+the federal district courts use in issuing a preliminary injunction.75 The
+Federal Circuit stated in Rosemount, Inc. v. ITC that § 337 “requires that
+the exercise of its temporary relief authority should generally parallel
+that of the district courts.”76 Accordingly, the Federal Circuit cited the
+following factors that district courts, and therefore the ITC as well, ought
+to consider when granting preliminary relief:
+(1) the movant’s likelihood of success on the merits; (2)
+whether or not the movant will suffer irreparable injury
+during the pendency of the litigation if the preliminary
+injunction is not granted; (3) whether or not that injury
+outweighs the harm to other parties if the preliminary
+injunction is issued; and (4) whether the grant or denial
+of the preliminary injunction is in the public interest.77
+If the ITC issues a temporary exclusion order, it remains in effect during
+the course of the investigation, as does a preliminary injunction in federal
+district court.
+B. General Exclusion Orders
+A general exclusion order prohibits any party, including parties not
+named as respondents in the ITC’s investigation, from importing a prod-
+uct containing the infringing input into the United States.78 The general
+exclusion order has no counterpart in federal district court, as an injunc-
+tion applies only to named parties.
+To issue a general exclusion order, the ITC must find that such an
+order “is necessary to prevent circumvention of [a limited exclusion or-
+der]” or that “there is a pattern of violation . . . and it is difficult to
+identify the source of infringing products.”79 These statutory require-
+ments raise the bar for complainants to obtain general exclusion orders.80
+73 About the USITC, U.S. INT’L TRADE COMM’N, https://www.usitc.gov/press_room/
+about_usitc.htm.
+74 See id.
+75 19 U.S.C. §1337(e)(3) (2012) (“The Commission may grant preliminary relief . . . to
+the same extent as preliminary injunctions and temporary restraining orders may be granted
+under the Federal Rules of Civil Procedure.”).
+76 Rosemount, Inc. v. Int’l Trade Comm’n, 910 F.2d 819, 821 (Fed. Cir. 1990).
+77 Id. (citing Ill. Tool Works, Inc. v. Grip-Pak, Inc., 906 F.2d 679, 681 (Fed. Cir. 1990)).
+78 19 U.S.C. §1337(d)(2) (2012).
+79 Id.
+80 See Kaplan & Reichman, supra note 26, at 47. R\\jciprod01\productn\C\CJP\26-1\CJP104.txt unknown Seq: 14 13-DEC-16 13:24
+138 CORNELL JOURNAL OF LAW AND PUBLIC POLICY [Vol.26:125
+In Certain Inkjet Ink Supplies & Components Thereof, the ALJ issued a
+general exclusion order that barred the importation of any products that
+infringed four inkjet patents held by Hewlett-Packard.81 The ALJ noted
+the “widespread pattern of unauthorized use” by the respondents, as well
+as the difficulty in identifying the sources of the infringing products.82
+The ALJ also stated that some of the respondents “engaged in tactics that
+make it difficult to identify the true source of the online sale and/or dis-
+tribution of infringing activities, including creating multiple websites and
+corporate identities.”83 The ITC affirmed the issuance of the general ex-
+clusion order.84
+C. Cease-and-Desist Orders
+The ITC may issue a cease-and-desist order as a sole remedy or in
+conjunction with an exclusion order.85 A cease-and-desist order prohibits
+the sale of further units of an infringing input that are already in inven-
+tory in the United States at the time of the ITC’s decision.86 The ITC
+generally issues a cease-and-desist order to a respondent having a “com-
+mercially  significant”  domestic  inventory,  to  prevent  the  respondent
+from flooding the market with products containing the infringing input
+that are already in inventory, thereby undermining the effect of an exclu-
+sion order.87 By the same reasoning, in Texas Instruments Inc. v. ITC, the
+Federal Circuit affirmed the ITC’s issuance of a cease-and-desist order in
+conjunction with a limited exclusion order.88The limited exclusion order
+prohibited respondents from importing the infringing product into the
+United States, and the cease-and-desist order prohibited the respondents
+from selling their domestic inventory.89 If a respondent has no domestic
+inventory, however, a cease-and-desist order would be ineffective to
+remedy the patent infringement. For example, in Fuji Photo Film Co. v.
+ITC, the Federal Circuit affirmed the decision of the ITC not to issue a
+cease-and-desist order against certain respondents because they did not
+maintain any inventory in the United States.90 The ITC (and subse-
+81 Certain Inkjet Ink Supplies & Components Thereof, Inv. No. 337-TA-691, 2010 WL
+5586103, at *20–21 (USITC Aug. 30, 2010) (Initial).
+82 Id. at *17–18.
+83 Id. at *18.
+84 Certain Inkjet Ink Supplies & Components Thereof, Inv. No. 337-TA-691, Pub. 4290,
+2011 WL 7464367, at *1–3 (USITC Nov. 1, 2011) (Final).
+85 19 U.S.C. §1337(f)(1) (2012).
+86 Id.
+87 See, e.g., Certain Lens-Fitted Film Packages, Inv. No. 337-TA-406, Pub. 3219, 1999
+WL 731020, at *16–17 (USITC June 2, 1999) (Final), rev’d on other grounds, Jazz Photo
+Corp. v. Int’l Trade Comm’n, 264 F.3d 1094 (Fed. Cir. 2001); see also Underwood & Taronji,
+supra note 49. R
+88 988 F.2d 1165, 1168 (Fed. Cir. 1993).
+89 Id. at 1169.
+90 386 F.3d. 1095, 1106 (Fed. Cir. 2004).\\jciprod01\productn\C\CJP\26-1\CJP104.txt unknown Seq: 15 13-DEC-16 13:24
+2016] INT’L TRADE COMMISSION EXCLUSION ORDERS 139
+quently the Federal Circuit) found that under those circumstances, a gen-
+eral exclusion order was sufficient.91
+D. Exclusion Order Bonds
+The ITC may require a party to post two types of bonds when the
+agency issues an exclusion order. First, under § 337(e)(2), the ITC may
+require a complainant to post a bond as a prerequisite to receiving a tem-
+porary exclusion order.92 This type of bond is identical to an injunction
+bond that a federal district court may require a patent holder to post as a
+prerequisite  to  receiving  a  preliminary  injunction.  Second,  under
+§ 337(e)(1) and § 337(j)(3), a respondent found liable for patent infringe-
+ment may continue to import the infringing input during the sixty-day
+presidential review period if the respondent posts a bond.93
+According to Rule 65 of the Federal Rules of Civil Procedure,
+which the ITC follows in issuing preliminary relief,94 the ITC may grant
+a temporary exclusion order “only if” the complainant gives security
+(that is, posts an injunction bond) in an amount that the ITC deems
+proper to compensate the respondent if it is wrongfully enjoined by the
+temporary exclusion order.95 When a complainant moves for a temporary
+exclusion order, it must address whether it should be required to post a
+bond and, if it believes that it should, it must specify the appropriate
+amount of the bond.96 Likewise, when the respondent files its response to
+the complainant’s motion for temporary relief, it must address the com-
+plainant’s assertions as to whether a bond should be required and the
+appropriate amount of the bond.97 Typically, the complainant will argue
+that it should not be required to post a bond, but if it is required to do so,
+that the bond amount should be minimal.98 Conversely, the respondent
+will contend that the ITC should require the complainant to post a signif-
+icant bond if the ITC grants preliminary relief.99 If the ITC requires the
+complainant to post a bond, the complainant must submit the bond within
+the period specified by the ITC. Otherwise, the ITC will not issue the
+temporary exclusion order.100 If the ITC later determines that the respon-
+dent did not violate § 337, then the respondent may move for a hearing
+91 Id.
+92 19 U.S.C. §1337(e)(2) (2012).
+93 Id. §1337(e)(1) & (j)(3).
+94 See id. §1337(e)(3).
+95 FED R. CIV. P. 65(c).
+96 19 C.F.R. §210.52(b) (2015).
+97 Id. §210.59(a)–(b).
+98 See, e.g., Certain Silicon Microphone Packages & Prods. Containing the Same, Inv.
+No. 337-TA-695, Pub. 4293, 2011 WL 7575648, at *200–01 (USITC Nov. 1, 2011) (Initial).
+99 See, e.g., id.
+100 19 C.F.R. §210.68 (2015).\\jciprod01\productn\C\CJP\26-1\CJP104.txt unknown Seq: 16 13-DEC-16 13:24
+140 CORNELL JOURNAL OF LAW AND PUBLIC POLICY [Vol.26:125
+to determine whether the complainant’s bond should be forfeited to the
+respondent.101
+After the ITC has issued an exclusion order, the ITC will permit the
+respondent to import the infringing input into the United States during
+the presidential review period, provided that the respondent posts a bond
+“sufficient to protect the complainant from any injury”102 during the
+presidential review period.103 Under § 337(j)(3), after the issuance of an
+exclusion order and “until such determination becomes final”—that is,
+until the presidential review period expires—the respondent is “entitled
+to entry under bond.”104 When the determination becomes final, the bond
+is then forfeited to the complainant.105 In Certain Semiconductor Chips
+Having Synchronous Dynamic Random Access Memory Controllers &
+Products Containing Same, the ALJ recommended a limited exclusion
+order, a cease-and-desist order, and a bond set “at a reasonable royalty
+rate during the Presidential review period.”106 The ITC affirmed the lim-
+ited exclusion order and cease-and-desist order and specified that the
+amount of the bond would be “2.65[%] of the entered value of accused
+products” during the presidential review period.107 The ITC noted that
+the complainant had not established the need for a higher bond rate to
+protect it from injury.108 In contrast, in Certain Inkjet Ink Supplies &
+Components Thereof, upon the issuance of a general exclusion order, the
+ALJ set the bond amount at 100% of the price “differential between the
+domestic product and the imported, infringing product.”109 Because none
+of the respondents participated in discovery, the ALJ found “insufficient
+reliable price information to set a bond based on price differential,” and
+he therefore recommended a bond amount of 100%,110 which the ITC
+affirmed.111
+101 Id. §210.70.
+102 19 U.S.C. §1337(e)(1) (2012).
+103 See Certain Mobile Tels. & Wireless Commc’ns Devices Featuring Digital Cameras,
+& Components Thereof, Inv. No. 337-TA-663, 2009 WL 6037686, at *1 n.2 (USITC Dec. 23,
+2009) (ALJ’s Recommended Determination on Remedy & Bonding).
+104 19 U.S.C. §1337(j)(3) (2012).
+105 Id.
+106 Certain Semiconductor Chips Having Synchronous Dynamic Random Access Mem-
+ory Controllers & Prods. Containing Same, Inv. No. 337-TA-661, Pub. 4266, 2010 WL
+3196463, at *1 (USITC Aug. 10, 2010) (Final) (internal quotation marks omitted).
+107 Id. at *9.
+108 Id.
+109 Certain Inkjet Ink Supplies & Components Thereof, Inv. No. 337-TA-691, 2010 WL
+5586103, at *20 (USITC Aug. 30, 2010) (Initial) (citing Certain Microsphere Adhesives,
+Processes for Making Same, & Prods. Containing Same at 24, Including Self-Stick Reposition-
+able Notes, Inv. No. 337-TA-336 (1995) (Final)).
+110 Id.
+111 See Certain Inkjet Ink Supplies & Components Thereof, Inv. No. 337-TA-691, Pub.
+4290, 2011 WL 7464367, at *1–3 (USITC Nov. 1, 2011) (Final).\\jciprod01\productn\C\CJP\26-1\CJP104.txt unknown Seq: 17 13-DEC-16 13:24
+2016] INT’L TRADE COMMISSION EXCLUSION ORDERS 141
+III. ENFORCEMENT OF REMEDIES
+ITC determinations that find a violation of § 337 are subject to pres-
+idential review.112 Any party affected by the ITC’s determination may
+also appeal the decision to the U.S. Court of Appeals for the Federal
+Circuit,  which  has  appellate  jurisdiction  over  the  ITC’s
+determinations.113
+A. Presidential Review
+Within sixty days of receiving the ITC’s determination, the Presi-
+dent,  “for  policy  reasons,”  may  disapprove  of  the  determination,  in
+which case the ITC’s determination will have “no force or effect.”114 If
+the President does not exercise this power, the ITC’s determination be-
+comes final after sixty days, at which point the parties then have sixty
+days in which to appeal an unfavorable decision to the Federal Circuit.115
+Presidential review is, nonetheless, exceedingly rare. The President has
+reviewed an ITC § 337 determination only six times since the creation of
+the ITC.116 President Carter issued the first presidential disapproval,
+President Reagan issued the next four, and President Obama issued the
+most recent disapproval.117 Reagan disapproved of the ITC’s issuance of
+a limited exclusion order that applied to downstream products in addition
+to the infringing input because it could unnecessarily disrupt trade in the
+downstream products.118 Reagan’s disapproval suggested that the ITC
+should have issued a narrower remedy.119 Reagan’s 1981 disapproval in
+Certain Multi-Ply Headboxes was based on similar grounds and stated
+112 19 U.S.C. §1337(j)(2) (2012).
+113 Id. §1337(c) (“[A]ny person adversely affected by a final determination of the Com-
+mission . . . may appeal such determination . . . to the United States Court of Appeals for the
+Federal Circuit.”).
+114 Id. §1337(j)(2).
+115 337 FAQs, supra note 21, at 26. R
+116 See, e.g., Ambassador Froman’s Letter, supra note 6; Presidential Disapproval of De- R
+termination of the U.S. Int’l Trade Comm’n, Certain Dynamic Random Access Memories,
+USITC Inv. No. 337-TA-242, 52 Fed. Reg. 46,011 (Dec. 3, 1987) [hereinafter Presidential
+Disapproval of Certain Dynamic Random Access Memories]; Presidential Disapproval of De-
+termination of the U.S. Int’l Trade Comm’n, Certain Alkaline Batteries, USITC Inv. No. 337-
+TA-165, 50 Fed. Reg. 1655 (Jan. 11, 1985); Presidential Disapproval of Determination of the
+U.S. Int’l Trade Comm’n, Certain Molded-In Sandwich Panel Inserts, USITC Inv. No. 337-
+TA-99, 47 Fed. Reg. 29,919 (July 9, 1982); Presidential Disapproval of Determination of the
+U.S. Int’l Trade Comm’n, Certain Multi-Ply Headboxes, USITC Inv. No. 337-TA-82, 46 Fed.
+Reg. 32,361 (June 22, 1981) [hereinafter Presidential Disapproval of Certain Multi-Ply
+Headboxes]; Presidential Disapproval of Determination of the U.S. Int’l Trade Comm’n
+Welded Stainless Steel Pipe & Tubes, USITC Inv. No. 337-TA-29, 43 Fed. Reg. 17,789 (Apr.
+26, 1978).
+117 See supra note 116. R
+118 See Presidential Disapproval of Certain Dynamic Random Access Memories, supra
+note 116. R
+119 Id.\\jciprod01\productn\C\CJP\26-1\CJP104.txt unknown Seq: 18 13-DEC-16 13:24
+142 CORNELL JOURNAL OF LAW AND PUBLIC POLICY [Vol.26:125
+that the general exclusion order issued by the ITC was too broad, but that
+“[a]n exclusion order directed only to the respondent’s products, or a
+narrowly drafted cease and desist order would appear to be entirely justi-
+fied and appropriate.”120
+B. Enforcement, Stays, and Appeals
+U.S. Customs and Border Protection (CBP) enforces exclusion or-
+ders issued by the ITC and bars entry of infringing articles into the
+United States.121 It can be burdensome for CBP to detect an infringing
+input in a product that includes many components. In such a case, the
+ITC may, and often does, include in an exclusion order a provision that
+authorizes CBP to accept sworn certification by importers that their im-
+ported products are not subject to the exclusion order.122 When respon-
+dents redesign their excluded products after the ITC’s issuance of an
+exclusion order, the ITC or CBP must determine whether the redesigned
+products fall outside the scope of the exclusion order. Until CBP or the
+ITC  has  determined  that  the  redesigned  products  are  non-infringing,
+those products are barred from importation.123 Respondents, importers,
+or third parties can request either a non-binding ruling from CBP that
+their redesigned products fall outside the scope of the exclusion order124
+or an advisory opinion from the ITC that their redesigned products are
+non-infringing and hence not subject to the exclusion order.125 To avoid
+delay in obtaining an ITC advisory opinion on the importation of a rede-
+signed product, the respondent may submit to the ITC its redesigned
+product during the § 337 investigation.126
+The ITC itself enforces cease-and-desist orders. When a party vio-
+lates a cease-and-desist order, the ITC issues a fine, recoverable through
+120 Kaplan & Reichman, supra note 26, at 30 n.68 (quoting Presidential Disapproval of R
+Certain Multi-Ply Headboxes, supra note 116). R
+121 19 U.S.C. §1337(d) (2012).
+122 See Michael J. McKeon, Jeffrey R. Whieldon & Joshua B. Pond, ITC Update: Reme-
+dies, Enforcement & Other Developments, Presented at the IPO Annual Meeting, at 22 (Sept.
+12–14, 2010).
+123 See, e.g., Eaton Corp. v. United States, 395 F. Supp. 2d 1314, 1319 (Ct. Int’l Trade
+2005); Certain Hardware Logic Emulation Systems & Components Thereof at 16–17, Inv. No.
+337-TA-383, USITC Pub. 3154 (Mar. 31, 1998) (Opinion on Remedy, the Public Interest, and
+Bonding); INTELLECTUAL PROP. ENFORCEMENT COORDINATOR, 2010 JOINT STRATEGIC PLAN
+ON INTELLECTUAL PROPERTY ENFORCEMENT 10 (2010); see also Steven E. Adkins & John
+Evans, “Several Healthy Steps Away”: New & Improved Products in Section 337 Investiga-
+tions, 8 J. MARSHALL REV. INTELL. PROP. L. 309 (2009).
+124 See McKeon, Whieldon & Pond, supra note 122, at 21. R
+125 19 C.F.R. §210.79(a) (2010).
+126 See McKeon, Whieldon & Pond, supra note 122, at 20–21; Steven E. Adkins, US ITC: R
+Use Redesigns to Win at the ITC, MANAGING INTELL. PROP., Oct. 1, 2010, http://www.mana
+gingip.com/Article/2679363/Supplements/US-ITC-Use-redesigns-to-win-at-the-ITC.html?Ar
+ticleId=2679363& supplementListId=78381&p=3.\\jciprod01\productn\C\CJP\26-1\CJP104.txt unknown Seq: 19 13-DEC-16 13:24
+2016] INT’L TRADE COMMISSION EXCLUSION ORDERS 143
+litigation in federal district court, of no more than the greater of $100,000
+or twice the domestic value of the violating good for each day that the
+good is imported into or sold within the United States.127 In contrast, the
+plaintiff in a federal district court case bears the burden of detecting the
+defendant’s violation of an injunction.
+By statute, § 337 decisions and federal district court decisions on
+patent infringement are both appealed exclusively to the Federal Cir-
+cuit.128 Upon the ITC’s issuance of an exclusion order, the respondent
+may petition the Federal Circuit to stay the remedial order, just as a de-
+fendant  may  seek  a  stay  of  an  injunction  issued  in  federal  district
+court.129 In addition, the respondent may petition the ITC to stay the
+exclusion order under section 705 of the Administrative Procedure Act
+(APA), which states that, “[w]hen an agency finds that justice so re-
+quires, it may postpone the effective date of action taken by it, pending
+judicial review.”130 However, the requirements for a stay are generally
+difficult to establish. The ITC stated in a 2009 decision that, “[i]n deter-
+mining whether to grant a motion for a stay under section 705 of the
+APA, the Commission has applied the four-prong test used by courts to
+determine whether to grant a preliminary injunction.”131 Consequently,
+in Certain Semiconductor Chips with Minimized Chip Package Size &
+Products Containing the Same, the ITC applied the following four fac-
+tors in determining whether to grant the stay: “(1) a likelihood of success
+on the merits of the appeal; (2) irreparable harm to the movant absent a
+stay; (3) that the issuance of a stay would not substantially harm other
+parties; and (4) that the public interest favors a stay.”132 Based on these
+factors, the ITC denied the respondents’ motion to stay a limited exclu-
+sion order and a cease-and-desist order pending appeal to the Federal
+Circuit.133
+When reviewing ITC decisions on appeal, the Federal Circuit uses a
+more deferential standard of review than it does for district court deci-
+sions because the APA governs the ITC. The Federal Circuit reviews the
+ITC’s findings of fact supporting its issuance of an exclusion order under
+the “substantial evidence” standard, which requires “such relevant evi-
+dence as a reasonable mind might accept as adequate to support a conclu-
+127 19 U.S.C. §1337(f)(2) (2012).
+128 Id. §1337(c); 35 U.S.C. §141 (2012).
+129 See, e.g., Jazz Photo Corp. v. U.S. Int’l Trade Comm’n, 264 F.3d 1094, 1098 (Fed.
+Cir. 2001) (lifting the stay of a general exclusion order and a cease-and-desist order); see also
+FED. R. APP. P. 8(a).
+130 5 U.S.C. §705 (2012).
+131 Certain Semiconductor Chips with Minimized Chip Package Size & Prods. Containing
+the Same, Inv. No. 337-TA-605, 2009 WL 2350644, at *2 (USITC July 29, 2009) (citing
+Standard Havens Prods. Inc. v. Gencor Indus., Inc., 897 F.2d 511, 512 (Fed. Cir. 1990)).
+132 Id.
+133 Id. at *6.\\jciprod01\productn\C\CJP\26-1\CJP104.txt unknown Seq: 20 13-DEC-16 13:24
+144 CORNELL JOURNAL OF LAW AND PUBLIC POLICY [Vol.26:125
+sion.”134  However,  the  Federal  Circuit  will  not  disturb  the  ITC’s
+interpretation of law unless the ITC’s decision was “arbitrary, capricious,
+or manifestly contrary to the statute.”135 The ITC’s interpretations of
+§ 337 receive Chevron deference in the Federal Circuit.136 The Chevron
+standard is a two-step process. First, the reviewing court determines
+“whether Congress has directly spoken to the precise question at is-
+sue.”137 If so, then the reviewing court (and the agency) “must give ef-
+fect  to  the  unambiguously  expressed  intent  of  Congress.”138
+Alternatively, if the statute is “silent or ambiguous” on the matter, then
+the reviewing court determines “whether the agency’s answer is based on
+a permissible construction of the statute.”139 If the statute is silent (or
+ambiguous) on the matter, then the reviewing court will not disturb the
+agency’s determination unless it meets the “arbitrary and capricious”
+standard set forth in section 706 of the APA, which is the highest level of
+deference that reviewing courts accord to lower decisions.
+In contrast, when reviewing federal district court decisions, the Fed-
+eral Circuit reviews questions of fact for clear error140 and questions of
+law under a de novo standard of review.141 The Supreme Court’s 1996
+decision in Markman v. Westview Instruments, Inc. heightened the differ-
+ence in the Federal Circuit’s standards of review when reviewing issues
+of claims construction of the ITC and the federal district courts.142 In
+Markman, the Supreme Court held that the construction of a patent, in-
+cluding interpretation of the language of the patent holder’s claim, is a
+matter of law to be decided by the judge.143 For example, in Generation
+II Orthotics Inc. v. Medical Technology Inc., the Federal Circuit deter-
+mined whether the language in a patent that applied to orthopedic braces
+included dynamic control throughout the range of motion of the brace
+arm.144 Because the construction of a patent claim is a matter of law, the
+134 Enercon GmbH v. U.S. Int’l Trade Comm’n, 151 F.3d 1376, 1381 (Fed. Cir. 1998)
+(quoting Consol. Edison Co. v. NLRB, 305 U.S. 197, 229 (1938)).
+135 Chevron U.S.A. Inc. v. Nat. Res. Def. Council, Inc., 467 U.S. 831, 844 (1984); see
+also Administrative Procedures Act, 5 U.S.C. §706 (2012).
+136 See, e.g., Kyocera Wireless Corp. v. U.S. Int’l Trade Comm’n, 545 F.3d 1340, 1355
+(Fed. Cir. 2008); Enercon GmbH, 151 F.3d at 1381.
+137 Kyocera, 545 F.3d at 1355 (quoting FDA v. Brown & Williamson Tobacco Corp., 529
+U.S. 120, 132 (2000)).
+138 Id. (quoting Chevron, 467 U.S. at 843).
+139 Enercon GmbH, 151 F.3d at 1381 (quoting Chevron, 467 U.S. at 843).
+140 See SanDisk Corp. v. STMicroelectronics, Inc., 480 F.3d 1372, 1377 (Fed. Cir. 2007)
+(citing Gen-Probe Inc. v. Vysis, Inc., 359 F.3d 1376, 1379 (Fed. Cir. 2004)).
+141 See Trading Techs. Int’l, Inc. v. eSpeed, Inc., 595 F.3d 1340, 1350 (Fed Cir. 2010).
+142 517 U.S. 370 (1996).
+143 Id. at 372.
+144 263 F.3d 1356, 1361, 1363 (Fed. Cir. 2001) (construing the claim concerning “joint
+means in the brace for allowing controlled medial and lateral inclination of each arm relative
+to the pivotable joint”).\\jciprod01\productn\C\CJP\26-1\CJP104.txt unknown Seq: 21 13-DEC-16 13:24
+2016] INT’L TRADE COMMISSION EXCLUSION ORDERS 145
+Federal  Circuit  reviews  claims  constructions  under  a  de  novo stan-
+dard.145 Thus, the Federal Circuit gives no deference to the decisions of
+the federal district courts on claims constructions. In the 2010 case Trad-
+ing Technologies International v. eSpeed, Inc., the Federal Circuit stated
+that it “requires a review of the district court’s claim construction with-
+out the slightest iota of deference.”146 Thus, on appeal, the Federal Cir-
+cuit accords considerably more deference to decisions of the ITC than it
+does to decisions of the federal district courts. “It was the intent of Con-
+gress,” the Federal Circuit stated, “that greater weight and finality be
+accorded to the Commission’s findings as compared with those of the
+trial court.”147
+IV. EXCLUSION ORDERS FOR SEPS BEFORE AND AFTER PRESIDENT
+OBAMA’S VETO IN THE APPLE-SAMSUNG DISPUTE
+An SEP holder, like any other patent holder, has the right to file a
+complaint with the ITC for a violation of § 337 of the Tariff Act. How-
+ever, as of October 2016, the ITC had issued only one exclusion order
+against products that infringed SEPs, and President Obama ultimately
+vetoed that order.148 He vetoed that exclusion order largely because of
+concerns that excluding from importation products that infringe SEPs
+could enable patent holdup. When he vetoed the ITC’s exclusion order
+against products found to infringe SEPs, Ambassador Froman explicitly
+instructed the ITC to examine, in its future public-interest analysis, evi-
+dence of patent holdup or patent holdout. However, a detailed analysis of
+past § 337 investigations shows that, even before President Obama’s
+veto, the ITC did examine allegations about SEP holders’ opportunism; it
+found those allegations unsubstantiated and, consequently, insufficient to
+advise against the issuance of an exclusion order. Following President
+Obama’s veto, the ALJs’ decisions have included a more detailed analy-
+sis of patent holdup and patent holdout. However, even in those investi-
+gations, the ALJs have not found such allegations sufficiently persuasive
+to advise against the issuance of an exclusion order.
+A. Concerns That an Exclusion Order Might Facilitate Holdup
+In 2012, several public agencies began expressing concerns with the
+issuance of exclusion orders against products that infringe SEPs. In 2012,
+145 Trading Techs., 595 F.3d at 1350.
+146 Id. at 1351 (citing Cybor Corp. v. FAS Techs., Inc., 138 F.3d 1448, 1451 (Fed. Cir.
+1998)).
+147 Tandon Corp. v. U.S. Int’l Trade Comm’n, 831 F.2d 1017, 1019 (Fed. Cir. 1987)
+(citing S. REP. NO. 466, 96th Cong., 1st Sess. 26 (1979)).
+148 Certain Electronic Devices, Including Wireless Communication Devices, Portable
+Music & Data Processing Devices, & Tablet Computers at 119, Inv. No. 337-TA-794, Pub.
+2824 (USITC July 5, 2013) (Final) [hereinafter USITC Inv. No. 337-TA-794 Final].\\jciprod01\productn\C\CJP\26-1\CJP104.txt unknown Seq: 22 13-DEC-16 13:24
+146 CORNELL JOURNAL OF LAW AND PUBLIC POLICY [Vol.26:125
+in a statement of public interest submitted in Certain Wireless Communi-
+cation Devices, Portable Music and Data Processing Devices, Com-
+puters and Components Thereof, the Federal Trade Commission (FTC)
+said  that  the  issuance  of  an  exclusion  order  might  facilitate  patent
+holdup.149 The FTC claimed that a patent holder could “seek an exclu-
+sion order for infringement of the [F]RAND-encumbered SEP as a way
+of securing royalties that may be inconsistent with that [F]RAND com-
+mitment.”150 The FTC opined that holdup, as well as the mere threat of
+holdup, would harm consumers by deterring innovation and reducing the
+value of standard-setting activities.151 To mitigate that harm, the FTC
+stated that the ITC “could find that Section 337’s public-interest factors
+support denial of an exclusion order” unless the SEP holder had made a
+reasonable license offer to the potential licensee.152
+In January 2013, the Antitrust Division of the Department of Justice
+(DOJ) and the U.S. Patent and Trademark Office (USPTO)—despite
+having no authority over the ITC’s decision to grant an exclusion or-
+der—submitted a joint policy statement expressing concerns similar to
+those that the FTC raised in its public-interest statement.153 The Antitrust
+Division and the USPTO said that an SEP holder might use the threat of
+an exclusion order “to pressure an implementer . . . to accept more oner-
+ous licensing terms than the patent holder would be entitled to receive
+consistent with the F/RAND commitment.”154 They argued that, in such
+circumstances, an exclusion order “may harm competition and consum-
+ers by degrading one of the tools [that standard-setting organizations]
+employ to mitigate the threat of such opportunistic action.”155 The Anti-
+trust Division and the USPTO suggested that, if the SEP holder is at-
+tempting to engage in patent holdup, the ITC might conclude that the
+public-interest factors advise against an exclusion order.156 They also
+suggested that, in some circumstances, the ITC might find it appropriate
+to delay the effective date of an exclusion order “to provide parties the
+opportunity to conclude a F/RAND license.”157
+149 Third Party U.S. Fed. Trade Commn’s Statement on the Public Interest, Certain Wire-
+less Communication Devices, Portable Music & Data Processing Devices, Computers & Com-
+ponents Thereof, Inv. No. 337-TA-745, Doc. No. 482234 (June 6, 2012).
+150 Id. at 1.
+151 Id. at 3.
+152 Id. at 4.
+153 U.S. DEP’TOF JUSTICE & U.S. PATENT & TRADEMARK OFFICE, POLICY STATEMENTON
+REMEDIES FOR STANDARDS-ESSENTIAL PATENTS SUBJECT TO VOLUNTARY F/RAND COMMIT-
+MENTS 7–8 (2013) [hereinafter DOJ & USPTO POLICY STATEMENT], http://www.uspto.gov/
+about/offices/ogc/Final_DOJ-PTO_Policy_Statement_on_FRAND_SEPs_1-8-13.pdf.
+154 Id. at 6.
+155 Id.
+156 Id. at 10.
+157 Id.\\jciprod01\productn\C\CJP\26-1\CJP104.txt unknown Seq: 23 13-DEC-16 13:24
+2016] INT’L TRADE COMMISSION EXCLUSION ORDERS 147
+The Antitrust Division and the USPTO emphasized, nonetheless,
+that  their  policy  statement  should  not  be  construed  as  advising  that
+§ 337’s public-interest factors would counsel against the issuance of an
+exclusion order in every case involving SEPs.158 They recognized that an
+exclusion order might be appropriate in some circumstances—for exam-
+ple, when “the putative licensee is unable or refuses to take a F/RAND
+license and is acting outside the scope of the patent holder’s commitment
+to license on F/RAND terms.”159 The licensee’s refusal could take the
+form of “a constructive refusal to negotiate”160—that is, the licensee’s
+insistence on terms that are clearly outside the bounds of “what could
+reasonably be considered to be F/RAND terms in an attempt to evade the
+putative licensee’s obligation to fairly compensate the patent holder.”161
+The Antitrust Division and the USPTO also suggested that an exclusion
+order might be warranted “if a putative licensee is not subject to the
+jurisdiction of a court that could award damages.”162
+In sum, the FTC, the Antitrust Division, and the USPTO have all
+proposed that mitigating the risk of patent holdup requires that the ITC
+limit the availability of exclusion orders in investigations concerning
+SEP-infringing products.
+B. The ITC’s Decisions Before President Obama’s Veto
+The ITC has considered allegations of the SEP holder’s opportunis-
+tic behavior in several investigations that preceded President Obama’s
+veto. The ITC typically examined those allegations under § 337(c)—also
+called the “all defenses” provision163—which, as explained in Part I.D,
+affords the respondent the opportunity to present all legal and equitable
+defenses during the ITC’s determination of whether the respondent has
+violated § 337.164 However, the ITC has found the respondent’s FRAND
+defenses insufficient to preclude the finding of a § 337 violation.
+In 2012, for example, in Certain Wireless Communication Devices,
+Portable Music and Data Processing Devices, Computers and Compo-
+nents Thereof, the ITC considered whether the patent holder’s alleged
+failure  to  comply  with  the  standard-setting  organization’s  (SSO’s)
+rules—specifically, the patent holder’s duty to disclose the patents that
+might be essential to practice a standard—rendered the asserted SEPs
+158 Id. at 7.
+159 Id.
+160 Id.
+161 Id.
+162 Id.
+163 See, e.g., VastFame Camera, Ltd. v. Int’l Trade Comm’n, 386 F.3d 1108, 1115–16
+(Fed. Cir. 2004).
+164 19 U.S.C. §1337(c) (2012).\\jciprod01\productn\C\CJP\26-1\CJP104.txt unknown Seq: 24 13-DEC-16 13:24
+148 CORNELL JOURNAL OF LAW AND PUBLIC POLICY [Vol.26:125
+unenforceable.165 Apple, the respondent, claimed that the failure of the
+complainant, Motorola, to disclose its SEPs during the standardization
+process rendered those SEPs unenforceable under the doctrine of unclean
+hands, which allows the court to deny relief if the patent holder’s con-
+duct is particularly egregious.166
+Judge Thomas Pender found that Apple’s defense did not preclude
+the finding of a § 337 violation. He said that, “to succeed in an unclean
+hands claim, a plaintiff is required to show that the defendant has en-
+gaged in particularly egregious conduct.”167 He emphasized that “it is not
+enough merely to show misconduct.”168 However, Judge Pender found
+that there was no evidence that Motorola had a duty to disclose its
+SEPs.169 He also observed that, even if Apple had provided probative
+evidence of Motorola’s obligation to disclose its SEPs, such evidence
+would not have sustained Apple’s unclean hands defense, because there
+was no evidence that “Motorola’s behavior was a plan to act in bad
+faith.”170 He said that, at most, Motorola “made an administrative over-
+sight” in not disclosing its patents in a timely manner.171 Judge Pender
+emphasized that it would be inappropriate to “refuse to enforce a patent
+because a party . . . failed to timely comply with a disclosure require-
+ment,” even though that party agreed to offer those SEPs on FRAND
+terms.172 Judge Pender concluded that Motorola’s conduct was not so
+inequitable as to deprive it of its right to enforce its SEPs and conse-
+quently preclude the finding of a § 337 violation.173 Although the ITC
+determined that the products did not infringe a valid patent and thus is-
+sued no remedy against the respondent’s products, Judge Pender’s rea-
+soning showed that alleging that the SEP holder had violated the SSO’s
+rules would not necessarily render the asserted SEPs unenforceable.174
+165 Certain Wireless Communication Devices, Portable Music & Data Processing De-
+vices, Computers & Components Thereof at 142–52, Inv. No. 337-TA-745, Doc. No. 480415
+(Apr. 24, 2012) (Initial) [hereinafter USITC Inv. No. 337-TA-745 Initial Determination].
+166 Id. at 142.
+167 Id. at 22 (quoting Serdarevic v. Advanced Med. Optics, Inc., 532 F.3d 1352, 1361
+(Fed. Cir. 2008) (internal quotation marks omitted)).
+168 Id. (quoting Serdarevic v. Advanced Med. Optics, Inc., 532 F.3d 1352, 1361 (Fed. Cir.
+2008) (internal quotation marks omitted)).
+169 Id. Judge Pender observed that the record contained no ETSI documents relevant to
+the requirement to disclose the existence of the patents dated before 2008. Because the rele-
+vant patents were filed in 2001 and earlier, and declared to ETSI in 2002, Judge Pender deter-
+mined that ETSI’s disclosure policies that Apple had presented to the ITC did not apply to the
+relevant patents. Id. at 148–51.
+170 Id. at 150.
+171 Id.
+172 Id. at 151–52.
+173 Id.
+174 Id. at 142–52.\\jciprod01\productn\C\CJP\26-1\CJP104.txt unknown Seq: 25 13-DEC-16 13:24
+2016] INT’L TRADE COMMISSION EXCLUSION ORDERS 149
+The ITC in 2013 again examined a claim about the SEP holder’s
+failure to comply with the FRAND obligation in Certain Electronic De-
+vices, Including Wireless Communication Devices, Portable Music and
+Data Processing Devices, and Tablet Computers.175 Following a com-
+plaint filed by Samsung, the ITC investigated whether Apple’s iPhone,
+iPad, and iPod Touch devices infringed several of Samsung’s SEPs. Ap-
+ple argued, among other things, that, by making a FRAND commitment,
+Samsung forfeited any right that it would otherwise have to obtain an
+exclusion order or a cease-and-desist order.176
+However, the ITC again found Apple’s defense unpersuasive.177
+The ITC found that Apple had failed to show that Samsung breached its
+obligations arising from a FRAND commitment.178 The ITC emphasized
+that a FRAND commitment does not per se preclude the finding of a
+§ 337 violation.179 The ITC also said that, before “a party can prove a
+breach of an alleged FRAND obligation, it must prove what the obliga-
+tion is.”180 However, the ITC found that Apple had failed to provide an
+adequate interpretation of the FRAND commitment.181 The ITC added
+that the essentiality of the patent to practice the standard appeared to be a
+condition precedent to Samsung’s obligations arising from a FRAND
+commitment.182 The ITC noted that, although the respondent and the
+SEP holder contested the essentiality of the asserted patents, they did not
+provide any evidence as to whether the patents were actually essential to
+practice the standard.183 The ITC found that, in the absence of such a
+determination, it was not clear whether Samsung had any obligations
+arising from its FRAND commitment, because it was not clear whether
+Samsung’s asserted patents were actually standard-essential.184 In addi-
+tion, the ITC observed that, even if one were to assume that the FRAND
+commitment imposed an “enforceable obligation,” Samsung’s commit-
+ment appeared to be only an “agreement to agree,” which imposed on
+Samsung only a duty to negotiate in good faith.185 However, the ITC
+reviewed the negotiation history between the parties and found that Ap-
+175 USITC Inv. No. 337-TA-794 Final, supra note 148. R
+176 Id. at 41.
+177 Id. at 44.
+178 Id.
+179 Id. at 46 (citing Certain Mobile Telephone Handsets, Wireless Communication De-
+vices, & Components Thereof at 34, Inv. No. 337-TA-578, Pub. 4132 (USITC Feb. 20, 2007)
+(Initial Determination)).
+180 Id. at 48.
+181 Id.
+182 Id. at 50.
+183 Id. at 50–51.
+184 Id. at 51.
+185 Id. at 52 (quoting North Star Steel Co. v. United States, 477 F.3d 1324, 1332 (Fed.
+Cir. 2007)).\\jciprod01\productn\C\CJP\26-1\CJP104.txt unknown Seq: 26 13-DEC-16 13:24
+150 CORNELL JOURNAL OF LAW AND PUBLIC POLICY [Vol.26:125
+ple provided no evidence that Samsung had failed to negotiate in good
+faith.186 The ITC determined that Apple had failed to show that Samsung
+violated its FRAND commitment.187 It thus concluded that Apple’s af-
+firmative defense based on Samsung’s FRAND commitment did not pre-
+clude the finding of a § 337 violation.188
+In addition, the ITC examined in that case the risk of patent holdup
+in its analysis of the public interest. The ITC acknowledged that some
+commentators argued that it was “per se prohibited and contrary to the
+public-interest considerations of section 337” to issue an exclusion order
+against products that infringe FRAND-committed SEPs.189 However, the
+ITC disagreed.190 Although the ITC acknowledged the arguments of Ap-
+ple and other public commentators that an exclusion order against Ap-
+ple’s infringing products would facilitate patent holdup,191 the ITC noted
+that other commentators had claimed the exact opposite—that is, that
+denying exclusion orders to SEP holders would give defendants an in-
+centive to engage in “reverse holdup.”192 The ITC emphasized that “none
+of the parties or commentators submitted any evidence that either result
+has actually occurred in the market.”193 The ITC added that, “[a]bsent
+empirical evidence of actual harm to consumers or innovation,” concerns
+of patent holdup were “policy arguments” that had no place in the public-
+interest factors listed in § 337.194 The ITC ultimately issued an exclusion
+order  and  a  cease-and-desist  order  against  Apple’s  products  that  in-
+fringed the asserted SEPs.195
+186 Id. at 59.
+187 Id.
+188 Id. at 45, 52, 63.
+189 Id. at 111. For an example of a comment submitted to the ITC alleging the potential
+for patent holdup, see Respondent Apple Inc.’s Written Submission Regarding the Commis-
+sion’s Questions on the Issues Under Review, and on Remedy, Bonding, and the Public Inter-
+est at 7, Inv. No. 337-TA-794, Doc. No. 498403 (Dec. 3, 2012) (“[I]f FRAND patent holders
+could obtain ITC exclusion orders, then every holder of any standard-essential patent—and for
+ETSI standards, there are thousands of declared-essential patents, held by dozens of compa-
+nies—could threaten standards implementers with the prospect of not being able to import any
+standards-compliant products into the United States market.” (emphasis omitted) (internal cita-
+tion omitted)).
+190 USITC Inv. No. 337-TA-794 Final, supra note 148, at 111. R
+191 Id. at 113 n.23.
+192 Id. For an example of a comment submitted to the ITC alleging the potential for “re-
+verse holdup,” see Motorola Mobility LLC’s Submission In Response to the Commission’s
+Request for Submissions on the Public Interest at 13, Inv. No. 337-TA-794, Doc. No. 498346
+(Dec. 3, 2012) (“The creation of a categorical rule that a patent holder cannot obtain an injunc-
+tion (including an exclusion order) for a FRAND-committed patent would encourage infring-
+ers to ‘hold out,’ rather than voluntarily negotiate a license, knowing that they would not be
+subject to any ban on the importation of infringing articles.”).
+193 USITC Inv. No. 337-TA-794 Final, supra note 148, at 113–14 n.23 (emphasis added). R
+194 Id.
+195 Id. at 105.\\jciprod01\productn\C\CJP\26-1\CJP104.txt unknown Seq: 27 13-DEC-16 13:24
+2016] INT’L TRADE COMMISSION EXCLUSION ORDERS 151
+In sum, in its § 337 investigations, the ITC considered allegations of
+the SEP holder’s failure to comply with its FRAND commitment and the
+risk  of  patent  holdup.  The  ITC  considers  allegations  concerning  the
+FRAND commitment within the “all defenses” provisions—that is, in
+determining whether the SEP holder’s FRAND commitment and the SEP
+holder’s conduct rendered the asserted SEPs unenforceable. However, in
+none of its investigations has the ITC found the respondent’s defenses
+sufficiently persuasive to preclude the finding of a § 337 violation. The
+ITC has also examined concerns about patent holdup within its public-
+interest analysis, but, because of the absence of any empirical evidence,
+the ITC refused to conclude that the risk of patent holdup weighed
+against the issuance of an exclusion order.
+C. President Obama’s Veto
+In August 2013, President Obama, acting through U.S. Trade Rep-
+resentative Michael Froman, vetoed the exclusion order that the ITC had
+issued against Apple on the grounds that the exclusion order would not
+serve the public interest.196 In doing so, Ambassador Froman approv-
+ingly recited the Antitrust Division’s and the USPTO’s concerns about
+patent holdup and patent holdout.197 He emphasized that an exclusion
+order should be available to an SEP holder only in exceptional circum-
+stances, such as those that the Antitrust Division and USPTO had out-
+lined in their policy statement.198
+Ambassador Froman found that, in this specific investigation, an
+exclusion order against Apple would adversely affect the U.S. econ-
+omy’s competitive conditions and consumers.199 Unfortunately, Ambas-
+sador Froman’s letter provided little explanation for his disapproval.
+Ambassador Froman did not examine whether Samsung made a FRAND
+offer, whether Apple failed to accept a FRAND offer, or whether Apple
+was acting outside the scope of the FRAND commitment and was thus
+engaging in a constructive refusal to negotiate.200 Ambassador Froman
+provided no explanation as to how the ITC had erred in examining evi-
+dence of patent holdup. He simply said that, “although the parties dispute
+the facts vigorously, it is beyond the scope of this policy review to revisit
+the Commission’s legal analysis or its finding based on its record.”201
+Ambassador Froman instructed that, in future investigations involv-
+ing FRAND-committed SEPs, the ITC should (1) “examine thoroughly
+196 Ambassador Froman’s Letter, supra note 6. R
+197 Id. at 2.
+198 For  a  detailed  analysis  of  the  suggestions  presented  in  the  policy  statement,
+see Part II.A.
+199 Ambassador Froman’s Letter, supra note 6, at 1–3. R
+200 Id.
+201 Id. at 3.\\jciprod01\productn\C\CJP\26-1\CJP104.txt unknown Seq: 28 13-DEC-16 13:24
+152 CORNELL JOURNAL OF LAW AND PUBLIC POLICY [Vol.26:125
+and carefully on its own initiative the public-interest issues presented
+both at the outset of its proceeding and when determining whether a par-
+ticular remedy is in the public interest,” and (2) “seek proactively to have
+the parties develop a comprehensive factual record . . . including infor-
+mation on the standard-essential nature of the patent at issue and . . . the
+presence or absence of patent hold-up or reverse hold-up.”202 He said
+that he would analyze those elements when reviewing future ITC deci-
+sions. However, the ITC did examine allegations of the SEP holder’s
+failure to comply with the FRAND commitment and of patent holdup in
+past investigations.203 Ambassador Froman did not say how the ITC
+should change its analysis in light of his instructions.
+D. The Availability of an Exclusion Order After President Obama’s
+Veto
+After President Obama’s veto, the presiding ALJ in several investi-
+gations examined whether to issue an exclusion order against products
+that infringed FRAND-committed SEPs. However, in none of those in-
+vestigations did the ALJ find the presented evidence sufficiently persua-
+sive to advise against the ITC’s issuance of an exclusion order.
+1. Certain Wireless Devices with 3G and/or 4G Capabilities
+and Components Thereof
+In June 2014, in Certain Wireless Devices with 3G and/or 4G Capa-
+bilities and Components Thereof, Administrative Law Judge Theodore
+Essex examined whether the ITC should issue an exclusion order against
+smartphones that allegedly infringed InterDigital’s patents essential to
+the mobile communication standards.204 Judge Essex found that the re-
+spondents’ products did not infringe the asserted patents and, conse-
+quently,  he  determined  that  there  was  no  violation  of  § 337.205
+Nonetheless, he analyzed whether InterDigital had violated the obliga-
+tions of the FRAND commitment that it made to the European Telecom-
+munications Standards Institute (ETSI), and whether there was evidence
+of patent holdup, if (contrary to Judge Essex’s conclusion) the ITC were
+to  find  the  alleged  patents  infringed.  Judge  Essex’s  discussion  of
+FRAND-related issues preceded his analysis of the public interest, which
+suggests that he considered the respondents’ FRAND-related arguments
+to be a defense against the complainant’s allegations of a § 337 violation.
+202 Id.
+203 See supra Part IV.B.
+204 Certain Wireless Devices with 3G and/or 4G Capabilities & Components Thereof,
+Inv. No. 337-TA-868, Pub. 2929, 2014 WL 2965327 (USITC June 13, 2014) (Initial).
+205 Id. at *109.\\jciprod01\productn\C\CJP\26-1\CJP104.txt unknown Seq: 29 13-DEC-16 13:24
+2016] INT’L TRADE COMMISSION EXCLUSION ORDERS 153
+Judge Essex first asked whether the asserted patents were subject to
+a FRAND commitment. He found that, because the respondents did not
+infringe the asserted patents, the patents were necessarily inessential to
+practicing  the  standard  and  thus  were  outside  the  FRAND  commit-
+ment.206 Assuming (contrary to this finding) that the patents were essen-
+tial, Judge Essex next analyzed InterDigital’s FRAND obligations.
+Judge Essex observed that InterDigital’s obligations toward poten-
+tial standard implementers derived from its licensing declaration to ETSI
+and other ETSI rules. He found that ETSI’s Rules of Procedure were not
+a contract, but merely rules to “guide [ETSI and its members] in their
+interactions with the organization, other members and third parties.”207
+He also found that ETSI’s rules imposed obligations both on the SEP
+holder and on the implementers of ETSI’s standards,208 and he found that
+the respondents had not performed any of the duties that ETSI’s rules
+imposed on them as implementers.209 For example, Judge Essex noted
+that ETSI’s procedural rules provide mechanisms for resolving disputes
+in  which  the  SEP  holder  “refus[es]  to  grant  a  license  on  FRAND
+terms.”210 However, he found that none of the respondents had availed
+themselves of such dispute-resolution mechanisms.211 Judge Essex also
+found that although ETSI’s rules required implementers to contact the
+SEP holder and obtain a license, the respondents had failed to do so.212
+He further found that, although ETSI’s rule imposed a duty to negotiate
+in good faith, it did not bar participants from using legal remedies when
+their rights had been violated.213 Because he found no evidence that In-
+terDigital had violated its contractual obligations or had negotiated the
+license in bad faith, Judge Essex rejected the respondents’ allegation that
+InterDigital had failed to comply with its FRAND commitment.214
+Judge Essex also analyzed evidence of patent holdup and patent
+holdout. He acknowledged the concern over patent holdup that the FTC,
+the DOJ, and the USPTO had expressed in their various policy state-
+ments, but he found that, in the specific case at hand, there was no evi-
+dence that InterDigital had attempted to hold up the respondents.215
+Judge Essex said that, “[w]hile there may be a hypothetical risk of
+holdup, we have evidence that it is not a threat in this case, or in this
+206 Id. at *74.
+207 Id. at *75.
+208 Id. at *79.
+209 Id. at *80.
+210 Id. at *77.
+211 Id.
+212 Id.
+213 Id. at *80–81.
+214 Id.
+215 Id. at *81.\\jciprod01\productn\C\CJP\26-1\CJP104.txt unknown Seq: 30 13-DEC-16 13:24
+154 CORNELL JOURNAL OF LAW AND PUBLIC POLICY [Vol.26:125
+industry.”216 He opposed denying an exclusion order merely on the basis
+of “a speculative and unproven position . . . without proof that the
+harm . . . exists.”217 The ITC, however, mooted Judge Essex’s analysis of
+patent holdup when, in reviewing his initial determination, it affirmed
+Judge Essex’s finding that none of the respondents infringed InterDig-
+ital’s patents, such that no exclusion order was available.218
+2. Certain 3G Mobile Handsets and Components Thereof
+In April 2015, in Certain 3G Mobile Handsets and Components
+Thereof, Judge Essex again examined the availability of an exclusion
+order against products that infringed FRAND-committed SEPs.219 In-
+terDigital, the SEP holder, sought an exclusion order against Nokia’s and
+Microsoft Mobile’s products that allegedly infringed InterDigital’s SEPs.
+In remanding the initial determination, the Commission specifically re-
+quired Judge Essex to examine evidence of patent holdup and patent
+holdout.220 In his initial determination on remand, Judge Essex examined
+FRAND-related arguments similar to the ones that he analyzed in Cer-
+tain Wireless Devices with 3G and/or 4G Capabilities. On this occasion,
+however, he included a discussion of FRAND obligations in the public-
+interest analysis.
+Judge Essex rejected the allegations that InterDigital had breached
+its FRAND obligations.221 Although he again found the asserted patents
+to be inessential to practicing the standard (and thus outside InterDig-
+ital’s FRAND commitment),222 he analyzed whether there was evidence
+that InterDigital had violated its FRAND obligations in the hypothetical
+(counterfactual)  scenario  in  which  InterDigital’s  patents  were  essen-
+tial.223 Judge Essex found no evidence that InterDigital had acted in bad
+faith or “refus[ed] to work towards a FRAND license.”224 He observed
+that no court had ever determined whether InterDigital’s offers were
+FRAND.225 He added that, even under the assumption that InterDigital’s
+offers were not FRAND, courts have said that the SEP holder’s initial
+offer does need not to be FRAND, “so long as a [F]RAND license even-
+216 Id.
+217 Id. at *83.
+218 Certain Wireless Devices with 3G and/or 4G Capabilities & Components Thereof at
+14, Inv. No. 337-TA-868, Doc. No. 541147 (USITC Aug. 28, 2014) (Final).
+219 Certain 3G Mobile Handsets and Components Thereof, Inv. No. 337-TA-613, 2015
+WL 6561709 (USITC Apr. 27, 2015) (Initial Determination on Remand).
+220 See, e.g., Certain 3G Mobile Handsets and Components Thereof at 5, Inv. No. 337-
+TA-613 (USITC Mar. 24, 2014) (Commission Determination to Remand Investigation).
+221 Certain 3G Mobile Handsets and Components Thereof, 2015 WL 6561709, at *16–20.
+222 Id. at *17–18.
+223 Id. at *18–20.
+224 Id. at *23.
+225 Id. at *19.\\jciprod01\productn\C\CJP\26-1\CJP104.txt unknown Seq: 31 13-DEC-16 13:24
+2016] INT’L TRADE COMMISSION EXCLUSION ORDERS 155
+tually issues.”226 Judge Essex said that InterDigital’s act of making an
+offer showed that it was trying to reach a licensing agreement with the
+respondents.227 He thus concluded that the factual record did not support
+the conclusion that InterDigital violated its FRAND obligations.
+Judge Essex also examined whether there was any evidence of pat-
+ent holdup or patent holdout. He emphasized that, in Ericsson v. D-Link,
+the Federal Circuit said that the infringer bears the burden of providing
+evidence of patent holdup.228 Judge Essex found that respondents had
+“fail[ed] to carry that burden,”229 because they “simply restate[d] the
+possibility of a hold-up, without providing or citing to any evidence.”230
+In  addition,  he  found  that  the  respondents  had  engaged  in  patent
+holdout.231 Because the specific facts of the case suggested that opportu-
+nism by the respondents was more likely than opportunism by the SEP
+holder, Judge Essex concluded that the presented evidence did not advise
+against the ITC’s issuance of an exclusion order.232 However, the ITC
+ulimately concluded that Nokia and Microsoft Mobile did not infringe
+the asserted claims of InterDigital’s SEPs; thus, the Commission mooted
+consideration of the relevance of the FRAND obligation to the issuance
+of an exclusion order.233
+3. Certain Wireless Standard Compliant Electronic Devices,
+Including Communication Devices and Tablet Computers
+In November 2015, Judge Dee Lord addressed a similar question in
+Certain  Wireless  Standard  Compliant  Electronic  Devices,  Including
+Communication Devices and Tablet Computers.234 Ericsson, the com-
+plainant, moved to compel discovery of documents relevant to determin-
+ing whether Ericsson had made a FRAND offer to the respondent.235
+Ericsson argued that such evidence would become essential in the public-
+interest analysis when the ALJ would be asked to determine whether
+Ericsson  had  attempted  to  hold  up  the  respondent.236  However,
+226 Id. at *20.
+227 Id.
+228 Id. at *20–21 (citing Ericsson, Inc. v. D-Link Sys., Inc., 773 F.3d 1201, 1234 (Fed.
+Cir. 2014)).
+229 Id. at *21.
+230 Id. at *14.
+231 Id. at *26.
+232 Id. at *23.
+233 Certain 3G Mobile Handsets & Components Thereof at 44, 46, 50, Inv. No. 337-TA-
+613, Pub. 4145 (USITC Sept. 21, 2015) (Final) [hereinafter USITC Inv. No. 337-TA-613
+Final].
+234 Certain Wireless Standard Compliant Electronic Devices, Including Communication
+Devices & Table Computers, Inv. No. 337-TA-953, 2015 WL 9875533 (USITC Nov. 10,
+2015) (Order Granting-in-Part and Denying-in-Part Complainant’s Motion to Compel).
+235 Id. at *1.
+236 Id. at *2.\\jciprod01\productn\C\CJP\26-1\CJP104.txt unknown Seq: 32 13-DEC-16 13:24
+156 CORNELL JOURNAL OF LAW AND PUBLIC POLICY [Vol.26:125
+Judge Lord denied Ericsson’s motion on the ground that the ITC “has
+never held that disputes over FRAND pricing must be considered either
+in deciding whether there is a violation [of § 337] or in the public inter-
+est/remedy phase of section 337 proceedings.”237 Judge Lord added that,
+“[t]o the extent the ITC’s views differ from those of the U.S. Trade Rep-
+resentative, [an ALJ’s] duty is to follow the policy of the ITC.”238 She
+said that it would be inappropriate to compel such a “massive discovery”
+with the purpose of determining a contractual dispute arising from Erics-
+son’s FRAND obligations.239
+Judge Lord emphasized that no party had presented a “legal argu-
+ment or authority to establish that the existence of a FRAND offer is
+pertinent to the determination of whether there is a violation of sec-
+tion 337.”240 She said that Ericsson’s compliance with the FRAND com-
+mitment was a question of contract law that required resolution in district
+court.241 Judge Lord emphasized that the ITC has no “authority” to adju-
+dicate contract disputes.242 She accepted the argument that the purpose of
+a FRAND commitment might be to avoid patent holdup.243 However,
+Judge Lord emphasized that, regardless of the purpose of a FRAND
+commitment, an ALJ does not have the jurisdiction to enforce an SSO’s
+rules.244 She emphasized that an ALJ can examine those rules “only to
+the  extent  that  they  relate  to  [a]  viable  affirmative  defense[].”245
+Judge Lord thus concluded that Ericsson’s compliance with its FRAND
+commitment  was  irrelevant  to  determining  whether  a  violation  of
+§ 337 had occurred.
+Judge Lord also said that examining Ericsson’s compliance with the
+FRAND commitment would exceed the ITC’s statutory authority to ana-
+lyze the public interest.246 She said that the statutorily enumerated pub-
+lic-interest factors that an ALJ must consider before issuing an exclusion
+order do not include as a factor the complainant’s compliance with its
+FRAND obligations.247 Judge Lord said that the ITC “can take into con-
+sideration matters that, ultimately, it does not act upon.”248 She added
+that the ITC “may wish to consider whether it should withhold or modify
+237 Id. (emphasis in original) (citing USITC Inv. No. 337-TA-794 Final, supra note 148, R
+at 45–52).
+238 Id. at *2 n.1.
+239 Id. at *2.
+240 Id. at *3.
+241 Id. at *2.
+242 Id. at *2–3.
+243 Id. at *3.
+244 Id.
+245 Id.
+246 Id. at *3–4.
+247 Id. at *4.
+248 Id.\\jciprod01\productn\C\CJP\26-1\CJP104.txt unknown Seq: 33 13-DEC-16 13:24
+2016] INT’L TRADE COMMISSION EXCLUSION ORDERS 157
+the statutory remedies in cases involving [SEPs].”249 Judge Lord also
+said that the ITC might consider “judicial rulings on counterclaims as
+part of the . . . consideration of the effect of a remedial order on the
+public interest.”250 This statement suggests that a respondent could pre-
+sent to the ITC a court ruling finding that the SEP holder breached its
+FRAND obligation, and that the ITC could consider a district court’s
+decision  when  determining  whether  to  issue  an  exclusion  order.
+Judge Lord nonetheless concluded that she would not permit burdensome
+discovery  that  would  seek  only  to  resolve  a  private  contractual
+dispute.251
+4. Summation
+After President Obama’s veto in 2013 in the Apple-Samsung dis-
+pute, some ALJs at the ITC have included in their initial determinations
+an examination of (1) the patent’s essentiality, (2) the SEP holder’s com-
+pliance with its FRAND commitment, and (3) evidence of patent holdup
+or patent holdout. However, at least one ALJ has declined to compel
+discovery of documents necessary to analyze the complainant’s compli-
+ance with its FRAND commitment. Although it remains to be seen
+whether the ITC will ever again issue an exclusion order against an arti-
+cle infringing SEPs, the reasoning of several ALJs suggests that unsup-
+ported allegations of patent holdup, or of the SEP holder’s failure to
+comply with its FRAND commitment, are insufficient to advise the
+Commission against issuing an exclusion order.
+V. FRAND-COMMITTED SEPS AND THE PUBLIC-INTEREST ANALYSIS
+Ambassador Froman instructed the ITC to examine “thoroughly and
+carefully the public-interest issues” when determining whether to issue
+an exclusion order in an investigation concerning FRAND-committed
+SEPs.252 He said that the ITC should develop a “factual record” related
+to the public-interest analysis, including information about the patent’s
+essentiality and about the presence or absence of patent holdup and pat-
+ent holdout.253 However, Ambassador Froman did not explain what evi-
+dence the ITC should examine to determine whether patent holdup has
+occurred in a particular case or whether a patent is actually essential to
+practice a standard. In this part, I examine the economic evidence that
+should inform the ITC’s decision, and the burden of proof that each party
+bears in presenting that evidence.
+249 Id.
+250 Id. (quoting 59 Fed. Reg. 67,622 (Dec. 30, 1994)).
+251 Id.
+252 Ambassador Froman’s Letter, supra note 6, at 3. R
+253 Id.\\jciprod01\productn\C\CJP\26-1\CJP104.txt unknown Seq: 34 13-DEC-16 13:24
+158 CORNELL JOURNAL OF LAW AND PUBLIC POLICY [Vol.26:125
+A. Evidence of Patent Holdup
+When evaluating allegations of patent holdup, the ITC should deter-
+mine whether the SEP holder has extended to the respondent a FRAND
+offer. Because patent holdup is defined as the SEP holder’s attempt to
+obtain compensation above the FRAND range, finding that the SEP
+holder has extended a FRAND offer supports the conclusion that no pat-
+ent holdup has occurred in that particular case. Only when the parties
+have not exchanged any licensing offers should the ITC examine the SEP
+holder’s conduct in negotiating the license terms with the respondent to
+determine  whether  the  SEP  holder  has  attempted  to  hold  up  the
+respondent.
+1. Has the SEP Holder Made a FRAND Offer?
+Patent holdup, as defined by the FTC, the Antitrust Division, and
+the USPTO, is an SEP holder’s attempt to extract a royalty for its SEPs
+that exceeds the FRAND range.254 When the SEP holder has offered the
+respondent a FRAND license, by definition, there is no patent holdup.
+Indeed, the question of whether the SEP holder’s offer is within the
+FRAND range is a factual inquiry that requires analysis of economic
+evidence to establish the bounds of that range.255 The ITC cannot accept
+unsupported assertions that the SEP holder’s offer is within or outside
+the FRAND range. Instead, it should require the parties to provide eco-
+nomic evidence to support their respective assertions.
+The ITC might use various economic methodologies to determine
+the FRAND range and whether the SEP holder’s offer is within that
+range.256 If available, comparable license agreements—license agree-
+ments made in sufficiently comparable circumstances—are typically the
+most reliable economic evidence to establish a FRAND range.257 Evi-
+dence that the SEP holder’s offer is consistent with the terms of the com-
+254 See, e.g., Third Party U.S. Federal Trade Commission’s Statement on the Public Inter-
+est at 1, Inv. No. 337-TA-745, Doc. No. 482234 (USITC June 6, 2012) (explaining that an
+SEP holder could seek an exclusion order “as a way of securing royalties . . . inconsistent with
+that RAND commitment”); DOJ & USPTO POLICY STATEMENT, supra note 153, at 6 (explain- R
+ing that an exclusion order could allow the SEP holder to pressure a potential licensee to
+accept “more onerous licensing terms than the patent holder would be entitled to receive con-
+sistent with the F/RAND commitment”).
+255 For an analysis of the factors that influence the bargaining range over which a patent
+holder and a licensee negotiate to determine a reasonable royalty for the use of a patented
+technology, see J. Gregory Sidak, Bargaining Power and Patent Damages, 19 STAN. TECH. L.
+REV. 1 (2015).
+256 For a survey of various economic methodologies to calculate a FRAND royalty, see J.
+Gregory Sidak, The Meaning of FRAND, Part I: Royalties, 9 J. COMPETITION L. & ECON. 931,
+1000 (2013).
+257 See J. Gregory Sidak, Apportionment, FRAND Royalties, and Comparable Licenses
+After Ericsson v. D-Link, 2016 U. ILL. L. REV. 1809, 1821–22.\\jciprod01\productn\C\CJP\26-1\CJP104.txt unknown Seq: 35 13-DEC-16 13:24
+2016] INT’L TRADE COMMISSION EXCLUSION ORDERS 159
+parable  license  agreements  supports  the  conclusion  that  the  offer  is
+FRAND. If the SEP holder has made an offer to the respondent that is
+within the FRAND range, the ITC should reject any allegation of patent
+holdup. The respondent’s reason for rejecting the SEP holder’s FRAND
+offer is not relevant to the ITC’s analysis of patent holdup.
+Conversely, evidence that the SEP holder’s offer departs signifi-
+cantly from the licensing terms specified in comparable license agree-
+ments supports the conclusion that the SEP holder’s offer is outside the
+FRAND range. Finding that the SEP holder’s offer exceeds the FRAND
+range would support the conclusion that the SEP holder has attempted to
+hold up the respondent. Some U.S. courts have said that a FRAND com-
+mitment does not require that the SEP holder’s opening offer be within
+the FRAND range. For example, in Microsoft v. Motorola, Judge James
+Robart said that, “under Motorola’s agreements with the IEEE and the
+ITU, Motorola need not make initial offers on [F]RAND terms” as long
+as the ultimate license agreement is within the FRAND range.258 How-
+ever, such an approach is misguided because it ignores that, in the con-
+text  of  SEPs,  time  is  of  the  essence.259  To  ensure  the  expeditious
+implementation of the standard, the SEP holder’s first offer should be
+within the FRAND range. However, even assuming that an SEP holder
+might have the right to make an initial offer outside the FRAND range,
+the SEP holder should typically be restrained from seeking an injunction
+or an exclusion order before making an offer within the FRAND range.
+Therefore, evidence that the SEP holder’s offer exceeds the FRAND
+range should support the conclusion that the SEP holder has attempted to
+hold up the respondent, and such evidence should weigh against the
+ITC’s issuance of an exclusion order.
+2. Has the SEP Holder Taken the Necessary Steps to Make a
+FRAND Offer?
+A respondent might allege that the SEP holder is also attempting to
+engage in patent holdup if the SEP holder and the respondent have not
+exchanged any licensing offers. However, the SEP holder’s failure to
+make an offer is not necessarily evidence of patent holdup. As the Anti-
+trust  Division  and  the  USPTO  have  emphasized,  there  is  no  patent
+holdup when the potential licensee has constructively refused to negoti-
+ate.260 It is possible, for example, that the respondent refuses to commu-
+nicate with the SEP holder or that the respondent refuses to sign a
+nondisclosure agreement with the SEP holder that would enable the ex-
+258 864 F. Supp. 2d 1023, 1038 (W.D. Wash. 2012).
+259 J. Gregory Sidak, The Meaning of FRAND, Part II: Injunctions, 11 J. COMPETITION L.
+& ECON. 201, 243 (2015) (internal citations omitted).
+260 DOJ & USPTO POLICY STATEMENT, supra note 153, at 7. R\\jciprod01\productn\C\CJP\26-1\CJP104.txt unknown Seq: 36 13-DEC-16 13:24
+160 CORNELL JOURNAL OF LAW AND PUBLIC POLICY [Vol.26:125
+change of information necessary to make an offer.261 Such conduct pre-
+cludes  any  negotiation  between  the  SEP  holder  and  the  respondent
+concerning the specific terms of a license agreement. In such circum-
+stances, it would be incorrect to conclude that the SEP holder has at-
+tempted to hold up the respondent.
+If the SEP holder has not extended any offer to the respondent, the
+ITC should examine the SEP holder’s conduct during the licensing nego-
+tiations to determine whether patent holdup has occurred in that particu-
+lar case. Specifically, the ITC should determine whether (1) the SEP
+holder has notified the respondent about the respondent’s alleged in-
+fringement and (2) the SEP holder has taken the necessary steps to initi-
+ate negotiations. The ITC might consider evidence concerning industry
+norms and licensing practices in determining whether the SEP holder has
+made the necessary steps to initiate a negotiation with the respondent.
+Evidence that the SEP holder has taken such steps would support the
+conclusion  that  the  SEP  holder  has  not  attempted  to  hold  up  the
+respondent.
+B. The Burden of Proof
+Ambassador Froman’s instructions concerning evidence of patent
+holdup and patent holdout has sparked debate among academics and
+practitioners regarding which party should bear the burden of proving
+whether patent holdup or patent holdout has occurred in a particular
+case.262 For example, in 2015, Chairwoman Edith Ramirez of the Federal
+Trade Commission submitted a written statement in Certain 3G Mobile
+Handsets in which she proposed that the ITC should “require a[n] SEP
+holder to prove that the implementer is unwilling or unable to take a
+FRAND license.”263 She suggested that the SEP holder “may demon-
+strate an implementer’s unwillingness in a number of ways”264—for ex-
+ample, by showing that the potential licensee is unwilling to negotiate or
+261 See, e.g., J. Gregory Sidak, FRAND in India, in 1 CAMBRIDGE HANDBOOKOF TECHNI-
+CAL STANDARDIZATION LAW: ANTITRUST AND PATENTS (Jorge Contreras ed., forthcoming
+2017)  (manuscript  at  7),  https://www.criterioneconomics.com/frand-in-india-royalties-for-
+standard-essential-patents.html (“[T]he court observed that, because iBall refused to sign a[]
+[nondisclosure agreement], a negotiation between the parties could not commence.” (citing
+Order ¶¶ 1–2, at 1–2, Telefonaktiebolaget LM Ericsson v. M/S Best IT World Private Ltd.
+(iBall), Interim Application 17351 of 2015 in Civil Suit (Original Side) in No. 2501 of 2015,
+High Ct. of Delhi (Sept. 2, 2015), http://lobis.nic.in/ddir/dhc/MAN/judgement/03-09-2015/
+MAN02092015S25012015.pdf)).
+262 See, e.g., Written Submission on the Public Interest of Federal Trade Commission
+Chairwoman Edith Ramirez, Certain 3G Mobile Handsets and Components Thereof, Inv. No.
+337-TA-613, 2015 WL 4396145, at *1 (July 10, 2015); Reply Submission on the Public Inter-
+est of Federal Trade Commissioners Maureen K. Ohlhausen and Joshua D. Wright, Inv. No.
+337-TA-613 (July 20, 2015).
+263 Ramirez ITC Submission, 2015 WL 4396145, at *1.
+264 Id. at *3.\\jciprod01\productn\C\CJP\26-1\CJP104.txt unknown Seq: 37 13-DEC-16 13:24
+2016] INT’L TRADE COMMISSION EXCLUSION ORDERS 161
+that the respondent is insisting on terms that are clearly outside a reason-
+able interpretation of FRAND.265 Chairwoman Ramirez’s proposal im-
+plicitly suggests that the ITC’s public-interest analysis should presume
+that the issuance of an exclusion order against products that infringe an
+SEP disserves the public interest. Her proposal would then allow the SEP
+holder to rebut that presumption of harm, by showing that the licensee
+was unwilling to accept a FRAND offer. Put differently, Chairwoman
+Ramirez’s proposal presumes that, absent evidence of the licensee’s un-
+willingness, the SEP holder’s request for an exclusion order serves only
+to enable patent holdup.
+However, Chairwoman Ramirez’s suggestions contradict basic legal
+and economic principles that guide § 337 investigations. The Tariff Act
+provides that, upon finding a violation of § 337, the Commission shall
+issue an exclusion order unless the public interest dictates otherwise.266
+When deciding whether to issue an exclusion order, the ITC begins its
+public-interest analysis with the presumption that an exclusion order will
+serve the public interest.267 It is for the respondents to rebut that pre-
+sumption, by showing that the public-interest factors advise against issu-
+ing  an  exclusion  order.  Congress’s  use  of  the  word  “unless”  in  the
+statutory language of § 337’s public-interest provision indicates that,
+upon finding a violation, the ITC’s rejection of an exclusion order is an
+exception to the general rule of issuing the exclusion order. A respondent
+that seeks to avoid an exclusion order must therefore bear the burden of
+proving that, in its particular case, the public-interest factors counsel
+against the issuance of an exclusion order.
+There is no valid legal or economic justification to depart from the
+ITC’s established approach for delegating the public-interest burden in
+investigations  concerning  FRAND-committed  SEPs.  As  sec-
+tion 210.27(a) of the ITC’s rules states, “[t]he proponent of any factual
+proposition shall be required to sustain the burden of proof with respect
+265 Id.
+266 19 U.S.C. §1337(d)(1) (2012).
+267 See, e.g., Certain Mobile Devices, Associated Software, & Components Thereof, Inv.
+No. 337-TA-744, Pub. 4384, 2012 WL 3715788, at *18 (USITC June 5, 2012) (Final) (“[W]e
+note that the public interest favors the protection of U.S. intellectual property rights.”); Certain
+Baseband Processor Chips & Chipsets, Transmitter & Receiver (Radio) Chips, Power Control
+Chips, & Prods. Containing Same, Including Cellular Telephone Handsets, Inv. No. 337-TA-
+543, Pub. 4258, 2011 WL 6121182, at *75 (USITC Oct. 1, 2011) (Final) (“[I]n assessing
+public interest factors when granting relief, the Commission relies on the strong public interest
+in enforcing intellectual property rights.”); Certain Ground Fault Circuit Interrupters & Prods.
+Containing Same, Inv. No. 337-TA-739, 2012 WL 2394435, at *60 (USITC June 8, 2012)
+(Final) (“[C]ompetitive conditions in the U.S. economy are advanced by the consistent en-
+forcement of valid U.S. patent rights.”); Certain Two-Handle Centerset Faucets & Escutch-
+eons, & Components Thereof, Inv. No. 337-TA-422, Pub. 3332, 2000 WL 1159298, at *9
+(USITC June 19, 2000) (Final) (“[T]he public interest favors the protection of U.S. intellectual
+property rights by excluding infringing imports”).\\jciprod01\productn\C\CJP\26-1\CJP104.txt unknown Seq: 38 13-DEC-16 13:24
+162 CORNELL JOURNAL OF LAW AND PUBLIC POLICY [Vol.26:125
+thereto.”268 It is hence for a respondent alleging that the SEP holder has
+engaged in patent holdup to provide sufficient evidence to support that
+claim. There is no valid justification for assuming that the SEP holder’s
+offer was not FRAND simply because the respondent claims so. The
+respondent should be able to substantiate its claims and present to the
+ITC the factual basis for its conclusion that the SEP holder’s offer was
+not FRAND.
+Both the Federal Circuit and Ambassador Froman have endorsed
+the analysis of factual, empirical evidence to substantiate allegations of
+patent holdup and patent holdout. Economists are sharply divided on the
+question of whether patent holdup is more than a merely theoretical con-
+cern.269 The Federal Circuit has taken no position on the economic theo-
+ries of patent holdup or holdout, but instead, it has required the party
+alleging either type of opportunism to support that allegation with empir-
+ical evidence.270 The Federal Circuit emphasized that “something more
+than a general argument that these phenomena are possibilities is neces-
+sary.”271 Ambassador Froman, in his letter to the ITC in 2013, also rec-
+ommended  that  the  ITC  collect  empirical  evidence  to  bolster  any
+findings on patent holdup.272 Therefore, presuming (rather than demand-
+ing evidence) that an exclusion order disserves the public interest in
+cases concerning FRAND-committed SEPs (because of a theoretical risk
+of patent holdup) would contradict not only the ITC’s rules, but also the
+Federal Circuit’s principles and Ambassador Froman’s instructions to the
+ITC.
+Chairwoman Ramirez’s proposal to reverse the burden of proof
+would also disfavor SEP holders that have fully complied with their
+FRAND obligations. To illustrate, suppose that the FRAND range for an
+SEP portfolio is between $3 and $15 per infringing device and, suppose
+further  that  the  SEP  holder  has  made  an  offer  within  the  FRAND
+268 19 C.F.R. §210.27(a) (2015).
+269 Compare Lemley & Shapiro, supra note 5, and Farrell, Hayes, Shapiro & Sullivan, R
+supra note 5, with J. Gregory Sidak, Holdup, Royalty Stacking, and the Presumption of Injunc- R
+tive Relief for Patent Infringement: A Reply to Lemley and Shapiro, 92 MINN. L. REV. 714
+(2008), and Alexander Galetovic, Stephen Haber & Ross Levine, An Empirical Examination
+of Patent Holdup, 11 J. COMPETITION L. & ECON. 549, 572 (2015), and Joshua D. Wright,
+Comm’r, Fed. Trade Comm’n, Remarks at the Center for the Protection of Intellectual Prop-
+erty Inaugural Academic Conference: The Commercial Function of Patents in Today’s Innova-
+tion Economy 20 (Sept. 12, 2013), http://www.ftc.gov/sites/default/files/documents/public_
+statements/ssos-frand-and-antitrust-lessons-economicsincomplete-contracts/130912cpip.pdf
+(“Despite the amount of attention patent hold-up has drawn from policymakers and academics,
+there have been relatively few instances of litigated patent hold-up among the thousands of
+standards adopted.”).
+270 Commonwealth Sci. & Indus. Research Org. v. Cisco Sys., Inc., 809 F.3d 1295, 1302
+(Fed. Cir. 2015); Ericsson, Inc. v. D-Link Sys., Inc., 773 F.3d 1201, 1232 (Fed. Cir. 2014).
+271 Ericsson v. D-Link, 773 F.3d at 1232.
+272 See Ambassador Froman’s Letter, supra note 6, at 3. R\\jciprod01\productn\C\CJP\26-1\CJP104.txt unknown Seq: 39 13-DEC-16 13:24
+2016] INT’L TRADE COMMISSION EXCLUSION ORDERS 163
+range—say, $14 per infringing device. The exact duties that arise from a
+contract between an SEP holder and an SSO are determined by the spe-
+cific FRAND commitment, and by the intellectual property rights (IPR)
+policies of the SSO, which might differ depending on the SSO. For most
+SSOs, however, a voluntary FRAND commitment means that the SEP
+holder undertakes a duty to offer to license its SEPs on FRAND terms to
+anyone seeking to implement the standard. Thus, by making an offer of
+$14 per infringing device, the SEP holder has discharged its FRAND
+obligation as a matter of contract law. Suppose further that the respon-
+dent has refused the $14 FRAND offer in an attempt to persuade the SEP
+holder to accept an offer at the lower boundary of the FRAND range—
+for example, $3.01 per infringing device. After a lengthy negotiation,
+suppose that the parties fail to reach an agreement, and the SEP holder
+files a complaint at the ITC, requesting that the ITC issue an exclusion
+order against the respondent’s infringing product. If the ITC were to
+adopt Chairwoman Ramirez’s approach, the SEP holder could not obtain
+an exclusion order, because it could neither (1) show that the respondent
+was unwilling to negotiate a license nor (2) show that the respondent had
+made an offer “clearly outside a reasonable interpretation of FRAND”
+(assuming, in this example, that $3.01 per infringing device is within the
+FRAND range).273 On the basis of Chairwoman Ramirez’s suggested ap-
+proach, an SEP holder that had made a FRAND offer and had fully dis-
+charged  its  FRAND  obligation  would  not  be  able  to  show  that  the
+issuance of an exclusion order does not conflict with the public interest,
+and thus would receive no remedy for the respondent’s infringement.
+In sum, it should be for the respondent to prove that, in a given
+investigation, the issuance of an exclusion order would disserve the pub-
+lic interest because the SEP holder has engaged, or has attempted to en-
+gage, in patent holdup. If the respondent shows that the SEP holder has
+attempted to engage in patent holdup, the ITC would conclude that the
+public-interest factors weigh against the benefit of an exclusion order.
+Conversely, if the respondents fail to present such evidence, then the ITC
+has a statutory duty to issue an exclusion order upon finding a violation
+of § 337 (assuming that the other statutorily enumerated public-interest
+factors indicate that an exclusion order would not disserve the public
+interest).
+C. A Patent’s Essentiality and the FRAND Commitment
+Ambassador Froman instructed the ITC also to require the parties to
+develop a factual record regarding “the standard-essential nature of the
+273 Written Submission on the Public Interest of Federal Trade Commission Chairwoman
+Edith Ramirez, Certain 3G Mobile Handsets and Components Thereof, Inv. No. 337-TA-613,
+2015 WL 4396145, at *3 (July 10, 2015).\\jciprod01\productn\C\CJP\26-1\CJP104.txt unknown Seq: 40 13-DEC-16 13:24
+164 CORNELL JOURNAL OF LAW AND PUBLIC POLICY [Vol.26:125
+patent at issue if contested by the patent holder.”274 Although his state-
+ment superficially seems to imply that the ITC should examine the as-
+serted  patent’s  essentiality,  closer  analysis  shows  that,  in  practice,
+Ambassador Froman asked the ITC to assume that the asserted patent is
+essential and, therefore, subject to a FRAND commitment.
+1. Is the Patent’s Essentiality a Condition Precedent to the
+FRAND Obligations?
+A patent’s essentiality to practice a standard is not obvious. During
+the standardization process, the SSO typically asks its participants to dis-
+close any patent that they believe is essential, or might become essential,
+to practice that standard.275 The SSO also requires that each participant
+clarify whether it would be willing to license its patent on FRAND terms
+if implemented in the standard.276 The SSO’s rules generally do not obli-
+gate the patent holder to perform a patent search when disclosing its es-
+sential  patents,  but  they  require  the  patent  holder  to  make  such  a
+declaration on the basis of good faith and belief.277 At no point in the
+development and promulgation of a technical standard is there any pro-
+cess of checking which patents are actually essential to practice the stan-
+dard. Consequently, it should be no surprise that some patents that have
+been declared as potentially essential are, in fact, inessential.
+A patent’s essentiality to a standard has limited relevance to deter-
+mining whether a particular product infringes a patent. The Tariff Act
+does not differentiate between the infringement of patents that are essen-
+tial to an industry standard and those that are not.278 The finding that a
+patent is inessential does not necessarily imply that the patent is not in-
+fringed. A product might infringe a patent, even if that patent was previ-
+ously declared essential to an industry standard but ultimately found to
+be inessential.
+The patent’s essentiality is fundamental, nevertheless, to determin-
+ing whether the patent holder has a duty to license that patent on FRAND
+terms. The SEP holder’s duty to offer to license its SEPs on FRAND
+terms is typically conditional upon the essentiality of its patent to prac-
+tice a particular standard.279 An SEP holder that submits a FRAND dec-
+274 Ambassador Froman’s Letter, supra note 6, at 3. R
+275 See, e.g., European Telecommunication Standards Institute [ETSI], ETSI Intellectual
+Property Rights Policy, Annex 6, §4.1 (Nov. 18, 2015) [hereinafter ETSI IPR Policy], http://
+www.etsi.org/images/files/IPR/etsi-ipr-policy.pdf.
+276 Id. §6.
+277 Id. §4.1.
+278 See, e.g., USITC Inv. No. 337-TA-794 Final, supra note 148, at 46–47. R
+279 See J. Gregory Sidak, A FRAND Contract’s Intended Third-Party Beneficiary, 1 CRI-
+TERION J. ON INNOVATION (forthcoming 2016), https://www.criterioneconomics.com/a-frand-
+contracts-intended-third-party-beneficiary.html.\\jciprod01\productn\C\CJP\26-1\CJP104.txt unknown Seq: 41 13-DEC-16 13:24
+2016] INT’L TRADE COMMISSION EXCLUSION ORDERS 165
+laration to ETSI, for example, agrees that, “[t]o the extent that the IPR(s)
+[intellectual property rights] disclosed in the attached IPR Information
+Statement Annex are or become, and remain ESSENTIAL,” the SEP
+holder will offer an irrevocable license on FRAND terms.280 By declar-
+ing a patent to be essential, an SEP holder thus agrees to offer to license
+its SEPs on FRAND terms, subject to the condition that its patents “are
+or become, and remain” essential to practice ETSI’s standard.281 In legal
+terms, a patent’s essentiality is a condition precedent to the SEP holder’s
+duty to ETSI to license the patent on FRAND terms to implementers of
+ETSI’s standard. If a patent is not (or is no longer) essential to practice
+ETSI’s standard, then the patent holder does not have a duty to offer to
+license that patent on FRAND terms.282 From a contract law perspective,
+any analysis of the patent holder’s compliance with the FRAND commit-
+ment becomes immaterial after the ITC has found a patent inessential.
+Curiously, Ambassador Froman said that the ITC should examine
+the patent’s essentiality only if contested by the patent holder. However,
+the complainant typically does not contest the essentiality of its own pat-
+ents. It is instead the respondent that typically presents such an allega-
+tion,  by  using  a  claim  about  inessentiality  as  evidence  that  the
+respondent’s  product  does  not  infringe  the  patent.  Nonetheless,  as
+Judge Essex has observed, by claiming that a patent is inessential, the
+respondent risks losing any benefit that it might gain from the patent
+holder’s  FRAND  commitment.283  Ambassador  Froman’s  statement
+seems to imply that the ITC should not consider a respondent’s claim of
+noninfringement as an implicit challenge to the patent’s essentiality. In-
+stead, Ambassador Froman’s statement suggests that the ITC should as-
+sume  that  the  patents  are  essential  to  practice  the  standard  and,
+consequently, are subject to a FRAND commitment, unless the patent
+holder explicitly contests its patents’ essentiality.
+2. Is the FRAND Commitment an Enforceable Contract?
+In examining a patent’s essentiality, the ITC has raised a question
+that Ambassador Froman ignored in his letter: does a FRAND commit-
+ment constitute an enforceable contract?
+280 ETSI,  Ericsson’s  IPR  Information  Statement  and  Licensing  Declaration,  ISLD-
+201509-007, at 1 (Oct. 1, 2015) [hereinafter Ericsson’s Licensing Declaration to ETSI] (em-
+phasis in original), https://ipr.etsi.org/IPRDetails.aspx?IPRD_ID=2211&IPRD_TYPE_ID
+=2&MODE=2.
+281 Id.
+282 Certain 3G Mobile Handsets and Components Thereof at 36–38, Inv. No. 337-TA-
+613, Pub. 4145 (USITC May 8, 2015) (Initial) [hereinafter USITC Inv. No. 337-TA-613
+Initial].
+283 Id. at 37 (“Respondents in this case have vigorously asserted that the patents in issue
+are not essential. . . . By so claiming, they risk losing the benefit of any defense they may have
+under the ETSI agreement regarding FRAND rights that protect the interests of third parties.”).\\jciprod01\productn\C\CJP\26-1\CJP104.txt unknown Seq: 42 13-DEC-16 13:24
+166 CORNELL JOURNAL OF LAW AND PUBLIC POLICY [Vol.26:125
+Indeed, whether a commitment reaches the level of a binding con-
+tract is a fact-specific question that needs to be determined on the basis
+of the particular terms of that commitment and the contract law that ap-
+plies to the specific case. In most U.S. jurisdictions, the essential ele-
+ments of a contract are (1) an offer, (2) an acceptance of the offer, (3) an
+understanding between the parties regarding the essential terms of the
+contract, and (4) consideration, which is some legal benefit given or legal
+detriment suffered by each party in exchange for the other party’s prom-
+ise or performance.284 Nonetheless, a contract’s essential elements might
+differ  in  jurisdictions  outside  the  United  States.  An  SEP  holder’s
+FRAND commitment is not an enforceable contract if it does not contain
+the necessary elements to form a binding contract under the applicable
+law.
+Some U.S. courts have found an SEP holder’s FRAND commitment
+to be a binding contract between the SEP holder and the SSO.285 For
+example, in Apple v. Motorola, Judge Barbara Crabb of the District
+Court for the Western District of Wisconsin considered whether Motor-
+ola had entered into a binding FRAND contract with ETSI and the IEEE,
+respectively.286 She found:
+Both Motorola and the organizations benefited from this
+arrangement and thus, the element of consideration is
+satisfied. Motorola received the benefit of participating
+in the standards development process and influencing
+the choice of technology for the standards. The organiza-
+tions benefited from Motorola’s commitments by know-
+ing that their technical standards would be available for
+use by third parties.287
+Judge Crabb thus found each of Motorola’s FRAND commitments to be
+a bargain between the SSO and Motorola in which Motorola agreed to
+make its technology available on FRAND terms in exchange for partici-
+pation in the standard-setting process.
+284 See, e.g., Apple, Inc. v. Motorola Mobility, Inc., 886 F. Supp. 2d 1061, 1083 (W.D.
+Wis. 2012) (“To form a valid contract under Wisconsin law, there must be evidence of an
+offer, acceptance and consideration, and an understanding between the parties regarding the
+essential terms of the contract. Apple’s expert states that French law requires the same general
+elements, which Motorola has not disputed.” (internal citations omitted)).
+285 See, e.g., id. at 1083–85. In some FRAND cases, the parties have not disputed whether
+the SEP holder’s FRAND commitment is a contract. The courts in such cases consequently did
+not examined whether the SEP holder’s commitment met the necessary elements of a contract.
+See, e.g., Realtek Semiconductor Corp. v. LSI Corp., 946 F. Supp. 2d 998, 1005 (N.D. Cal.
+2013) (“There is no dispute in this case that defendants entered into a binding contract with the
+IEEE to license their declared standard-essential patents . . . on RAND terms, and that Realtek
+is a third party beneficiary to that contract.”).
+286 Apple, 886 F. Supp. 2d at 1083–85.
+287 Id. at 1084.\\jciprod01\productn\C\CJP\26-1\CJP104.txt unknown Seq: 43 13-DEC-16 13:24
+2016] INT’L TRADE COMMISSION EXCLUSION ORDERS 167
+However, commentators have criticized the conclusion that partici-
+pation in the SSO constitutes consideration that the SEP holder receives
+in exchange for agreeing to offer its SEPs on FRAND terms.288 For ex-
+ample, ETSI’s Rules of Procedure provide that, when ETSI becomes
+aware of the existence of an SEP, it shall immediately request that the
+patent holder clarify whether it is willing to license its SEPs on FRAND
+terms.289 However, the SEP holder’s voluntary submission of a FRAND
+commitment is not a condition of its participation in the standard-setting
+process. If the SEP holder is ultimately unwilling to license its patented
+technology on FRAND terms, ETSI’s rules specify an elaborate series of
+steps to attempt to resolve the issue.290 Ultimately, if an SEP is not avail-
+able on FRAND terms, ETSI might modify the standard to exclude that
+technology.291 However, nothing in the ETSI IPR policy states or implies
+that ETSI will exclude from the standard-setting process an SEP holder
+that fails to submit a FRAND commitment.292 Thus, in the ETSI case, it
+would be incorrect to state that an SEP holder agrees to license its SEPs
+on FRAND terms in exchange for participation in the SSO. In other
+words, ETSI’s grant of membership cannot constitute consideration that
+the SEP holder receives for agreeing to the FRAND commitment. If a
+court finds that the SSO has provided no consideration in exchange for
+the FRAND commitment, it might conclude, depending on the applicable
+contract law, that the FRAND commitment is not a binding contract.
+Not surprisingly, the ITC has been cautious in interpreting FRAND
+commitments to be contracts. For example, in Certain Wireless Devices
+with 3G and/or 4G Capabilities and Components Thereof, Judge Essex
+questioned whether InterDigital’s FRAND commitment to ETSI consti-
+tuted a binding contract.293 He said that the ETSI Rules of Procedure,
+which created “InterDigital’s obligations as a result of its membership in
+ETSI,” were “not a contract,” but merely provided “rules to guide the
+parties in their interactions with the organization, other members, and
+third parties.”294 Judge Essex noted that the ETSI Rules of Procedure left
+many terms, such as “adequate and fairly rewarded,” undefined.295 He
+said that, although French contract law (which was applicable in that
+288 See, e.g., Jorge L. Contreras, A Market Reliance Theory for FRAND Commitments and
+Other Patent Pledges, 2015 UTAH L. REV. 479, 504–06 (2015).
+289 ETSI IPR Policy, supra note 275, §6.1 (emphasis added). R
+290 Id. §8.
+291 Id.
+292 Id.
+293 Certain Wireless Devices with 3G and/or 4G Capabilities & Components Thereof,
+Inv. No. 337-TA-868, Pub. 2929, 2014 WL 2965327, at *75–76 (USITC June 13, 2014) (Ini-
+tial); see also USITC Inv. No. 377-TA-613 Final, supra note 233, at 40–41. R
+294 Certain Wireless Devices with 3G and/or 4G Capabilities & Components Thereof,
+2014 WL 2965327, at *75.
+295 Id.\\jciprod01\productn\C\CJP\26-1\CJP104.txt unknown Seq: 44 13-DEC-16 13:24
+168 CORNELL JOURNAL OF LAW AND PUBLIC POLICY [Vol.26:125
+case) “allows a contract to be made without including the price in the
+contract, . . . the ETSI documents in question create[d] many more fac-
+tors  that  must  be  examined  before  the  FRAND  obligation  is  trig-
+gered.”296 He concluded that “the agreement is not a contract itself, but
+rather an agreement in principal.”297 If the ITC determines that the SEP
+holder’s FRAND commitment does not meet the necessary elements of a
+contract, it might conclude that the FRAND commitment imposes no
+obligations on the SEP holder beyond those of a public pledge.298
+Unfortunately, Ambassador Froman provided no instruction regard-
+ing the enforceability of a FRAND commitment, leaving open the ques-
+tion  of  whether  the  ITC  should  examine  the  enforceability  of  the
+FRAND agreement.
+CONCLUSION
+Upon finding a § 337 violation, the ITC must issue an exclusion
+order  unless  the  statutorily  enumerated  public-interest  factors  advise
+against the use of such a remedy. The ITC confirmed that this basic prin-
+ciple applies for regular patents, as well as for FRAND-committed SEPs.
+President Obama’s 2013 veto of an ITC exclusion order against products
+that infringed SEPs instructed the ITC to examine in its public-interest
+analysis whether evidence of patent holdup or patent holdout advises
+against the issuance of an exclusion order. The ITC consequently scruti-
+nized in detail allegations of patent holdup, and of the SEP holder’s fail-
+ure to comply with the FRAND commitment. However, in none of the
+investigations did the ALJ find that the empirical evidence supported
+those allegations, let alone that the evidence supported the denial of an
+exclusion order. It is thus evident that unsupported allegations of patent
+holdup are insufficient to preclude the ITC’s issuance of an exclusion
+order.
+When examining evidence of patent holdup, the ITC should base its
+determination on factual evidence obtained during the investigation. The
+most relevant inquiry is whether the SEP holder has made the respondent
+an offer to license its SEPs on FRAND terms. If the SEP holder has
+made a genuine FRAND offer, by definition, there cannot be patent
+296 Id.
+297 Id.
+298 That an SEP holder’s FRAND commitment lacks the elements necessary to create a
+bilateral contract does not necessarily imply that the commitment creates no obligations for the
+SEP holder. For example, a FRAND commitment might be enforceable under a different
+framework, such as a unilateral contract or promissory estoppel. See, e.g., RESTATEMENT (SEC-
+OND) OF CONTRACTS §90 (AM. LAW INST. 1981) (“A promise which the promisor should
+reasonably expect to induce action or forbearance on the part of the promisee or a third person
+and which does induce such action or forbearance is binding if injustice can be avoided only
+by enforcement of the promise.”).\\jciprod01\productn\C\CJP\26-1\CJP104.txt unknown Seq: 45 13-DEC-16 13:24
+2016] INT’L TRADE COMMISSION EXCLUSION ORDERS 169
+holdup. Only when the ITC does not have any licensing offers to evalu-
+ate should it consider, for purposes of determining whether the complain-
+ant has engaged in holdup, whether the SEP holder has failed to take the
+necessary steps to initiate negotiations with the respondent and has vio-
+lated any obligations arising from its FRAND commitment. Because
+§ 337 provides that the ITC shall issue an exclusion order unless consid-
+eration of the public-interest factors counsels against such remedy, it is
+properly the respondent’s burden to offer evidence of patent holdup, and
+thereby demonstrate that, in that specific case, the public interest in
+avoiding patent holdup outweighs the benefits of issuing an exclusion
+order.\\jciprod01\productn\C\CJP\26-1\CJP104.txt unknown Seq: 46 13-DEC-16 13:24

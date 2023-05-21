@@ -1,0 +1,291 @@
+ 
+ 
+ 
+ 
+ 
+ 
+Chinese Privacy Law: A Practitioner’s Guide to 
+Current Regulations, Future Trends, & Business 
+Applications 
+ 
+ 
+ 
+ 
+1
+Tiffany Li & Zhou Zhou  
+Updated January 13, 2016   
+                                                 
+1Tiffany Li is Privacy Fellow, Wikimedia Foundation; J.D., Georgetown University Law Center; B.A., University of 
+California, Los Angeles. Zhou Zhou is Legal Counsel, Wikimedia Foundation; J.D., Columbia Law School; B.S., 
+University of California, Berkeley. The views expressed in this Article do not necessarily reflect the views of our 
+employer or any other organization. A version of this Article was published in serial form in “The Privacy Advisor” 
+(International Association of Privacy Professionals, 2015).  
+ The business case for understanding Chinese privacy law is clear. With China’s growing 
+economic power and large consumer base, any international company seeking to profit from 
+consumers in the region should expend resources on understanding how best to succeed in the 
+Chinese market. This means that privacy officers must pay close attention to how privacy law is 
+developing in China, both to keep up with current developments and to stay ahead of the curve 
+by proactively implementing strategic policies. 
+ 
+This Article will provide a basic privacy practitioner’s guide to privacy law in China. First, we 
+will go over the basic status of privacy laws and regulations in China. Second, we will delve into 
+the cultural and historical factors that influence the development and application of Chinese 
+privacy law. Finally, we will offer practical lessons and hypothetical case studies for how to 
+proactively help your company or organization succeed in China. 
+ 
+I. Current State of Privacy Laws in China 
+ 
+Privacy law in China is still a relatively new field. While China lacks a comprehensive national 
+privacy law, there are a number of privacy laws and regulatory guides focused on specific 
+concerns.  
+ 
+To understand the current state of Chinese privacy laws, it’s best to first distinguish the concepts 
+of privacy from government actors and privacy from corporate actors. China’s current legal 
+system does not afford significant privacy protections against government intrusion. However, in 
+the past few years, China has been increasingly willing to create and enforce privacy laws aimed 
+at regulating corporations and private actors.  
+  2  
+In the past few years, China has created a number of privacy laws focused on regulating the 
+private sector. These laws include telecommunications regulations like the 2011 MIIT “Internet 
+Information Services Regulations” (“MIIT 2011 Regulation”)2; the 2013 MIIT 
+“Telecommunications and Internet Personal User Data Protection Regulations” (“MIIT 2013 
+Regulation”)3; the  2013 MIIT “Information Security Technology - Guidelines for Personal 
+Information Within Public and Commercial Services Systems,” (“MIIT 2013 Guide”).4 
+Additionally, in 2012, the SC-NPC Decision on Internet Information Protection (“SC-NPC 
+2012”)5 created the highest level law in China dealing with data protection. The provisions from 
+SC-NPC 2012 were largely included in the 2013 amendments to China’s “Law on the Protection 
+of Consumer Rights and Interests” (“Consumer Law”). 6 
+ 
+The amended Consumer Law includes the general principle that all operators must “follow legal, 
+legitimate, and necessary principles,” incorporating principles stated in the SC-NPC 2012. The 
+Consumer Law (2013), Art. 29 lists these basic principles: 
+“Proprietors collecting and using consumers' personal information shall abide by 
+principles of legality, propriety and necessity, explicitly stating the purposes, means and 
+scope for collecting or using information, and obtaining the consumers' consent. 
+                                                 
+22011 MIIT “Internet Information Services Regulations” (“MIIT 2011 Regulation”), 
+http://www.miit.gov.cn/n11293472/n11293832/n12771663/14417081.html. 
+32013 MIIT “Telecommunications and Internet Personal User Data Protection Regulations” (“MIIT 2013 
+Regulation”), https://chinacopyrightandmedia.wordpress.com/2013/07/16/telecommunications-and-internet-user-
+individual-information-protection-regulations/. 
+4 2013 MIIT “Information Security Technology - Guidelines for Personal Information Within Public and 
+Commercial Services Systems,” (“MIIT 2013 Guide”).4 
+http://www.pipa.gov.cn/manage/UploadFile/2015518133720563.pdf.	  
+5 SC-NPC Decision on Internet Information Protection (“SC-NPC 2012”), 
+https://chinacopyrightandmedia.wordpress.com/2012/12/28/national-peoples-congress-standing-committee-
+decision-concerning-strengthening-network-information-protection/. 
+6 2013 amendments to China’s “Law on the Protection of Consumer Rights and Interests” (“Consumer Law”), 
+http://chinalawtranslate.com/consumer-protection-law-including-2013-amendments/?lang=en. 
+  3 Proprietors collecting or using consumers' personal information shall disclose their rules 
+for their collection or use of this information, and must not collect or use information in 
+violation of laws, regulations or agreements between the parties. 
+ 
+Proprietors and their employees must keep consumers' personal information they collect 
+strictly confidential and must not disclose, sell, or illegally provide it to others. 
+Proprietors shall employ technical measures and other necessary measures to ensure 
+information security, and to prevent consumers' personal information from being 
+disclosed or lost. In situations where information has been or might be disclosed or lost, 
+proprietors shall immediately adopt remedial measures. 
+ 
+Proprietors must not send commercial information to consumers without their consent or 
+upon their request of consumers, or where they have clearly refused it.” 
+These principles are echoed in the general principles of MIIT 2011, which state that ISPs “shall 
+provide services in accordance with the principles of equality, free will, fairness and good faith.” 
+ 
+In 2013, the MIIT released a voluntary guide for industry best practices. The MIIT 2013 Guide 
+elucidates eight principles, which are all fairly standard for international privacy norms and 
+similar to other nations’ privacy principles:   
+1.  Clear Purpose Principle: Data should only be used for a clear purpose and should not be 
+used outside of that purpose. 
+  4 2.  Minimum and Sufficiency Principle: Companies should only handle the minimum 
+amount of information sufficient for their purpose. Personal info should be deleted after 
+the purpose has been achieved. 
+3.  Public Notification Principle: Companies should give notice to data subjects of the 
+purpose, scope, use, security, and other information related to the data collection. 
+4.  Personal Consent Principle: Companies should obtain consent before using data. 
+5.  Quality Assurance Principle: Companies should take measures to ensure confidentiality, 
+integrity, availability of data. 
+6.  Safety Guarantee Principle: Companies should take measures to ensure security of data. 
+7.  Good Faith Fulfilling Principle: Companies should act in good faith in compliance with 
+legal requirements. 
+8.  Clear Responsibility Principle: Companies should clearly define responsibilities, taking 
+of appropriate measures, and records processing (for use in potential future 
+investigations).  
+ 
+These principles should be familiar to any privacy practitioner. Additionally, the MIIT 2013 
+Guide includes the following: special safeguards for sensitive information, restrictions for 
+overseas data exports, data breach notification obligations, and information on rights of data 
+subjects. The MIIT 2013 Guide is the only current state policy that mentions limits on 
+transnational data exportation, explicitly prohibiting overseas transfer of data without express 
+consent of data subjects or explicit legal or regulatory permission. However, the MIIT 2013 
+Guide is voluntary and does not impose legal obligations upon corporations.  
+ 
+  5 Chinese citizens may have a right to privacy under tort law. China’s General Principles of Civil 
+Law (“GPCL”) includes protection of the “right of reputation” (GPCL, art. 101), while the Tort 
+Liability Law (“TTL”) protects the “right of privacy” (TTL, art. 2). Both the GPCL and TTL tort 
+rights of privacy have been used in litigation between individuals and corporations. It is 
+important to note that, under the TTL, “network service providers” (likely to be interpreted as 
+similar to “Internet Service Providers” in the West) have special obligations to prevent tortious 
+actions committed by users of their services. 
+ 
+China also has some privacy-focused sectorial legislation (laws governing specific industries), 
+somewhat similar to the U.S. sectorial approach to privacy law. China’s sectorial laws include 
+the Basic Norms for Electronic Medical Records (Ministry of Health, 2010), Social Insurance 
+Law (2010), and Regulations and Administrative Measures for Credit Reference Agencies 
+(2013). In addition, a number of provinces and municipalities have enacted their own privacy 
+laws. 
+ 
+In conclusion, while Chinese privacy law is still fairly undeveloped, China has made significant 
+strides in recent years to create new laws governing data privacy and confidentiality of personal 
+information. Some of the major principles inherent in the highest level Chinese privacy laws are 
+similar to international privacy norms (E.U. Directive, APEC Principles, etc.). With the law still 
+unclear, the best way forward for privacy practitioners is to ensure compliance with current laws 
+and proactively adapt practices that are in touch with Chinese consumer culture. 
+ 
+II. Cultural Factors Influencing the Perception of Privacy 
+ 
+  6 As is the case legal systems in all countries, Chinese culture affects Chinese views and 
+application of laws - including privacy laws.  However, we cannot study Chinese privacy law in 
+a vacuum. The modern legal conception of privacy, and its applicable laws, arose from Western 
+culture. Thus, to understand Chinese privacy law, we must juxtapose Western notions of privacy 
+against thousands of years of Confucian teaching and the historical background that still 
+influences present-day Chinese society.  In fact, such cultural considerations have such a strong 
+influence on Chinese privacy laws precisely because the importation of Western privacy laws 
+prevented China from developing its own sui generis privacy culture.  
+            
+Historically, Chinese laws arose out of Confucian ideas about government and have always been 
+underpinned by Confucian ethics and morality.  As such, Chinese laws and their applicability are 
+dependent on Chinese cultural assumptions about ethical and moral behavior.  International 
+norms for privacy law are also based on ethical and moral considerations. Thus, any tensions 
+between Western theories of privacy and the reality in the Chinese legal system can be 
+particularly problematic for the implementation of privacy laws since both forces are based on 
+strong, and sometimes conflicting, value systems. 
+ 
+In particular, it is possible that the deep importance of community in Chinese culture could 
+impede the proper application of privacy laws in China.  Confucian ideas arose thousands of 
+years ago out of a time in Chinese history when the country was undergoing an extended and 
+tumultuous civil war. During that turbulent time, prominent scholars, like Confucius, sought 
+ways to end the turmoil. Thus, under Confucianism, and the Chinese legal systems based on it, 
+priority is placed on ensuring order and good governance.  In such a system, the rights of the 
+individual are subordinate to the rights of the family unit, the community, and the country.  Even 
+  7 today, many Chinese citizens almost implicitly acquiesce to the idea that any privacy rights they 
+have are not absolute against the monitoring powers of the centralized state.  Furthermore, in 
+many recent privacy-related disputes in China, the legal system have often sided with protecting 
+the rights, values, and morals of the community over protecting the privacy rights of the 
+individual.7 
+ 
+A second complication for privacy practitioners seeking to understand privacy in China is the 
+strong contrast between Chinese and Western ideals involving regulation of individual behavior. 
+In the Judeo-Christian Western culture, it’s arguable that punishment is based on the personal 
+and inward-facing ideas of individual wrongdoing and individual guilt. However, in Chinese 
+culture, punishment often derives from the community-infused concept of Shame.  As one 
+commentator notes8, in this Shame-based culture, purported wrongdoers can only be properly 
+punished if their faults are exposed to the community and the punished are forced by society to 
+correct their behavior based on what society thinks is morally important to do.  Under exposure 
+to the criticism of their community, an individual’s privacy rights are disregarded.  This cultural 
+artifact has contributed to the privacy-invasive phenomena of ‘human-flesh’ search engines9 that 
+commonly engulf online communities in mainland China.10 
+                                                 
+7 For a further discussion of such cases, please see 隐私权的中国命运—司法判例和法律文化的分析 
+by 张礼洪, 隐私权的中国命运—司法判例和法律文化的分析. 
+http://www.cnki.com.cn/Article/CJFDTotal-SDFX201401002.htm. 
+8田(cid:0)民, “耻感文化与个人(cid:0)私(cid:0)的保(cid:0),”《西部法学(cid:0)(cid:0)》(2010).  
+http://shlx.pkulaw.cn/fulltext_form.aspx?Db=qikan&Gid=1510094600&keyword=&EncodingName=gb2312&Sear
+ch_Mode=. 
+9 戴激涛, 从“人肉搜索”看(cid:0)私(cid:0)和言(cid:0)自由的平衡保(cid:0),” 《法学》(2008). 
+http://shlx.pkulaw.cn/fulltext_form.aspx?Db=qikan&Gid=1510068708&keyword=&EncodingName=&Search_Mod
+e=. 
+10	  Human-flesh’ search engines are campaigns by online users to search and expose the identity and personal details 
+of other Chinese citizens of interest and subject them to public humiliation.	  
+  8  
+On the other hand, the shame-based culture means that in certain ways, Chinese citizens are very 
+protective of their public image and any disclosure of private wrong-doing, whether legal or 
+moral, that could lead to a loss of ‘face.’ This is likely one impetus behind the privacy and 
+confidentiality laws that do exist in China today, and could point to the direction that Chinese 
+privacy laws might further develop in the future.  
+ 
+The aforementioned mix of cultural factors has produced a unique Chinese view towards privacy 
+- a view that is strict in certain respects but lax in others.  Understanding these cultural and 
+historical factors can offer clues to how Chinese privacy law may develop in the future. It is also 
+helpful to keep these considerations in mind, when creating privacy practices that deal with 
+Chinese consumers or Chinese corporations.  
+ 
+III. Practical Lessons 
+ 
+It is difficult to predict with any certainty how privacy law in China will develop. As we have 
+already discussed, Chinese privacy laws are still in their early stages. There is no comprehensive 
+national privacy law, and what laws do exist are generally similar to international norms (notice, 
+choice, security, and so on).  
+ 
+Here are a few practical lessons to help you proactively protect your company and your clients 
+from legal privacy risks in China.  
+ 
+A. Designing the Best China-Centric Privacy Policies 
+  9  
+1.  Focus on community values 
+Given the Chinese emphasis on community values, it is advisable to design your privacy 
+policies and practices in context of an understanding of Chinese community values. For 
+example, in framing a discussion of your policies, include a discussion of the values of 
+your particular online community and explain how your privacy practices protect those 
+values. 
+ 
+2. Look to ethics, not just law 
+Look to ethics first, not just the law. China does not yet have strong privacy laws, so the 
+best basis for any privacy-related policy is probably ethics. Chinese consumers may also 
+be particularly swayed by ethical arguments for privacy practices, given historical focus 
+on ethical bases for laws. To put this in practice, include an ethical basis when justifying 
+your privacy policies, in addition to providing the legal basis for your policies.  
+ 
+3. Use culture for context 
+Use culture for context. Different cultural values of privacy affect what your users want 
+from corporations. In the U.S., users may view privacy almost as a property right 
+(protecting private information a user owns). In China, users may instead view privacy as 
+a shield, protecting private lives from community exposure or shame from losing face. 
+Recognize this distinction in your policies by emphasizing how your company will 
+protect the confidences of your users and prevent information exposure. 
+ 
+B.  Understanding Chinese Consumer Expectations 
+  10  
+1.  Chinese consumers may have fewer privacy expectations 
+Chinese consumers may place less value on privacy, when compared to other competing 
+values or obligations. This may be reflected in what your user community and consumers 
+value. For example, your users may care more or be affected more by corporate 
+transparency efforts than privacy protection efforts. Thus, you may receive a better return 
+on investment for putting resources into creating and publishing transparency reports. 
+ 
+2. Chinese consumers do still care about privacy 
+At the same time, privacy practitioners should not assume that Chinese consumers do not 
+care at all about privacy. Cultural expectations of privacy may be different, but privacy is 
+still valued in China, especially privacy concerning confidentiality of personal 
+information. Keep in mind the notions of “shame” and “saving face.” It is important to 
+remember that, while Chinese consumers may have a different conception of privacy 
+rights, this is no excuse for not protecting the privacy of your consumers or failing to 
+follow the law.  
+ 
+3. Chinese consumers may be more open to data collection/use 
+Chinese consumers may be more pragmatic about companies using or buying their 
+private information. If you can make a strong case for why your users should give their 
+data (e.g., in exchange for tailored features), it is likely that Chinese consumers will be 
+more swayed by these arguments than European consumers, for many of whom privacy is 
+an almost inalienable right. Privacy is not a fundamental Chinese value, so Chinese 
+  11 consumers may be less tied to strict privacy rights, when compared to Western 
+consumers.  
+ 
+Understanding the cultural and historical factors behind China's privacy laws today provides a 
+path forward in creating policies and programs that will best engage Chinese consumers and 
+likely minimize future legal compliance risks. These practical privacy lessons can be used when 
+conducting due diligence on new Chinese business interests, creating new policies for overseas 
+corporate expansion, or interacting with Chinese user communities.  
+ 
+As noted, Chinese privacy law is still fairly underdeveloped, and it is difficult to predict how the 
+laws will change in the future. However, understanding the current state of Chinese privacy law, 
+as well as the cultural and historical factors that might influence its development and application, 
+will help privacy practitioners prepare their organizations to succeed in the growing Chinese 
+market.  
+ 
+For further discussion on Chinese privacy law, and Asian privacy law in general, we recommend 
+the comprehensive treatise, Asian Data Privacy Laws: Trade and Human Rights Perspectives, by 
+University of New South Wales Law Professor Graham Greenleaf.  
+ 
+ 
+  12 

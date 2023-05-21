@@ -1,0 +1,824 @@
+April European Competition Journal 7
+Antitrust Marathon IV
+BRIDGING THE DIVIDE? THEORIES FOR INTEGRATING
+COMPETITION LAW AND CONSUMER PROTECTION
+*
+MAX HUFFMAN
+Commissioner Kovacic of the US Federal Trade Commission has stated that
+“consumer protection laws are important complements to competition policy”.1
+According to the UK Office of Fair Trading, “[c]ompetition and consumer
+policy are interdependent”; together they “provide a framework for markets to
+deliver maximum benefits for consumer welfare and productivity growth”.2
+CompetitionCommissionerAitkenof theCanadianCompetitionBureaunoted,
+“Ido reallythink the two mandates address two sides of the samecoin with the
+ultimate goal of economic and consumer welfare”.3 At the Fourth Antitrust
+Marathon,hostedbytheIrishCompetitionAuthorityandexecutedbyProfessor
+SpencerWallerandDrPhilipMarsden,thelead-off topicwastheintegrationof
+competition law and consumer protection. This paper theorises that topic.
+A. INTRODUCTION
+Competition law is traditionally conceived as regulation of the marketplace to
+ensureprivateconductdoesnotsuppressfreetradeandcompetition.Ithasasits
+goalthepreservationof competition.Competitionservestooptimiseconsumers’
+interests. Consumer protection regulation denotes a body of law designed to
+protectaconsumer’sinterests atthelevelof theindividualtransaction. Thetwo
+fields share the same ultimate goal of protecting consumers.
+But their approaches to achieving that goal differ. It may be possible to
+conceive as the overriding distinction as one of market definition: consumer
+protection regulation defines the market to be very small, limited to the
+parametersof theindividualtransaction.Thatdifferenceinapproachessuggests
+* AssociateProfessor,IndianaUniversity School of Law—Indianapolis.This paperhas benefited
+from the helpful insights of Maurice Stucke and commentators Cavendish Elithorn, Melanie
+Aitken,PaulGoreckiandalltheparticipantsattheFourthAntitrustMarathoninDublin,Ireland.
+ThanksaredueinparticulartoSpencerWallerandPhilipMarsdenforinvitingmetoDublinfor
+ajogaroundtownandtoparticipatewithanaugustgroupindiscussingissues.
+1 WEKovacic,CompetitionPolicy,ConsumerProtection,andEconomicDisadvantage(2007)25
+JournalofLaw&Policy101,114.
+2 UK Office of Fair Trading, “Joining Up Competition and Consumer Policy: The OFT’s
+ApproachtoBuildinganIntegratedAgency”,OFT1151(2009),para1.2.
+3 MAitken,commentsattheFourthAntitrustMarathon(27October2009),infrap30.
+Electronic copy available at: http://ssrn.com/abstract=15461068 Antitrust Marathon IV ECJ VOL.NO.
+itispossiblethatintegrationof aschemedesignedtoregulatemarketsnation-or
+worldwide with a scheme designed to regulate atomistic transactions, which
+consumer protection does, is neither realistic nor desirable. Likewise, protecting
+consumers in individual transactions with a scheme designed to ensure
+competition is preserved may miss the mark. This paper explores those
+possibilitiesaswell.
+The integration of competition law and consumer protection has both
+substantive and systemic components.4 The substantive question is whether
+pursuingtheendof consumerwelfareoptimisationthroughmarketregulationis
+consistent with pursuing the same end through regulating transactions. The
+systemic question is whether an agency or remedial scheme constituted to
+advance competition policy can also serve the purpose of protecting individual
+consumers or an agency or remedial scheme constituted to protect individual
+consumersisconsistentwiththelargergoalof preservingcompetition.
+In Section B, I discuss the meaning of consumer harm. The prevention of
+consumerharmisagoalof bothcompetitionlawandconsumerprotection.What
+consumerharmmeansisremarkablyunder-theorised.InSectionC,Iaddressthe
+following doctrinal and theoretical innovations and their place in the two fields.
+First is the common use of deception rationales in consumer protection and
+competitionlawenforcement.Secondistheapplicationof behaviouraleconomics
+in both consumer protection and competition law enforcement. Third is market
+manipulation as a specific example of a hybrid competition/consumer protection
+theory.Fourthandlastismonopolyexploitationasaspecificexampleof ahybrid
+competition/consumerprotectiontheory.IthenturninSectionDtothetopicof
+enforcement systems. I inquire whether an agency created for competition law
+enforcement is appropriately situated to engage in consumer protection work. I
+also propose the possibility that private actions are better used in consumer
+protectionthanincompetitionlaw.
+B. THE ELUSIVE CONCEPTOF “CONSUMER HARM”
+There is seemingly universal worldwide agreement that competition law and
+consumer protection law both exist to protect consumers.5 What is the harm to
+4 SeeWEKovacic,“TheFederalTradeCommissionat100:Intoour2ndCentury”(FederalTrade
+Commission, 2009),8 (“successful public policy outcomes are the product of good physics and
+good engineering”, defining “physics” of competition and consumer protection to be doctrinal
+and policy questions, and “engineering” to be institutional questions), available at
+www.ftc.gov/ftc/workshops/ftc100/docs/ftc100rpt.pdf(accessedon2February2010).
+5 Even the most efficiency-minded of US antitrust scholars adopt this view. See RA Bork, The
+AntitrustParadox51(NewYork,FreePress,2ndedn,1993)(“consumerwelfare”is“thesolevalue”
+underlyingantitrust).Ithasworldwideacceptanceaswell.SeeOECD,“ReportontheSeventh
+Global Forum on Competition” (2008), 8 (concluding that competition law exists to protect
+consumers).
+Electronic copy available at: http://ssrn.com/abstract=1546106April European Competition Journal 9
+be prevented or remedied remains poorly understood.6 Consumer harm in
+competition law may differ from consumer harm in the field of consumer
+protection.7Itisalsonecessarytoaskwhatismeantby“consumer”,andwhether
+it is the same thing between competition and consumer protection law.
+1. Consumer Protection
+In the consumer protection field, harm is comparatively easy to define. It is a
+break-downinanindividualconsumertransaction.Thefailureusuallyoccursat
+theoriginationstage.Butas,forexample,inthecasesof lawsregulatingusuryor
+common-law doctrines such as unconscionability, consumer harm can occur in
+the substance of the transaction. The failures with which consumer law is
+concernedunderminetheconsumer’sabilitytooptimise his orherownwelfare.
+Consumer law targets those failings to grant individual consumers remedies. It
+thus fills gaps that market forces leave unfilled.
+IntheUSsystem,atleast,the“consumer”inconsumerprotectionlawusually
+is easy to define: it is the individual, end-user consumer.8 Many US federal
+consumer protection statutes limit their application to transactions involving
+individualswherethesubjectof thetransaction isprimarilyforpersonal, family,
+or household purposes.9 That meaning may be universal: the OFT describes
+“[c]onsumerpolicy...asfocusingonhowfirmsinteractwith[individualretail]
+consumers,ontradingpracticesandcontractterms”.10
+The Federal Trade Commission Act is not so limited. It applies to unfair or
+deceptive trade practices generally without regard to the victim of those
+practices.11 But theories of deception and unfairness often turn on disparities in
+sophistication between the parties, suggesting the individual consumer is the
+bettervictim.12
+6 See A Devlin, “Antitrust in an Era of Market Failure” [2010] Harvard Journal of Law & Policy
+(forthcoming), draft, 21, available at http://www.ssrn.com/abstract=1429539 (accessed on 2
+February 2010) (“‘Consumer welfare’ is itself a nebulous concept, subject to multiple interpre-
+tations”), citing GJ Werden, “Essays on Consumer Welfare and Competition Policy” (2009),
+availableathttp://www.ssrn.com/abstract=1352032(accessedon2February2010).
+7 See OFT, supra n 2, paras 2.3–2.4 (contrasting the aims of competition law and consumer
+protection).
+8 But see In re Intel Corp, FTC Dkt No 9341, Compl paras 4, 10, 103 (filed 16 December 2009)
+(alleging “deceptive acts or practices” with victims of those practices presumably being Intel’s
+computermanufacturercustomers).
+9 See,eg15USC § 1602(h)(defining“consumer” for purposesof the Truth in LendingAct); §§
+1635,1637,1637A,1638(substantivesectionsofTILAlimitedtoconsumertransactions).
+10 OFT, supra n 2, para 2.4; see also ibid, para 2.3 (defining “consumer” as “individual retail
+consumer”).
+11 See15USC§45.
+12 See,egCharlesof theRitzDistribCorpvFTC,143F2d676(2dCir1944)(FTCAct“notmadeforthe
+protectionof experts,butforthepublic”,including“theaveragewoman,conditionedbytalkin
+magazines and over the radio”). It is also the case that consumer protection is a populist10 Antitrust Marathon IV ECJ VOL.NO.
+2. Competition Law
+Defining consumer harm is much more difficult in competition law. The
+consumer harm in US competition law generally is phrased in terms of
+decreasedoutputandincreasedprices.13Thedictumthatcompetitionlawshould
+beprimarilyconcernedwithconsumerwelfareismorefullyunderstoodtomean
+competitionlawseekstopreventharmtocompetition,andconsumerwelfarewill
+be thereby maximised.14
+Such an approach has the tendency to undermine any direct intervention on
+behalf of individual consumers. If an individual transaction produces a
+sub-optimal result, competition law assumes the marketplace will supply the
+resolution.15 The incapable or shady merchant will be replaced by one who
+servesconsumers’wishesanddoessofairly.Acrossthemassof consumers,then,
+welfare may be optimised. The handful of consumers left unsatisfied before the
+losing producerexitedthemarketaretoo fewtobringdowntheaverage.Those
+fewdonotreflect“harmtocompetition”.16
+The definition of “consumer antitrust” remains under-theorised.17 That is a
+remarkable reality, given the frequency with which consumer welfare is invoked
+tojustifyaparticulardecisionorpolicyprescription.18Thereremainsavigorous
+debate whether consumers benefit when economic efficiency is maximised, and
+endeavour, and protecting individual end-users makes for a better press release than does
+protectingacommercialenterprise.
+13 MrAverittandProfessorLandepreferastandardbasedon“consumerchoice”,bothintermsof
+price and non-price characteristics. NW Averitt and R Lande, “Using the Consumer Choice
+ApproachtoAntitrustLaw”(2005)74AntitrustLawJournal175,179.
+14 SeeFishmanvEstateofWirtz,807F2d520,536(7thCir1986)(“Theantitrustlawsareconcerned
+withthecompetitiveprocess...Ahealthyandunimpairedcompetitiveprocessispresumedtobe
+intheconsumerinterest”);FHEasterbrook,“WhenisitWorthwhiletouseCourtstoSearchfor
+ExclusionaryConduct?”[2003]ColumbiaBusinessLawReview345,347;GMonti,remarksatthe
+Fourth Antitrust Marathon (27October2009),Tr 33–34(noting that competitionlaw protects
+competition,notconsumersassuch,andcitingtheWholeFoodsmergerforthepropositionthat
+anemphasisonconsumerprotectionrisksover-enforcement).
+15 OFT,supran2,para2.3.
+16 ProfessorCranedifferentiatesbetweenwealthtransfersfromindividualconsumerstoproducers,
+whichis“notnecessarilyinefficientinaneconomicsense”,and“deadweightlosses”,whichare
+“theprimarysocialcostsofanticompetitivebehavior”.DACrane,“OptimizingPrivateAntitrust
+Enforcement” [2010] Vanderbilt Law Review (forthcoming), draft, 7, available at ssrn.com/
+abstract=1474956.
+17 That is so not just in the US. See P Marsden and P Whelan, “Consumer Detriment and its
+ApplicationinECandUKCompetitionLaw”(2006)10EuropeanCompetitionLawReview569,572
+(“giventhatoneofthefundamentalobjectivesofECcompetitionlawrelatestothemaximization
+of consumer welfare”, it is “undeniably odd that neither consumer benefit nor consumer
+detrimenthavebeengivencomprehensivetreatment”).
+18 ThoughtfulrecentworkofProfessorLande,ProfessorKirkwoodandNeilAverittmakeseffortsto
+remedy this limitation. See JB Kirkwood and R Lande, “The Fundamental Goal of Antitrust:
+Protecting Consumers, Not Increasing Efficiency” (2008) 84 Notre Dame Law Review 181; NW
+Averitt and R Lande, “Using the Consumer Choice Approach to Antitrust Law” (2005) 74
+AntitrustLawJournal175.April European Competition Journal 11
+whogetsthesurplusisunimportant,orcompetitionlawrequiresthatconsumers
+ratherthanproducersbenefitfromsurpluswelfare.19
+Averitt and Lande’s “consumer choice” paradigm harmonises competition
+law and consumer protection. Competition law, by protecting competition,
+ensuresconsumershaveoptionsavailabletothem.Consumerprotectionensures
+that “consumers are able to make a reasonably free and rational selection from
+among those options”.20 That elegant resolution suggests that antitrust and
+consumer protection are complementary so long as consumer protection targets
+the origination phase of the consumer transaction, dealing with theories of
+deception and their close cousin, disclosure regulation. Averitt and Lande’s
+paradigm does not hold where consumer protection regulation targets
+substantive transaction terms, because those terms limit, rather than enhance,
+consumerchoice.
+C. DOCTRINALAND THEORETICAL INNOVATIONS
+In this section I discuss four legal innovations and their place in antitrust and
+consumer protection, respectively. First is the common use of deception
+rationales in consumer protection and competition law enforcement. Second is
+the application of behavioural economics in both consumer protection and
+competition law enforcement. Third is market manipulation as a specific
+exampleof ahybridcompetition/consumer protectiontheory.Fourthandlastis
+monopoly exploitation as a specific example of a hybrid competition/consumer
+protection theory.
+1. Deception
+Deception is the quintessential consumer harm.21 Deception operates at the
+origination phase of a consumer transaction. It limits consumers’ abilities fully
+andfairlytonegotiatethetermsof thetransactionandcausesthemtoenterinto
+transactions they would otherwise eschew. Deception thus strikes at the
+19 The“surplus”istheareaonthesupply-demandgraphthatreflectsamountsconsumersarewilling
+to pay in excess of the producer’s costs of production. See KN Hylton, Antitrust Law: Economic
+Theory and Common Law Evolution (Cambridge University Press, 2003), 3–4 (noting that “total
+surplus” is the aggregate of the differences between what consumers are willing to pay and
+producersarewillingtoacceptforeachunitofoutput).Muchbusinessconductcanbeexplained
+byproducers’effortstoco-optforthemselvesasmuchofthesurplusaspossible.
+20 AverittandLande,supran18,181.CfOFT,supran2,para3.3(OFT’sinterventions“safeguard
+thechoicesavailabletocustomers”.Consumerprotection“promot[es]‘clean’conditionsinwhich
+customerscanexercisechoice...”).
+21 CfMMGreenfield, Consumer Transactions (Gaithersburg, MD,Aspen,5th edn, 2009)(describing
+earlyconsumerlawasareactiontofailingsinasystembasedonfreedomofcontractandcaveat
+emptor).12 Antitrust Marathon IV ECJ VOL.NO.
+foundation of the freedom of contract and welfare optimisation through free
+choice. Harm exists even where the transaction is otherwise “fair” to the
+consumer.
+According to Professor Stucke, circumstances may exist in which deception
+also is competitive harm.22 He argues that profit-maximising firms would only
+engage in deception if the expected benefits, in the form of monopoly profits,
+outweighed the expected costs, which include the costs of the deceitful
+advertising, the criminal and civil liability that may attend, and the “potential
+loss of sales, goodwill, and competitive advantage if the deceit is uncovered”.23
+He proposes that a prima facie case of a violation of section 2 of the Sherman
+Act should be established by proof that a monopolist engaged in deceitful
+conduct which is reasonably capable of creating or maintaining monopoly
+power.24
+Itisnotdifficulttoseehow,intheory,deceptioncanharmthemarketplaceas
+well as the individual consumer. Market forces operate on the basis of
+consumers’ revealed preferences. Where consumer decisions are made on the
+basis of material misinformation, consumer contracting decisions do not reveal
+consumerpreferencesinanyrealsense.Theveryharmthatgivesrisetoliability
+underconsumerprotectiontheoriesalsopresentsapossiblecompetitiveconcern.
+Moreover, economists have proved that deception will exist in some optimal
+amount whenever one of two conditions holds. Either there must be a strong
+belief thatthedeceptionwillnotbeexposed,orthefirmmustnotbeconcerned
+about repeat business.25 A monopoly or near-monopoly marketplace satisfies
+both conditions. Consumers have no alternatives, so must return to the
+monopoly producer if they want to make a purchase. And the chance of
+deceptionbeingexposedisminimisedbecausetherearenocompetitorsavailable
+to do the exposing.26 That suggests that monopoly maintenance through
+22 See ME Stucke, “How Do (and Should) Competition Authorities Treat a Dominant Firm’s
+Deception?”,UniversityofTennesseeCollegeofLawResearchPaperNo57(2009),availableat
+ssrn.com/abstract=1397728(accessedon2February2010).
+23 Stucke, ibid, 13. In support of Stucke’s arguments, the concerns of loss of sales, goodwill and
+competitiveadvantageseemsmallincomparisontotheadvantagestobegainedfromfraudand
+deceit. Importantly, the benefit from deceit is borne entirely by the single deceitful actor. The
+harmisspreadacrosstheentireindustry.CfKovacic,supran1,114–15(“Falseadvertisingand
+deceptive marketing practices can damage the capacity of honest merchants to attract
+consumers...”).
+24 Stucke,supran22,42.
+25 SeeMRDarbyandEKarni,FreeCompetitionandtheOptimalAmountofFraud(1973)16JournalofLaw
+&Economics67,69–71,74–75,77;RPosner,RegulationofAdvertisingbytheFTC(Washington,AEI
+1973),5.
+26 Stuckearguesthatdeceptioncannotsucceedinaperfectlycompetitivemarketplace.Stucke,supra
+n 21,2 (“Deception doesnot occur in a perfectly competitive market . . .”). Darby and Karni
+demonstrateotherwise.Producersinaperfectlycompetitivemarketareindifferentastowhether
+theconsumerreturns,satisfyingoneof theconditionsforsomeamountof fraudbeingoptimal.
+SeeDarbyandKarni,supran25,77(“Inthestrictestcompetitiveframeworkforthemodel,the
+presentvalueof futurerelationshipwiththecustomerwouldbezero,sincethereisnoreasonforApril European Competition Journal 13
+deceptionisrealisticandrational.Itshouldthereforeofferabasisforanabuseof
+dominanceliability.
+Deceptionmightalsopresentatheoryof harminoligopolyindustries.Firms
+in an industry marked by few participants and with homogenous goods (or
+homogeneous characteristics of differentiated goods) might find it advantageous
+not to expose their competitors’ deception, but instead to imitate it.27 A ready
+example of this is the parallel failure of cigarette manufacturers to expose the
+harm caused by rivals’ products.28 Jurisdictions that pursue theories of harm
+through tacit collusion might consider tacitly collusive deception as a form of
+illegal coordinated conduct. Tacitly collusive deception is certainly not, or likely
+tobecome,atheoryof harmintheUSsystem.29
+Recent mainstream antitrust thinking in the United States has tended to
+assume deception cannot have real market effects.30 It appears that the EC
+sharesthisgeneralviewinitsenforcementof Article82of theECTreaty.Inthe
+2 September 2009 Guidance paper on enforcement priorities, deception by a
+dominant firm was not discussed as a specific form of abusive conduct.31 The
+CanadianCompetition Bureau’sdraftupdatedenforcementguidelinesforabuse
+of dominance, interpreting sections 78 and 79 of the Competition Act, likewise
+fail to mention deception as impermissible conduct.32 However, “misleading
+thecustomertoreturninthefutureinanycase”).Cf OFT,supran2,para2.4(“consumerpolicy
+issuesmayariseinindustriesthatseemhighlycompetitive,suchashouserepairsandairlines”);
+E Janger and S Block-Lieb, “Consumer Credit and Competition: The Puzzle of Competitive
+CreditMarkets”(2010)6EuropeanCompetitionJournal68(“Pricecompetition”inconsumercredit
+markets “often takes the form of price concealment”). Of course, only the monopoly or
+near-monopolymarketpresentsanabuseof dominanceconcern.
+27 Justasgametheory predictsrival fillingstationoperatorsonoppositestreet corners willfindit
+advantageoustoincreasepricesandnot todecreasethem. SeeMHuffman,“The Necessityof
+Pleading Elements in Private Antitrust Conspiracy Claims” (2008) 10 University of Pennsylvania
+JournalofBusinessandEmploymentLaw627,646.
+28 JangerandBlock-Liebgivetheexampleoftwo“lemonsequilibria”inconsumerlending,where,
+despitecompetition,lendersengagein“priceconcealment”andtheenforcingof“defaultrates,
+latefeesandpenalties”thatare“bothnon-transparentanddesignedtocapitalizeonconsumer
+heuristicbiases”.JangerandBlock-Lieb,supran26,71.
+29 The US Supreme Court reaffirmed US courts’ resolve to prohibit tacit collusion as an
+enforcementtheoryinBellAtlanticCorpvTwombly,550US544(2007).
+30 See H Hovenkamp, Antitrust Law (New York, Aspen, 3rd edn, 2006), vol IIIB, para 782d
+(deceptivedisparagementofarivalhasademinimiscompetitiveimpact).
+31 EC, “Communication from the Commission, Guidance on the Commission’s Enforcement
+PrioritiesinApplyingArticle82oftheECTreatytoAbusiveExclusionaryConductbyDominant
+Undertakings” (2 September 2009), 13–26, available at www.hartpub.co.uk/updates/korah/
+abusiveexclusionaryconduct.pdf.However,theGuidancepaperdoesnotpurporttoaddressallthe
+circumstancesinwhichArt82maybeapplied.Seeibid,5(notingthatexploitationofmonopoly
+power,“forexamplechargingexcessivelyhighprices”,mayinfringeArt82,butisnotdiscussedin
+theGuidancepaper).
+32 See Canadian Competition Bureau, “Draft for Public Consultation, Updated Enforcement
+Guidelines, The Abuse of Dominance Provisions (Sections 78 and 79 of the Competition
+Act)” (January 2009), i, available at http://competitionbureau.gc.ca/eic/site/cb-bc.nsf/vwapj/
+Draft-Abuse-of-Dominance-Guidelines-eng-16012009.pdf(accessedon2February2010).14 Antitrust Marathon IV ECJ VOL.NO.
+advertising”isaviolationof Canada’sCompetitionActpunishablebyupto$15
+millionfines,suggestingthatdeceptiontheorieshavesomevalidityinCanada.33
+2. Behavioural Exploitation
+Behavioural economics has a natural place in consumer protection regulation.
+According to Professor Greenfield, “behavioral economics teaches that
+consumers are not necessarily rational actors and that sellers may structure
+transactions in such a way as to take advantage of this lack of rationality”.34
+There is a deep body of literature, in both the popular35 and the academic36
+presses,expandingonthatreality.AccordingtoCavendishElithorn,commenting
+on anearlierdraftof this paperatthe Fourth Antitrust Marathon, “[q]uitealot
+of behaviouraleconomicsis...whatmarketershaveknownandusedfor years”.37
+The Bureau of Economics at the US Federal Trade Commission has
+recognised this reality. It held a conference on behavioural economics and
+consumer policy in 2007.38 At that conference, papers demonstrating consumer
+decision-making biases and merchants’ abilities to exploit those biases were
+presentedandcritiqued.39Theagencycurrentlyisundertaking“twoexploratory
+studiesonconsumersusceptibilitytofraudulentanddeceptivemarketing”.40The
+studies will concentrate on “several decision-making biases . . . that can cause
+inaccurate assessments of the risks, costs, and benefits of various choices”.41 As
+of now, however, how exactly to incorporate behaviouralist principles into a
+coherentenforcementregimeremainsunder-studied.
+33 See Y Beriault, OJ Borgers, DB Houston, RT Hughes, M Renaud and RW Pawluk,
+“GovernmentEnactsSignificantChangestoCanada’sCompetitionLaws”(17September2009),
+availableathttp://www.mondaq.com/article.asp?articleid=85924(accessedon2February2010).
+34 Greenfield,supran21,1.
+35 See,egRBCialdini,Infuence:ThePsychologyofPersuasion(NewYork,HarperCollins,revisededn,
+2007).
+36 See,egC Jolls,CR SunsteinandRThaler,“ABehavioralApproachtoLawandEconomics”
+(1998)50StanfordLawReview1471;MStucke,“BehavioralEconomistsattheGate:Antitrustin
+the Twenty-First Century” (2007) 38 Loyola University Chicago Law Journal 513, 527–32 (citing
+authorities).
+37 C Elithorn, remarks at the Fourth Antitrust Marathon (27 October 2009), infra p 29. See also
+Cialdini, supra n 35, xii (arguing that marketers, or “compliance professionals”, are adept at
+influencingconsumerdecisionsusingtechniquesthatmeetthisauthor’sdefinitionofbehavioral
+exploitation).
+38 Seehttp://www.ftc.gov/be/consumerbehavior/index.shtml(accessedon2February2010).
+39 See,egDKarlaninSessionB:Information,Persuasion,andDeception:MarketingTechniques
+and their Impact on Consumer Choice, FTC Conference on Behavioral Economics and
+ConsumerPolicy(20April2007),1–17,availableathttp://www.ftc.gov/be/consumerbehavior/
+docs/transcript/transcriptb.pdf. Professor Karlan presented a paper demonstrating that non-
+substantivemarketingpractices,suchastheinclusionofaphotographofanattractivewomanin
+anunsolicitedofferingofconsumerloanproducts,hadenormousimpactsonthepricesconsumers
+werewillingtopayfortheproducts.Seeibid,13–14.
+40 FedReg,Vol74,No111,27794(11June2009).
+41 Ibid,27795;seealsoFedReg,Vol74,No111,27796,27797(11June2009).April European Competition Journal 15
+Although the Federal Trade Commission has begun to study the theories, it
+has not so far articulated an approach to consumer protection that protects
+consumers from their own irrational behaviour.42 Overtones of behaviouralist
+theories can be found in semi-subjective standards for deception, based on the
+“reasonable consumer” test (which implies a lack of sophistication)43 or in
+especially protective legislation targeted at college students.44 Disclosure
+requirements also may be predicated on concerns for exploitation. For example,
+regulations requiring that warnings be highlighted or be particularly vivid45
+might be linked to known tendencies to consumer optimism or seek themselves
+to exploit the so-called “vividness” bias. The Federal Trade Commission’s
+consumer education efforts may also be explained in part by a desire to
+overcomeconsumers’decision-makingbiasesinindividualtransactions.
+By contrast, behaviouralist theories are slow to catch on in the analysis of
+competition law.46 Neither of the US agencies has incorporated behaviouralism
+into their enforcement paradigms.47 Professors Maurice Stucke and Avishalom
+Tor are two of the few to have analysed the role of behavioural economics in
+competition policy. According to Stucke, assumptions of rational conduct by
+42 TheFTC’sconsumereducationeffortsservethispurposeinpart.Seehttp://www.ftc.gov/bcp/
+consumer/shtm.
+43 See,egCharlesoftheRitz,supran12;InreArthurMurrayStudioofWashington,Inc,78FTC401(1971).
+44 See,egtheCreditCARDActof2009,PublicLNo111–24,123Stat1734.
+45 See, eg Cigarette Labeling and Advertising Act, 15 USC §§ 1331–41 (stating disclosure
+requirementsforcigarettemanufacturers).
+46 It may be possible to conceive of all conduct presenting competitive harms as deceptive or
+behaviourally exploitative in nature. The definition of most abusive dominant firm conduct
+assumes net consumer harm over the period of anticompetitive conduct and subsequent
+recoupment.Repeatplayerconsumersactingrationallywouldnotmakepurchasingdecisionsthat
+wouldcausethemgreaterexpenseoverthelongrun.Ifconsumersdoactrationally,purchasing
+decisions that cause them net harm can be explained either by their being deceived or by
+information asymmetries that reflect omissions (deceptive under certain circumstances) by the
+producers. Consumers acting irrationally, based perhaps on optimism about future events or
+hyperbolicdiscountingoffuturecosts,canbeledintopurchasingdecisionsthataremorecostlyin
+thelongterm.
+47 InMay2009,inresponsetoaquestionbythisauthor,USAssistantAttorneyGeneralChristine
+Varneypuntedthequestionwhetherbehaviouralismmightplayaroleinaretooledenforcement
+methodology.SeeCAVarney,question-and-answerfollowing“VigorousAntitrustEnforcement
+inthisChallengingEra”,remarksbeforetheUSChamberofCommerce(12May2009),remarks
+availableathttp://www.usdoj.gov/atr/public/speeches/245777.htm.ThefollowingdayDeputy
+AssistantAttorney General Carl Shapiro,theagency’schiefeconomist,affirmativelydisavowed
+behavioural economics as an important investigation and enforcement tool. See C Shapiro,
+“Competition Policy in Distressed Industries”, remarks at the ABA Antitrust Symposium:
+Competition as Public Policy (13 May 2009), available at http://www.usdoj.gov/atr/public/
+speeches/245857.htm (accessed on 2 February 2010). FTC Commissioner J Thomas Rosch is
+morereceptivetobehaviouralisttheories,ashisremarksandonedissentingopinionsuggest.See
+JTRosch,“AntitrustLawEnforcement:WhattodoAbouttheCurrentEconomicsCacophony?”,
+remarksattheBatesWhiteAntitrustConference2(1June2009);cfFTCvOvationPharm,Inc,FTC
+File No 810156 (Concurring Statement of Commissioner Rosch) (arguing that removal of
+reputational constraints that previously prevented the exercise of monopoly power might
+implicateClaytonAct,s7).16 Antitrust Marathon IV ECJ VOL.NO.
+firmsdonotholdacrosstherangeof behaviourbyfirms.“Itappearsanecdotally
+that corporate behavior is (or is not) occurring that is not readily explainable
+under antitrust’s rational choice theories.”48 Stucke and Tor’s supply-side
+behavioural question has the potential to undermine decisions like that of the
+USSupremeCourtinBellAtlanticCorpvTwombly,whichreliedonassumptionsof
+rational conductbyfirmstoconcludethatfailingtoenterinto competition after
+the deregulation of the US telephone markets was most likely based on
+unilateraldecisionsratherthanconspiracy.49
+The demand-side question is a different matter. Behavioural economics
+teaches that consumers are not always rational. The Office of Fair Trading
+recentlyhasrecognisedthatremediesmaybecraftedwithaneyetowardrealities
+of consumer behaviour imported from the study of consumer protection. For
+example, while consumer choice is believed to be good, behavioural economics
+teachestoomuchchoiceleadstosub-optimalresults.50
+In “Money, is that What I Want?”, Stucke questions the assumptions of
+rational choice on the part of consumers.51 He stops short of prescribing a
+theory of competitive harm based on “behavioural exploitation”—which I
+definetobeamerchant’sexploiting knownbiasesinconsumerdecision-making.
+A theory of competitive harm through behavioural exploitation might
+approximate the theory of competitive harm through deception discussed in
+Section C.1 supra. By exploiting known biases in consumer decision-making, a
+monopolistcanmaintain,orperhapsevenattain,monopolypower,justasitdoes
+through deceptive conduct. The same harm—causing inefficient resource
+allocation—that deception threatens arises in the context of behavioural exploi-
+tation as well. Consumers who are induced to make purchases on the basis of
+decision-makingbiasesarenotoptimisingtheirwelfare.
+In concrete terms, behavioural exploitation includes such behaviour as
+structuring default choices to induce consumers to makedecisions favouring the
+48 Stucke, supra n 36, 517. See also A Tor, “A Behavioral Approach to Antitrust Law and
+Economics”(2004)14ConsumerPolicyReview2.
+49 550US544(2007).CfATor,“TheFableofEntry:BoundedRationality,MarketDisciplineand
+LegalPolicy”(2002)101MichiganLawReview482(concludingthatbehaviouraleconomicsteaches
+thetraditionalunderstandingoffirms’entrydecisionsiswrong).
+50 Office of Fair Trading, supra n 2, para 3.9. See also the remarks of Cavendish Elithorn at the
+Fourth Antitrust Marathon (27October 2009),infra p 29(“The OFT doesbelievebehavioural
+economicsisareallyimportantlensthroughwhichtolookatdetrimentandonewhichhasan
+impactonelementslikethechoicequestion.WedobelieveinPQRS,price,quality,rangeand
+service as part of the overall welfare in our merger decisions and in our general approach.
+Howeverwealsonotethatinsomecasesexcessivechoicecanleadtolessconsumeractivationin
+themarketsandthatisasourceofdetriment”).
+51 ME Stucke, “Money, Is that What I Want? Competition Policy and the Role of Behavioral
+Economics”,UniversityofTennesseeLegalStudiesResearchPaperNo75(forthcoming2010;to
+be published in vol 50 of the Santa Clara Law Review), available at http://ssrn.com/abstract=
+1419751(accessedon2February2010).April European Competition Journal 17
+merchant, not the consumer.52 Other biases that can be exploited by savvy
+merchants include over-optimism;53 the tendency to judge choices by their
+relative, rather than absolute, merit;54 the tendency to believe exciting or
+fearsome(salient)phenomena,whichareeasytocalltomind,aremorecommon
+than actually they are;55 and the tendency to anchor decisions to arbitrary
+values.56
+Agoodrecentexampleof behaviouralexploitationintheUSeconomyisthe
+sale of lending products to consumers in the years leading up to the collapse of
+the housing bubble.57 Consumers’ agreeing to teaser-rate mortgages can be
+explained by decision-making biases such as irrational tendencies to over-
+optimism,58 which would cause borrowers to believe they will be able to pay the
+mortgage or sell the house once the rate adjusts. In another paper discussed at
+the Fourth Antitrust Marathon, Professors Janger and Block-Lieb explain the
+phenomenon in terms of “cognitive limitations”, “heuristic biases, such as
+optimism and endowment effects”, and “time-inconsistent preferences, some-
+timesreferredtoashyperbolicdiscounting”.59
+How behavioural exploitation presents a competitive, rather than merely a
+consumer,harmismoredifficulttoexplain.Thebehaviouralexploitationtheory
+of abuseof dominancesuffersthesamedifficultiesasdoesthedeceptiontheory.
+It is difficult to demonstrate the competitive harm, rather than harm to one
+consumer,  flowing  from  a  course  of behavioural  exploitation.  But  the  same
+rationale supporting deception as a competitive harm should apply to
+behavioural exploitation, perhaps even with more force. The market impacts of
+falsely revealed preferences must produce allocative inefficiencies as resources
+flow to uses that reflect consumers’ apparent, rather than actual, preferences.
+Unlike deception, behavioural exploitation is difficult to uncover, and therefore
+mayproducelonger-lastingconsumerharm.60
+52 Itisexceedinglydifficulttodrawthelinebetweenvigorousanddesirablemarketingpracticesand
+“behaviouralexploitation”.
+53 C Jolls, CR Sunstein and R Thaler, “A Behavioral Approach to Law and Economics” in CR
+Sunstein(ed),BehavioralLawandEconomics(CambridgeUniversityPress,2000),13,47.
+54 See D Ariely, Predictably Irrational (New York, Harper Collins, 2008), 1–21 (citing, inter alia, A
+Tversky and D Kahneman, “The Framing of Decisions and the Psychology of Choice” (1981)
+211(4481)Science453).
+55 A Aviram, “The Placebo Effect of the Law” (2006) 75 George Washington Law Review 54, 73
+(referringtosalienceasthe“vividnessbias”).
+56 Ariely,supran54,23–48(citing,interalia,CRSunstein,DKahneman,DSchkadeandIRitov,
+“PredictablyIncoherentJudgments”(2002)54StanfordLawReview1153).
+57 SeeJangerandBlock-Lieb,supran26,70.
+58 SeeJollsetal,supran36.
+59 JangerandBlock-Lieb,supran26.
+60 Economist Pat Massey noted another concern with a behavioural exploitation theory of
+enforcement. “Regulatory agencies have an inbuilt incentive to continuously expand their
+activitiessoifyoustartdowntheroadofsayingwehavetoprotectconsumersfromthemselves
+agencies will find great scope to dream up all sorts of imaginative ways of doing that and
+expandingtheirownempires.”PMassey,remarksattheFourthAntitrustMarathon(27October
+2009),infrap45.18 Antitrust Marathon IV ECJ VOL.NO.
+Thus,aswithdeception,twocriteriaforsomeamountof behaviouralexploi-
+tation being rational are a lack of expectation of repeat player business and a
+low risk of detection.61 A monopoly marketplace satisfies both criteria, with no
+competitors to expose the behavioural exploitation and no other options
+available to consumers. Monopoly maintenance through behavioural exploi-
+tation seems likely to be successful. Acquiring a monopoly through behavioural
+exploitation is less likely to succeed.62 More so even than with deception,
+competitorsarethemost likelyexposersof exploitation.63Also,if exploitation is
+exposed and counteracted, consumers have competitive options for their
+purchasingdecisions.
+3. Market Manipulation
+One recent example of agency law-making in the US is worth studying as an
+example of combined competition law and consumer protection theories. On 4
+November 2009, an FTC rule dealing with market manipulation in the
+petroleum industry became effective. Promulgated under the authority of the
+EnergyIndependenceandSecurityActof 2007,64therule“prohibitsfraudulent
+or deceptive conduct that could harm wholesale petroleum markets”.65
+Marketmanipulationasatheoryof competitiveharmissufficientlyuniquein
+the US system that this approach required the first antitrust rulemaking in US
+history.66 The description of the rule and its purposes reads much more like
+classic consumer protection doctrine. The FTC is concerned with “fraud”,
+“deceit”and“omissionsof materialinformation”.67But,unlikeclassicconsumer
+protection doctrine, which Section B shows is concerned with individual
+end-userconsumers,themarketmanipulationruleisconcernedonlywithharms
+in the wholesale marketplace.68 Concerns for harm at wholesale rather than
+61 CfDarbyandKarni,supran25.
+62 MonopolyacquisitionhasrecentlybeenarguedtobeanenforcementbackwaterbothintheUS,
+whereittechnicallycanbechallenged,andintheEU,where“anondominantfirmmayobtain
+dominance through unilateral anticompetitive conduct without risking violating European
+competitionlaw”.ATor,“Unilateral,AnticompetitiveAcquisitionsofDominanceorMonopoly
+Power”(2010),2–3,availableatssrn.com/abstract=1531745.
+63 Competitors will be educated in the same marketing techniques and will be able to recognise
+exploitativeconductengagedinbytheircompetition.
+64 42USC§§17301–17305.
+65 FTCpressrelease,“NewFTCRuleProhibitsPetroleumMarketManipulation”,6August2009,
+available at http://www.ftc.gov/opa/2009/08/mmr.shtm (accessed on 2 February 2010). The
+rule is available at http://www.ftc.gov/os/2009/08/P082900mmr_finalrule.pdf(accessed on 2
+February2010).
+66 ButseeCSHemphill,“AnAggregateApproachtoAntitrust:UsingNewDataandRulemakingto
+PreserveDrugCompetition”(2009)109ColumbiaLawReview629,644,note68.
+67 Supran65.
+68 See Guide to Complying with Petroleum Market Manipulation Regulations 1, available at
+http://www.ftc.gov/ftc/oilgas/rules.htm(“EISAandthePetroleumMarketManipulationRuledo
+notapplytoretailsalesof gasoline,diesel,orfueloil”).TheComplianceGuidealsodifferentiatesApril European Competition Journal 19
+retail are reminiscent of theories of competitive, not consumer, harm.69 In fact,
+in antitrust suits by purchasers under the US antitrust laws, harm is only
+cognisableinthewholesalemarketplace.70
+The theoretical allocative inefficiency from market manipulation is clear
+enough.Astrategyof creatingandmaintainingdominanceinthemarketmight
+includefalselyreportingpricesinwholesaletransactions.Falsepricereportsmay
+impactnewentrants’decisionswhethertodevoteresourcestoentry.71Suchfalse
+reporting,if effectiveinexcludingcompetitors,wouldpresentaclearcompetitive
+harm.
+False reporting of prices will be successful only if not counteracted by
+competitors. A producer with de minimis market power will have no ability to
+influence competitive entry decisions through price reporting. By contrast,
+producers in an oligopoly marketplace may tacitly collude in false price
+reporting,andamonopolyproducerwillbeabletocontrolpricereportsthrough
+itsunilateralconduct.
+Harm to consumers can occur where prices are pegged to a benchmark and
+the manipulation serves to impact that benchmark in the seller’s favour.72 But
+because the rule operates in the wholesale marketplace, some form of pass-
+through would be required to produce an effect on individual end-user
+consumers.
+4. Monopoly Exploitation
+The US system has traditionally viewed abuse of properly acquired monopoly
+power as not presenting a competition law concern,73 although it may implicate
+between conduct in bilateral negotiations, which are “unlikely to affect the integrity of the
+market”, and “widely disseminated” false statements or omissions, which have market-wide
+consequences. The former are not intended to be covered by the prohibitionon manipulation,
+whilethelatterare.Seeibid,3,10.
+69 SeeOFT,supran2,para2.3(differentiating“individualretailconsumers”from“largeplayers,
+bothupstreamanddownstream”).
+70 CfIllinoisBrickCovIllinois,431US720(1977)(indirectpurchasersnotentitledtosueunderUS
+antitrustlaws).
+71 Cf E Romstad, “The Informational Role of Prices” (2008) 35 European Review of Agricultural
+Economics263.Antitrustcaselawrecognisestheroleofpricesininducingcompetitiveentry.See,eg
+Kiefer-StewartCovJosephESeagram&Sons,340US211(1951)(holdinghorizontalmaximumprice
+fixingtobeperseillegal;holdinghasbeensupportedbecausethemaximumpricefixinghasthe
+capacitytoprecludecompetitiveentry).
+72 SeeInreCMSMktgServs&TradingCo,CommFutLRep(CCH)¶29,634(CFTC,25November
+2003)(theCommodityFuturesTradingCommission,actingunderitsownmarketmanipulation
+rule,findingliabilityforthesubmissionoffalseinformationtoprivatereportingservices).
+73 Although the dominant theoretical basis for antitrust enforcement in the US does not cognise
+exploitationasgroundsforaremedy,therearehistoricalexamplesofsimilartheoriessucceeding.
+See,egUnitedStatesvSocony-Vacuum OilCo,310US150(1940)(manipulatingpricesingasoline
+marketsbybuyingupdistressinventoryatthe“fairgoingmarketprice”heldperseillegal).20 Antitrust Marathon IV ECJ VOL.NO.
+consumer protection issues if it violates a particular prohibition.74 For example,
+some US states prohibit “pricegouging”, defined (under one representative law)
+assellingorleasingessentialcommoditiesorshelteratanexcessivemark-upover
+the average price prior to the emergency.75 The US approach is shared by the
+CanadianCompetitionBureau.IntheJanuary2009DraftAbuseof Dominance
+Updates, the Competition Bureau notes that abuse of dominance is a concern
+wheretheabuse“hashad,ishaving,orislikelytohavetheeffectof substantially
+preventingorlesseningcompetition ...[H]ighpricesdonotinthemselvesraise
+issues under the Act”.76
+Charging excessively high prices is the most obvious example of such a
+monopoly abuse. Standard microeconomic theory proposes that charging high
+prices is what incentivises new entry, so is likely to bring about the downfall of
+themonopolists’position.77
+TheEChasannouncedthatsuch“directlyexploitative”conductmayinfringe
+Article 82, prompting Commission intervention “in particular where the
+protection of consumers and the proper functioning of the internal market
+cannot otherwise be adequately assured”.78 Examples exist of prosecutions for
+monopolyexploitationintheEU.79
+The proper role of exploitative abuse enforcement in a competition law
+schemeisunclear.Correctingforabusespermittedbyasymmetriesinbargaining
+powerfavouringproducersisanaturalextensionof contractlaw“overreaching”
+doctrines,suchasduressandunconscionability,andassuchmaybeproperlythe
+subject of a consumer protection framework. However, such abuses can be
+invitations to competitive entry. Correcting for those abuses may entrench the
+power of a monopolist, rather than increase competition.80 And Commissioner
+Kovacic has suggested that “controls on abusive behavior by dominant
+enterprises’ may “inevitably become mechanisms by which frail and politically
+74 SeeHHovenkamp,TheAntitrustEnterprise(HarvardUniversityPress,2005),108–09(“Firms...
+determine their own output and set prices . . . None of this behavior is even presumptively
+suspicious”).
+75 See,egFloridaStatutes501.160.
+76 Draft Updates, supra n 32, i (Executive Summary). See also M Aitken, remarks at the Fourth
+AntitrustMarathon(27October2009),infrap38.
+77 SeeFHEasterbrook,“Monopoly,ManipulationandtheRegulationofFuturesMarkets”(1986)
+59JournalofBusinessS103,S105.
+78 CommunicationfromtheCommission,supran31,5.Anexampleofthismightbefoundinthe
+investigationofasupplierintheGermanelectricitymarket.SeeEuropeanCommission,“Report
+onCompetitionPolicy2008”(23July2009),paras49–50.E.ONAGwasthoughttohave“abused
+itsdominantmarketposition...bystrategicallywithholdingproductioncapacityofcertainpower
+plantsonthewholesalemarketinordertodriveuptheprice”.
+79 See, eg Case C-323/93 Societe Civile Agricole du Centre d”Insemination de la Crespelle v Cooperative
+d”Elevageetd”InseminationArtificielleduDepartementdelaMayenne[1994]ECRI-5077,I-5106.
+80 Itisallthemoreaconcernthatthemonopolistwhosepowerisentrenchedhasproveditselftobe
+anunlikablecharacter.April European Competition Journal 21
+buffeted competition agencies reestablish the type of state orchestration of the
+economythatmarketreformsweredesignedtoeliminate”.81
+D. ENFORCEMENT SYSTEMS
+The systemic question is whether an agencyconstituted to advance competition
+policy can also serve the purpose of protecting individual consumers. It is
+possible consumer protection enforcement is best placedin the hands of private
+litigants. It is logical to question whether public enforcement of consumer
+protection laws, or consumer-protection-like behavioural exploitation, market
+manipulation or monopoly exploitation claims under a competition framework
+fails the test of comparative advantage. Such enforcement may rely on the
+particulars of individual consumers’ circumstances in a way that favours private
+enforcement over public. By contrast, some have questioned the capacity of
+private litigants to remedy harms felt across the marketplace, rather than in
+individual transactions.
+1. Agency Structure
+A plurality of national competition agencies are combined with their consumer
+protection watchdogs.82 In the US, the Federal Trade Commission83 and many
+stateenforcementagenciesaresostructured.TheCanadianCompetitionBureau
+and Competition Tribunal combine competition law and consumer protection
+enforcement mandates.84 That is the chosen structure for the UK Office of Fair
+Trading85 and, as of recently, the Irish Competition Authority.86 DG Com-
+petition has created a “dedicated Consumer Liaison unit”.87 According to the
+OFT,“[f]romarecent‘backof theenvelope’checkon37othercountries,wesee
+that about one third of them also have agencies in which competition and
+consumer functions are combined”.88 If enforcement systems compete just as to
+81 Kovacic, supra n 1, 103. Cf the remarks of Bill Prasifka at the Fourth Antitrust Marathon (27
+October 2009), infra p 38 (noting concerns for regulatory capture in consumer protection
+enforcement).
+82 See Federal Trade Commission, “Competition and Consumer Protection Authorities
+Worldwide”,availableathttp://www.ftc.gov/oia/authorities.shtm(accessedon2February2010).
+83 See TJ Muris, “More than Enforcement: The FTC’s Many Tools—A Conversation with Tim
+Muris and Bob Pitofsky” (2005) 72 Antitrust Law Journal 773, 780–81(former chairman Robert
+Pitofsky noting that the FTC’s twin enforcement regimes share the overriding mission of
+improvingconsumerwelfare.)
+84 http://competitionbureau.gc.ca/eic/site/cb-bc.nsf/eng/home(accessedon2February2010).
+85 http://www.oft.gov.uk/(accessedon2February2010).
+86 SeePGorecki,remarksattheFourthAntitrustMarathon(27October2009),infrap34.
+87 EC, supra n 30,para 109,27.See http://ec.europa.eu/competition/consumers/liaison_en.html
+(accessedon2February2010).
+88 OFT,supran2,para4.1(citingspecificallytheUS,CanadaandAustralia).22 Antitrust Marathon IV ECJ VOL.NO.
+participantsinthecommercialmarketplace,thesuccessof thedual-responsibility
+agency seems apparent.
+It is harder to explain why an agency with a divided mission should be
+preferable to one with a single purpose.89 Commissioner Kovacic has written:
+“The Commission’s capacity to meld expertise in economics, competition, and
+consumer protection is a conscious element of its institutional design and a
+major reason for its existence”.90 Efficiencies do clearly exist in consolidated
+management, and the Bureau of Economics serves the enforcement efforts of
+both legal bureaus. And the market manipulation rule (Section C.3, supra)
+appears to provide an example of cooperative efforts between the competition
+lawyers and consumer protection lawyers at the agency.91 The Canadian
+experience with efficiencies and occasional coordinated enforcement efforts is
+similar.92
+On the other hand, anecdotal hearsay evidence suggests that at the Federal
+Trade Commission, the Bureaus of Competition and Consumer Protection
+rarely coordinate enforcement efforts.93 Commissioner Aitken recognised the
+tensionsandmanagerialchallengesinherentintherealitiesof easywinsinsmall
+cases for consumer protection contrasted with the esoteric theories and difficult
+litigationinlargercasesforcompetitionlaw.94
+The OFT recognises the limited gains from ostensible integration.95 “Until
+recently[, its] competition and consumer enforcement work sat within two
+separatedivisions—ineffecttwosiloswiththeirownlegalandintellectualworlds
+which had little to do with each other.”96 But the OFT is optimistic about the
+possibilitiesforfurtherintegrationgoingforward.97
+89 Perhaps supporting this assertion, Paul Gorecki noted in comments at the Fourth Antitrust
+Marathon that Ireland chose an administrative structure which separated competition
+enforcementfromconsumerprotection,butlatercombinedthemina“shotgunmarriage”,with
+“nostudy”,and“mainlyforbudgetaryreasons”(infrapp33–34).
+90 Kovacic,supran4,v(Introduction).
+91 See“ReportoftheFederalTradeCommissiononActivitiesintheOilandNaturalGasIndus-
+tries” (January–June 2009), 3, available at http://www.ftc.gov/ftc/oilgas/competn_reports.htm
+(accessedon29December2009).
+92 See M Aitken, remarks at the Fourth Antitrust Marathon (27 October 2009), infra pp 31, 32
+(noting “efficiencies in management” and a “relatively rare occasion” of “collaborative work
+acrossthetwomissions”).
+93 Thisappearstoreflectthereality(ifnottheaspiration)forotheragenciesaswell.InCanada,“itis
+probably undeniable that the actual shared work, this notion that you would integrate the
+perspectivesinto a particular case comes up from time to time but not very often”. M Aitken,
+remarksattheFourthAntitrustMarathon(27October2009),infrap32.
+94 MAitken,remarksattheFourthAntitrustMarathon(27October2009),Tr18–19(notingthe
+populisteffectofconsumerprotectionbutthelackofa“bigbang”foreachenforcementdollar
+“leavingasidethemedia”).
+95 OFT,supran2,¶4.2.
+96 OFT,supran2,¶4.2.
+97 See C Elithorn, remarks at the Fourth Antitrust Marathon (27 October 2009), infra p 28 (“I
+certainly feel the OFT does have a single purpose; its mission is to make markets work well for
+consumerssoIwouldn’trecognisethatdivideinawaythatIthinksometimesthedebatetriesto
+forceupontheOFT”).April European Competition Journal 23
+Similar to the FTC bureaus’ combined efforts in market manipulation,
+producing a rule that is susceptible to characterisation as both competition law
+and consumer protection (see Section C.3, supra), OFT recognises that “[w]hat
+begins as a competition issue may turn out to be more susceptible to consumer
+remedies,andviceversa”.98CommissionerAitkennotedaparticularexampleof
+a merger review in which “[w]e had our fair business folks, our consumer
+protectionfolks looking at it, our abuse of dominance folkslooking at the conduct
+as well and then of course our merger folks looking at the merger”. That was, in
+her view, an example of a successful coordinated cross-agency effort.99 None of
+thecommentersattheFourthAntitrustMarathonnortheOFTinitsDecember
+2009 White Paper on integration explained what result would obtain where an
+irreconcilabletensionarosebetweenenforcersfocusedoncompetitionpolicyand
+thosefocusedonconsumerprotection.100
+As one example of its integrated enforcement efforts, the OFT describes a
+processof marketstudiesinrecentyearsandcurrently,studyingbothsupply-side
+and demand-side characteristics of a particular industry. Maurice Stucke
+recently has proposed just such an approach to innovative enforcement for the
+US system.101 It is possibleintra-agencycooperation is morerealistic at the level
+of market-wide regulatory efforts, like those described by the OFT in its White
+PaperorrecommendedbyStucke,incontrastwithcaseworkinaspecificinvesti-
+gation.Anexceptionmightbemadeformergerinvestigationslikethatdescribed
+by Commissioner Aitken, which, with the structural remedies at issue, is more
+akin to a market-wide regulatory effort than to a more discrete conduct investi-
+gation.
+2. Private Enforcement
+Systems analysis must also consider the role of private enforcement. Private
+enforcement has been a hallmark of the US system of competition law
+enforcement since its inception, with the powerful incentives to private suit
+offeredbythetrebledamagesremedyandclassactiondevice.102Privateremedies
+have been available in Canada since 1976.103 The European Commission
+98 OFT,supran2,para4.9.
+99 MAitken,remarksattheFourthAntitrustMarathon(27October2009),infrapp32–33.
+100For example, Paul Gorecki noted a specific example in Ireland in the wine industry, in which
+price freezes were opposed by competition authorities but supported by consumer protection
+enforcers.PGorecki,remarksattheFourthAntitrustMarathon(27October2009),infrap34.
+101SeeMEStucke,“NewAntitrustRealism”[January2009]GlobalCompetitionPolicy4,availableat
+papers.ssrn.com/abstract_id=1323815.
+102See M Huffman, “A Standing Framework for Private Extraterritorial Antitrust Enforcement”
+(2007)60SMULawReview103,103–04.
+103Competition Act § 36 (permitting private claims for harm suffered (not including punitive
+damages) with a two-year statute of limitations). See RP McAfee, HM Mialon and S Mialon,
+“Private versus Public Antitrust Enforcement: A Strategic Analysis” (2008) 92 Journal of Public
+Economics1863.24 Antitrust Marathon IV ECJ VOL.NO.
+recently clarified the standards under which private damages actions are
+permissibleforbreachesof Articles81and82.104Nosystemworldwidehasrelied
+as heavily on private enforcement as has the US.105
+There are difficult questions whether private competition law enforcement is
+consistent with the efficiency goals of competition law. Private litigants may be
+wrongly incentivised to pursue the efficiency goals of competition law.106 Public
+agencies charged with remedying market-wide competitive harms are less likely
+toengageinstrategiclitigationfavouringindividualresultsoversocialwelfare.107
+But in general, the past decade has seen an increase in the availability of
+private damages actions worldwide.108 Meanwhile, since 1977 decisions by
+federal courts in the US have severely curtailed the availability of private
+damages actions in competition law, imposing stringent standing limitations,109
+pleading requirements110 and direct-purchase requirements,111 as well as limiting
+thesubstantivecausesof action.112
+In contrast with competition law, where debates rageas to the propriety of a
+privateaction,113privateenforcementof consumerprotectionlawsseemsentirely
+appropriate. In the US system many consumer protection statutes provide
+specific incentives in the form of statutoryminimum damagesand attorneyfees
+104See European Commission, supra n 31, paras 15–17, 5–6. The Commission has “suggest[ed]”
+representative actions by consumer associations or trade associations and “opt-in collective
+actions”aspossiblecomplementstothedamagesremedy.
+105SeeDACrane,supran16,draft,2.
+106Seeibid,draft,2–3,7–8(“privatepartieswhosueantitrustdefendantstypicallywillnotbesuingto
+vindicate the interests of the consumers who stopped buying the goods because they were too
+expensivebutonlyforthepurchaserswhodidbuyandincurredanovercharge”).
+107See W Page, remarks at the FTC Workshop on Section 5 of the FTC Act as a Competition
+Statute (17 October 2008), Tr 99 (attributing to this author the belief that “the FTC is in a
+differentpositionfromtheprivateplaintiffrunamuck”,whomightbeanalogised“totheherders
+in the tragedy of the commons story, who damage the public interest by their single-minded
+pursuitofprivategain”).CfWEKovacic,DissentingStatement,CrudeOilPriceManipulation
+Rulemaking (2009), 2 and n 10 (noting an increased concern for excessive enforcement of the
+FTC’s petroleum market manipulation rule if private enforcement occurs under state “Baby
+FTC” Acts interpreted coextensively with the FTC Act), available at http://www.ftc.gov/
+os/2009/08/P082900mmr_kovacic.
+108Crane,supran16,draft,2.
+109SeeBrunswickCorpvPuebloBowl-o-Mat,429US477(1977).
+110See Twombly, supra n 29.Twombly is not limited to private claims, but appliesequally to public
+enforcement.Foravarietyofreasons,however,thepleadingrequirementsimposedbyTwombly
+affectprivateplaintiffsuniquely.SeeMHuffman,supran27.
+111SeeIllinoisBrick,supran69.Bycontrast,indirectpurchasersuitsareexpresslypermittedintheEU.
+SeeEuropeanCommission,WhitePaperonDamagesactionsforbreachoftheECantitrustrules
+§2.1,4(2April2008).
+112Foroneofmanyexamples,seeBrookeGroupLtdvBrown&WilliamsonTobaccoCorp,509US209
+(1993)(predatorypricingclaims).
+113See,egMcAfeeetal,supran103,1–2(notingstrategicmisusesofantitrustlawsincasessuchas
+UtahPieCovContinentalBaking,386US85(1967)).Consumerenforcementpresentsthediffering
+problemsofpossibleabusiveclasslitigationandincentivesimproperlyalignedwiththepurposesof
+antitrustenforcement.SeeHuffman,supran102,114;Huffman,supran27.April European Competition Journal 25
+for successful plaintiffs.114 Private consumer protection enforcement rarely
+involves concerns for strategic litigation by competitors.115 The harm sought to
+be remedied by the legal scheme is the harm in the individual transaction, so
+there is a perfect alignment of interests between the consumer plaintiff and the
+legal scheme. Although anti-regulation zealots might contend market forces
+obviate the need for consumer protection regulation entirely, where it exists it is
+difficulttocavilwithimposingaprivaterightof actionandremedy.
+E. CONCLUSION
+This issue paper discusses the question whether and how the integration of
+competition law and consumer protection can be accomplished. The differing
+understandings of consumer harm, and the remedy for that harm, between the
+disciplines presents ostensible tension. But there is room for common
+enforcement theories. Only where consumer protection serves to remove
+consumer choice, by targeting substantive transaction terms, are the disciplines
+actually irreconcilable.
+Systems of enforcement also may differ between the fields. Private
+enforcement is a more natural fit for consumer protection than for competition
+law because of the focus consumer protection places on individual consumer
+transactions. Circumstances will exist in which competition law is better left to
+government enforcers. Within agencies, combining consumer protection and
+competition law has obvious efficiency benefits, but the extent of benefit in the
+productsof theagencies’workislessclear.
+114See,egTruthinLendingAct,15USC§1640(a)(statutorydamagesplusattorneyfees).
+115Consider, however, the circumstance of intellectual property protection, a form of consumer
+protectionregulationtraditionallyenforcedbycompetitorsratherthanconsumers.

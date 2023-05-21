@@ -1,0 +1,1776 @@
+RELIGIOUS NEUTRALITY IN THE EARLY REPUBLIC 
+Wesley J. Campbell* 
+ABSTRACT 
+Governmental neutrality is the heart of the modern Free Exercise 
+Clause. Mindful of this core principle, which prevents the government 
+from  treating  individuals  differently  because  of  their  religious 
+convictions, the Supreme Court held in Employment Division v. Smith 
+that a neutral law can be constitutionally applied despite any incidental 
+burdens  it  might  impose  on  an  individual’s  exercise  of  religion. 
+Conscientious objectors such as Quakers, for instance, do not have a 
+constitutional right to be exempt from a military draft. Thus, neutrality 
+now  forms  both  the  core  and  the  outer  limit  of  constitutionally 
+guaranteed religious freedom. Judged according to founding-era views, 
+however,  this  interpretation  of  the  Free  Exercise  Clause  is  deeply 
+problematic.  Although  historical  scholarship  has  focused  on  the 
+particular issue of religious exemptions, this Article takes a different 
+approach by reexamining early debates about neutrality itself. These 
+neglected sources demonstrate that modern cases invert the founding-
+era conception of religious freedom. For the Founders, religious freedom 
+was primarily an unalienable natural right to practice religion—not a 
+right  that  depended  on  whether  a  law  was  neutral.  This  evidence 
+illuminates not only a significant transition in constitutional meaning 
+since the Founding but also the extent to which modern priorities often 
+color our understanding of the past.   
+TABLE OF CONTENTS 
+INTRODUCTION ........................................................................................... 312 
+I. TWO THEORIES OF RELIGIOUS FREEDOM ............................................... 317 
+II. NEUTRALITY AT THE FOUNDING ............................................................ 318 
+III. EARLY DEBATES OVER NEUTRALITY ................................................... 327  
+A.  Testimonial Exclusions ............................................................... 327 
+B.  Religious Tests ............................................................................. 333 
+C.  Blasphemy Prosecutions .............................................................. 337  
+D.  Religious Assessments ................................................................. 341 
+E.  The 1821 New York Convention .................................................. 343 
+                                                 
+*   Law Clerk to the Honorable Diane S. Sykes, United States Court of Appeals for 
+the Seventh Circuit; J.D., Stanford Law School, 2011; B.A., University of North Carolina at 
+Chapel Hill, 2006. The author thanks Mike McConnell, Alex Gesch, Daniel Suhr, Jay 
+Schweikert,  and  the  editors  of  the  Regent  University  Law  Review  for  their  helpful 
+suggestions. The views expressed in this Article, of course, are the author’s own. 312   REGENT UNIVERSITY LAW REVIEW  [Vol. 24:311 
+CONCLUSION .............................................................................................. 347 
+INTRODUCTION 
+The  core  of  our  modern  understanding  of  religious  freedom  is 
+governmental  neutrality—a  principle  that  generally  forbids  the 
+government  from  treating  people  differently  on  the  basis  of  their 
+religious beliefs.1 In Sherbert v. Verner, for example, the Supreme Court 
+declared that “[t]he door of the Free Exercise Clause stands tightly 
+closed against any governmental regulation of religious beliefs as such.”2 
+Any  law  that  “establishes  a  religious  classification”3  is  therefore 
+unconstitutional  even  if  the  law  neither  infringes  upon  a  person’s 
+practice of religion nor deprives the individual of a civil right.4 Based on 
+this principle, the Supreme Court has held that the federal and state 
+governments may not discriminate against particular religious groups,5 
+prevent  clergy  from  serving  in  civil  offices,6  or  bar  atheists  from 
+becoming notaries public.7 The same neutrality requirement also applies 
+even if the law is “rewarding religious beliefs as such.”8  
+While  considering  neutrality  as  the  core  principle  of  religious 
+freedom, the Supreme Court has also evaluated whether facially neutral 
+                                                 
+1   This definition of religious neutrality follows the holdings of modern free exercise 
+decisions. See infra note 4. Some scholars have posited other meanings of neutrality. 
+Douglas Laycock, Formal, Substantive, and Disaggregated Neutrality Toward Religion, 39 
+DEPAUL L. REV. 993, 994 (1990). 
+2   374 U.S. 398, 402 (1963); see also Church of the Lukumi Babalu Aye, Inc. v. City 
+of Hialeah, 508 U.S. 520, 533 (1993) (“[A] law targeting religious beliefs as such is never 
+permissible . . . .”). 
+3   McDaniel  v.  Paty,  435  U.S.  618,  631–32  (1978)  (Brennan,  J.,  concurring) 
+(“Whether or not the provision discriminates among religions . . . it establishes a religious 
+classification . . . .”). 
+4   See, e.g., id. at 633 (“[T]hat the law does not interfere with free exercise because 
+it does not directly prohibit religious activity, but merely conditions eligibility for office on 
+its abandonment—is also squarely rejected by precedent.”); Torcaso v. Watkins, 367 U.S. 
+488, 495–96 (1961) (“The fact . . . that a person is not compelled to hold public office cannot 
+possibly be an excuse for barring him from office by state-imposed criteria forbidden by the 
+Constitution.”). One decision potentially in conflict with a neutrality-based view is Locke v. 
+Davey, 540 U.S. 712, 725 (2004), which rejected a free-exercise challenge to a state’s denial 
+of a government-funded vocational scholarship that an individual wished to use to fund 
+religious training in preparation for a career in the ministry. In Locke, the majority found 
+it significant that the State had conditioned the receipt of funds on the student’s choice of 
+vocation, which the Court considered as distinct from the student’s religious beliefs. Id. at 
+720–21 (“And it does not require students to choose between their religious beliefs and 
+receiving a government benefit. The State has merely chosen not to fund a distinct 
+category of instruction.” (footnote and citations omitted)). 
+5   Fowler v. Rhode Island, 345 U.S. 67, 69–70 (1953). 
+6   McDaniel, 435 U.S. at 628–29 (plurality opinion). 
+7   Torcaso, 367 U.S. at 489, 495. 
+8   McDaniel, 435 U.S. at 626 (plurality opinion) (emphasis added). 2012]  RELIGIOUS NEUTRALITY IN THE EARLY REPUBLIC  313 
+laws  violate  the  Free  Exercise  Clause  when  their  enforcement 
+incidentally interferes with an individual’s religious beliefs or practices. 
+In the decades prior to 1990, the Supreme Court held that “[a] regulation 
+neutral  on  its  face  may,  in  its  application,  nonetheless  offend  the 
+constitutional  requirement  for  governmental  neutrality  if  it  unduly 
+burdens the free exercise of religion.”9 In other words, a law ostensibly 
+having  nothing  to  do  with  religion  (such  as  a  military  draft)  could 
+nonetheless  unconstitutionally  burden  the  free  exercise  rights  of 
+particular  individuals  (such  as  conscientious  objectors).  In  these 
+instances, the Court formerly applied strict scrutiny and required the 
+government  to  prove  a  compelling  interest  for  infringing  upon  an 
+individual’s  religious  practice.10  In  taking  this  position,  the  Court 
+explained that not applying strict scrutiny to neutral infringements upon 
+the individual right to free exercise would “relegate[] a serious First 
+Amendment value to the barest level of minimal scrutiny that the Equal 
+Protection Clause already provides.”11  
+In  Employment  Division  v.  Smith,  however,  the  Supreme  Court 
+shifted course, holding that the Free Exercise Clause does not provide an 
+individual right of religious exemption from facially neutral laws.12 In 
+particular, the five-Justice majority decided that states can enforce their 
+controlled  substance  laws  against  Native  Americans  who  use 
+hallucinogenic  drugs  as  part  of  their  sacramental  practices.13  The 
+government still may not discriminate under the guise of facially neutral 
+laws,  but  following  Smith,  the  constitutional  inquiry  centers  on  the 
+governmental  action—not  the  law’s  effect  on  individuals.14  In  other 
+words,  governmental  neutrality  now  is  not  just  the  core  of 
+constitutionally  protected  religious  liberty;  it  also  marks  the  outer 
+boundary. 
+                                                 
+9   Wisconsin v. Yoder, 406 U.S. 205, 220 (1972). 
+10  Hobbie v. Unemp’t Appeals Comm’n, 480 U.S. 136, 141 (1987). 
+11  Id. at 141–42 (quoting Bowen v. Roy, 476 U.S. 693, 727 (1986) (O’Connor, J., 
+concurring)) (internal quotation marks omitted). 
+12  494 U.S. 872, 878–79, 890 (1990). 
+13   Id.  at  873–74,  890.  Justice  O’Connor  filed  a  separate  concurring  opinion 
+criticizing the majority’s departure from “established free exercise jurisprudence,” but she 
+agreed that Oregon could prohibit the religious use of peyote because she thought the law 
+survived heightened scrutiny under existing doctrine.  Id. at 902, 907 (O’Connor, J., 
+concurring). 
+14   See Church of the Lukumi Babalu Aye, Inc. v. City of Hialeah, 508 U.S. 520, 534 
+(1993) (“Official action that targets religious conduct for distinctive treatment cannot be 
+shielded by mere compliance with the requirement of facial neutrality. The Free Exercise 
+Clause protects against governmental hostility which is masked as well as overt.”). In 
+these instances, it is critical to realize that the constitutional infirmity—at least according 
+to the Court—is not the effect of the law on individuals. Rather, the government’s effort to 
+target those individuals is what offends the First Amendment. Id. 314   REGENT UNIVERSITY LAW REVIEW  [Vol. 24:311 
+With the rise of originalism jurisprudence, historical evidence has 
+played a significant role in modern debates about how to interpret the 
+Free Exercise Clause. Because it is now accepted that the government 
+may  not  discriminate  on  the  basis  of  religion,  these  debates  have 
+generally focused on the question presented in Smith: whether the Free 
+Exercise Clause provides an individual right of religious exemption from 
+neutral, generally applicable laws.15 In City of Boerne v. Flores,16 for 
+example, Justice Scalia’s concurrence and Justice O’Connor’s dissent 
+wrangled over whether Smith was consistent with the original meaning 
+of  the  Free  Exercise  Clause.17  Historical  arguments  have  also  been 
+featured prominently in discussions among academic scholars. Michael 
+McConnell writes that the “doctrine of free exercise exemptions is more 
+consistent with the original understanding than is a position that leads 
+only to the facial neutrality of legislation.”18 Others vigorously dispute 
+that claim. Philip Hamburger, for instance, argues that “late eighteenth-
+century Americans tended to assume that the Free Exercise Clause did 
+not  provide  a  constitutional  right  of  religious  exemption  from  civil 
+laws.”19  Neither  position  has  garnered  scholarly  consensus,  in  part 
+because founding-era debates about exemptions  were often mired in 
+uncertainty.20 Nonetheless, scholarly debates  about religious freedom 
+                                                 
+15   See Smith, 494 U.S. at 874. 
+16  521 U.S. 507 (1997). 
+17   Id. at 537–38 (Scalia, J., concurring); id. at 544–45 (O’Connor, J., dissenting). 
+18  Michael  W.  McConnell,  The  Origins  and  Historical  Understanding  of  Free 
+Exercise of Religion, 103 HARV. L. REV. 1409, 1512 (1990) [hereinafter McConnell, Origins]; 
+see also Walter J. Walsh, The First Free Exercise Case, 73 GEO. WASH. L. REV. 1, 39–40 
+(2004) (arguing that early state free exercise decisions support religious exemptions). 
+19   Philip  A.  Hamburger,  A  Constitutional  Right  of  Religious  Exemption:  An 
+Historical Perspective, 60 GEO. WASH. L. REV. 915, 916 (1992) [hereinafter Hamburger, 
+Religious Exemption]; see also Gerard V. Bradley, Beguiled: Free Exercise Exemptions and 
+the Siren Song of Liberalism, 20 HOFSTRA L. REV. 245, 247–48 (1991) (arguing on historical 
+grounds against religious exemptions); see also Ellis M. West, The Right to Religion-Based 
+Exemptions in Early America: The Case of Conscientious Objectors to Conscription, 10 J.L. 
+& RELIGION 367, 370–71 (1993–1994). 
+20  Several factors account for the indeterminacy of nineteenth-century religious 
+exemption cases. First, eighteenth-century and early nineteenth-century views about 
+theology, evidence rules, and judicial review differed dramatically from our own, thus 
+limiting our ability to glean constitutional meaning out of these early cases. Wesley J. 
+Campbell, Note, A New Approach to Nineteenth-Century Religious Exemption Cases, 63 
+STAN. L. REV. 973, 976 (2011). Moreover, early jurists may have applied something akin to 
+our modern “compelling governmental interest” test whereby a compelling governmental 
+interest can be sufficient to override a person’s individual liberty claim. See Michael W. 
+McConnell, Freedom from Persecution or Protection of the Rights of Conscience?: A Critique 
+of Justice Scalia’s Historical Arguments in City of Boerne v. Flores, 39 WM. & MARY L. REV. 
+819,  845–46  (1998)  [hereinafter  McConnell,  Freedom  from  Persecution]  (“The  most 
+persuasive interpretation of the state precursors of the Free Exercise Clause, therefore, is 
+that they provided substantive protection for religious conduct, except for acts that violate 
+the peace and safety of the state or the rights of others.”). Thus, it is often difficult when 2012]  RELIGIOUS NEUTRALITY IN THE EARLY REPUBLIC  315 
+remain  active,  and  the  Court  continues  to  wrestle  with  the  often 
+uncomfortable implications of its Smith decision.21 
+Historical studies by legal scholars have focused almost exclusively 
+on early American debates about exemptions and ignored debates about 
+neutrality.  McConnell,  for  instance,  acknowledges  that  most  early 
+nineteenth-century religious-freedom cases involved witnesses excluded 
+from testifying because of their faith, or prosecutions for blasphemous 
+statements, but he does not discuss these cases because they “involved 
+laws specifically directed at religion” and therefore “did not raise the 
+exemption  question.”22  The  scholarly  focus  on  exemption  cases  is 
+perfectly natural, of course, but it also has led scholars to overlook a 
+wealth of historical materials not directly related to exemption debates 
+but nonetheless integral to understanding how the Founders thought 
+about  religious  freedom.  In  particular,  debates  concerning  religious 
+neutrality oftentimes better reveal the values and priorities implicit in 
+founding-era understandings of free exercise.   
+Only  one  scholar  has  examined  how  these  early  debates  about 
+neutrality bear on the exemption question. In an important historical 
+analysis  of  religious  exemptions,  Gerard  Bradley  persuasively 
+demonstrates that courts were historically unwilling to overturn laws 
+that facially discriminated on the basis of religious belief.23 Bradley then 
+pounces  on  McConnell’s  dismissal  of  religious  neutrality  cases  as 
+unconnected to the exemption debate by stating, “[O]ne has to wonder 
+about the coherence of [McConnell’s] project: courts would enforce laws 
+‘specifically directed at religion’ (and thus intentionally coerce belief), 
+but not laws that pursued secular goals incidentally burdening belief.”24 
+With  such  indifference  toward  religious  neutrality,  Bradley  argues, 
+judges surely were unwilling to provide exemptions from neutral laws.25 
+                                                                                                                  
+reading early cases to discern whether jurists rejected the possibility of exemptions 
+generally, or instead thought an exemption was not warranted in the context of particular 
+cases notwithstanding constitutional protection for other exemptions. 
+21  See, e.g., Hosanna-Tabor Evangelical Lutheran Church & Sch. v. EEOC, 132 S. 
+Ct. 694, 706–07 (2012) (addressing whether and to what extent the First Amendment 
+affords religious institutions constitutional exemptions from certain employment laws). 
+22  McConnell, Origins, supra note 18, at 1503. 
+23   Bradley, supra note 19, at 271–72, 275–76, 285. 
+24   Id. at 274. Bradley argues that blasphemy and testimonial exclusion cases were 
+not “directed at religion” but rather aimed at the religiously neutral goals of protecting 
+public safety and ensuring testimonial veracity. Id. at 274–77. He clarifies, however, that 
+“[t]o the extent that the cases are ‘directed at religion,’ their significance cuts deeply into 
+McConnell’s case.” Id. at 277. Under modern neutrality principles, these laws would be 
+“directed at religion,” irrespective of whether the government was pursuing a neutral goal. 
+See supra note 4.  
+25   See id. at 275. 316   REGENT UNIVERSITY LAW REVIEW  [Vol. 24:311 
+Although  perhaps  counterintuitive,  early  judicial  enforcement  of 
+facially discriminatory laws actually supports the historical argument for 
+religious  exemptions.  State  governments  during  the  Founding  Era 
+generally  accommodated  minority  religious  practices  while 
+simultaneously  restricting  certain  civil  privileges  on  the  basis  of 
+religious  belief.26  When  considering  the  consistency  of  these 
+discriminatory laws with constitutionally protected religious liberty, late 
+eighteenth-century and early nineteenth-century judges, legislators, and 
+other  legal  commentators  frequently  noted  that  governmental 
+classifications were legitimate so long as they did not infringe upon a 
+person’s  free  exercise.  By  putting  aside  our  modern  priorities  and 
+rereading these debates on their own terms, the original meaning of the 
+First  Amendment  becomes  much  clearer:  The  Free  Exercise  Clause 
+guaranteed a natural, unalienable right of religious freedom—not a right 
+to governmental neutrality.  
+This Article argues that in order to understand the Founders’ views 
+regarding  religious  exemptions,  we  must  first  understand  how  they 
+thought  about  religious  liberty  more  generally  and  how  much  that 
+viewpoint differs from our own. Part I lays the theoretical groundwork of 
+the  paper  by  describing  two  theories  of  religious  freedom:  the 
+governmental neutrality approach and the individual liberty approach. 
+Early state and federal constitutional provisions  concerning religious 
+freedom  are  presented  in  Part  II,  which  analyzes  the  values  and 
+priorities underlying those provisions. Part III then discusses judicial 
+decisions and other early nineteenth-century debates  about religious 
+neutrality. In particular, this Part analyzes neglected evidence from 
+testimonial exclusion cases, test oath debates, blasphemy prosecutions, 
+and  religious  assessment  controversies.  As  argued  in  Part  IV, 
+nineteenth-century perspectives regarding religious neutrality are an 
+under-utilized yet remarkably revealing source for understanding the 
+original public meaning of the Free Exercise Clause. The Article does not 
+take  a  normative  position  about  how  much  this  historical  meaning 
+should matter in modern jurisprudence, and it certainly does not aim to 
+undercut modern neutrality jurisprudence.27 To those who factor original 
+meaning into their constitutional calculus, however, historical evidence 
+casts doubt on the Supreme Court’s current refusal to recognize the 
+                                                 
+26   See infra Part III. 
+27   The proper home for neutrality values, however, may be elsewhere in the 
+Constitution, particularly in the Establishment Clause and the Equal Protection Clause. 
+Rather than attack neutrality principles, this Article argues that the Court’s current focus 
+on neutrality tends to warp its understanding of original free-exercise principles. 2012]  RELIGIOUS NEUTRALITY IN THE EARLY REPUBLIC  317 
+constitutional  underpinnings  of  an  individual  right  to  religious 
+accommodation.28 
+I. TWO THEORIES OF RELIGIOUS FREEDOM 
+Before turning to the historical evidence, it is important to explain 
+two general theories of religious freedom that animate modern debates 
+about the Free Exercise Clause. One of these theories, labeled here as 
+the individual liberty theory, focuses on the primacy of religious duties 
+for individuals. For adherents to this view, the core of religious liberty is 
+individual freedom to practice religion without legal constraints, even if 
+those legal constraints are not directly or intentionally aimed at religion. 
+The second theory, labeled here as the  neutrality theory, focuses on 
+governmental actions. Here, the central question is whether the law 
+treats people differently because of their religious beliefs or practices.29 
+The basic contours of these two theories are best illustrated through 
+examples. Some laws would offend both theories of religious freedom. 
+For instance, a law banning the Christian rite of communion would 
+infringe  upon  the  individual  liberty  of  Christians  to  practice  their 
+religion, yet the same law would also be non-neutral because it would 
+discriminate on the basis of religion. Many laws, however, would offend 
+one approach but not the other. Forbidding all uses of wine, for example, 
+would interfere with the individual liberty of some Christians to practice 
+communion, but it would nonetheless be neutral because it would apply 
+to everyone without targeting a religious practice. By contrast, a law 
+preventing  Catholics  from  serving  in  the  legislature  would  violate 
+neutrality  principles  by  targeting  Catholics,  but  it  would  not  offend 
+individual liberty because, strictly understood, serving in the legislature 
+has nothing to do with Catholic religious practices. These theories are 
+not  incompatible  with  each  other,  but  they  nonetheless  reflect 
+fundamentally  different  outlooks  about  the  source  and  purpose  of 
+religious liberty. 
+                                                 
+28   Recognizing  that  religious  exemptions  have  constitutional  underpinnings  is 
+important even if one thinks that Smith was correctly decided for prudential reasons. That 
+is because the constitutional nature of exemption claims suggests that even if they are not 
+judicially enforceable, other branches of government still have a constitutional duty to 
+afford exemptions. Moreover, the prudential concerns that might have influenced the Court 
+in Smith should be beside the point when assessing congressional attempts to protect free 
+exercise under Section Five of the Fourteenth Amendment. But see City of Boerne v. 
+Flores, 521 U.S. 507, 535–36 (1997). 
+29  Keeping  largely  to  the  terms  of  the  founding-era  debates,  this  Article 
+concentrates on classifications between religious groups rather than classifications based 
+on whether someone has any religious belief. Modern neutrality principles, of course, also 
+prevent discrimination against those without religious faith. See, e.g., Torcaso v. Watkins, 
+367 U.S. 488, 495 (1961). 318   REGENT UNIVERSITY LAW REVIEW  [Vol. 24:311 
+As explained in the Introduction, the Supreme Court has openly 
+adopted a neutrality-based approach to the Free Exercise Clause. In 
+Employment  Division  v.  Smith,  Justice  Scalia’s  majority  opinion 
+declared,  
+The free exercise of religion means, first and foremost, the right to 
+believe and profess whatever religious doctrine one desires. Thus, the 
+First Amendment obviously excludes all “governmental regulation of 
+religious beliefs as such.” The government may not . . . impose special 
+disabilities on the basis of religious views or religious status . . . .30  
+Protecting neutrality, however, was as far as the Court was willing to go. 
+With very limited exceptions, the Court in Smith rejected an individual 
+liberty interpretation of religious freedom. “[T]he right of free exercise,” 
+Justice Scalia wrote, “does not relieve an individual of the obligation to 
+comply with a ‘valid and neutral law of general applicability on the 
+ground that the law proscribes (or prescribes) conduct that his religion 
+prescribes (or proscribes).’”31 In other words, neutral laws applicable to 
+everyone are constitutional despite any unintended burdens they might 
+impose on religious practices. According to the Court, “Conscientious 
+scruples  have  not,  in  the  course  of  the  long  struggle  for  religious 
+toleration, relieved the individual from obedience to a general law not 
+aimed at the promotion or restriction of religious beliefs.”32 Nineteenth-
+century  neutrality  cases,  however,  suggest  that  the  Court’s  fleeting 
+reference to history may have been misguided. 
+II. NEUTRALITY AT THE FOUNDING  
+In  the  1780s,  every  state  constitution  or  declaration  of  rights 
+included a religious liberty provision, although the exact language of 
+these  articles  differed  between  states.33  Scholars  have  thoroughly 
+                                                 
+30  Emp’t Div. v. Smith, 494 U.S. 872, 877 (1990) (citations omitted) (quoting 
+Sherbert v. Verner, 374 U.S. 398, 402 (1963)). 
+31  Id. at 879 (quoting United States v. Lee, 455 U.S. 252, 263 n.3 (1982) (Stevens, J., 
+concurring in the judgment)). 
+32   Id. (quoting Minersville Sch. Dist., Bd. of Educ. v. Gobitis, 310 U.S. 586, 594 
+(1940)) (internal quotation marks omitted). Gobitis was overruled on free speech grounds 
+just three years later in West Virginia State Board of Education v. Barnette, 319 U.S. 624, 
+642 (1943). The Court in Barnette specifically noted that “[i]t is not necessary to inquire 
+whether non-conformist beliefs will exempt from the duty to salute unless we first find 
+power to make the salute a legal duty.” Id. at 635. 
+33   See  JOHN  WITTE,  JR.,  &  JOEL  A.  NICHOLS,  RELIGION  AND  THE  AMERICAN 
+CONSTITUTIONAL EXPERIMENT 44, 46 (3d ed. 2011); John K. Wilson, Religion Under the 
+State Constitutions, 1776-1800, 32 J. CHURCH & ST. 753, 755 (1990); McConnell, Origins, 
+supra  note  18,  at  1456–58  (listing  each  clause).  In  addition,  although  Connecticut 
+continued under its colonial charter, the legislature passed in 1776 “An Act containing an 
+Abstract and Declaration of the Rights and Privileges of the People of this State, and 
+securing the same.” ACTS AND LAWS OF THE STATE OF CONNECTICUT, IN AMERICA 1 
+(Timothy  Green  ed.,  1784).  The  preamble  mentions  “civil  and  religious  Rights  and 
+Liberties” and states that  2012]  RELIGIOUS NEUTRALITY IN THE EARLY REPUBLIC  319 
+canvassed these early state constitutional provisions, but reexamining 
+these texts is a useful starting point for understanding founding-era 
+views about religious liberty.34 
+The constitution or bill of rights in most states during the Founding 
+Era expressly mentioned that freedom of religion is an “unalienable 
+right.”35 This reference to unalienable rights provides a critical insight 
+                                                                                                                  
+as the free Fruition of such Liberties and Privileges as Humanity, Civility and 
+Christianity call for, as is due to every Man in his Place and Proportion, 
+without Impeachment and Infringement, hath ever been, and will be the 
+Tranquility and Stability of Churches and Commonwealths; and the Denial 
+thereof, the Disturbance, if not the Ruin of both.  
+Id. 
+34   Judicial review was in its earliest stages during the 1780s. See William Michael 
+Treanor, Judicial Review Before Marbury, 58 STAN L. REV. 455, 474 (2005); Larry D. 
+Kramer, Marbury and the Retreat from Judicial Supremacy, 20 CONST. COMMENT. 205, 215 
+(2003). Therefore, state constitutional provisions may better elucidate  what religious 
+liberty meant rather than how it would be enforced. McConnell makes a similar point in an 
+important footnote: “The exemptions of the colonial and revolutionary periods took place 
+before the Constitution (even before the state constitutions) and before judicial review. The 
+point of this preconstitutional history is to understand the experience against which the 
+Framers and ratifiers would understand the proposed Amendment.” McConnell, Freedom 
+from Persecution, supra note 20, at 838 n.112. McConnell acknowledges that early state 
+constitutional protections may have been merely legislative guidelines, but he observes 
+that “the Framers of the federal Bill of Rights, and particularly Madison, had completed 
+the transition from hortatory declarations to judicially enforceable rights.” Id. 
+35  See,  e.g.,  DEL.  DECLARATION  OF  RIGHTS  of  1776,  §  2,  reprinted  in  5  THE 
+FOUNDERS’ CONSTITUTION 5 (Philip B. Kurland & Ralph Lerner eds., 1987) (“[A]ll men 
+have a natural and unalienable right to worship Almighty God according to the dictates of 
+their own consciences and understandings . . . .”); KY. CONST. of 1792, art. XII, § 3, 
+reprinted in 3 THE FEDERAL AND STATE CONSTITUTIONS, COLONIAL CHARTERS, AND OTHER 
+ORGANIC LAWS OF THE STATES, TERRITORIES, AND COLONIES 1264, 1274 (Francis Newton 
+Thorpe ed., 1909) [hereinafter THE FEDERAL AND STATE CONSTITUTIONS] (“[A]ll men have a 
+natural and indefeasible right to worship Almighty God according to the dictates of their 
+own consciences . . . .”); N.H. CONST. pt. I, art. V, reprinted in 4 THE FEDERAL AND STATE 
+CONSTITUTIONS, supra, at 2453, 2454 (“Every individual has a natural and unalienable 
+right to worship GOD according to the dictates of his own conscience, and reason . . . .”); 
+N.J. CONST. of 1776, art. XVIII, reprinted in 5 THE FEDERAL AND STATE CONSTITUTIONS, 
+supra, at 2594, 2597 (recognizing “the inestimable privilege of worshipping Almighty God 
+in a manner agreeable to the dictates of his own conscience”); N.C. CONST. of 1776, art. 
+XIX, reprinted in 5 THE FEDERAL AND STATE CONSTITUTIONS, supra, at 2787, 2788 (“[A]ll 
+men have a natural and unalienable right to worship Almighty God according to the 
+dictates of their own consciences.”); PA. CONST. of 1776, art. II, reprinted in 5 THE FEDERAL 
+AND  STATE  CONSTITUTIONS,  supra,  at  3081,  3082  (“[A]ll  men  have  a  natural  and 
+unalienable  right  to  worship  Almighty  God  according  to  the  dictates  of  their  own 
+consciences and understanding . . . .”). Other states spoke of religious duties. See, e.g., MD. 
+DECLARATION OF RIGHTS of 1776, art. XXXIII, reprinted in 3 THE FEDERAL AND STATE 
+CONSTITUTIONS, supra, at 1686, 1689 (“[I]t is the duty of every man to worship God in such 
+manner as he thinks most acceptable to him . . . .”); MASS. CONST. pt. 1, art. II, reprinted in 
+3 THE FEDERAL AND STATE CONSTITUTIONS, supra, at 1888, 1889 (“It is the right as well as 
+the duty of all men . . . to worship the SUPREME BEING . . . .”); VA. CONST. of 1776, § 16, 
+reprinted in 7 THE FEDERAL AND STATE CONSTITUTIONS, supra, at 3812, 3814 (“[R]eligion, 320   REGENT UNIVERSITY LAW REVIEW  [Vol. 24:311 
+into how contemporaries understood religious liberty. Under Lockean 
+social  contract  theory,  individuals  in  a  state  of  nature  have  certain 
+natural  rights.  These  rights  include  both  alienable  rights,  which 
+individuals may give up (or alienate) upon entering the social contract, 
+and unalienable rights.36 According to James Madison, 
+The Religion . . . of every man must be left to the conviction and 
+conscience of every man; and it is the right of every man to exercise it 
+as these may dictate. This right is in its nature an unalienable right. 
+It is unalienable, because the opinions of men, depending only on the 
+evidence contemplated by their own minds cannot follow the dictates 
+of other men: It is unalienable also, because what is here a right 
+towards men, is a duty towards the Creator.37   
+Thus, Madison considered religious freedom to be unalienable because 
+duties  to  God  supersede  worldly  obligations.  As  shown  in  Part  III, 
+invocations of the inalienability of religious freedom were common in 
+early constitutional debates. 
+Viewing religious freedom as a natural and unalienable right aligns 
+with the individual liberty view of free exercise. Governments do not 
+exist in the state of nature, and therefore the meaning of natural rights 
+cannot depend upon their relationship to governmental authorities.38 
+Upon exiting the state of nature, however, individuals may forfeit most 
+of their natural rights to the government, or they may redefine those 
+rights in terms of governmental neutrality.39 But unalienable rights are 
+different  because,  as  Madison  had  explained  with  respect  to  free 
+exercise, they cannot be given up or redefined.40 Suppose, for instance, 
+that the right to self-defense is an unalienable right. Then suppose that 
+the government passes a neutral law banning all intentional killings, 
+irrespective of whether a person kills in self-defense. In this example, 
+                                                                                                                  
+or the duty which we owe to our Creator, and the manner of discharging it, can be directed 
+only by reason and conviction . . . .”). 
+36   For  one  description  of  Lockean  rights  theory,  see  DAVID  A.J.  RICHARDS, 
+FOUNDATIONS OF AMERICAN CONSTITUTIONALISM 87 (1989). 
+37   James Madison, A Memorial and Remonstrance (June 20, 1785), in 8 THE PAPERS 
+OF JAMES MADISON 298, 299 (Robert A. Rutland et al. eds., 1973). 
+38  See JOHN LOCKE, SECOND TREATISE OF GOVERNMENT 8–9 (C.B. Macpherson ed., 
+Hackett Publ’g Co. 1980) (1690); see also Richard Tuck, The Dangers of Natural Rights, 20 
+HARV. J.L. & PUB. POL’Y 683, 691 (1997) (“Natural rights are obviously by definition meta-
+political, though they may be adduced in discussion by legislators or interpreters of 
+legislation . . . .”). 
+39   For a useful and nuanced explanation of founding-era views on this issue, see 
+Philip A. Hamburger, Natural Rights, Natural Law, and American Constitutions, 102 YALE 
+L.J. 907, 935–37 (1993) [hereinafter Hamburger, Natural Rights]. 
+40   See Madison, supra note 37, at 299 (“This duty [to God] is precedent, both in 
+order of time and in degree of obligation, to the claims of Civil Society. . . . We maintain 
+therefore that in matters of Religion, no man’s right is abridged by the institution of Civil 
+Society and that Religion is wholly exempt from its cognizance.”). 2012]  RELIGIOUS NEUTRALITY IN THE EARLY REPUBLIC  321 
+prosecuting  someone  for  an  intentional  killing  made  in  self-defense 
+would plainly violate the individual, unalienable right to self-defense. 
+The right predates and necessarily survives  the social contract, and 
+therefore the right’s definition and application do not depend on any 
+feature of positive law, including a law’s neutrality or non-neutrality. 
+Similarly,  the  Founders’  understanding  of  free  exercise  as  an 
+unalienable right strongly suggests that this right was individually held 
+and not understood to be a guarantee of governmental neutrality.41  
+Even in the state of nature, however, individuals cannot in the 
+name of religious liberty infringe upon the rights of others. According to 
+John Locke, the state of nature is “a state of perfect freedom . . . . yet it is 
+not a state of licence.”42 Instead, it “has a law of nature to govern it, 
+which obliges every one . . . that being all equal and independent, no one 
+ought to harm another in his life, health, liberty, or possessions . . . . ”43    
+Early state constitutions mentioning the inalienability of religious 
+freedom  also  recognized  this  fundamental  limitation  on  religious 
+liberty.44 In New Hampshire, for example, the constitution guaranteed 
+the inalienability of free exercise for every person, “provided he doth not 
+disturb the public peace, or disturb others, in their religious worship.”45 
+Scholars  dispute  the  meaning  of  these  limiting  provisions  and 
+particularly  what  it  meant  for  someone  to  “disturb  the  peace.” 
+Hamburger  asserts  that  the  founding  generation  considered  all 
+violations of law to be disruptions of the public peace.46 Therefore, he 
+argues, limiting clauses in early religious-freedom provisions expressly 
+                                                 
+41  Of course, a society that forms a social contract may also recognize a religious 
+neutrality norm. But that does not transform neutrality into an unalienable right, which in 
+Lockean terms is a right that predates and necessarily survives the social contract. See 
+LOCKE, supra note 38, at 13. 
+42   Id. at 8–9. 
+43   Id. at 9. Locke himself wrote in a time of Parliamentary sovereignty, thus 
+making his views on the inalienability of religious rights slightly different than the views 
+of the American founders. See McConnell, Origins, supra note 18, at 1435; see also 
+McConnell, Freedom from Persecution, supra note 20, at 827–29 & n.47 (presenting a 
+slightly different reading of Locke). 
+44  Hamburger asserts that the inalienability of the rights of conscience proves that 
+this right could not be conditioned, and then he uses the right’s supposed unconditionality 
+to explain why it must have been highly circumscribed. Philip Hamburger, More Is Less, 90 
+VA. L. REV. 835, 847–57 (2004) [hereinafter Hamburger, More Is Less]. Saying that a right 
+is unalienable, however, is quite different than saying that it is unconditional. In the 
+Lockean state of nature, rights did not extend so far as to allow individuals to violate the 
+rights of others. See LOCKE, supra note 38, at 9. Indeed, Hamburger has previously 
+articulated a similar point. See Hamburger, Natural Rights, supra note 39, at 927–28.  
+45   N.H.  CONST.,  pt.  1,  art.  V,  reprinted  in  4  THE  FEDERAL  AND  STATE 
+CONSTITUTIONS, supra note 35, at 2453, 2454. 
+46   Hamburger, Religious Exemption, supra note 19, at 918. 322   REGENT UNIVERSITY LAW REVIEW  [Vol. 24:311 
+denied an individual right of religious exemption from neutral laws.47 In 
+making  this  argument,  however,  Hamburger  makes  two  critical 
+mistakes. First, he assumes the point he is trying to prove. If exemptions 
+were  statutorily  or  constitutionally  mandated,  then  judges  who 
+accommodated religious scruples would be following, not violating, the 
+law.  Indeed,  military-service  exemptions  for  Quakers  were  widely 
+accepted rather than condemned as “lawless” or disruptive of the public 
+peace.48  
+More importantly, though, Hamburger overlooks the well-accepted 
+eighteenth-century meaning of disruptions of the public peace.49 In his 
+famous Commentaries on the Laws of England, for instance, William 
+Blackstone listed thirteen “offenses against the public peace”—a list that 
+did not include every civil and criminal law on the books.50 Similarly, the 
+Articles of Confederation stated that “the members of Congress shall be 
+protected in their persons from arrests and imprisonments, during the 
+time of their going to and from, and attendance on Congress, except for 
+treason, felony, or breach of the peace.”51 Of course, this protection from 
+“arrests and imprisonments” would have been nugatory if the phrase 
+“breaches of the peace” included any illegal act. An early dictionary the 
+Supreme Court has used to establish the original public meaning of 
+other constitutional provisions52 provides that “[a] violation of the public 
+                                                 
+47   Id.  at  917–26.  Hamburger  states,  “The  behavior  described  by  the  caveats 
+included more than just nonpeaceful behavior. . . . Whereas McConnell assumes that a 
+disturbance of the peace was simply nonpeaceful behavior, eighteenth-century lawyers 
+made clear that ‘every breach of law is against the peace.’” Id. at 918 (quoting Queen v. 
+Lane, (1704) 87 Eng. Rep. 884 (Q.B.) 885; 6 Mod. 128, 128). Justice Scalia used this 
+quotation in his concurring opinion in City of Boerne v. Flores, 521 U.S. 507, 539 (1997) 
+(Scalia, J., concurring in part). 
+48   Hamburger’s  own  evidence  in  an  early  episode  of  controversy  surrounding 
+Quaker militia exemptions in the Revolutionary War largely supports this point. See Philip 
+Hamburger,  Religious  Freedom  in  Philadelphia,  54  EMORY  L.J.  1603,  1625  (2005) 
+[hereinafter Hamburger, Religious Freedom]. To be sure, there were adamant denials that 
+Quakers should be exempted and not have to pay an equivalent, but the overwhelming 
+thrust of Hamburger’s evidence takes for granted the idea that militia exemptions for 
+Quakers fall with the understood meaning of religious freedom. See, e.g., Commonwealth v. 
+Smith, 9 Mass. (8 Tyng) 107, 110 (1812) (discussing how Quakers were usually either 
+exempted or excused from serving as grand jurors). 
+49  The most thorough rebuttal of Hamburger’s position regarding disturbances of 
+the peace appears in Thomas Y. Davies, The Fictional Character of Law-and-Order 
+Originalism: A Case Study of the Distortions and Evasions of Framing-Era Arrest Doctrine 
+in  Atwater  v.  Lago  Vista,  37  WAKE  FOREST  L.  REV.  239, 280–300  (2002);  see  also 
+McConnell, Freedom from Persecution, supra note 20, at 834–37. 
+50   4  WILLIAM  BLACKSTONE,  BLACKSTONE’S  COMMENTARIES  ON  THE  LAWS  OF 
+ENGLAND 113–18 (Wayne Morrison ed., 2001). 
+51   ARTICLES OF CONFEDERATION of 1777, art. V (emphasis added). 
+52   See, e.g., Crawford v. Washington, 541 U.S. 36, 51 (2004) (relying on Noah 
+Webster’s dictionary to define the term “witnesses” in the Confrontation Clause). 2012]  RELIGIOUS NEUTRALITY IN THE EARLY REPUBLIC  323 
+peace, as by a riot, affray, or any tumult which is contrary to law, and 
+destructive to the public tranquility, is called a breach of the peace.”53  
+Therefore, when  state  constitutions  guaranteed  the  “unalienable 
+rights of conscience,” except when individuals disturbed the public peace, 
+these  constitutional  provisions  recognized  the  basic  idea  of  Lockean 
+rights: Individuals may exercise their rights so long as they do not 
+encroach upon the rights of others.  
+This is not to say that neutrality was wholly unimportant. Many 
+state constitutions also included clauses that contemplated limited forms 
+of  religious  neutrality,  particularly  by  circumscribing  or  renouncing 
+state religious establishments.54 These provisions, however, were often 
+in separate sections and generally did not affect the scope of free exercise 
+protections.55 An interesting exception appears in the constitutions of 
+New York and South Carolina, which declared that the “free exercise 
+and  enjoyment  of  religious  profession  and  worship,  without 
+discrimination or preference, shall forever hereafter be allowed, within 
+this State, to all mankind . . . .”56 This provision may appear to be a 
+straightforward  endorsement  of  governmental  neutrality.  A  closer 
+reading, however, reveals that the modifier “without discrimination or 
+preference”  applies  to  the  phrase  “free  exercise  and  enjoyment  of 
+religious  profession  and  worship”  and  not  to  the  enactment  of  laws 
+generally.57 In other words, the right of free exercise had to be respected 
+                                                 
+53  NOAH WEBSTER, AMERICAN DICTIONARY OF THE ENGLISH LANGUAGE (photo. 
+reprint 2005) (1828). 
+54   See, e.g., PA. CONST. of 1790, art. IX, § 3, reprinted in 5 THE FEDERAL AND STATE 
+CONSTITUTIONS, supra note 35, at 3092, 3100 (providing that “no preference shall ever be 
+given, by law, to any religious establishments or modes of worship”). Even Massachusetts, 
+which had an official religious establishment, also had a constitutional guarantee that 
+every Christian sect was under the equal protection of the law. MASS. CONST. pt. I, art. III, 
+reprinted in 3 THE FEDERAL AND STATE CONSTITUTIONS, supra note 35, at 1888, 1890 (“And 
+every denomination of Christians, demeaning themselves peaceably, and as good subjects 
+of  the  commonwealth,  shall  be  equally  under  the  protection  of  the  law:  and  no 
+subordination of any one sect or denomination to another shall ever be established by 
+law.”). 
+55  See, e.g., PA. CONST. of 1790, art. IX, § 4, reprinted in 5 THE FEDERAL AND STATE 
+CONSTITUTIONS, supra note 35, at 3092, 3100 (“[N]o person, who acknowledges the being of 
+a God and a future state of rewards and punishments, shall, on account of his religious 
+sentiments, be disqualified to hold any office or place of trust or profit under this 
+commonwealth”); id. § 3 (“[N]o preference shall ever be given, by law, to any religious 
+establishments or modes of worship.”).  
+56   N.Y. CONST. of 1777, art. XXXVIII, reprinted in 5 THE FEDERAL AND STATE 
+CONSTITUTIONS, supra note 35, at 2623, 2637 (emphasis added); S.C. CONST. of 1790, art. 
+VIII, § 1, reprinted in 6 THE FEDERAL AND STATE CONSTITUTIONS, supra note 35, at 3258, 
+3264 (emphasis added). 
+57  If one took a strict view of neutrality, it would be difficult to see how religious 
+exemptions themselves would not constitute a “discrimination or preference.” Yet “there is 
+virtually  no  evidence  that  anyone  thought  [regulatory  religious  exemptions]  were 324   REGENT UNIVERSITY LAW REVIEW  [Vol. 24:311 
+equally, but this did not prevent the government from treating certain 
+religious groups differently than others in ways that did not infringe 
+upon that right.58  
+Given the modern primacy of governmental neutrality with respect 
+to religious beliefs, it is easy to view the individual liberty approach to 
+free exercise as expansive or even radical. According to Hamburger, 
+“most eighteenth-century advocates of religious liberty sought a freedom 
+from laws that imposed constraints on the basis of religion (or at least 
+religious  differences),  [but]  numerous  modern  advocates  and  judges 
+expect more. . . . They thereby adopt a very expansive definition of the 
+First  Amendment’s  right  of  free  exercise.”59  Applied  to  our  modern 
+circumstances, the scope of the individual liberty approach may, in fact, 
+be expansive. The Supreme Court currently considers the neutrality 
+theory as a baseline,60 so mandatory exemptions would increase the 
+scope of free exercise, based on the current doctrine.  
+In  the  eighteenth  century,  however,  religious  exemptions  were 
+highly non-radical. As William Marshall has mentioned, “[T]here [were] 
+few  religiously  neutral  state  provisions  with  which  the  religious 
+practices  could  have  been  in  conflict.  The  regulatory  state  did  not 
+exist.”61  Moreover,  “[T]he  culture  of  the  United  States  in  the  late 
+eighteenth  century  was  fairly  homogeneous,  being  composed  almost 
+entirely of Christian sects whose practices were unlikely to violate non-
+                                                                                                                  
+constitutionally prohibited or that they were part of an establishment of religion.” Douglas 
+Laycock, Regulatory Exemptions of Religious Behavior and the Original Understanding of 
+the Establishment Clause, 81 NOTRE DAME L. REV. 1793, 1796 (2006). 
+58   Thus, when the New York Constitutional Ratification Convention proposed in 
+1788 that “the People have an equal, natural and unalienable right, freely and peaceably to 
+Exercise their Religion according to the dictates of Conscience, and that no Religious Sect 
+or Society ought to be favoured or established by Law in preference of others,” the equal 
+right to free exercise meant that the right existed regardless of a person’s religion, not that 
+all religions had to be treated equally under the law. Ratification of the Constitution by the 
+State of New York (July 26, 1788), in 2 DOCUMENTARY HISTORY OF THE CONSTITUTION OF 
+THE UNITED STATES OF AMERICA 191 (Dep’t of State ed., 1894). Similar language appeared 
+in Virginia’s 1776 Bill of Rights, which proclaimed that “religion, or the duty which we owe 
+to our Creator, and the manner of discharging it, can be directed only by reason and 
+conviction, not by force or violence; and therefore all men are equally entitled to the free 
+exercise of religion, according to the dictates of conscience . . . .” VA. CONST. of 1776, § 16, 
+reprinted in 7 THE FEDERAL AND STATE CONSTITUTIONS, supra note 35, at 3812, 3814 
+(emphasis added). 
+59   Hamburger, More Is Less, supra note 44, at 836 (emphasis added). Hamburger, 
+however, argues that state free exercise clauses were generally even more limited, applying 
+only  to  state-imposed  prohibitions  on  religious  practices  rather  than  any  religious 
+classification. Id. at 841. 
+60   See supra note 30 and accompanying text. 
+61  William P. Marshall, The Case Against the Constitutionally Compelled Free 
+Exercise Exemption, 7 J.L. & RELIGION 363, 382 (1989). 2012]  RELIGIOUS NEUTRALITY IN THE EARLY REPUBLIC  325 
+religious societal norms.”62 In some notable instances, neutral laws did 
+conflict with individual liberty. Quakers, for example, had conscientious 
+scruples against swearing oaths and serving in the military.63 Faced 
+with  this  dilemma,  however,  states  readily  granted  religious 
+accommodations  throughout  the  first  decades  of  the  young  republic, 
+apparently with little social cost.64 In addition to the rarity of conflicts 
+between  individual  religious  scruples  and  neutral  laws,  several 
+important  backstops  prevented  conscientious-objection  claims  from 
+destabilizing the legal regime. Prevailing religious norms still placed a 
+high premium on conformity to church doctrine, and the government 
+generally recognized only those conscientious objections shared by an 
+entire denomination.65 Therefore, guaranteeing religious exemptions as a 
+constitutional principle did not mean a free-for-all in practice, where any 
+individual could claim and receive exemptions on a whim.66 Additionally, 
+as  it  had  in  the  state  of  nature,  religious  liberty  did  not  permit 
+individuals to interfere with the rights of others, thus giving states yet 
+another means of limiting exemptions.67  
+De  facto  limits  on  religious  exemptions  help  explain  why  the 
+Federal  Free  Exercise  Clause  received  such  little  debate.  Recently, 
+Nicholas  Rosenkranz  argued  that  the  First  Amendment’s  famous 
+opening phrase, “Congress shall make no law,” implies that the Free 
+Exercise  Clause  prevents  facially  discriminatory  laws  but  does  not 
+provide an individual right to conscientious exemption.68 In his initial 
+remarks on the clause, however, James Madison suggested a different 
+reason why the First Amendment only mentions Congress: 
+Whether the words [of the amendment] are necessary or not, he did 
+not mean to say, but they had been required by some of the State 
+Conventions,  who seemed  to  entertain  an  opinion  that under  the 
+clause of the constitution, which gave power to Congress to make all 
+laws necessary and proper to carry into execution the Constitution, 
+and the laws made under it, enabled them to make laws of such a 
+                                                 
+62   Id. at 383. 
+63   See, e.g., Commonwealth v. Smith, 9 Mass. (8 Tyng) 107, 110 (1812); see also 
+Hamburger, Religious Freedom, supra note 48, at 1625.  
+64   See  McConnell,  Origins,  supra  note  18,  at  1466–73  (discussing  common 
+eighteenth-century exemptions); see also infra note 89. 
+65   McConnell, Origins, supra note 18, at 1472. 
+66  See Campbell, supra note 20, at 978–79. 
+67   See McConnell, Freedom from Persecution, supra note 20, at 845–46. 
+68   Nicholas Quinn Rosenkranz, The Subjects of the Constitution, 62 STAN. L. REV. 
+1209, 1263, 1266–68 (2010). Other textually-based critiques of the individual-liberty view 
+focus on the word “prohibiting.” See, e.g., Allan Ides, The Text of the Free Exercise Clause as 
+a Measure of Employment Division v. Smith and the Religious Freedom Restoration Act, 51 
+WASH. & LEE L. REV. 135, 147–51 (1994). But see McConnell, Origins, supra note 18, at 
+1486–88 (responding to the argument that the word “prohibiting” mediates against the 
+individual liberty view of free exercise). 326   REGENT UNIVERSITY LAW REVIEW  [Vol. 24:311 
+nature as might infringe the rights of conscience, and establish a 
+national religion; to prevent these effects he presumed the amendment 
+was intended, and he thought it as well expressed as the nature of the 
+language would admit.69 
+If Madison’s views are representative, specifying that Congress shall not 
+prohibit the free exercise of religion was an antidote to lingering concern 
+about the Necessary and Proper Clause. It was not a subtle repudiation 
+of the inalienability of religious freedom.  
+Indeed, evidence from the drafting of the First Amendment belies 
+the idea that the First Congress recognized something other than the 
+prevailing  concept  of  religious  freedom.  On  August  15,  1789,  for 
+instance, some delegates expressed concern over whether the text of the 
+current draft—“no religion shall be established by law, nor shall the 
+equal  rights  of  conscience  be  infringed”—could  be  misconstrued  to 
+prohibit state establishments or even church bylaws.70 Responding to 
+this objection, Samuel Livermore proposed an alternative: “Congress 
+shall  make  no  laws  touching  religion,  or  infringing  the  rights  of 
+conscience.”71 Daniel Carroll remarked that he “would not contend with 
+gentlemen about the phraseology,” but rather wanted “to secure the 
+substance in such a manner as to satisfy the wishes of the honest part of 
+the community.”72 Indeed, the delegates were not debating the meaning 
+of free exercise at all. Rather, they were trying to ensure that the text of 
+the Establishment Clause would not be construed to interfere with state 
+laws or church bylaws. Modern legal scholars who use hyper-technical 
+textual  readings  to  interpret  the  Free  Exercise  Clause  are  simply 
+missing the point. The use of words like “Congress” or “prohibiting” in 
+the Free Exercise Clause had nothing to do with how contemporaries 
+would have understood the substance of the right itself. 
+Yet Madison’s musings about whether the Free Exercise Clause was 
+even  necessary  are  also  quite  revealing.  Indeed,  in  the  eighteenth-
+century context, it was hard to imagine how Congress could possibly 
+have  interfered with  an  individual’s  free  exercise  of  religion. Other 
+provisions  of  the  Constitution  precluded  federal  interference  with 
+religious  liberty  by  allowing  affirmations  instead  of  oaths  and  by 
+granting states, rather than Congress, control over militia attendance 
+laws.73 Other than these well-known areas, there were scarcely other 
+                                                 
+69   1 ANNALS OF CONG. 730 (1789) (Joseph Gales ed., 1834). 
+70   Id. 
+71   Id. at 731. 
+72   Id. at 730. 
+73  U.S. CONST. art. VI (“[A]ll executive and judicial Officers, both of the United 
+States and of the several States, shall be bound by Oath or Affirmation, to support this 
+Constitution; but no religious Test shall ever be required as a Qualification to any Office or 
+public Trust under the United States.”); U.S. CONST. art. I, § 8, cl. 16  (“[R]eserving  to  the 2012]  RELIGIOUS NEUTRALITY IN THE EARLY REPUBLIC  327 
+ways federal laws could have burdened free exercise.74  
+Many founding-era laws, however, drew distinctions on the basis of 
+religion,  thus  defying  incipient  notions  of  religious  neutrality.  For 
+instance,  most  states  used  religious  distinctions  to  prevent  some 
+individuals  from  serving  as  legislators  or  as  courtroom  witnesses.75 
+Blasphemy prosecutions and religious assessment laws also conflicted 
+with  religious  neutrality.76  Although  largely  overlooked,  the 
+controversies surrounding these laws demonstrate that in eighteenth-
+century and early nineteenth-century terms, contrary to our modern 
+understanding,  religious  neutrality  was  the  far  more  radical  and 
+expansive theory of religious freedom. 
+III. EARLY DEBATES OVER NEUTRALITY 
+Almost all historical examinations of religious freedom concentrate 
+on early exemption decisions without also considering neutrality cases.77 
+Despite this modern scholarly imbalance, nineteenth-century neutrality 
+cases were far more prevalent than exemption cases. The most common 
+controversies  involved  the  constitutionality  of  testimonial  exclusions, 
+test oaths, blasphemy laws, and religious assessments. Participants in 
+early  debates  about  religious  neutrality  repeatedly  referred  to  the 
+individual  liberty  theory  as  the  core,  and  often  the  extent,  of 
+constitutionally  protected  religious  liberty.  Gradually,  however, 
+Americans in the first half of the nineteenth century embraced a more 
+inclusive vision of religious freedom that included wider protections of 
+governmental neutrality.  
+A. Testimonial Exclusions 
+In  the  late  eighteenth  century,  oaths  were  explicitly  religious. 
+Swearing  on  the  Bible  or  another  religious  book  constituted  an 
+                                                                                                                  
+States respectively, the Appointment of the Officers, and the Authority of training the 
+Militia . . . .”). Before the First Amendment was ratified, the House of Representatives 
+passed  a  bill  granting  Quakers  exemptions  from militia  service,  though  the  Senate 
+apparently rejected this language. See Vincent Phillip Muñoz, The Original Meaning of the 
+Free Exercise Clause: The Evidence from the First Congress, 31 HARV. J.L. & PUB. POL’Y 
+1083, 1085–86 (2008) (arguing that the First Congress did not agree to exemptions). 
+Federal law, however, did not reject exemptions. See id. at 1120. It merely left the issue to 
+be decided by state governments.  
+74  Another area of nineteenth-century litigation concerned whether Jews were 
+exempt from serving as jurors or witnesses on Saturday. See, e.g., Philips v. Gratz, 2 Pen. 
+& W. 412, 412 (Pa. 1831); Stansbury v. Marks, 2 Dall. 213, 213 (Pa. 1793). I have not 
+discovered any such conflicts in federal court. 
+75   See infra Parts III.A–B. 
+76   See infra Parts III.C–D. 
+77   See, e.g., McConnell, Origins, supra note 18, at 1503. But see Bradley, supra note 
+19, at 272–77 (discussing testimonial exclusion and blasphemy cases, though arguing that 
+these cases did not involve laws targeting religion). 328   REGENT UNIVERSITY LAW REVIEW  [Vol. 24:311 
+invocation of divine punishment against perjury.78 Originally at common 
+law, only Christians were allowed to swear under oath.79 During the 
+seventeenth and eighteenth centuries, however, English courts slowly 
+allowed exceptions to the strict common-law rule, primarily to allow 
+testimony from Jewish merchants.80 The result of this transition was the 
+general rule announced by Lord Chief Justice John Willes in Omychund 
+v. Barker that swearing an oath required belief in God and belief in 
+hell.81 According to Lord Chief Justice Willes, any persons “who believe 
+[in] God, and future rewards and punishments in the other world, may 
+be witnesses; yet I am as clearly of opinion, that if they do not believe 
+[in] God, or future rewards and punishments, they ought not to be 
+admitted as witnesses.”82 While the rule allowed most non-Christians to 
+swear  oaths,  it  still  required  certain  religious  beliefs.  As  George 
+Washington asked rhetorically in his 1796 Farewell Address, “[W]here is 
+the security for property, for reputation, for life, if the sense of religious 
+obligation desert the oaths, which are the instruments of investigation in 
+Courts of Justice?”83  
+Quakers as well as certain other Christians believed in God and 
+future  rewards  and  punishments,  which  normally  would  have  been 
+sufficient to allow them to testify, but they famously refused to swear 
+oaths because of their literal interpretation of the biblical injunction: 
+“Swear  not  at  all  .  .  .  .”84  This  refusal  to  swear  oaths  because  of 
+conscientious scruples brought the common-law rule into conflict with 
+religious beliefs and not only left those Christians unable to serve as 
+witnesses or jurors but also left them susceptible to contempt charges for 
+refusing to fulfill their legal obligations in response to subpoenas and 
+jury summonses.85 This had  the potential to place effective criminal 
+sanctions on certain religious beliefs.86 In response, colonial and state 
+                                                 
+78   See Curtiss v. Strong, 4 Day 51, 55–56 (Conn. 1809).  
+79   See B.H. Hartogensis, Denial of Equal Rights to Religious Minorities and Non-
+Believers in the United States, 39 YALE L.J. 659, 661 & n.12 (1930). 
+80  Omychund v. Barker, (1744) 26 Eng. Rep. 15 (Ch.) 30; 1 Atk. 21, 44 (Lord Willes, 
+C.J.). 
+81  Id. at 31; 1 Atk. at 45. 
+82   Id. In a later report of the Omychund decision, supposedly based on Willes’s 
+original manuscripts, Willes was reported to have said that a person may be admitted if he 
+“believes a God and that he will reward and punish him in this world, but does not believe 
+a future state . . . .” Omichund v. Barker, (1744) Willes 538 (Ch.) 550 (Lord Willes C.J.). 
+83   35 THE WRITINGS OF GEORGE WASHINGTON 229 (John C. Fitzpatrick ed., 1940). 
+84   Matthew 5:34 (King James). 
+85   E.g., Bryan’s Case, 1 D.C. (1 Cranch) 151, 151 (C.C. 1804) (holding a juror, who 
+was  a  member  of  the  Methodist  denomination,  in  contempt  for  refusing  to  swear); 
+M’Intire’s Case, 1 D.C. (1 Cranch) 157, 157 (C.C. 1803) (holding a juror in contempt for 
+refusing to swear). 
+86   See Bryan’s Case, 1 D.C. (1 Cranch) at 151.  2012]  RELIGIOUS NEUTRALITY IN THE EARLY REPUBLIC  329 
+governments passed laws allowing affirmations instead of oaths from 
+Quakers and members of other sects known to have religious scruples.87 
+According to Connecticut Supreme Court Justice Zephaniah Swift, 
+There  is  no  appeal  to  God  in  an  affirmation.  It  is  merely  a 
+declaration that the affirmant will speak the truth, upon the pains 
+and penalties of perjury: yet, there is no question but that Quakers 
+pay  as  much  regard  to  the  truth  under  an  affirmation,  as  other 
+denominations of christians under an oath, and are entitled to as 
+much credit.88 
+And in those states that did not authorize affirmations in lieu of oaths, 
+Quakers and other religious objectors received routine exemptions from 
+serving  as  jurors  or  witnesses.89  The  near  universality  of  these 
+exemptions shows that state laws were, at a minimum, consistent with 
+an individual liberty theory of religious freedom. 
+Oaths themselves, however, remained explicitly religious and were 
+therefore incongruous with a neutrality-based understanding of religious 
+freedom.  In  one  of  the  first  reported  challenges  to  the  common-law 
+incompetency rule, the Connecticut Supreme Court of Errors reaffirmed 
+the necessity of religious qualifications:  
+Every person who does not believe in the obligation of an oath, and a 
+future state of rewards and punishments, or any accountability after 
+death for his conduct, is by law excluded from being a witness; for to 
+such a person the law presumes no credit is to be given. Testimony is 
+not to be received from any person in a court of justice, but under the 
+sanction of an oath. It would therefore be idle to administer an oath to 
+a man who disregards its obligation. . . . [T]he fear of offending God 
+should have its influence upon a witness to induce him to speak the 
+truth. But no such influence can be expected from the man who 
+disregards an oath.90 
+                                                 
+87   See McConnell, Origins, supra note 18, at 1467–68. 
+88   ZEPHANIAH SWIFT, A DIGEST OF THE LAW OF EVIDENCE, IN CIVIL AND CRIMINAL 
+CASES 51 (photo. reprint 1972) (1810). 
+89   See, e.g., Commonwealth v. Smith, 9 Mass. (8 Tyng) 107, 110 (1812) (“Before the 
+recent statute . . . Quakers, and persons scrupulous of taking judicial oaths, were either 
+exempted or excused from serving on the grand jury . . . .”); see also Philips v. Gratz, 2 Pen. 
+&  W.  412,  416  (Pa.  1831)  (“The  religious  scruples  of  persons  concerned  with  the 
+administration of justice will receive all the indulgence that is compatible with the 
+business of government; and had circumstances permitted it, this cause would not have 
+been ordered for trial on the Jewish Sabbath.”); Guardians of the Poor v. Greene, 5 Binn. 
+554, 562 (Pa. 1813) (“[P]ublic ministers of all denominations returned as jurors, have 
+uniformly been excused by the Court on their application.”); State v. Willson, 13 S.C.L. (2 
+McCord) 393, 396 (1823) (mentioning “certain instances of individuals being excused” from 
+jury duty because of conscientious scruples). 
+90   Curtiss v. Strong, 4 Day 51, 55–56 (Conn. 1809); see also State v. Cooper, 2 Tenn. 
+(2 Overt.) 96, 96 (1807) (Campbell, J.) (finding that “no man who did not believe in a future 
+state of existence, rewards and punishments, could be a witness”); Important Judicial 
+Decision, 1 AM. MONTHLY MAG. & CRITICAL REV. 64, 65 (1817) (reporting that Chief Justice 330   REGENT UNIVERSITY LAW REVIEW  [Vol. 24:311 
+Witness competency rules were not meant as a form of punishment for 
+those who disbelieved in God or future punishment. Nevertheless, the 
+common-law  incompetency  rule  explicitly  discriminated  between 
+individuals on the basis of religious belief.91 
+In Jackson, ex dem. Tuttle v. Gridley, the highest appellate court in 
+New  York  heard  a  novel  challenge  to  the  common-law  oath 
+requirements.92 A trial judge advised the jury to disregard an avowed 
+atheist’s testimony because the atheist purportedly lacked the beliefs 
+necessary to feel bound by an oath.93 On appeal, the party offering the 
+witness’s testimony argued that the State’s constitutional guarantee of 
+religious  freedom  had  abrogated  common-law  exclusions  based  on 
+religious belief.94 Chief Justice Ambrose Spencer replied, 
+  Religion is a subject on which every man has a right to think 
+according to the dictates of his understanding. It is a solemn concern 
+between his conscience and his God, with which no human tribunal 
+has a right to meddle. But in the development of facts, and the 
+ascertainment of truth, human tribunals have a right to interfere. 
+They are bound to see that no man’s rights are impaired or taken 
+away, but through the medium of testimony entitled to belief; and no 
+testimony is entitled to credit, unless delivered under the solemnity of 
+an oath, which comes home to the conscience of the witness, and will 
+create a tie arising from his belief that false swearing would expose 
+him to punishment in the life to come. On this great principle rest all 
+our institutions, and especially the distribution of justice between man 
+and man.95 
+At  first  glance,  Spencer  seems  to  have  articulated  a  compelling 
+governmental interest for discriminating on the basis of religious belief. 
+Indeed, protection of other rights was a well-accepted justification for 
+allowing  infringements  upon  religious  liberty.96  On  a  closer  reading, 
+though, Spencer seems mostly concerned with the act of investigating a 
+witness’s religious views, not with any subsequent discrimination on the 
+basis  of  those  views.97  According  to  Spencer,  religious  beliefs  are  a 
+                                                                                                                  
+John Louis Taylor of North Carolina had recently excluded a witness who professed 
+disbelief in “either a heaven or a hell”). 
+91   Accord Bradley, supra note 19, at 274–75. 
+92  Jackson, ex dem. Tuttle v. Gridley, 18 Johns. 98, 106 (N.Y. Sup. Ct. 1820). 
+93  Amos Gridley, the contested witness, had allegedly denied belief in God, though 
+he stated shortly before the trial that “he had formerly embraced the principles of the 
+Universalists, and rather believed it was right.” Id. at 99. 
+94   Id. at 101, 103. 
+95   Id. at 106. 
+96   See  supra  notes  42–45  and  accompanying  text;  McConnell,  Freedom  from 
+Persecution, supra note 20, at 845–46. 
+97   Gridley, 18 Johns. at 104 (“[T]he most religious witness may be scandalized by 
+the imputation which the very question implies.”). 2012]  RELIGIOUS NEUTRALITY IN THE EARLY REPUBLIC  331 
+“solemn  concern  between  [a  man’s]  conscience  and  his  God.”98  Yet 
+government had a right to “meddle” or “interfere” with religious privacy 
+when there was sufficient doubt about a person’s religious fitness to 
+testify in court.99 In other words, Spencer’s focus was on the rights of the 
+individual, not a fear of governmental discrimination. Indeed, when a 
+prospective  witness’s  religious  qualifications  were  in  doubt,  the 
+prevailing method of ascertaining those beliefs was hearsay evidence 
+rather  than  direct  questioning  because  the  latter  was  thought  to 
+interfere with a person’s freedom of conscience.100 As Judge Swift wrote 
+in  his  widely  distributed  evidence  treatise,  “A  man’s  opinions  are 
+matters between himself and his God, so long as he does not disclose 
+them, and it is wholly inconsistent with the rights of conscience, to 
+compel him to do it.”101 
+Although some courts allowed testimony from witnesses who did not 
+believe  in  future  punishment,102  courts  generally  rejected  arguments 
+based  on  religious  liberty.  In  Atwood  v.  Welton,  for  example,  the 
+Connecticut  Supreme  Court  reexamined  its  holding  from  Curtiss  v. 
+Strong,103 which affirmed the common-law incompetency rule.104 This 
+time,  however,  an  attorney  raised  a  constitutional  objection  to  the 
+process of excluding witnesses based on their religious beliefs.105 The 
+court acknowledged that “a man ought not to be [directly] questioned 
+respecting his religious opinions,” but it upheld the constitutionality of 
+testimonial exclusions when hearsay evidence proved that a prospective 
+witness did not believe in God or future rewards and punishments.106 
+The court declared,  
+The plain meaning of these [constitutional] provisions, is to secure an 
+entire  freedom  in  religious  profession  and  worship  and  an  entire 
+exclusion by law of any preference to any sect or mode of worship. No 
+man shall be prohibited from professing what religion he pleases, or 
+                                                 
+98  Id. at 106. 
+99   Id. 
+100  See SWIFT, supra note 88, at 18.  
+101  Id. 
+102  These courts usually did not articulate reasons why such witnesses should be 
+admitted contrary to the common-law rule. See, e.g., Hunscom v. Hunscom, 15 Mass. (14 
+Tyng) 184, 184 (1818) (allowing a witness who “professed disbelief of a future state of 
+existence” to be sworn in); cf. Noble v. People, 1 Ill. (Breese) 54, 55–56 (1822) (admitting 
+witness who did not believe in future punishments but believed in God and a future state). 
+Some courts based their decisions on different understandings of the common law rather 
+than constitutional arguments about religious liberty. See, e.g., People v. Matteson, 2 Cow. 
+433, 434–35 (N.Y. Oyer & Terminer 1824). 
+103  Curtiss v. Strong, 4 Day 51, 55–56 (Conn. 1809). 
+104  Atwood v. Welton, 7 Day 66, 82 (Conn. 1828). 
+105  Id. at 68, 77. 
+106  Id. at 73–74. 332   REGENT UNIVERSITY LAW REVIEW  [Vol. 24:311 
+worshipping in any manner he pleases; nor shall there be any religious 
+establishment, or approximation towards it, by any law giving any 
+preference to any sect or mode of worship.107   
+“But,”  the  court  asked  rhetorically,  “cannot  a  person  be  free  in  his 
+profession and worship, who is excluded from giving testimony, on the 
+ground of his denial of all liability to future punishment? How does his 
+exclusion affect his belief, profession or mode of worship? It has no 
+possible  bearing  on  either.”108  In  other  words,  religious  freedom  is 
+infringed upon only if a law “affects” a person’s “belief, profession, or 
+mode of worship,” not when a law discriminates between individuals on 
+the basis of their religious beliefs. 
+Excluding witnesses because of disqualifying religious beliefs was 
+widespread and well-accepted at the founding, but by the late 1820s, it 
+was becoming increasingly disfavored. In 1827, a chancery decision in 
+South Carolina articulated the emerging neutrality-based argument for 
+overturning the common-law rule.109 The case involved the competency of 
+a witness who denied the possibility of divine punishment after death.110 
+Counsel in support of the witness argued that excluding him would 
+contravene South Carolina’s free exercise clause.111 Opposing counsel 
+responded, “[T]he inquiry into [the witness’s] religious opinions did not 
+contravene  .  .  .  the  Constitution  [because]  he  might  still  enjoy  his 
+religious  profession,  and  worship  notwithstanding  such  exclusion, 
+and . . . the exclusion would merely operate on his civil and not his 
+religious rights.”112   
+In  deciding  the  case,  Chancellor  Henry  William  DeSaussure 
+interpreted the common law as allowing the witness to testify.113 In 
+addition, DeSaussure expounded upon his understanding that the state 
+constitution  prohibited  the  government  from  placing  religious 
+restrictions on an individual’s enjoyment of civil rights: 
+If a man’s religious opinions are made a ground to exclude him from 
+the enjoyment of civil rights, then he does not enjoy the freedom of his 
+religious profession and worship. His exclusion from being a witness in 
+Courts of Justice is a serious injury to him; it is also degrading to him 
+and others who think with him. If men may be excluded for their 
+religious opinions, from being witnesses, they may be excluded from 
+being  Jurors  or  Judges;  and  the  Legislature  might  enact  a  law 
+excluding such persons from holding any other office, or serving in the 
+Legislature, or becoming teachers of schools, or professors of colleges. 
+                                                 
+107  Id. at 77. 
+108  Id. at 78. 
+109  Farnandis v. Henderson, 1 CAROLINA L.J. 202 (1831) (S.C. Ch. Ct. 1827). 
+110  Id. at 202–03.  
+111  Id. at 211. 
+112  Id. at 212. 
+113  Id. at 210–11. 2012]  RELIGIOUS NEUTRALITY IN THE EARLY REPUBLIC  333 
+In my judgment this would be in the very teeth of the Constitution, 
+and would violate the spirit of all our institutions. . . . It would seem to 
+me to be a mockery to say to men, you may enjoy the freedom of your 
+religious professions and worship; but if you differ from us in certain 
+dogmas and points of belief, you shall be disqualified and deprived of 
+the rights of a citizen, to which you would be entitled but for those 
+differences of religious opinion.114 
+DeSaussure’s eloquent decision was at the vanguard of a neutrality-
+based view of religious liberty and expresses a view similar to modern 
+unconstitutional-conditions doctrine.115 His opinion illustrates a growing 
+yet still contested notion that the government should not discriminate on 
+the basis of religious belief.116 Religious freedom, however, remained first 
+and foremost an individual liberty concern.117 The concept of religious 
+liberty  was  gradually  expanding  beyond—but  not  yet  displacing—its 
+individual liberty core.  
+B. Religious Tests 
+In  addition  to  imposing  religious  requirements  for  testifying  in 
+court, several states also placed religious tests for officeholders into their 
+constitutions.118  Debates  over  these  provisions  often  paralleled  the 
+                                                 
+114  Id. at 212. 
+115  The connection between a constitutional requirement of neutrality and the 
+unconstitutional-conditions doctrine is well-recognized in existing scholarship. See, e.g., 
+Kathleen M. Sullivan, Unconstitutional Conditions, 102 HARV. L. REV. 1413, 1490 (1989) 
+(“[A]n unconstitutional condition can skew the distribution of constitutional rights among 
+rightholders because it necessarily discriminates facially between those who do and those 
+who do not comply with the condition. If government has an obligation of evenhandedness 
+or neutrality with regard to a right, this sort of redistribution is inappropriate.”); Cass R. 
+Sunstein,  Why  the  Unconstitutional  Conditions  Doctrine  Is  an  Anachronism  (with 
+Particular Reference to Religion, Speech, and Abortion), 70 B.U. L. REV. 593, 616 (1990) (“If 
+the relevant constitutional provision requires neutrality, consideration of conscientious 
+objections is probably illegitimate and, in any case, insufficiently weighty to justify 
+selective decisionmaking. A decision to fund Christian but not Jewish art, or paintings 
+favorable to Republicans, would be plainly unconstitutional.”). 
+116  The next reported decision that cited constitutional grounds for overturning 
+common-law exclusions came almost twenty years later in Perry v. Commonwealth, 44 Va. 
+(3 Gratt.) 645, 654–55 (1846) (stating that Virginia’s Bill of Rights abrogated the common-
+law exclusion rule). Judges could also use other arguments to allow religious groups like 
+Universalists to testify, and many legislatures took steps to ensure that courts did not 
+discriminate on religious grounds. See Ronald P. Formisano & Stephen Pickering, The 
+Christian Nation Debate and Witness Competency, 29 J. EARLY REPUBLIC 219, 227, 232–33 
+(2009); Thomas Raeburn White, Oaths in Judicial Proceedings and Their Effect upon the 
+Competency of Witnesses, 51 AM. L. REG. 373, 392–93 & n.39 (1903). 
+117  See McConnell, Origins, supra note 18, at 1446. 
+118  The five states with test oath provisions in their constitutions in 1789 were 
+Delaware, Maryland, Massachusetts, North Carolina, and Pennsylvania. DEL. CONST. OF 
+1776, art. XXII, reprinted in 1 THE FEDERAL AND STATE CONSTITUTIONS, supra note 35, at 
+562,  566;  MD.  CONST.  of  1776,  art.  LV,  reprinted  in  3  THE  FEDERAL  AND  STATE 
+CONSTITUTIONS, supra note 35, at 1686, 1700; MASS. CONST. pt. 2, ch. VI, art. I, reprinted 334   REGENT UNIVERSITY LAW REVIEW  [Vol. 24:311 
+arguments made in the context of witness exclusions. Contemporaries 
+occasionally understood these provisions as infringements on the rights 
+of  conscience.119  Generally,  however,  public  comments  reflected  an 
+emphasis on individual liberty rather than governmental neutrality. 
+In arguing that test oaths violated the rights of conscience, some 
+people  framed  their  critiques  in  terms  of  individual  liberty.  Jewish 
+leader Jonas Phillips, for example, pleaded in a petition to the 1787 
+Philadelphia Convention that “to swear and believe [in certain Christian 
+tenets] is absolutly [sic] against the religious principle of a Jew[] and [it] 
+is  against  his  Conscience  to  take  any  such  oath.”120  Constitutional 
+Framer  and  future  Supreme  Court  Chief  Justice  Oliver  Ellsworth 
+articulated his opposition to test oaths in slightly different terms: 
+[T]he  sole  purpose  and  effect  of  [the  Federal  Constitution’s  No 
+Religious Test Oath Clause] is to exclude persecution, and to secure to 
+[the people] the important right of religious liberty. We are almost the 
+only people in the world, who have a full enjoyment of this important 
+right of human nature. In our country every man has a right to 
+worship  God  in  that  way  which  is  most  agreeable  to  his  own 
+conscience. If he be a good and peaceable citizen, he is liable to no 
+penalties or incapacities on account of his religious sentiments; or in 
+other words, he is not subject to persecution.  
+. . . . 
+. . . A test-law is the parent of hypocrisy, and the offspring of error 
+and the spirit of persecution. Legislatures have no right to set up an 
+inquisition, and examine into the private opinions of men.121  
+In this passage, Ellsworth advocates for governmental neutrality, but he 
+frames this argument in terms of individual liberty, not in terms of a 
+right to equal treatment. According to Ellsworth, excluding people from 
+the legislature was a type of “penalty or incapacity,” thus punishing 
+particular religious convictions.122 Moreover, like Judge Spencer later 
+recognized in Jackson, ex dem. Tuttle v. Gridley, Ellsworth thought test 
+                                                                                                                  
+in 3 THE FEDERAL AND STATE CONSTITUTIONS, supra note 35, at 1888, 1908; N.C. CONST. of 
+1776, art. XXXII, reprinted in 5 THE FEDERAL AND STATE CONSTITUTIONS, supra note 35, at 
+2787,  2793;  PA.  CONST.  of  1776,  §  10,  reprinted  in  5  THE  FEDERAL  AND  STATE 
+CONSTITUTIONS, supra note 35, at 3081, 3085. The Federal Constitution bans federal test 
+oaths. U.S. CONST. art. VI (“[N]o religious Test shall ever be required as a Qualification to 
+any Office or public Trust under the United States.”). 
+119  See, e.g., Letter from Jonas Phillips to President and Members of the Convention 
+(Sept. 7, 1787), in 4 THE FOUNDERS’ CONSTITUTION 638 (Philip B. Kurland & Ralph Lerner 
+eds., 2000).  
+120  Id. 
+121  Oliver Ellsworth, “A Landholder” VII, CONN. COURANT, Dec. 17, 1787, reprinted 
+in  THE DEBATE ON THE  CONSTITUTION: FEDERALIST AND  ANTIFEDERALIST  SPEECHES, 
+ARTICLES, AND LETTERS DURING THE STRUGGLE OVER RATIFICATION 521, 522, 525 (Bernard 
+Bailyn ed., 1993).  
+122  See id. at 522–23. 2012]  RELIGIOUS NEUTRALITY IN THE EARLY REPUBLIC  335 
+oaths constituted a governmental inquisition into religious beliefs and 
+therefore interfered with the individual right of conscience.123 
+Discussions at the 1820 Massachusetts Constitutional Convention 
+illustrate the arguments made in support of religious tests. At that time, 
+Massachusetts still had various non-neutral laws. The state collected 
+special religious taxes to support local pastors,124 and it required many 
+state  officeholders  to  swear  the  following:  “I  believe  the  Christian 
+religion, and have a firm persuasion of its truth . . . .”125 As the delegates 
+congregated  in  1820,  some  wanted  the  convention  to  reconsider  the 
+religious test oath required of all public officials.126 In pursuit of this 
+goal, reformers such as James Prince often invoked religious freedom. In 
+one of the most detailed attacks on religious tests, Prince explained, 
+There are . . . two distinct rights belonging to man—UNALIENABLE and 
+NATURAL—among those of the first class are the rights of conscience in 
+all matters of religion. . . . [A]s man owes supreme allegiance to God, 
+as the Creator, and as the undivided governor of the universe, he 
+cannot absolve himself, nor can others absolve him from this supreme 
+allegiance; and hence, on entering into a social compact, the rights he 
+gives up, and the powers he delegates must be tributary to, and in 
+subordination to this high and first allegiance . . . .127 
+Because  religious  duties  are  supreme,  and  because  governmental 
+authority is subordinate to those duties, Prince then concluded that “on 
+entering into the social compact, every man has a right to enter on equal 
+terms; but, if the consciences of men are in any wise shackled by forms or 
+qualifications, this would not be the case.”128 Therefore, according to 
+Prince, inequality in the treatment of different religions violates the 
+basic terms of the social contract. Notably, Prince was not opposing an 
+individual  liberty  view  of  religious  freedom.  Instead,  much  like 
+Ellsworth, he explicitly used an individual liberty framework to justify 
+governmental neutrality. According to Prince, the government could not 
+                                                 
+123  Jackson, ex dem. Tuttle v. Gridley, 18 Johns. 98, 106 (N.Y. Sup. Ct. 1820); 
+Ellsworth, supra note 121, at 525; cf. Note, An Originalist Analysis of the No Religious Test 
+Clause, 120 HARV. L. REV. 1649, 1658 (2007) (arguing that the No Religious Test Oath 
+Clause prohibits only test oaths not religious qualifications for office). While plausible (and 
+supportive of the thesis of this Article), this latter argument probably takes the text of the 
+Clause too literally.   
+124  See infra Part III.D. 
+125  MASS. CONST. pt. 2, ch. VI, art. I, repealed by MASS. CONST. amend. art. VII, 
+reprinted in 3 THE FEDERAL AND STATE CONSTITUTIONS, supra note 35, at 1888, 1908. 
+126  BOSTON DAILY ADVERTISER, JOURNAL OF DEBATES AND PROCEEDINGS IN THE 
+CONVENTION OF DELEGATES CHOSEN TO REVISE THE CONSTITUTION OF MASSACHUSETTS 83 
+(1821). 
+127  Id. at 84. 
+128  Id. at 85 (internal quotation marks omitted). 336   REGENT UNIVERSITY LAW REVIEW  [Vol. 24:311 
+place conditions on the exercise of political privileges because doing so 
+would “shackle” or punish minority religious beliefs.129   
+Delegates in the Massachusetts convention universally agreed that 
+religious freedom was an unalienable right, yet most speakers rejected 
+Prince’s conclusion about test oaths. In a lengthy floor speech, future 
+Senator Daniel Webster stated that “[n]othing is more unfounded than 
+the notion that any man has a right to an office. . . . This qualification 
+has nothing to do with any man’s conscience. If he dislikes the condition, 
+he may decline the office . . . .”130 Many delegates opposed religious tests 
+for policy reasons but denied that test oaths interfered with freedom of 
+conscience.131 Massachusetts Supreme Judicial Court Justice Samuel S. 
+Wilde, for instance, argued against the propriety of religious tests but 
+noted that they “d[o] not interfere with the rights of conscience.—No 
+person has any conscience about becoming a Legislator. He is not obliged 
+to accept of office, and he has no right to claim it.”132  
+Webster and Wilde made two points in these speeches. First, an 
+opportunity to become a public official was not a right of citizenship, and 
+therefore,  test  oaths  did  not  infringe  upon  political  or  civil  rights. 
+Second, Webster and Wilde explained that no individual has a religious 
+duty to serve in public office. Thus, because the law did not interfere 
+with anyone’s religious duties, it also did not interfere with the right of 
+conscience. The obvious assumption in Webster’s and Wilde’s remarks is 
+that a law can infringe upon religious freedom only if it interferes with 
+an individual’s worship or conscience. 
+In the end, the delegates decided by a vote of 242 to 176 to omit 
+religious  tests  for  office.133  While  this  vote  reflects  a  trend  toward 
+separating governmental and religious concerns, the preceding debates 
+illustrate  the  priorities  implicit  in  the  delegates’  understandings  of 
+religious freedom. The prevailing view seems to have been that religious 
+                                                 
+129  See id. at 85–86. 
+130  Id. at 83–84; see also id. at 88 (remarks of Samuel Hubbard) (“The right to be 
+elected to office was not an unalienable right. It affected neither a man’s life, liberty nor 
+conscience.”). 
+131  See, e.g., id. at 91 (remarks of Thomas Baldwin) (arguing that tests did not 
+violate religious freedom but were nonetheless dubious on policy grounds); id. at 93 
+(remarks of Lovell Walker) (“Admitting that we have the right to demand [religious 
+tests]—he doubted the expediency of it.”). Samuel A. Welles agreed that a religious test 
+oath  was  unwise  as  a  policy  matter,  but  he  observed  that  the  religious  neutrality 
+proponents were not being internally consistent: 
+[F]or if it be an interference in the right of conscience, to require that persons 
+who may be chosen by the people to certain offices, shall swear to their belief in 
+the christian religion, it must also be an interference in the right of conscience, 
+to require that they shall swear by the name of God himself . . . . 
+Id. at 89. 
+132  Id. at 90. 
+133  Id. at 94. 2012]  RELIGIOUS NEUTRALITY IN THE EARLY REPUBLIC  337 
+tests did not infringe upon the individual right of conscience; therefore, 
+such  tests  should  be  considered  in  terms  of  their  practicality,  not 
+whether they interfered with unalienable rights. The delegates were not 
+debating  exemptions,134  but  their  arguments  seem  to  endorse  the 
+individual liberty theory of religious freedom.  
+C. Blasphemy Prosecutions 
+Blasphemy—or  “open  and  malicious  .  .  .  reviling  of  God  or 
+Scripture”—was punishable at common law as a breach of the peace.135 
+As one judge wrote in 1838, the crime of blasphemy was “not intended to 
+prevent or restrain the formation of any opinions or the profession of any 
+religious sentiments whatever, but to restrain and punish acts which 
+have a tendency to disturb the public peace.”136 Defendants in several 
+nineteenth-century  blasphemy  cases,  however,  argued  that 
+constitutionally  guaranteed  religious  liberty  protected  their  religious 
+expressions—even when blasphemous.137 The constitutional arguments 
+in these cases were slightly different than those involved in oath cases. 
+First, unlike an exclusion from legislative service, those convicted of 
+blasphemy  suffered  criminal  punishment.  Moreover,  test  oaths  and 
+testimonial  exclusions  focused  on  an  individual’s  underlying  beliefs, 
+whereas  blasphemy  prosecutions  were  based  on  an  overt  act. 
+Nonetheless, similar religious freedom arguments appear in blasphemy 
+cases. The responses to these arguments yet again reveal a marked 
+                                                 
+134  Interestingly, a few delegates did oppose religious tests because occasionally 
+religious tests did interfere with conscience. Daniel Webster, for instance, stated,  
+It has been said that there are many very devout and serious persons—persons 
+who esteem the Christian religion to be above all price—to whom, nevertheless, 
+the terms of this declaration seem somewhat too strong and intense. They 
+seem, to these persons, to require the declaration of that faith which is deemed 
+essential to personal salvation . . . . There may, however, and there appears to 
+be, conscience in this objection; and all conscience ought to be respected. I was 
+not aware, before I attended the discussions in the committee, of the extent to 
+which this objection prevailed. 
+Id. at 84. Josiah Hussey noted that Quakers could not swear to oaths and were therefore 
+excluded as legislators. Therefore, he proposed allowing “any other person who cannot by 
+the principles of his religious faith take an oath” to still serve as a representative. Id. at 86 
+(internal  quotation  marks  omitted).  These  points  typically  came  without  further 
+discussion, and therefore it is unclear how widely other delegates shared these sentiments.   
+135  See Sarah Barringer Gordon, Blasphemy and the Law of Religious Liberty in 
+Nineteenth-Century America, 52 AM. Q. 682, 694 (2000); cf. LEONARD W. LEVY, BLASPHEMY: 
+VERBAL OFFENSE AGAINST THE SACRED, FROM MOSES TO SALMAN RUSHDIE 401–23 (1993) 
+(discussing early blasphemy cases). 
+136  Commonwealth v. Kneeland, 37 Mass. (20 Pick.) 206, 221 (1838). 
+137  See, e.g., Kneeland, 37 Mass. (20 Pick.) at 217, 219–20; People v. Ruggles, 8 
+Johns. 290, 291–92 (N.Y. Sup. Ct. 1811); Updegraph v. Commonwealth, 11 Serg. & Rawle 
+394, 395 (Pa. 1824). 338   REGENT UNIVERSITY LAW REVIEW  [Vol. 24:311 
+preference  for  an  individual  liberty  conception  of  religious  freedom 
+rather than one based on governmental neutrality. 
+The most famous nineteenth-century blasphemy case was an 1811 
+appeal of the conviction of John Ruggles, who allegedly had shouted in 
+public that Jesus Christ was the illegitimate child of a promiscuous 
+mother.138 Ruggles was convicted but appealed, arguing in part that New 
+York’s constitutional guarantee of religious freedom had abrogated the 
+common-law  crime  of  blasphemy.139  Ruggles  never  alleged  that  his 
+religious  beliefs  compelled  him  to  attack  the  prevailing  Christian 
+understanding  of  Jesus’  virgin  birth.  Rather,  he  argued  that  the 
+dissolution  of  an  established  church  removed  any  state  interest  or 
+authority in mediating religious arguments.140 
+Chief Justice James Kent delivered the opinion of the court: “The 
+free,  equal,  and  undisturbed  enjoyment  of  religious  opinion  .  .  .  is 
+granted and secured; but to revile, with malicious and blasphemous 
+contempt, the religion professed by almost the whole community, is an 
+abuse of that right.”141 Later in the opinion he added, 
+[The  state  constitution’s  religious  freedom  provision]  (noble  and 
+magnanimous  as  it  is,  when  duly  understood)  never  meant  to 
+withdraw religion in general, and with it the best sanctions of moral 
+and social obligation, from all consideration and notice of the law. It 
+will be fully satisfied by a free and universal toleration, without any of 
+the  tests,  disabilities,  or  discriminations,  incident  to  a  religious 
+establishment.142   
+Further clarifying the constitutionality of uneven treatment for various 
+religious  groups,  Kent  acknowledged  that  the  crime  of  blasphemy 
+applied only to anti-Christian remarks.143 Yet he dismissed Ruggles’s 
+insistence that the guarantee of free exercise “without preference or 
+discrimination”  meant  that  the  state  had  to  treat  all  inflammatory 
+religious critiques equally: 
+Nor are we bound, by any expressions in the constitution, as some 
+have strangely supposed, either not to punish at all, or to punish 
+indiscriminately the like attacks upon the religion of Mahomet or of 
+the grand Lama . . . . [I]mputation of malice could not be inferred from 
+any invectives upon superstitions equally false and unknown.144 
+According to Kent, Christianity was the religion of the people, and the 
+state  could  therefore  punish  malicious  attacks  against  it.145 
+                                                 
+138  Ruggles, 8 Johns. at 290–91. 
+139  Id. at 291–92.  
+140  See id. 
+141  Id. at 292, 295. 
+142  Id. at 296. 
+143  See id. at 295.  
+144  Id. 
+145  Id. 2012]  RELIGIOUS NEUTRALITY IN THE EARLY REPUBLIC  339 
+Constitutionally guaranteed religious freedom did not necessarily mean 
+that all attacks on religion had to be treated equally.146 
+Other courts offered similar rationales for punishing blasphemy in 
+spite  of  religious  freedom  clauses.  “While  our  own  free  constitution 
+secures liberty of conscience and freedom of religious worship to all,” the 
+Supreme Court of Pennsylvania held in Updegraph v. Commonwealth, 
+“it is not necessary to maintain that any man should have the right 
+publicly to vilify the religion of his neighbours and of the country. These 
+two privileges are directly opposed.”147 Indeed, the court was careful to 
+point out that blasphemy prosecutions did not punish individuals for 
+their religious beliefs or practices. Writing for the court, Justice Duncan 
+stated, “I do not think [blasphemy prosecutions] will be an invasion of 
+any man’s right of private judgment, or of the most extended privilege of 
+propagating his sentiments with regard to religion, in the manner which 
+he  thinks  most  conclusive.”148  In  short,  the  statements  at  issue  in 
+Updegraph  were  not  a  form  of  religious  practice  and  therefore  fell 
+outside the bounds of constitutionally protected religious freedom.149 
+The Supreme Court of North Carolina’s decision in State v. Jasper 
+elaborates on the  Updegraph  court’s distinction  between liberty  and 
+license.150 The dispute arose when Henry Jasper attended a Baptist 
+worship service and began “talking and laughing in a loud voice, and by 
+then  and  there  making  divers  ridiculous  and  indecent  actions  and 
+grimaces.”151 Rather than being indicted for nuisance, trespass, or breach 
+of the peace, Jasper was charged and convicted for disturbing a religious 
+service.152 On appeal, the justices considered the validity of Jasper’s 
+conviction for a seemingly novel offense.153   
+In  upholding  Jasper’s  conviction,  the  decision  emphasized  the 
+importance  of  religious  freedom  under  the  state  constitution,  which 
+stated that “all persons shall be at liberty to exercise their own mode of 
+worship.”154 Writing for the court, Chief Justice Thomas Ruffin stated 
+that this “provision does not profess to confer this right. It is worded, so 
+as to show that it is acknowledged as pre-existing. The right is declared 
+                                                 
+146  Id. 
+147  11 Serg. & Rawle 394, 408 (Pa. 1824). 
+148  Id. at 409. 
+149  Id.  
+150  15 N.C. (4 Dev.) 323, 326–27 (1833). A short summary of this case also appears in 
+Bernadette Meyler, The Equal Protection of Free Exercise: Two Approaches and Their 
+History, 47 B.C. L. REV. 275, 308–09 (2006). 
+151  Jasper, 15 N.C. (4 Dev.) at 323. 
+152  Id. at 324. 
+153  Id. at 325. 
+154  N.C. CONST. of 1776, art. XXXIV, reprinted in 5 THE FEDERAL AND STATE 
+CONSTITUTIONS, supra note 35, at 2787, 2793.  340   REGENT UNIVERSITY LAW REVIEW  [Vol. 24:311 
+in the Bill of Rights to be a natural and unalienable right in all men.”155 
+Therefore, Ruffin declared, 
+The worship of God is not therein treated as indifferent, either in 
+reference to the welfare of individuals, or the common interest. On the 
+contrary, it is assumed to be a moral duty incumbent upon all men, 
+and their highest privilege, as intelligent and accountable beings; a 
+duty, that is best performed, both in honour to God, the comfort of 
+each man and the peace and order of society, when that natural 
+privilege is subjected to no legal restraints nor allowed to be disturbed 
+by any person, either with or without the pretence of authority.156 
+Thus, Jasper’s prosecution was not only constitutionally valid, but it 
+actually furthered specific constitutional objectives. “[R]eligion needs no 
+aid from the civil power,” Ruffin wrote.157 Instead, religion needed only 
+“the guaranty of its freedom from interruption, either by unjust laws or 
+lawless  force,  or  wantonness  of  individuals.  Against  the  former,  the 
+Constitution is an express warrant, and by a necessary construction 
+from that, as it seems to me, it equally forbids the latter.”158 
+The Jasper decision rests on the idea that the government has an 
+affirmative duty to protect private rights by allowing individuals to seek 
+redress in court when those rights are violated.159 In another religious 
+disturbance  case,  Chief  Judge  William  Cranch  of  the  United  States 
+Circuit Court for the District of Columbia explained,  
+The  principles  upon  which  the  disturbance  of  public  worship 
+becomes an offence at common law are these: Every man has a perfect 
+right to worship God in the manner most conformable to the dictates 
+of his conscience, and to assemble and unite with others in the same 
+act of worship, so that he does not interfere with the equal rights of 
+others. The common law protects this right, either by giving the party 
+his  private  action  for  damages  on  account  of  the  injury  he  has 
+sustained; or if the violation of the right be directly, or consequentially 
+injurious to society, by a public prosecution.160 
+                                                 
+155  Jasper, 15 N.C. (4 Dev.) at 324. 
+156  Id. 
+157  Id. at 326. 
+158  Id.  
+159  Accord Corfield v. Coryell, 6 F. Cas. 546, 551 (C.C.E.D. Pa. 1823) (listing 
+“[p]rotection by the government” among the “privileges and immunities of citizens in the 
+several states” (internal quotation marks omitted)). Individuals’ ability to seek redress in 
+court for the invasion of their rights was understood in the nineteenth century to be part of 
+their right to “protection of the laws.” See Christopher R. Green, The Original Sense of the 
+(Equal) Protection Clause: Pre-Enactment History, 19 GEO. MASON U. C.R. L.J. 1, 43–69 
+(2008) (listing nineteenth-century examples of the phrase “protection of the laws”); see also 
+Earl A. Maltz, The Concept of Equal Protection of the Laws—A Historical Inquiry, 22 SAN 
+DIEGO L. REV. 499, 499, 507–10, 522, 525 (1985) (linking the understanding of “protection 
+of the laws” with the adoption of the Equal Protection Clause). 
+160  United States v. Brooks, 24 F. Cas. 1244, 1245 (C.C.D.C. 1834). 2012]  RELIGIOUS NEUTRALITY IN THE EARLY REPUBLIC  341 
+In other words, because the right to religious freedom was individually 
+held, the government was not the only one who could interfere with free 
+exercise. Individuals also could violate that right, just as they could have 
+done in the state of nature. As the Delaware Supreme Court observed in 
+1839,  religious  disturbances  by  private  individuals  “violated  the 
+constitutional right of every [congregant] to the free exercise of religious 
+worship  without  molestation.”161  When  that  right  was  violated,  the 
+governmental duty to protect private rights justified prosecution of the 
+offenders.162 The logic of this argument may seem odd, but in nineteenth-
+century terms it made perfect sense because the unalienable right of free 
+exercise was a natural right, not a guarantee of governmental neutrality. 
+It would be easy to dismiss nineteenth-century blasphemy cases and 
+the  Jasper  decision  as  illegitimately  infused  with  a  parochial  pro-
+Christian bias. What this Article hopefully demonstrates, however, is 
+that regardless of any judicial predisposition to bend the law to advance 
+Christianity (or punish dissenters), the decisions were at least consistent 
+with prevailing views of religious freedom. The constitutional guarantee 
+of an equally protected right to religious freedom was not considered a 
+requirement that the government treat all religions equally. Rather, the 
+government  could  not  infringe  upon—and  sometimes  it  even  had  to 
+affirmatively protect—the right of individuals to worship God according 
+to their own consciences. 
+D. Religious Assessments 
+Blasphemy laws were not the only way that American states tried 
+to support religion. Although most newly independent states eliminated 
+any formal recognition of an established church,163 some states continued 
+to  levy  taxes,  often  called  religious  assessments,  for  the  support  of 
+ministers.164 Unlike religious tests for witnesses and legislators, these 
+laws did not withhold certain privileges on the basis of religious belief, 
+and generally all individuals had to pay the assessments regardless of 
+their religious views.165 Nonetheless, while the collection of assessment 
+taxes  was  neutral,  the  use  of  those  taxes  was  not.  Unless  the  law 
+provided an exemption, assessment taxes supported a minister from the 
+established  church,  or  a  minister  preferred  by  the  majority  of  local 
+                                                 
+161  State v. Townsend, 2 Del. (2 Harr.) 543, 547 (1839); see also Carl Zollmann, 
+Disturbance of Religious Meetings in the American Law, 49 AM. L. REV. 880, 880–81 (1915) 
+(containing more information about past laws protecting against private infringements on 
+free exercise). 
+162  Townsend, 2 Del. (2 Harr.) at 547. 
+163  Wilson, supra note 33, at 754. 
+164  Id.   
+165  Id.   342   REGENT UNIVERSITY LAW REVIEW  [Vol. 24:311 
+taxpayers.166  Thus,  religious  dissenters  often  vehemently  opposed 
+assessment laws and argued instead for governmental neutrality toward 
+religion. Perhaps not surprisingly, these dissenters frequently invoked 
+religious liberty.   
+Early nineteenth-century debates in Massachusetts illustrate the 
+arguments on both sides of the assessments controversy. Massachusetts 
+law provided that dissenters could designate their religious taxes for the 
+support of their own pastors.167 In 1810, the state’s Supreme Judicial 
+Court considered a case in which a minister from a minority sect known 
+as the Universalists claimed a right to public funds pursuant to that 
+statute.168  Universalists,  however,  were  only  beginning  to  view 
+themselves  as  a  distinct  sect  separate  from  their  Congregationalist 
+forbearers.169 More importantly, the legislature had not yet recognized 
+their incorporation, which was a precondition for receiving funds under 
+the  assessment  law.170  Undeterred  by  this  legislative  inaction,  the 
+Universalist minister argued that the court should broadly construe the 
+assessment law’s exemption provision: “[W]hen a man disapproves of 
+any religion, or of any supported doctrines of any religion,” the minister 
+argued, “to compel him by law to contribute money for public instruction 
+in  such  religion  or  doctrine,  is  an  infraction  of  his  liberty  of 
+conscience . . . .”171  
+The Supreme Judicial Court rejected the minister’s religious liberty 
+argument.172 Writing for the court, Chief Justice Theophilus Parsons 
+explained, 
+                                                 
+166  Id. at 756. 
+167  See An ACT providing for the public Worship of GOD, and other Purposes therein 
+mentioned, and for repealing the Laws heretofore made relating to this Subject (1800), in 3 
+THE PERPETUAL LAWS OF THE COMMONWEALTH OF MASSACHUSETTS 105, 106 (I. Thomas & 
+E.T. Andrews eds., 1801). The law provided, 
+That when any person taxed in any such tax or assessment voted to be raised 
+as aforesaid, for the purposes aforesaid, being at the time of voting or raising 
+any such tax or assessment of a different sect or denomination from that of the 
+corporation, body politic or religious society by which said tax was so assessed, 
+shall request, that the tax set against him or her, in the assessment made for 
+the purposes aforesaid, may be applied to the support of the public teacher of 
+his own religious sect or denomination; such person, procuring a certificate 
+signed by the public teacher on whose instruction he usually attends, and by 
+two other persons of the society of which he usually attends, and by two other 
+persons of the society of which he is a member (having been specially chosen a 
+committee to sign said certificate) . . . . 
+Id. at 106. 
+168  Barnes v. Inhabitants of the First Parish in Falmouth, 6 Mass. (6 Tyng) 401, 
+401–03 (1810). 
+169  Id. at 402. 
+170  Id. 
+171  Id. at 408. 
+172  Id. 2012]  RELIGIOUS NEUTRALITY IN THE EARLY REPUBLIC  343 
+When it is remembered that no man is compellable to attend on 
+any religious instruction, which he conscientiously disapproves, and 
+that  he  is  absolutely  protected  in  the  most  perfect  freedom  of 
+conscience in his religious opinions and worship, the first objection 
+seems to mistake a man’s conscience for his money, and to deny the 
+state a right of levying and of appropriating the money of the citizens, 
+at the will of the legislature, in which they all are represented.173 
+According to Parsons, “The great error lies in not distinguishing between 
+liberty of conscience in religious opinions and worship, and the right of 
+appropriating money by the state. The former is an unalienable right; 
+the latter is surrendered to the  state, as  the price of protection.”174 
+Religious dissenters may not wish to fund the propagation of majority 
+religious views, he remarked, but paying taxes does not infringe upon 
+their free exercise of religion.175 
+Assessment  debates  at  the  1820  Massachusetts  Constitutional 
+Convention  reflect  similar  understandings  of  religious  liberty.  In  a 
+lengthy discussion of religious freedom, most delegates strongly rejected 
+the notion that religious taxes infringed upon the rights of conscience.176 
+George  Blake’s  comment  exemplified  the  delegates’  frequent  retorts: 
+“The question was not a question of conscience, but of pounds shillings 
+and pence. There was no injunction in [the assessment law] to attend at 
+any particular place of public worship: every man might attend where he 
+pleased.”177  In  other  words,  liberty  of  conscience  is  unalienable,  but 
+governmental  power  to  distribute  taxes  in  favor  of  certain  religious 
+groups does not implicate that basic freedom. Dissenters objected to this 
+favoritism, but the assessment law left them free to practice their own 
+religion without interference. 
+E. The 1821 New York Convention 
+With a sizeable Catholic population178 and a thriving community of 
+religious  dissenters  in  the  western  part  of  the  state,179  New  York’s 
+history is full of debates about religious liberty. In 1811, for instance, 
+New  York’s  highest  court  upheld  the  blasphemy  conviction  of  John 
+                                                 
+173  Id. Parsons continued, “[I]f any individual can lawfully withhold his contribution, 
+because he dislikes the appropriation, the authority of the state to levy taxes would be 
+annihilated; and without money it would soon cease to have any authority.” Id. at 409. 
+174  Id.  
+175  Id. at 417–18. 
+176  BOSTON DAILY ADVERTISER, supra note 126, at 167.  
+177  Id. 
+178  See generally JASON K. DUNCAN, CITIZENS OR PAPISTS?: THE POLITICS OF ANTI-
+CATHOLICISM IN NEW YORK, 1685–1821, at xviii (2005). 
+179  See generally WHITNEY R. CROSS, THE BURNED-OVER DISTRICT: THE SOCIAL AND 
+INTELLECTUAL HISTORY OF ENTHUSIASTIC RELIGION IN WESTERN NEW YORK, 1800–1850, at 
+3–13 (photo. reprint 1981) (1950). 344   REGENT UNIVERSITY LAW REVIEW  [Vol. 24:311 
+Ruggles for disparaging Jesus’ virgin birth.180 Only nine years later, the 
+court again handed down a widely publicized case, this time affirming 
+the  state’s  authority  to  exclude  atheists  and  Universalists  from 
+testifying in court.181 In the intervening years, lower courts decided two 
+prominent cases addressing the right of individuals to receive religious 
+exemptions from common-law evidence rules.182 
+Early proponents of neutrality usually accepted the premise of the 
+individual liberty theory but interpreted that theory broadly so as to 
+incorporate neutrality principles. Oliver Ellsworth, for instance, argued 
+that individuals should not be required to divulge their religious beliefs, 
+and  therefore,  laws  relying  on  such  statements  were  per  se 
+unconstitutional.183  Debates  at  the  1821  New  York  Constitutional 
+Convention, however, demonstrate  that the  two theories of religious 
+freedom  occasionally  collided,  with  neutrality  advocates  wanting  to 
+displace rather than expand upon the individual liberty approach. In 
+particular, some neutrality proponents hinted that accommodations for 
+religious scruples constituted a religious preference inconsistent with the 
+equal right of free exercise. 
+Controversy in the 1821 Constitutional Convention first surfaced 
+over whether Quakers should receive exemptions from militia service 
+and, if so, whether they should have to pay an equivalent fee.184 State 
+legislator Erastus Root, the champion of the neutrality position, argued 
+against  accommodations  for  Quakers.  “The  consequence”  of  such 
+accommodations,  he  argued,  “is,  that  the  state  is  overrun  with 
+Quakers—both wet and  dry.”185 Instead, Root wanted to “amend the 
+constitution, as to bring them up to the work. He would place them all on 
+the same muster roll.”186 Root then took aim at the government’s lack of 
+religious  neutrality,  proposing  a  constitutional  guarantee  that  “[t]he 
+                                                 
+180  People v. Ruggles, 8 Johns. 290, 291, 298 (N.Y. Sup. Ct. 1811).  
+181  See Jackson, ex dem. Tuttle v. Gridley, 18 Johns. 98, 99–100, 106 (N.Y. Sup. Ct. 
+1820). 
+182  People v. Smith (N.Y. Oyer & Terminer 1817), reprinted in 1 AMERICAN STATE 
+TRIALS: A COLLECTION OF THE IMPORTANT AND INTERESTING CRIMINAL TRIALS WHICH HAVE 
+TAKEN PLACE IN THE UNITED STATES FROM THE BEGINNING OF OUR GOVERNMENT TO THE 
+PRESENT DAY 779, 784 (John D. Lawson ed., 1914) (rejecting a similar right of exemption 
+for Protestants because penance is not part of their religious practice); People v. Philips 
+(N.Y. Ct. Gen. Sess. 1813), reprinted in WILLIAM SAMPSON, THE CATHOLIC QUESTION IN 
+AMERICA 5, 9–10 (Edward Gillespy ed., 1813) (upholding the right of a Catholic priest to an 
+exemption from testifying about confessional statements); see also Walsh, supra note 18, at 
+39–40 (containing thorough discussions of these cases). 
+183  Ellsworth, supra note 121, at 522–23. 
+184  NATHANIEL H. CARTER ET AL., REPORTS OF THE PROCEEDINGS AND DEBATES OF 
+THE CONVENTION OF 1821, ASSEMBLED FOR THE PURPOSE OF AMENDING THE CONSTITUTION 
+OF THE STATE OF NEW YORK 462 (1821). 
+185  Id. 
+186  Id. 2012]  RELIGIOUS NEUTRALITY IN THE EARLY REPUBLIC  345 
+judiciary shall not declare any particular religion, to be the law of the 
+land; nor exclude any witness on account of his religious faith.”187 This 
+latter proposal attempted to repudiate the state supreme court’s recent 
+decisions in Ruggles and Gridley.188   
+Root’s proposals met a cool reception in the convention. Chancellor 
+James Kent replied that blasphemy was punishable  
+not  because  christianity  was  established  by  law,  but  because 
+christianity was in fact the religion of this country, the rule of our 
+faith and practice, and the basis of the public morals. . . . The court 
+never intended to interfere with any religious creeds or sects, or with 
+religious discussions.189   
+According to Chancellor Kent, “[t]he constitution had declared that there 
+was to be ‘no discrimination or preference in religious profession or 
+worship.’ But Christianity was, in fact, the religion of the people of this 
+state, and that fact was the principle of the decision.”190 Rufus King 
+agreed. “While all mankind are by our constitution tolerated, and free to 
+enjoy religious profession and worship within this state,” the senator and 
+former delegate at the Federal Constitutional Convention declared, “the 
+religious professions of the Pagan, the Mahomedan, and the Christian, 
+are not, in the eye of the law, of equal truth and excellence. . . . While the 
+constitution tolerates the religious professions and worship of all men, it 
+does more in behalf of the religion of the gospel.”191 In other words, all 
+were equally free to practice their own religions, but the government 
+could still treat religions differently so long as there was no interference 
+with religious beliefs and worship. 
+The delegates eventually voted by a margin of sixty-two to twenty-
+six in favor of a provision stating, “It shall not be declared or adjudged 
+that any particular religion is the law of the land.”192 Far from being a 
+victory for Root, however, many delegates viewed the amendment as 
+purely symbolic.193 Chancellor Kent voted for the measure, later noting 
+that “[i]t was perfectly harmless, and might be a security. No judge 
+would think of making any particular religion a part of the law of the 
+land.”194  For  Chancellor  Kent,  the  provision  guaranteed  non-
+                                                 
+187  Id. 
+188  See id. 
+189  Id. at 463. Chancellor Kent continued, “Such blasphemy was an outrage upon 
+public decorum, and if sanctioned by our tribunals would shock the moral sense of the 
+country, and degrade our character as a christian people.” Id. 
+190  Id. at 575. 
+191  Id. 
+192  Id. at 464.   
+193  Id. at 465. 
+194  Id. Chancellor Kent “repeated that if he were to decide to-morrow, in a case 
+similar to the one referred to . . . he should give such a decision as had been read in debate 
+yesterday.” Id. 346   REGENT UNIVERSITY LAW REVIEW  [Vol. 24:311 
+establishment  rather  than  strict  governmental  neutrality.  Root  then 
+reintroduced his proposal to allow witnesses to testify irrespective of 
+their religious faith.195 One delegate supported the motion, stating that 
+“we should be above such prejudices, and act on the broad principles of 
+liberty.”196 After several comments regarding the efficacy of oaths, the 
+delegates  voted  against  Root’s  proposal  by  a  vote  of  ninety-four  to 
+eight.197 
+Still stinging from defeat, Root returned several days later to his 
+fight  against  religious  exemptions  for  Quakers.198  The  delegates 
+primarily  wrangled  over  how  to  determine  whether  conscientious 
+objectors were sincere in their religious scruples. Responding to Root’s 
+argument  that  many  people  were  only  pretending  to  harbor 
+conscientious scruples, Judge Ambrose Spencer, author of the recent 
+testimonial-exclusion opinion in Gridley, stated that “we have reason to 
+think [Quakers are] very sincere. They abstain from the use of sugar and 
+molasses, and all other articles which are produced by the means of 
+slavery.”199 Judge Spencer continued, 
+These men are also abridged in the right of suffrage; by neglecting to 
+do military duty, many of them will lose the privilege of voting; and 
+there is not the least probability that men will turn Quakers merely to 
+get clear of military duty. This was a subject which might be safely left 
+to the legislature to determine; and it would certainly be much more 
+appropriate  for  that  body  to  decide  the  question,  than  for  this 
+Convention, under existing circumstances, to do it.200 
+Not everyone agreed with Judge Spencer’s optimistic appraisal.201 There 
+was broad consensus, however, that the rights of conscience should be 
+protected for genuine conscientious objectors.202 One delegate noted, 
+If scruples of conscience are ever acknowledged to be sincere, why 
+should they now be violated, and a whole religious sect be arraigned 
+for hypocrisy? Were they not as likely to be as honest and sincere in 
+their professions, as any other class of Christians; and should we act 
+upon the supposition that all religious professions were hypocritical 
+and false?203   
+After  a  colloquy  between  several  delegates  regarding  “the  rights  of 
+conscience,” the convention voted to exempt Quakers, although it also 
+                                                 
+195  Id.  
+196  Id. 
+197  Id. at 466. 
+198  Id. at 577–78. 
+199  Id. at 578. 
+200  Id. at 579. 
+201  Id.  
+202  Id.  
+203  Id. (comments of Mr. E. Williams). 2012]  RELIGIOUS NEUTRALITY IN THE EARLY REPUBLIC  347 
+provided for an equivalent to be levied “according to the expense, in time 
+and money, of an ordinary able-bodied militia-man.”204 
+CONCLUSION 
+New  York’s  elder  jurists,  including  Kent,  Spencer,  and  King, 
+prevailed over Root in their fight to maintain an individual liberty view 
+of religious freedom without simultaneously recognizing a broader right 
+against  governmental  classifications  based  on  religious  beliefs. 
+Meanwhile,  Root  and  his  supporters  never  explicitly  denounced  an 
+individual  liberty  conception  of  religious  freedom.  They  merely 
+questioned  the  sincerity  of  conscientious  objectors.  Yet  their 
+simultaneous attacks on testimonial exclusions, blasphemy prosecutions, 
+and  legislative  accommodations  exposed  the  priority  these  delegates 
+placed on governmental neutrality. In subsequent decades, neutrality 
+arguments became more prevalent and well-accepted.205 States gradually 
+removed  testimonial  exclusion  rules,  test  oaths,  and  religious 
+assessments.206 
+Although the Supreme Court has exalted neutrality as the core of 
+religious liberty, early nineteenth-century debates reveal that this focus 
+on neutrality has not always prevailed. In fact, by viewing religious 
+freedom  as an unalienable natural right rather than a government-
+created right, most early jurists and legislators understood religious 
+freedom primarily in terms of individual liberty. As neutrality cases 
+demonstrate, they considered infringements on religious practice to be a 
+necessary component of a free exercise claim. Governments routinely 
+classified individuals on the basis of religious belief, but these laws 
+withstood constitutional scrutiny because they did not directly interfere 
+with  religious  practices.  When  neutrality  proponents  attacked  these 
+classifications by invoking religious freedom, the usual response was a 
+terse reminder that the unalienable right of conscience did not remove 
+religion from the purview of legislative power.   
+To  be  sure,  states  also  recognized  nascent  principles  of 
+governmental neutrality. The federal and state establishment clauses, 
+for example, circumscribed governmental power over religion. The key 
+thing to keep in mind, though, is that while state establishment clauses 
+gradually  moved  further  toward  a  neutrality-based  view  of  proper 
+governmental powers, the unalienable right of free exercise continued to 
+                                                 
+204  Id. at 579–80 (internal quotation marks omitted). There is no recorded vote 
+regarding the exemption for Quakers. The vote was eighty-eight to twenty-eight in favor of 
+retaining a provision for militia service equivalents. Id. 
+205  For one story of this change, see Kurt T. Lash, The Second Adoption of the 
+Establishment Clause: The Rise of the Nonestablishment Principle, 27 ARIZ. ST. L.J. 1085, 
+1100–05 (1995). 
+206  Id. at 1117. 348   REGENT UNIVERSITY LAW REVIEW  [Vol. 24:311 
+protect individuals. As  John Witte writes,  “Where general laws and 
+policies did intrude on the religious scruples of an individual or group, 
+liberty of conscience demanded protection of religious minorities through 
+exemptions  from  such  laws  and  policies.  This  was  the  heart  of  the 
+meaning of religious toleration.”207 This did not, of course, mean that all 
+individuals became judges of their own causes with respect to religious 
+exemptions. Government still had to decide whether religious objections 
+were sincere and whether providing exemptions would disturb the peace. 
+At  its  core,  however,  religious  freedom  protected  the  unalienable, 
+individual right to worship God according to the dictates of conscience. 
+In 1978, the Supreme Court considered a challenge to Tennessee’s 
+prohibition  against  ministers  serving  as  legislators.208  The  Court 
+unanimously struck down the rule, which had existed in Tennessee’s 
+constitution  since  1796.209  Not  surprisingly,  nearly  all  the  justices 
+thought the prohibition violated the Free Exercise Clause because it 
+discriminated against religion.210 Yet, oddly enough, Justice Byron White 
+disagreed. The majority, he argued, “fails to explain in what way [the 
+plaintiff minister] has been deterred in the observance of his religious 
+beliefs. Certainly he has not felt compelled to abandon the ministry as a 
+result of the challenged statute, nor has he been required to disavow any 
+of  his  religious  beliefs.”211  For  that  reason,  Justice  White  was  “not 
+persuaded that the Tennessee statute in any way interferes with [the 
+minister’s] ability to exercise his religion as he desires,” and therefore 
+the provision did not offend the Free Exercise Clause.212 Instead, Justice 
+White would have overturned Tennessee’s ministerial exclusion as a 
+violation of the Equal Protection Clause.213 
+Justice White’s interpretation of the Free Exercise Clause embodies 
+an older understanding that has long since fallen out of favor. When 
+assessing religious freedom claims, courts no longer consider whether a 
+law  actually  interferes  with  an  individual’s  religious  beliefs  or 
+                                                 
+207  WITTE, supra note 33, at 44. Witte continues, “Whether such exemptions should 
+be accorded by the legislature or by the judiciary and whether they were per se a 
+constitutional right or simply a rule of equity—the principal bones of much scholarly 
+contention today—the eighteenth-century sources do not dispositively say.” Id. Similarly, 
+in this paper, I focus on the meaning of free exercise—not how the founding generation 
+anticipated that concept to become operational. 
+208  McDaniel v. Paty, 435 U.S. 618, 620 (1978) (plurality opinion). 
+209  Id. at 621, 629. 
+210  See id. at 629; id. at 630 (Brennan, J., concurring); id. at 642 (Stewart, J., 
+concurring). 
+211  Id. at 643–44 (White, J., concurring). 
+212  Id. at 644. 
+213  Id. at 646. 2012]  RELIGIOUS NEUTRALITY IN THE EARLY REPUBLIC  349 
+worship.214  Rather,  governmental  neutrality  has  taken  over  as  the 
+preeminent concern of the Free Exercise Clause. This neutrality-based 
+understanding of religious freedom is not inherently incompatible with 
+the individual liberty theory. Indeed, the comments of Oliver Ellsworth 
+and James Prince illustrate that neutrality itself originated, at least in 
+part, as an extension of individual liberty principles. In the years since, 
+however, Supreme Court jurisprudence has lost touch with this original 
+understanding. Perhaps not surprisingly, exalting neutrality as the core 
+value of religious freedom  has colored how we think about whether 
+religious exemptions fall within the purview of free exercise. From a 
+neutrality-centered  perspective,  the  idea  of  granting  religious 
+exemptions seems expansive or perhaps even radical.  
+Yet  the  founding  generation  did  not  operate  under  these 
+assumptions. Far from being radical, exemptions were standard practice 
+in  the  late  eighteenth  and  early  nineteenth  centuries.  Meanwhile, 
+governmental  neutrality  was  the  more  expansive  theory  of  religious 
+liberty  and  a  greater  threat  to  the  status  quo.  Prolific,  yet  largely 
+neglected, neutrality debates help clarify this original understanding of 
+free exercise as an unalienable right rather than as a religion-specific 
+precursor to modern equal protection principles.   
+ 
+                                                 
+214  Emp’t Div. v. Smith, 494 U.S. 872, 881 (1990); see also Church of the Lukumi 
+Babalu Aye, Inc. v. City of Hialeah, 508 U.S. 520, 533 (1993) (“[A] law targeting religious 
+beliefs as such is never permissible . . . .”). 

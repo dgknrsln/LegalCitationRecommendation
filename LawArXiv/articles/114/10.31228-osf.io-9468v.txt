@@ -1,0 +1,940 @@
+Harvard Journal of Law & Technology 
+Volume 30, Special Symposium 
+ 
+PRIVATE LAW AND THE FUTURE OF PATENTS 
+Oskar Liivak* 
+I. INTRODUCTION ................................................................................ 33	
+II. PRIVATE LAW: DEFINING DUTIES THAT WE CAN AND DO 
+OBEY ............................................................................................... 36	
+A. Can We Obey .............................................................................. 37	
+B. Do We Obey ............................................................................... 38	
+III. PATENT LAW IS NOT PRIVATE LAW ............................................. 41	
+A. Subsidy Reward Theory .............................................................. 41	
+B. Inability to Understand Our Duties ........................................... 42	
+C. No Reason to Feel Obligated to Obey Duties ............................ 45	
+D. Judges and an Internal View of the Patent System .................... 47	
+IV. EX ANTE TRANSACTIONS: A PRIVATE LAW ALTERNATIVE ......... 48	
+A. Ex Ante Technology Transfer ..................................................... 48	
+B. Private Law & Ex Ante Licensing of Inventions ........................ 50	
+V. CONCLUSION .................................................................................. 52	
+I. INTRODUCTION 
+It is hard to find a silver lining in the recent press clippings about 
+the patent system. Descriptors such as “failure,” “broken,” and “cri-
+sis” abound.1 One line of criticism led by economists James Bessen 
+and Michael Meurer has focused on the overall cost of the patent sys-
+tem for patent holders — the one group that should surely benefit 
+from the system.2 They found that, even for that group, patents as a 
+whole cost more to acquire, litigate, and defend against than the bene-
+fits they generate for the patent holders.3 In theory, the system is en-
+visaged as a kind of subsidy for inventors, yet in operation, the patent 
+system as a whole is a losing proposition even for the intended recipi-
+                                                                                                   
+* Professor of Law, Cornell Law School. © 2016 Oskar Liivak. 
+1. See Oskar Liivak, Establishing an Island of Patent Sanity, 78 BROOK. L. REV. 1335, 
+1336 (2013) (listing recent pessimistic patent headlines and titles). 
+2. JAMES BESSEN & MICHAEL MEURER, PATENT FAILURE 12 (2008) (“We can determine, 
+with reasonable accuracy, whether or not patents provide net positive incentives for a given 
+group of inventors. . . . [I]f patent incentives are negative, then . . . patents do not do what 
+they are supposed to do, and it is not likely that they will spur innovation and increase social 
+welfare.”). 
+3. See id. at 16 (Outside the confines of the pharmaceutical sector, “the United States pa-
+tent system could not be providing overall positive incentives for these United States public 
+firms by the end of the 1990s. The risk of patent litigation that firms faced in their capacity 
+as technology adopters simply outstripped the profits that they made by virtue of owning 
+patents. . . .”). 34   HARV. J.L. & TECH.  [Symposium 
+ 
+ents.4 The costs are so high, Bessen and Meurer argue, because patent 
+boundaries are imprecisely drawn — forcing patentees into expensive, 
+drawn-out litigation.5 Patents fail to function as traditional property.6 
+These costs are a fatal drag on the system that, on average, burn 
+through any of the revenues it generates.7 Bessen and Meurer propose 
+improving the precision of patent claims in the hope that this will re-
+duce these costs.8 Surely this will be an important incremental im-
+provement.9 But there remains a nagging worry. Will it be enough? I 
+doubt it. Any legal institution that depends heavily upon litigation and 
+its direct coercion is doomed to incur excessive administrative costs.10 
+There is a more fundamental problem. 
+Where alarm over excessive enforcement costs arises, as it cur-
+rently does in patent law,11 serious consideration and study should be 
+given to private law. Private law shows that not all legal institutions 
+have to bankrupt themselves with enforcement costs.12 Property, tort, 
+and contract law all entail intricate webs of interpersonal coordination 
+and interaction that thrive and endure while needing only a relatively 
+light judicial touch.13 For the most part, these institutions are self-
+enforcing. The stakeholders participating in these institutions know 
+their rights and their duties, and they largely abide by them.14 Constit-
+uents abide not from fear of punishment; rather, they feel an obliga-
+tion to abide because compliance in some sense is just the right thing 
+to do. With that acceptance, the enforcement costs can be much low-
+er.15  
+                                                                                                   
+4. See id. 
+5. Id. at 8. 
+6. See id. 
+7. “Burn” is perhaps the wrong term. “Diverts” is more accurate as the revenue from pa-
+tents is diverted to patent litigators. In any event, the important point is that the revenue 
+does not reach the patent holders. See also Michael Meurer & James Bessen, The Direct 
+Costs from NPE Disputes, 99 CORNELL L. REV. 387, 392 (2014) (“The survey results we 
+describe below provide strong additional support for our view that much of the cost imposed 
+on defendants is a social loss.”).  
+8. See id. 
+9. I too have been arguing for improving clarity in claims. See Oskar Liivak, The Unre-
+solved Ambiguity of Patent Claims, 49 U.C. DAVIS L. REV. 1851 (2016). 
+10. See Robert Cooter, The Intrinsic Value of Obeying a Law: Economic Analysis of the 
+Internal Viewpoint, 75 FORDHAM L. REV. 1275, 1285 (2006) (concluding that widespread 
+disobedience leads to “crippling agency problems”). 
+11. See BESSEN & MEURER, supra note 2, at 8. 
+12. See Cooter, supra note 10, at 1275 (“When laws are reasonably just and many citi-
+zens intrinsically prefer to obey them, government is easier, and life is better than when 
+most citizens are indifferent towards obeying the law.”). 
+13. See Carol Rose, Property as Storytelling: Perspectives from Game Theory, Narrative 
+Theory, Feminist Theory, 2 YALE. J.L. & HUMANITIES 37, 51 (1990) (arguing that “a con-
+tinuous system of policing and/or retaliation for cheating” is “impossible”).  
+14. See id. (noting that “a property system depends on people not stealing, cheating and 
+so forth, even when they have the chance”). 
+15. See Cooter, supra note 10, at 1285.  2017]  Private Law and the Future of Patents  35 
+ 
+Unfortunately, patent law faces a serious obstacle blocking access 
+to  these  efficiencies.  Recent  patent  scholarship  by  Professor  Ted 
+Sichelman has highlighted that the dominant theory of patents isn’t 
+readily compatible with private law.16 The dominant theory envisions 
+patents as a subsidy for encouraging inventing by giving patentees a 
+government reward funded by a tax on anyone who infringes the ex-
+clusive rights granted by the patent. The theoretical focus is not a pri-
+vate law-like purpose of preventing or compensating harms. Rather, 
+the theoretical focus is a “public regulatory” aim of optimizing in-
+ventive activity.17 Sichelman’s work joins and expands on a long-
+running debate within patent law: should patents be considered, la-
+beled, or understood as property?18 Many believe that they should.19 
+Others disagree, seeing patents more as a form of government inter-
+vention that should be divorced from notions of property.20 Sichelman 
+argues that there is “nearly universal” agreement that the dominant 
+subsidy view of patents is correct and that the theory is not structured 
+as a private law institution.21 He argues that this requires “purging” 
+any residual private law elements from the patent system.22 As argued 
+below, I wholly agree that the dominant patent theory is incompatible 
+with private law. Indeed one must yield. Yet our agreement on in-
+compatibility does not compel the prescription to rid patents of private 
+law. There is an alternative; agreement about the correctness of the 
+dominant theory is not universal. We should instead jettison the dom-
+inant theory, and we should adopt a private-law compatible theory for 
+patents.23  
+There is an alternative theory that could fill this role. Scholars 
+have  been  developing  a  transaction-based  theory  focusing  on  the 
+commercialization and transfer of technology.24 That theory has the 
+potential to pave the way for a patent system that can become private 
+law. The aim is not to ensure a reward or to induce people to invent. 
+                                                                                                   
+16. See Ted Sichelman, Purging Patent Law of “Private Law” Remedies, 92 TEX. L. 
+REV. 517 (2014). 
+17. Id. 
+18. See Adam Mossoff, INTELLECTUAL PROPERTY AND PROPERTY RIGHTS ix–xxii 
+(Mossoff ed. 2013).  
+19. See id. 
+20. See, e.g., Mark A. Lemley, Property, Intellectual Property, and Free Riding, 83 TEX. 
+L. REV. 1031, 1032 (2005). 
+21. See Sichelman, supra note 16, at 528. 
+22. Id. 
+23. A similar move has taken hold in tort law in the past decade for similar reasons. See 
+John C.P. Goldberg & Benjamin C. Zipursky, Seeing Tort Law from the Internal Point of 
+View: Holmes and Hart on Legal Duties, 75 FORDHAM L. REV. 1563 (2006) (though 
+“Holmesian duty skepticism . . . has long been discredited within analytic jurispru-
+dence. . . .[Because it] holds no more water as a claim about tort law than it does as a juris-
+prudential claim, we argue that it is time to abandon some of the central features of modem 
+tort theory.”).  
+24. See infra note 110 and accompanying text. 36   HARV. J.L. & TECH.  [Symposium 
+ 
+Rather, the system simply defines the behavioral expectations among 
+participants in the innovation sphere. In particular, it defines the du-
+ties owed by technology producers and users to other producers and 
+users. The purpose of the system is the efficient and coordinated 
+transfer of technology. Importantly, that role is not limited to the 
+courthouse or its shadow. This narrative is not just about imposing a 
+tax on infringers. Instead, the theory defines expectations of beneficial 
+innovative behavior out in the business world. Such a theory has 
+many advantages. It could provide for a system that optimally allo-
+cates resources to innovative activity.25 In addition, and critically for 
+this Article, the theory has another great advantage over today’s re-
+ward subsidy theory. It has the hallmarks of private law and as such it 
+could provide the foundation for maturing the patent system into an 
+accepted  and  stable  institution  where  participants  largely  govern 
+themselves. 
+This argument proceeds in three sections. The first reviews some 
+of the central features of private law that enable institutions like prop-
+erty and tort to operate without extensive, chronic judicial coercion. 
+The next section proceeds to the dominant patent theory and shows 
+that its incentive-centric framework is incompatible with private law. 
+The final section points to the emerging transaction-based understand-
+ing of the patent system that focuses on ex ante transfer of technology 
+and shows how it is built around fundamental features of private law. 
+II. PRIVATE LAW: DEFINING DUTIES THAT WE CAN AND DO 
+OBEY  
+Private law achieves its low system cost via widespread self-
+enforcement.26 Institutions like property, contract and tort have signif-
+icant efficiencies because, for the most part, people comply with the 
+duties imposed by these legal regimes.27 This high level of self-
+compliance is a hallmark of private law and central to its smooth 
+functioning.28 Two conditions are paramount to achieving this. Con-
+stituents must be able to understand their duties.29 And, just as im-
+                                                                                                   
+25. See Liivak, supra note 1 at 1357–65. 
+26. See Robert C. Ellickson, Property in Land, 102 YALE L.J. 1315, 1327–28 (1993); id. 
+at 1327 n.38 (self-enforcement is “the cheapest method of social control.”); Dale Nance, 
+Rules, Standards, and the Internal Point of View, 75 FORDHAM L. REV. 1287 (2006) (direct-
+ly linking low enforcement costs with legal actors that have embraced Hart’s internal view 
+of the law). 
+27. See Rose, supra note 13, at 51 (“[A]ll the participants, or at least a substantial number 
+of them, have to cooperate to make a property regime work.”). 
+28. Carol M. Rose, The Moral Subject of Property, 48 WM. & MARY L. REV. 1897, 1925 
+(2007) (“People have to accept property for it to work in any meaningful way. And, very 
+often, they do, relieving owners of the onerous necessity to guard their things all the time.”). 
+29. Thomas W. Merrill & Henry E. Smith, The Morality of Property, 48 WM. & MARY L. 
+REV. 1849, 1853 (2007) (“Because property rights need to coordinate the behavior of large 2017]  Private Law and the Future of Patents  37 
+ 
+portantly, they must actually comply with their duties.30 The first fea-
+ture is a matter of deliberate, careful system design while the latter is 
+ultimately an empirical observation of the system in operation. If we 
+are interested in designing an efficient, smoothly operating legal sys-
+tem, then both conditions should be primary concerns. 
+A. Can We Obey 
+The first condition, whether people can comprehend their duties, 
+has been a focus of work by Professor Henry Smith.31 Smith argues 
+that information costs play a significant role in defining the contours 
+of legal institutions, especially property. More recently, Smith has 
+been extending that line of research by focusing on the efficiencies of 
+using modular system design.32  
+Any real human institution entails a vast set of context-dependent 
+interactions between actors. In theory, we might structure the rules of 
+these institutions by giving each person a full list of their duties owed 
+toward every other person that accounts for the myriad ways we might 
+interact with others.33 But we do not structure most legal institutions 
+in this way because it would be “impossibly complex and costly” to 
+provide such a listing.34 There are too many choices and too many 
+details to possibly be within our cognitive capacities.35 Instead, Smith 
+argues that we can achieve the impossible by intelligently developing 
+rules that are much simpler to deploy but which largely reach the 
+same results (even if indirectly) as those attained by the more com-
+plete case-by-case analysis.36 Through this modular design, actors 
+have a simpler set of rules that are within their cognitive capacities.37 
+For example, property simplifies its content and thereby makes its 
+rules comprehensible by centering them around the res, the thing of 
+property, and by generally having rules that prevent others from inter-
+fering with the property owner’s wishes as to the disposition of the 
+res.38  
+                                                                                                   
+numbers of unconnected people, they must be easily comprehended and must resist possible 
+misinterpretation.”). 
+30. See Cooter, supra note 10, at 1281 (“Internalization of respect for the law makes gov-
+erning so much easier.”). 
+31. See, e.g., Henry E. Smith, Property as Platform: Coordinating Standards for Techno-
+logical Innovation, 9 J. COMPETITION L. & ECON. 1057 (2013). 
+32. See, e.g., Henry Smith, Property as the Law of Things, 125 HARV. L. REV. 1691, 
+1700 (2012). 
+33. See Smith, supra note 31, at 1059. 
+34. Id. 
+35. See id. 
+36. See id. 
+37. See id. 
+38. See Smith, supra note 32, at 1713. 38   HARV. J.L. & TECH.  [Symposium 
+ 
+B. Do We Obey 
+That we are capable of understanding and complying with rules is 
+an important and necessary condition of self-enforcement, yet it is 
+largely meaningless unless we actually obey. Private law institutions 
+have an advantage here because these areas of law have managed to 
+be imbued with an aura that their rules and duties ought to be obeyed 
+by the general public. 
+These areas of private law achieve compliance in part because 
+their duties are infused with a type of morality.39 And, buoyed by the-
+se general feelings that we have an obligation to obey them, such in-
+stitutions will be cheaper to run compared to an institution where 
+every interaction requires reliance on costly litigation. These obliga-
+tions  are  not  necessarily  attached  to  any  preexisting  moral  code, 
+though such piggybacking can make rule comprehension easier.40 In-
+stead, successful private law institutions define their own codes.41  
+These successful private law institutions have constituents who 
+have adopted what Professor H. L. A. Hart described as the internal 
+point of view of the institution and its rules.42 In Hart’s view, for 
+someone who takes the internal view of a legal institution, “the viola-
+tion of a rule is not merely a basis for the prediction that a hostile re-
+action will follow but a reason for hostility.”43 In other words, for 
+some areas of law, there is just something deeper backing our compli-
+ance that goes beyond simple avoidance of punishment. To illustrate 
+this, Professors John Goldberg and Ben Zipursky note that “[w]hen 
+confronted with an instance of a conviction for driving under the in-
+fluence, we generally do not think it correct to say, ‘Oh, there's a guy 
+who got hit with the drunk-driving tax.’”44 Some bodies of law are 
+understood as constituting more than a just a schedule of liability rules 
+that we can ignore if we are willing to pay the punishment. Where 
+                                                                                                   
+39. Note that this alignment with morals also contributes to lowering comprehension cost 
+and therefore lowers enforcement costs. See Merrill & Smith, supra note 29, at 1850 (argu-
+ing that the “enormous information cost” created by property can be mitigated by referenc-
+ing property rules with commonly held morals). By piggybacking onto an existing set of 
+morals, the rules of an institution are easier and cheaper to understand. 
+40. See John C.P. Goldberg & Benjamin C. Zipursky, Tort Law and Responsibility, in 
+PHILOSOPHICAL FOUNDATIONS OF THE LAW OF TORTS 17, 28 (John Oberdiek ed., 2014) 
+(“Though the wrongs of tort tend to track the wrongs of ordinary morality, conduct’s being 
+a moral wrong is neither necessary nor sufficient for it to be a tort.”). 
+41. See John C.P. Goldberg, Pragmatism and Private Law, 125 HARV. L. REV. 1640, 
+1656 (2012) (“Part of what it means to say that law tracks social norms is that private law is 
+itself a set of norms or guidance rules, not merely a system of tolls.”). 
+42. See H.L.A. HART, THE CONCEPT OF LAW 193 (1961). 
+43. Id. 
+44. See Goldberg & Zipursky, supra note 23, at 1590. 2017]  Private Law and the Future of Patents  39 
+ 
+Hart’s internal view has taken hold, the rules of those institutions have 
+been elevated to defining the conduct of a “good citizen.”45  
+The existence of an internal view in some bodies of law does not 
+necessarily tell us how to get there for other areas. How do we con-
+vince the public to accept and embrace an internal viewpoint? Once 
+established, feeling an obligation to obey the rules of private law can 
+be explained as a stable equilibrium in a cooperative game.46 Yet the 
+initial jump-starting of such virtuous cooperation is much harder, and 
+property scholars since Blackstone have been rather coy on the sub-
+ject.47 Professor Carol Rose has argued for the central importance of 
+compelling story-telling as the device that bridges that gap and gets a 
+private law system up and running.48 It is hard to overstate the im-
+portance of the narrative in enabling an internal point of view.49 
+We can draw upon some common features found in private law as 
+a guide to the types of systems and associated narratives that are like-
+ly to produce an internal view. In particular, private law frames its 
+rules as duties owed to others. A “master feature” of private law is 
+that it is defining a “direct connection between the particular plaintiff 
+and the particular defendant.”50 These connections are generally du-
+ties of conduct whose breaches are “wrongs” that harm the specific 
+rights-holder.51 Importantly, private law characteristically describes 
+the “duties [] when breached [as] wrongs to those others, as opposed 
+to wrongs to the world.”52 And private law gives aggrieved rights-
+holders recourse to the judicial system.53 By appealing to the general-
+ly-held conviction that we do not want to harm others, this structuring 
+of the narrative as a duty to avoid harming certainly provides an im-
+portant basis for engendering an internal view. 
+There is something more to private law, though, than simply la-
+beling  breaches  of  duties  as  wrongs  that  harm  others.  Morality-
+infused labels slapped onto arbitrary rules are not enough. For exam-
+                                                                                                   
+45. Rose, supra note 13, at 50 (describing the good citizen as essential for a functioning 
+property system); see also Golberg & Zipursky, supra note 23, at 1577. 
+46. See Rose, supra note 13, at 51(describing game theoretic research relating to coopera-
+tion). 
+47. See id. at 52. 
+48. See id. 
+49. See Kristen Underhill, When Extrinsic Incentives Displace Intrinsic Motivation, 
+YALE J. REG. 213, 219–20 (forthcoming Winter 2016) (listing dedication to organization 
+mission as an intrinsic motivation). Antoine de Saint-Exupery is paraphrased for his advice: 
+“If you want to build a ship, don't drum up people to collect wood and don't assign them 
+tasks and work, but rather teach them to long for the endless immensity of the sea.” 
+50. ERNEST J. WEINRIB, THE IDEA OF PRIVATE LAW 10 (1995). 
+51. In the sense that the prohibited act directly harms another, the clearly public law 
+realm of criminal law (especially laws preventing bodily harm to others) is closely related to 
+the private law institutions of tort, property, and contract. 
+52. John C.P. Goldberg & Benjamin Zipursky, Torts as Wrongs, 88 TEX. L. REV. 917, 
+918 (2010). 
+53. See Goldberg & Zipursky, supra note 23, at 1590. 40   HARV. J.L. & TECH.  [Symposium 
+ 
+ple, simply labeling patents as “property” is not enough. The narrative 
+must ring true in a deeper way. It is here where weighty concepts like 
+justice provide important guidance for system design. An internal 
+viewpoint can more easily take hold where an institution is tasked 
+with some worthy higher social purpose (like providing a steady 
+stream of much needed technological advances) and where the institu-
+tion's coercive reach is framed as preventing harms to those that are 
+working toward that higher purpose. Finding fault and punishing in-
+fringers in such a system is inherently more acceptable as there is a 
+direct connection between the defendant's action and harm to some-
+one who is trying to undertake something good for society. 
+And, where this internal view is achieved by a sizable majority of 
+the players, the institution achieves efficiency and, perhaps just as 
+importantly,  stability  and  permanence.54  In  fact,  the  obligation  to 
+comply can be so strong that it conflicts with our (at least short term) 
+self-interest.55 There is something important going on that seems to 
+defy rational behavior by homo economicus.56 Private law has pro-
+duced widespread acceptance by creating compelling narratives about 
+achieving worthy and believable societal goals and by structuring that 
+system as one of duties to avoid harming others productively engaged 
+in achieving that worthy goal. 
+Another benefit of the internal view should be mentioned. In ad-
+dition to increasing self-enforcement (and therefore reducing litiga-
+tion),  a  widespread  internal  viewpoint  also  makes  any  needed 
+litigation cheaper and more predictable. Where the narrative and the 
+rules are easy to follow for the layman, judges can follow them too. 
+And, in particular, the equitable eye of the judiciary can support that 
+narrative by specifically quashing harmful chiseling and the like.57 In 
+other words, litigation is not the focus of the institution. The wide-
+                                                                                                   
+54. See Dale Nance, Rules, Standards, and the Internal Point of View, 75 FORDHAM L. 
+REV. 1287, 1292 (2006) (“[O]ne thing is plain: Widespread internalization of law's substan-
+tive norms reduces the state's enforcement costs necessary to attain any given level of com-
+pliance, and substantially so, if only because it multiplies dramatically the number of agents 
+whose efforts maintain and reinforce the law's substantive norms of conduct.”); see also id. 
+at 1351 (“[S]trengthening the internal point of view not only contributes to enforcement 
+efficiency, but also cultivates a healthy sense of self-governance.”). 
+55. See Cooter, supra note 10, at 1281 (quantifying a difference between the decisional 
+calculus of a person with an external versus internal point of view). 
+56. It is clear that in many private law interactions we can benefit at least in the short 
+term by deviating from the expected behavior of the law, and yet many people will not take 
+that advantage even when the risks of being discovered are low. Someone could benefit by 
+using a short cut to walk home by trespassing through someone’s backyard, yet many will 
+just take the long way around even if the chances of being seen or discovered are low. See 
+Rose, supra note 13, at 45 (arguing that consistent and regular compliance with the duties of 
+property cannot be explained strictly by short term utility maximization). 
+57. See Goldberg, supra note 41, at 1657 (“Finally, because law aims to avoid ambushing 
+citizens and to prevent opportunistic manipulation of its rules, judges can and do interpret 
+ambiguities in line with ordinary notions of reasonable conduct and fair play.”). 2017]  Private Law and the Future of Patents  41 
+ 
+spread coordinated, productive behavior is the main show even when 
+it hums along without too much fuss. Litigation aims to simply rein-
+force and support as an adjunct to that productive behavior. For pri-
+vate law, both the coordinated, productive behavior out in the world 
+and judicial decisions regarding that behavior mutually reinforce each 
+other. 
+ III. PATENT LAW IS NOT PRIVATE LAW 
+As suggested above, private law — particularly given its low en-
+forcement costs — offers the possibility of a patent system with low 
+operating costs. Today’s patent system has not reached that stage of 
+maturation, and, without fundamental changes, I doubt it ever will. 
+The problem is that the dominant view of patent theory generally pre-
+cludes developing an internal viewpoint. As explained more fully be-
+low,  rather  than  defining  a  set  of  interpersonal  duties  with  a 
+compelling narrative to avoid harming others, the patent system is 
+seen instead as a subsidizing reward funded by a selective tax im-
+posed on those that infringe the patent. This framing of the patent sys-
+tem effectively prevents the patent system from achieving the benefits 
+offered by private law. It produces a system where we cannot readily 
+understand our duties to patent holders, and, even if we could, we do 
+not have any deep reasons to feel an obligation to obey them. Compli-
+ance in this system does not extend beyond the shadow of litigation.58  
+A. Subsidy Reward Theory  
+Today, most see patents as “government interventions in the mar-
+ketplace designed to achieve social policy ends.”59 In particular, pa-
+tents are seen as making inventing a more profitable business by 
+granting valuable exclusive rights to inventors.60 The exclusionary 
+rights set up a toll around the patented technology, and patent holders 
+can charge for admission.61 In this sense, the patent system is effec-
+tively interchangeable with a prize system.62 Through the patent re-
+ward, we aim to incentivize people to leave other activities and to 
+instead  have  them  invent  and  receive  patents.  And,  macro-
+economically, if we calibrate the reward properly, we will incentivize 
+                                                                                                   
+58. See Mark A. Lemley, Ignoring Patents, 2008 MICH. ST. L. REV. 19. 
+59. Mark A. Lemley, Taking the Regulatory Nature of IP Seriously, 92 TEX. L. REV. 107 
+(2014). See also id. at 110. 
+60. See DAN L. BURK & MARK A. LEMLEY, THE PATENT CRISIS AND HOW COURTS CAN 
+SOLVE IT 8 (2009). 
+61. See SUZANNE SCOTCHMER, INNOVATION AND INCENTIVES 34 (2004). 
+62. See Brian D. Wright, The Economics of Invention Incentives: Patents, Prizes, and Re-
+search Contracts, 71 AM. ECON. REV. 691, 696 (1983). 42   HARV. J.L. & TECH.  [Symposium 
+ 
+the optimal amount of innovation.63 The more valuable the technology 
+enclosed, the larger the prize awarded.64 Moreover, by adjusting the 
+boundaries of these rights, Congress, the USPTO, and the courts can 
+tailor the patent reward to optimize it as they see fit.65 Patents are 
+viewed as a selective tax whose revenue goes to subsidize inventors 
+and whose burden falls on infringers.66 The patent holder is thus “akin 
+to a private attorney general” who, aided by the courts, goes forth and 
+scours the countryside collecting from infringers the tax that is owed 
+to him.67 
+Elsewhere I have argued that this basic story is deeply problemat-
+ic and a root cause of today’s patent paralysis.68 This Article echoes 
+those criticisms but frames them under the unifying banner of private 
+law. Understood as a subsidy funded by taxing infringers, the patent 
+system has none of the hallmarks of private law and is unlikely to ever 
+benefit from private law’s efficiencies. Potential infringers generally 
+cannot easily know what their duties are with respect to patents.69 
+And, even if they did, the system gives them little reason to feel com-
+pelled to obey those duties. Importantly, as understood today the pa-
+tent system is not a system of interpersonal interactions. The theory 
+itself sees the patent system as an impersonal tax that has little moral 
+valence for patent holders or infringers. The system exists only so far 
+as the shadow cast by litigation. The system and its narrative are not 
+built to permeate more deeply into the fabric of innovative activity. 
+As explained below, this just isn’t the kind of story that leads to broad 
+acceptance. 
+B. Inability to Understand Our Duties 
+In assessing a system for its private law characteristics, it is in-
+structive to view the system from the perspective of duties rather than 
+that of rights.70 In its current form, the patent system fails to provide a 
+                                                                                                   
+63. See id. 
+64. See Benjamin Roin, Intellectual Property Versus Prizes: Reframing the Debate, 81 U. 
+CHI. L. REV. 999, 1020 (2014). 
+65. See Dan L. Burk & Mark A. Lemley, Policy Levers in Patent Law, 89 VA. L. REV. 
+1575, 1581 (2003).  
+66. See Oskar Liivak, When Nominal Is Reasonable: Damages for the Unpracticed Pa-
+tent, 56 B.C. L. REV. 1031, 1042 (2015). 
+67. Sichelman, supra note 16, at 532–33. It should be noted that a similar fight is ongoing 
+throughout private law. For example, proponents of the private law lens for tort criticize 
+“the now familiar view that a tort plaintiff acts as a private attorney general who sues on 
+behalf of and vindicates the public's interest in safety or loss-spreading.” See Goldberg, 
+supra note 41, at 1659.  
+68. See Oskar Liivak, Maturing Patent Theory from Industrial Policy to Intellectual 
+Property, 86 TUL. L. REV. 1163, 1180–81 (2012); see also Liivak, supra note 1, at 1343. 
+69. See infra notes 70–89 and accompanying text. 
+70. See Shyamkrishna Balganesh, The Obligatory Structure of Copyright Law: Unbun-
+dling the Wrong of Copying, 125 HARV. L. REV. 1664 (2012). 2017]  Private Law and the Future of Patents  43 
+ 
+set of duties we can possibly understand. It is very hard to determine 
+what our duties are in regards to issued patents.71  
+The rights of exclusion granted by a patent are defined by its 
+claims, which are often described as the metes and bounds of the pa-
+tent deed.72 Patent infringement is a strict liability offense.73 As a re-
+sult, to keep apprised of our duties to patent holders, we would need 
+to consider each and every claim of every patent issued (even if the 
+vast majority can be ignored as unrelated to our activities in relatively 
+short order). Considering the patents that might arguably create rele-
+vant duties, both the large number of such patents as well as the diffi-
+culty in determining the boundaries of any particular one of those 
+relevant patents can cause serious problems.74 
+It is quite hard to be certain of a patent’s exact boundaries. Patent 
+claims are notoriously hard to delineate with precision — a problem 
+that derives in large part from understanding patent claims as rewards. 
+This complicates both claim interpretation and construction.75 When 
+interpreting claims, we ask what the claim drafter intended to convey 
+with this language.76 If claims are seen as direct grants of the patent 
+reward, then we can surmise that claims drafters intended to claim as 
+much real estate as they could get away with.77 This sets up a confus-
+ing circular dynamic as claim validity and infringement then turn on 
+claim interpretation. And, as to claim construction, it often takes not 
+only a district court’s final judgment but also appellate review at the 
+Federal Circuit before parties have reliable guidance regarding what 
+does and what does not infringe a patent.78 This is a very expensive 
+mode of informing the public of its duties.79 
+As I have argued elsewhere, this boundary confusion has emerged 
+because patent law has refused to limit claim scope to the disclosed 
+                                                                                                   
+71. See BESSEN & MEURER, supra note 2, at 10 (“Not only are the words that lawyers use 
+sometimes vague, but the rules for interpreting the words are also sometimes unpredictable. 
+All though innovators can obtain expensive legal opinions about the boundaries of patents, 
+these opinions are unreliable. There is thus no reliable way of determining patent boundaries 
+short of litigation.”). 
+72. See Robert Patrick Merges & John Fitzgerald Duffy, PATENT LAW AND POLICY 26 
+(4th ed. 2007). 
+73. See Oskar Liivak, Rethinking the Concept of Exclusion in Patent Law, 98 GEO. L.J. 
+1643 (2010) (discussing the law’s lack of an independent invention defense in patent law). 
+74. This point is one where reasonable minds differ. See Ted Sichelman, Are There Too 
+Many  Patents  to  Search?  A  Response,  NEW  PRIVATE  LAW  (Jul.  3,  2015), 
+https://blogs.harvard.edu/nplblog/2015/07/02/are-there-too-many-patents-to-search-a-
+response-ted-sichelman/ [https://perma.cc/KA8E-BLEF]. 
+75. Tun-Jen Chiang & Lawrence B. Solum, The Interpretation-Construction Distinction 
+in Patent Law, 123 YALE L. J. 534 (2013) (providing the helpful distinction between claim 
+interpretation and claim construction).  
+76. See Liivak, supra note 9, at 1853–54. 
+77. See id. 
+78. See Jonas Anderson & Peter Mennell, Informal Deference: A Historical, Empirical, 
+and Normative Analysis of Patent Claim Construction, 108 NW. U.L. REV. 1 (2014). 
+79. See BESSEN & MEURER, supra note 2, at 16. 44   HARV. J.L. & TECH.  [Symposium 
+ 
+invention or to interpret claim language such as the statement “I claim 
+to have invented the following things.”80 Such restrictions on claims 
+would provide improved boundary notice for patents. In an important 
+sense, it would leverage the benefits of modularity in instructing oth-
+ers of their duties to patent holders.81 This is particularly important for 
+intellectual property, where physically remote acts can impact the 
+author or inventor’s asset.82 If all patents were limited to the disclosed 
+invention,83 then the rest of us could better learn the duties we owe 
+others. We would know that we are supposed to avoid the unauthor-
+ized “making, using, selling, offering for sale, or importing the pa-
+tented invention.”84 In addition to the claims themselves, we could 
+rely on the details in the rest of the patent to better understand the ex-
+act contours of the disclosed invention.  
+For many in patent law, the problem with this solution is that it 
+runs counter to the dominant patent theory. To optimize patent re-
+wards, the system must be given the flexibility to tailor such rewards. 
+This prohibits any easy modular rule limiting exclusion to the dis-
+closed  invention.85  Modularity  and  uniformity  of  patent  claims, 
+though improving our ability to comprehend our duties, are thus in-
+compatible with the mission of patents.  
+In short, it is very hard to determine what our duties are in regards 
+to issued patents.86 And it may be prohibitively expensive to actually 
+try to determine one’s duties to patent holders.87 Outside of expensive 
+and lengthy litigation, it is not possible to understand our duties.88 
+Lastly, the specter of treble damages from willful infringement com-
+                                                                                                   
+80. Liivak, supra note 9, at 1854.  
+81. See Smith, supra note 31, at 1060 (“For reasons of information cost, the in rem as-
+pects of property are the most standardized: property needs to be simple when its audience 
+is a large and impersonal group of people who may be socially distant.”). 
+82. See White-Smith Music Publ’g Co. v. Apollo Co., 209 U.S. 1 (1908) (Holmes, J.) 
+(“But in copyright property has reached a more abstract expression. The right to exclude is 
+not directed to an object in possession or owned, but is in vacuo, so to speak. . . . It may be 
+infringed a thousand miles from the owner and without his ever becoming aware of the 
+wrong.”). 
+83. More precisely, patent claims should be limited to the patentable portions of the in-
+vention disclosed. 
+84. 35 U.S.C. § 271 (2012). 
+85. See Tun-Jen Chiang, The Levels of Abstraction Problem in Patent Law, 105 NW. L. 
+REV. 1097 (2011). 
+86. See BESSEN & MEURER, supra note 2, at 10. 
+87. See Christina Mulligan & Timothy Lee, Scaling the Patent System, 68 N.Y.U. ANN. 
+SURV. AM. L. 289 (2012).  
+88. Prior to litigation (and often litigation going through to the appellate level), we will 
+not be sure of the boundaries of our duties with respect to that patent and we will not even 
+be sure that the patent is valid. Today, prior to extensive litigation patents are seen as malle-
+able and probabilistic. See Jason Rantanen, The Malleability of Patent Rights, MICH. ST. L. 
+REV. 895, 899 (2015); see also Mark A. Lemley & Carl Shapiro, Probabilistic Patents, 19 
+J. ECON. PERSP. 75, 95 (2005) (concluding that a patent gives the holder “a right to try to 
+exclude”).  2017]  Private Law and the Future of Patents  45 
+ 
+pounds the problem and discourages companies from ever learning 
+about their duties with respect to patent holders.89  
+C. No Reason to Feel Obligated to Obey Duties 
+As argued above, the public is not readily able to understand its 
+duties with respect to patents. But, even if we could efficiently get 
+that information, today’s patent system gives us little reason to feel an 
+obligation to obey those duties. In the first place, it has been argued 
+that it may be best if the USPTO remains “rationally ignorant” of the 
+validity of the patents it is issuing.90 It may be far too expensive to 
+properly examine each and every patent application and therefore it 
+may be cost effective to leave the real determination of validity to 
+litigation. And indeed, courts invalidate a substantial fraction of liti-
+gated patents.91 Patent scholars routinely incorporate this uncertainty 
+into their discourse by describing patents as probabilistic.92 As a re-
+sult, outside the context of litigation, patent rights are being framed in 
+ways that preclude any sense that they represent a duty that ought to 
+be respected. How can one feel an obligation to respect a patent duty 
+when the patent just as often as not will be invalidated in court? If one 
+must wait to be in litigation before one knows whether a duty exists 
+and what the exact contours of that duty are, then the system is at best 
+bound to remain one where everyone holds an external view of the 
+institution. 
+Just as importantly, there is no robust theory of harm stemming 
+from the dominant patent theory.93  Any harm is couched in vague 
+terms of lowering incentives.94 And that appears to only be directed at 
+future inventors rather than at the plaintiff in the patent lawsuit.95 
+Conceived as a subsidy for inventors, the wrong of infringement hard-
+ly seems to be a harm that is caused by the infringer and felt by the 
+patent holder. This hardly feels like the direct harm that one might 
+cause by a car accident or property conversion.  
+On first blush, there is an aspect of the current theory that appears 
+quite consistent with private property and its developed obligations to 
+                                                                                                   
+89. 35 U.S.C. § 284 (2012). 
+90. Mark A. Lemley, Rational Ignorance at the Patent Office, 95 NW. U. L. REV. 1495 
+(2001). 
+91. See John R. Allison et. al., Understanding the Realities of Patent Litigation, 92 TEX. 
+L. REV. 1769, 1801 (2014) (determining an invalidation rate of 43%). 
+92. See, e.g., Lemley & Shapiro, supra note 88, at 95 (concluding that a patent gives the 
+holder “a right to try to exclude”).  
+93. See  HERBERT  HOVENKAMP  &  CHRISTINA  BOHANNAN,  CREATION  WITHOUT 
+RESTRAINT 61 (2012) (“[T]he patent system lacks a serious harm requirement . . .”). 
+94. See Sichelman, supra note 16, at 571 (arguing that the role of patent damages should 
+be viewed from the lens of incentives rather than some personal harm to the patentee activi-
+ty alone). 
+95. See id. at 517.  46   HARV. J.L. & TECH.  [Symposium 
+ 
+obey. Today’s patent system has a significant volume of licensing 
+deals that look (at least initially) like the transactions of private prop-
+erty. But that initial similarity is illusory. Though there are transac-
+tions and licensing in the dominant view of patents, they are of a 
+peculiar variety. Licensing is understood (as part of the theory) as 
+money in exchange for a right not to be sued.96 Hence, if a license is 
+entered, it is only to avoid a lawsuit. This, again, is fundamentally 
+guided only by an external point of view. Making an ex post licensing 
+payment is not something we deeply feel we ought to do. It is just 
+about avoiding the worse pain of suffering through litigation. 
+The current theory provides a narrative that lacks a powerful jus-
+tice component. In particular, though encouragement of innovation is 
+often touted as the ultimate goal of the patent system, the current nar-
+rative enables the taxing (rather than subsidizing) of actual innova-
+tors.97 In particular, 90% of patent lawsuits are aimed at independent 
+inventors who are making, using, or selling the patented invention.98  
+Especially where the defendant is selling the invention and the patent 
+holder is not, there is a non-innovator taxing an actual innovator. This 
+hardly seems like a narrative likely to produce converts to the inherent 
+justness of patents. However, it can be even worse. If the patent 
+claims extend beyond the disclosed invention (as some reward adher-
+ents argue they should), then an even more egregious example emerg-
+es. In such an example, a true (but possibly not first) inventor and 
+innovator is sued by a non-inventor and non-innovator. The current 
+theory argues that this is sometimes required to provide the optimum 
+incentive.99 But, it is hard to see how these two examples lead to a 
+deep, internal point of view. The current theory is just not designed to 
+produce any feelings of obligation to obey. The theory leads to unjust 
+results and it provides no feeling of harm or correlative oughtness. 
+In important ways this dominant narrative may, from a behavioral 
+psychological point of view, be doomed to its heavy reliance on litiga-
+tion.  Independent  inventors  as  infringers  are  notable  because,  for 
+them, interaction with the patent system is a pure loss. In contrast, for 
+ex ante transactions, technology users get the technology. In the ex 
+post context, technology users don’t get anything they didn’t already 
+                                                                                                   
+96. As described by the FTC, this is ex post licensing as opposed to ex ante that involves 
+transfer of technology as well as legal permissions. 
+97. See Oskar Liivak & Eduardo Penalver, The Right Not To Use in Property and Patent 
+Law, 98 CORNELL L. REV. 1437, 1444–45 (2012) (explaining and criticizing the fact that 
+patent owners need not practice their invention at all while they can tax those that have 
+invented and innovated even when the invention and innovation are done independently of 
+the patentee). See also Liivak, supra note 1. 
+98. Christopher Anthony Cotropia & Mark A. Lemley, Copying in Patent Law. 87 N.C. 
+L. REV. 1421, 1424 (2009). 
+99. See  Tun-Jen  Chiang,  The  Paradox  of  IP,  30  HARV.  J.L.  &  TECH.  (SPECIAL 
+SYMPOSIUM) 9, 16 (arguing that limiting patent scope to the disclosed invention, namely the 
+embodiments disclosed by the patentee, would “eviscerate patent incentives”). 2017]  Private Law and the Future of Patents  47 
+ 
+have other than the loss from having to pay the patentee. There is a 
+long and deep psychological literature on the framing of gains and 
+losses.100 A particularly robust result is the increasing risk preference 
+when people face sure losses.101 In other words, when faced with the 
+decision to take either an ex post license (and thereby incur a sure 
+loss) or to lie low and hope to avoid detection (and to fight to the last 
+if detected), there is a tendency to irrationally hope that one can avoid 
+the sure loss.102 That dynamic is hard wired into the current patent 
+narrative and may be an important driver of excessive enforcement 
+costs. The narrative forces much of patent activity to look like a pure 
+loss, and as a result, many will take huge risks to avoid dealing with 
+the patent system. For institutions like private property, both property 
+sellers and property buyers can mutually benefit from active, earnest 
+engagement with the institution. The patent narrative gives no such 
+reason for the targets of patent infringement. That is no way to devel-
+op a strong internal viewpoint on the patent system.  
+D. Judges and an Internal View of the Patent System 
+As  described  above  in  Section  II.B.,  the  conditions  for  self-
+enforcement and acceptance of the internal point of view have im-
+portant benefits for adjudication as well. If the narrative for a legal 
+system is adopted as defining duties that ought to be followed, then 
+judges can use the same narrative to guide both their decisions and 
+(just as importantly) the content and tenor of their opinions. As de-
+scribed in this Part, the current patent narrative is just not structured in 
+a way that can lead to this virtuous internal view. This leads to undue 
+reliance on litigation and coercion as the main tools for coordina-
+tion.103 But this failing of the narrative also impacts the certainty of 
+adjudication. It leads to far more litigation and to litigation that feels 
+arbitrary.  
+Judge Learned Hand, testifying before the Senate, was asked, 
+based on his long years of judging patent cases, whether patents “on 
+the whole promote the arts and sciences?”104 Hand gave a very telling 
+answer: “That is just what a judge never gets . . . , how essential [the 
+                                                                                                   
+100. See generally Daniel Kahneman & Amos Tversky, Choices, Values, and Frames, 39 
+AM. PSYCHOLOGIST 391 (1984); Daniel Kahnemann & Amos Tversky, Prospect Theory: An 
+Analysis of Decision Under Risk, 47 ECONOMETRICA 263 (1979). 
+101. See Jeffrey Rachlinski, Gains, Losses, and the Psychology of Litigation, 70 S. CAL. 
+L. REV. 113 (1996) (showing the increasing risk preference when people face choices la-
+beled as losses). 
+102. See id. 
+103. Outside the context of litigation, too many simply ignore patents. See Lemley, supra 
+note 58, at 19.  
+104. American Patent System: Hearing on S. 92 Before the Subcomm. on Patents, 
+Trademarks, and Copyrights of the S. Comm. on the Judiciary, 84th Cong. 116 (1959) 
+(statement of Judge Learned Hand). 48   HARV. J.L. & TECH.  [Symposium 
+ 
+patent] was for the progress of the arts. . . . [Judges] have no idea . . . 
+whatever . . . as to how the system itself is in fact influencing the pro-
+duction of invention.”105 I have always thought that this admission 
+was quite worrisome,106 and the lens of private law adjudication puts 
+these worries into focus.  
+Within the current view of patents, judges are given the job of 
+simply collecting the subsidy reward from patent defendants. With 
+that role there can’t be much judging going on. This is not a knock 
+against the quality of the judiciary. Rather, it is a knock against a pa-
+tent theory that has failed to provide a narrative that utilizes the 
+unique institutional competence of the judiciary — judging. Where a 
+legal institution develops a widely accepted internal viewpoint, judg-
+es, using that viewpoint as a guide, can confront disputes and protect 
+against chiseling and other inequitable practices that run against the 
+spirit of the institution.107 But how can a judge evaluate hard cases 
+and make determinations about “opportunism” without an internal 
+viewpoint? Without an internal compass, a judge has no way to give 
+nuanced direction to evaluate the behavior of the litigating parties.108 
+As lamented by Hand, the result is litigation that often feels arbitrary 
+and removed from any promotion of innovation or any underlying 
+equity.109 
+IV. EX ANTE TRANSACTIONS: A PRIVATE LAW ALTERNATIVE 
+The above discussion argued that, as it is still guided by the dom-
+inant patent theory, the patent system cannot claim to be private law 
+and is unlikely to ever earn that distinction. This Part outlines an al-
+ternative theory for patents that has the potential to mature patents 
+into a branch of private law. 
+A. Ex Ante Technology Transfer  
+A major failing of the dominant patent theory is its failure to de-
+velop any sense of obligatory duty among patent constituents. Alter-
+natives do exist. In particular, a number of scholars have been pushing 
+                                                                                                   
+105. Id.  
+106. See Liivak, supra note 1, at 1343. 
+107. See Smith, supra note 31, at 1078 (2013) (equity serves “one of its most general 
+functions: counteracting opportunism.”); see also Rose, supra note 13, at 47 (“The law also 
+polices cooperative arrangements and disfavors those in which one person seems to take 
+advantage of another, even though the advantage-taking may fall within the formal terms of 
+a given agreement.”). 
+108. See Liivak, supra note 1, at 1350 (“Conceptualized as a toll that produces incen-
+tives, excusing any infringer threatens to upset Congress’s balance of incentives. The result 
+is a patent narrative that inherently portrays enforcement and infringement in an absolute 
+and non-contextual light.”). 
+109. See supra note 104 and accompanying text. 2017]  Private Law and the Future of Patents  49 
+ 
+transactional theories focusing on commercialization.110 The core of 
+this narrative is interaction between a technology producer and tech-
+nology users.111 The primary function of the patent system (as a spe-
+cies of private law) is to provide the backdrop rules that enable and 
+undergird those transactions.112 Its secondary role is to provide civil 
+recourse for aggrieved patent holders when the duties entailed by the-
+se rules are violated.  
+As transactions are central to this narrative, clear licensing will be 
+seen as a positive. But care must be taken to distinguish two very dis-
+tinct types of licensing. The focus of a private law transactional model 
+should be the licensing of technology (and usually a concomitant im-
+plied  license  to  use  the  technology),  not  just  a  transfer  of  legal 
+rights.113 The key distinction is whether technology is being dissemi-
+nated (that is, innovation) or whether the transaction delivers only a 
+promise not to sue. This difference defines the critical distinction be-
+tween ex ante and ex post licensing.114 The transactions central here 
+are ex ante transactions for technology. This distinction is worth high-
+lighting because patent assertion entities often defend themselves on 
+the grounds that they don’t always sue; they license as well. But, that 
+licensing is always ex post licensing and has little, if any, claim of 
+societal benefit. 
+As to coordination, this view puts ex ante technology transfer at 
+its core. An issued patent signifies that the patent holder has relevant 
+technology to be transferred to users, and the patent puts its owner in 
+                                                                                                   
+110. See, e.g., Paul J. Heald, Optimal Remedies for Patent Infringement: A Transactional 
+Model, 45 HOUS. L. REV. 1165, 1174 (2008) (arguing that a transactional model “permit[s] 
+the exposition of a model that need not rely on ex ante assumptions about optimal R&D 
+expenditures”); Paul J. Heald, A Transaction Costs Theory of Patent Law, 66 OHIO ST. L.J. 
+473, 489 (2005) (arguing from a transaction cost perspective that “[t]he patent form enables 
+the potential transferor to share an information asset without fear of misappropriation while 
+assembling the complex team necessary to commercialize a new product”); Liivak, supra 
+note 1, at 1343; Liivak, supra note 68, at 1180–81; Robert P. Merges, A Transactional View 
+of Property Rights, 20 BERKELEY TECH. L. J. 1477, 1499 (2005); Smith, supra note 31, at 
+1076 (“As I will show, the modular theory of property points to a strong role for commer-
+cialization concerns to shape intellectual property.”); Steven Yelderman, Coordination-
+Based Patent Policy, B.U. L. REV. (forthcoming); Ted Sichelman, Commercializing Patents, 
+62 STAN. L. REV. 341 (2010). 
+111. See Liivak, supra note 1, at 1365. 
+112. Rather than being an incentive narrative, this transaction and market narrative joins 
+the rest of private law and even looks more like trademark rather than our current view of 
+patents  or  copyright.  See  MERGES  ET  AL.,  INTELLECTUAL  PROPERTY  IN  THE  NEW 
+TECHNOLOGICAL AGE 21 (6th ed. 2012) (“Quite unlike patent and copyright, trademark law 
+does not protect innovation or creativity directly. Rather, it aims to protect the integrity of 
+the marketplace. . . . “). 
+113. See Liivak, supra note 1, at 1343 (focusing on ex ante licensing of inventions rather 
+than licensing of patent rights). 
+114. See U.S. DEP’T OF JUSTICE & FED. TRADE COMM’N, ANTITRUST ENFORCEMENT 
+AND INTELLECTUAL PROPERTY RIGHTS: PROMOTING INNOVATION AND COMPETITION 
+(2007) [hereinafter “2007 Report”], available at http://www.ftc.gov/reports/innovation/ 
+P040101PromotingInnovationandCompetitionrpt0704.pdf [https://perma.cc/3SV5-WJUG]. 50   HARV. J.L. & TECH.  [Symposium 
+ 
+the position to be the exclusive supplier of that technology to users. 
+The duties of users and other inventors are all measured by the harm 
+that their actions could cause to that overall beneficial technological 
+exchange between patent holder and users.115 
+B. Private Law & Ex Ante Licensing of Inventions 
+As opposed to the current reward theory, this ex ante licensing 
+focus has a number of features that allow it generally to develop into a 
+stable, private law institution. First, with its focus on transactions that 
+are mutually beneficial to participants, this theory is inherently about 
+interactions and coordination between technology creators and tech-
+nology users. The core purpose of the patent system then is to provide 
+the background legal rules that provide a platform for technology cre-
+ators to sell their technology to users. Importantly, these transactions 
+exist and take place out in the commercial world and, so to speak, 
+away from the shadow of litigation. And the rights of patent holders 
+and the correlative duties for the rest of us should focus on enabling 
+those beneficial technological transactions. 
+Such a theory inherently also incorporates modularity and infor-
+mation cost efficiencies.116 As the focus is providing the patent hold-
+ers with the exclusive position to provide the invention to users, pa-
+patent rights can and should remain tied to the disclosed invention. 
+There is no need to tailor claim scope. The system is not about tailor-
+ing a reward.117 Nor is there any need for exclusion extending beyond 
+the invention. We simply need to protect the technology that an inno-
+vator is selling, and that protection should not extend beyond what 
+was initially conceived. After all, if some technology is beyond what 
+the inventor conceived, then it cannot be a technology that the inven-
+tor can then transfer to others. This narrow focus for patent claims 
+should help with the informational load required by the system. By 
+focusing only on the disclosed invention, patent law can avoid some 
+of the troubles currently bedeviling patent claims and their high levels 
+of abstraction.118 There is simply no need for claims to cover anything 
+but the definite and permanent idea conceived by the inventor. Fur-
+thermore, as to notice to others, the focus is on active commercializa-
+tion of the invention, and this activity itself helps provide much of the 
+notice. Rather than reading patent office publications, technology us-
+                                                                                                   
+115. See Liivak, supra note 1, at 1376. 
+116. See id. at 1370. See also Smith, supra note 32, at 1692. 
+117. Cf.  Tun-Jen  Chiang,  The  IP  Paradox,  30  HARV.  J.L.  &  TECH.  (SPECIAL 
+SYMPOSIUM) 9. 
+118. See Chiang, supra note 85, at 1097 (arguing that a reward-based system must engage 
+in difficult line drawing to determine the appropriate level of claim scope). 2017]  Private Law and the Future of Patents  51 
+ 
+ers need to keep abreast of the technologies that are being offered for 
+sale by technology producers. 
+In addition to making it easier to assess what duties are required 
+by the patent system, this new narrative gives stronger reasons for 
+actually feeling obligated to obey. The current dominant theory gives 
+no reason why a patent’s claims need be limited to the invention con-
+ceived by the inventor. But, as mentioned above, this broad exclusion 
+can lead to strong feelings of injustice. After all, such broad claims 
+will then allow a patent holder to sue and possibly enjoin a later in-
+ventor who actually did invent the covered technology. That problem 
+is eliminated in a transaction-based theory. Where claims remain teth-
+ered to subject matter original to the inventor, such claims and their 
+exclusion are tied to what the inventor created. Such narrowed exclu-
+sion avoids the scenario of a non-inventor suing a true inventor.119 In 
+this way the transaction-based theory avoids the injustices that surely 
+dampen any plausible acceptance and compliance. 
+Furthermore, this theory gives a basis for a theory of identifiable 
+“wrongs.” Under this framework, we could begin to see the types of 
+actions that will harm the rights holder.120 By delegating to the patent 
+holder the responsibility to be the exclusive supplier of the patented 
+invention, the theory itself outlines the expected role of the patent 
+holder. The costs of inventing, commercializing, and marketing the 
+invention are all aspects of the patent holder’s business. When seen by 
+others as a business that inherently provides societal benefits (i.e. cre-
+ating new, nonobvious technology and providing it to those who can 
+utilize it), those others will inherently feel that they owe duties to the 
+patent holder. By engaging in real tech transfer, the patent holder is 
+innovating and serving a real socially beneficial purpose. Others, in-
+cluding competitors, should be obligated to avoid actions that unac-
+ceptably harm those activities.  
+For example, where someone deliberately copies from the patent 
+holder and then uses, or worse yet, starts to sell the invention, it is 
+relatively easy for one to see the direct harm caused to the patent 
+holder’s position as the invention’s exclusive supplier. Such actions 
+cause harm, and the patent community, and accordingly judges, would 
+aim to remedy damages by looking backwards and with injunctive 
+relief to avoid further harm. 
+However, just as this narrative provides relatively easy support 
+for some aspects of current patent doctrine, other areas do not fare so 
+                                                                                                   
+119. As a side note, this basic outline of this transaction theory does not yet deal with the 
+harder issue of a first, true inventor (who obtains a patent) suing a later yet still independent 
+true inventor. This is a sticking point that requires analysis beyond the scope of this Article.  
+120. See Liivak, supra note 1, at 1376–86. 52   HARV. J.L. & TECH.  [Symposium 
+ 
+well. Most prominently, there is little room for patent suppression.121 
+But that is a feature, not a bug. In fact, the theory could be seen as 
+supporting an obligation on patentees to commercialize the patented 
+invention. But specific performance, forcing commercialization by a 
+threat to commercialize, is unwise. Instead, commercialization should 
+become a critical aspect of remedies. Absent some attempt to com-
+mercialize, the fact of harm to the patent holder has just not been es-
+tablished. Such a non-practiced patent may well be infringed, but 
+absent some attempt or investments towards commercialization, nom-
+inal damages are a reasonable measure of the harm.122 
+V. CONCLUSION 
+The future of the patent system lies with private law. If for no 
+other reason, patent theory’s current litigation-heavy mode of regula-
+tion needs to be jettisoned because it is just too costly. Furthermore, 
+the current theory is generally incompatible with the development of 
+an internal view of the system. There is no basis for us to feel we 
+ought to respect patent rights. That failing leads directly to high op-
+erational costs. 
+But it need not be that way. Once envisaged as a system for un-
+dergirding socially beneficial transactions between inventors and us-
+ers, the duties in this system can focus on avoiding harms to those 
+productively engaging this system. Such a narrative could allow an 
+internal viewpoint to form. If such a viewpoint forms, such a system 
+should be cheaper to operate than our current litigation-centric re-
+ward/subsidy  model.  Such  a  transaction-based  view  is  essentially 
+about coordinating behavior out in the world away from the court-
+house. That vision has the features that enable it to be accepted and 
+woven into the stable, enduring fabric of innovative activity. 
+                                                                                                   
+121. See Liivak & Penalver, supra note 97 (criticizing the reasoning of the Supreme 
+Court’s 1905 Continental Paper Bag case that is seen as justifying patent suppression using 
+property rhetoric). 
+122. See Liivak, supra note 66, at 1031. 

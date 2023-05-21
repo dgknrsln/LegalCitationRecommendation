@@ -1,0 +1,2232 @@
+Muhammad's Social Justice  or Muslim
+Cant?: Langdellianism  and the
+Failures of Islamic  Finance
+Haider Ala Hamoudit
+Introduction  .....................................................  90
+I.  The Rise and Fall of Langdellian Legal Orthodoxy ........  98
+A.  Langdellian Methodology and Attendant Implications  ..  98
+B.  The Failures of Langdellianism in the Modern Era  .....  99
+II.  Langdellian Modalities in the Islamic Experience  .........  100
+A.  Historical Qualification  ...............................  100
+B.  Shafi'i and the Formalist Modalities in the Methodology
+of Hadith Reporting ...................................  103
+C.  Shafi'i's Reductionist Interpretive Controls in the
+Emerging Formalist Modality ..........................  105
+D.  Anti-formalism and the Langdellian Modality  ..........  108
+1.  Istihsan ...........................................  108
+2.  Istislah. ...........................................  109
+E.  Demonstrations of Langdellianism:  The Problems of
+Riba and Gharar in the Formalist Modalities ...........  109
+1.  Contours of the Riba Proscription ...................  111
+2.  G harar. ...........................................  114
+III.  The Failures of Islamic Commercial Jurisprudence-The
+Consequences of Langdellianism  .........................  116
+A.  Original Conceptions  .................................  116
+B.  Alternative Approaches Within the Langdellian
+M odalities ............................................  118
+1.  M urabaha. ........................................  119
+2.  Ijara ..............................................  120
+3.  Istisna'/Salam. ....................................  121
+4.  A Problem of Insurance ............................  122
+C.  Langdellianism  and Islamic Finance  ...................  124
+IV.  Alternative Approaches ...................................  125
+A.  Qur'anic M axim s ......................................  126
+B.  The Roles of Hadith, Istihsan, and Istislah: An
+Examination  of Sanhuri and Sadr  .....................  127
+1.  Sanhuri's Definitional Approach ....................  128
+t  Associate  in  Law,  Columbia  Law  School.  The  author  would  like to  thank
+Abdullahi An-Na'in,  Mark Cammack, Michael Dorf, Bernard Freamon, George Fletcher,
+Hoi Kong and Clark Lombardi for their comments and substantial support.  Any errors
+are solely the author's responsibility.
+40 CORNELL INT'L LJ. 89 (2007)Cornell International Law Journal Vol. 40
+2.  Sadr's Contextual Approach ........................  129
+C.  Assertion of Interpretive Control within an Alternative
+M odality ..............................................  13 1
+1.  A Problem of "Subjectivity" ..  ......................  131
+2.  Proposed Synthesis of Definitionalism and
+Contextualism .....................................  131
+D.  Fairness and Social Justice in an Islamic Context .......  132
+C onclusion  ......................................................  133
+And We sent you not,
+Save in Mercy to the
+Peoples of the World.
+QUR'AN 21:07.
+Introduction
+Islamic finance has failed to achieve its most basic and central objec-
+tives, but the causes of that failure, and whether anything can be done to
+reconstruct  the practice  in a manner  consistent with commercial  reality
+and its ontology, are matters that, by and large, have gone unexamined.  To
+understand the nature and depth of the failure, it may be useful to consider
+the following three simple examples.
+First, a Muslim entrepreneur seeks short-term financing, knowing that
+any transaction  involving  the payment  of interest  on debt  is  forbidden
+under  the  rules  of the  shari'a, defined  for  purposes  of this  Article  as
+Islamic law.'  She enters into a contract with an Islamic bank, pursuant to
+which the bank purchases a readily fungible  commodity  and simultane-
+ously  resells  it  to  the  entrepreneur  at  a  mark-up,  to  be  paid  in three
+months' time.  The mark-up corresponds precisely to the prevailing market
+interest rate.  The bank never retains title to the commodity and the entre-
+preneur waives all claims as to breach of warranty against the bank, while
+the bank assigns to the entrepreneur all such rights it had against the origi-
+nal  seller.  Immediately  upon  taking  possession  of the  commodity,  the
+entrepreneur resells it at market value, leaving her with a sum certain and
+an obligation to pay a higher amount in the future.2
+Second, a Muslim airline company wishes to finance  the purchase of
+an aircraft, again heedful of the Islamic  prohibition against interest.  An
+Islamic bank purchases the aircraft company through an intermediate vehi-
+cle funded by the bank's financing and equity contributions.  The interme-
+diary then exacts from  the airline a  "lease rate" pegged to the prevailing
+market interest rate.  The lease is "renewed" semi-annually  for a period of
+twelve years, and the lease rate re-pegged at the time of renewal.  However,
+the  contract indicates  that  no party is permitted  to withdraw or fail  to
+1. The basis for this ban is discussed extensively in Section IL.E of this Article.
+2.  A transaction of this sort, albeit without the  final resale back to the  original
+seller, is described in greater detail in Umar F. Moghul & Arshad A. Ahmed, Contractual
+Forms In Islamic Finance Law and Islamic Inv. Co. of the Gulf v. Symphony Gems N.V. &
+Ors.: A First Impression Of Islamic Finance, 27 FORDHAM  INT'L LJ. 150 (2003).2007  Langdellianism and the Failures of Islamic Finance
+renew prior to the expiration of the twelve year period. The lease includes a
+provision indicating that New York law governs the transaction.3
+Third, a Muslim shopkeeper needs to insure his store against casualty
+risks, notwithstanding the alleged shari'a prohibition against insurance.4
+Therefore,  an  Islamic  financial  institution  offers  him  an  alternative;
+namely, an allegedly  "charitable" instrument whereby he "donates" a set
+amount each month corresponding to a premium, which is then kept in his
+name at the institution.  Other  Muslim  participants  in the  scheme offer
+similar donations.  When a payout to one of the participants becomes nec-
+essary due to a qualifying event, the agreements stipulate that the financial
+institution withdraws the requisite amount from the aggregate donations
+and distributes  the funds  to  the participant  in  question.  The  donated
+funds are invested in profit making ventures and gains are  shared by the
+beneficiaries  and the financial institution.
+The  first  of these  is  a particularly  egregious  example5  of what  is
+known  as  a  murabaha transaction,  which  dominates  the  landscape  of
+Islamic finance today.  Over 80% of the current transactions by volume in
+Islamic banks are of a murabaha model.6  The second example, known as
+an ijara transaction, is a newer and rapidly growing segment of the Islamic
+financial sector.7  The third is known as takaful, frequently lauded as an
+example  of Islamic financial innovation.8
+It should also be obvious that all three of these transactions are largely
+artificial.  They are substantively the same as their forbidden counterparts,
+albeit with  semantic  alterations  and higher transaction  costs associated
+with creating the appearance of difference.  "Charitable insurance" is non-
+sense,  as  are  simultaneous  purchases  and re-sales  and renewable  leases
+with no option but to renew.  These are awkward constructs to circumvent,
+in a  fundamentally  disingenuous fashion, central prohibitions  developed
+by the shari'a.
+3.  For greater exposition on the application of Islamic principles to modern aircraft
+finance, see generally Angelo Luigi Rosa, Harmonizing Risk and Religion: The Utility of
+Shari'a-Compliant Transaction Structuring in Commercial Aircraft Finance, 13 MINN.  J.
+GLOBAL TRADE 35 (2004).
+4.  The problem of uncertainty or  risk in the structuring of Islamic commercial
+transactions, including insurance transactions, is discussed at length in Section II.E.
+5.  The example I have given involves a procedure known as tawarruq, where the
+asset sold and purchased is not only fungible but also resold immediately for its cash
+value.  This is a somewhat controversial practice that is nonetheless gaining in popular-
+ity and is commonly practiced by Islamic banks on the Arabian peninsula.  See Mah-
+moud El-Gamal, Limits and Dangers of Shari'a Arbitrage 9 (2005) available at  http://
+www.ruf.rice.edu/-elgamal/files/Arbitrage.pdf.  Moghul and  Ahmed  describe  a  more
+conventional, orthodox murabaha structure, where the asset in question, jewelry, is used
+by the effective borrower rather than immediately resold.  See Part  1.B.1 infra.
+6.  See FRANK E. VOGEL & SAMUEL  L. HAYES III, ISLAMIC LAW AND  FINANCE: RELIGION,
+RISK, AND RETURN  198 (1998).
+7.  See id. at 144.
+8.  See  id. at 152;  see also Ibrahim  Warde,  The Prophet and The Profits: Islamic
+Finance, LE MONDE  DIPLOMATIQUE,  Sep. 2001, at http://mondediplo.com/2001/09/09
+islamicbanking.Cornell International Law Journal Vol. 40
+Some argue that legalistic acrobatics of this sort pose no obstacle to
+the development of Islamic finance, given literal adherence to the dictates
+of the shari'a9.  For example,  Frank Vogel and Samuel Hayes, who wrote
+one of the most authoritative works on Islamic finance in the English lan-
+guage,  seem entirely  comfortable  with  the formalisms, fictions and  arti-
+fices  that  dominate  the  practice.  They  even  provide  sophisticated
+techniques  of their own  that develop  more  fully the  concepts  discussed
+above.10  They assert that Islamic finance has not failed, given that Islamic
+commercial vehicles, such as the murabaha, are, on the narrowest technical
+grounds, based on profit-sharing that arises from the sale and purchase of
+assets.1  Underlying this is an assumption by Vogel and Hayes that Islamic
+commerce, as currently practiced, satisfies broad segments of Muslim soci-
+ety that are "socially and politically conservative, seeking individual piety
+and social  mores  built around  traditional  compliance  with fiqh [Islamic
+law],  and looks  to social and political improvements mainly as a result of
+that."12
+This assumption is incorrect.  Vogel and Hayes fundamentally misun-
+derstand the cause for the recent explosive  growth in Islamic finance  and
+underestimate  its  current  dilemma  in  attempting  to  expand  further.
+Though the first Islamic banks came into existence little over three decades
+ago, Islamic finance has developed into a significant industry with assets in
+excess  of $200  billion  dollars  in  Islamically-approved  financial  instru-
+ments, operating in over 70 nations and growing at an annual rate of over
+20% per year.13  Yet at the root of such growth, frequently expressed as an
+article of faith by Muslim  advocates of Islamic finance, is the perception
+that Islamic commercialism provides a fairer, more just, and more humane
+alternative to the alleged brutality of the global marketplace.14  Respect for
+traditional compliance with Islamic rules is not the touchstone; social jus-
+tice is.
+This perception  of substantive  fairness and social justice is so wide-
+spread and so deep that it is difficult to set forth enough authority in favor
+of it to underscore  its centrality  to modern Islamic finance.  Three quite
+distinct Islamic figures who were central to the development of Islamic eco-
+nomics  refer repeatedly  to  notions of social justice  and fairness  in their
+descriptions  of  Islamic  economics,  and  in  particular  Islamic  financial
+methods.15  These figures  are, without exception, revolutionaries  and by
+9.  See, e.g., IBRAHIM WARDE,  ISLAMIC  FINANCE IN THE GLOBAL ECONOMY (2000).
+10.  See VOGEL & HAYES,  supra note 6, at 235-87.
+11.  See id. at 137.
+12.  Id. at 27 n.2.
+13.  See WARDE,  supra note 9, at 1, 75.  Malaysia, a nation with a highly developed
+Islamic financial system, has alone in excess of $23 billion in Islamic assets, and reports
+growth in excess of 42% over the past decade.  See Seelen Sakran, The Future of Islamic
+Banking, MALAYSIAN BuSINESS, Jan.  15, 2005, at 55.
+14.  See, e.g.,  Moghul & Ahmed, supra 2, at 153.
+15.  See Mahmoud El-Gamal, "Interest" and the Paradox of Contemporary Islamic Law
+and Finance, 27 FoRDHAM  INT'L L.J.  108, 115, 120 (2003).  Naturally, economics is a far
+broader  discipline  than finance,  and  the  author does not suggest their  equivalence.2007  Langdellianism and the Failures of Islamic Finance
+no means fit the model described by Vogel and Hayes of political and eco-
+nomic  conservatives  seeking  modest  social  and  political  improvements
+through  traditional adherence to the shari'a.16
+The first of these, Muhammad Baqir as-Sadr, the thoughtful Shi'i Iraqi
+jurist who authored a highly influential tome on Islamic economics, as well
+as the seminal intellectual contribution to the creation of an interest-free
+bank in Islam, makes the point  repeatedly in his writings.17  Sadr's goal
+was the establishment of an economic order entirely separate from the pre-
+vailing paradigms of capitalism and Marxism.18  The same can be said for
+the militant  Sayyid Qutb, whose influence  on radical Islamic movements
+remains vibrant.19  Many  of Qutb's economic  theories appear  in a book
+entitled Social Justice in Islam.20  His assault on interest is particularly stri-
+dent. He describes those who take usury as being without "conscience" or
+"ethics.''21  Finally, the highly influential Pakistani Islamist, Sayyed Abulala
+Maudoodi,  describes taking interest in almost Marxist  terms, suggesting
+that it  increases  maldistributions  of wealth  and perpetuates  class  strug-
+gle.22  Maudoodi saw the only solution as being the establishment of what
+he termed  an  "Islamic theo-democracy,"  hardly  the words  of a political
+23
+conservative.
+These are by no means the sole contributors to the notion of fairness
+and social justice in  the context of Islamic  finance.  Other later, deeply
+respected and much less revolutionary figures have said much the same.
+However, Islamic notions of finance play an important role in Islamic economics, and
+inevitably, proponents of Islamic economics emphasize  the fairness  of both.
+16.  See VOGEL & HAYES,  supra note 6, at 26.
+17.  See MUHAMMAD  BAQIR AS-SADR, IQTISADUNA 60-65 (World Org. for Islamic Services
+trans.,  1982)  (1969)  [hereinafter IQTISADUNA]  (describing social justice as one of the
+cornerstones of Islamic economics); see also MUHAMMAD  BAQIR AS-SADR,  AL-BANK AL-LA
+RIBAWI  Fl 'L-ISLAM 6-7 (1973)  [hereinafter  AL-BANK]  (referring to a form of distributive
+justice as being a principal objective of Islamic economics, and to the Islamic bank as
+being a key component of the economic system).  Though a Shi'i jurist, Sadr's effect on
+the world of Islamic finance  and Islamic economics  in the broader  Islamic world has
+been significant.  Hamid Algar describes Sadr's works as "the most substantial treatment
+of social justice in Islam."  Hamid Algar, Introduction to SAYYID QUTB,  SOCIAl JUSTICE IN
+ISLAM 12 (John B.  Hardie & Hamid Algar trans., 2000) (1949).  See CHIBLI MALLAT, THE
+RENEWAL  OF ISLAMIC LAW  142-43 (1993).
+18.  See id. at 113-16; see generally IQTISADUNA,  supra note 17.
+19.  See JOHN L. ESPOSITO,  UNHOLY  WAR:  TERROR IN THE NAME  OF ISLAM  52  (2002)
+(describing Qutb as the "godfather" of contemporary Islamic radicalism); see also Ber-
+nard K. Freamon, Martyrdom, Suicide, and the Islamic Law of War, 27 FORDHAM INT'L LJ.
+299, 348-50 (2003) (describing Qutb's influence).  It is important to note that my com-
+parison of these three different individuals is in one respect alone-they are all revolut-
+ionaries who may be fairly described as the forefathers of Islamic economics and Islamic
+finance.  See EI-Gamal, supra note 15, at 115.
+20.  SAYYID  QUTB,  SOCIAL JUSTICE  IN ISLAM  101-42  (John B.  Hardie  trans.,  1953)
+(1949).
+21.  Id. at 107.
+22.  See SAYYED ABULALA MAUDOODI, ECONOMIC PROBLEM OF MAN AND ITS ISLAMIC SOLU-
+TION 27-31 (Abdul Waheed Khan trans., Markaz MaktabaJama'at-e-lslami 2d ed. 1955)
+(1947).
+23.  SAYYED  ABULALA MAUDOODI, AL-KHILAFA WA-AL MULK  13-21 (Ahmad Idris trans.,
+Daar al-Qalam  1978).Cornell International Law Journal Vol. 40
+Muhammad Taqi Usmani, a former judge on the Shari'a Appellate Bench of
+the  Pakistani  Supreme  Court,  indicates  much  like  Maudoodi  that  the
+charging of interest is partially responsible  for the massive wealth dispari-
+ties in  capitalist societies.24  Umer Chapra,  an economist  at the Islamic
+Development  Bank  in Jeddah,  Saudi Arabia,  and  one  of the most well-
+known  and  prolific  advocates  oi Islamic  finance  in  the  Muslim world,
+makes notions  of social justice central  to  his robust  defense  of Islamic
+finance.25  Muhammad  Nejatullah  Siddiqi,  a  professor  of economics  in
+Saudi Arabia, opens one of his most well-known books on Islamic econom-
+ics with the sentence ". . .the main insight offered by Islamic economics is
+that ethics matters,'26 and another of his books opens with the sentence
+"[b]y prohibiting interest Islam has endeavoured to do away with a hideous
+form of tyranny and injustice prevalent in the human society.'27  Timur
+Kuran, an expert on and critic of Islamic economics, describes the prohibi-
+tion of interest as "the most celebrated" injunction in Islamic economics by
+proponents  of the  discipline.28  Kuran  indicates  that  these  proponents
+ground  the injunction on the principle of fairness.29  Ordinary Muslims
+are  captivated  by  this perception  and are  shocked when,  in  seeking  to
+obtain Islamic financing, they discover the ruse.30
+Proponents of Islamic finance often repeat the same functional objec-
+tives of fairness and social justice, but do not employ appropriate method-
+ological  techniques  to  achieve  these  goals.  An  altogether  different
+approach is used, one that claims its origins in the earliest foundations of
+Islamic jurisprudence  and  relies instead  on a rigid formalism, in which
+public interest and judicial discretion play a very limited role.31  Given the
+24.  See MUHAMMAD TAQ1 USMANI, AN INTRODUCTION  To ISLAMIC FINANCE (1998).  This
+is not a surprise given Usmani's links to the militant party led by Maudoodi.  See El-
+Gamal, supra note  15, at 115 n.19.  However, Usmani served in a high capacity in the
+Pakistani courts while Maudoodi was at one point sentenced to death in Pakistan, so it
+would be fair to describe Usmani as less militant and revolutionary.
+25.  See, e.g.,  M. UMER CHAPRA, TOWARDS A JUST MONETARY SYSTEM  (1985).
+26.  MUHAMMAD NEJATULLAH SIDDIQI, ECONOMICS:  AN ISLAMIC APPROACH,  at iii (2001).
+Siddiqi's critique concerns economic affairs generally, not just merely finance.  How-
+ever, finance still plays an important role in his analysis.  See, e.g.,  id. at 85-86.
+27.  See generally MUHAMMAD  NEJATULLAH SIDDIQI,  BANKING  wAIT HOUT INTEREST,  at x
+(1979).
+28.  Timur Kuran, On the Notion of Economic Justice in ContemporaryI slamic Thought,
+21 INT'L J. MIDDLE E. STUD.  171,  174 (1989).
+29.  See id.
+30.  See VOGEL & HAYES, supra note 6, at 26 n.2. In addition, the author has observed
+that many mosques and Muslim institutions in the United States refuse to deposit their
+funds in Islamic banks upon realizing the nature of the transactions into which they
+would be entering.  More than one has called the author in anger and disgust, asking to
+be directed to "real" Islamic financial institutions.  For a typical Muslim expression of
+this perception,  as well  as the frustrations  associated with it, see Tarek  El  Diwany,
+Islamic Banking Isn't Islamic, June,  2003, http://www.islamic-finance.com/itemlOO_f.
+htm ("[T]he words 'profit-sharing' are to be heard constantly at all of the conferences [on
+Islamic finance].  Some of the scholars, if pressed, will talk about moving towards more
+satisfactory  products  . . . .But  then  everyone  goes  home  and works  on  another
+murabaha contract.").
+31.  Whether  this type of logic-driven and rigid formalism is inherent to the entire
+history of Islamic jurisprudence is a matter much in dispute.  See infra Part II.A.2007  Langde~lianism and the Failures of Islamic Finance
+disparity between the functional ends and the formalist means employed to
+reach  them,  Islamic  finance  fails  to  meet  the expectations  set  for  it.32
+Rather  than  offering  any  sort of  alternative  humanistic  means  of con-
+ducting  commercial  activity,  the  practice  instead  has devolved  into an
+almost random patchwork of rules that are neither cohesive nor coherent.
+These inflexible and nondiscretionary  rules are  artificially  forced  into a
+paradigm to achieve ends for which they provide at best an awkward fit. As
+a result, they seem arbitrary  and senseless, designed  for no purpose and
+serving no function other than to complicate already elaborate commercial
+transactions.  Social justice and avoidance  of exploitation  play no signifi-
+cant role.  In Islamic finance, religion largely serves to obfuscate and com-
+plicate  at  some  expense,  while  simultaneously  and  disingenuously
+asserting highly exaggerated claims of equity and social justice.33
+This Article  considers  two issues.  First, it seeks to  provide  a more
+precise  description  of  the  jurisprudential  methodology  employed  in
+Islamic  finance  that  has  led  to  its  failure.  The  dominant  interpretive
+approach within contemporary Islamic jurisprudence, and Islamic finance
+in particular, shares many common features with the jurisprudential theo-
+ries of Christopher Columbus Langdell.  Both approaches  are excessively
+rigid and dependent on formal exercises of logic,34 allowing the jurist or
+32.  This disparity between Langdellian means and functional ends was not lost on
+the original founders, and each made an attempt to compensate for this by accommodat-
+ing public interest to some extent in their respective theories of economics.  For example,
+Sadr indicates that contemporary jurists must engage in robust independent juristic rea-
+soning to develop some of the rules of Islamic economics, clearly envisioning discretion
+and public interest as an implicit part of that process.  See IQTISADUNA,  supra note 17, at
+364-90; see also infra Part IV.B.3.  Qutb, at least in earlier editions of his work, Social
+Justice in Islam, references the importance of public interest in developing contemporary
+rules. See Hamid Algar, supra note 17, at 14-15.  Finally, Maudoodi's notion of a "theo-
+democracy" is an attempt to combine Islamic norms with the demands of modern soci-
+ety.  MAUDOODI, supra note 22.  Only Sadr comes close to developing a methodology that
+incorporates these principles.  See infra Part IV.  Perhaps because they died when Islamic
+banking was either not in existence (in the case of Qutb) or in its infancy (in the cases of
+Sadr and Maudoodi), none of the three grasps the extent to which  some of the most
+basic prohibitions they embrace, including the interest ban, render Islamic finance not
+simply inconvenient but also entirely impracticable in the modern era. As a result, the
+relative functional flexibility they espouse could not possibly succeed, unless it develops
+further to encompass those basic prohibitions,  as this Article seeks to do in Part IV
+hereof.
+33.  Others made related observations on Islamic economics and finance, though not
+so much from a legal perspective.  See, e.g., EI-Gamal, supra note 15, at 135-36; OLIVIER
+Roy, THE FAILURE OF POLITICAL ISLAM,  132-46 (Carol Volk trans., 1994) (1992); MAXIME
+RODINSON, ISLAM AND CAPITALISM (Brian Pearce trans., 1973) (1966); TIMUR KURAN, ISLAM
+AND  MAMMON:  THE  ECONOMIC  PREDICAMENTS  OF  ISLAMISM  (2004).  Kuran  describes
+Islamic economics as "simplistic, incoherent and largely irrelevant to present economic
+challenges."  See USC Today, Conversation  With Timur Kuran, Dec.  18,  2006, http://
+www.usc.edu/uscnews/stories/13215.html.
+34.  It is important to note that the failings of Islamic finance are not necessarily due
+to formalism per se, but to the type of logic-driven formalism characteristic of Langdel-
+lianism.  For example, Justice Scalia unapologetically embraces a certain type of neo-
+formalism based upon a strictly textual interpretation of statutes and the U.S. Constitu-
+tion.  See ANTONIN  SCALIA, A MATTER OF INTERPRETATION:  FEDERAL  COURTS  AND THE LAW
+23-25 (1997).  However, Scalia makes abundantly clear that his approach does not con-Cornell International Law Journal Vol.  40
+judge comparatively little interpretive control over the development of legal
+35
+rules.
+Second, it seeks to explain how Islamic principles might be used in a
+more  salutary  fashion  in  finance,  avoiding  unnecessarily  the  elaborate
+obfuscations  and  complications  that  serve  no  practical  purpose  while
+achieving some  modicum  of social justice in  an Islamic  setting.36  The
+more extreme forms of Legal Realism are not a workable solution in light of
+the nature of religious jurisprudence and the deep, historic importance of
+giving some role to Islamic doctrine and sacred text in developing Islam's
+legal rules.  Rather than attempt a comprehensive alternative methodology,
+this Article seeks to outline principles necessary for any credible attempt at
+reform and will provide specific examples of how such principles might be
+applied.  In so doing, it will become apparent that the changes necessary to
+cern itself with the development of judge-made common law, such as that described by
+Langdell; rather, he suggests that the role of such judge-made law in the modern era of a
+democratically elected legislature should be severely curtailed.  See id. at 3-14. Scalia is
+critical of legal education,  as developed by Langdell, on the grounds that it creates a
+legal culture wherein there is an understanding that a judge plays a significant role in
+creating  the  law rather  than simply  interpreting a law  created and implemented by
+others. See id. Therefore, Scalia's formalist and textualist approach presupposes a dem-
+ocratically elected legislature accountable to the general public that continually enacts
+laws as it sees fit.  This approach is very different from the logic-driven quasi-scientific
+judge or jurist driven  inquiry, which plagued Langdellianism  in its time and plagues
+Islamic finance today.
+35.  No area of modern Islamic law, as currently applied, is immune to this same
+criticism, but the doctrinal failings are more obvious in Islamic finance.  In alternative
+legal  realms where  the shari'a  dominates  the modern Islamic world, the  concern of
+developing consistent legal tools sensitive to both social justice and modern contextual
+realities is less prominent.  An excellent example is in the Islamic personal law, which is
+patently, unambiguously  and without exception biased  in favor of males  within the
+traditional interpretive Islamic approaches.  See, e.g., WEISS, THE SPIRIT OF ISLAMIC LAW
+188 (1998);  Abdullahi A. An-Na'im, Islam and Human Rights: Beyond the Universality
+Debate, 94 Am. Soc'Y  INT'L L. 95, 97-100 (2000); NOEL J. COULSON,  SUCCESSION  IN THE
+MUSLIM FAMILY (1971); JOHN L. ESPOSITO, WOMEN IN MUSLIM FAMILY  LAW 12-46 (2d ed.
+2001);  Donna E. Arzt, The Application of International Human Rights Law in Islamic
+States, 12 HUM. RTs. Q. 202, 208 (1990).  In many Islamic nations in the world today,
+these rules generally apply, though exceptions exist.  See, e.g., WEISS, supra note 35, at
+188; RENE DAVID  & JOHN E.  C. BRIERLEY, MAJOR LEGAL SYSTEMS IN THE WORLD TODAY 438
+(2d ed. 1978).  However, the rigorous and extensive demands of the modern commercial
+marketplace that so shape Islamic doctrine in the area of finance play a less direct role in
+the development of personal law.  See generally EsposITo, supra note 35.  Thus, rather
+than conform  to changed circumstances  through  artifice, jurists instead  continue to
+apply personal law as it has always been applied.  See id.
+36.  The author does not suggest that any form of social justice or fairness would
+satisfy the Muslim  demand for a unique brand  of finance.  Naturally, those Muslims
+attracted to a concept such as Islamic finance take Islamic doctrine very seriously and
+would want any financial  institution in which they invest to have a uniquely Islamic
+character. See id. at 101-2 (indicating that the desire to retain a distinct cultural identity
+drives much of Islamic economics); see also infra Part IV.A.  Nevertheless, though iden-
+tity politics  play  a  role  in developing  a  unique  form  of finance  understood  to be
+"Islamic," social and economic justice play an equally important, if not more important,
+role.  Moreover, the author's recommendations in Part IV do not call for the elimination
+of culturally distinct Islamic financial institutions, but rather their reexamination in a
+way that would permit them to serve the social justice and fairness goals that Muslims
+seek and that proponents of Islamic finance advertise.2007  Langdellianism and the Failures of Islamic Finance
+develop an interpretive system, which will achieve  the objectives of Islamic
+finance, are not as vast as might be imagined.
+This Article illustrates its two central  themes  through an admittedly
+contentious  comparison37 of the jurisprudential  theories of Langdell and
+Muhammad Ibn Idris al-Shafi'i, the person credited by the dominant con-
+temporary proponents of Islamic finance  as responsible  for systematizing
+the Islamic jurisprudence they use.  Their respective jurisprudential inter-
+pretive  systems, which the author shall call  "modalities," are  remarkably
+similar, both in terms of methodology and the consequences flowing from
+the application thereof. The author accepts Sherman Jackson's description
+of the  American jurisprudential  tradition as  being "uniquely  and  abun-
+dantly rich in analytical tools and methods for inquiring into the nature,
+function, problems and possibilities of law."'38  The use of these tools, and
+the application of this comparative approach, provides useful insights for
+the American legal scholar on the basic and essential flaws in the domi-
+nant Langdellian  interpretive trends  that inhere to modern Islamic juris-
+prudence.  As Professor  Fletcher  notes,  these tools  suggest solutions  to
+seemingly  intractable  legal  problems  that  might  not  otherwise  be
+39
+apparent.
+Part I of this Article  discusses  the basic jurisprudential  theories  of
+Christopher  Columbus  Langdell,  and  then  describes  the  reasons  that
+37.  Despite the similarities in their respective approaches, the author has found only
+one other  comparison  of Shafi'i to Christopher  Columbus Langdell,  but  this effort
+shows substantial limitations and is largely incomplete. See Amr A. Shalakany, The Ana-
+lytics of the Social in Private Law Theory: A Comparative Study 142-59 (1990) (unpub-
+lished Ph.D. dissertation, Harvard University) (on file with UMI's Dissertation Abstracts
+database).  For example, Shalakany does not assign nearly the same fundamental impor-
+tance to hadith in Shafi'i's jurisprudential system that this Article does, a puzzling omis-
+sion given the importance  of the hadith to  Shafi'i himself.  See id.; see also WAEL  B.
+HALLAQ, A HISTORY OF ISLAMIc  LEGAL THEORIES 29 (1997) (remarking that, as compared
+to the discussions on hadith, "[njearly everything  else  [in Shafi'i's seminal work, Al-
+Risala,] seems tangential").  Moreover, Shalakany tends to regard Islamic analogical rea-
+soning, or qiyas, as somehow deductive  in nature, similar to  the deductive logic that
+Langdell employed  to  derive his rules  from fundamental  principles.  See  Shalakany,
+supra note 37, at 149-50.  This Article takes almost an opposite approach, arguing that
+qiyas expands the specific hadith into Langdellian fundamental principles, and the type
+of demonstrable,  Cartesian deduction insisted upon by Langdell did not exist in the
+Islamic context.  Shalakany's comparison is limited in other ways as well.  For example,
+he properly shows how both Langdell and Shafi'i created formal systems of law based on
+logic.  However, he fails to contrast the systems in any methodological level of detail,
+both in deriving the proper cases and in expanding those cases into fundamental princi-
+ples or fundamental rules from which all law would be developed.  See id.  Finally and
+most importantly, Shalakany does not, and given the lack of methodological detail could
+not, provide any contrast on the development of particular legal rules under the respec-
+tive systems, nor does he, nor could he, compare the resulting failures of Langdellianism
+in the two contexts.  To be fair to Shalakany, these were not his aims, as his very interest-
+ing and thorough dissertation  fundamentally concerns  the development of legal con-
+sciousness in the United States and Egypt, not the failures of the respective interpretive
+systems.  See id. at 108-09.
+38.  Sherman A. Jackson, Fiction and Formalism: Toward a Functional Analysis of Usul
+al-Fiqh, in STUDIES IN IstAmc LEGAL THEORY 177, 180 (Bernard G. Weiss ed., 2002).
+39.  See George P. Fletcher, Comparative  Law as a Subversive  Discipline, 46 AM.  J.
+CoMp.  L. 683, 695-97 (1999).Cornell International Law Journal Vol.  40
+Langdellianism ultimately fell from favor.  Part II describes the Langdellian
+formalist  modalities  operating  in Islamic  finance  allegedly  developed  by
+Shafi'i,40 and then compares them to Langdellianism in terms of method-
+ological  approach.  Specific  examples relating  to commerce  are  also pro-
+vided  in Part  II  to demonstrate  how the  Islamic  Langdellian  modalities
+function in Islamic finance.  Part III outlines the principal rules governing
+contemporary  Islamic  finance  through  application  of  the  Langdellian
+modalities, and then discusses how the existence of these financial rules
+results in the establishment of a bizarre and highly artificial construct that
+fails to address the social justice concerns central to the creation of Islamic
+banking and finance.  Part IV discusses the principles that any alternative
+approach must follow to be faithful to the Islamic tradition and capable of
+achieving the central ontological  objective of fairness in a commercially
+practicable manner.
+I.  The Rise and Fall of Langdellian Legal Orthodoxy
+A.  Langdellian Methodology and Attendant Implications
+Christopher Columbus Langdell has been widely credited as the crea-
+tor of the classical and orthodox theory of American jurisprudence.41  The
+basic thesis of Langdellianism is that law is a science, akin to the natural
+sciences, and that the relevant data set for the science of law are cases.42
+From proper  selection of the specimen  cases,43  the legal  scientist could
+derive  the  few,  general  fundamental  legal  principles  that  exist through
+44
+inductive reasoning.
+The legal principles so derived functioned as the constituent ontologi-
+cal units within the construct.45  From  them, through  the rigorous  and
+almost Cartesian application of logic and deductive  reasoning, a series of
+clear specific rules would be derived that would govern any given case.46
+The specific rules themselves were formalistic in conception, meaning that
+they were framed in a manner that made their application uncontroversial
+when applied to  stipulated facts.47  The rules would then be the bases of
+40.  Unfortunately,  although  references  to  Shi'ism  and  Shi'i  scholars,  such  as
+Muhammad Baqir al-Sadr, appear in this Article,  Shi'i Islamic jurisprudence generally
+lies beyond its purview.
+41.  See, e.g.,  GRANT  GILMORE,  THE AGES  OF  AMERICAN  LAW  42 (1977);  Thomas C.
+Grey, Langdell's Orthodoxy, 45 U. PITT. L. REV.  1, 2 (1983); Pierre Schlag, Law and Phre-
+nology, 110 H~Av. L. REV. 877, 896 (1997).
+42.  See GILMORE, supra note 41, at 42.
+43.  Langdell asserted that the vast majority cases would not be worthy of study and
+might even prove "worse than useless."  C.C. Langdell, Preface to the First Edition of A
+SELECTION OF CASES ON THE LAW OF CONTRACTS, at viii-ix (2d ed., Boston, Little, Brown &
+Co. 1879).  However, the fundamental principles that exist in the law could be discov-
+ered from studying the properly selected cases. See id. at viii-ix.  Interestingly, however,
+Langdell never specified the means by which these proper cases could be identified.
+44.  See Stephen M.  Feldman, From Premodern to Modern American Jurisprudence:
+The Onset of Positivism, 50 VAND.  L. REv.  1387, 1428 (1997).
+45.  See Schlag, supra note 41, at 898.
+46.  See Feldman, supra note 44, at 1428; see also Grey, supra note 41, at 16-21.
+47.  See id. at 11.2007  Langdellianism and the Failures of Islamic Finance
+decision-making in future cases.48
+Three  important  consequences  flow  from  the Langdellian jurispru-
+dential modalities that resonate in the Islamic context. First, the modalities
+possess an inherent disdain for any notion of judicial discretion.  They sup-
+pose that capable judges  can deduce the applicable  formal rule from the
+established  principles  in  an uncontroversial  manner.49  To  the Langdel-
+lians, the notion that a judge would have any discretion in the deductive
+application of the rule would be abhorrent, as it would render the law an
+50
+unscientific discipline.
+Second, the Langdellian  modalities do not consider public welfare  or
+public interest when rule-making for precisely the same reason.  Langdell
+famously remarked that though the "mailbox rule," whereby an acceptance
+to a contract offer is deemed given on the date it is placed in the mailbox,
+might be more  in  the public  interest, this  fact was  "irrelevant" because
+Langdellian logic made it impossible for a contract to exist before  accept-
+ance was communicated to the offeror.51  This position drew the criticism
+of Holmes, who famously retorted that the life of the law was not logic, but
+52
+experience.
+Finally,  Langdellianism  is  largely impervious  to broader social  and
+economic developments.  Fixed, immutable, and abstract principles simply
+cannot form the ontological units of a jurisprudential modality that would
+admit extensive  social  change.53  Langdellianism  was  designed  to  "dis-
+cover" rules that admitted no possibility of evolution or development, and
+consequently could not keep pace with rapidly changing social, political
+54
+and economic circumstances.
+B.  The Failures of Langdellianism in the Modern Era
+There  are four  principal reasons  that the Langdellian  modality  ulti-
+mately "crumbled,"  to use Gilmore's  phrase,  replaced by jurisprudential
+theories that relied less on pure logic, and more on discretion and experi-
+ence, to develop and hone legal rules.55  First, the few fundamental princi-
+ples and doctrines upon which the Langdellians  placed so much reliance
+failed  to  materialize,  as  they were  under constant  revision  and  supple-
+48.  See id. at 20-21.  There was a circularity to the reasoning, as cases provided the
+bases upon which the principles were induced and rules derived, but the  rules also
+provided the bases upon which cases were to be decided. For an analysis of this circular-
+ity and the potential means by which it might be addressed, see id. at 20-24.
+49.  See id. at 11-12 (describing the system as "doubly formal" as a result).
+50.  See GILMORE, supra note 41, at 42-43.
+51.  C.C. LANGDELL, A SUMMARY  OF THE LAW OF CONTRACTS  20-21  (2d ed.  1880).
+52.  See Oliver  Wendell  Holmes,  Book Notices,  14 AM.  L.  REV.  233,  234  (1880)
+(reviewing C.C. LANGDELL,  A SELECTION OF CASES  ON THE LAW OF CONTRACTS (1879)).
+53.  See GILMORE, supra note 41, at 42-43. One commentator posits a potential means
+of development whereby new principles are "discovered" from existing case law and
+rules derived, but even he admits that such a process is inherently slow and strains at
+the foundational elements of the Langdellian jurisprudential modality.  Grey, supra note
+41, at 31-33.
+54.  GILMORE, supra note 41, at 43.
+55.  Id. at 68.Cornell International Law Journal Vol. 40
+ment.56  Secondly, judges faced with difficult cases often found two con-
+flicting principles equally  applicable.  Cardozo went so far as  to suggest
+that discretion was inherent in the judicial enterprise.57  This position was
+radical for its time.58
+Moreover,  considerations  of public policy or justice were  never sup-
+pressed, as judges or juries would simply neglect to  apply them, finding
+one way or another to reach the result that seemed more just or practical.59
+Finally, Langdellianism failed to keep pace with rapid social change in the
+beginning of the century due to its insistence  on timeless principles.  It
+became,  to paraphrase  Langdell  himself, largely  "irrelevant"  as a swiftly
+changing  polity  required  a  new  legal  architecture  and jurisprudential
+modality to develop rules more consonant with the reality in which mod-
+ern actors tended to find themselves.60  The notion that sixteenth century
+legal decisions would  continue to govern life in the post-industrial world
+could simply not be sustained.
+II.  Langdellian Modalities in the Islamic Experience
+A.  Historical Qualification
+Islamic jurists, like American judges purporting to apply common law
+many centuries old, are not historians.  They often work at cross-purposes
+to history, relying on highly stylized  accounts that are, at best, simplistic
+and reductive and, at worst, inaccurate, to legitimize the jurisprudence on
+which they rely.  However,  these narratives  are ingrained in the legal  cul-
+ture and serve as the engine of jurisprudential development.
+There can be no doubt that contemporary traditionalist Islamic schol-
+ars, including those that operate in the realm of Islamic finance, adhere to
+what they consider the solely authentic brand of shari'a with its origins in
+the  dawn of Islam.61  These  scholars  also  overwhelmingly  credit  Shafi'i
+56.  For a contemporaneous critique of precisely this phenomenon, see Thurman W.
+Arnold, Institute Priests and Yale Observers-A Reply to Dean Goodrich, 84 U. PA. L. REV.
+811, 820-821 (1936).
+57.  See BENJAMIN N. CARDozo,  THE NATURE  OF THE JUDICIAL PROCESS 166-67 (1946).
+58.  See GILMORE, supra note 41, at 77.
+59.  See Grey, supra note 41, at 45.
+60.  See id. at 39.
+61.  See MOHAMMAD  TAQI  USMANI,  AN APPROACH  TO THE QUR'ANIC  SCIENCES  433-34
+(Mohammad Swaleh Siddiqui trans., Rafiq Abdur Rehman ed., 2000) (describing rules
+derived under the  Langdellian  modalities, including those of interest, as having been
+established and agreed upon for over 1400 years, thereby dating it as being developed in
+Muhammad's time). Usmani has served on the Pakistani Bench and on the boards of a
+number of Islamic banks. See MUHAMMAD ABU ZAHRA, USUL AL-FIQH 8-12 (1969); see also
+BADRAN ABu AL-AYNAYN  BADRAN, USUL AL-FIQH 5-12 (1965) (indicating that the modali-
+ties' origins principally lie in the  period immediately  following Muhammad's death).
+Badran and Abu Zahra have produced highly influential works on Islamic jurispruden-
+tial methodologies.  See  MOHAMMAD  HASHIM  KAMALI,  PRINCIPLES  OF  ISLAMIC JURISPRU-
+DENCE,  at xvi  (2003)  (using Abu  Zahra  and  Badran  as principal references  on the
+modalities used to derive the shari'a). In addition, the author has heard frequent refer-
+ences in several Iraqi law schools to Abu Zahra and Badran as two of the most authorita-
+tive voices on Sunni Islamic modalities in the modern world.2007  Langdellianism and the Failures of Islamic Finance
+with development  of the  methodology  they use  to  derive  the shari'a.62
+Therefore, most would not simply credit Shafi'i as the founder of Islamic
+jurisprudence but would go further and indicate that Shafi'i did not found
+the jurisprudence  so much as set down in writing (dawwana) a modality
+that existed from Islam's  earliest days.  This distinction  consecrated the
+modality as an elemental part of the Islamic faith rather than the ex post
+interpretations of jurists, such as Shafi'i, who lived two or more centuries
+after Muhammad's  death.63
+More  reform-minded  Muslims would  not agree with  this  idea  of a
+sacred jurisprudence, as significant evolution of Islamic doctrine requires
+reexamination  of  the Islamic  legend  concerning  shari'a development.64
+Moreover, his historical account is simplistic  and almost certainly inaccu-
+rate in many respects.  Shafi'i's role in developing the jurisprudence is one
+area of contention.65  Another would be the extent to which formalist rigid-
+62.  See, e.g., ABU  ZAHRA, supra note 61, at 12-14 (1969);  BADRAN, supra note 61, at
+11-12; M. Cherif Bassiouni & Gamal M. Badr, The Shari'ah:S ources, Interpretation, and
+Rule-Making, I  UCLA J.  ISLAMIC &  NEAR E. L.  135,  136-37 (describing, in admirable
+detail, the modern understanding of Islamic jurisprudence and methodologies used to
+derive it; crediting Shafi'i with systematizing this dominant methodology; and indicating
+that Shafi'i is commonly considered the founder of Islamic jurisprudence).
+63.  See BADRAN,  supra note 61, at 11-12; ("And Shafi'i was faced with great juristic
+riches from the Companions and Successors  to the Apostle of God  [Muhammad]  and
+thus we cannot say before these great riches anything other than that Shafi'i set down in
+writing the  bases that the riches  focus upon.")  (translated by author);  see also ABU
+ZAHRA, supra note 61, at 12 (using the same verb, dawanna, to describe Shafi'i's achieve-
+ment); Bassiouni & Badr, supra note 62, at 136.  Cf. KAMALI,  supra note 61, at 4-6 (argu-
+ing that most Islamic methodological principles employed today largely predate Shafi'i,
+but nonetheless crediting him with founding the modality).
+64.  Abdullahi  An-Na'im  has  made the  point  repeatedly  in his writings  that the
+shari'a is not an inherently divine code of conduct, but rather a fundamentally norma-
+tive rather than legal code with roots in the divine, ultimately interpreted and applied by
+humans throughout history and consequently subject to manipulation and error.  See,
+e.g., An-Na'im, supra note 35, at 97 ("While Muslims tend to ascribe divine authority to
+historical formulations of shari'ab y jurists of the eighth and ninth centuries, it is clear
+that the precise content of that normative system has always been, and will continue to
+be, the  product of human understanding  in specific  historical context");  ABDULLAHI
+AHMED AN-NA'IM,  TOWARD AN  ISLAMIC REFORMATION:  CIVIL LIBERTIES, HUMAN RIGHTS, AND
+INTERNATIONAL  LAW  11-33 (1990).  An-Na'im  indicates that unless Muslims dissociate
+the divine origin of the shari'a from the continuing human efforts to interpret it, Islam
+cannot play a positive role in the lives of Muslims. See An-Na'im, supra note 35, at 97.
+This is emphatically true in the case of Islamic finance.
+65.  Much scholarship, including the work of the most respected and influential Ori-
+entalists of the last century, emphasizes the ultimate influence of Shafi'i and dubs him
+the father of Islamic jurisprudence. JOSEPH SCHACHT, ORIGINS OF MUHAMMADAN  JURISPRU-
+DENCE  11  (1950);  NOEL J.  COULSON,  A HISTORY  OF  ISLAMIC  LAW  59  (1964);  IGNAZ
+GOLDZIHER,  INTRODUCTION  TO  ISLAMIC  THEOLOGY  AND  LAW  21  (Hamori trans.,  1981).
+Some recent scholars, however, and most prominently Wael Hallaq, indicate that this is
+largely historical fiction, and that Shafi'i had at best a minor role in the development of
+Islamic jurisprudence.  See generally Wael Hallaq, Was Al-Shafi'i the Master Architect of
+Islamic Jurisprudence?, 25 INT'L J.  OF MIDDLE E.  STUD.  587  (1993).  Others interpret
+Shafi'i's work differently, with Jackson considering him to be an anti-formalist (and an
+Arabist bigot) and another commentator insisting that he never intended to create a legal
+system with four identifiable sources of law. Jackson, supra note 38, at 187-91;Joseph E.
+Lowry, Does Shafi'i Have a Theory of Four Sources of Law?, in STUDIES  IN ISLAMIC LEGAL
+THEORY 23-50 (Bernard G. Weiss ed., 2002).Cornell International Law Journal Vol. 40
+ity is truly faithful to classical Islamic interpretive theory.  M.  Cherif Bas-
+siouni, a renowned expert on international criminal law, has indicated that
+classical Islamic criminal law was by its nature "policy oriented", even if in
+the contemporary  era it is often applied  in a "rigid and repressive" fash-
+ion.66  Mohammad Fadel and Sherman Jackson have been in the forefront
+of work concerning the development  of classical Islamic law that suggests
+that it was far more flexible and discretionary than once believed.67
+Nevertheless, to the extent that particular modern Islamic interpretive
+modalities rely on ahistorical legends to sustain them, they are little differ-
+ent from the historical myths common in the United States. Among such
+American  myths  are  the  dubious  historical  propositions  that  seminal
+Supreme Court cases fundamental to American legal culture, such as Mar-
+bury v.  Madison and Lochner v. New York,  respectively stand for the estab-
+lishment of judicial review and as a cautionary tale about the dangers of
+judicial overreaching on the basis of a fashionable social or economic the-
+ory.68  The work undertaken to uncover these legends in the Islamic and
+American contexts is, without question, worthy and commendable for any
+variety of reasons, but for purposes of this Article, irrelevant.
+The author instead elects to engage the stylized historical narrative of
+Islamic jurisprudential history on its own terms, as it ultimately controls
+the  hermeneutic  and  points  the  way  towards  enactment  of  necessary,
+organic  and  workable  adjustments  to  the shari'a. Therefore,  the author
+emphasizes that the narrative related herein is a reconstruction of Shafi'i,
+presupposing the role that Islamic finance proponents give him as setting
+down in writing  their modality, and describing his views within the con-
+straints  of  those  assumptions.  The  description  is  not, by  any  means,
+intended to be a historically  faithful rendition of this controversial  figure,
+66.  M. Cherif Bassiouni, Sources of Islamic Law and the Protection of Human Rights in
+the Islamic Criminal Justice System,  in ISLAMIC CRIMINAL JUSTICE SYSTEM 5 (1982).
+67.  See, e.g., Mohammad Fadel, Istihsan is Nine-Tenths of the Law: The Puzzling Rela-
+tionship of Usul to Furu' in the Maliki Madhhab, in STUDIES IN IsLAMIC LAW AND SOCIETY
+161-76 (Bernard G. Weiss ed., 2002); Jackson, supra note 38, at 180; MOHAMMAD FADEL,
+ADJUDICATION  IN THE MALIKI MADHAB; A STUDY OF LEGAL PROCESS IN MEDIEVAL ISLAMIC LAW
+(1995);  Sherman Jackson,  ISLAMIC  LAW AND  THE STATE:  THE CONSTITUTIONAL JURISPRU-
+DENCE OF SHIHAB AL-DIN  AL-QARAFI  (1996).
+68.  See Marbury v. Madison, 5 U.S. 137 (1803); see also Lochner v. New York, 198
+U.S. 45 (1905); Michael W. McConnell, The Story of Marbury v. Madison: Making Defeat
+Look Like Victory, in CONSTITUTIONAL  LAW  STORIES  13-32 (Michael C. Dorf ed.,  2004);
+David E. Bernstein, The Story of Lochner v. New York:  Impediment to the Growth of the
+Regulatory State, in CONSTITUTIONAL  LAW STORIES  325-58 (Michael C. Dorf ed., 2004).
+Marbury is the more instructive example, given its centrality to American jurisprudence.
+Historical research seems to demonstrate that John Marshall is not the father of judicial
+review, and that Marbury did not intend to establish judicial review, a doctrine which
+was in its day uncontroversial and utterly unremarkable.  See McConnell, supra note 68.
+Therefore, the narrative, told to every incoming law student and universally accepted as
+fact by the bar and bench alike, of a clever Chief Justice ruling in the face of a hostile
+President to expand judicial power considerably, appears to be without historical basis.
+See id.  It perhaps was concocted at a later date by a legal culture eager to anchor this
+vitally important doctrine in early Supreme  Court precedent through a compelling, if
+historically false, narrative.  See id.  Storytelling, it seems, is not unique to the Islamic
+context.2007  Langdellianism and the Failures of Islamic Finance
+or of the rich and multifaceted jurisprudence that developed in the classi-
+cal era after him.69
+B.  Shafi'i and the Formalist Modalities in the Methodology of Hadith
+Reporting
+ShafiTs  central  thesis, developed in his seminal work, AI-Risala, and
+elsewhere,  is that revelation  is comprehensive,  determinative,  and  com-
+plete.70  Revelation includes not only the Qur'an but also the hadith, or the
+specific utterances of Muhammad.71  This inclusion of the hadith in revela-
+tion adds considerable legal material to the corpus of the shari'a,g iven that
+the Qur'an has only approximately 200 verses with legal content unrelated
+to  religious ritual,72  and few  of these verses  are well developed  or well
+defined.  For example,  the  Qur'an proscribes  transactions involving the
+consumption  of riba (illicit gain), while  simultaneously  permitting,  and
+indeed encouraging,  bai' (sale),  without providing precise  definitions  to
+determine  which of the  principles  applies in any particular  situation.73
+The Qur'an orders believers to honor their contracts74 but provides no sup-
+plementary doctrinal principles of contract by which a jurist might deter-
+mine when a breach  has taken place,  what the appropriate remedies  are
+and whether there is an exception to the general Qur'anic principle.  The
+hadith, by contrast, are more numerous, specific, and contextual-in many
+ways, akin to cases in the Langdellian construct.75
+Shafi'i  not only includes  the  hadith but also  makes clear that they
+never depart from the maxims of the Qur'an and only serve to clarify and
+expound  upon it.76  Shafi'i doggedly  holds to this position even when it
+69.  There are numerous, valuable historical works on the  development of Islamic
+jurisprudence  in the classical era.  For a classical discussion, see, e.g., SCHACHT, supra
+note 65; COULSON,  supra note 65; GOLDZIHER, supra note 65.  For a more recent discus-
+sion, see, e.g. WAEL B. HALLAQ, A HISTORY OF ISLAMIC LEGAL THEORIES (1997) [hereinafter
+HISTORY]; WAEL B. HALLAQ, THE ORIGINS AND EVOLUTION OF ISLAMIC LAW (2005) [herein-
+after ORIGINS];  WEISS, supra note 35.  The author makes reference to these from time to
+time, though the focus remains primarily on the contemporary orthodox historical leg-
+end typically endorsed by proponents of Islamic finance.
+70.  MUHAMMAD  IBN IDRIS AL-SHAFI'I, AL-RISALA  c91c4 3-47 (Ahmad Muhammad Shakir
+ed.,  1940) [hereinafter RISALA].
+71.  See id.  9 43-47, 225-27, 569-71.
+72.  See Roy Parviz Mottahedeh, Introduction to MUHAMMAD BAQIR AS-SADR, LESSONS IN
+ISLAMIC JURISPRUDENCE  1-2 (Roy Parviz Mottahedeh trans., 2003).
+73.  See QUR'AN 2:275.
+74.  See id. 5:1.
+75.  For example, doctrinal principles have been derived from Muhammad telling a
+man to tie his camel so that it does not flee, or instructing merchants that forward sales
+should always be accompanied by necessary specifics.  See infra notes 212, 141.  Analo-
+gizing to an American judicial case can only be taken so far, as Muhammad, acting as
+God's Apostle, clearly had the authority to issue an advisory opinion, or to settle politi-
+cal questions.
+76.  See,  e.g.,  RISALA,  supra note  70,  9I 535-37  (using Muhammad's  practices as
+related by the hadith to supply the particulars for the pilgrimage to Mecca mandated by
+the Qur'an), 613-18 (using the pilgrimage, the rules of prayer and theft as examples of
+the hadith providing particulars, and in some cases exceptions, that are absent from the
+Qur'anic mandates).Cornell International Law Journal Vol. 40
+appears untenable.77  For example, the Prophetic hadith prescribe death by
+stoning  as the punishment for zina (non-marital relations) for non-virgin
+women,78 a punishment that remains law in some Islamic countries to this
+day.79  However,  this punishment lies in flat contradiction  to the Qur'an,
+which prescribes one hundred lashes for any man or woman engaged  in
+sexual relations outside of marriage.80  Shafi'i refuses to see this as a con-
+tradiction, and instead  points to a different verse that describes the pun-
+ishment for slave women for falling into shame ("atayna bil fahisha"), to be
+half that of free women, reasoning that the hadith established no contradic-
+tion, but merely created a third category, non-virgin women.81
+Therefore, to Shafi'i, the hadith are absolutely central in Islamic juris-
+prudence to the creation of a legal architecture.82  They are the fundamen-
+tal ontological units of the jurisprudential theory, which are in practice, if
+not in theory, superior even to the Qur'an's verses.
+For revelation to be comprehensive,  determinative, and complete, the
+hadith, though  similar  to  case  law at  first blush,  must  serve  a  role in
+Shafi'i's  analysis  not  unlike  that  of  Langdell's  fundamental  principles.
+Shafi'i needed to take two crucially important steps to achieve this.  First,
+Shafi'i required definitional parameters to determine which hadith were the
+proper ones to use.83  As Langdell faced casebooks from dozens of jurisdic-
+tions, some centuries old, Shafi'i faced an unmanageable number of hadith
+supposedly from Muhammad, his Companions, and revered Successors.84
+Some form of discrimination and determination  undoubtedly was neces-
+sary to develop a sustainable jurisprudential architecture.  Langdell never
+precisely defined his parameters, other than to declare the vast majority of
+cases to be "worse than useless," but Shafi'i was much more careful in this
+respect.85  His approach, repeated throughout his works, is clear:
+Every hadith related by a person of confidence, on the authority of a person
+of confidence, until [the chain] ends with the Prophet, is certain to be from
+the Prophet  and we do not disregard the hadith of the Prophet under any
+circumstances unless another hadith from the Prophet contradicts it; if there
+is a contradiction and one abrogates the other, then we accept the abrogating
+over the abrogated.  If there is no sign of abrogation, then we accept the more
+certain of the two narrations, and if they are both certain, then we look to
+77.  See generally id. 11  610-40.
+78.  See id.  227.
+79.  See, e.g., Vanessa von Struensee, Stoning, Shari'a, and Human Rights Law in Nige-
+ria, 11 WM.  & MARY J. WOMEN & L. 405, 405-406 (2005).
+80.  See QUR'AN 24:2.
+81.  RISALA, supra note 70, ' 227 (translated by author).
+82.  This point seems to be a matter upon which even Islamic historians would agree
+in light of the emphasis given to it in the Risala.  See, e.g., SCHACHT, supra note 65, at 12;
+HISTORY,  supra note 69, at 25.  To this day, proponents of Islamic finance, and Islamic
+scholars generally, invariably describe  the Qur'an and the hadith as the two primary
+sources of legal rules under the shari'a. See, e.g., MUHAMMAD NEJATULLAH SIDDIQI, PART-
+NERSHIP AND PROFIT-SHARING IN ISLAMIC LAW 12 (1985); Au ZAHRA, supra note 61, at 100.
+83.  See SCHACHT, supra note 65, at 315-19.
+84.  See ORIGINS,  supra note 69, at 70-71.
+85.  See SCHACHT, supra note 65, at 315-19.2007  Langdellianism and the Failures of Islamic Finance
+which harmonizes best with the Qur'an and the remainder of the hadith.86
+The most important element of Shafi'i's position on hadith can be gleaned
+from  this quotation-they  are  to  be  derived  almost  exclusively  through
+chains of reliable transmitters, known as an isnad.87  If the isnad appears
+sound, then the authenticity  of the hadith can only be questioned in the
+event of a direct contradiction with another sound hadith.88  Even if a con-
+tradiction exists, harmonization with the Qur'an may establish the author-
+ity and  applicability of the hadith only when no other more  determinist
+technique offers an adequate  solution.89
+Thus, selection of the hadith, the cases from which the fundamental
+principles would be drawn, was originally neither based on compatibility
+with the Qur'an nor on the dictates of human discretion, opinion, or har-
+mony with public policy or practice, but rather on a lengthy chain of sup-
+posedly  reliable  narrators  over  a  span  exceeding  one  hundred  years.90
+That this methodology is highly flawed is accepted quite widely beyond the
+world  of  Islamic  theologians.91  However,  Shafi'i  returns  to  this  point
+repeatedly,  insisting  on  the  isnad as  the  premier  means  by which  the
+authenticity of hadith could be ascertained and selected.92
+C.  Shafi'i's Reductionist Interpretive Controls in the Emerging Formalist
+Modality
+ShafiTs second step to transform the hadith from specific cases to fun-
+damental principles derived from the need to adopt a jurisprudential tool
+that would  enable  extension  of the  hadith beyond  their  literal  original
+terms.  One possible solution would have been the adoption by qadis, or
+judges, of a largely juristic  discretionary principle whenever gaps arose,
+86.  MUHAMMAD IBN IDRIS SHAFI'I, Ikhtilaf Malik wa Shafi'i, in 8 MAWSU'AT AL-IMAM  AL-
+SHAFI'I  AL-KITAB  AL-UMM  513  (Abdul  Muttalib  ed.,  2001)  [hereinafter  Ikhtilaf Malik]
+(translated by author).
+87.  Eventually this method resulted in 4,000-5,000 hadith being accepted as sound
+out of a possible half million reports.  See ORIGINS,  supra note 69, at 107.  As with Lang-
+dell, the vast majority of "cases" turned out to be "worse than useless."  Id. at 110.
+88.  See SCHACHT, supra note 65, at 12.
+89.  See id.
+90.  An example of an isnad appearing in Shafi'i's works reads: "And Malik, [who has
+heard] from Zaid son of Aslam [who has heard] from Atta son of Yasar, [who has heard]
+from Bassir son of Sa'id, who reports that Abu Huraira heard the Apostle of God state
+....  Ikhtilaf Malik, supra note 86, at pt. 2 (translated by author).
+91.  See,  e.g.,  SCHAGHT,  supra note 65, at 4 ("It is generally conceded that ...  the
+classical corpus contains a great many traditions that cannot possibly be authentic.  All
+efforts to extract  from this often self-contradictory  mass an authentic core  . . . have
+failed.").  See generally IGNAZ GOLDZIHER, 2 MUSLIM STUDIES  [MUHAMMEDANISCHE  STUDIEN]
+17-251 (C.R. Barber & S.M. Stern trans.,  1971); G. H. A. JUYNBOLL,  MUSLIM  TRADITION:
+STUDIES  IN CHRONOLOGY,  PROVENANCE  AND  AUTHORSHIP  OF EARLY  HADITH (1983).  Even
+those who find the extreme  skepticism of the earliest commentators  toward the  sub-
+stance of the hadith unwarranted  consider the science of hadith-gathering to have been
+highly suspect and prone to error, if not outright fabrication.  See, e.g., COULSON,  supra
+note 65, at 64-65, 70; HISTORY, supra note 69, at 3; ORIGINS, supra note 69, at 104.
+92.  See SCHACHT, supra note 65, at 12 (indicating that Shafi'i repeats this point with
+"tedious monotony").Cornell International Law Journal Vol.  40
+causing  a  slow  movement  towards  recognizable  norms  based  on  the
+Qur'an, hadith and the opinions of judges.  Yet Shafi'i abhorred any such
+approach,  and spoke particularly  stridently against  adoption  of the doc-
+trine of istihsan, or preference based on generally equitable principles.93
+Shafi'i argues that istihsan is not based on revelation and consequently
+is invalid.94  Moreover, Shafi'i insists istihsan is entirely arbitrary, possibly
+resulting in different conclusions under the shari'a for the same problem in
+different  locations  at different  times.95  To  Shafi'i,  this inconsistency  in
+result  must be,  from a jurisprudential  standpoint, entirely  impossible.96
+Shafi'i is a classic Langdellian  in this instance,  clinging tenaciously, and
+beyond the bounds of good sense, to the notion that law must be a science,
+and that there  should be exactly one determinable outcome  to any given
+juristic problem.  Shafi'i's objections are deep-rooted and transcend policy
+considerations.  He  compares  the application of istihsan to voicing  delu-
+sions  and engaging  in sin  and, at one point, goes  so far  as to  describe
+istihsan as illicit pleasure (taladhudh).97  This is similar to the Langdellians'
+reaction to Cardozo's ideas  on judicial discretion  as a form of "hard-core
+pornography."98
+Shafi'i instead repeats his demand that all law be grounded in revela-
+tion, if not explicitly, then through dala'il,o r signs, contained in revelation
+itself.99  He considers these  signs akin to the stars and the moon, which
+themselves  are  signs that permit  Muslims to determine  the  direction  of
+Mecca and adhere to the Qur'anic command to pray towards Mecca when
+they are  not in its vicinity.100  This forced metaphor serves  only to rein-
+force  Shafi'i's belief that law was driven by some form of quasi-scientific
+logic,  and that observation and study  of the signs would  determine the
+proper answer to  any legal question.
+Shafi'i indicated that qiyas, or a form of reasoning that is largely, but
+not exclusively, analogical, was the sole means by which the signs might be
+discovered  and  the  cases  translated  into  broader  fundamental  princi-
+ples.10 1  Qiyas is less rigorous than the strictly Cartesian logic instituted by
+Langdell,  and, from a  logician's point  of view,  it is no doubt extremely
+93.  Shafi'i devotes an entire treatise to this subject.  See MUHAMMAD  IBN IDRIS SHAFI'I,
+Kitab Ibtal al-Istihsan, in 9 MAWSU'AT AL-IMAM AL-SHAFI'I AL-KITAB AL-UMM 57 (Abdul Mut-
+talib ed., 2001) [hereinafter Kitab Ibtal). Literally, the term istihsan comes from the root
+hasana, meaning "to be good" or "to deem good."  HANs WEHR, ARABIC-ENGLISH DICTION-
+ARY 208 (J.M . Cowan ed., 4th ed. 1994).  A prominent Hanafi jurist later described
+istihsan as "the request for mildness or facility [sahula] in rulings ...  and the leaving of
+what is difficult or unpleasant ['asr] for what is simple or pleasant [yusr], which is the
+basis  of [our]  religion."  MUHAMMAD  IBN  AHMAD  SARAKHSI,  10  KITAB  AL-MABSUT  145
+(1993) (translated by author).
+94.  See Kitab Ibtal, supra note 93, at 65-67, 76; see also RISALA, supra note 70, 1  504-
+05.
+95.  See Kitab Ibtal, supra note 93, at 75-76.
+96.  See id.
+97.  See id. at 76; see also RisALA, supra note 70, 1 1464.
+98.  GILMORE, supra note 41, at 77.
+99.  See RIsALA, supra note 70, 9 1456; see also Kitab lbtal, supra note 93, at 71-73.
+100.  See Kitab Ibtal, supra note 93, at 71-73.
+101.  See RIsALA, supra note 70, '  1460.2007  Langdellianism and the Failures of Islamic Finance
+problematic. 102  In that sense, it seems an unusual choice by Shafi'i, who
+clearly preferred logic and certainty  to discretion and potential variation.
+Yet he had little other choice because qiyas is as reductive a tool as can be
+imagined, while still fulfilling the ultimate purpose that Shafi'i desired-the
+transformation of the hadith from specific cases to fundamental principles,
+the central units upon which Islamic jurisprudence rests.  Unlike Langdell,
+this methodology is not two steps-inductive reasoning of cases to a princi-
+ple, then deduction from a principle to a formal rule-but rather one step
+whereby a specifically precise rule is extended by analogy to a broader rule
+that can be thought of as a fundamental principle, or at least a fundamen-
+tal rule, given its breadth.103  Despite this small difference  between Lang-
+dell and Shafi'i, there are remarkable similarities between their approaches.
+Shafi'i and those following him make clear that qiyas includes, but is
+not limited to, pure analogical reasoning that is almost inductive in nature,
+whereby a jurist identifies a ratio legis, or 'illa, and then applies this 'illa in
+a comparable  case.104  The classic example is the  prohibition against all
+intoxicants based upon the Qur'anic prohibition against the consumption
+of alcohol.105  Shafi'i and his successors also subsumed certain forms of a
+fortiori reasoning, better described as deductive, within the qiyas rubric.10 6
+For example, consuming large quantities of an item was prohibited if con-
+suming small quantities was forbidden.107  Shafi'i made clear  his prefer-
+ence for the latter type of qiyas, given its firmer logical foundations.108
+In light of the imprecision that can adhere to the purer forms of ana-
+logical reasoning, differing jurists could still reach different results in the
+application of qiyas. To further reduce the possibility of non-uniform appli-
+cation of the shari'a,S hafi'i introduced (or merely "set down in writing," as
+some traditionalists would have it)'09 a second interpretive control known
+110
+as ijma, or consensus.
+The basis for ijma under the current modalities is a hadith that the
+community  of Muhammad  "would never  agree  to go  astray.""'  Shafi'i,
+apparently unaware  of this hadith, referred  to two other hadith in which
+Muhammad suggests  that a Muslim should hold fast to the believers.112
+From this, Shafi'i reasoned in a rather strained fashion that if a Muslim is
+102.  See Wael B. Hallaq, Legal Reasoning in Islamic Law and the Common Law: Logic
+and Method, 34 CLEV. ST. L. REv. 79, 85-86 (1985).
+103.  For purposes of clarity and consistency the author continues to use the term
+"fundamental principle," despite the fact that "fundamental rule" might be more apt in
+some contexts.
+104.  See RisA,  supra note 70, '  594 (using the term ma'na rather than 'illa).
+105.  See, e.g., Hallaq, supra note 102, at 88-89; see also RisALA,  supra note 70,  9t 1394-
+1400 (using a separate example concerning hunting during the time of the pilgrimage).
+106.  See RisALA, supra note 70,  1483.
+107.  See id.
+108.  See id. (describing this as the strongest type of qiyas).
+109.  See ABU ZAHRA, supra note 61, at 189-90 (describing ijma as having been devel-
+oped by Muhammad's closest and most revered companions) (translated by author).
+110.  See RiSALA,  supra note 70, IN 1101,  1315.
+111.  ABU ZA-RA, supra note 61,  at 190.
+112.  See RisALA, supra note 70,  c 1101,  1315.Cornell International Law Journal Vol. 40
+not to deviate from the community, then a fortiori the community must be
+free  of error.113  Moreover,  Shafi'i argued  that the communal determina-
+tion must be applied in perpetuity because otherwise, the effect of the ijma
+would always be to give the current generation of scholars the right to over-
+rule their forebears, vanquishing  the notion of absolute  authority.114  In
+addition  to  resisting  temporal  constraints,  Shafi'i  devoted  considerable
+energy to refuting the notion that there could be a local or limited Islamic
+ijma  among  a  geographical  region,  or  that  ijma  could  apply  to  a
+supermajority of scholars, as opposed to strict unanimity  of them."l5
+As would be the case with anyone analogizing scientific endeavor to
+deduction of legal rules, Shafi'i appeared obsessed with obtaining the sin-
+gle correct result and ensuring its uniform application over time and place.
+Therefore, Shafi'i's modality is like Langdell's and extraordinarily resistant
+to  variation.  For  Langdell,  the  rules  derived  from  such  principles  are
+deductive,  straightforward,  and not  subject to  serious  future  challenge,
+while Shafi'i  not only raised hadith to the equivalent  of commandments
+from  God  but  also  crystallized  and  canonized  particular  extensions  of
+them through the doctrines of qiyas and ijma.
+D.  Anti-formalism  and the Langdellian Modality
+A full discussion of the dominant Langdellian modalities is impossible
+without discussing two anti-formalist tools dismissed by Shafi'i but none-
+theless found in Islamic jurisprudence. 11 6  Their influence over the devel-
+opment  of  jurisprudential  principles  is  generally  slight  in  the
+contemporary  era but is significant enough  to bear mention, particularly
+because they played a minor role in deriving the rules governing Islamic
+finance.
+1.  Istihsan
+Istihsan, the target of Shafi'i's  fiercest attacks, is the primary anti-for-
+malist jurisprudential tool that still remains part of the dominant modality
+applied in modern Islamic finance. 117 It was classically permitted only by
+113.  See id.'1 9l  1105, 1320 ("[Alnd thus it is not possible for the community in its
+entirety to be in error, on the meaning of the Qur'an, or the hadith or the application of
+qiyas") (translated by author).
+114.  See Ikhtilaf Malik, supra note 86, at 763.
+115.  See id. at 763-71.
+116.  This is not meant to suggest that other, lesser sources of Islamic law do not exist.
+Bassiouni and Badr do an admirable job of cataloging and describing all such sources.
+See Bassiouni & Badr, supra note 62, at 138-159; see also Bassiouni, supra note 66 at 9-
+10. It suffices to say, however, that none of the sources other than those described in the
+text plays a major role in the development of Islamic jurisprudence in the world of con-
+temporary Islamic finance.
+117.  Interestingly, the dominant modalities, to preserve the impression  of a unified
+jurisprudence that has existed from Islam's birth, strive mightily to minimize the differ-
+ences between early jurists, such as Shafi'i, who seems to regard istihsan as a moral
+failing, and the eponyms of the Hanafi and Maliki schools, the latter of whom indicated
+that istihsan is nine tenths of the law.  For example, Kamali points out that even Shafi'i
+employed istihsan once, though it is hard to see how one casual and minor reference2007  Langdellianism and the Failures of Islamic Finance
+two of the four primary schools of thought in Sunni Islam, the Hanafi and
+Maliki." 18  Istihsan is of secondary status, to be used  only when the hadith
+offers no explicit solution, qiyas does not lend a satisfactory answer, and
+there is some necessity or reason for applying the alternative rule.  t9 For
+example, Islamic jurisprudence  has derived a prohibition  against certain
+extraneous stipulations in contracts, based on a series of hadith.'20  How-
+ever, some stipulations common in customary commercial practice are per-
+mitted by some jurists through the doctrine of istihsan.121 Therefore, the
+continued existence  of istihsan may impose  fewer interpretive  controls in
+developing modern commercial rules but the effect is largely marginal.
+2.  Istislah
+Istislah, or concern for the public interest, is a supplementary jurispru-
+dential doctrine adopted by the Maliki and Hanbali schools of thought, and
+it bears remarkable  resemblance  to istihsan both in its purposes and its
+very narrow scope. 122 It is used to guide the process of qiyas or to provide
+an answer  that somehow harmonizes  with or is near to, but not rigidly
+derived from, qiyas.123
+E.  Demonstrations  of Langdellianism: The Problems of Riba and
+Gharar in the Formalist Modalities
+'Abd  al-Razzaq  Sanhuri, the premier Arab jurist of the last century,
+was as influential to the establishment and subsequent development of the
+legal order in the post-colonial Middle East as Blackstone and Coke were to
+the development of the common law.124  Sanhuri contended that three doc-
+could possibly negate Shafi'i's strident attacks on the doctrine contained in his more
+well-known works. See KAMALI,  supra note 61, at 344.  Abu Zahra posits that Shafi'i was
+not directing his attacks against istihsan, as the Hanafis understood it, so much as istis-
+lah, discussed infra Part II.D.2, which is what the Malikis really meant by istihsan.  See
+ABU ZAHRA, supra note 61, at 258-60.  In any event, Abu Zahra argues that the differences
+are not as great as they might seem.  See id. at 271-72.
+118.  See, e.g.,  id. at 251; KAMALI, supra note 61, at 332-34.  The four classical schools
+.of thought within the Sunni jurisprudential tradition are the Hanafis, Shafi'is, Hanbalis
+and Malikis.  See Bassiouni & Badr, supra note 62, at 161.  Modern Islamic scholars tend
+not to divide themselves according to school of thought, and, in applying the Langdellian
+modalities, tend to minimize any differences that might have existed between the classi-
+cal schools.  See, e.g., supra note 117.
+119.  See ABU ZA-RA, supra note 61, at 251.
+120.  See  'ABD  AL-RAZZAQ  AHMAD  SANHURI,  3  MASADIR  AL-HAQQ  Fl  AL-FIQH  AL-ISLAMI:
+DIRASA  MUQARANAH  BI-AL-FIQH  AL-GHARBI  [THE  SOURCES  OF  TRUTH  IN  ISLAMIC  JURISPRU-
+DENCE: A COMPARATIVE STUDY  WITH WESTERN JURISPRUDENCE]  172-73 (1967).
+121.  See id. at 173.
+122.  See ABu ZAHRA, supra note 61, at 260 (indicating that Malik's references to istih-
+san were primarily meant to cover istislah).
+123.  See id. at 281-83.
+124.  As any common lawyer in the early nineteenth century would naturally have a
+copy of Blackstone's Commentaries by his side, so any Arab lawyer working in most of
+the Arab countries of the Middle East would refer any legal question concerning inter-
+pretation of the civil code to  Sanhuri's multi-volume  Al-Wasit, which functions effec-
+tively  as his commentaries  on the  Egyptian  Civil Code.  See 'ABD AL-RAZ7AQ  AHMAD
+SANHURI,  AL-WASIT F1 SHARH  AL-QANUN  AL-MADANI  AL-JADID  (1952).  See, e.g., WILLIAM M.Cornell InternationalL aw Journal Vol.  40
+trinal prohibitions in the shari'a, as interpreted under the dominant modal-
+ities,  were  particularly  problematic  in  the  development  of  Islamic
+commercial jurisprudence.  These are (a) the prohibition of riba, or illegiti-
+mate gain,125 (b) the prohibition of gharar,o r particular forms of risk, and
+(c) the prohibition of stipulations or multiple bargains in a single contract.
+Sanhuri  argues that these are entirely divorced from that which commer-
+cial practice demands,126 leading one prominent English legal practitioner
+in the Arab world to remark, in furtherance  of Sanhuri's claim, that  "[i]n
+the modern commercial context, the shari'a is an embarrassment."' 27
+This section examines two of the three problematic principles laid out
+by Sanhuri,  riba and gharar,a s they constitute  paradigmatic examples of
+the means by which formal fundamental principles are established under
+the dominant Langdellian modalities in modern Islamic finance.128
+BALLANTYNE,  ESSAYS AND  ADDRESSES  ON AR" LAWS  79 (2000).  Sanhuri drafted the civil
+codes of both Egypt and Iraq, and served as dean of the historically prestigious Cairo
+and Baghdad colleges of law.  His civil code is the template of the civil codes of nearly
+every nation in the Middle East, excluding those governed entirely by the shari'a.  See
+Abdullahi Ahmed An-Na'im, Globalization and Jurisprudence:A n Islamic Law Perspective,
+54 EMORY L.J.25 , 47 (2005).
+125.  For a fuller description of the controversies concerning the definition of the term
+riba, see infra Section II.E.1.
+126.  See SANHURI,  supra note 120, at 14.
+127.  BALLANTYNE,  supra note 124, at 82.
+128.  The Article does not discuss the third prohibition, stipulations and multiple bar-
+gains in contract, simply because the rather extensive discussion it requires would prove
+unnecessarily burdensome to the central theses the Article seeks to advance.  The thesis
+is demonstrated well enough by the doctrinal prohibitions of riba and gharar. However,
+the example of stipulations is a fascinating one, as it demonstrates the extent to which
+modern Islamic financiers  are forced to ignore the Langdellian modalities when their
+extensive and elaborate artifices cannot surmount them. According to Vogel and Hayes,
+modern Islamic finance rarely pays heed to the specific prohibitions against stipulations
+in contract (such as, for example, a requirement attending the purchase of a camel that
+the camel be transported to a particular location at the seller's expense), relying on a
+classical interpretation of Ibn Taymiyah  that does not appear  to prohibit stipulations,
+unless they contradict the contract or otherwise violate the shari'a. See VOGEL & HAYES,
+supra note 6, at 101 (citing Sanhuri, who quotes Ibn Taymiyah); see also SANHURI,  supra
+note 120, at 167-68.  Ibn Taymiyah belongs to the Hanbali school, which traditionally
+approves of a single stipulation in any agreement of sale, but no more.  Ibn Qudamah,
+for example, indicates that Ibn Hanbal, the eponym of the Hanbali school,  reports a
+hadith, also contained  in two of the six works that constitute  the classical corpus of
+hadith, which prohibits two stipulations in a sale, but that Ibn Hanbal rejects a separate
+hadith, nevertheless appearing in two of the six canonized texts as well, prohibiting even
+a single stipulation.  See MUWAFFAQ AL-DIN 'ABD ALLAH IBN AHMAD IBN QUDAMAH ET AL.,  6
+Al-MUGHNI  321-22 (1986).  Ibn Taymiyya also rejects the latter hadith on the authority of
+his mentor, Ibn Hanbal.  However, Ibn Taymiyya says absolutely nothing about the for-
+mer  restriction.  IBN TAYMIYAH,  6  A-FATAWA  AL-KUBRA  408  (1987);  IBN TAYMIYYA,
+NAZARIYYAT AL-'AQD [OPINIONS ON THE LAW OF CONTRACT] 14-16 (1977).  The irony is that
+despite their rigid insistence on the absolute authority of the eternal validity of the Pro-
+phetic hadith, the Langdellian proponents of Islamic finance are disregarding one, and
+possibly two, hadith with sound isnads per the writings of a single fourteenth century
+jurist, who provided no basis at all for doing so.2007  Langdellianism and the Failures of Islamic Finance
+1.  Contours of the Riba Proscription
+Riba as currently understood is possibly the most difficult of the com-
+mercial prohibitions contained in the shari'a to incorporate into modern
+commercial practice.  The prohibition of riba derives from several verses of
+the Qur'an, the most prominent of which is verse 2:225, which reads:
+Those who devour riba cannot rise ...  [T]hat is because they say, bai' [sale]
+is like riba. But Allah has allowed bai' and forbidden riba. Those who, after
+receiving direction  from their Lord, desist, shall be pardoned for the past;
+their case is for Allah (to judge); but those who repeat (the offense) are com-
+panions of the Fire: They will abide therein (forever). 129
+However, while the verse makes abundantly clear a vast conceptual differ-
+ence between riba and bai', the contours of the terms themselves are almost
+entirely undefined.  The term riba has been variously translated as "unjus-
+tified profit," "illicit gain," "usury" or, most broadly, "unlawful gain by way
+of excess or deferment," which effectively would mean interest.130  From
+this and other verses, it is also  clear that riba was  a practice  known in
+Muhammad's lifetime (hence the reference to those who compare it favora-
+bly to bai'), that it potentially involves enormous profit,131 that it involves
+some  form of exploitation that can be compared to theft,132  and that its
+opposite  appears  to  be charity.133  The  Qur'an  provides  little guidance
+beyond this.
+The riba practice in Muhammad's time appears to have been a transac-
+tion  between  lender  and borrower,  whereby  the  lender agrees  to  delay
+repayment of a loan at the time of repayment in exchange for doubling of
+the value  of the loan.  This  explains the Qur'anic reference  to "doubling
+and redoubling" in verse 3:130.134  This practice  is commonly  known as
+riba al-jahiliyya. Indeed, Ibn Abbas, Muhammad's  cousin, reports a sound
+hadith that the only riba is riba aljahiliyya.1 35  Yet a second hadith reads as
+follows:
+Gold for gold, like for like, hand to hand and any excess is riba. Silver for
+silver, like for like, hand to hand and any excess is riba; grain for grain, like
+for like, hand to hand and any excess is riba; salt for salt, like for like, hand
+to hand and any excess is riba; barley for barley, like for like, hand to hand
+and any excess is riba; dates for dates, like for like, hand to hand, and any
+excess is riba. And if the kinds differ, then sell as you wish, so long as it is
+129.  QUR'AN 2:225 (translated by author).
+130.  See, e.g.,  NOEL J. COULSON, COMMERCIAL  LAW IN THE GULF  STATES  100 (1984);
+NABIL A. SALEH, UNLAWFUL GAIN AND LEGITIMATE PROFIT IN ISLAMIC  LAW 13 (1986).
+131.  See QUR'AN 3:130 ("Oh ye who believe, do not devour riba, making it double and
+redouble .. .") (translated by author).
+132.  See id. 4:161 (promising a painful punishment for those who devour riba and
+those who devour the property of others falsely).
+133.  See id. 30:39 ("And whatever you lay out as riba, so that it may increase in the
+property of men, it shall not increase with Allah; and whatever you give in charity, desir-
+ing Allah's pleasure, you shall get manifold.") (translated by author).
+134.  See VOGEL & HAYES, supra note 6, at 72-73; see also S.E. RAYNER, THE THEORY OF
+CONTRACTS  IN ISLAMIC LAW 268-69 (1991), see also SANHURI, supra note  120, at 241.
+135.  See id. at 222-23.Cornell International Law Journal Vol. 40
+hand to hand.136
+The two hadith on riba are not easily reconcilable, and Ibn Abbas, as
+well as  a  few  like  minded  Companions,  appear  to  have  maintained  the
+validity  of  his narrower  definition  of riba, though  there  are  debatable
+reports  that he abandoned  his claim when  confronted with the broader
+hadith.137  Yet  these  conflicting  hadith are  not to  be  ignored  under  the
+modalities, given  the centrality  of the  hadith to the development  of legal
+rules.  As a result, Ibn Abbas' hadith was declared by juristic consensus to
+be in some way misunderstood, and riba al-jahiliyya is, in light of the lan-
+guage of the Ibn Abbas  hadith, perhaps  the strongest of several potential
+forms of riba, but other forms exist.138
+The second hadith quoted above  adds two categories of riba, one  in
+which certain hand to hand, or simultaneous, transactions result in a mate-
+rial gain for one party, and one in which a transaction results in  delayed
+receipt on the part of one party.139  The hadith only applies to  six items,
+and even then, only to trade within any particular item when excess values
+are  concerned.  Yet  the  tool  of qiyas as  applied  reductively  within  the
+modalities took this relatively  narrow rule and broadened it into a funda-
+mental principle of considerable breadth, forbidding trade of various kinds
+between items resembling those on the list unless the trade was simultane-
+ous, or of equal value.140  Classically, and in keeping with the terms of the
+hadith, jurists obsessed primarily on the sales and trades prohibited by it,
+not whether it encompassed loans.141  However, Islamic  finance has con-
+136.  SARAKHSI, supra note 93, at 110 (translated by author); SANHURI,  supra note 120,
+at 177 (translated by author).  A similar version appears in the Risala as well. See RISALA,
+supra note 70, 1 1518.
+137.  See SANHURI,  supra note  120, at 222, 226.
+138.  See id. at 224-27 for classical references suggesting this.  The idea that the Ibn
+Abbas hadith is meant to suggest that riba al-jahiliyya is the strongest but not the exclu-
+sive form of riba is not altogether impossible reasoning, given an Arabic idiomatic pecu-
+liarity where the negation of the existence of all other types of an entity or style can
+merely be an emphasis on the strength of that entity or style. For example, Muhammad
+is known to have  said that there is no youth except his son in law Ali, and no sword
+except Ali's sword.  Clearly Muhammad knew of the existence of other youth and other
+swords, and the statement is meant more in praise of Ali's prowess than as a statement
+of exclusion.  See PHILIP K. HiTTi,  HISTORY  OF THE ARABS  183  (1937)  (translating this
+hadith as "no sword can match [Ali's] and no young warrior can compare with 'Ali!'").
+139.  See VOGEL & HAYES,  supra note 6, at 74.
+140.  See id.
+141.  See, e.g., SANHURI,  supra note 120, at 178-94.  No consensus was ever reached on
+the parameters of the relevant prohibited trade classifications in classical jurisprudence
+once  this hadith was expanded  through  qiyas.  For example, jurists  disagreed  as  to
+whether the hadith, when expanded to a fundamental principle, should classify items by
+weight and volume and prohibit delayed exchanges within each classification,  as the
+Hanafis and Hanbalis believed, or whether the hadith should classify items as currency
+or preservable and non-preservable foodstuffs, as the Malikis maintained, or simply cur-
+rency and foodstuffs, as the Shafi'i's maintained.  See id. The inquiry is largely casuistic
+and irrelevant for the purposes of this Article.  However, it should be noted that there is
+an exception to this rather broad restraint on trade based on a separate series of hadith
+that permit a practice known as salam, or advance purchase of commodities if accompa-
+nied  by specific  information  and  full advance  payment.  See  MUHAMMAD  IBN ISMA'IL
+BUKHARI,  3 SAHIH AL-BUKHARi 35 (1990) ("The Messenger of Allah came to Madinah, and2007  Langdellianism and the Failures of Islamic Finance
+cluded that an ijma, based on this hadith, prohibits trades of not only gold
+and silver but also of all other forms of currency, unless hand to hand and
+without excess.142  Thus, riba has become synonymous in the modern era
+with interest of any kind on a loan, and jurists in Islamic finance routinely
+dismiss any alternative conclusion, based on the employment of alternative
+modalities, as "apologetic" or "defeatist."'143  Since the modality admits no
+possibility  for the  community  to be  mistaken  in reaching  this ijma, the
+found its inhabitants entering salam contracts in fruits for one, two, and three years.  He
+said: 'Whoever enters into a salam contract, let him specify a known volume or weight,
+and a known term of deferment."') (translated by author); see also VOGEL & HAYES, supra
+note 6, at 74, 139; see also SANHURI,  supra note 120, at 35, 190.
+142.  See VOGEL & HAYES, supra note 6, at 77; see also SALEH,  supra note 130, at 48.
+Classical  references  seem to  support this conclusion to  some extent.  See, e.g.,  IBN
+QUDAMAH,  supra note 128, at 436 (declaring an ijma on the subject). Ibn Qudamah and
+the prominent Hanafi jurist, Sarakhsi, both also report a hadith that prohibits a loan
+with a benefit.  See id.; see also SARAKHSI, supra note 93, at 35. The latter hadith, however,
+is of arguable validity given particular problems with the isnad. See VOGEL  & HAYES,
+supra note 6, at 77. In addition, it should be noted that loans were considered charitable
+acts in the early Islamic period, and the notion of a loan with a benefit would therefore
+probably  be  considered  odious  to  Muslims  in  the  classical  period.  See,  e.g.,  IBN
+QUDAMAH,  supra note 128, at 429-30 (discussing the ethereal rewards given to those who
+offer interest free loans to their fellow Muslims in need).
+143.  See, e.g., Mohammad Uzair, Impact of Interest Free Banking, 1 J. ISt.AMIC BANKING
+& FIN. 39, 40 (1984) ("By this time, there is a complete consensus of all... schools...
+and among Islamic economists that interest in all forms, of all kinds, and for all pur-
+poses is completely prohibited in Islam. Gone are the days when people were apologetic
+about Islam, and contended that the interest for commercial and business purposes, as
+presently charged by the banks, was not prohibited by Islam."); UsMANI,  supra note 24, at
+111 (describing the position permitting some forms of interest as "defeatist"); COUNCIL
+OF ISLAMIC IDEOLOGY,  GOVERNMENT OF PAKISTAN,  Report of the Council of Islamic Ideology
+on the Elimination of Interest from the Economy, in CONSOLIDATED  RECOMMENDATIONS  ON
+THE ISLAMIC ECONOMIC SYSTEM 7 (1983) (indicating the presence of "complete unanimity
+among all schools of thought in Islam that the  term riba stands for interest in all its
+types and forms"); ABDULLAH  SAEED, ISLAM1C BANKING AND  INTEREST 50 (describing this
+position as "dominant" and "the basis of Islamic banking theory as well as practice");
+CHAPRA, supra note 25, at 63.  This position has come under attack by some modern
+reformist-minded  jurists  using  anti-formalist  hermerieutical  techniques.  See,  e.g.,
+SANHURI,  supra note  120, at 219-49; Chibli Mallat,  The Debate on Riba and Interest in
+Twentieth Century Jurisprudence, in ISLAMIC LAW AND  FINANCE 69, 8--81 (Chibli Mallat
+ed., 1988). This is discussed further in Part IV, but the point here is that anti-formalist
+interpretive modalities are not entirely extinct.  However, the dominance of the Langdel-
+lian position and the marginalization of the various anti-formalist modalities of modern
+reformers should not be understated.  The Egyptian Constitutional Court, when asked
+to rule on the issue of whether the Civil Code's provision of interest violated the shari'a,
+adopted neither the riba interpretations of Sanhuri, the drafter of the Civil Code, nor of
+Rashid Ridha and Muhammad Abdu, both respected reformist Islamic scholars working
+at one of the most prestigious Islamic centers of learning in the modern world. Instead,
+the Court accepted  the  notion that interest  on loans was indeed riba and therefore
+banned  by  the shari'a, but then  contended  that the  constitutional  amendment  that
+demanded all laws conform to the shari'aw  as not intended to apply in any meaningful
+way to legislation enacted prior to its adoption.  See Rector of the Azhar University v.
+President  of the  Republic, Judicial Year  No.  1, Case  No. 20 (Sup.  Const. Ct.  1985)
+(Egypt),  reprinted in W. M.  Ballantyne, Supreme Constitutional Court (Egypt)-Shari'a
+and Riba, 1 ARAB L.Q. 100 (1985).  That the Court preferred this type of legalistic non-
+sense to the adoption of a coherent anti-formalist position on riba speaks volumes about
+the virtually exclusive control that the Langdellian modalities have in deriving the sub-
+stance of the shari'a.Cornell International Law Journal Vol.  40
+derived rule is unassailable and will haunt Islamic finance for as long as it
+continues to cling to its Langdellian ways.
+2.  Gharar
+Unlike  riba, whose  foundational elements  are contained within  the
+Qur'an, the jurisprudential  doctrine  of gharar, or risk, is nowhere  men-
+tioned in the Qur'an, and the verses from which it is derived form an atten-
+uated justification  for it through the  prohibition of maysar, or  games of
+chance.144  The  most  often  cited  verses  are  5:90-91,145  which  read  as
+follows:
+0 you who believe!  Intoxicants and maysar, sacrifices for idols and divina-
+tion by arrows are an abomination, the work of Satan, so avoid them so that
+you may be successful.
+By  means of intoxicants and maysar Satan only wants to sow enmity and
+hatred among you and take you from the remembrance of Allah and prayer,
+so will you not abstain?146
+The juxtaposition  of  maysar with  alcohol,  activities  of divination,
+throwing arrows, and sowing  enmity  and hatred and creating some  dis-
+tance between the believers and the worship of God, does not indicate that
+maysar was meant to address more than standard forms of gambling.  That
+the Langdellian  modalities would expand this prohibition to encompass
+significant levels of risk in modern financial and commercial transactions
+seems astonishing and entirely incongruent with the verse.
+However, the hadith on the subject do forbid high levels of uncertainty
+in commercial transactions despite the incongruity.  A variety of hadith for-
+bid the sale of unripe fruit on a tree, the sperm of a stallion, the fetus of a
+camel, grapes until they are black, or grain until it is strong.147  Applying
+qiyas to these and related hadith, the Langdellian modalities have derived a
+series of rules concerning gharart hat stringently limit levels of uncertainty
+in contemporary commercial  transactions.148  All  of these have been rati-
+fied and consecrated as immutable rules under the doctrine of ijma. 149
+The two central fundamental principles involving gharar are a prohibi-
+tion against the sale of an item not currently in existence,'50  and a ban on
+144.  See SALEH,  supra note  130, at 85.
+145.  See, e.g., VOGEL & HAYES,  supra note 6, at 64; SALEH,  supra note 130, at 62.
+146.  QUR'AN 5:90-91 (translated by author).  A similar verse appears in 2:219, where
+maysar and intoxicants are said to have both benefit and sin, but that the sin exceeds the
+benefit.  See id. 2:219.
+147.  See IBN RUSHD,  2 THE DISTINGUISHED  JURIST'S PRIMER  [BIDAYAT AL-MUJTAHID]  179-
+80 (Imran  Ahsan Khan Nyazee  trans.,  1996).  This is another example  of an area in
+which the doctrine of istihsan has provided marginal levels of interpretive flexibility in
+the classical era. For example, some jurists recognize the doctrine permitting the sale of
+fruit on a branch so long as it is cut imminently and ripens fully after its cutting. See
+SARAKHSI,  supra note 93, at 197.
+148.  See VOGEL & HAYES,  supra note 6, at 87-95.
+149.  See id.
+150.  See, e.g., SANHURi,  supra note 120, at 31 ("[A]nd thus we find that there is an ijma
+among the schools of thought that if an object is not at all in existence at the time of
+contracting, then the contract  is void.") (translated by author); VOGEL & HAYES,  supra2007  Langdellianism and the Failures of Islamic Finance
+all significant uncertainties in a contract, such as any uncertainty over cost
+or duration.151  The effect of these  prohibitions, and particularly  the ban
+on uncertainties, is commercially devastating.
+There are two exceptions to the prohibition of gharar,o ne developed
+as a result of a contradictory hadith, and the other derived from an applica-
+tion  of  istihsan in  the  classical  era  and  extended  by  modern  Islamic
+finance.152  As to the first exception, advance purchases, known as salam,
+were permitted by Prophetic  hadith'53  so long as they did not pertain to
+particular  objects and were generic  or abstract  sales.154  The delivery  of
+cash for the purchase  had to be immediate. A bilateral executory contract,
+where the seller agreed to purchase at a later date and the buyer agreed to
+buy at that date, was invalid.155  The second exception related to a concept
+known as istisna, pursuant to which parties contract for the manufacture of
+particular goods not in existence at the time of contract formation.' 56  The
+doctrine exists, and has existed classically, through the doctrine of istihsan,
+making it a very limited exception to the prohibition against sales of non-
+57
+existent objects.'
+note 6, at 91.  This is reflected in classical texts as well.  See, e.g., IBN RUSHD, supra note
+147, at 124 ("[T]hus all of the jurists have reached an ijma that [the sale of fruit prior to
+its appearance] is forbidden because it is the sale of an item not created.") (translated by
+author).
+151.  See SANHURI,  supra note 120, at 49.  Thus, a price pegged to a varying index or a
+lease contract that imposes largely unknown liabilities on a lessee falls well within the
+bounds of prohibited gharar in Islamic finance.  See VOGEL & HAYES, supra note 6, at 93,
+144.  Classical jurists, for their part, tended to classify gharar as being either large or
+small, with  scholars  agreeing generally  that the  large  form  was  prohibited and the
+smaller form permitted.  See,  e.g.,  IBN  RUSHD, supra note  147, at 175-77  (comparing
+schools of law with respect to great and small forms of gharar); cf. SANHURI,  supra note
+120, at 47 (quoting other classical jurists who include a third form, moderate gharar,
+about which there is disagreement as to its permissibility).  There was considerable disa-
+greement about what constitutes large gharar and small gharar. See IBN  RUSHD, supra
+note 147, at 175-81.  However, the prohibited large form generally inheres in contracts
+of sale or other profit-based contracts (as opposed to gratuitous contracts or contracts of
+marriage) when it has a large effect on the contract.  See SANHURI,  supra note 120, at 49.
+Thus,  jurists  disagreed  on  whether  the  non-presence  of  an  existing  object,  fully
+described at the time of sale, would create a form of gharar as large or small, with some
+arguing that the non-presence has no effect on the contract, and others, such as Shafi'i,
+insisting that it does.  See IBN RUSHD, supra note 147, at 177-78.
+152.  See VOGEL & HAYES,  supra note 6, at 89.
+153.  See supra note 141.
+154.  See VOGEL  &  HAYES,  supra note 6, at  89.  Thus,  for example,  the  immediate
+purchase of a certain number of bushels of wheat was permitted, but not wheat from a
+particular  field.  See id.  Other rules also existed,  requiring precise  specifications on
+weight and type, for example.  See SANHURI,  supra note 120, at 34.
+155.  See VOGEL & HAYES, supra note 6, at 89.
+156.  See SANHURI, supra note 120, at 38.  This existed in the classical era as well.  See
+ABU BAKR IBN MAS'UD KASANI,  7 BADA'i AL-SANA'I  FI TARTIB AL-SHARA'! 2167-69 (Zakariya 'Ali
+Yusif ed., 1968)
+157.  See SANHURI, supra note 120, at 38-39.  The majority of classical Hanafi jurists
+held istisna contracts to be non-binding in their entirety until the goods had been manu-
+factured and the buyer had the opportunity to inspect them. See KASANI, supra note 156,
+at 3168-69 (indicating that the non-binding nature of istisna derives directly from the
+fact that it is a product of judicial preference and departs from the rule of qiyas). How-
+ever, there was a minority opinion from the early Hanafi jurist, Abu Yusuf, holding thatCornell International Law Journal Vol.  40
+III.  The Failures of Islamic Commercial Jurisprudence-The
+Consequences of Langdellianism
+A.  Original Conceptions
+The foundational  element  of the  alternative  fairness-based  architec-
+ture, which the proponents of Islamic finance first envisaged as complying
+with  the  rules  of  gharar and  riba under  their  modalities,  was  the
+mudharaba, an Islamic  form of passive  partnership.158  In a mudharaba,
+passive investors place their capital in a venture, other participants contrib-
+ute only their labor, profits are distributed first to the investors until their
+investment  is  recouped,  and  the  remaining  profits  are  then  distributed
+based on an agreed upon percentage.159  Those contributing their labor
+would bear no capital risk.160
+As  originally  envisaged,  Muslims  would  passively  "invest"  in  the
+Islamic "banks" through deposits, and the banks would then invest as pas-
+sive partners in various ventures.161  Profits from the ventures would  be
+distributed to the partners  of the Islamic bank and the managers  of the
+ventures based on an agreed upon percentage.162  Thus, this model would
+avoid debt and derive all profits derived from genuine gain.  Passive part-
+ners would exclusively bear all losses.'63
+Unfortunately, as might be expected of a legal system developed with
+scant concern for discretionary preference or practical reality, this model is
+commercially unworkable as an alternative  to the conventional bank sys-
+tem because it offers neither the liquidity nor the minimal risk of loss that
+would be expected  of a bank.164  For example,  private equity funds cur-
+rently operate  on principles of limited  partnership  very similar to  those
+envisaged by the early Islamic financiers. 165  However, because of the con-
+istisna contracts were binding at the time of the offer, not acceptance,  considering the
+hardship that would exist if either party refused to enter into the contract after the goods
+had been manufactured.  See id. at 3169.
+158.  See VOGEL & HAYES, supra note 6, at 130-31; see also SIDDIQI, supra note 26, at 86;
+see also UsmAI, supra note 24, at 10. Sadr seems to have adopted this principle as well.
+See AL-BANK, supra note  17, at 154 (indicating that the first principle of lending policy
+should be the transformation of loans into partnership transactions where possible).
+159.  See VOGEL & HAYES,  supra note 6, at 109-10.
+160.  See id.
+161.  See id. at 131; see also WARDE, supra note 9, at 135-36; see also AL-BANK, supra
+note 17, at 154.
+162.  See VOGEL & HAYES, supra note 6, at 131; see also WARDE, supra note 9, at 135-36;
+see also AL-BANK, supra note 17, at 154.
+163.  See VOGEL & HAYES,  supra note 6, at 109-10.
+164.  As to whether or not such a system, even if it were somehow workable, is neces-
+sarily fairer than interest-based banking, there can be considerable doubt.  The financial
+institution would only be entitled to share in gains in the venture, but given that there
+are few limitations on the percentage of profits that an investor may earn in a venture,
+the  transaction could be considerably less equitable than debt.  See VOGEL &  HAYES,
+supra note 6, at 81; see also Kuran, supra note 28, at 178. For example, an entrepreneur
+may well regard a 6%  guaranteed return to a bank as considerably fairer than a 90:10
+division of profit in favor of an investor.
+165.  For more detailed information on the structure of private equity funds, see JAMES
+M. SCHELL, PRIVATE EQUITY FUNDS: BUSINESS STRUCTURE AND OPERATIONS § 301 (2000).  In2007  Langdellianism and the Failures of Islamic Finance
+siderab!e risk of loss, annualized internal rates of return to the passive lim-
+ited partners are expected to net significantly higher gains than investment
+in a bank.166  Moreover, Islamic banks would have less liquidity than con-
+ventional banks if they relied solely on mudharaba. For example, if deposi-
+tors at an Islamic bank react to unexpected losses by rushing to withdraw
+their funds, then an Islamic bank would have no recourse to quick liquidity
+through discounting current debt obligations or borrowing from a central
+67
+bank with interest.1
+Another difficulty in using the mudharaba paradigm is that banks do
+not generally have the capacity to monitor their many investments in ven-
+tures.168  Again, juxtaposing  the  paradigm  of the  private  equity  fund,
+funds generally deeply involve  themselves in the management  of the few
+underlying ventures in which they invest, and the funds also demand sig-
+nificant shareholder rights, such as  a director's seat, veto over significant
+changes to the business, rights to review financial records,  and rights to
+purchase the interest of any other investor seeking to dispose of his invest-
+ment.169  Commercial banks generally do not engage in this type of costly
+exercise because they are guaranteed a fixed return on their investment in
+the form of an interest payment.170  If an Islamic bank were to engage in
+the same extensive  and costly practices as an equity fund with respect to
+every investment made, it would raise its costs substantially, severely com-
+promising its ability to compete with commercial banks.17'  However, if it
+chose to  forego this, the bank would expose  itself to  the possibility that
+financial  records were  being  falsified,  or  at least  accounting  standards
+interpreted in a way that minimized distributed profits.172  There is some
+evidence that this is precisely what happened to early Islamic banks that
+attempted to apply the mudharaba model.173
+It is possible that the financial institution could avoid these problems
+simply  by investing  in highly  liquid, low risk, and low return  equities,
+much as a "money market" fund tends to do, but then it would not serve
+addition, the author has had extensive experience in the structuring and deployment of
+private equity funds.
+166.  See id. §§ 2.02-2.04.  Most private equity funds require that revenue first be dis-
+tributed exclusively to the limited partner investors, not only to the extent of their invest-
+ment, but also to a preferred return level of approximately 6 to 7%.  See id. § 2.03. Fund
+managers are entitled only to profits, ironically and misleadingly termed "carried inter-
+est," above this level at a specified percentage, usually 20%.  See id. § 2.02.
+167.  See VOGEL & HAYES,  supra note 6, at 134.
+168.  See VOGEL & HAYES, supra note 6, at 135; see also Timur Kuran, The Economic
+System in Contemporary Islamic Thought, 18 INT'L J. MIDDLE E. STUD.  135, 153 (1986).
+169.  See generally Schell, supra note 165,  §§ 1.01-1.07.  Admittedly, private equity
+funds at times insist on some of these provisions, and, in particular, seats on the board
+of directors for regulatory reasons unrelated to monitoring.  See id. § 8.06(4).
+170.  See id. Commercial banks may seek some control over key decision-making with
+respect to parts of a venture, such as a sale of the business, particularly for larger loans.
+However,  the level of control is generally  much smaller than it would be for a private
+equity fund.
+171.  See id.
+172.  See VOGEL & HAYES,  supra note 6, at 135.
+173.  See id.Cornell International Law Journal Vol.  40
+the market role that a bank would.  A bank as a financial intermediary is
+supposed to overcome particular market failures concerning economies of
+scale, information asymmetry, and liquidity mismatches that would other-
+wise develop.  It collects the funds of many unsophisticated depositors who
+need quick access to their funds and uses expertise and specialized  skills
+to identify and monitor to some extent its portfolio, earning interest from
+the portfolio and having sufficient ready liquid cash on hand to satisfy the
+requirements of its  depositors.174  If it were to  forgo these  opportunities
+and merely act as a money market fund, it would never be a substitute for a
+conventional  bank,  and  conventional  banks  would  continue  to  be
+necessary.
+B.  Alternative Approaches Within the Langdellian Modalities
+Given  the foregoing,  Islamic  financial institutions have  found them-
+selves in an existential crisis that has lasted to this day.  The entire founda-
+tion upon which the institutions had expected to rest, the mudharaba, had
+proved incapable of sustaining them, and no ready alternative methodol-
+ogy was apparent.
+Moreover, given  the Langdellian  modalities within which  contempo-
+rary Islamic jurisprudence willfully imprisoned itself, the flexibility neces-
+sary  to  develop  an  alternative  legal  architecture  responsive  to  the
+commercial  demands of the modern  era was severely  limited.  The  doc-
+trines of riba and gharar had been developed through strict application of
+these modalities.  Little could be changed  by an application  of the same
+reductive methodology, and, in any event, many of the rules had been con-
+firmed by ijma with only a few exceptions, most of them casuistic.175  The
+fundamental principles had been laid, and they could not sustain a sensi-
+ble commercial jurisprudence.  The doctrines and the modalities that gave
+rise  to  them  needed  to  be  abandoned,  or  at  least  fundamentally
+reconsidered.
+Islamic  commercial  jurisprudence  has  not risen  to  this  challenge.
+Rather than address the problem directly by seeking an alternative system
+that is cognizant of commercial reality and sensitive to populist demands
+for social justice, Islamic financial institutions have largely fallen back on
+obfuscation, complication,  and implicit deception.  Islamic financial insti-
+tutions rely primarily on three basic commercial structures,176 and each is
+an artifice.  In  addition, discussed  below is the problem  of insurance,  a
+vitally  important  commercial  arrangement  that  clearly  falls  within  the
+prohibitions of gharar and riba according to Islamic finance practitioners..
+174.  See Mahmoud  El-Gamal,  Islamic Bank Corporate Governance and Regulation: A
+Call for  Mutualization,  at  7,  available  at  http://www.ruf.rice.edu/-elgamal/files/
+IBCGR.pdf.
+175.  See EI-Gamal, supra note 15.
+176.  See generally VOGEL & HAYES,  supra note 6, at 138-49.2007  Langdellianism and the Failures of Islamic Finance
+1.  Murabaha
+Murabaha is the principal tool of the Islamic financial institution.  By
+one estimate, approximately 80-95% of the funds of Islamic financial insti-
+tutions are employed in murabaha transactions. 177  A murabaha is basically
+the sale of an item with a fully disclosed markup.178  As used by financial
+institutions, however, the murabaha is effectively an artifice through which
+interest may be charged without falling afoul of the prohibition of riba. A
+financial institution purchases  some  asset and simultaneously  sells it to
+the effective  borrower  at a  higher price.179  The  borrower's  payment is
+delayed  for  the desired  term,  with the  price  to  the  ultimate  purchaser
+reflecting the prevailing market interest rate.180  The final step of the trans-
+action in some cases is that the borrower sells the asset to recover what is
+effectively the loan principal.
+The sole legal difference between this resale of an asset and an inter-
+est-based transaction relates to ownership of and liability for the asset dur-
+ing  the  time  of transfer.  However,  these  differences  are  obliterated  by
+provisions in murabaha transactions  that declare  the sale to the effective
+borrower  as  occurring  simultaneously  with  the  first  purchase  by  the
+Islamic  financial  institution.181  The  borrower  also  waives  all  claims
+against the financial institution for breach of warranty, and the financial
+institution assigns all of its similar rights as the original purchaser to the
+borrower.'82  As  might  be  expected,  the  murabaha usually  involves  the
+purchase and sale of a readily resalable commodity, so that all connection
+to the asset purchased is illusory.'83
+To expound on an example set forth by Vogel and Hayes, if a borrower
+sought credit from a conventional  bank in the amount of $50,000 at an
+interest rate of 8.5%, with repayment to be made in nine equal monthly
+installments, she would be required to pay $5,754.17 per month.184  Alter-
+natively,  she  could go  to  an  Islamic  financial  institution  and purchase
+stock in IBM currently valued at $50,000 while agreeing to pay for them in
+nine monthly installments of $5,754.17.  The bank's purchase of the stock
+from the market would be simultaneous with her purchase of the stock.
+She  could  then have  a broker  (perhaps  employed  at the  same  financial
+institution) sell the stock immediately thereafter  and deposit the $50,000
+into  her  account.  In  an  increasingly  popular variant  of  the murabaha,
+known  as tawarruq, the borrower would sell the purchased  asset back to
+177.  See WARDE, supra note 9, at 133; see also VOGEL & HAYES, supra note 6, at 198.
+178.  See WARDE, supra note 9, at 140.
+179.  See id. at 140-41.
+180.  See id. at 139. Banks are often eager to appear not to be engaged in such obvious
+artifice and seek to disguise their murabaha transactions in a slightly less vulgar man-
+ner. Id. (indicating the reluctance of Islamic financial institutions to make explicit refer-
+ences to prevailing interest rates despite their reliance on them).
+181.  See id. at 141.
+182.  See id.
+183.  See id. at 143.
+184.  See id. at 177.Cornell International Law Journal Vol. 40
+the original seller from whom the bank purchased it.185
+Given the obvious  transparency of most murabaha transactions, they
+have proven somewhat controversial.  Many jurists have denounced them,
+at least in their current form, and the Fiqh Academy of the Organization of
+Islamic Conference, probably the dominant Islamic jurisprudential author-
+ity with respect to matters of finance, has shown some discomfort with the
+approach even as it has sanctioned it.186  The Gulf Cooperation Council
+has been considerably more flexible, sanctioning both the murabaha and
+its tawarruq manifestations.187  Few within the Islamic finance community
+would  describe the murabaha as entirely violative of Islamic law; Islamic
+financial institutions could not at this point survive without it.
+2.  Ijara
+Ijara, or lease, transactions represent a rapidly growing segment of the
+Islamic  finance  sector.'38  Ijara is  barely  less  transparent  than  the
+murabaha, and conceptually similar to a conventional  lease in that it per-
+mits a bank to purchase an item and lease it to a third party at whatever
+price the lessor and the  lessee deem fit.'8 9  Three theoretical  differences
+arise between ijara and conventional interest-based financing, but all three
+are ignored in Islamic commercial arrangements, often in clear contraven-
+tion of the shari'a.
+First, a floating interest loan would be impossible, as uncertainties in
+price  at the time of contracting would violate the gharar prohibition.  To
+avoid this, banks routinely offer renewable leases with the lease value shift-
+ing to conform to the prevailing interest rate at each renewal.190  Though
+either party can in theory cancel the renewable lease, in practice, this is
+never the case and commercial actors rely on business reputation, internal
+understandings and non-binding good faith agreements indicating that the
+lease will be periodically renewed.19'  When these informal  understand-
+ings are not enough,  Islamic commercial actors simply draft the provisions
+they prefer, in this case compulsory renewals of the lease, and select a law
+to govern the arrangement that is not the shari'a.192  This is exceedingly
+common,193 even if a highly disingenuous, hypocritical,  and obfuscatory
+measure given the professed desire to practice a specifically Islamic form of
+commerce.
+185.  See supra note 5.
+186.  See VOGEL & HAYES, supra note 6, at 143; see also MUHAMMAD  NEJATULLAH SIDDIQI,
+ISSUES  IN IsLAMIC  BANKING 49 (1983);  SALEH, supra note 130, at 118-19.
+187.  E1-Gamal, supra note 5, at 9.
+188.  See VOGEL & HAYES,  supra note 6, at 144.
+189.  See id.
+190.  See id.
+191.  See id.
+192.  See id. at 263; see also Moghul & Ahmed, supra note 2, at 189-90 ("[Plarties to
+Islamic finance transactions often assert English or New York law as the governing law
+on the probability that the contracts are more likely to be enforced as written.").
+193.  See VOGEL & HAYES,  supra note 6, at 263; see also Moghul & Ahmed, supra note
+2, at 189-90.2007  Langdellianism and the Failureso f Islamic Finance
+Second, gharar also  requires  ijara arrangements  to be cancellable  at
+will because  of the  uncertainty  in  the  future  value  of the  leased  prop-
+erty.194  This problem is addressed the same way as a renewable lease-by
+contracting in violation of the shari'a or by relying on business reputation
+and an informal understanding.195
+A third and final difference is that the lessor, as the owner of the prop-
+erty, must be responsible for all expenses related to its upkeep, on the the-
+ory that ghararp rohibits placing an uncertain obligation of this sort on the
+lessee.196  Again, commercial  actors routinely  ignore this rule and either
+require the lessee to pay for the upkeep or purchase casualty insurance.197
+Neither  of  these  options  complies  with  the  rules  established  by  the
+Langdellian modalities.198
+3.  Istisna'/Salam
+Istisna' is  a  limited  exception  developed  through  istihsan  to  the
+prohibitions  on the  sale of nonexistent  objects as  derived  by qiyas and
+ijma'.199  The broader type  of advance purchase permitted by a specific
+hadith was salam, or full advance payment for a generic product to be deliv-
+ered at a later time.  Thus, istisna', with its more flexible payment terms,
+did not cover the  more general  products that were  permitted  under the
+doctrine of salam, as it dealt exclusively with manufacture.200  Moreover,
+because it is based on the discretionary istihsan, it is supposed to be used
+very sparingly.20 1  However, Islamic financiers have reversed the presump-
+tion, and activities permitted under istisna' are now the rule rather than the
+exception.202  As a result, they now use the terms salam and istisna' nearly
+interchangeably,  applying the rules of istisna' to both.203  This approach is
+particularly ironic given the apparent reluctance of Islamic financiers gen-
+erally  to  overhaul  the  underlying  Langdellian  bases  that have  relegated
+istihsan to such a minor role in the development of Islamic jurisprudence.
+If the anti-formalist tool of istihsan is permitted to  do such considerable
+violence to  the fundamental  Langdellian  principle  derived from  the Pro-
+phetic hadith that the sale of nonexistent  objects is prohibited, then one
+wonders why it could not also be used, for example, to do equal or lesser
+violence to the prohibitions against interest.
+In any event, istisna' permits a financial institution to request the con-
+struction of a particular  item,  such as a house, and  to pay for it in, for
+194.  See VOGEL & HAYES,  supra note 6, at 144.
+195.  See id. at 145.
+196.  See id. at 144.
+197.  See id. at 145.
+198.  See id. at 150.
+199.  See RAYNER, supra note  134, at 27, 137-38.
+200.  This is obvious from  the definition of the term istisna, which means, "to have
+someone make something."  WEHR, supra note 93, at 615.
+201.  See SANHuRI,  supra note 120, at 38.
+202.  See VOGEL & HAYES,  supra note 6, at 146-47.
+203.  See id. at 146-49.Cornell International Law Journal Vol. 40
+example,  three  annual  installments.204  A  second  istisna' could then be
+concluded selling that same house to a prospective homeowner through a
+longer  series  of  monthly  installments  extending,  for  example,  over  25
+years.205  This arrangement renders any profit or risk sharing on the part
+of the financial institution entirely illusory, as it is in all material respects a
+fixed interest mortgage.206
+4.  A Problem of Insurance
+As derived under the Langdellian  modalities, the prohibition against
+insurance  is  firm  and  absolute,  according  to  practitioners  of  Islamic
+finance.  Commercial insurance both involves indirect investment in riba,
+as most insurance companies place a large amount of their funds in inter-
+est bearing accounts, and, more importantly, it involves payment of premi-
+ums in exchange for a sum that may or may not ever be received based on
+an entirely unpredictable future contingent event.207
+Islamic finance has developed  an artifice known as a takaful, or soli-
+darity, contract to circumvent the prohibition.20 8  Takaful derives from the
+determination by some scholars that gratuitous contracts are exempt from
+the rules of gharar2.09  Pursuant to  takaful, a group of Muslims agrees to
+protect  its  members  in  the  case  of casualty  or  loss  by  pooling  their
+resources through making regular payments, in the form of premiums, to
+be invested in Islamically acceptable commercial products.210  The scheme
+then functions in theory  as  an Islamic  financial  institution would, with
+"profits" shared  amongst the beneficiaries and the providers.211  When a
+casualty or loss occurs, the participants each "gift" a portion of the asset
+pool to the bearer of the loss.212
+204.  See id. at 146-47.
+205.  See id.
+206.  See id.
+207.  See id. at 150.  The gharar violation is more fundamental, as insurance compa-
+nies presumably could avoid the receipt of riba more readily than they could the uncer-
+tainty that constitutes their reason for existence. It should be noted, however, that some
+have  argued  that  even under  current  concepts  of gharar, insurance  is  permissible
+because it is not the payment of premiums in the hope of receiving a payoff in the future,
+but rather payment for a particular, certain service that is easily valued, avoidance of
+risk.  This is akin, under such a formulation, to paying a guard to protect one's goods.  It
+suffices to say for purposes of this Article, however, that this position has not gathered
+very much support at all within the Islamic finance community.  See Vogel and Haes,
+supra note 6, at 150 (referencing work of Mustafa Zarqa).
+208.  See id. at 151.
+209.  See id. at 151.  For a classical reference, see IBN RUSHD,  supra note 147, at 399
+("[A]lI  which  cannot  be  sold  legitimately  from the  standpoint  of gharar [may  be
+gifted].").
+210.  See VOGEL & HAYES,  supra note 6, at 151-52.
+211.  See MOHD. MA'SUM  BILLAH,  PRINCIPLES &  PRACTICES OF TAKAFUL  AND  INSURANCE
+COMPARED  25 (2001).
+212.  See id. Many seemingly respected advocates of Islamic finance strive mightily to
+find alternative  grounds upon which  the doctrine of tahaful might be grounded.  See
+generally Mohd. Ma'sum Billah, Sources of Law Affecting 'Takaful', 2 INT'L J. ISLtAMIC  FIN.
+SERVICES  4, available at http://islamic-finance.net/journals/journal8/mmbillahvol2no4.
+pdf. These grounds vary from a Prophetic recommendation that one take precautionary2007  Langdellianism and the Failures of Islamic Finance
+This approach is problematic for several reasons.  First, the gift seems
+to require that an offeror be bound before the identity of the receiver of the
+gift or the value of the gift is even known, a difficult proposition to sustain
+as  a general  matter.213  Second,  the notion of  a group  of friendly and
+brotherly Muslims agreeing to support each other in times of need becomes
+especially difficult to sustain as economies of scale increase in size, and the
+number of participants grows so that they no longer have any personal or
+commercial  relationship  with  each  other.  However,  most  importantly,
+institutions offering takaful products  are not acting gratuitously.214  The
+donations made by the participants in the scheme function in all respects
+like Islamic banking accounts.  This disingenuous reference  to charitable
+activity  is inherently  deceptive to  prospective  purchasers of the product
+and potentially damaging to regulatory  frameworks in the operable juris-
+dictions.  This is a for profit contract, and a straightforward application of
+the rules of ghararm  ust invalidate it if the modalities are taken seriously.
+In some cases,  this descent into jurisprudential delusion is taken  a
+step further.  Islamic financial institutions often purchase general commer-
+cial insurance on the grounds that takaful insurance is not available to the
+extent that  the bank needs  it, and commercial  necessity  demands  that
+some form of insurance be available.215  Otherwise, the bank justifies the
+purchase on the grounds that commercial insurance  itself can be consid-
+ered a form of takaful.216  The former approach is essentially an admission
+that the Langdellian modalities have failed to address commercial realities
+despite their willingness  to employ the most transparent of techniques  to
+achieve  standard  financial  objectives.  The  latter  approach  is  even  less
+grounded in commercial realities, as a legal doctrine that relies on the clas-
+measures to ensure that a camel does not flee to Prophetic blessings upon those who
+remove hardships from Muslim brothers.  See id.  By and large, none of them is sensible
+enough to rebut, other than to indicate that they deal with recommended measures that
+have absolutely nothing to do with gharar. One of the most popular alternative grounds
+appears to be based upon the Muslim penal doctrine known  as aqilah, pursuant to
+which particular members of a tribe are jointly responsible  for the payment  of blood
+money to the family of a victim killed by the tribe.  See id.; see also BILLAH,  supra note
+211,  at  3-6; Yon  Bahiah  Wan Aris, Takaful-An  Option to Conventional  Insurance: A
+Malaysian Model (2004), available at http://www.icmif.org/2k4takaful/site/documents/
+an%20option%20to%20conventional%20insurance.pdf;  Muhammad Ayub, Takaful- An
+Alternative to Insurance, available at http://www.sbp.org.pk/departments/ibd/Takaful.
+pdf. Precisely what such an obligation in the penal law has to do with contractual rules
+concerning gharar mystifies the author, and the fact that respected Islamic professors
+and directors of banking operations make such logically fatuous claims demonstrates
+the Islamic banking community's discomfort with the bases upon which the practice of
+takaful rests.
+213.  This approach certainly would violate the classical rules concerning gifts, which
+require at least an offer and acceptance by a known individual of a known object.  See
+IBN RUSHD, supra note 147, at 361.
+214.  Takaful contracts  are generally  offered  by large  financial  institutions  in the
+Islamic world.  See, e.g.,  International Cooperative  and Mutual Insurance Federation,
+Takaful Directory, http://www.icmif.org/2k4takaful/site/directory.asp.
+215.  See VOGEL & HAYES,  supra note 6, at 152.  The Islamic Development Bank, per-
+haps the world's largest Islamic bank, adopts this approach.  See id.
+216.  See id.Cornell International Law Journal Vol. 40
+sification of standard commercial insurance providers as charitable institu-
+tions is patently absurd.
+C.  Langdellianism  and Islamic Finance
+In their consequential  failures, Langdellianism  and Islamic jurispru-
+dential theory mirror each other almost entirely.  Part I of this Article men-
+tioned  four  primary causes  for the  fall of Langdellianism:  (1) failure  to
+articulate its own  ontological constituent units;  (2)  inability to admit the
+possibility  of inconsistent  rules  within  the  modality  which  necessarily
+resulted in judicial discretion; (3)  separation from the experiential realities
+in which the law operates, leading to willful abandonment of its principles
+by judges and juries alike;  and (4) imperviousness to change in a rapidly
+changing social and economic environment.  All of these, save the first, are
+equally  applicable in the Islamic context.
+Proponents  of the  modalities  will  often  apply  doctrines  in  wildly
+inconsistent manners.  For example, they will decry as defeatist or apolo-
+getic any suggestion that istihsan, or any other doctrine, should be used to
+exempt money loans from a hadith that deals fundamentally with trades of
+items, such as precious metals and foodstuffs, which are not the contempo-
+rary basis of currency.  Yet proponents permit the practice of istisna, all but
+obliterating  the  former fundamental  principle  that sales  of  nonexistent
+objects are forbidden, which is a far greater use of istihsan2. 17  The quasi-
+scientific approach appears not to provide the level of certainty intended.
+When this implicit discretion is insufficient to achieve a desired result,
+even  proponents of the modalities will ignore  the methodological  princi-
+ples  to which  they  claim  obedience.  This departure  from legal  require-
+ments might be achieved directly, by requiring a lessee to pay for upkeep of
+property  he leases notwithstanding the Islamic prohibition, or indirectly,
+by creating such nonsensical concepts as charitable insurance.  In either
+event, as with Langdell in the American context, the modalities are often
+unworkable  and consequently  unheeded  despite claims  of adherence  to
+them.
+Finally, the Islamic Langdellian modalities are impervious to the types
+of changes required to develop a sensible commercial jurisprudence.  The
+rules  of riba and gharar are now ironclad through  reductive understand-
+ings of ijma and cannot be altered without abandoning the modality.  As a
+217.  These stark inconsistencies often arise from the fact that the modern proponents
+of Islamic  finance tend  to presume  all classical jurists have  applied the  Langdellian
+modalities faithfully,  and, in a process  known as takhayyur, pick and choose among
+disparate classical rules, like spare parts at a junkyard, selecting that which seems more
+convenient and in keeping with commercial reality.  See An-Na'im, supra note 124, at 45
+(describing takhayyur). For example, as the classical Hanafi jurist, Kasani, provides for
+the practice of istisna in his writings, proponents of Islamic finance accept and substan-
+tially expand the practice.  See KASANI,  supra note 156; see also Muhammad AI-Bashir
+Muhammad Al-Amine,  Istisna' and its Application in Islamic Banking, 16 ARAB L.Q. 22
+(2001).  Compare supra note 128 (discussing a late classical rule with no basis for sup-
+port in the  Langdellian modalities that is nonetheless  relied upon by proponents  of
+Islamic financ).2007  Langdellianism and the Failures of Islamic Finance
+result, jurists continue to struggle with concepts as basic as insurance and
+interest on debt, developing extensive artifices to  address them while the
+modern  commercial  world  races  ahead  with  financial  and  commercial
+innovations far more complex.  The author does not doubt that further arti-
+fice and fiction may develop to deal with commercial innovation.  However,
+it will become less and less clear what the benefits of Langdellian jurispru-
+dential theory precisely  are, while the increasing transaction costs caused
+by the unnecessary complexity will surely come under hightened scrutiny.
+Those who looked to Islamic  finance to create a more just and equitable
+system  will no doubt  begin to  look elsewhere,  as  the shari'a developed
+under the Langdellian hermeneutic is not meeting the needs of Muslims.
+TV.  Alternative Approaches
+The task remains to determine whether the shari'a can play a salutary
+role in the commercial lives of the Muslim body politic, and, if so, exactly
+what  type  of jurisprudential  approach  should  replace  the  Langdellian
+modality that currently dominates.218
+Continuing the comparison to American intellectual and academic tra-
+dition further than this Article has so far could invite something akin to the
+more extreme forms of American Legal Realism in the Islamic juristic tradi-
+tion.  Such an approach would consider doctrine entirely irrelevant to rule-
+making, rendering questions as to whether a particular  transaction were
+riba or bai an exercise  in "transcendental nonsense."219 Jurisprudence  of
+this sort would  pay heed  solely to  policy-based  notions of fairness  and
+social justice, social, political and commercial reality, and whatever other
+factors, including personal biases and prejudices, might matter to the deci-
+sion-maker.  This would not be likely to succeed in the Islamic world.220
+Muslims, as a general matter, probably would not ignore all of traditional
+Islamic doctrine  in  fashioning  a code of conduct.  Most  Muslims would
+probably regard an approach that advocated a complete departure from the
+Qur'an and the hadith as entirely illegitimate from  an Islamic perspective,
+regardless whether it reflected notions of fairness and social justice.221
+218.  Realistically, modern commercially successful nations will not reformulate their
+entire banking structures on Islamic principles at any point in the near future, regardless
+of how  those principles are defined.  However,  as  is currently  the  case in Malaysia,
+nations could very well tolerate, and even encourage, a separate Islamic financial system
+operating alongside the conventional one. See WARDE, supra note 9, at 123.  The current
+section therefore contemplates the possibility of such a parallel approach.
+219.  Felix S. Cohen, Transcendental Nonsense and the FunctionalA pproach, 35 COLUM.
+L. REv. 809, 820 (1935).
+220.  Cf. Jackson, supra note 38 (developing an approach drawn largely from Roberto
+Unger and Stanley Fish).
+221.  Of course, this approach would be somewhat marginal within the judiciary in
+the American context as well, because total disregard for the orthodox bases on which
+judges render decisions, such as sound interpretation of constitutional text, is hardly
+characteristic  of the manner in which  most opinions are written.  Professor  Fletcher
+properly points out that American legal culture tends to view the Constitution as similar
+to a religious text in many ways, such as its reluctance to seek amendments, its refusal to
+delete amended text even when the text is offensive to modern sensibilities, and its his-Cornell International Law Journal Vol.  40
+In light of this, it is important to  establish principles for alternative
+approaches towards Islamic finance that would ensure both credibility and
+achievement of ontological objectives.222 These would lay the groundwork
+for,  but  would  not establish  in exact  detail,  alternative  methodologies.
+Four basic principles are apparent,  and each is discussed in turn.
+A.  Qur'anic Maxims
+The methodology necessary to reformulate Islamic finance could and
+should claim strict adherence to the Qur'an's text.  Given the lack of defini-
+tion afforded to riba, the Qur'an's passages present no obstacle to a sensi-
+ble jurisprudence that harmonizes commercial reality with some modicum
+of social justice.  In fact, the prohibition of riba can contribute to the crea-
+tion  of a social justice framework.  Other verses  that permit  commerce,
+urge believers  to honor their contracts,  and forbid games of chance seem
+equally salutary standing on their own, posing no impediment to the crea-
+tion of a sound modern economy.223
+toric internal battles between literalists and those who seek to follow the spirit rather
+than the letter of the text.  See George P. Fletcher, Three Nearly Sacred Books in Western
+Law, 54 ARK. L. REv.  1, 3-8 (2001).
+222.  The approach herein is primarily jurisprudential, advocating alternative means
+of developing legal doctrine to serve functional ends.  The author would be remiss for
+this Article not to  mention parallel  efforts by the economist  Professor El-Gamal  to
+develop economic proposals to conform to what EI-Gamal describes as the "spirit" of the
+riba and gharar prohibitions.  EI-Gamal, supra note 174, at 12-15.  Professor El-Gamal
+argues that a solution for Islamic banks and insurance companies would be to adopt the
+mutual form, where the depositors are themselves the shareholders to the extent of their
+deposits.  Id. at 15.  The managers of mutual institutions avoid excessive and potentially
+exploitative risk-taking in commercial transactions because they face no need to raise
+stock prices.  Id. While there is much to be said in favor of EI-Gamal's ideas, gaps in his
+ideas exist from his understandable decision not to confront legal doctrine, as this Arti-
+cle seeks to do.  Specifically, it is difficult to see absent a functional jurisprudence how
+El-Gamal's vague notions of "spirit" could be realized in practice. The dominant formal-
+ists would insist that their practice is no less Islamic given its compliance with shari'a
+and, absent jurisprudential  reformulations, little could be said in response to such a
+claim.
+223.  This is emphatically not the case with respect to other legal realms where some
+of the Qur'an's passages do create substantial problems.  These include the plainly gen-
+der discriminatory verses on inheritance, see QUR'AN 4:11; the sanctioning of polygamy,
+see QUR'AN 4:3; spousal abuse in certain circumstances, see QUR'AN 4:34; severe corpo-
+ral punishment for consensual sexual activity, see QUR'AN 24:2; and the suggestion of
+some verses, contradicted by others, to kill unbelievers wherever they might be found,
+see QUR'AN 9:5.  But see QUR'AN  16:126 (urging tolerance even of unbelievers who com-
+mit some sort of transgression).  Reform-minded methodologies have been advanced to
+address  these  issues.  See,  e.g.,  An-Na'im,  supra note  64, at  52-60  (discussing  the
+approach of a prominent Sudanese jurist calling for abrogation of the problematic verses
+on the grounds that earlier contradictory verses speak to the fundamental dignity of all
+persons and were meant to be universal, while the problematic passages related to rules
+delivered to a specific society at a specific time); Bernard K. Freamon, Slavery, Freedom,
+and the Doctrine of Consensus in Islamic Jurisprudence, 11 HAuv. HUM.  RTs. J. 1, 56-64
+(1998) (arguing persuasively for a liberalized version of ijma to take precedence  over
+Qur'anic verses  that presuppose the existence  of slavery).  Nevertheless, despite these
+attempts, to the extent that Qur'anic maxims are not followed in Islamic nations, it is not
+because of a comprehensive reexamination of the verses, but rather their replacement
+with secular codes. See WEiss, supra note 35, at 188. This has led An-Na'im to advocate2007  Langdellianism and the Failures of Islamic Finance
+B.  The Roles of Hadith, Istihsan, and Istislah: An Examination of
+Sanhuri and Sadr
+While significant portions of the hadith may be apocryphal, they are
+generally deemed to be the utterances of the Apostle of God and, therefore,
+constitute a  significant part  of any Islamic jurisprudence.  Moreover,  as
+much of the ritual aspects of Islamic practice are bound to the hadith, any
+attempt to divorce Islam from the hadith would so unmoor the traditional
+bases of Islamic thought that the religion would be scarcely recognizable to
+224
+its adherents.
+However, unlike the Qur'an, absolute compliance  to the terms of the
+hadith and, more importantly, their reductionist expansion through qiyas is
+not possible if a sensible alternative modality is to be constructed.  If hadith
+prohibiting the sale of the fish in the sea and the trade of precious metals
+with unilateral  excess in value  are not only followed  but interpreted and
+expanded through the doctrine of qiyas in the manner of modern Islamic
+finance, then the same, or similar, problems as exist now will inevitably re-
+emerge.  The  hadith must be taken  seriously as  constituent elements  of
+Islamic doctrine, and qiyas need not be abandoned in its entirety, but the
+roles of istislah and istihsan in applying the hadith itself must be substan-
+tially increased.225  This has considerably more purchase among the Mus-
+an alternative Islamic solution that might be termed secular, in which the shari'ai s not
+the positive law of the State.  Abdullahi An-Naim, Shari'a and Positive Legislation: Is an
+Islamic State Possible or Viable?, in 5 YEARBOOK OF ISLAMIC AND MIDDLE  EASTERN LAW 30-
+31 (Eugene Cotran and Chibli Mallat eds., 1999). An-Na'im points out that the develop-
+ment of the shari'a,w  ith its divergent opinions among jurists in the classical era, clashes
+conceptually with the manner in which positive legislation is enacted by a state.  The
+political organs of a state, including its legislature, cannot really be expected to select
+among the various conflicting juristic rules constituting the shari'a and deem whatever
+politically expedient solution emerged to be the Divine Command of God.  See id. at 32-
+36. An-Na'im's work is bold and noteworthy, though orthogonal to the purposes of this
+Article.  Even if one were to assume a total separation  of positive legislation from the
+shari'a, an alternative Islamic financial system functioning alongside that of the State, as
+is the case in Malaysia currently, could still play a salutary role in Islamic societies and
+ideas on alternative modalities would still prove useful in the context of Islamic finance.
+224.  See, e.g.,  RiSALA, supra note 70,  i 535-37, 613-18 (pointing out correctly that
+the hadith often provides context to Islamic ritualistic practice).
+225.  It should also be noted that an increasingly visible role for istislah and istihsan is
+not an idea that has been invented by this author.  For example, Professor John Esposito
+has spoken favorably about both istihsan and istislah.  See John L. Esposito, Perspectives
+on Islamic Law Reform,  13 N.Y.U. J. INT'L L. & POL. 217,  241-42 (1980); see also AN-
+NA'IM, supra note 64, at 51 (referring to a fourteenth century jurist with similar ideas).
+Moreover, much of this notion of reformulating  the competing roles of qiyas, istihsan
+and istislah is often subsumed under the rubric of a call for ijtihad, or independent
+juristic reasoning.  See, e.g., Esposito, supra note 225, at 241-42; MALLAT, supra note 17,
+at 124-26 (describing Sadr's theory in terms that sound remarkably like a form of istis-
+lah).  This call arises from the fact that Muslim legend holds that at some point at the
+end of the  12th century jurists  agreed by  ijma that there was no purpose  to further
+development  of modalities  and rules,  and supposedly  "closed  the  doors"  of ijtihad.
+COULSON,  supra note 65,  at 81,  202; contra Wael B. Hallaq,  Was  the Gate of Ijtihad
+Closed?, 16 INT'LJ. MIDDLE E. STUD. 3, 4 (1984) (suggesting that the fabled "closing of the
+doors" never in fact happened).  Rather than reason independently,  later jurists were
+expected to follow faithfully the theories of their predecessors through a process known
+as taqlid.  See ORIGINS,  supra note 69,  at  121-23  (describing the distinction betweenCornell internationalL aw Journal Vol. 40
+lim  body  politic  than  any  suggestion  that  the  Qur'an's  verses  be
+reevaluated, and seminal jurists and legal  scholars, such as Sanhuri and
+Sadr, have taken ginger steps in this direction.
+1.  Sanhuri's Definitional Approach
+Sanhuri has an alternative interpretation of the historic prohibition of
+riba that is built upon  both the  sanctity  of the  Qur'an  and substantial
+respect for the hadith.226  For ease of reference, and because of its emphasis
+on determining what the hadith are precisely supposed to mean in light of
+Qur'anic verse,  the author calls this approach the "definitional" approach
+or theory.
+Sanhuri argues that the language  of the Prophetic  hadith on riba al-
+jahiliyya, along with a reading of the Qur'anic verses on the subject, sug-
+gests that the central Qur'anic prohibition concerned only the form of riba,
+where a debtor was told on the due date of his loan that he either needed to
+make payment in full or the amount due would increase.227 While Sanhuri
+does not disregard  the prohibitions  in the hadith on delayed  or unequal
+exchanges that lead to the interest prohibition, he does suggest that they
+are prohibitions  of means (tahreem wasa'il), and that their purpose is to
+prevent commercial actors from circumventing the central Qur'anic prohi-
+bition  (tahreem maqasid) of riba al-jahiliyya.228  Therefore,  Sanhuri  rea-
+sons, as the prohibitions on trade are of means,  they may be set aside in
+cases  of need (haja), unlike  the central intended prohibition, which may
+never be set aside.229  Sanhuri indicates that need is a preponderance  of
+the public interest (al maslaha al rajiha), which in the modern era clearly
+points to permitting debt.230  Therefore, the only riba prohibition would be
+on agreements to increase the value of a loan in exchange for an extension.
+The argument turns the Langdellian modalities on their head.  Rather
+than search the hadith for the fundamental principles, Sanhuri looks first
+to the  Qur'an,  then  defines  on  the basis  of the  Qur'an  and the  hadith
+exactly what policy the Qur'anic provision is meant to further and subse-
+quently reduces the Prophetic hadith not centered on the Qur'anic prohibi-
+tion to some sort of subsidiary repealable status, implicitly to be evaluated
+ijtihad and taqlid). The prominent jurist Muhammad Abdu in the early part of the twen-
+tieth century called for the doors of ijtihad to be reopened, and this has become a battle
+cry of sorts for reform of every conceivable variety.  See, e.g., COULSON, supra note 65, at
+201-02; IRSHAD  MANji,  THE TROUBLE WITH ISLAM:  A MUSLIM'S  CALL FOR REFORM  OF HER
+FAITH 158-86 (2003) (using the term ijtihad to propose broad changes to the substance
+of shari'a, including abrogation of Qur'anic verses).  While the term ijtihad hardly has
+any definable methodology attached to it, in the modern era, proponents of ijtihad, such
+as Sadr and Abdu, generally seek an expansive use of reason to develop creative Islamic
+solutions to the problems of modern society while still remaining essentially faithful to
+the Qur'an and hadith. See MALLAT,  supra note 17, at 124. This effectively is a reorgani-
+zation of the relative priorities of istislah, istihsan, and qiyas.
+226.  See SANHURI,  supra note 120.
+227.  See id. at 241-42.
+228.  See id. at 242.
+229.  See id. at 242-43.
+230.  See id. at 243.2007  Langdellianism and the Failures of Islamic Finance
+on the basis of istislah or istihsan.231  Sanhuri's definitional solution is not
+entirely satisfactory, as it seems to prevent or complicate debt restructur-
+ing, which is a non-exploitative practice, and does nothing to reformulate
+riba in a manner that accords with contemporary notions of social justice.
+However,  it  lays  the  groundwork  for  a  possible  approach  that  shows
+promise.
+Though Sanhuri  does not apply  his definitional  theory to gharar, it
+could apply equally well.  The Qur'anic prohibition clearly refers to games
+of chance  and divination,  as  opposed to  commercial  activity,  and  this,
+therefore,  is the intended  prohibition.232  Prohibitions against particular
+commercial uncertainties,  such as the sale of a pregnant camel, are effec-
+tively prohibitions of means to prevent parties from being able to circum-
+vent  the intended  prohibition  through  artifice.233  Therefore,  the hadith
+may  be set aside  given  the need  for commercial  transactions involving
+uncertainty.  This would limit gharars o that it did not impose any substan-
+tial constraints  on commercial  practices,  but would not allow gharar to
+serve any social justice function either.
+2.  Sadr's Contextual Approach
+The Iraqi Shi'i jurist, Muhammad Baqir al-Sadr, is one of the founders
+of  Islamic  economics,  a  staunch  opponent  of  interest,  and  a  highly
+respected  jurist,  primarily  among  Shi'is.  Sadr  suggested  a  flexible
+approach to hadith different from Sanhuri's.234  Sadr's Islamist credentials
+are beyond doubt, and in addition to his works on economics and bank-
+ing,235 he is also considered to have had a role in the drafting of the Iranian
+constitution.236  Despite this, Sadr's revolutionary steps in the direction of
+a liberal and anti-formalist approach to Islamic jurisprudence is an impor-
+tant part of his legacy that cannot be gainsaid.237
+231.  Sanhuri's approach  also reflects a certain civil law mentality given his crucial
+role in developing the civil codes in various Middle Eastern nations.  Professor Fletcher
+has noted in a highly  influential  article  that those  steeped in common law  culture
+engage in a type  of "flat" thinking that emphasizes broad  notions of reasonableness,
+while civilians prefer a "structured" approach wherein particular absolute rights, or in
+this case prohibitions, are established, but limited and qualified by doctrine.  George P.
+Fletcher, The Right and The Reasonable, 98 HAnv. L. REV.  949 (1984).  This certainly
+seems to be the case here, as Sanhuri has established a blanket prohibition  and then
+created particular exceptions based on "need," while the author's immediate common
+law reaction  to Sanhuri's ideas turned to whether a multi-pronged balancing test con-
+cerning the reasonableness of the transaction might be a better approach.  In any event,
+as Sanhuri and Sadr are highly influential figures in the Islamic world, the author pre-
+fers to engage their ideas to develop a sensible modality rather than simply adopt a pure
+flat approach with no precedent in Islamic jurisprudence.
+232.  See SANHURI,  supra note 120.
+233.  See id.
+234.  See, e.g., Freamon, supra note 19, at 340-41 (describing Sadr's influence among
+Shi'ites); MALLAT, supra note 17, at 124 (discussing his influence among Sunnis).
+235.  See supra note 17.
+236.  See Freamon, supra note 19, at 341.
+237.  Sadr was killed by Saddam Hussein in early April  1980, and he can hardly be
+faulted with all that went wrong in Iran, or Islamic finance, after his death.  See Mot-
+tahedeh, supra note 72, at 31.Cornell International Law Journal Vol. 40
+One of Sadr's revolutionary proposals regarding hadith,238 which the
+author shall call the "contextual" approach or theory, involved an implicit
+bifurcation of Muhammad's activities conducted or advocated in speech or
+action, and those he is deemed to have accepted by failing to object when
+the practice was undertaken by others.239  Sadr argues that the latter must
+be evaluated in light of the circumstances in which the practice in question
+arose, and that failing to do so would be to commit the grievous jurispru-
+dential error of "divorc[ing]...  the practice from its conditions and circum-
+stances. '240  For example, if Muhammad  said nothing when  a particular
+sick person drank something in his presence, then that would not make the
+consumption  of  the  particular  item  permissible  for  all time.241  Study
+would have to be undertaken to determine whether Muhammad was per-
+mitting  an exception based on an extraordinary  disease, for example,  or
+whether  other  conditions  rendered  the  implied permission  exceptional
+rather than general.242  Sadr argues that it is impossible simply to isolate a
+particular activity from the circumstances in which it arose.243  This is an
+implicit call for istislah to play a more significant role in jurisprudence.244
+However,  Sadr limits  his  theory  to  tacit  approvals  by  Muhammad,  not
+hadith where  Muhammad  clearly  stated  his  approval  of  a  particular
+245
+activity.
+As with Sanhuri, Sadr shows an unmistakable willingness to lower cer-
+tain hadith from their historic role as the source of fundamental principles,
+and his  continued  popularity notwithstanding  this stance is notable.246
+Moreover, his hadith-limiting  contextual approach is capable of significant
+development  if expanded to  spoken  hadith.  The problematic  manifesta-
+tions of the doctrines  of riba and gharar could be readily obliterated and
+replaced with more appealing interpretations.  However, the expanded con-
+textual approach has its difficulties, among them a lack of interpretive con-
+trol, which the next section addresses.
+238.  Sadr advocated another idea concerning hadith that is considerably more radical;
+namely, that the statements made by Muhammad in his role not as Divine Apostle, but
+as judge  and  administrator  of his community,  are  not permanently  binding on the
+Islamic community.  lqtisaduna, supra note 17, at 262.  This idea opens entirely new
+possibilities and implications respecting hadith that are far too extensive to discuss here.
+239.  See IQTISADUNA, supra note 17, at 370-71.
+240.  Id. at 370-72 (translated by author).
+241.  See id. at 374.
+242.  See id.
+243.  See id.
+244.  Sadr's calls for broader use of istislah are also implicit when he declares the need
+to develop a jurisprudence based not only on ethics (ikhlaqiyya), but also on realism
+(waqi'iyya), therefore distinguishing what he derides as Marxism developing  idealistic
+and fanciful rules that assume selflessness and sinlessness and disregard the condition
+of human beings.  See id. at 266.  Sadr's assault on Marxist theory brings to mind the
+ideas of another pragmatist operating in the United States, Oliver Wendell Holmes, who
+famously derided the notion of law as being some sort of idealistic "brooding omnipres-
+ence in the sky."  Southern Pacific Company v. Marie Jensen, 244 U.S. 205, 222 (1917)
+(Holmes, J., dissenting).
+245.  See IQTISADUNA, supra note 17, at 372-75.
+246.  See, e.g.,  Rodney Wilson, The Contribution of Muhammad Baqir al-Sadr to Con-
+temporary Islamic Economic Thought, 9 J. ISLAMIC  STUD. 46, 46-47 (1998).2007  Langdellianism and the Failures of Islamic Finance
+C.  Assertion of Interpretive Control within an Alternative  Modality
+1.  A Problem of "Subjectivity"
+Professor  Fazlur Rahman  has  expressed  some concerns  about  pro-
+posed expansive uses of istislah, noting in particular that it could lead to
+the creation of undue subjectivity.247  Sadr echoes the criticism and clearly
+struggles in Iqtisaduna to achieve a balance between the expansive form of
+creative  jurisprudential  thinking  that  he  deems  necessary  to  build  an
+Islamic economic system,  and what he calls  dhatiyya, or  subjectivity.248
+The concern is that the assertion of some interpretive  control will devolve
+into incoherence,  with generalized  Qur'anic verses  effectively ignored  or
+interpreted  in  a  way  that  merely  suits  the  particular  interpreter's
+preferences.
+Sanhuri's  definitional  approach  manifests clear  interpretive  control,
+though it also  continues  to  inhibit the  development  of Islamic  finance.
+Sadr's contextual approach, if expanded to spoken hadith, is far more flexi-
+ble, but could also create considerable problems regarding lack of interpre-
+tive control, as every hadith would then be reopen to evaluation with the
+only question of continued  applicability being whether changed  circum-
+stances warranted it. It is difficult to see how this would not devolve into a
+jurisprudence of convenience and be dismissed as such.
+2.  Proposed Synthesis of Definitionalism and Contextualism
+However,  a synthesis of the two  approaches  is possible.  One could
+apply Sanhuri's more reductive  definitional method in principle, but in a
+slightly modified form in instances where the Qur'an did not define any
+particular  practice as  forbidden but rather  defined a  more general  stan-
+dard.  After applying this definitional  approach  and reaching the logical
+conclusion  that Sanhuri did, the jurist could apply Sadr's  contextual the-
+ory to outline  the prohibited practices  at issue in a  more  contemporary
+fashion.
+To take the example of riba, the argument would follow Sanhuri's defi-
+nitional approach and define the Qur'anic prohibition, the intended prohi-
+bition, to be riba al-jahiliyya. Sanhuri  originally stopped here because he
+reasoned  that riba in the Qur'an was defined  strictly as riba al-jahiliyya,
+and the Qur'anic ban could therefore  not be disturbed.249  However,  the
+argument could proceed, adopting Sadr's contextual theory that the partic-
+ular intended prohibition of Muhammad's time is no longer an exploitative
+practice.250  Using a liberalized form of qiyas interspersed with istislah or
+istihsan, the extended conclusion would be that the prohibited activities of
+the Qur'an would no longer be the renegotiation of a debt but rather prac-
+tices that are analogous to the intended prohibition in Muhammad's time
+247.  See Fazlur  Rahman,  Toward Reformulating  the Methodology of Islamic Law,  12
+N.Y.U. J. INT'L L. & POL. 219, 223 (1979).
+248.  See IQTISADUNA,  supra note 17, at 364-90.
+249.  See SANHURI,  supra note 120, at 172-73.
+250.  See IQTISADUNA, supra note 17, at 40-41.Cornell International Law Journal Vol. 40
+but adapted to contemporary society.251  These would be situations where
+a party with enormous leverage over a second party exploits that leverage
+to its considerable gain and the first party's considerable loss.  As for the
+prohibitions of means, Sadr's contextual approach could be used to deter-
+mine other practices similar to the hadith under current circumstances that
+might be used as artifices to circumvent the intended prohibition.  Trades
+that appear massively  exploitative and one-sided, without direct evidence
+of excessive leverage, could be one example.  This may be broad as a defini-
+tional matter, but hardly creates impossibly wide interpretive  parameters
+over the term riba. Moreover, the synthesis promotes social justice by limit-
+ing  the  exploitative  practices  of  Islamic  financial  institutions  yet  still
+defines those practices in a commercially  practicable manner.
+Gharar could be approached similarly,  but with somewhat  different
+results.  The  intended  prohibition,  as  derived  under  the  definitional
+approach, would be modern  manifestations  of games  of chance,  whose
+parameters  seem rather self-evident.  However,  in evaluating  the prohibi-
+tion of means under the contextual approach, it is possible to imagine cer-
+tain limitations on commercial activity.  The basis for the limitation would
+be that the risks that certain activities entail do not justify the commercial
+purposes of the enterprise, and would thereby provide a means to circum-
+vent the intended prohibition.252
+These  are  simply  illustrative  examples;  an  entire  modality  would
+require  considerably  further  exposition and  methodological  rigor by  an
+interpretive  community.  However, by these examples, the author attempts
+to  show  how an experientially  driven jurisprudence,  grounded in tradi-
+tional Islamic doctrine, could develop sensible legal rules without devolv-
+ing into either  the logic-driven  quasi-scientific  obsessions  of Langdell  or
+the nihilism of Critical Legal Theory.
+D.  Fairness and Social Justice in an Islamic Context
+Given the importance  to its ontology,  Islamic  banking is effectively
+senseless unless it provides some form of social justice and fairness.  As
+financial institution patrons  are likely Muslim, it is reasonable  to assume
+that whatever form of social justice the institution exhibits  should have
+particular Islamic characteristics.  Riba and gharar, sensibly interpreted to
+prohibit particularly risky or exploitative  practices, are not the only doc-
+trines that might be used to promote this sort of fairness and social justice
+within an Islamic  context,  though they are  among  the most significant.
+Banks might take  the mutual form as  well to ensure  their adherence  to
+251.  This type of analogy is far removed from the original form of qiyas by which a
+rule was not so much modified as expanded.  Nevertheless,  the reasoning is analogical,
+and the use of the term qiyas is intentional, attempting to reflect some sort of proposed
+stability in the development of jurisprudential thought.
+252.  For example, this is not an unreasonable conclusion to reach with respect to day
+trading.  The author also emphasizes again that these rules need not be enacted as law
+but rather could function as part of a voluntary financial or commercial system operat-
+ing alongside a conventional one.  See supra note 218.2007  Langdellianism and the Failures of Islamic Finance
+these new principles, as El-Gamal suggests.253  In addition, given  the his-
+toric  recognition  of interest-free  loans  as  acts  of charity,  Islamic  banks
+could also be required to devote a small portion of their portfolio towards
+such loans to  those in need.  Islamic banks could refrain from investing
+assets in Islamically prohibited industries, such as those related to alcohol
+or gambling, and donate to legitimately charitable causes.  Many of these
+doctrines  are easy to develop and achieve, the only issue being their com-
+mercial practicability.
+Conclusion
+Islamic finance, as currently developed under the Langdellian  formal-
+ism that defines Islamic jurisprudence, is an intellectually  bankrupt con-
+struct.  It has  shown itself to  be little more  than an incoherent  web  of
+medieval rules, a convenient and specific blindness respecting those rules
+in particular contexts, and an obfuscatory set of measures intended to lend
+the entire affair a patina of genuine religious legitimacy.  The goal was the
+creation of a fairer economic system rooted fundamentally  in partnership
+profit-sharing.  However,  Islamic  finance  results  in  a  system  rife  with
+unnecessary  complexities  and inconsistencies,  decidedly more expensive
+than  its  standard  commercial  analogues  and  more  deceptive  given  its
+highly exaggerated assertions of fairness, equity and, in some cases, char-
+ity.  This has resulted from the application of formalistic interpretive sys-
+tems with alleged origins in the jurisprudential theories of Shafi'i.  As with
+the Langdellians  in the United States, the quest for certainty, uniformity,
+and clarity, without regard to changing circumstances or considerations of
+policy, has led to the development  of rules that simply cannot be applied
+directly, or even  sensibly.
+While  an  approach  towards  commercial  jurisprudence  that  draws
+from  more  radical  trends within  the  American  Legal  Realist  paradigm
+seems impossible in the Islamic context, an alternative modality does seem
+possible, so long as it remains within particular parameters, among them a
+legitimate claim to faithful adherence to Qur'anic verse, substantial respect
+for the hadith, and sufficient systematization and methodological  rigor to
+avoid what  some Islamic jurists might  deem  subjectivity.  More work  is
+required to develop these ideas further.
+Some may accuse the author of lifting longstanding prohibitions in the
+Islamic framework merely to satisfy global commercial demand.  However,
+it seems clear from current experience that at some level the demands of
+the marketplace will reign supreme under any modality.  The only question
+is whether to adopt a system that acknowledges this reality while retaining
+a distinctively Islamic character infused with populist notions of social jus-
+tice and fairness, or to deceive the Muslim populace with elaborate obfus-
+catory  measures  intended  to  retain  the  form  of  profit-sharing  while
+concealing the substantive reality of debt and risk-based finance.
+253.  See supra note 222.

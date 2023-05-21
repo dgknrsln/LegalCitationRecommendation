@@ -1,0 +1,982 @@
+Copyright 2018 by Andrew D. Bradt and Zachary D. Clopton  Printed in U.S.A.
+Vol. 112, No. 4
+Online Essay
+MDL v. TRUMP: THE PUZZLE OF PUBLIC LAW IN
+MULTIDISTRICT  LITIGATIONt
+Andrew D. Bradt & Zachary D. Clopton
+ABSTRACT-Litigation against the Trump Administration has proliferated
+rapidly since the inauguration. As cases challenging executive actions, such
+as  the  "travel  ban,"  multiply  in  federal  courts  around  the  country,  an
+important  procedural  question  has  so  far  not  been  considered-Should
+these sets of cases be consolidated in a single court under the Multidistrict
+Litigation Act?  Multidistrict  litigation,  or  MDL,  has  become  one  of the
+most prominent parts of federal litigation and offers substantial benefits by
+coordinating  litigation pending in geographically  dispersed federal  courts.
+Arguably,  those benefits  would  also  accrue  if "public  law"  cases  were
+given  MDL  treatment.  There  also  are  some  underappreciated  strategic
+reasons why both plaintiffs and the government might want to invoke the
+MDL process in these cases-and we suspect that, sooner rather than later,
+one of these parties might give MDL a try.
+In this Essay, we argue that although the MDL statute would allow for
+consolidation  of these public  law cases, there  are prudential reasons why
+the judges  in charge of MDL should stay their hands. In our view, these
+cases rarely achieve the efficiencies of most MDLs,  and there is value to
+these cases undergoing scrutiny in multiple trial and appellate courts before
+they percolate upward to Supreme  Court review. Moreover, consolidation
+of these cases would raise the political profile of the MDL process and thus
+might politicize the MDL itself as well as the selection of its judges.  This
+politicization  could  undermine  MDL's  primary  role  in  mass  tort
+litigation-and,  indeed,  it  risks  harming  the  national  tort  system  more
+generally.
+AUTHORS-Andrew  D. Bradt, Assistant Professor of Law, University of
+California,  Berkeley.  Zachary  D.  Clopton,  Assistant  Professor  of Law,
+t  This Essay was originally published  in the Northwestern University Law Review Online on
+January  4,  2018.  112 Nw.  U.  L.  REV.  ONLINE  85  (2018),
+https:Hscholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article  1253&context  nulr-online
+[https://perma.cc/D6E2-QNGB].NORTHWESTERN  UNIVERSITY  LAW REVIEW
+Comell Law School. Thanks to Steve Bundy, Kevin Clermont, Mike Dorf,
+Tom Donnelly, Daniel Farber, Adam  Lauridsen, Jason  Lee, Joy Milligan,
+Tejas Narechania,  Teddy Rave,  Andrea Roth, Avani  Sood, Rachel  Stem,
+Susannah  Tobin,  Amanda  Tyler,  and  John  Yoo  for  extremely  helpful
+feedback.
+IN TROD U CTION .......................................................................................................  906
+I.  M D L B ACKGROUND ............................................9.1.0......................................... 
+II.  M D L 's PUBLIC LAW PUZZLE ...........................................................................  914
+III.  WHY THE JPML SHOULD USUALLY DECLINE TO CONSOLIDATE PUBLIC LAW
+C A S ES ..............................................................9. 2. .0........................................... 
+A . Efficiency v. Percolation. ........................................................................  920
+B.  Forum Shopping v. JudicialP oliticization. ..............................................  923
+C ON C LU SIO N. .........................................................................................................  927
+A PPEN DI X. .............................................................................................................  92 8
+INTRODUCTION
+While running  for the presidency,  Donald Trump  campaigned  on a
+platform promising jobs to the American people.I So far, however, perhaps
+his biggest success  on that score has been creating work for lawyers  suing
+him  and  his  Administration.2  Lawsuits  challenging  the  new  President's
+actions have proliferated throughout the federal courts, including the high-
+profile suits contesting the "travel ban" Executive Order,3 contending that
+the President's business entanglements  violate the Emoluments  Clauses of
+the Constitution,4 and asserting that his plan to punish so-called "sanctuary
+cities" is unconstitutional.5
+The travel ban litigation, in particular, has been notable  for its speed
+and multiplicity. Almost immediately after the ban was announced, lawyers
+1 See, e.g.,  Alexander Burns et al., Donald Trump Vows  to Create 25 Million Jobs Over Next
+Decade, N.Y. TIMES (Sept.  15, 2016), https://www.nytimes.com/2016/09/16/us/politics/donald-trump-
+economy-speech.html  [https://perma.cc/SC5N-GEK5].
+2 Representative Denny Heck also joked that the hiring of lawyers by members of the Trump
+Administration was part of an "attorney full employment act." See Julia Manchester, Dem: Trump Has
+'IncredibleE mphasis on Jobs, Jobs, Jobs'  for Lawyers, THE HILL (June 16, 2017), http://thehill.com/
+homenews/house/338180-dem-trump-has-incredibly-emphasis-on-jobs-j  obs-jobs-for-lawyers
+[https://perma.cc/4UPS-5ECS].
+3 See Trump v. Int'l Refugee Assistance Project, 137 S. Ct. 2080, 2080 (2017) (granting certiorari).
+4  See, e.g., Complaint, Citizens for Responsibility and Ethics in Washington v. Trump, No. 1:17-
+CV-00458, 2017 WL 277603 (S.D.N.Y. Jan. 23, 2017); see also U.S. CONST. art. I, § 9, cl. 8; id. art. II
+§ 1, cl. 7.
+5 See Santa Clara v. Trump, 250 F. Supp. 3d 497, 497 (N.D. Cal. 2017); City of Seattle v. Trump,
+No. 17-497, 2017 WL 4700144 (W.D. Wash. Oct. 19, 2017).112:905 (2018) MDL v. Trump
+fanned  out  across  the  country  both to  aid  affected  individuals  and  to
+challenge the order in multiple federal courts.6 What resulted was a panoply
+of  rulings  and  overlapping  injunctions,  followed  by  several  appellate
+decisions  and, inevitably,  cert. petitions  and Supreme  Court review.7  As
+these  cases wended  their way  through various  federal  courts  around the
+country,  a  question  occurred to  us, as procedure  scholars-Why  haven't
+these cases-and the other sets of cases challenging the Administration-
+been made the subject of multidistrict litigation (MDL)? And, if they were,
+would that be preferable to the free-for-all of the status quo?
+The  MDL  statute,  28 U.S.C.  § 1407,  allows  for  consolidation  of
+pretrial  proceedings  in  a  single  federal  district  of all  cases  sharing  a
+common question of fact. Any party to any of the allegedly related cases
+may make  a motion for consolidation.'  This motion triggers consideration
+by the Judicial Panel on Multidistrict Litigation (JPML, or the Panel), the
+panel  of  seven  federal  judges  that  decides  whether  cases  should  be
+consolidated into MDL and where the MDL should be assigned.9 The MDL
+statute's  goal  is  to  prevent  duplication  of similar  litigation  in  multiple
+federal courts across the country. The basic idea is that it is more efficient
+to conduct pretrial proceedings  in cases involving the same questions only
+one time and before only one judge, rather than over and over again before
+many.
+For many years,  the  1968 MDL statute was relatively  little noticed,
+even by most procedure  scholars,10 but that is emphatically  no longer the
+case. Quite the opposite is true: MDL is now in the spotlight, if for no other
+reason than the surprising statistic that MDL cases currently make up more
+than one-third of the pending federal civil docket, an astonishing increase
+over the last two decades.II  Over the last few years, it has become accepted
+wisdom  that  virtually  any  tort  controversy  of  national  import  will
+inevitably become an MDL proceeding consolidated before a single judge.
+6 See  generally Litigation Documents & Resources Related to  Trump  Executive  Order on
+Immigration,  LAWFARE,  https:Hlawfareblog.com/litigation-documents-resources-related-trump-
+executive-order-immigration [https://perma.cc/2V5V-NS87]  (listing all of the litigation brought against
+Trump in different jurisdictions).
+7 Id.
+8 See 28 U.S.C. § 1407(a) (2012).
+See  Overview  of  Panel,  U.S.  JUD.  PANEL  ON  MULTIDISTRICT  LITIG.,
+http://www.jpml.uscourts.gov/overview-panel-0  [https://perma.cc/4W6M-N8VN].
+10 See,  e.g.,  Linda S.  Mullenix, Aggregate Litigation and the Death of Democratic Dispute
+Resolution, 107 NW. U. L. REV. 511, 552 (2013) (describing MDL as a "disfavored judicial backwater"
+until the 2000s); Judith Resnik, From Cases to Litigation, 54 LAW & CONTEMP. PROBS. 5,  47 (1991)
+(describing MDL as a "'sleeper'  having enormous effect on the world of contemporary litigation but
+attracting relatively few critical comments").
+11 See infra Part I.NORTHWESTERN  UNIVERSITY  LAW REVIEW
+Examples  include  the BP  oil spill, the Volkswagen  "clean  diesel"  fraud,
+and  the  NFL  concussion  litigation,  all  of which  were  "MDL-ed"  and
+assigned  by  the  JPML  to  handpicked  judges  in  New  Orleans,  San
+Francisco,  and  Philadelphia,  respectively.12  And  all  have  been  resolved
+relatively  successfully  through massive  settlements,  though not  without
+hiccups. In short, MDL is now a central and mostly well-regarded aspect of
+the  federal  legal  system  when  it  comes  to  litigation  of national  scope,
+largely  because  it  facilitates  a  unitary,  nationwide  proceeding  and,
+potentially, a global settlement.
+While it is true that MDL is best known for consolidating mass torts, it
+is not confined to those cases. The small group of judges who  developed
+the  MDL  statute wanted  it  to  be  as  open-ended  as  possible,  so  that  its
+application would not be limited to particular subject matters.13 As a result,
+there is no language in the statute preventing the MDL device  from being
+deployed in what we might think of as "public law"  cases,14 such as those
+pending  against  the  Trump  Administration.  There  also  are  some  good
+reasons  why  participants  in these cases-and  the judges hearing  them-
+might find MDL attractive. For one thing, the same sort of efficiencies that
+motivate a typical MDL may  exist in public law cases-Why  litigate the
+same question, take the same  discovery, and file the same briefs multiple
+times when one will do, particularly in cases that are destined for Supreme
+Court review? Although MDL is best known as a mass tort mechanism, it
+is not difficult  to imagine how  its benefits  might translate to  public law
+cases.
+Moreover, parties  on either side of the "v" might see MDL as a way
+out of a courtroom  they find unfriendly.  That  is, should  a lawyer not be
+satisfied with the luck of the draw in any particular district, she might roll
+the dice with the JPML in hopes of getting a preferable judicial assignment.
+The  possibility of getting a more  favorable draw  from the JPML may be
+especially tempting for plaintiffs  if they  expect,  rightly  or wrongly,  that
+they will get more favorable treatment from a JPML dominated, six to one,
+by Clinton appointees.
+12 See In re Oil Spill, Gulf of Mex., on April 20,2010,731  F. Supp. 2d 1352 (J.P.M.L. 2010); In re
+Volkswagen "Clean Diesel" Litig., 148 F. Supp. 3d 1367 (J.P.M.L. 2015); In re Nat'l Football League,
+842 F. Supp. 2d 1378 (J.P.M.L. 2012).
+13 See Andrew D. Bradt,  "A Radical Proposal": The Multidistrict Litigation Act of 1968, 165 U.
+PA. L. REV. 831,  869 (2017) (noting that in March 1964, the drafters began "in earnest to develop a
+proposal intended to apply broadly to all litigation pending in multiple districts,  including 'contract,
+fraud, negligence, antitrust, and civil rights').
+14 See generally Abram Chayes, The Role of the Judge in Public law Litigation, 89 HARV. L. REV.
+1281 (1976).112:905 (2018) MDL v. Trump
+Given the opportunities that MDL consolidation offers, we expect that
+it will not be long before  some party  dissatisfied with a random judicial
+assignment will take a crack at MDL consolidation in a public law case. In
+this  Essay,  we  hope  to  provide  some  perspective  about  whether  such
+consolidation is consistent with the purposes of the MDL statute, preferable
+as  a matter of procedural policy,  and desirable  as a matter of procedural
+politics.  In  other words-May  these  cases  be sent  to  MDL,  and,  if  so,
+should they be?
+In brief, we argue that, while MDL treatment of these cases would be
+permissible under the terms of the statute, the JPML should usually avoid
+consolidation of public law cases for two sets of reasons. First, we think the
+traditional arguments for consolidation based on efficiency and consistency
+are weakened in these  cases and, to the contrary, there is some benefit to
+percolation of these issues in multiple district courts. Moreover, in most of
+these  cases,  the major  disputes  likely involve  questions  of statutory  and
+constitutional  interpretation  to  be  resolved  on motions  for  preliminary
+injunction or motions to dismiss, not after lengthy discovery or after trials
+to resolve disputes of material fact. As a result, in these cases,  one of the
+primary  benefits  of  MDL-the  ability  to  minimize  expensive,  time-
+consuming, and potentially duplicative discovery-is less important.
+The second reason to avoid use of MDL in the public law context is
+that there is real  danger in politicizing  the panel by involving it in these
+sorts of cases. Introducing litigation like the travel ban cases would enmesh
+the JPML in selecting the judge who will write the district court  opinion
+resolving the matter,  likely  on a motion for preliminary  injunction. That
+assignment  decision will be both fraught  and well publicized,  and it may
+risk the credibility of the panel in all of its judicial assignments. Moreover,
+this  new  role  may  create  an  incentive  for  the  Chief  Justice,  who  has
+unfettered  statutory  discretion  to  appoint  the members  of the  JPML, to
+stack the committee with philosophical fellow travelers-an allegation that
+has been  leveled  against the  Chief Justice's  more politically  noteworthy
+assignments.15
+In this  Essay, we  will  first briefly  introduce  MDL,  where it  came
+from, and how it works. We will then discuss why it might appear to be an
+appealing  option  in  public  law  litigation.  After  giving  those  potential
+benefits  serious  consideration,  we  then turn to  explaining  why  in  most
+cases we believe that the JPML should presumptively refuse to consolidate
+these cases, on the ground that the risks outweigh the benefits.
+15 See infra Section III.B.NORTHWESTERN  UNIVERSITY  LAW REVIEW
+I.  MDL BACKGROUND
+For a long time, multidistrict litigation flew  under the radar. It  was
+perceived as a wonkish, technical procedural  device designed to coordinate
+discovery in related cases.16 All that has changed:  MDL has gone from bit
+part in the federal litigation scheme to a starring role, at least in the context
+of mass torts.17
+In order to understand MDL's current prominence,  it is necessary  to
+understand the statute's origins and the power it grants to the Judicial Panel
+on Multidistrict Litigation and transferee judges. Although its roots go back
+even further, the proximate progenitor of the MDL statute was the massive
+civil antitrust  litigation that arose  from  revelations  of price-fixing  in the
+electrical-equipment  industry.18  That  scandal-unprecedented  in  its  size
+and scope-threatened to overwhelm the federal  courts with thousands  of
+complex  and  resource-consuming  cases.19  In  an  attempt  to  mitigate  the
+threat posed by the deluge of litigation, Chief Justice Earl Warren created a
+Judicial  Conference  committee  called  the  Coordinating  Committee  on
+Multiple Litigation. The Committee, initially chaired by Chief Judge Alfred
+P. Murrah of the Tenth Circuit, was composed of nine federal judges, all of
+whom were assigned at least one of the electrical-equipment cases and who
+had  previously  demonstrated  their  enthusiasm  for  the  then-novel  but
+burgeoning concept ofjudicial management.2
+The Coordinating Committee had no formal power, but its goal was to
+encourage  cooperation  between  the  federal  judges  and  parties  to  the
+litigation scattered  around the country. Perhaps because  of the scale of the
+nationwide  litigation,  there  was  almost  complete  cooperation  by  all
+involved.21   Ultimately,  the  Committee's  efforts  were  remarkably
+16 See Bradt, supra note 13, at 832 (calling MDL a "second banana" to class actions).
+17  Thomas Metzloff, The MDL Vortex Revisited, 99 JUDICATURE 36, 40 (2015) (explaining  that
+MDL  is  "in  fact dominated  by mass  tort cases at a  remarkable level");  William  B.  Rubenstein,
+Procedurea nd Society: An Essayf or Steve Yeazell, 61 UCLA L. REV. DISCOURSE 136, 144 n.40 (2013)
+("In the wake of Amchem and Ortiz, however, MDLs have become the form for resolution of mass tort
+matters.").
+18 See Bradt, supra note 13, at 838.
+19 See, e.g.,  The Impact of the Electrical Anti-Trust Cases Upon Federal Civil Procedure, in
+PROCEEDINGS  OF THE  TWENTY-EIGHTH ANNUAL  JUDICIAL CONFERENCE  OF THE THIRD  JUDICIAL
+CIRCUIT OF THE UNITED  STATES,  39 F.R.D.  375,  515  (1965)  (statement of Judge  Thomas  Clary)
+(describing the nationwide civil antitrust actions as an "avalanche").
+20  See Bradt, supra note 13, at 852  53, 860-61.
+21 Among other innovations, the Coordinating Committee made use of nationwide conferences and
+depositions, uniform national pretrial orders, and national document depositories to streamline pretrial
+proceedings. See Phil C.  Neal & Perry Goldberg, The Electrical Equipment Antitrust Cases: Novel
+Judicial Administration, 50 A.B.A.  J.  621  (1964);  see also MANUAL  FOR  COMPLEX AND  MULTI-
+DISTRICT LITIGATION 6 (1969)  ("If it had not been for the monumental effort of the nine judges on this112:905 (2018) MDL v. Trump
+successful:  although  at  least  some  of the  defendants  felt  railroaded  to
+settlement by the pace of the litigation, it succeeded in its efforts to resolve
+the entirety of the litigation quickly22
+The legacy of the Coordinating Committee goes beyond the electrical-
+equipment suits. While those cases were ongoing, the Committee-with the
+backing  of Chief Justice Warren and the Judicial  Conference-turned  its
+attention to  creating  a permanent  mechanism  for  consolidating  litigation
+pending in multiple districts around the country. The two primary drafters
+of the statute, Coordinating Committee member  Judge William H. Becker
+and reporter Phil C. Neal of the University of Chicago Law School, had the
+insight that the kind of cooperation  exhibited in the electrical-equipment
+cases  would  be  unlikely  to  recur,  in  large  part because  of defendants'
+dissatisfaction  with  aggregated  proceedings  and  federal  judges'  chafing
+under  the  control  exercised  by  the  Committee.  As  a result,  in  cases  of
+national import, the power of the federal courts needed to be centralized in
+the hands of a single judge, and preferably one committed to the principles
+of active case management.23 Indeed, as Judge Becker memorably put it, a
+single judge must be in control of the pace of discovery and other pretrial
+proceedings, or else the "litigants would run cases. '24 The ultimate result of
+Neal  and Becker's efforts,  the details of which  are chronicled  elsewhere,
+was the MDL statute, passed by Congress without a single dissenting vote
+in 1968.25
+The statute itself is relatively barebones. It provides that "[w]hen  civil
+actions  involving  one or more  common questions  of fact are pending in
+different  districts,  such  actions  may  be  transferred  to  any  district  for
+coordinated  or consolidated pretrial proceedings"  by the Judicial Panel on
+Multidistrict  Litigation,  a panel  of seven  federal judges  selected  by  the
+Chief Justice.26 The  statute provides that consolidation should be "for  the
+convenience  of parties and witnesses"  and "promote the just and efficient
+conduct of such actions."27 Either the JPML on its own motion or any party
+Committee of the Judicial Conference and the remarkable cooperation of the 35 district judges before
+whom these cases were pending, the district court calendars throughout the country could well have
+broken down."  (quoting Earl Warren,  Chief Justice,  U.S.  Supreme Court, Address to  the Annual
+Meeting of the American Law Institute (May 16, 1967))).
+22  See CHARLES A.  BANE, THE ELECTRICAL EQUIPMENT CONSPIRACIES: THE TREBLE DAMAGE
+ACTIONS 379 (1973) (noting that "practically all of the remaining pending cases had been disposed of'
+by the end of 1966); Bradt, supra note 13, at 860  63.
+23  See Bradt, supra note 13, at 865  66.
+24 Id. at 878.
+25 Id.a t 906.
+26 28 U.S.C. § 1407(a) (2012).
+27  id.NORTHWESTERN  UNIVERSITY  LAW REVIEW
+in any pending case may move for consolidation2.8 Decisions about whether
+cases will be consolidated,  and where they will be transferred,  are to be
+made by the JPML.9 At the conclusion of pretrial proceedings,  the cases
+are to be remanded to the districts where they were filed for trial3. 0
+There  are  almost no  real  limits  on the  JPML's  discretion  when  it
+comes  to  the  all-important  conclusions  about  whether  cases  should  be
+consolidated into an MDL and to whom the MDL will be assigned. For one
+thing,  the  statute  applies  anytime  there  are  civil  actions  involving  a
+common  question  of  fact  pending  in  multiple  districts-there  is  no
+limitation as to subject matter.  This was important to the drafters of the
+statute, who perceived a coming "litigation explosion"  arising out of new
+technology, population growth, and expanded rights of action.2  Traditional
+limitations on venue and personal jurisdiction also have been thought not to
+apply  to  MDL.3  The  only  real  barrier  to  the  MDL's  selection  of a
+transferee judge is that both the proposed MDL judge and the chief judge
+of  her  district  must  consent  to  the  assignment. 4  But  none  of  these
+limitations on the JPML's discretion are practically enforceable because the
+statute provides that review of an order  of the panel may be had only by
+28  Id. § 1407(c).
+29  Id. § 1407(a). Federal district courts have their own procedures for consolidating related cases
+within the district.
+30  Lexecon Inc.  v. Milberg Weiss  Bershad  Hynes &  Lerach, 523 U.S.  26,  40 (1998)  (citing
+Multidistrict Litigation: Hearings on S. 3815 and S. 159 Before the Subcomm. on Improvements  in
+JudicialM  achinery of the S. Comm. on the Judiciary,9 0th Cong., 1 st Sess., pt. 2, 110 (1967) (statement
+of Sen. Joseph Tydings)).
+31  The statute's drafters were careful to keep the scope of consolidated actions broad, including, in
+the vision  of one of the statute's backers, "air  crash multiple litigation, several aspects of antitrust
+litigation,  patent and  trade-mark  multiple litigation,  products  liability  multiple litigation,  litigation
+relating to corporate management, securities and stock brokerage fields and potential multi-litigation in
+the  fields  of  water  and  air  pollution."  JUDICIAL  CONFERENCE  OF  THE U.S.,  REPORT  OF  THE
+PROCEEDINGS OF THE JUDICIAL CONFERENCE OF THE UNITED STATES, SEPTEMBER 21  22, 1967, at 86
+(1967); see also Bradt, supra note 13, at 869.
+32  JudicialA dministration: HearingB efore Subcomm. No. 5 of the H. Comm. on the Judiciary,8 9th
+Cong. 26 27 (1966)  (statement of C.J. William H. Becker, Western District of Missouri) ("We feel that
+there is a litigation explosion occurring in the Federal courts along with the population explosion and
+the technological revolution; that even with the addition of many new judges, the caseload, the backlog
+of cases pending, is growing; and that some new tools are needed by the judges in order to process the
+litigation  ..." ).
+33 In re FMC Corp. Patent Litig., 422 F. Supp. 1163,  1165 (J.P.M.L.  1976) ("[T]ransfers under
+Section 1407 are simply not encumbered by considerations of in personam jurisdiction and venue.").
+34 28 U.S.C. § 1407(b).112:905 (2018) MDL v. Trump
+extraordinary writ.35 In the first fifty years of the JPML's existence, such a
+writ has never been granted.6
+Moreover,  the  seemingly  important  limit  of  MDLs  to  "pretrial
+proceedings"  has proved  illusory-or, at least,  overstated.  It is true that,
+under the  statute,  "[e]ach  action  so transferred  shall be remanded  by  the
+panel at or before the conclusion of such pretrial proceedings to the district
+from  which  it  was  transferred." 37  But  that  command  comes  with  an
+important  condition:  "unless  it  shall have been  previously terminated."38
+Previously terminated cases include those decided on dispositive motion or
+settled. Most readers  will no doubt be familiar with the vanishing trial in
+American  civil litigation,  whereby  barely  any civil  cases  make it all  the
+way to trial, instead  ending after summary judgment or settlement.9  That
+same trend extends to MDL. Virtually all consolidated cases are resolved in
+the MDL district without any substantive contribution from the originating
+courts.40 As a result, many MDL decisions are insulated from both appellate
+review and review by other district judges.
+Although the MDL statute has not changed since  it was passed fifty
+years  ago,  its  prominence  has  expanded  rapidly  during the  last  fifteen
+years.41 Now with nearly 40%  of the pending federal civil cases as part of
+an MDL,42 the MDL process is impossible to ignore.43  Today, it is nearly a
+15  Id. § 1407(e). The JPML's decision not to consolidate cases is not subject to appellate review.
+36  Paul M. Janicke, The JudicialP anel on MultidistrictL itigation:N ow A Strengthened Traffic Cop
+for Patent Venue, 32 REV. LITIG. 497, 512 (2013). More generally, it is fair to say that the MDL system
+is in large respect insulated from both appellate review and the meddling of rulemakers, as are MDL
+judges who have wide discretion to manage cases to resolution. See Andrew D. Bradt, The Stickiness of
+the MDL Statute, REV. LITIG. (forthcoming 2018).
+37  28 U.S.C. § 1407(a); see also Lexecon Inc. v. Milberg Weiss Bershad Hynes & Lerach, 523 U.S.
+26, 35 (1998).
+38  28 U.S.C. § 1407(a).
+39  See, e.g., Marc Galanter, The Vanishing Trial: An Examination of Trials and Related Matters in
+Federala ndState Courts, 1 J. EMPIRICAL LEGAL STUD. 459 (2004).
+40 The Administrative Office of U.S. Courts reported the following about MDL cases:
+Since its creation in 1968, the Panel has centralized 593,711 civil actions for pretrial proceedings.
+By the end of fiscal year 2016, a total of 16,221 actions had been remanded for trial, 398 actions
+had been reassigned within the transferee districts, 440,174  actions had been terminated  in the
+transferee courts, and 136,918 actions were pending throughout 55 transferee district courts.
+Judicial  Panel  on  Multidistrict  Litigation  Judicial  Business  2016,  U.S.  COURTS,
+http://www.uscourts.gov/statistics-reports/judicial-panel-multidistrict-litigation-judicial-business-20  16
+[https://perma.cc/93DL-LZWG].  And  the trend,  it  seems,  is  toward  even fewer  trials.  See,  e.g.,
+Elizabeth Chamblee Burch, Remanding MultidistrictL itigation, 75 LA. L. REV. 399,400 01(2014).
+41  See Elizabeth Chamblee Burch, Monopolies in MultidistrictL itigation, 70 VAND. L. REV. 67, 72
+(2017) (noting that "from  2002 to 2015,  multidistrict proceedings leapt from sixteen to thirty-nine
+percent of the federal courts' entire civil caseload").
+42 Emery  G.  Lee  III  et  al.,  Multidistrict Centralization: An  Empirical Examination,  12 J.
+EMPIRICAL LEGAL STUD. 211,221  22 (2015) (describing statistical increase in MDL cases).NORTHWESTERN  UNIVERSITY  LAW REVIEW
+foregone  conclusion that mass tort litigation will be considered  for MDL
+treatment,44 and indeed  the major tort controversies  of recent  years have
+found themselves in front of MDL judges.45 And to the extent that we limit
+ourselves  to the  goals  of the  statute's  drafters-centralized  control  over
+dispersed  litigation-MDL has been  a massive success  because it creates
+ideal conditions  for resolution:  a single  decisionmaker who  can gather all
+involved parties in a single courtroom4t.
+II.  MDL'S PUBLIC LAW PUZZLE
+Given  its  open-ended  mandate,  MDL  is a  conceivable  vehicle  for
+public law cases that share a common question of fact. On rare occasion, a
+public law-like case has reached the JPML. The panel consolidated  some
+9/1 1-related  litigation,47  the  BP  oil  spill  Cases,4   various  suits  against
+telecommunications  providers  that  allegedly  participated  in  NSA
+surveillance,49  and the  occasional  administrative  law dispute.  But these
+43 What explains MDL's emergence? Most scholars peg the recent growth of MDL to the decline in
+availability of the mass tort class action. See, e.g., Margaret S. Thomas, Morphing Case Boundaries in
+Multidistrict Litigation Settlements, 63 EMORY  L.J.  1339,  1346 (2014)  ("As reliance  on Rule  23
+diminished, MDL has ascended as  the most important federal procedural device to aggregate (and
+settle) mass torts.").
+44 Thomas E.  Willging & Emery G.  Lee, From Class Actions to Multidistrict Consolidations:
+Aggregate Mass-Tort Litigation After Ortiz, 58 U. KAN. L. REV.7 75, 798 (2011) (noting the "massive
+increase in MDL aggregate litigation").
+45 See supra note 12 and accompanying text.
+46  Admittedly, MDL has generated its own  set of controversies,  but  on its own terms,  it is a
+success. See JOHN C. COFFEE, JR., ENTREPRENEURIAL LITIGATION: ITS RISE, FALL, AND FUTURE 155
+(2015)  (describing the MDL statute as "[t]he most successful step in the administration  of aggregate
+litigation in the United States").
+47 See, e.g., In re Terrorist Attacks on Sept. 11,  2001 (Asat Trust Reg., et al.), 714 F.3d 659 (2d Cir.
+2013); In re Terrorist Attacks on September 11,  2001 (Saudi Joint Relief Committee, et al.), 714 F.3d
+109 (2d Cir. 2013); In re Terrorist Attacks on September 11,  2001, 295 F. Supp. 2d 1377 (J.P.M.L.
+2003).
+48  See In re Oil Spill, Gulf of Mex., on April 20, 2010, 731 F. Supp.2d 1352 (J.P.M.L. 2010). See
+generally MDL -2179 Oil Spill by the Oil Rig "'DeepwaterH orizon," U.S. DISTRICT CT., EASTERN
+DISTRICT OF LA., http://www.laed.uscourts.gov/OilSpill/OilSpill.htm  [https://perma.cc/LW5W-WEKR]
+(collecting relevant court documents).
+49 See In re NSA Telecomms. Records Litig., 444 F. Supp. 2d 1332 (J.P.M.L. 2006). These cases
+were separate from overlapping suits against government officials. See, e.g., Clapper v. Amnesty Int'l
+USA, 568 U.S. 398 (2013). Note also that the MDL cases were resolved not with the transferee judge
+issuing (or denying) nationwide relief but with Congress stamping out the litigation entirely. See FISA
+Amendments Act of 2008, Pub. L. No.  110-261,  § 201,  122 Stat. 2436, 2468  70 (2008) (codified at
+50 U.S.C. § 1885(a) (2012)); Hepting v. AT&T Corp., 539 F.3d 1157 (9th Cir. 2008).
+50 In re Endangered Species Act Section 4 Deadline Litig., 716 F.Supp.2d 1369 (J.P.M.L. 2010)
+(consolidating  lawsuits under the Endangered Species Act seeking to require the government to list
+certain specifies as threatened or endangered); In re Polar Bear Endangered Species Act Listing and
+§ 4(d)  Rule  Litig.,  588 F.  Supp.  2d  1376,  1378  (J.P.M.L.  2008)  (consolidating  Administrative
+Procedures Act cases regarding endangered species). The Panel has also denied consolidation in some112:905 (2018) MDL v. Trump
+examples  are not the prototypical public law cases that we address  in this
+Essay.51 Perhaps  more importantly, these  cases are  outliers-they  are the
+best examples we could find among the 2,782 MDLs that have been created
+during the  fifty-year  lifetime  of the  statute. Instead,  the  list of MDLs  is
+dominated  by  classic  private  law  claims:  products  liability,  mass  torts,
+antitrust, commercial law, and consumer law.5 As if to make our point, the
+2 
+government  has  sought  consolidation  of FOIA  litigation  related  to  the
+travel ban but not for the travel ban litigation itself.5 To be sure, the line
+1 
+between  "public"  and  "private"  law  cases  is  blurry;  MDLs  involving
+private  law  claims  against  private  defendants  have  intensely  public
+consequences.  Cases  in  these  areas-and  particularly  ones  involving  a
+nationwide set of litigants-may be of national importance.  Nevertheless,
+there  is  a  difference  between  these  cases,  which  typically  involve  tort
+claims against corporate defendants,  and challenges to federal government
+action, which have not been consolidated.
+There  have been plausible candidates  for MDL among recent public
+law  cases.  During  the  Obama  Administration,  the  Supreme  Court
+entertained  public  law  litigation  with  national  consequences  involving
+issues from immigration (deferred action)54 to marriage equality (DOMA)55
+administrative  law cases. See In re Clean Water Rule: Definition of "Waters of the United States,"
+140 F. Supp. 3d 1340,  1341 (J.P.M.L. 2015) (denying consolidation of related suits challenging EPA
+rule); In re Removal From U.S. Marine Corps Reserve Active Status List Litig., 787 F. Supp. 2d 1350,
+1351 (J.P.M.L. 2011) (denying consolidation of Administrative Procedure Act cases). The Panel denied
+a series of MDL requests in IRS subpoena cases as well. See, e.g., In re Cybil Fisher Litig., 987 F.
+Supp. 2d 1376, 1376 (J.P.M.L. 2013).
+5  The 9/11 litigation and the BP case involved major issues of national concern, but they lacked
+the classically public law character in their claims or proposed remedies. See Samuel Issacharoff & D.
+Theodore Rave, The BP Oil Spill Settlement and the Paradox ofP ublic Litigation, 74 LA. L. REV. 397,
+401 (2014) (noting that the BP Oil Spill's "mass harms take on the quality of public law litigation, even
+if played  out in  thousands  of claims  for private  recompense"  (footnote omitted)).  Although  the
+Endangered Species Act cases sought declaratory and injunctive relief against a government agency in
+an area of public law, they lack theje ne sais quoi of the cases at issue in this Essay.
+52  The  current totals are:  Air  Disaster:  3; Antitrust:  51;  Common  Disaster:  3;  Contract:  6;
+Employment: 4; IP:  10; Miscellaneous: 39; Products Liability:  72; Sales Practices: 30; and Securities:
+15. See MDL Statistic Reports  Docket Type Summary, U.S. JUD. PANEL ON MULTIDISTRICT LITIG.
+(Apr.  17,  2017),  http://www.jpml.uscourts.gov/sites/jpml/files/Pending  MDL  Dockets By  Type-
+April-17-2017.pdf  [https://perma.cc/GK42-A56X].  Almost  all of the miscellaneous  MDLs involve
+consumer and/or privacy litigation. Id.
+53  See  In re American  Civil  Liberties Union  Freedom  of Information  Act (FOIA) Requests
+Regarding  Executive  Order  13769,  2017 WL  3296361  at  1 2  (J.P.M.L.  Aug.  2,  2017)  (denying
+consolidation).
+54  See United States v. Texas,  136 S. Ct. 2271 (2016), affirming  by  an equally divided Court,
+809 F.3d 134 (5th Cir. 2015). Texas was not the only challenge to deferred action. See, e.g., Arpaio v.
+Obama, 797 F.3d 11 (D.C. Cir. 2015).
+55  United States v. Windsor, 133 S. Ct. 2675  (2013). Windsor was not the only case challenging
+DOMA at that time. See, e.g., Golinski v. U.S. Office of Pers. Mgmt., 724 F.3d 1048,  1049 (9th Cir.NORTHWESTERN  UNIVERSITY  LAW REVIEW
+to healthcare  (ACA)56-all of which had been litigated in multiple district
+courts.57 In the first few months of the Trump Administration, we have seen
+parallel litigation on immigration"S and environmental policy,59 and all signs
+suggest that the federal courts will remain centers of public law activity for
+the foreseeable future.60
+In  all  of  these  cases,  multiple  suits  had  the  capacity  to  raise
+overlapping  questions  of fact,  and  convenience  and  justice  may  have
+justified their  consolidation.61  For a  clear  illustration, observe  that many
+recent  national  public  law  disputes  have  turned  on  intent  or  animus-
+classic questions of fact for which one resolution might be more convenient
+than many.62 In short, therefore,  § 1407  could have been satisfied.63 And
+yet, the JPML did not (at  least formally)  even  consider  consolidation in
+these  cases.  Commentators,  too,  seemed  uninterested  in  consolidation.
+Prior to the motion to consolidate the travel ban/FOIA cases ,64  a search in
+2013); Massachusetts v. U.S. Dep't. of Health & Human  Services,  682 F.3d  1, 5  (1st Cir.  2012)
+(resolving two cases); Pedersen v. Office of Pers. Mgm't, 881 F. Supp. 2d 294,298 (D. Conn. 2012).
+56  See, e.g., Zubik v. Burwell, 136 S. Ct. 1557 (2016); Burwell v. Hobby Lobby Stores, Inc., 134 S.
+Ct. 2751 (2014) (both Supreme Court cases involving consolidated MDL).
+57  See supra notes 53  55. For an example of an issue that has not reached the Supreme Court,
+consider the multiple courts addressing the Department of Education's "Dear Colleague"  letter as it
+relates to restroom access. See, e.g., Texas v. United States, 201 F. Supp. 3d 810 (N.D. Tex. 2016);
+Students v. U.S. Dep't of Educ., No. 16-cv-4145, 2016 WL 6134121 (N.D. 111.2 016).
+58  See, e.g., Litigation Documents & Resources Related to Trump Executive Order on Immigration,
+supra note 6 (collecting documents from more than fifty cases).
+59  See, e.g., Complaint for Declaratory and Injunctive Relief, California v. Zinke, No. CV-17-42-
+GF-BMM,  2017 WL  1862941  (D.  Mont. May 9,  2017); Complaint for Declaratory  and Injunctive
+Relief, Citizens for Clean Energy v. U.S. Dep't of the Interior, No. 4:17-cv-00030-BMM,  2017 WL
+1173696 (D. Mont. Mar. 29, 2017).
+60  See, e.g., Tina Nguyen, The Swamp Fights Back: Donald Trump Is Fueling an Explosion of New
+Lawsuits, VANITY FAIR (Mar. 30, 2017), https://www.vanityfair.com/news/2017/03/donald-trump-new-
+lawsuits  [https://perma.cc/B2FG-UCFY];  After  2  Weeks  in  Office,  Trump Faces More  Than 50
+Lawsuits, NPR (Feb. 2, 2017, 4:34 PM), https://www.npr.org/2017/02/02/513045408/after-2-weeks-in-
+office-trump-faces-more-than-50-lawsuits  [https://perma.cc/2QJ5-TQ SU].
+61 See supra notes 55  59  (collecting  cases). Many  of these  cases sound in  the debates about
+nationwide injunctions. See generally Samuel L. Bray, Multiple Chancellors: Reforming the National
+Injunction, 131 HARV. L. REV. 417 (2017).
+62  See, e.g.,  Int'l  Refugee Assistance  Project v.  Trump, 241 F.  Supp. 3d 539,  558  59  (2017);
+United States v. Windsor, 133 S. Ct. 2675, 2693 (2013); Dep't of Agric. v. Moreno, 413 U.S. 528, 534
+35  (1973);  see  generally Richard  H.  Fallon,  Jr.  Constitutionally Forbidden Legislative Intent,
+130 HARV. L. REV. 523, 554  58 (2016) (discussing legislative intent in constitutional cases); Katherine
+Shaw, Beyond the Bully Pulpit: Presidential Speech  in the  Courts, 96 TEx.  L. REV.  71  (2017)
+(discussing evidence of presidential intent).
+63  See 28 U.S.C. § 1407(a) (2012).
+64  Specifically, this  search was conducted on May  18,  2017, prior to the media attention  on a
+proposed MDL in travel ban-related FOIA litigation. See In re American Civil Liberties Union Freedom
+of Information Act (FOIA) Requests Regarding Executive Order 13769, No. 2786, 2017 WL 3296361,
+at *1  2 (J.P.M.L. Aug. 2, 2017).112:905 (2018) MDL v. Trump
+Westlaw's law review and all-news databases revealed zero relevant results
+for  "multidistrict"  or  "MDL"  within the  same  sentence  as  immigration,
+"Dream Act,"  "deferred  action,"  DACA, DAPA, DOMA, "gay marriage,"
+"marriage  equality,"  "Affordable  Care  Act,"  "Obamacare,"  "executive
+order,"  "Travel Ban," "Muslim ban," or "Trump. "56
+This  lack  of interest is  all the more  puzzling  because MDL  would
+seem to have been in the interest of the some of the players in these cases.66
+Most obviously, MDL seems like it would have been in the interest of the
+government defendants. For the federal government, MDL appears to solve
+two  key  problems:  a multiple-plaintiff  problem67 and  a  forum-shopping
+problem.68 First,  the government  might turn to MDL because it believes
+that it has a better chance  of success  arguing before a single judge rather
+than many. Consider the travel ban litigation. When these cases were being
+litigated  in  district  courts,  the problem  for  the  government  was  that,  in
+order  for the ban to remain in place,  it needed to  win every single  case
+challenging  the  ban.  From  the  plaintiffs'  perspective,  if even  one  suit
+succeeded  in obtaining  a preliminary injunction, the ban would be halted
+nationwide.9 But had all of the cases been consolidated in a single MDL
+proceeding, then the government  would have needed to win only once to
+avoid a preliminary injunction.  Indeed, the Administration was successful
+before Judge Nathaniel M. Gorton in Massachusetts. 70  If he had been the
+MDL judge,  the  government  would not have  had  to  continue  litigating
+other district court cases around the country.
+65 Technically,  there were  two potentially  relevant  results. One  was  a  blog  post  we  wrote
+previewing this article. Andrew Bradt & Zachary Clopton, MDL v. Trump, DORF ON LAW (Feb. 13,
+2017), http://www.dorfonlaw.org/2017/02/mdl-v-trump.html  [https://perma.cc/5NLC-83GY].  The other
+was a discussion of litigation  against Donald Trump and  others arising from the failed Taj Mahal
+Casino. See In re Donald J.T rump Casino Sec. Litig., 7 F.3d 357 (3d Cir. 1993).
+66  Recall that the JPML may consider consolidation upon the motion of any party in any action
+proposed for consolidation, or upon the JPML's own initiative. 28 U.S.C. § 1407(c).
+67  The  challenge resonates with the "multiple-claimant  anomaly"  in the law of preclusion. See
+generally CHARLES  ALAN WRIGHT & ARTHUR  R. MILLER,  FEDERAL PRACTICE AND  PROCEDURE
+§ 4465.3 (2d ed. 1987); Brainerd Currie, Civil Procedure: The Tempest Brews, 53 CALIF. L. REV. 25
+(1965); Brainerd Currie, Mutuality of CollateralE stoppel: Limits of the BernhardD octrine, 9 STAN. L.
+REV. 281 (1957). Though the government is not subject to offensive nonmutual issue preclusion, United
+States v. Mendoza, 464 U.S. 154, 162 (1984), the availability of nationwide injunctions replicates this
+anomaly.
+68  See, e.g., Atlantic Star, [1974] AC 436 (HL) 471 (Eng.) ("'Forum shopping' is a dirty word; but
+it is only a pejorative way of saying that, if you offer a plaintiff a choice of jurisdictions, he will
+naturally choose the one in which he thinks his case can be most favourably presented: this should be a
+matter neither for surprise nor for indignation.").
+69  See supra note 67 and accompanying text (discussing multiple-claimant anomaly).
+70  Louhghalam v. Trump, 230 F.3d 26, 38 (D. Mass. 2017).NORTHWESTERN  UNIVERSITY  LAW REVIEW
+The second reason the government might turn to MDL is as a tool to
+fight forum shopping. Many people have been critical of the recent spate of
+nationwide injunctions allowing plaintiffs to forum shop for courts likely to
+issue judgments in their favor that  apply nationwide.71 In Samuel  Bray's
+excellent  treatment  of  these  injunctions,  he  collected  numerous  such
+injunctions issued against the Obama Administration from federal courts in
+Texas and against the George W. Bush Administration from federal courts
+in California.72 Although, in theory, the JPML could send the government
+to  an unfavorable  district  every  time,  it  seems  unlikely  that  the  JPML
+would  be  so  uniformly  plaintiff  friendly-and  even  if  it  were,  the
+government would be left no worse off.
+Plaintiffs also might see a strategic advantage in MDL. Recall that any
+party to any action may request consolidation.73 If even one plaintiff in one
+of these cases were unhappy with her draw of a district judge,74 she might
+be intrigued by a JPML on which six of seven judges were appointed to the
+bench by President  Clinton.75 Such a plaintiff would hope that a friendly
+JPML might pick and choose  cases to send to friendly MDL judges. Even
+if this would not be the interest of the entire collection of plaintiffs, it might
+be  sufficiently  in  the  interest  of a  single  plaintiff  (or  her  lawyers)  to
+motivate a motion to consolidate.76
+Yet  another  reason  that  either  plaintiffs  or  defendants  might  be
+interested  in  MDL  is  as  a  means  to  hasten  Supreme  Court  review.
+Sometimes the Supreme  Court will wait to resolve an issue until there has
+71  See, e.g., Bray, supra note 61, at 2. This problem is exacerbated by the long-standing practice of
+according home-state senators a role in the selection of judicial nominees. See generally LEE EPSTEIN &
+JEFFREY A. SEGAL, ADVICE AND CONSENT: THE POLITICS OF JUDICIAL APPOINTMENTS (2005).
+72  See Bray, supra note 61, at 8  10.
+71  See 28 U.S.C. § 1407(a) (2012).
+74 Even a plaintiff forum  shopping for a  favorable judicial district might be unhappy with the
+particular judge within that district.
+75  See Current and Former Panel Judges of the United States Judicial Panel on Multidistrict
+Litigation, U.S. JUD. PANEL ON MULTIDISTRICT  LITIG., http://www.jpml.uscourts.gov/sites/jpml/files/
+Current  Former Judges  of the%20Panel-10-9-2015.pdf [https://perma.cc/3AXV-N8AG].
+76  See, e.g., Amchem Prods., Inc. v. Windsor, 521 U.S. 591,  625 (1997)  (noting that the inquiry
+into adequacy of representation "serves to uncover conflicts of interest between named parties and the
+class  they  seek  to represent");  Bruce Hay  &  David  Rosenberg,  "'Sweetheart" and "'Blackmail"
+Settlements in Class Actions: Reality and Remedy, 75 NOTRE DAME L. REV. 1377, 1377 (2000) (noting
+"the problem of 'sweetheart'  settlements, in which the class members' interests are compromised by
+class counsel"). Plaintiffs' lawyers also might use MDL to cut off other plaintiffs' lawyers' independent
+management  of their cases. See, e.g.,  Elizabeth Chamblee Burch, Judging Multidistrict Litigation,
+90 N.Y.U. L. REV. 71, 80 (2015) (discussing attorney incentives in MDL).112:905 (2018) MDL v. Trump
+been an opportunity for percolation.77 Were a party interested in taking its
+argument  straight  to  the  Supreme  Court,  it  could  use  MDL  as  an
+antipercolation device. In that situation, the Supreme Court could not delay
+consideration  of an important case on the grounds  of percolation  because
+all potentially percolating cases would have been consolidated and resolved
+in the MDL court.
+Public law MDL also might pique judicial interests. It is possible that
+one of the district judges hearing a major public law case might be inclined
+to pass the hot potato,78 or that some of the JPML judges might be eager to
+snatch these high-profile cases.79 Judges are people too, and thus they might
+have preferences (in either direction) about their roles in high-profile cases.
+Yet, they too have seemingly declined to propose MDL in public law-like
+cases.
+In short, parties and judges have had opportunities to request MDL in
+public  law  cases-and  they  have  had  reasons  to  do  so.  Despite  these
+reasons, however, they have demurred. The explanation may be as a simple
+as  the parties'  risk aversion  when  it  comes  to rolling  the  dice  with  the
+JPML.80 Or, there may be some path dependence-lawyers  on both sides,
+often repeat players, may  simply intuit that public law MDL is not done
+because it has not been done so far.8" Whatever the explanation, the public
+law MDL has remained an anomaly.
+Observing that multidistrict litigation has been available but unused in
+major public law cases sounds  like the set up for a pitch for more public
+law MDL.  Yet, as  explained  in the next part, there  are  sound reasons to
+oppose any such  expansion-and to implore  the JPML to resist any such
+temptation.
+77 See SUP. CT. R. 10(a) (suggesting among the factors auguring in favor of certiorari would be that
+"a United States court of appeals has entered a decision in conflict with the decision of another United
+States court of appeals on the same important matter").
+78  Technically the transferor judge may not order JPML consideration sua sponte, but it would not
+be hard for a motivated judge to gently suggest that a party should make such a motion.
+7' 28 U.S.C. § 1407(c)(i) (2012).
+80  Plaintiffs may prefer a multitude of cases and are happy to take their chances by forum shopping
+in districts where a majority of the judges seem amenable to their position; the government may prefer
+the opportunity to litigate over and over again, immune to collateral estoppel in individual cases it loses.
+81 This argument might be especially compelling because the types of lawyers familiar with MDL
+(e.g., mass tort lawyers) are not usually involved in public law cases. Or, to put it another way, we
+might be more likely to see a public law party invoke MDL when represented pro bono by one of these
+MDL-familiar private lawyers.NORTHWESTERN  UNIVERSITY  LAW REVIEW
+III. WHY THE JPML SHOULD USUALLY DECLINE TO CONSOLIDATE
+PUBLIC LAW CASES
+The previous Part explained  that MDL is a plausible tool for public
+law cases. This Part explains why we nevertheless  oppose the use of that
+tool. First, the kind of public law cases that may be candidates  for MDL
+would  not  benefit  from  the  usual  strengths  of  consolidated  resolution:
+reducing  discovery  costs,  providing  singular  resolution,  and  facilitating
+settlement.  And  any  such  consolidation  deprives  the  federal  courts  of
+potentially  meaningful  percolation.  Second,  despite  superficial  appeal,
+MDL would not be an effective  bulwark  against forum shopping in these
+cases. Indeed, any attempt to use MDL to check forum shopping may have
+the dynamic effect  of undercutting MDL  as a tool for resolving complex
+civil disputes.
+A.  Efficiency v. Percolation
+One reason to be dubious of MDL in public law cases is that those
+cases  likely  would  not  obtain  the  traditional  efficiency  benefits  of
+consolidation.
+First of all, one major benefit of MDL is that it can reduce potentially
+massive  discovery  costs  in  complex  cases.2  A  single judge  overseeing
+consolidated  cases  is in a  better position to  police  duplicative  discovery
+requests than scores of judges hearing hundreds of separate cases. A single
+judge  also  could resolve  each  of the many inevitable  discovery  disputes
+only once-a major savings for court  and lawyer resources. On the expert
+side, Daubert motions, which are often very expensive and central to the
+resolution of mass tort cases, can be centralized too.83
+But while these issues are significant for complex civil cases, they are
+not so pressing in public law litigation. In many public law cases, discovery
+is minimal or nonexistent.14 Indeed, the fact that preliminary injunctions are
+so central in these cases suggests that much of the legal work can be done
+82  Civil discovery costs have been central to many of the important fights in civil procedure in the
+last few decades. See, e.g., Adam N. Steinman, The End of an Era? FederalC  ivil ProcedureA fter the
+2015 Amendments, 66 EMORY  L.J. 1, 44 (2016) (discussing discovery  amendments  to the Federal
+Rules); Bell Atlantic Corp. v. Twombly, 550 U.S. 544, 558  60 (2007) (discussing relationship between
+pleading standards and discovery costs).
+83  See, e.g., In re Bextra & Celebrex Mktg. Sales Practices & Prod. Liab. Litig., 524 F. Supp. 2d
+1166, 1170 (N.D. Cal. 2007) (citing Daubert motions in an MDL); In re Methyl Tertiary Butyl Ether
+(MTBE) Prods. Liab.  Litig., 593 F. Supp. 2d 549,  563 (S.D.N.Y.  2008). See generally Daubert v.
+Merrell Dow Pharm., 509 U.S. 579 (1993).
+84  Even questions of fact, such as  intent, often may be resolved  on the public record or thin
+discovery. See supra note 62 and accompanying text.112:905 (2018) MDL v. Trump
+on a thin record.85  The travel  ban cases provide  an excellent  example-
+much of the crucial legal work was done at the preliminary injunction stage
+without any fact discovery. Consolidating discovery, therefore, would be of
+little use.
+Second, MDL's ability to facilitate global settlement is likely to be of
+less  utility in public  law cases.86  If available,  class action treatment may
+allow  parties  to  efficiently  settle  all  related  claims.17 But  when  class
+treatment is unavailable-which is increasingly  the case given the federal
+courts'  hostility to Rule 2388-MDL is an important vehicle to make non-
+class settlement less burdensome.  The MDL judge can manage settlement
+negotiations  and play  a highly  important information-forcing  role among
+parties.89 Consider the yeoman's work of the BP oil spill MDL, in which
+hundreds  of cases  involving thousands  of individual  claims were  settled
+without the aid of a global class action.90
+Here  again,  however,  public  law  MDLs  look  different.  Although
+certainly public law cases may be voluntarily dismissed based on amicable
+resolution, those resolutions do not look like private law settlements.  The
+issues in these cases are of public concern, and "settlement"  would be the
+result  of  a  political  process  that  seems  like  a  poor  candidate  for
+"managerial judging."9  The problem in the travel ban cases, for example, is
+not that the President has been unable to get in a room with representatives
+of the various affected groups in order to demonstrate  the art of the deal.
+And any change in immigration policy is not likely to result from an MDL
+judge  ordering  court-sponsored  mediation  or  enlisting  the  services  of a
+high-profile  special  master92 but  from political  deal  making  or  electoral
+93
+turnover.
+85 See supra notes 71  72 and accompanying text (discussing nationwide injunctions). Moreover, to
+the extent that some public law cases will turn on specific factual evidence  think, for example, proof
+of the harm on different classes of citizens  that evidence will be case specific and thus not susceptible
+to consolidation.  And, again, even those  costs likely will be low compared to complex private law
+litigation.
+86  See Andrew D. Bradt & D.  Theodore Rave,  The Information-Forcing Role of the Judge in
+Multidistrict Litigation, 105 CALIF. L. REV.  1259,  1291  (2017)  (describing how MDL  is a "superb
+vehicle for the development of information in modern mass-tort litigation").
+87  Id.
+88  See Zachary D. Clopton, Class Actions and Executive Power, 92 NYU L. REV. 878,  880  84
+(2017).
+89  See Bradt & Rave, supra note 86, at 1259.
+90  See supra note 51 and accompanying text (discussing BP).
+91 See generally Judith Resnik, ManagerialJ udges, 96 HARV. L. REV. 374 (1982).
+92  See, e.g., Brooke D. Coleman, One PercentP rocedure, 91 WASH. L. REV. 1005,  1038  41 (2016)
+(discussing appointments of Ken Feinberg  in BP, Robert Mueller in Volkswagen/clean  diesel, and
+others). For an unusual (and non-MDL)  counterexample, see United States v. AT&T, 567 F.2d  121,NORTHWESTERN  UNIVERSITY  LAW REVIEW
+Finally  (and  relatedly),  MDL  may  promote  singular  resolution  by
+resolving  all cases  on the merits94 or resolving  important  issues that  can
+lead to settlement. 5 The idea of consolidating some public law cases is not
+new-indeed,  consolidated  litigation  for  injunctive  relief in  civil  rights
+cases  was  the  animating  purpose  of Federal  Rule  of Civil  Procedure
+23(b)(2). 96  Mandatory  classes  for  injunctive  relief  not  only  offer  the
+efficiency benefits of consolidation, but they also insulate the government
+from having to comply with potentially inconsistent obligations imposed by
+different courts.97
+However  they  are  litigated, public  law  cases  can  produce  singular
+judgments too-but we might not be so eager to reach that result at the trial
+court level and, potentially, even on a motion for a preliminary injunction.8
+In cases like those addressed in this Essay, there may be systemic benefits
+from  multiple  decisions  by  multiple judges  arising  from  arguments  by
+multiple  lawyers.99  Since  cases  of this magnitude  are  likely  to  wind  up
+before the Supreme Court,100 the quality of justice may improve with even a
+123  25 (D.C. Cir.  1977), describing court-sponsored mediation of interbranch dispute over executive
+privilege as it related to congressional subpoenas.
+93  See, e.g., Maggie Haberman & Yamiche Alcindor, Pelosi and Schumer Say They Have Deal with
+Trump  to  Replace  DACA,  N.Y.  TIMES  (Sept.  13,  2017),
+https://www.nytimes.com/2017/09/13/us/politics/trump-dinner-schumer-pelosi-daca-obamacare.html
+[https://perma.cc/F8NF-PG6W].
+94 See 15 CHARLES ALAN WRIGHT & ARTHUR R. MILLER, FEDERAL PRACTICE AND PROCEDURE
+§ 3866 (4th ed. 2017) (citing examples).
+95  See supra note 83 and accompanying text (discussing Daubert).
+96  See generally David Marcus, Flawed but Noble: DesegregationL itigation and Its Implications
+for the Modern Class Action, 63 FLA. L. REV. 657, 702 08 (2011).
+97  D. Theodore  Rave, Governing the Anticommons in Aggregate Litigation, 66 VAND. L. REV.
+1183, 1242  43 (2013)  (describing the potential benefits of settlements in mandatory class actions for
+injunctive relief).
+98  While the existence of the Rule 23(b)(2) class action recognizes that a single answer in public
+law  litigation  may  be desirable,  it  does not  preempt the question  of whether MDL  treatment is
+appropriate  in the cases we discuss  especially when  many of these cases seek preliminary relief,
+which could be accorded prior to decisions  about class certification. Instead, the question becomes
+whether MDL  treatment of multiple  (b)(2)  class  actions  makes  sense  at  the outset. For reasons
+described here, we think not.
+Moreover, we think it is significant that the standard for class certification is much higher than
+the low bar for MDL  consolidation. Arguments  for a single resolution are  stronger when there is
+numerosity, commonality, typicality, adequacy, and the government has acted on grounds applicable to
+the class as a whole. See FED. R. CIV. P. 23(a), (b)(2). And, in contrast to MDL (as described in the next
+Section), a decision by a single district judge to certify a Rule 23(b)(2) class does not pose any special
+risk of politicizing the JPML or undermining the ability of the federal courts to resolve mass tort cases.
+99  See, e.g., Burch, supra note 76, at 86 (discussing effects of appointing lead lawyers in MDL).
+Ioo  See, e.g.,  Trump v. Int'l Refugee Assistance Project, 137 S. Ct. 2080, 2080 (2017)  (granting
+certiorari).112:905 (2018) MDL v. Trump
+little bit of percolation  in the lower courts.101 And even if the benefits  of
+percolation are weak, the countervailing costs to efficiency from foregoing
+consolidation are not significant either.
+B.  Forum Shopping v. JudicialP  oliticization
+Even  if MDL does  not provide the  usual  benefits  when applied  to
+public law cases, we suggested above that the government might find MDL
+attractive for a different reason:  as a check on forum shopping.102 Lawsuits
+against the federal government  for matters  of national policy often can be
+litigated anywhere, and rational plaintiffs select districts that will give them
+the best chances to succeed. 103 Especially when the district judge may issue
+relief with national or universal scope,104 the government should be wary of
+a plaintiff's handpicked district.
+Although  our  earlier  discussion  was  framed  as  a  reason  that  the
+government  might be inclined to seek consolidation, the same  arguments
+may be relevant to the broader public policy question.105 Certainly, there is
+disagreement  about how much forum shopping should be permitted,106  but
+we suspect that there is wide agreement that the U.S.  legal  system should
+have  some  way  to  check  unbridled  court  selection.  In individual  cases,
+federal  courts can cut back on plaintiff forum shopping in the interest of
+justice with a horizontal venue transfer under  § 1404(a).107 Perhaps  MDL
+101S ee, e.g., Maryland v. Balt. Radio Show, Inc., 338 U.S. 912, 918 (1950) ("It may be desirable to
+have different aspects of an issue further illumined by the lower courts. Wise adjudication has its own
+time for ripening."); Samuel Estreicher & John E. Sexton, A ManagerialT heory of the Supreme Court's
+Responsibilities:A n EmpiricalS tudy, 59 N.Y.U. L. REV. 681, 719 (1984) ("A managerial conception of
+the Court's role embraces lower court percolation as an affirmative value. The views of the lower courts
+on a particular legal issue provide the Supreme Court with a means of identifying significant rulings as
+well as an experimental base and a set of doctrinal materials with which to fashion sound binding
+law."). But see, e.g., Paul Bator, What Is Wrong with the Supreme Court?, 51 U. PITT. L. REV. 673, 689
+(1990) ("First, we must always remember that perpetuating uncertainty and instability during a process
+of percolation exacts important and painful costs.").
+102S ee supra notes 71 73 and accompanying text.
+103  Id.
+104 Id.;s ee also  Bray, supra note  61,  at  8  10  (discussing  these  injunctions  and  collecting
+examples).
+105 In future work, we intend to explore  more deeply the role of the MDL process in forum
+shopping generally, and the significant power wielded by the JPML in this regard.
+106 See, e.g.,  Pamela K. Bookman,  The Unsung Virtues of Global Forum Shopping, 92 NOTRE
+DAME L. REV. 583,  587 (2016) (highlighting "unappreciated virtues of global forum shopping" and
+collecting sources arguing that forum shopping is "often a neutral practice").
+107 See 28 U.S.C.  § 1404(a). See generally Edmund W. Kitch, Section 1404(a) of the Judicial
+Code: In the Interest of Justice or Injustice?, 40 IND. L.J. 99 (1965).  Removal achieves  this effect
+vertically,  28  U.S.C.  § 1441(a)  (allowing  removal  from  state  to  federal  court),  and  forum  non
+conveniens is available intersystemically. See Piper Aircraft Co. v. Reyno, 454 U.S. 235,  261 (1981)
+(granting forum non conveniens motion to dismiss in favor of litigation in Scotland).NORTHWESTERN  UNIVERSITY  LAW REVIEW
+also  can  achieve  an anti-forum-shopping  function-much like  § 1404(a),
+the  MDL  statute  gives  the  JPML  the  power  to  move  cases  based  on
+considerations of justice.18
+Furthermore,  using  MDL  to  fight  forum  shopping  rather  than  §
+1404(a) might avoid some of the biases inherent in that latter procedure.109
+By  statute,  §  1404(a)  transfers  are  at  the  discretion  of the  potential
+transferor judge.110 Presumably,  some judges are disinclined to give away
+high-profile  cases,111  and  as  such  they  would  be  disinclined  to  grant  §
+1404(a) motions.112 This seems especially likely if the plaintiff is successful
+in landing a politically friendly judge, who may be wary of transferring  a
+case to the  less  friendly  district requested  by  defendant.113  Avoiding the
+transferor-judge  bias  of § 1404(a),  the MDL  statute  assigns  the  transfer
+decision to the independent judgment of the JPML. 114
+In spite of these advantages  to using MDL to limit forum shopping,
+there are a number of reasons it may be a poor response in the public law
+context.  First,  while  § 1404(a)  transfers  typically  identify  the  transferee
+district,115  JPML  orders  typically  identify  the  transferee judge1.16  This
+approach might make some sense when trying to identify a judge capable
+of handling  a truly complex piece  of litigation117 or trying to build  up a
+'o' See 28 U.S.C. § 1407(a) (suggesting that consolidation  should, among others, "promote the
+just..,  conduct  of such  actions).  Section  1407  consolidations  are  for pretrial purposes  only, but
+especially when a TRO or preliminary injunction is a significant goal, then pretrial purposes become
+more prominent than the name suggests.
+109  MDL also might be better at checking forum shopping because while § 1404(a) transfers are
+limited to the districts where the case might have been brought, the JPML may transfer to "any district."
+Compare 28 U.S.C. § 1404(a), with id. § 1407(a).
+110  See § 1404(a).
+111 One need not be a student of the "endowment effect" to recognize that judges might have an
+attachment to cases before them. See Daniel Kahneman, et al., Experimental Tests of the Endowment
+Effect and the Coase Theorem, 98 J.P OL. ECON. 1325, 133235 (1990) (summarizing studies).
+112  Clermont and Eisenberg found that the success rate of § 1404(a) transfer motions was close to
+(but  less than) 50%.  Kevin  M. Clermont &  Theodore  Eisenberg, Exorcising the Evil of Forum-
+Shopping, 80 CORNELL L. REV. 1507, 1529 (1995). Their study does not identify the baseline for the
+right number of transfers, nor does it address high-profile cases in particular.
+113  Of course, some judges might want to duck high-profile cases or they might have a "preference
+for leisure," either of which would result in an overuse of § 1404(a) transfers. See RICHARD A. POSNER,
+How JUDGES THINK 36 (2008). Whatever the direction of the bias, in all cases transferor-judge bias will
+be introduced.
+114  It is also possible that the group decisionmaking of the Panel improves outcomes. See generally
+JAMES SUROWIECKI, THE WISDOM OF CROWDS (2004).
+115 See 28 U.S.C. § 1404(a).
+116  Id.§  1407(b). See generally WRIGHT & MILLER, supra note 94, § 3864.
+117  See WRIGHT & MILLER, supra note 94, § 3864 (citing examples).112:905 (2018) MDL v. Trump
+cadre  of judges capable of doing so."8 But when it comes  to high-profile,
+public law cases, the selection of a transferee judge is necessarily fraught.
+Every federal district judge was appointed to her seat by a president  from
+one party or the other.  Every federal  district judge has  a record that may
+trouble one or more parties. 9  In other words, for the JPML, every choice
+in  these  cases  is  one that  might  attract  criticism,  whether  warranted  or
+not. 120
+Moreover, once the JPML is recognized as a powerful political agent,
+there  will be  a temptation  to  use  it politically.  Empirical  studies  have
+demonstrated  that  appointments  to  the  JPML  do  not  have  a  strong
+ideological edge.121 Indeed,  as of this writing,  of the fifty judges to have
+served on the JPML,  exactly twenty-five were appointed to the bench by
+Republican presidents and twenty-five by Democratic presidents. 122 But one
+could  imagine  Chief Justice  John  Roberts  (or  a  future  Chief  Justice)
+responding to  an increasingly  political  JPML by  appointing judges more
+amenable  to  his  own  political  philosophy.  Indeed,  the  Chief has  been
+criticized  on  exactly  this  score  for  his  selections  for  the  Civil  Rules
+118  See, e.g., In re TD Bank, N.A., Debit Card Overdraft Fee Litig., 96 F. Supp. 3d 1378,  1379
+(J.P.M.L. 2015); In re Lidoderm Antitrust Litig., 11 F. Supp. 3d 1344, 1345  46 (J.P.M.L. 2014) (noting
+that selection of transferee district allows assignment of case to a district that "has the necessary judicial
+resources and expertise to efficiently manage this litigation.").
+119 An additional consideration may be governing law. In MDL cases, lower federal courts have
+long held that, for federal question cases, the law of the transferee circuit applies to cases transferred
+into the MDL. See In re Korean Air Lines Disaster of September 1, 1983, 829 F. 2d 1171,  1176 (D.C.
+Cir.  1987)  (noting that law of transferor  forums do not hold stare decisis).  This practice stands in
+contrast with state law cases under the diversity jurisdiction transferred to MDLs, in which the MDL
+court must apply the law that the transferor court would have applied. See Andrew D. Bradt, The
+Shortest Distance: Direct Filing and Choice of Law in Multidistrict Litigation, 88 NOTRE DAME L.
+REV. 759, 793 (2012). As a result, the selection of the MDL judge may include selection of the circuit
+law that would apply both in the MDL court and  on appeal. See Richard Marcus,  Conflict Among
+Circuits and Transfers Within the FederalJ udicial System, 93 YALE L.J. 677 (1984). This, too, might
+be a source of backlash.
+120 Although our goal in the Essay is to discourage the use of MDL for public law cases, were the
+JPML inclined to get involved, the foregoing  analysis suggests a few potential options: (i)  random
+assignment, which is  the JPML's practice  for a certain  class  of administrative  law cases, see id.
+§ 2112(a)(3)); (ii) assignment to a district (rather than a  specific judge) with an instruction for that
+district to use random assignment;  or  (iii) assignment to  multiple judges, (see 28 U.S.C.  § 1407(b)
+(referring to "judge or judges to whom such actions are assigned")).
+121 See, e.g., Tracey E. George & Margaret S. Williams, Designing Judicial Institutions:  Special
+Federal Courts and the U.S. Judicial Panel on Multidistrict Litigation (2013) (unpublished manuscript),
+https://www.vanderbilt.edu/csdi/events/George.pdf [https://perma.cc/GWZ7-DFXL].
+122 We provide a list of every member of the JPML and the party of the appointing president in the
+Appendix.  See  Current and Former Panel Judges,  U.S.  PANEL  ON  MULTIDISTRICT  LITIG.,
+http://www.jpml.uscourts.gov/sites/jpml/files/Current  Former Judges  of-the%20Panel-10-9-2015.pdf
+[https://perma.cc/RA79-4G9G].  Note  too that every  JMPL judge was  appointed by a  Chief Justice
+appointed by a Republican president.NORTHWESTERN  UNIVERSITY  LAW REVIEW
+Advisory  Committee123 and the Foreign Intelligence  Surveillance Court.124
+Even if the current JPML could act apolitically  in these cases,  it may be
+only a matter of time before  a new set of panel judges might break that
+norm. 125
+The selection of judges for political reasons also might have spillover
+effects for more traditional MDL cases. Currently, the JPML is made up of
+judges who are well versed in managing  complex private litigation. But if
+the panel starts being involved in more controversial  cases, a Chief Justice
+might be inclined to consider ideological priorities in making appointments
+that may not line up with efficient resolution of mass torts. This would be
+an  especially  inauspicious  outcome  because,  even  if  the  government
+routinely brought public law suits to the JPML, they would be substantially
+outnumbered by the tens of thousands  of private MDL cases each year.126
+For those of us who think that the JPML has done a commendable job in
+managing  complex  litigation,  it  would be  a pity  to  see  it  give  up  that
+127
+expertise. 
+Finally, not only might  a political  JPML attract  the attention of the
+Chief Justice,  it also might attract the attention  of Congress  (or interested
+parties  lobbying Congress). MDL is already in the political  crossfire over
+aggregate  litigation generally.  For example,  a recent House bill proposed
+reining  in some  of the  advantages plaintiffs  are  thought to have in MDL
+proceedings. 1 Again,  it  would  be  disappointing  to  lose  the  ability  to
+2 
+123  See, e.g.,  Stephen B.  Burbank  & Sean  Farhang, Federal Court Rulemaking and Litigation
+Reform: An  Institutional Approach,  15 NEV.  L.J.  1559,  1571  76  (2015);  Elizabeth  Thornburg,
+Cognitive Bias, the "'Bando f Experts," and the Anti-Litigation Narrative, 65 DEPAUL L. REV. 755,
+765-66 (2016).
+124  See, e.g.,  Maxwell  Palmer, Does the Chief Justice Make Partisan Appointments to Special
+Courts and Panels?, 13 J. EMPIRICAL LEGAL STUD.  153,  153 (2016); Charlie Savage, Roberts's Picks
+Reshaping Secret Surveillance Court, N.Y. TIMES (July 25, 2013), http://www.nytimes.com/2013/08/
+21/us/roberts-varies-pattern-in-choice-for-spy-court.html  [https://perma.cc/82HM-SHDF];  Charlie
+Savage, Newest Spy Court Pick Is a Democrat but Not a Liberal, N.Y. TIMES (Aug.  20,  2013),
+http://www.nytimes.com/2013/08/21/us/roberts-varies-pattern-in-choice-for-spy-court.html
+[https://perma.cc/82HM-SHDF].  After those articles were written, two judges originally appointed by
+President  Clinton were added to the court. See Current Membership, U.S. FOREIGN  INTELLIGENCE
+SURVEILLANCE  CT.,  http://www.fisc.uscourts.gov/current-membership  [https://perma.cc/NNL3-
+UGBG].
+125  The MDL statutes does not expressly authorize or prohibit the Chief Justice from removing
+members of the panel, but at a minimum the Chief can fill any vacancies with as he sees fit. See
+28 U.S.C. § 1407.
+126  See supra notes 41  43 and accompanying text.
+127  See supra note 45 and accompanying text.
+128  Fairness in Class Action Litigation and Furthering Asbestos Claim Transparency Act of 2017,
+H.R. 985, 115th Cong. (2017) (passed by House of Representatives on Mar. 9,2017).112:905 (2018) MDL v. Trump
+consolidate  tens  of thousands  of private  law  disputes because  of a  few
+public law ones that did not really need consolidation in the first place.
+CONCLUSION
+There  is nothing doctrinal  or statutory  standing in the way of MDL
+treatment of the sorts of public law cases being brought against the Trump
+Administration. And our suspicion is that, sooner or later, a party to one of
+these cases is going to give it a shot by filing a motion for consolidation of
+pretrial proceedings  with the Judicial  Panel on Multidistrict Litigation. It
+might be the government,  which may prefer  fighting on one front, rather
+than all around the country. Or it might be a plaintiff, who might believe
+that consolidated treatment will allow for economies  of scale and provide
+an  opportunity to take  the lead  on the nationwide  litigation.  Even more
+strategically, it might be a plaintiff or defendant who would rather take her
+chances  with  a judicial assignment  by the JPML than  with the judge to
+whom her case has been assigned.
+But while the idea of efficiently consolidating public law cases might
+be superficially  attractive, we think it would be a mistake for the JPML to
+wade into these cases and contrary to the statutory requirement that the use
+of MDL "promote the just and efficient conduct of such actions." Any such
+move is unlikely to bring considerable benefits, and it risks politicizing the
+Panel and undermining its core function. Instead, for the reasons described
+in this Essay, we urge the JPML to  consider the limited  efficiency  MDL
+offers in public law cases as compared to its substantial risks, and we hope
+that  MDL remains  primarily  the  province  of mass  torts-and  our Civil
+Procedure classroom hypotheticals.NORTHWESTERN  UNIVERSITY  LAW REVIEW
+APPENDIX
+JPML JUDGES APPOINTED  JPML JUDGES APPOINTED
+BY DEMOCRATIC PRESIDENTS  BY REPUBLICAN PRESIDENTS
+Alfred P. Murrah  Robert Merhige, Jr.  John Minor Wisdom  Morey L. Sear
+Edward Weinfeld  Barefoot Sanders  Edwin A. Robson  Bruce M. Selya
+William H. Becker  Royal Furgeson, Jr.  Andrew A. Caffrey  Julia Smith Gibbons
+Joseph S. Lord III  Frank C. Damrell, Jr.  Murray J. Gurfein  D. Lowell Jensen
+Stanley A. Weigel  David G. Trager  Robert H. Schnacke  J. Frederick Motz
+Roy W. Harper  Barbara S. Jones  Sam C. Pointer  Robert L. Miller, Jr.
+Charles R. Weiner  Marjorie 0. Rendell  John F. Nangle  Kathryn H. Vratil
+Edward S. Northrop  Charles R. Breyer  William B. Enright  David R. Hansen
+Fred Daugherty  Lewis A. Kaplan  Clarence A. Brimmer  Anthony J. Scirica
+Hugh S. Dillin  Sarah S. Vance  John F. Grady  John G. Heyburn II
+Milton Pollack  Ellen Segal Huvelle  Louis C. Bechtle  Paul J. Barbadoro
+Louis H. Pollak  Catherine D. Perry  John F. Keenan  R. David Proctor
+Halbert Woodward  Wm. Terrell Hodges

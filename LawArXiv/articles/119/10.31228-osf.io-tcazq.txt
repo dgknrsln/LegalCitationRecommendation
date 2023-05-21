@@ -1,0 +1,1779 @@
+BANK GOVERNANCE AND  SYSTEMIC STABILITY:
+THE "GOLDEN SHARE" APPROACH
+Saule T Omarova*
+INTRODUCTION  ................................................ 1030
+I. RETHINKING THE PUBLIC'S ROLE IN BANK GOVERNANCE: TOWARD
+A NEW PARADIGM.  ..................................  ...... 1033
+A.  Bank Governance and FinancialS tability: An Unresolved
+Tension ..................................... 1033
+B.  Bank Governance as a Matter ofPublic Interest. ...  .... 1040
+II. THE GOLDEN SHARE MECHANISM:  SETTING THE STAGE...................1043
+A.  The Concept of a Golden Share: Background.....  ..... 1043
+B.  SGS Basics: Substantive Mandate; Key Definitions..............1045
+1.  Covered Entity  ........................  ..... 1045
+2.  SGS and SGS Holder  ..................  ....... 1047
+C.  The SGS Mechanism: The PassiveM  ode.........  ....... 1048
+III. THE GOLDEN SHARE IN ACTION: THE "MANAGER OF LAST
+RESORT"................................................1052
+A.  Activating SGS: TriggeringE  vents.............  ..... 1052
+B.  The SGS Mechanism: The Active Mode......  ......... 1055
+IV. INSTITUTIONAL DESIGN: KEY CONSIDERATIONS  ................. 1058
+A.  OrganizationalC hoices; Place in the Regulatory Structure. 1059
+B.  Funding;A  ccountability Mechanisms  ...........  ..... 1063
+C.  Dealingw  ith the Fear Factor..  .................... 1067
+CONCLUSION..................................................1069
+*  Saule T.  Omarova is Professor of Law at Cornell University Law School. For thoughtful
+comments and criticisms, I thank the organizers of and participants in the The University of Alabama
+School of Law Bank Director & Officer Responsibilities Conference (Aug. 26, 2016).  Special thanks to
+Julie Hill, Robert Hockett, Hope Mehlman, and Heidi Schooner.
+10291030 Alabama Law Review [Vol. 68:4:1029
+INTRODUCTION
+The global financial  crisis  of 2008-2009  has  taught the world many
+invaluable lessons.  One such lesson concerns the central importance of the
+banking sector and its regulation for the stable and efficient functioning of
+the global  financial  system-a subject  matter considered  too boring  and
+old-fashioned in the precrisis era of fascination with financial innovation in
+capital markets and so-called disintermediation of banks. In the wake of the
+crisis, policy-makers'  attention, both  domestically  and globally, has been
+directed  primarily  at  correcting  mistakes  of the  deregulatory  precrisis
+period and  strengthening and recalibrating  the regulatory and supervisory
+framework for banks and other systemically important financial institutions
+(SIFIs). The crisis shattered the unfettered faith in the traditional notions of
+market discipline, market rationality,  industry self-regulation,  and internal
+risk  management  as  sufficiently  reliable  mechanisms  of  market  self-
+correction.'  Accordingly,  the  explicit  focus  of  postcrisis  reforms  on
+macroprudential  regulation  reflects  our  collective  realization  that
+safeguarding  systemic  financial  stability  requires  a  more  assertive  and
+effective  government  oversight  of individual  banks'  and  other  financial
+institutio-ns' business operations.2
+But  where  does  that  leave  banks'  internal  governance?  Does  firm
+governance  have  any  role  as  a  mechanism  of crisis  prevention,  or  are
+externally  imposed  regulation  and  supervision the  only  viable  means  of
+achieving this goal? Scholars of corporate governance  continue to grapple
+with this question.  Some of them advocate for corporate governance  as a
+more effective or market-friendly alternative to what they see as excessive
+government intervention in private firms'  affairs.3 Others seek to adjust or
+enhance  some of the traditional corporate governance  tools to aid,  rather
+1.  Perhaps one of the most revealing moments in this respect came in October 2008, when the
+former Chairman of the Board of Governors of the Federal Reserve System (the Federal Reserve), Alan
+Greenspan, publicly admitted that he had erred in putting too much faith in the self-correcting powers of
+free markets. See Edmund L. Andrews, Greenspan Concedes Error on Regulation, N.Y. TIMES (Oct.
+23, 2008), http://www.nytimes.com/2008/10/24/business/economy/24panel.html;  see also RICHARD A.
+POSNER, A FAILURE OF CAPITALISM: THE CRISIS OF '08 AND THE DESCENT INTO DEPRESSION  114-15
+(2009)  (arguing  that  rational  profit-maximizing  behavior  of  market  actors  produces  negative
+externalities that cannot be controlled without government regulation). For a more recent discussion,
+see David Min, Understandingt he Failureso fMarket Discipline, 92 WASH. U. L. REV. 1421 (2015).
+2.  For in-depth analyses of the postcrisis shift to macroprudential regulation, see Robert Hockett,
+The  Macroprudential Turn: From Institutional 'Safety  and Soundness' to Systematic  'Financial
+Stability' in Financial Supervision, 9  VA.  L. & BUS. REV. 201  (2015), Gabriele Galati & Richhild
+Moessner, MacroprudentialP olicy - A Literature Review (Bank for Int'l Settlements, Working Paper
+No.  337,  2011),  www.bis.org/publ/work337.pdf,  and INT'L MONETARY FUND,  MACROPRUDENTIAL
+POLICY: AN ORGANIZING FRAMEWORK (2011), www.imf.org/external/np/pp/eng/2011/03141  la.pdf.
+3.  See,  e.g., Valentina Bruno & Stijn Claessens, Corporate Governance and Regulation: Can
+There Be Too Much of a Good Thing?, 19 J. FIN.  INTERMEDIATION  461  (2010); Sean J. Griffith,
+Corporate Governance in an Era of Compliance, 57 WM. & MARY L. REv. 2075 (2016).2017] Bank Governance and Systemic Stability 1031
+than supplant, regulatory  efforts.4  The Dodd-Frank Act, the centerpiece  of
+the  postcrisis  reform  legislation,  mandates  various  measures  aimed  at
+strengthening  internal  risk oversight  at U.S.  banks  and  other  SIFIs.'  In
+passing  the  Act,  Congress  sought  to broaden  the responsibilities  of the
+boards of directors of such institutions,  with an eye toward safeguarding
+the long-term stability of the U.S.  financial system. Regulators have voiced
+the  need  to  consider  special  bank  governance  measures  as  a  tool  of
+postcrisis prudential regulation.6  And, across the board, there are calls  for
+improving the risk-taking culture at banks and other financial institutions.
+Unfortunately,  it is not  clear whether,  and  to what  extent,  any such
+newly  enhanced  corporate  governance  requirements  would  succeed  in
+changing  banks'  private profit-oriented  culture and  preventing  excessive
+accumulation  of risk in the  financial  system.  Part of the problem  is the
+sheer technical difficulty of managing systemic risk in today's dynamic and
+complex  financial  markets.  More  fundamentally,  however,  the  limited
+utility of traditional corporate governance as a mechanism of systemic risk
+management  reflects  deep-seated  inadequacies  in  the  conceptual  and
+normative apparatus of modern U.S.  corporate law.  Its prevailing notions
+of what a corporation is, what goals it does or should legitimately pursue,
+and  whose  interests  its  directors  and  managers  do or  should serve,  are
+simply  not  capacious  enough  to  be  able  to  incorporate  a  meaningful
+emphasis on the interests of society as a whole.9  The dominant conception
+of the corporate  form as  a contractually  created  vehicle  for maximizing
+shareholder value is inimical to the idea of making business corporations-
+or their directors and officers-agents of the broader public interest. To the
+extent the private and public interests can be legitimately  reconciled,  it is
+usually  done at the periphery,  in an attempt  to find "win-win"  solutions
+that benefit  both society  and  individual  shareholders.  Curbing  excessive
+executive  compensation  practices  at  systemically  important  banks,  for
+example,  is  one  such  area  where  regulatory  objectives-and  the public
+interest they serve-are largely in line with the tenets of the corporate law
+4.  See, e.g., Lucian A. Bebchuk & Holger Spamann, Regulating Bankers'Pay, 98 GEO. L.J. 247
+(2010).
+5.  Dodd-Frank Wall Street Reform and Consumer Protection Act, Pub. L. No. 111-203, 124 Stat.
+1376 (2010) (codified in scattered sections ofthe U.S. Code).
+6.  See, e.g., William C. Dudley, President & Chief Exec.  Officer, Fed. Reserve Bank of N.Y.,
+Enhancing Financial Stability by Improving Culture in the Financial Services Industry (Oct. 20, 2014),
+https://www.newyorkfed.org/newsevents/speeches/2014/dudl41020a.html;  Daniel  K.  Tarullo,
+Governor, Bd. of Governors of the Fed. Reserve Sys., Corporate Governance and Prudential Regulation
+(June 9, 2014), https://www.federalreserve.gov/newsevents/speech/tarullo2Ol4O6O9a.htm.
+7.  See,  e.g.,  Governance  &  Culture  Reform:  Archive,  FED.  RES.  BANK  N.Y.,
+https://www.newyorkfed.org/govemance-and-culture-reform/archive.html.
+8.  For a detailed discussion of why this is the case, see Robert C. Hockett, Are Bank Fiduciaries
+Special?, 68 ALA. L. REV. 1071 (2017).
+9.  See infra Part I.A.1032 Alabama Law Review [Vol. 68:4:1029
+and theory.10 All too often, however, the incentives of bank managers  and
+shareholders  to pursue  short-term private  gains are perfectly  aligned but
+work directly against the public interest in preserving long-term  financial
+stability."  The  recent  financial  crisis  exposed  how  these  socially
+destructive dynamics  operate in practice.12  It also made abundantly  clear
+that the modem system of corporate governance,  with its traditional focus
+on  solving  specific  principal-agent  problems  within  a  firm,  is  not  a
+sufficiently  reliable  or consistent  mechanism  for managing  this insidious
+and apparently pervasive conflict in a publicly beneficial way.
+This Article  accepts the existence of that built-in potential conflict as
+the critical  starting point for answering  the central  question of postcrisis
+bank  governance:  How  do we  ensure  that  the  board  of directors  of a
+privately  owned banking  institution consistently  and effectively  acts  in a
+manner  that  serves  the overarching  public  interest in safeguarding  long-
+term systemic financial stability? The Article offers an unorthodox solution
+to  this problem:  in lieu of "improving"  or "tweaking"  existing  standards
+and procedures  that determine board composition or guide specific board
+actions,  it  advocates  a  fundamental  structural  reconfiguration  of  bank
+governance  by giving the federal government  a seat on the board of each
+systemically important banking organization.
+Specifically, the Article proposes a special "golden share" regime that
+would  grant  direct  but  conditional  management  rights  to  a  designated
+government representative  on the board of each affected  institution.13 The
+goal  of the proposed regime would be to create  a powerful organizational
+node  of public-interest-driven  management,  which  would  operate  as  a
+dynamic  and flexible  internal  "emergency  brake"  on individual  banks'
+activities presenting  significant systemic stability concerns.  To paraphrase
+a  staple metaphor,  this mechanism  would  effectively  enable  the  federal
+government  to  accept  the  role  of  the  "manager  of last  resort"  of  a
+systemically  significant  financial  firm-but  only  temporarily  and  well
+10.  See, e.g., Bebchuk & Spamann, supra note 4.
+11.  See Hockett, supra note 8.
+12.  For  detailed  analyses  of  market-wide  and  firm-specific  dynamics  that  resulted  in
+unsustainable levels of risk and leverage in the financial system, see FIN. CRISIS INQUIRY COMM'N, THE
+FINANCIAL CRISIS INQUIRY REPORT: FINAL REPORT OF THE NATIONAL COMMISSION ON THE CAUSES
+OF  FINANCIAL  AND  ECONOMIC  CRISIS  IN  THE  UNITED  STATES  (2011),  https://www.gpo.gov/
+fdsys/pkg/GPO-FCIC.pdf;  S.  PERMANENT  SUBCOMM.  ON  INVESTIGATIONS,  112TH  CONG.,  WALL
+STREET  AND  THE  FINANCIAL  CRISIS:  ANATOMY  OF  A  FINANCIAL  COLLAPSE  394  (2011),
+http://hsgac.senate.gov/public/_files/FinancialCrisis/FinancialCrisisReport.pdf;  FIN.  SERVS.  AUTH.,
+THE  TURNER  REVIEw:  A  REGULATORY  RESPONSE  TO  THE  GLOBAL  BANKING  CRISIS  (2009),
+http://www.ecgi.org/tcgd/2009/FSATurnerReport-onFinancialCrisis_2009.pdf
+13.  The proposal advanced in this Article builds upon  and elaborates the concept originally
+formulated in Robert C. Hockett & Saule T. Omarova, Public Actors in Private Markets: Toward a
+Developmental Finance State, 93 WASH. U. L. REV. 103, 167-74 (2015) [hereinafter Public Actors].2017] Bank Governance and Systemic Stability 1033
+before that  firm's  actions  threaten to bring  down the financial  system.14
+Importantly, the proposed golden share regime is neither a nationalization
+measure  nor an institutionalized  bank bailout.  Its overarching  purpose  is
+not to put the federal government  in charge  of private  firms but,  on the
+contrary, to steer the firms toward self-correcting and preventative actions
+necessary  to  avoid  that  undesirable  result.  In  effect,  the  golden  share
+regime would operationalize a novel approach to bank-and, more broadly,
+SIFI-corporate  governance  as  an  inherently  hybrid  public-private
+process.1
+A proposal of this kind is bound to raise potentially  significant issues
+of legal doctrine and practical implementation. The present Article does not
+purport to offer a full set of solutions to all of these problems;  it merely
+outlines in principle the key elements of the proposed regime's design and
+operation. The proposal advocated here is essentially a thought experiment:
+an attempt to push the boundaries of the familiar debate and to stimulate a
+productive  discussion of how public our privately owned banks and other
+systemically significant  financial institutions really are-and how public-
+minded their internal governance should be.
+The  Article  proceeds  as  follows.  Part  I  lays  out  a broad  normative
+justification  for the  golden  share proposal.  Parts  II  and IHl  outline basic
+substantive  and  operational  features  of the  proposed  regime.  Part  IV
+addresses some of the key issues in connection with the institutional design
+and administration of the proposed scheme.
+I. RETHINKING THE PUBLIC'S ROLE IN BANK GOVERNANCE: TOWARD A
+NEW PARADIGM
+A.  Bank Governance and FinancialS tability: An Unresolved Tension
+The  term "corporate  governance"  generally  refers  to  the  system  of
+intrafirm structures  and procedures through which shareholders  and other
+stakeholders  in  the  firm  exercise  control  over  its management.16  In  the
+14.  The  federal bank regulators, such as the Federal Deposit Insurance Corporation  (FDIC),
+already act as managers of last resort with respect to banks that are either insolvent or meet certain
+statutory standards for so-called prompt corrective action. See 12 U.S.C.  § 1831o (2012). In that sense,
+the proposal advanced here should not be seen as a truly radical departure from the existing practice.
+Nevertheless,  as discussed below, granting more flexible and direct internal-management rights to a
+special public instrumentality that does not perform regulatory or supervisory functions and acts strictly
+as a market actor would create a qualitatively new arena for systemic risk prevention and, in that sense,
+constitute a radical departure from the current regime. See infra notes 116-121 and accompanying text.
+15.  See infra Part IV.C.
+16.  See Jens Hagendorff, Corporate Governance in Banking, in THE OXFORD HANDBOOK OF
+BANKING  139, 139 (Allen Berger et al. eds., 2d ed. 2015).  According to one influential definition,
+"[c]orporate governance involves a set of relationships between a company's management, its board, its
+shareholders and other stakeholders. Corporate governance also provides the structure through which1034 Alabama Law Review [Vol. 68:4:1029
+United States, where corporate law is a matter of state law, the model of
+corporate  governance  focuses  primarily  on potential  conflicts  of interest
+between  equity  holders,  as  residual  claimants  on  the  firm's  assets,  and
+corporate  managers  and  directors  to whom  they delegate  the  day-to-day
+control over the  firm's business  affairs.17  In the academic  literature,  this
+fundamental tension is generally referred to as the "agency problem," or a
+problem of motivating  the agents-who possess superior information and
+decision-making  authority-to act in the best interests of the principals.18
+The agency problem remains the dominant analytic and normative focus of
+mainstream  U.S.  corporate  law  scholarship  and  continues  to  dominate
+academic  and policy  discussions on corporate governance.  Critically,  this
+mainstream paradigm generally  views shareholders  as the only legitimate
+category of principals in the corporate context and, accordingly, approaches
+problems  of  corporate  governance  from  a  fundamentally  shareholder-
+centric  perspective.1 9 Among  other  things,  it provides  the basis  for  the
+currently dominant claim that the sole legitimate corporate purpose is, and
+should be, maximization of shareholder value.20
+One of the key legal mechanisms  for addressing the agency  problem
+and reducing shareholders' agency costs is the imposition of a special set of
+fiduciary duties on corporate managers  and, importantly, board members.
+Under U.S.  corporate law, the board of directors is charged with the crucial
+task  of  managing  and  supervising  the  business  and  affairs  of  the
+corporation.21  The dominant paradigm accordingly  views fiduciary duties
+as indispensable  gap  fillers  in the fundamentally  contractual  relationship
+the objectives  of the company  are set,  and the means of attaining those objectives and monitoring
+performance  are  determined."  ORGANISATION  FOR  ECON.  CO-OPERATION  &  DEV.,  G20/OECD
+PRINCIPLES  OF  CORPORATE  GOVERNANCE  9  (2015),  http://www.oecd-ilibrary.org/docserver/
+download/2615 021e.pdfexpires=1488685295&id=id&accname=guest&checksum=58B3733B64C759
+8CF12DOCOA72EB8FB8.
+17.  See, e.g., D. GORDON SMITH & CYNTHIA A. WILLIAMS, BUSINESS ORGANIZATIONS 174 (3d
+ed. 2012) ("Many of the issues that arise under corporate law relate to conflicts between the board of
+directors and the shareholders.").
+18.  The economic and legal literature on the essence of the agency problem and the significance
+of minimizing  "agency costs"  in a corporate setting is simply too voluminous  to cite  here. For a
+succinct overview  of the agency problem  as a subject of corporate law, see John Armour,  Henry
+Hansmann  &  Reinier Kraakman,  Agency  Problems and Legal Strategies, in THE ANATOMY  OF
+CORPORATE LAW: A COMPARATIvE AND FUNCTIONAL APPROACH 35 (Reinier Kraakman et al. eds., 2d
+ed. 2009).
+19.  Once again,  citing in  a meaningful way  an  extensive body of literature proffering  this
+dominant  (at least,  in  the Anglo-American  context)  shareholder-centric  perspective  on corporate
+governance  would be a futile task.  For a compelling critique  of the shareholder-centric view  of a
+modem corporation, see LYNN STOUT, THE SHAREHOLDER VALUE MYTH (2012).
+20.  For recent critical  analyses of the "shareholder  value  maximization" paradigm,  see id;
+Robert C.  Hockett & Saule T.  Omarova,  "Special," Vestigial, or Visionary? What Bank Regulation
+Tells Us About the Corporation-andV ice Versa, 39 SEATTLE U. L. REv. 453 (2016).
+21.  See SMITH & WILLIAMS, supra note 17, at 174 ("Officers ...  are in charge of the day-to-day
+operations of the corporation.... and they make many  of the decisions that define a corporation's
+activities.... [The board of d]irectors [is] elected by shareholders to supervise the officers.").2017] Bank Governance and Systemic Stability 1035
+between shareholders and their agents, which "essentially call on directors
+to  work  hard  and  to promote  the  interests  of shareholders  above  their
+own."22
+As fiduciaries, directors are subject to the duty of care and the duty of
+loyalty and may be personally  liable to the corporation's  shareholders  for
+the damages caused by the breach of those duties.23 In general, directors are
+required to exercise reasonable care, prudence, and diligence in managing
+and  supervising  the  corporation's  affairs.  However,  the  judicially
+developed  "business judgment  rule" protects  them from liability  for bad
+judgment  calls,  as  long  as  directors  followed  reasonable  due  diligence
+procedures. 24 In most  states, plaintiffs  can sustain  their burden  of proof
+only by showing that directors acted with gross negligence, a standard that
+is much stricter than ordinary negligence.25
+These  fundamental  principles  of  corporate  law  and  governance
+generally  apply  to  banking  institutions  that  are  typically  organized  as
+corporations.  At the same time,  however, modern banks represent  a very
+special  type  of business  corporation,  which  complicates  straightforward
+application of such principles in the banking context.
+Thus, it has long been recognized, albeit not without controversy,  that
+26
+deposit-taking  banks  are  "special"  even  among  financial  institutions.
+Banks are said to be special in that they perform certain important public
+functions:  they provide  transactional  accounts,  operate  payment  systems,
+and serve as channels for transmission of monetary policy.27 While each of
+these  functions  can  be,  and  often  is,  performed  by  various  nonbank
+institutions, banks have historically combined them in a way and on a scale
+not evident outside the banking system, which led many to view banks as
+22.  Jonathan R. Macey & Maureen O'Hara, The Corporate Governance of Banks, 9  FRBNY
+ECON. POL'Y REv. 91, 93 (2003).
+23.  Id. Some scholars treat the duty of good faith as a separate and distinct form of fiduciary
+duty. For the purposes of this Article, however, these and other doctrinal and theoretical nuances are
+largely irrelevant.
+24.  See Aronson v. Lewis, 473 A.2d 805, 812 (Del. 1984) (stating a presumption that "in making
+a business decision the directors of a corporation acted on an informed basis, in good faith and in the
+honest belief that the action taken was in the best interests of the company").
+25.  See  Heidi  Mandanis  Schooner,  Fiduciary Duties' Demanding Cousin: Bank Director
+Liability for Unsafe or Unsound Banking Practices, 63 GEO.  WASH. L. REV.  175,  186-87  (1995);
+Ronald W. Stevens & Bruce H. Nielson, The Standardo f Caref or Directorsa nd Officers of Federally
+Chartered Depository Institutions. It's Gross Negligence Regardless of Whether Section 1821(k)
+Preempts Federal Common Law, 13 ANN. REV. BANKING L. 169, 191-93 (1994).
+26.  For a classic articulation of this argument, see E. Gerald Corrigan, Are Banks Special?, in
+FED.  RESERVE  BANK  OF  MINNEAPOLIS,  ANNUAL  REPORT  1982,  at  5  (1983),
+https://fraser.stlouisfed.org/files/docs/historical/frbminn/1982_frb_minneapolis.pdf  [hereinafter  Are
+Banks Special?]; E. Gerald Corrigan, Are Banks Special?: A Revisitation, REGION  (Mar.  1, 2000),
+http://www.minneapolisfed.org/publications/the-region/are-banks-special.
+27  See Are Banks Special?, supra note 26. For a recent restatement of the argument, see Alan M.
+White, Banks as Utilities, 90 TUL. L. REv. 1241 (2016).1036 Alabama Law Review [Vol. 68:4:1029
+quasi-public  utilities.28  Furthermore,  banks'  traditional  business  model,
+based  on  high  leverage  and  large-scale  maturity  and  liquidity
+transformation, renders them inherently vulnerable to creditor runs.29 Banks
+issue  very  little  equity,  their  core  assets  are  highly  opaque,  and  their
+liabilities are extremely short-term-a fragility-producing  combination.  In
+order to protect banks  from failure and to ensure their ability to continue
+providing  publicly  important  services,  modem  governments  typically
+subsidize banks by providing them with credit and liquidity support. Thus,
+in the United States, the two central pillars of such support are the federal
+deposit  insurance  system,  administered by the Federal  Deposit Insurance
+Corporation (FDIC), and access to the Federal Reserve's liquidity backup
+facilities.30
+These  "special"  features of banks  also shaped their internal corporate
+governance. For example, American courts have a long history of holding
+bank directors to a heightened standard of duty of care, by virtue of banks'
+quasi-public functions.31 While many of these cases preceded the advent of
+federal deposit insurance and even the widespread adoption of the general
+incorporation statutes, the importance of holding bank directors to a higher
+standard of care continues  to be recognized  to this day.32  In some  states,
+directors  of  state-chartered  banks  are  subject  to  personal  liability  for
+breaches of the duty of care if they are found to have acted with negligence,
+as  opposed to  gross  negligence.33  Even  self-professed  supporters  of the
+currently dominant view of the corporation  as a purely private "nexus of
+contracts,"  whose primary purpose  is maximization of shareholder value,
+have  advocated  for  expanding  the  scope  of fiduciary  duties  of bank
+directors to include a duty to ensure their bank's safety and soundness.34
+Characteristically, the primary object of the heightened director duties
+and responsibilities  in all of these instances is the "safety  and soundness"
+28.  See  Are Banks Special?, supra note  26.  While  this  canonical  articulation  of banks'
+"specialness"  identifies  some of the key factors that explain the heightened public significance  of
+banks' core business activities, it nevertheless fails to capture the more fundamental relational dynamics
+that render privately owned banks public agents in a more direct sense, as specially licensed de facto
+"franchisees" of the sovereign. See infra notes 53-56 and accompanying text.
+29.  See Douglas W. Diamond & Philip H. Dybvig, Bank Runs, DepositI nsurance, and Liquidity,
+91 J. POL. ECON. 401 (1983) (analyzing the general dynamics of bank runs).
+30.  See generally MICHAEL BARR ET AL., FINANCIAL REGULATION: LAW AND POLICY (2016).
+31.  See Patricia A. McCoy, A  PoliticalE conomy of the Business Judgment Rule in Banking:
+Implicationsf or CorporateL aw, 47 CASE W. RES. L. REv. 1 (1996).
+32.  See Hagendorff, supra note 16; PATRICIA A. McCoy, BANKING LAW MANUAL  § 14.01,
+14.04 (2013); Macey & O'Hara, supra note 22.
+33.  See BARR ET AL., supra note 30, at 813-14 (discussing the standard for bank director liability
+under the New York banking statute); McCoy, supra note 32, § 14.04.
+34.  See, e.g., Macey & O'Hara, supra note 22, at 92 ("In particular, we call on bank directors to
+take  solvency risk explicitly and  systematically  into account when making decisions,  or else  face
+personal liability for failure to do so.").2017] Bank Governance and Systemic Stability 1037
+of *the relevant  banks.5  The  principal  doctrinal  adjustment,  either  as
+sanctioned by courts or as proposed by academics, is to broaden the range
+of the beneficiaries  of bank directors'  fiduciary duties to include not only
+the banks'  shareholders but the banks themselves-and,  in certain limited
+circumstances,  the  banks'  depositors.36  By  creating  multiple  new
+beneficiaries  of  directors'  fiduciary  duties,  however,  this  approach
+potentially introduces a significant internal source of tension and conflict in
+the  operation  of  the  fiduciary  relation  within  a  bank.  Even  more
+importantly,  this  somewhat  expanded  version  of  fiduciary  duties  and
+responsibilities of bank directors remains fundamentally tied to the familiar
+notion of corporate governance  as a mechanism  of internal organizational
+concern,  a  matter  of "micro"  rather  than  "macro"  ordering.  Any  truly
+systemic  positive  externalities  of  holding  individual  bank  directors  to
+higher fiduciary  standards  are  largely presumed to  follow the first-order
+effects on the individual banks' safety and soundness, frequently used as a
+proxy for profitability.
+The financial crisis of 2008-2009 exposed the dangers of precisely this
+kind  of  over-reliance  on  microprudential  tools  for  managing  critical
+system-wide  risks.  It  laid  bare  the  systemically  harmful  dynamics  of
+recursive collective action problems, whereby individually rational actions
+by market participants  led to a  collectively  disastrous  result.38  To  put it
+simply,  private  market  actors-firms  or  individuals,  big  or  small-
+generally  operate  under  strict  profit-maximization  constraints,  which
+renders them excessively susceptible to immediate pressures to avoid short-
+term  losses  and  to  produce  short-term  competitive  returns,  even  where
+pursuing  such  strategies  impairs  their  capacity  to  sustain  long-term
+profitability. Rationally responding to these pressures, individual firms and
+investors tend to buy inflated assets during the euphoric bubble buildup and
+sell  them during  the  post-bubble  downward  price  spiral,  in  both  cases
+exacerbating the destabilizing market-wide  trend.39  From this perspective,
+declaring bank directors fiduciaries  of the bank, as opposed to the bank's
+35.  See, e.g., id.
+36.  See, e.g., id. at 98-102.
+37.  For an  insightful analysis of the traditional concept of fiduciary duty as a status-derived
+obligation of the agent to act as  the principal's alter ego, thus eliminating the functional difference
+between  the  two,  see  Hockett,  supra note  8.  As  a  conceptual  matter,  then,  an  agent  cannot
+simultaneously owe the same fiduciary obligation to several principals (or beneficiaries) whose interests
+are not strictly identical. Introducing variations in the scope or intensity of fiduciary duty, depending on
+the beneficiary's relative position or other circumstances, runs the risk of altering the nature of the
+relation altogether.
+38.  Robert C. Hockett, Recursive Collective Actions Problems: The Structure ofProcyclicality in
+Financiala nd Monetary Markets, Macroeconomies and Formally Similar Contexts, J. FIN. PERSP., July
+2015, at 1.
+39.  See id.; see also Public Actors, supra note 13, at 122-37 (discussing the key differences in
+the relative incentives, capacities, and roles of private and public market actors).1038 Alabama Law Review [Vol. 68:4:1029
+shareholders, makes little practical difference.  Even if directors  faithfully
+discharge  their  duty  to  act  in  the best  interests  of the relevant  bank,  a
+private profit-maximizing entity, their actions can nevertheless exacerbate
+socially destructive boom-and-bust cycles in the financial markets.40
+In the postcrisis era, systemic financial stability came to be recognized
+as the overarching policy  goal that is explicitly separate from the goal of
+preserving  individual entities'  safety  and soundness.  The Dodd-Frank Act
+sought to  strengthen  the  resilience  of the  U.S.  financial system,  among
+other things,  by mandating  compliance  with  a  range  of new,  or  newly
+enhanced,  entity-wide  risk-oversight  responsibilities  of the  boards  of
+directors  of banks,  bank  holding companies  (BHCs),  and other  SIFIs.41
+However, the Act does not attempt to revisit the old underlying concept of
+bank directors'  fiduciary duties as a firm-level  internal ordering  device.42
+With respect to financial firms that are not chartered as banks-including
+BHCs  organized  as  regular  state-chartered  corporations-a  fundamental
+reorientation  of  directors'  fiduciary  duties  toward  the  broader  public
+interest  in  systemic  stability  presents  an  even  bigger  conceptual  and
+practical challenge.  Accomplishing  that task would require potentially  far
+more  radical  adjustments  to the dominant  corporate law  and governance
+paradigm  than  merely  tightening  certain  regulatory  compliance
+requirements.
+In  recent  years,  a  few  legal  scholars  explored potential  avenues  for
+making  such  adjustments.  For  instance,  under  one  proposal,  individual
+firms  would  be  required  to  appoint a  critical  mass  of so-called  public
+directors who  would act as  representatives  of the public interest on such
+firms' boards.43 These public directors would be either publicly elected or
+administratively  appointed,  and  their  principal  function  would  be  to
+introduce an explicitly other-regarding  perspective  into corporate boards'
+deliberations, thus making banks and other SIFIs more likely to behave in a
+40.  For an insightful recent discussion of the dynamics and history of financial asset booms and
+busts, see ERIK F. GERDING, LAW, BUBBLES, AND FINANCIAL REGULATION 33-135 (2014).
+41.  For an overview of such board-duty-enhancing measures under the Dodd-Frank regime and
+implementing regulations, see MCCOY, supra note  32, § 14.04; Edward D. Herlihy et al., Financial
+Institutions Developments: Key Trends in Financial Institutions M&A and Governance, 52 BANK &
+CORP. GOVERNANCE L. REP. 23 (2014).
+42.  One of the most controversial aspects of the postcrisis reforms in bank and SIFl  governance
+concerned the regulators'  efforts to make such institutions' boards more directly responsible for the
+effective functioning  of their firms' risk  management systems, which the industry perceived  as a
+dangerous and unworkable attempt to blur the line between directors' traditional oversight role and the
+managers'  executive role. See,  e.g., DEBEVOISE  & PLIMPTON,  CLIENT UPDATE: BASEL COMMITTEE
+2015 CORPORATE GOVERNANCE PRINCIPLES (Aug. 11, 2015), http://www.debevoise.com/-/media/files/
+insights/publications/2015/08/2015081 Ibasel committee_2015_corporategovernanceprinciples.pdf
+43.  See Hilary J. Allen, The Pathologies ofBanking Business as Usual, 17 U. PA. J. BUS. L. 861
+(2015); James Fanto, Whistleblowing and the Public Director: Countering CorporateI nner Circles, 83
+OR. L. REV. 435, 490-540 (2004).2017] Bank Governance and Systemic Stability 1039
+systemic-stability-enhancing  manner.4  Yet, it is not entirely clear whether,
+or why,  these  "public"  directors  would  be  more  effective  than  today's
+"independent"  directors  in  counteracting  "groupthink"  or  significantly
+altering  the  systemically  harmful  shareholder-value-driven  board
+behavior.45 As long as nonpublic directors'  fiduciary  duties continue to be
+interpreted  as  running  to the firm's  shareholders,  the presence  of public
+directors  is  unlikely  to  resolve  the  underlying  tension  between  micro-
+rationality and macro-stability.
+Another intriguing proposal targets the substantive scope of directors'
+fiduciary duties, rather than the composition of SIFIs' boards.46 Under this
+approach,  SIFI  directors  would  owe  a  broader  fiduciary  duty  of care
+directly to the firm, rather than its shareholders,  and be liable for failure to
+control  the  firm's  systemically  risky  behavior  that  results  in  significant
+losses to that firm.47  The proposal "revives the case for director-negligence
+liability as a method of constraining bank risk-taking, not limited to cases
+of bank  failure but  rather addressed  to  cases  in which a  large  financial
+institution suffers losses of a  magnitude  and kind that could threaten the
+institution's stability."48 In effect, it seeks to align directors'  interests with
+the  interests  of SIFIs'  diversified  shareholders,  likely  to  suffer  greater
+losses from systemic distress than from any individual firm's failure.
+What makes this proposal particularly noteworthy is that, in an attempt
+to push conceptual  boundaries, it underscores  the inherent inability of the
+traditional  corporate  law  and governance  doctrine  to  accommodate  the
+postcrisis systemic risk perspective. However sophisticated, this proposal is
+premised on a fundamentally questionable assumption that systemic harms
+can, and should, be effectively policed by individual firms'  shareholders-
+and on an ex post basis.49 Moreover, by conditioning directors'  liability on
+44.  Allen, supra note 43, at 901-02. It is worth noting that Professor Fanto's original proposal
+was not designed specifically to apply to financial institutions. See Fanto, supra note 43.
+45.  For a discussion of the role and efficacy of independent directors on the boards of publicly
+listed companies, see Roberta S. Karmel, Is the Independent Director Model Broken?, 37 SEATrLE U.
+L. REv. 775 (2014).
+46.  See John Armour & Jeffrey N. Gordon, Systemic Harms and Shareholder Value, 6 J. LEGAL
+ANALYsIS 35 (2014).
+47.  Armour  and  Gordon  offer  a  compelling  argument as  to  why traditional  private  law
+mechanisms, such as tort liability, simply do not do the job of forcing SIFIs to externalize systemic
+harms caused by their activities. Id. at 37.
+48.  Id. at 64.
+49.  While targeting the ex post director liability regime, Armour and Gordon's  proposal is
+designed to force  the board  of directors  to take  a more  active role in monitoring and preventing
+potentially systemically  harmful business strategies of the firm's management.  Perhaps the fear of
+personal liability and shareholder suits in the event such strategies cause the firm to sustain large losses
+would, in fact,  be a more "high-powered" director-oversight incentive than the threat of regulatory
+sanctions.  But, even if true, this proposition  does not address the key  issue of whether individual
+directors serving on individual firms' boards are, in fact, capable of determining-on an ex ante basis-
+precisely which business decisions are potentially systemically harmful and, therefore, should be vetoed1040 Alabama Law Review [Vol. 68:4:1029
+significant losses to an individual  SIFI,  it erroneously  conflates  systemic
+stability with "firm  stability." While the emphasis on private enforcement
+of directors' fiduciary duties through  shareholder litigation clearly signals
+the  fundamental  continuity  of  this  proposal  with  traditional  Anglo-
+American  corporate  law, it  also undermines  its credibility  as  a potential
+solution to the problem of systemic risk prevention.
+To conclude, it appears that expanding bank directors' fiduciary duties
+beyond  their  traditionally  limited  scope  does  not  help  to  overcome  the
+inherently nonsystemic,  entity-centric  character  of this and other tools of
+corporate governance. At its core, fiduciary duty functions as a mechanism
+for structuring  and managing  the relationship  between  directors  (agents)
+and those parties (principals or beneficiaries, shareholders  or entire firms)
+on  whose  behalf or  for  whose  benefit  they  run  the  firm's  business.50
+Fiduciary  duty is not designed to  govern directly  the firm's  relationship
+with, and behavior toward, the rest of the outside world: it generally affects
+such  external,  outward-looking  interactions  only  by  implication,  as  a
+consequence  rather than  an intended  goal.  Acknowledging  this  inherent
+limitation of the fiduciary duty construct underscores the need to search for
+alternative mechanisms of incorporating the goal of systemic stability into
+the very fabric of banks' internal governance processes.5
+B.  Bank Governance as a Matter ofPublic Interest
+As discussed above,  banks have  long been recognized as a "special"
+group  of private  firms  that  are  publicly  subsidized,  by  virtue  of their
+supposed  indispensability  in ensuring  smooth  operation  of the financial
+system.52 More importantly, however, banks are also very "special" entities
+in spite of their short-term profitability. Such determination, by its very definition, requires the relevant
+decision makers to have a truly system-wide view and exercise their judgment on the basis of system-
+wide considerations-which  gives public instrumentalities  a critical built-in advantage over private
+actors. See Public Actors, supra note 13.
+50.  See Hockett, supran ote 8.
+51.  It is important to emphasize here that the preceding discussion focuses not on any specific
+organizational or behavioral dynamics that tend to undermine corporate boards'  efficacy, but on the
+deep structural limitations of fiduciary duty as a potential tool of enhancing systemic financial stability.
+Undoubtedly, overcoming groupthink and other well-known cognitive  and organizational failures of
+real-life  corporate  boards  is an  important  element  of improving  the overall  quality  of corporate
+governance. However, this Article's key point so far is that, even in the absence of such distortions, an
+individual firm's directors are not properly positioned to act consistently and predominantly on behalf
+of the public as a whole. It would be misguided to pin our collective hopes for a more stable financial
+system on the prospect of maintaining such a perfect  alignment of public and  private interests in
+financial markets. Making bank directors better educated, less prone to groupthink, and more willing to
+question bank managers may make them better, more effective fiduciaries in a traditional sense, but it
+would not somehow redirect their primary duty toward the general public. For a discussion of what it
+might take to turn bank directors into official "public fiduciaries," see Hockett, supra note 8.
+52.  See supra note 26 and accompanying text.2017] Bank Governance and Systemic Stability 1041
+in  a  deeper,  constitutive  sense:  though  organized  as  privately  owned
+corporations,  banks  are  the  quintessential  public-private  partnerships.53
+The government  authorizes banks to perform vital public (i.e., sovereign)
+functions-creation  of money  and allocation  of credit-for private  gain.
+Thus, banking is not simply a private economic enterprise but a delegated
+public policy  responsibility,  and banks are not simply private  companies
+but franchisees  of the public, entrusted to aid in the continuous generation
+and distribution of the sovereign public's full faith and credit.54
+A  full  elaboration  of  this  view  of  banking-and  finance,  more
+generally-as  a  public-private  franchise  is  beyond  the  scope  of  this
+Article.55 For present purposes, the key normative implication of reframing
+banks'  systemic function as  that of a franchisee  managing  the flow  of a
+vital public  resource  is the  recognition  that the  sovereign public,  as  the
+franchisor, has an inherent right to control the terms on which that public
+resource  flows  throughout  the  economy-and  to  do  so not  only  as  an
+exogenous  source  of  "command-and-control"  regulation  but  as  an
+endogenous  market  actor.56  Accordingly,  this  view  recasts  internal
+corporate  governance  of banks  and  other  financial  firms  as  a  matter  of
+direct concern  to  the government,  in its  capacity  as  the  collective  agent
+representing  the sovereign public.  It  creates the crucial intellectual  space
+for  designing  a  novel  regime  of  direct  government  participation  in
+banks'- and, broader,  SIFIs'-internal management,  specifically  for the
+purpose  of avoiding  socially harmful  shocks  to  the  financial  system.  It
+explicitly imposes the burden of safeguarding the long-term public interest
+in systemic stability on the party best equipped and motivated to bear it-
+and to do so preemptively, from within the individual firm.
+What specific form should this role take?
+The sovereign franchisor, acting primarily through the Federal Reserve
+and  the  Treasury  Department,  injects  its  full  faith  and  credit  into  the
+financial system to support and underwrite the massive flows of public and
+private capital  in a variety of forms and through a variety of channels.  It
+acts  as  the  uniquely  indispensable  creditor,  insurer,  guarantor,  and
+counterparty in a myriad of transactions that together constitute the modern
+financial market.57 While these actions of the government as a market actor
+53.  For a full elaboration of this concept, see Robert C.  Hockett & Saule  T. Omarova,  The
+Finance Franchise, 102  CORNELL  L.  REV.  (forthcoming  2017),  http://ssm.com/abstract-2820176
+[hereinafter The Finance Franchise); see also MORGAN RICKS, THE MONEY PROBLEM: RETHINKING
+FINANCIAL  REGULATION  (2016),  http://search.ebscohost.com.1ibdata.lib.ua.edu/login.aspx?direct-
+true&db-nlebk&AN=l 180882&site=ehost-live&ebv-EB&ppid-pp_Cover.
+54.  See The Finance Franchise,s upra note 53.
+55.  For a fully articulated argument, see id.
+56.  See id.; see also PublicA ctors, supra note 13, at 164.
+57.  See The FinanceF ranchise,s upra note 53.1042 Alabama Law Review [Vol. 68:4:1029
+often  remain  hidden  in plain  view,  they  are  readily  visible  and  widely
+acknowledged  with  respect  to  deposit-taking  banks.  An  explicit  federal
+guarantee of banks' privately issued deposit liabilities, in particular, makes
+it easy to see that, in the final analysis, the government-as  a representative
+of the  American  public-stands  behind private  financial  firms'  balance
+sheets. In fact, an individual banking institution's entire balance sheet can
+be viewed as "a  thick bundle of contingent claims on the government."58
+Thus, at least in the context of an insured bank, it is an incontrovertible fact
+that  the ultimate bearer  of full residual  risk of the bank's  failure  is the
+federal  government,  rather  than  private  shareholders  shielded by limited
+liability.59
+This creates a puzzling inconsistency in our commonly  accepted view
+of the  business  world.  Corporate  law  generally  identifies  stockholders'
+equity with residual risk-bearing and accepts the intuitively just principle of
+reserving  voting  and  management  rights  in  a  particular  enterprise  to
+shareholders  most exposed to the risk of its failure.  The intuition behind
+this  principle  is  that  shareholders  should  be  able  to  take  preventative
+measures  lowering their  risk of loss.  However,  the  government-as  the
+bearer  of the  most  residual  risk  of bank  failure,  including  its  systemic
+consequences-does  not have  any such  rights in privately owned banks.
+Neither the difficulty of quantifying the magnitude of potential public loss
+on  a  bank's  balance  sheet  nor  the  general  availability  of  regulatory
+protections  justifies  this  presumptive  denial  of  the  government's
+entitlement  to  lower  its  risk through  direct participation  in the  bank's
+management,  in  accordance  with the  basic  tenets  of corporate  law  and
+governance. 60  On  the  contrary,  a  conceptually  coherent  way  to  prevent
+socialization  of losses  and  privatization  of gains  in  the  banking  sector
+58.  See Anna Gelpern, Common Capital: A Thought Experiment in Cross-BorderR esolution, 49
+TEX. INT'L L.J. 355, 356 (2014). According to Gelpern,
+Like the public-policy functions,  government commitments permeate the bank balance
+sheet. Central-bank liquidity support, deposit insurance, regulatory valuation of assets and
+liabilities, and resolution procedures all represent government commitments that shape the
+way in which a bank does business.
+Other  kinds  of firms-hospitals,  farming  cooperatives,  nuclear  power  plants,  and
+insurance  companies-might deliver public goods, receive public  support, be subject to
+intrusive regulation,  or all of the above.  Banks are extreme in two ways. First, a bank's
+balance sheet is its policy work, most plainly visible in the combination of demand deposits
+(money issuance) and long-term loans (credit allocation). A hospital's financial structure is
+at best indirectly relevant to  its impact on public health.  Second, the number  of policy
+functions and government commitments on a private bank's balance sheet is high compared
+to just about any other enterprise. Governments direct, value, or underwrite virtually every
+line of the bank balance sheet.
+Id. (emphasis omitted).
+59.  The same dynamics of support operate  outside the realm of the formal banking system,
+where the public subsidy takes on a more implicit form. See The FinanceF ranchise, supra note 53.
+60.  See infra notes 71-72 and accompanying text.2017] Bank Governance and Systemic Stability 1043
+would be to restore the natural connection between risk and control.61 Since
+it is unrealistic to expect private financial firms to internalize systemic risks
+they pose,62  the only logical solution is to formalize the public's residual-
+risk-bearing role by granting it direct control rights in such firms.
+Recognizing  the public's  de  facto  equity-like  risk-bearing  stake  on
+banks' balance sheets opens up new possibilities for preventing banks from
+engaging  in  systemically  risky behavior.  Instead of trying to  stretch  the
+limits  of  the  existing  corporate  governance  rules  to  solve  systemic
+problems they  are not designed to solve, we  can focus on creating more
+effective  mechanisms  that  would  put  on private  firms'  boards  a  public
+instrumentality directly charged with protecting the public's interests. This
+Article  explores  the  possibility  of  establishing  a  special  golden  share
+regime as one such alternative governance mechanism.
+II. THE GOLDEN SHARE MECHANISM:  SETTING THE STAGE
+This Part begins outlining a general  scheme for using the golden share
+device as a tool for safeguarding  long-term  stability  of the U.S.  financial
+system.  Given its far-reaching  effects  on the rights and responsibilities of
+principal stakeholders in financial firms, this new golden share mechanism
+will have to be created by an act of the U.S.  Congress.  This Part outlines
+the key substantive provisions of federal legislation, or the enabling statute,
+that  would  accomplish  that  goal.  The  focus  is  on the  nature,  purposes,
+jurisdictional  scope,  and  basic  "peacetime"  operation  of  the  proposed
+63
+regime.
+A.  The Concept of a Golden Share. Background
+In the context of government action,  the term  golden share  denotes a
+wide range of legal arrangements giving the government special, exclusive,
+and  nontransferable  corporate-governance  rights  in  privately  owned
+enterprises. It is an instrument "that gives the state a continuing power over
+certain  fundamental  corporate  decisions."6  Golden  shares  were  widely
+used in the 1980s during the global wave of privatizations  of state-owned
+61.  See Public Actors, supra note 13 at 164. See infra notes 71-72 and accompanying text.
+62.  See Armour & Gordon, supra note 46, at 44-64.
+63.  Parts II and III of this Article build and expand upon Public Actors, supra note 13, at 167-
+74.
+64.  Larry Cata Backer,  The Private Law of Public Law: Public Authorities as Shareholders,
+Golden Shares, Sovereign Wealth Funds, and the Public Law Element in Private Choice of Law, 82
+TuL. L. REv. 1801, 1806 n.12 (2008).1044 Alabama Law Review [Vol. 68:4:1029
+companies.65  Governments  used this mechanism to  (1)  ensure continuing
+national, as opposed to foreign, control over privatized companies deemed
+to be  strategically  important,  especially  in terms of the nation's  military
+and economic  security,66  or (2) minimize post-privatization disruptions of
+basic  social  services.67  The  key  perceived  benefit  of the  golden  share
+mechanism  was  its  flexibility  and  malleability,  which  allowed  for
+company-specific  adjustments.68  As  a  holder  of the  golden  share,  the
+government could have disproportionate  voting power with respect to the
+election  of  the  company's  directors  and  various  strategic  decisions
+affecting  the  operation  of the  company,  including  decisions  to  merge,
+dispose  of material  assets,  or  enter  or  discontinue  a  particular  line  of
+business.69 In effect, the golden share enabled governments "to monitor the
+ordinary commercial activity of a corporation."70
+This  ability  to  affect  directly  a  private  firm's  substantive  business
+decisions-without  holding  a  controlling  economic  equity  stake-is  a
+particularly  promising  feature  of the  golden  share  as  a  potential  new
+mechanism  for preventing  systemic  financial shocks.  The  latest financial
+crisis  underscored  the  danger  of  overreliance  on  private  financial
+institutions'  internal risk management  and individually  rational  decision-
+making  to  ensure  systemic  stability.  Formal  regulatory  oversight  of
+financial  institutions'  activities,  at  least  in  its  current  form,  also  has
+significant  limitations,  especially  given  the  pervasiveness  of regulatory
+arbitrage and the increasing complexity  and opacity of financial products
+and transactions.71  As market "outsiders," financial regulators perennially
+65.  When  Margaret  Thatcher's  conservative government  privatized  large and economically
+significant British enterprises-including Britoil, Aerospace, British Telecom, and Jaguar-it retained a
+golden share in each of these companies, which allowed the government to out-vote other shareholders.
+Andrei A.  Baev, Is There a Niche for the State in Corporate Governance? Securitization of State-
+Owned Enterprises and New Forms of State Ownership, 18 HOUS.  J. INT'L L.  1, 20-22  (1995).
+Governments  of France, Turkey, Israel, and post-communist countries in Eastern and Central Europe
+followed the British example by reserving a variety of special corporate-governance  and super-voting
+rights in privatized firms. See id; Alice Pezard, The Golden Share ofPrivatizedC  ompanies, 21 BROOK.
+J. INT'L L. 85 (1995).
+66.  See Pezard, supra note 65, at 86-87. Many European governments used their golden shares
+to block foreign acquisitions of corporate control in strategically important domestic firms. In a series
+of cases decided between  2000 and 2007,  the European Court of Justice invalidated the use of the
+golden share for such protectionist purposes as restricting the free movement of capital in violation of
+the EU law. See Backer, supran ote 64; Christine O'Grady Putek, Limited But Not Lost: A Comment on
+the ECJ's Golden Share Decisions, 72 FORDHAM L. REv. 2219 (2004).
+67.  See Baev, supra note 65, at 36-38.
+68.  See  Stefan Grundmann & Florian M6slein,  Golden Shares-State Control in Privatised
+Companies: Comparative Law, European Law and Policy Aspects, 2001 EuR. BANKING & FIN. L. J.
+623.
+69.  See Baev, supra note 65, at 23-27.
+70.  Id. at 27.
+71.  For a discussion  of the role  complexity plays  in reducing  the efficacy of the current
+regulatory regime, see, for example,  Saule T.  Omarova, License To Deal: Mandatory Approval of2017] Bank Governance and Systemic Stability 1045
+lag behind private market participants in their ability to access and process
+vital market  information,  and their ability to  act is inherently limited  by
+various jurisdictional  constraints.72  By  contrast,  giving the government a
+direct  equity  stake  with  special  management  rights  in  financial-service
+firms-that  is,  making  the  government  a  firm  insider-would  remove
+many of these legal and informational  obstacles. As a special  shareholder
+with  uniquely  tailored  rights,  the  government  would  acquire  the  new
+capacity  to  take  speedy  and  effective  action  necessary  to  counteract
+socially harmful, and thus irrational, effects of pure market rationality.
+Without a  doubt,  the  very idea of making  the  federal  government  a
+direct equity owner  in private  financial firms is likely to attract familiar
+criticisms  as being too radical,  unworkable,  or even  dangerous.  Some  of
+these  criticisms  may  be  simply  variations  on  the  familiar  themes  in
+reactionary rhetoric, so brilliantly described by Albert Hirschman.73  At the
+same time, much like any innovative approach, this proposal poses a range
+of legitimately complex questions of legal doctrine, administrative  design,
+and economic practicality.  Without claiming to offer complete answers to
+all of those questions, this Article outlines the general contours of how we
+could potentially repurpose the golden share mechanism in order to ensure
+systemic financial stability and minimize the likelihood of financial crises.
+B.  SGS Basics: Substantive Mandate; Key Definitions
+The main operative provision of the federal statute establishing the new
+regime will mandate issuance by each "covered  entity" of a single share of
+a  special  class-"state  golden  share"  or "special  government  share"  (in
+either case, SGS)-to be beneficially and legally owned, exclusively and at
+all times, by the federal government in its capacity as  the "SGS Holder."
+Statutory definitions of these terms form the basic operational  framework
+for the proposed scheme.
+1.  Covered Entity
+The  definition  of  covered  entity  is  essential  to  determining  the
+jurisdictional  scope of the SGS  regime. As a matter of regime design, the
+initial  choice is between (1)  a broad base definition followed  by specific
+carve-outs  for certain types of financial institutions, and (2) a narrow, more
+Complex Financial Products, 90 WASH. U. L.  REv.  63 (2012).  See also Dan Awrey,  Complexity,
+Innovation, and the Regulation ofModern FinancialM arkets, 2 HARv. Bus. L. REv. 235 (2012).
+72.  See Saule T. Omarova, Wall Street as Community of Fate: Toward FinancialI ndustry Self-
+Regulation, 159 U. PA. L. REv. 411, 431-38 (2011).
+73.  See  ALBERT  0.  HiRsCHMAN,  THE  RHETORIC  OF  REACTION:  PERVERSITY,  FUTILITY,
+JEOPARDY 7 (1991).1046 Alabama Law Review [Vol. 68:4:1029
+targeted definition, coupled with an explicit grant of regulatory  discretion
+to broaden it in certain circumstances.
+Under  the  first  option,  the  statute  will  define  covered entity very
+broadly, to include, for example, all financial institutions identified by their
+regulatory  status  as  FDIC-insured  depository  institutions,  bank  holding
+companies,  securities  broker-dealers,  and  so  on.  To  ensure  that  the
+definition does not inadvertently  leave out other financial institutions,  the
+statutory definition of covered entity could include a catch-all category of
+firms whose business activities are "predominantly  financial" in nature-a
+familiar  technique  in  U.S.  laws  governing  financial  institutions. 4  The
+statute could even  simply define  covered entity as  any entity  engaged in
+financial  or  "predominantly  financial"  in  nature  activities,  without  a
+reference to its regulatory status.
+The main virtue of a broad definition  of covered entity is its relative
+simplicity and the lower likelihood of leaving significant jurisdictional gaps
+in the regime. Its main drawbacks, however, are potential overinclusiveness
+and  difficulty of administering in practice.  The broader the jurisdictional
+scope of the SGS  regime, and the greater the number and variety of firms
+subject to it, the more resource-intensive  its practical implementation  and
+enforcement are likely to be. To avoid potential inefficiencies of this kind,
+it will be necessary  to supplement the general  definition with a carefully
+crafted list of statutory  exemptions.  In effect,  opting in favor of a broad
+default category of covered entity will push difficult line-drawing decisions
+into the exemption-drafting exercise.
+For a more targeted application of the proposed regime, Congress may
+start with a narrowly drawn base definition of covered entity. For example,
+the new regime could be explicitly limited only to SIFIs. The statute could
+either (1)  enumerate  the criteria for determining  systemic  significance  of
+any financial firm for the purposes of the SGS regime, or (2) incorporate by
+reference a particular definition of the concept under some existing law or
+regulation.  Congress could also delegate the power to designate individual
+entities  as  systemically  significant  for the purposes  of the  statute  to the
+regulators.75
+74.  Financial laws and regulations often define the universe of firms subject to a particular set of
+rules  by focusing on the nature of their primary business as  financial service  providers. There are
+various formulations of the nature-of-activities requirement ("substantially" financial, "predominantly"
+financial, etc.) and the specific criteria for determining whether a firm meets it. Typically, the rules
+focus on the composition of the company's total consolidated assets, revenues, and income. See, e.g., 12
+U.S.C.  § 5311(a) (2012).
+75.  Under the Dodd-Frank regime, the Financial  Stability Oversight Council (FSOC) has the
+authority to designate a nonbank financial institution as a SIFI, which would make FSOC the natural
+candidate for the same task with respect to the SGS regime. See, e.g., Authority to Require Supervision
+and Regulation of Certain Nonbank Financial Companies, 77 Fed. Reg. 21,637, 21,637-62 (Apr.  11,
+2012) (to be codified at 12 C.F.R. pt. 1310).2017] Bank Governance and Systemic Stability 1047
+The main benefit of this approach is that it would allow the government
+to concentrate  its  efforts only  on firms  determined  to pose  real risks  to
+systemic stability. To the extent that going this definitional route will likely
+lower both the number of covered entities and the degree of variety among
+their business and risk profiles, it should render the new regime potentially
+easier  to  implement  and  administer.  At  the  same  time,  however,  the
+practical  efficacy  of  a  SGS  scheme  targeting  specifically  SIFIs  will
+ultimately depend on the accuracy of that notoriously difficult judgment.76
+More generally,  potential underinclusiveness  is the principal drawback of
+this approach.  To counter  that danger,  the statute may have to allow for
+some  form  of regulatory  discretion  to  expand  the  universe  of covered
+entities beyond the narrowly defined base category.
+Regardless  of  the  chosen  definitional  approach,  the  statute  should
+specify  how  it  would  treat  large,  diversified  financial  conglomerates
+combining  numerous regulated  financial intermediaries  within a complex
+holding  company  structure.  For  the  proposed  regime  to  have  any  real
+systemic effect,  it is critical that the government hold the golden share, or
+SGS,  in  the top-level  holding  company,  where  all  strategic  group-wide
+decisions are typically made  and all group-wide data are aggregated  and
+assessed. To avoid unnecessary duplication, it may make sense not to hold
+golden shares in subsidiaries of the same holding company. This approach
+may also be preferable  as a scope-limiting  device because  it is based on
+organizational  criteria  rather  than  the  qualitatively  complex  SIFI
+determination.  If this approach is taken, however, it would be necessary to
+draft the statute and implementing regulations to preclude  entity arbitrage
+designed  to  shift  strategic  information-gathering  and  decision-making
+functions into corporate layers below the top parent company.
+2.  SGS and SGS Holder
+Technically,  terms like SGS and SGS Holder can be defined simply by
+reference to the exclusive rights associated with that instrument, as set forth
+in  the  core  substantive  provisions  of the  statute.  In  that  sense,  these
+statutory  terms  are  fundamentally  derivative  concepts  that  can  be
+76.  To date, FSOC has made only a few such official determinations, and MetLife, Inc.'s lawsuit
+against FSOC underscores  how deeply politicized  this process  can be.  See Andrew M. Harris &
+Katherine  Chiglinsky, MetLife Judge Called FSOC Review Process 'Fatally Flawed,' BLOOMBERG
+(Apr.  7,  2016),  http://www.bloomberg.com/news/articles/2016-04-07/metlife-judge-found-fault-with-
+fsoc-too-big-to-fail-review.
+77.  This raises an additional question of which government instrumentality should be authorized
+to exercise such discretion: FSOC, the SGS Holder, or some other regulatory body. For a discussion of
+this and other issues of regime administration, see infra Part IV.1048 Alabama Law Review [Vol. 68*1029
+understood  only through  an examination  of how the  SGS  mechanism  is
+intended to function.78
+The  core  substantive  element  of the  proposed  SGS  regime  is  the
+statutory delineation of the specific rights and obligations of the holder of
+the golden  share, or SGS.  Because SGS  is a federally created instrument,
+its terms do not have to comply  with the requirements  of state corporate
+law,  and its holder's rights  and  obligations can be vastly  different  from
+those  of a regular corporate shareholder.  At the same time, however, the
+proposed regime does not seek to convert any firm into a nationalized state-
+run enterprise. Therefore, the greatest challenge in designing the SGS is to
+find a proper balance of public and private interests within the context of a
+functioning economic enterprise.
+In principle,  the SGS  is envisioned here as  a dynamic mechanism,  a
+sliding scale  of management-and,  under  some  circumstances,  possibly
+some economic-rights triggered by specified events. The SGS  should be
+viewed as  a form of conditional  (as opposed to absolute),  temporary  (as
+opposed  to  permanent),  and  calibrated  (as  opposed  to  uniformly
+predetermined)  government  control  over  the  relevant  covered  entity's
+internal governance.  To appreciate  in full these essential  attributes of the
+SGS regime, it is helpful to examine potential mechanics of its operation in
+each  of its two principal  modes:  the passive  "peacetime"  mode  and the
+active "emergency" mode.
+C.  The SGS Mechanism: The Passive Mode
+Unlike  conventional  shareholders,  the SGS Holder would not have to
+make a capital contribution in exchange for its golden share and, generally,
+would not receive  any  dividends  or  distributions.  The  SGS  can have  a
+nominal value of $1.00,  at which it would be carried on the covered entity's
+balance  sheet.  Except  as  may  be provided  in  the  enabling  statute,  this
+nominally  valued  instrument  would  not  entitle  the  government  to  any
+economic rights of a conventional  shareholder,  such as the right to receive
+dividends  or  distributions.  This  important  feature  distinguishes  the
+proposed SGS mechanism from the more familiar instances of government
+acquiring  control  through purchase  of a  majority  equity  stake  in a  firm.
+Structuring the SGS as primarily,  if not exclusively,  a control instrument
+underscores  its  quasi-regulatory  nature  and  highlights  the government's
+role as a collective actor seeking to resolve certain market dysfunctions, as
+opposed  to  seeking  pecuniary  gains.  However,  if the  government  later
+78.  A related but more complex issue of which specific government instrumentality will act as
+the SGS Holder with respect to all covered entities is discussed infra Part IV.A.2017] Bank Governance and Systemic Stability 1049
+deems necessary to contribute capital to a covered entity, it could receive
+statutorily specified economic rights.79
+Unless and until one or more of the specified triggering events happen,
+the SGS  is meant to remain largely a passive instrument. In this "normal"
+period of dormancy,  the SGS  Holder would not be expected or entitled to
+exercise  any  direct  management  rights  in the  firm.  Its rights  would  be
+primarily  informational  and  representational  in  nature.  It  is  crucial,
+however, that the SGS  give  its holder a broad right  of direct and timely
+access to the firm's internal information.
+This,  of course,  raises  the  issue  of balancing private  firms'  right to
+preserve,  within  reasonable  limits,  confidentiality  of  their  business
+information against the government's right to know what it needs to know
+to protect the public from financial harm. Finding  a workable balance  of
+these two interests is by no means a simple task, but it may not be quite as
+difficult  as  financial  institutions  would  like  us  to  think.  Financial
+institutions zealously guard their "proprietary" information, partly because
+they fear that competitors would copy or otherwise  thwart their trading or
+investment  strategies,  and partly because opacity  and complexity  of their
+"branded"  financial products effectively allow these institutions to extract
+monopoly rents.80 However, the public interest here is compelling enough
+to  be  given  a  greater  weight  vis-i-vis  this  competitive  obsession  with
+secrecy.  The private firms' interest, while subordinated in principle to the
+public  interest,  can  be  reasonably  protected  through  carefully  designed
+procedural mechanisms limiting the SGS Holder's ability to use or disclose
+particularly sensitive  trade information to other market participants. Thus,
+financial  regulators  routinely  collect  and  review  confidential  firm
+information,  and financial institutions  themselves are routinely managing
+various  internal  informational  walls  mandated  by  regulation.  The
+accumulated  private  and  public  arsenal  of  information-management
+techniques  is a good starting point for crafting procedural  confidentiality-
+protection rules under the SGS regime.
+To perform its key informational  and representational  roles, the  SGS
+Holder must have permanent representation on the covered entity's board
+of directors.  The  enabling  statute will need  to  mandate  such permanent
+representation  and  then delineate  the  rights  and  duties  of special  SGS-
+79.  For potential methods of calculating the government's economic interest in such cases, see,
+for example, Jeffrey Maims, Building Better Bailouts: The Casef or a Long-Term Investment Approach,
+63 FLA. L. REv. 1349, 1383-97 (2011).
+80.  For an explanation of this phenomenon of "strategic complexity," see Awrey, supran ote 71,
+at 262-67 (2012); Omarova, supran ote 71, at 68-75.
+81.  It is also subject to doubt how much "trade secrecy" there really is  in the markets for
+financial products, especially given the constant cross-pollination of financial  institutions' personnel
+and clientele.1050 Alabama Law Review [Vol. 68:4:1029
+appointed directors (SGS  directors),  in line with the overarching objectives
+of the SGS regime.
+A few basic considerations are worth emphasizing here.
+The statutory notion of an SGS director is fundamentally different from
+the familiar corporate law device of an "independent" director. Independent
+directors  are  private  parties  appointed  by  shareholders  and  afforded  a
+special place in the traditional  corporate governance  structure  because of
+their presumed neutrality and objectivity, primarily inferred from their lack
+of direct financial interest in the firm. State and federal laws often mandate
+a specific number of such presumably more reliable independent directors
+to be appointed to boards  or to specific board committees.82  Yet, it is not
+entirely  clear  to  what  extent  the  appointment  of independent  directors
+improves  the  dynamics  and  outcomes  of corporate  decision-making  in
+practice.83  Ultimately,  independent  directors still owe  a fiduciary  duty to
+the corporation and its shareholders  and are subject to the same  standards
+of care and loyalty as insider directors.84
+By contrast,  SGS directors are representatives of the U.S.  government
+(and employees  of the federal  entity  that  acts  as  the  SGS  Holder).  The
+statute would specify that their primary fiduciary duties run explicitly to the
+taxpaying  American  public.  The  specific  number  of  individual  SGS
+directors  to  be  appointed  in  any  particular  case  would  depend  on the
+individual profile, size,  and other relevant circumstances  of each covered
+entity. The statutory goal here is not to have a majority-or even a "critical
+mass"--of  government-appointed  directors  on the  board  but  to  have  a
+special class of  directors  with  special  class-specific  rights  that,  under
+certain circumstances, may override purely numeric voting outcomes.
+In this respect,  it is critical to grant  SGS  directors enhanced rights to
+request any additional information from the firm's management or agents,
+if necessary to enable them to fulfill their duties.85  Importantly, the statute
+should  expressly prohibit covered  entities  from taking  any action whose
+intended  or unintended  effect  would be to  limit SGS  directors'  access to
+information or participation in the decision-making process.
+It  may  also  be  desirable  to  grant  SGS  directors  certain  "baseline"
+special voting rights that remain in effect at all times, even when the SGS is
+otherwise "dormant."  As discussed above, one of the defining features  of
+the traditional golden share mechanism is the special supermajority voting
+power  that  effectively  allows  the  government  shareholder  to  veto  any
+82.  See Karmel, supra note 45.
+83.  Id.
+84.  See supra Part I.A.
+85.  To the extent the SGS directors are "insiders" of the relevant firm, the firm's lawyers' duty
+of confidentiality should not prevent them from providing requested information to the firm's SGS
+directors. To strengthen this point, the SGS statute could include a specific provision to this effect.2017] Bank Governance and Systemic Stability 1051
+corporate decision involving matters of special public policy concern.6 In a
+similar vein,  the SGS  statute may require  the  SGS  directors'  affirmative
+approval  of certain  important corporate  decisions that  potentially have  a
+bearing on matters related to systemic financial stability. For example, the
+SGS  directors'  approval could be required whenever the covered entity's
+board of directors approves the management's strategic business plan or the
+firm's  risk  management  policy,  approves  an  executive  compensation
+program, or appoints external auditors.7
+To  ensure  the  SGS  directors'  continuous  access  to  vital  intrafirm
+information and to enhance their practical ability to exercise their decision-
+making  rights in a meaningful manner, it would be advisable  to mandate
+that  the  SGS  directors  have  designated  seats  on the  Risk Management
+Committee and the Audit Committee of the relevant covered entity's board
+of directors. Being a member of these particular committees is the best and
+fastest way for the  SGS  directors  to gain  a  deeper understanding  of the
+firm's business  and overall risk culture.  The knowledge  acquired  in this
+process  would  be  an  invaluable  asset  to  the  SGS  directors  in  the
+performance of their statutory duties.
+In short, the principal function of SGS directors is to be our collective
+eyes  and  ears  on  financial  institutions'  boards,  the  embodiment  of the
+government-as-market-actor  striving to correct private markets' potentially
+destabilizing and socially destructive  "natural" tendencies.88  Furthermore,
+adding SGS directors to covered entities' boards is likely to have a deeply
+transformational  impact  on  these  entities'  key  internal  processes  and
+norms. Among other things, it is reasonable  to expect that their watchful
+presence and explicitly systemic perspective  would  significantly improve
+boardroom  dynamics  and  alter  the balance  of power  between  financial
+firms'  boards of directors and managers.  It is difficult to overestimate the
+importance  of this factor  for  altering  banks'  and  other  SIFIs'  currently
+prevailing-and problematic-risk culture in publicly beneficial ways.89
+In order to deliver these intended benefits, however,  the SGS  regime
+must introduce  a  sufficiently  strong  incentive  for  financial  firms to take
+their  SGS  directors  seriously  even  when the  latter  are performing  their
+passive peacetime duties. The most powerful incentive in this respect is the
+threat of triggering the SGS  Holder's special rights as the firm's manager
+of last resort.
+86.  See supra notes 66-70 and accompanying text.
+87.  It is important to build some flexibility into this framework, giving the government entity
+acting as  SGS Holder the necessary discretion to determine  which matters are significant enough to
+require SGS directors' review and pre-approval, based on a particular covered entity's business/risk
+profile, systemic footprint, or any other relevant considerations.
+88.  See supra Part I.B.
+89.  See supra note 7 and accompanying text.1052 Alabama Law Review [Vol. 68:4:1029
+III. THE GOLDEN SHARE IN ACTION: THE "MANAGER OF LAST RESORT"
+This Part focuses on the operation of the proposed SGS  regime in its
+"active" mode, when certain firm-specific  or systemic factors necessitate a
+shift in the principal role of the SGS Holder from that of an observer to that
+of an emergency manager of the covered entity.
+A.  Activating SGS:  TriggeringE  vents
+The  occurrence  of specified  events  would  trigger  additional  special
+rights  of the  SGS  Holder.  In  effect,  statutory  "triggering"  events  would
+activate the  SGS  Holder's  direct management  rights,  shifting  the  entire
+mechanism  from its  relatively  passive  peacetime  state  into  the  actively
+participatory  "high-alert"  phase.  While  this Article  does  not  purport  to
+provide a precise list of statutory triggers and corresponding  SGS rights, it
+is helpful to outline some of the potentially relevant considerations.
+As  a  general  matter,  statutory  SGS  triggers  should  be  tied  to  the
+regime's main policy objective: preserving systemic financial stability and
+preventing excessive accumulations of systemic risk in the financial sector.
+Therefore,  special  management  rights  of  the  SGS  Holder  should  be
+activated in response to  certain internal  and external  signals indicating  a
+potentially  greater  likelihood  of increasing  systemic  risk  or  instability.
+Some of the familiar regulatory and supervisory  metrics-such as capital
+adequacy  levels,  supervisory ratings,  or stress  test results-can  serve  as
+proxies  for triggering additional  SGS  rights.90 Another category  of firm-
+specific SGS triggers would encompass significant weaknesses or lapses in
+a covered entity's legal and regulatory compliance,  financial reporting, or
+internal  risk management-particularly  if not  uncovered,  reported,  and
+preventatively corrected internally.91
+90.  Incorporating these firm-specific metrics into the SGS regime would necessitate establishing
+regular  channels  of communication  and  coordination-as  well  as  clearly  delineated  spheres  of
+jurisdictional authority-between the SGS Holder and state and federal financial regulators. See infra
+Part W.A.
+91.  Obvious  cases  of  legal  misconduct  or  regulatory  violation-such  as,  for  example,
+participation in a price-rigging scheme or fraudulent accounting practices-would trigger the additional
+SGS rights.  Real-life  examples of such  instances include  scandals involving  LIBOR and  foreign
+exchange  rates  manipulation,  as  well  as  "robo-signing"  and  other  illegal  home-loan  foreclosure
+practices of large U.S. banks. Under the proposed regime, a particular firm implicated in, or subject to
+investigation in connection with, any such scandal would risk immediate triggering of additional SGS
+management rights. However, the SGS rights may also be triggered in response to a series of less
+egregious violations that may nevertheless indicate a troublesome pattern of the management's failure
+to ensure compliance with laws and regulations. An example of such a pattern is Citigroup's infamous
+string of regulatory failures in 2004-2005, which led the Federal Reserve  to impose a temporary
+moratorium on the company's acquisitions. See Arthur E. Wilmarth, Jr., Citigroup: A Case Study in
+Manageriala nd RegulatoryF ailures,4 7 IND. L. REv. 69, 71 (2014).2017] Bank Governance and Systemic Stability 1053
+Another  critically  important,  while  also  difficult  to  define  with
+precision, group of SGS  triggers would include signs of certain troubling
+trends  in  a particular  covered  entity's business  strategy  and  overall  risk
+appetite.  For example,  in a proposed  scheme,  special SGS  rights can be
+triggered by a potentially  problematic shift in a covered  entity's business
+and risk profile, as a result of either acquisition-driven growth or internally
+driven changes  in  the composition  or nature  of its assets  and  liabilities.
+Some of the potential indicators here may include a sudden or rapid growth
+of particular asset categories in a covered entity's or its key subsidiaries'
+portfolios  (e.g.,  certain  types  of  asset-backed  securities  or  physical
+commodities),  a discernible increase in the volume  or riskiness of certain
+types of off-balance-sheet transactions (e.g., credit default swaps), or rising
+levels or changing tenor of the company's or its key subsidiaries' liabilities
+(e.g.,  increased reliance  on borrowing  in wholesale  securities  repurchase
+markets).
+Size-related  metrics may be  particularly  useful as  potential  triggers.
+Size  remains  one  of the  key  factors  determining  the  level  of systemic
+significance  of an  individual  financial  institution.92  Therefore,  it would
+make  sense to  condition  the  scope  of the  SGS  Holder's  systemic  risk-
+minimizing  powers  on the  size  of a  covered  entity,  measured  either in
+absolute  (a specific quantitative  threshold) or relative terms (e.g.,  market
+share or rate of increase in size over a certain period of time). The logic is
+simple: the bigger the firm, the bigger its systemic footprint, the higher the
+potential public costs  of its failure-and so the greater the need to have
+direct public  say in its affairs.  Accordingly,  an absolute quantitative  size
+trigger should be set at the level that would automatically pick up all of the
+existing large financial groups that are potentially "too big to fail" (TBTF).
+SGS  Holder's  broader and more  direct  powers  over the  management  of
+TBTF firms would function, in part, as a substitute for weakened external
+market discipline and, in part, as a corrective internal systemic-vision lens.
+Moreover, the threat of potentially very intrusive governmental "meddling"
+in  large  firms'  internal  business  affairs  may  operate  as  a  significant
+deterrent against becoming TBTF.
+In addition to firm-specific  triggers, it is important to ensure that the
+SGS  mechanism is responsive  to external  signals  of potentially  troubling
+systemic  imbalances  of vulnerabilities  in  the  financial  markets.  Thus,
+enhanced SGS rights might be triggered simultaneously  across all covered
+92.  Thus, under the Dodd-Frank Act and implementing regulations, financial institutions with
+more than $50 billion in total consolidated assets are generally presumed to be systemically important.
+Nonbanking  financial  companies  that meet this  size threshold  are  further evaluated  for systemic
+significance based on a mix of quantitative  and qualitative  criteria. See, e.g., Authority to Require
+Supervision  and Regulation of Certain Nonbank Financial Companies,  77 Fed. Reg. 21,637, 21,659
+(Apr. 11, 2012) (to be codified at 12 C.F.R. pt. 1310).1054 Alabama Law Review [Vol. 68:4:1029
+entities--or their relevant subset-by sudden accelerations in credit growth
+across the financial system, which may indicate excessive  buildup of risk
+and  leverage  feeding  a speculative  asset bubble.  The  government  could
+arrest this potentially destabilizing systemic trend by exercising  its special
+SGS  rights  to  either veto  or  slow  down  certain  kinds  of lending  and
+borrowing activities pursued by individual covered entities. For example, in
+the context of a nascent system-wide credit bubble, the SGS  Holder could
+demand that individual covered entities raise more equity as a condition to
+continuing their lending activities-a demand that could also be framed as
+a conditional promise to refrain from exercising the SGS Holder's relevant
+veto  rights.  This  would,  in  effect,  function  as  an  internal  governance
+mechanism for so-called dynamic provisioning, or building countercyclical
+capital  buffers  at  financial  firms:  when  the  credit  is  plentiful  and  the
+economy is in an expansionary mode, financial institutions would be forced
+to  reduce  their  leverage.93  Building  external  triggers  into  the  SGS
+mechanism,  therefore,  would  enhance  its  utility  as  an  important
+complement to the government's efforts to preserve  systemic financial and
+economic stability through regulation.
+In general,  defining  and applying  SGS  triggers is a challenging  and
+highly context-specific  exercise that requires an individualized assessment
+of all relevant factors.  It is, therefore,  critical to allow the  SGS  Holder a
+significant degree of discretion  in deciding when exactly its special rights
+should be triggered,  and how exactly they should be used.  Of course, this
+grant  of discretion  must  be  carefully  contained  to  ensure  there  is  a
+sufficient degree  of public accountability.94 The enabling statute will need
+to provide both a clear normative basis for the exercise of discretion and a
+robust  procedural  framework  for  making  entity-specific  SGS  trigger
+determinations.
+As a  normative  matter, unambiguously  articulating  in  the statute the
+key policy  goals  that  the  SGS  regime  is designed  to  serve-preserving
+long-term  stability of the U.S.  financial  system and preventing potentially
+destabilizing accumulation of risk in the financial sector- would go a long
+way toward  establishing  guidelines  for  the exercise  of discretion by  the
+SGS  Holder.  Due  to  the  inherent  difficulty  of  correct  and  timely
+recognition  and  interpretation  of market  signals,  it is  also  important  to
+introduce  an  explicitly  precautionary  principle  into  this  exercise.95
+Although adopting a precautionary  stance may result in less precise, blunter
+criteria  for  triggering  additional  SGS  rights,  an  alternative  approach
+93.  For  a discussion  of countercyclical  capital buffers,  see Brett H.  McDonnell, Designing
+Countercyclical CapitalB uffers, 18 N.C. BANKING INST. 123 (2013).
+94.  For a discussion of some such accountability mechanisms, see infra Part IV.B.
+95.  For a discussion of the role of precautionary principle in financial services regulation, see
+Hilary J. Allen, A New Philosophyf or FinancialS tability Regulation, 45 LoY. U. CI. L.J. 173 (2013).2017]1 Bank Governance and Systemic Stability 1055
+advocating  a tightly  limited  statutory  definition  of each  SGS  triggering
+event-and, thus,  prospectively  limiting the  circumstances  in which  the
+government  can  exercise  its  full  SGS  rights-potentially  threatens  to
+undermine the efficacy of the SGS mechanism.
+As a procedural matter, the statute could enumerate the key factors that
+the  SGS  Holder either "must"  or "may"  take into  account  in making its
+determination  that a  specific triggering  event had occurred.96  The  statute
+would  also  specify  basic  procedures  for internal  and  external  vetting  of
+such determinations.  Internal rules would specify the timing and format of
+the  intra-agency  process,  which  would  presumably  be  initiated by  the
+affected  firm's  SGS  directors  and  then  approved,  with  any  necessary
+modifications, by a special agency committee. Externally, the statute would
+specify the timing and nature of communication and coordination between
+the SGS Holder and other federal regulators-including,  most importantly,
+FSOC and the Federal Reserve. It is critical, however, that these procedural
+rules do not operate to  create undesirable  delays or otherwise  inhibit the
+SGS Holder's ability to take necessary actions.
+B.  The SGS Mechanism: The Active Mode
+So,  what are  some of these special  SGS  rights that  are  triggered by
+these various  events?  Essentially,  a triggering  event  ends  the passive  or
+"dormant" state of the SGS and shifts it into the active or high-alert mode,
+in response to firm-specific  or market-wide signals of potential increase in
+the level of systemic risk. At that point, the government essentially assumes
+its (temporary) new role as the manager of last resort.
+In this active mode,  the  SGS Holder would  have broad veto powers
+allowing it to block any decision by a covered entity's board of directors or
+shareholders.  This  broad statement  of the  SGS  veto right  is based  on a
+common  sense  understanding  that  the  government  should  not-and,
+realistically,  is  highly  unlikely  to-exercise  its  broad  veto  rights
+indiscriminately.  The  idea behind this  broad  formulation  is  to  give  the
+government the necessary flexibility to take whatever measures are  called
+for under the circumstances.  To this end,  the statute would grant the SGS
+Holder an express right to call shareholder meetings and to propose specific
+agenda items for such meetings. The statute may also grant the SGS Holder
+supermajority  voting power,  but  only  with respect  to  matters  expressly
+96.  This is a well-established  method of providing  congressional guidance  to U.S.  financial
+regulators exercising their discretionary powers. See generally Hester Peirce, Economic Analysis by
+FederalF inancialR egulators, 9 J.L. ECON. & POL'Y 569 (2013).1056 Alabama Law Review [Vol. 68:4:1029
+determined  by  the  SGS  Holder  to  be  critically  important  for  the
+preservation of the long-term stability of the U.S.  financial system.97
+As  a  practical  matter,  the  SGS  Holder  will  exercise  its post-trigger
+rights through the relevant firm's serving SGS  director(s).  The occurrence
+of a statutory triggering  event, in effect, transforms the primary role of an
+SGS  director from that of an observer, monitor, and provider of a systemic
+perspective-for the most part, remaining in the background-to that of the
+key decision maker. At this stage,  the SGS  directors would take effective
+control of the board's actions. The precise extent, nature, and mechanisms
+of control would depend on the nature and severity of the SGS-triggering
+concerns and other relevant circumstances of each particular case.
+Generally,  however,  the SGS  directors would have a right to impose
+temporary  moratoria  on  shareholder  distributions  and  major  corporate
+transactions.  They  would  also  have  a  right  to  suspend  or  remove  any
+manager or officer of the firm.  The SGS  directors would be empowered
+to call special meetings of the board of directors and to propose specific
+agenda items or resolutions,  or both, for the board's vote.99 For instance,
+depending  on  the  circumstances  that  triggered  special  SGS  rights  with
+respect  to  a  particular  covered  entity,  the  SGS  directors  could propose
+board resolutions halting specific high-risk trading or investment activities,
+reducing  the  firm's risk exposure by  selling certain assets or unwinding
+trading  positions,  revising  internal  policies  and  procedures  governing
+activities in question, raising more equity and reducing the firm's leverage,
+suspending  or  replacing  individual  managers  or  executive  officers,  and
+engaging  outside  counsel  to  advise  the  firm  on  improving  its  internal
+regulatory compliance and risk management functions.
+If these  measures  prove  insufficient  to  resolve  and  prevent  likely
+recurrence of the firm's problems, the SGS directors could propose to the
+board a resolution mandating sale of certain subsidiaries or segments of the
+firm's business-a measure that could effectively break up a TBTF firm. If,
+on the  other hand,  the less drastic  corrective  measures work,  so that the
+degree of systemic risk posed by the covered entity's activities is reduced
+below the statutory trigger level, the SGS  should revert to the pre-trigger,
+97.  As is the case with the determination of the occurrence of a triggering event, the statute
+would have to establish certain substantive and procedural guidelines that the SGS Holder, or any of its
+agents, must follow in making the required determination of "critical importance." See supra notes 95-
+96 and accompanying text.
+98.  Depending on the nature or degree of egregiousness of misconduct, the SGS directors would
+have the right  to petition relevant regulatory authorities to  consider appropriate  sanctions  against
+individual managers or officers.
+99.  Again, it may be desirable to grant  the SGS  directors supermajority voting power with
+respect to matters expressly determined to be critically important for the preservation  of long-term
+stability of the U.S.  financial system,  as provided in the enabling statute.  See supra note  97 and
+accompanying text.2017] Bank Governance and Systemic Stability 1057
+dormant  state  and  the  SGS  directors  should  relinquish  their  special
+rights. 10
+To be able to discharge their newly elevated responsibilities, the SGS
+directors  should be  authorized  to make  certain  necessary  changes  in the
+covered  entity's  internal  organizational  structure.  That  includes,  for
+example, reordering the chain of command within the firm so that certain
+key  audit, legal, risk management,  compliance,  or any other personnel-
+including  managers of trading  desks  and other front  office operations-
+work  directly  with,  and  report  directly  to,  the  SGS  directors  or  their
+designated support staff.101 This "commandeering" of the firm's employees
+would  be easier to  achieve  if the SGS  directors establish  direct lines  of
+communication with certain key personnel during the pre-trigger dormant
+period.102
+It  is important  to  emphasize, however,  that  the ultimate  goal of the
+proposed regime is not to put the federal government in charge of private
+firms but, to the contrary, to minimize the need to trigger the SGS Holder's
+special  management  rights  in practice.  An  effective  SGS  regime  should
+create  strong  and  concrete  ex  ante  incentives  for the  covered  entities'
+shareholders,  directors,  and managers to act in a way that reduces, rather
+than  increases,  the  potential  negative  impact  of  their  firms'  business
+operations  on the  ability of the broader  financial  system to  support  and
+stimulate  real economic  growth.  An unambiguously  formulated threat  of
+drastically,  if only temporarily, limiting these traditional corporate  actors'
+control  over their firms'  business decisions would fundamentally  reshape
+the context in which covered entities raise  capital and make investments.
+Once investors have a strong incentive to price correctly the risk of an SGS
+triggering event into their valuations of a specific covered entity, it would
+put continuous pressure on the management to monitor and enforce proper
+internal risk tolerance  limits  at every  level of the firm. In that sense,  the
+100.  The  statute would have to establish special procedures and basic policy guidelines for
+making this necessarily context-specific  determination.  These special, enhanced SGS rights are not
+designed to give the government permanent control over management of a private financial services
+firm. The goal here is to enable the government to intervene into the affairs of a specific firm acting in a
+systemically harmful way, and do so at an early stage when internal corrections can still be made and
+control can be returned to its own management. To ensure that this control reversion doesn't happen
+prematurely, however, the SGS Holder's decision to put the SGS "back to sleep" would have to be
+supported, reasoned, and properly documented.
+101.  There are, of course, various questions regarding support staff for the SGS directors: who
+should be hiring them and paying their salaries, how many of them should be hired, etc. These are
+important but by no means critical details for present purposes.
+102.  It is reasonable to expect that, in performing their general monitoring duties, the SGS
+directors would build close working relationships with each covered entity's audit, legal, compliance,
+and risk management departments. In fact, the very presence of the SGS directors on the firm's board,
+even if in a relatively passive capacity, is likely to boost the relative power and independence of the
+firm's legal and regulatory compliance managers by giving them an external  source of support and
+often the necessary "cover" for their actions.1058 Alabama Law Review [Vol. 68:4:1029
+SGS  regime  would  perform  the  indispensable  role  of a  "well  oiled"
+"shotgun ...  behind  the  door,"'03  which  is  there  as  a  reminder  of the
+public's power to protect its legitimate interests-and to make the abstract
+notion of market discipline far more real than it currently is.'0
+IV. INSTITUTIONAL DESIGN: KEY CONSIDERATIONS
+One of the critical  factors  in determining potential  efficacy,  or even
+desirability,  of the proposed  SGS  mechanism is the  identity of the  SGS
+Holder and its place within the overall organizational structure of the U.S.
+government.  How much trust we, the taxpaying American public, put into
+the  new golden  share  mechanism  depends  greatly on who  exercises  the
+powers  it  creates-and  how  effective  that  entity  is  likely  to  be  in
+performing such an important and complex task.
+To  be  effective,  the  new  entity-the  SGS  Holder-would  have  to
+satisfy several key requirements.  First of all, the SGS  Holder has to have
+sufficient technical  expertise to be  able  to understand and manage  large
+financial  institutions.  Secondly,  it has  to  have  a  strong  sense  of public
+mission and be able to resist all forms of "capture" by private interests.105
+Finally,  the  SGS  Holder  has  to  be  sufficiently  insulated  from  political
+influence, while also publicly accountable for its actions.
+Designing a new regime that  successfully  meets  these standards  is a
+challenging task, but  it is neither new nor unique to this proposal.  Any
+attempt  to  establish  effective  public  oversight  of  financial  markets
+inevitably  raises  these  same  issues.  Not  surprisingly,  the  latest  crisis
+reinvigorated  scholarly  debate  on  potential  methods  of  reducing  the
+distortion of financial regulators' incentives as a result of undue influence
+of private interests.  Many proposed solutions focus on regulatory  agencies
+and  offer  ways  to  insulate  their  decision-making  from  direct  political
+interference  by  Congress  or a  presidential  administration,106  to  increase
+103.  William 0. Douglas, Reorganization of the New York Stock Exchange (May 20,1938), in
+DEMOCRACY AND FINANCE: THE ADDRESSES OF WILLIAM 0. DOUGLAS 82 (James Allen ed., 1969).
+104.  On the systematic failures of "market discipline" in the absence of an effective extra-market
+disciplining device, see generally Min, supran ote 1.
+105.  Regulatory  capture is a complex phenomenon that encompasses ideological,  or cultural,
+capture.  See,  e.g.,  James  Kwak,  Cultural Capture and the  Financial Crisis, in  PREVENTING
+REGULATORY CAPTURE: SPECIAL INTEREST INFLUENCE AND How To LIMIT IT 71 (Daniel Carpenter &
+David A. Moss eds., 2014) (introducing and examining the concept of "cultural capture" as a channel of
+improper  industry influence over financial  regulators); Simon Johnson,  The Quiet Coup, ATLANTIC
+(May  2009),  https://www.theatlantic.com/magazine/archive/2009/05/the-quiet-coup/307364/  (arguing
+that the financial  industry over time successfully shaped both technical and normative views of the
+regulators who came to share the industry's version of a public good).
+106.  See  Rachel  E. Barkow,  Insulating Agencies: Avoiding  Capture Through Institutional
+Design, 89 TEx. L. REV.  15 (2010); Lisa Schultz Bressman & Robert  B. Thompson,  The Future of
+Agency Independence, 63 VAND. L. REv. 599 (2010).2017] Bank Governance and Systemic Stability 1059
+transparency  of regulatory  decision-making  and agency  accountability,107
+to strengthen the agencies' internal  subject-matter  expertise by increasing
+compensation  of agency  employees  and  creating  an  elite  professional
+culture among  them,108  or to institutionalize  "contrarian"  thinking  inside
+regulatory  agencies.109  There  is,  therefore,  a  potentially  rich  source  of
+helpful ideas to inform the search for an optimal organizational  design for
+the SGS  regime-a task that lies beyond the scope of the current thought
+experiment.
+For present  purposes,  the  focus  is  on a  few  key  design  issues:  the
+choice of organizational  form of the SGS Holder; the new entity's place in
+the existing regulatory architecture; the source of funding for its activities;
+and potential ways of ensuring its public accountability.
+A.  OrganizationalC  hoices; Place in the Regulatory Structure
+With respect to  organizational  form,  there  are two principal options.
+First, Congress may choose to vest the SGS Holder responsibilities in one
+of the existing financial regulators, such as the Federal Reserve or FDIC.
+This approach may be attractive as a matter of logistics or politics, since it
+avoids  creating  a  brand  new  agency.  However,  adding  a  special-
+shareholder role  to  the  Federal  Reserve's  or FDIC's  existing  regulatory
+functions  could  create  at  least an  appearance  of significant  conflicts  of
+interest  and  potentially  undermine  credibility  and  efficacy  of the  SGS
+regime. Moreover, each existing agency's established culture, with its own
+internal peculiarities and  dysfunctions,  is  likely to "infect"  the new  SGS
+corps and dilute its emerging sense of mission.
+Alternatively, Congress may establish either a new federal agency or a
+federally  chartered  government  corporation-or  both-to  act  as  the
+exclusive  SGS  Holder  with  respect  to  all  covered  entities.  The  choice
+107.  Thus, one of the most heated postcrisis debates focused on the secretive nature of the
+Federal Reserve's  decision-making process.  See,  e.g., Lawrence G.  Baxter, "Capture" in Financial
+Regulation: Can We Channel It Toward the Common Good?, 21  CORNELL J.L. & PUB. POL'Y  175
+(2011).
+108.  See, e.g., Lawrence G. Baxter, Capture Nuances in FinancialR egulation, 47 WAKE FOREST
+L. REV. 537 (2012). The issue of compensation is extremely important in designing the SGS regime. To
+ensure that the new regime employs highly knowledgeable and capable individuals, they would have to
+be offered salaries comparable  to what they would get paid in the private  sector.  Purely from an
+organizational-design perspective, this factor works strongly in favor of structuring the SGS Holder as a
+federal  government  corporation  rather  than a  regulatory  agency.  Among  other  things,  specially
+chartered government corporations may be (and often are) exempt from the typical budgetary controls
+and statutory ceilings on employee compensation.  See KEVIN R. KOSAR, CONG.  RESEARCH.  SERV.,
+RL30365, FEDERAL GOVERNMENT CORPORATIONS:  AN  OVERVIEW (2011); KEVIN R. KOSAR, CONG.
+RESEARCH.  SERV.,  RL30533,  THE  QUASI  GOVERNMENT:  HYBRID  ORGANIZATIONS  WITH  BOTH
+GOVERNMENT AND PRIVATE SECTOR LEGAL CHARACTERISTICS (2011).
+109.  See Brett McDonnell & Daniel Schwarcz, Regulatory Contrarians,8 9 N.C. L. REV.  1629
+(2011).1060 Alabama Law Review [Vol. 68:4:1029
+between  a  federal  agency  and a  government  corporation  has  significant
+consequences. The U.S.  federal government has a long history of chartering
+special government corporations, many of which operate under a unique set
+of privileges and constraints.110 Potential flexibility with respect to crafting
+such  special  privileges  and  constraints  weighs  strongly  in  favor  of
+chartering the SGS Holder as a government corporation.11
+To enable  the new  entity to  perform  its functions  successfully,  it is
+important  to  structure  its  relationships  with other  financial  regulators-
+including  the  Federal  Reserve,  FDIC,  Office  of the  Comptroller  of the
+Currency,  Securities  and  Exchange  Commission,  Commodity  Futures
+Trading Commission, and the Consumer Financial Protection Bureau-in a
+carefully  balanced  manner.  On  the  one  hand,  the  SGS  Holder  must
+maintain  close  working  contact  with  the  relevant  regulatory  and
+supervisory  agencies,  especially  to  the extent  such  agencies  are  charged
+with systemic, macroprudential  oversight. Mutual information-sharing  and
+agency  coordination  are  indispensable  for  the  new  scheme  to  work
+effectively.11 2  In  addition to  regular  interagency  discussion  meetings,  it
+may be desirable to ensure the SGS Holder's ability to access supervisory
+information,  both on a firm-specific  and aggregate basis, upon request.  In
+particular,  SGS  directors  should  be able  to participate  in the process  of
+supervisory reviews, to the extent necessary,  and have separate channels of
+communication with the relevant firm's examiners.
+On the  other hand,  however,  the SGS  Holder cannot become  simply
+another  traditional  regulator-the  new  entity must  retain  its  distinctive
+110.  See Lebron v. Nat'l R.R. Passenger Corp., 513 U.S. 374 (1995)  (describing the history of
+Amtrak and other government-chartered  corporations).  For academic analyses of the functions and
+varied organizational  structures  of government corporations and quasi-governmental  entities, see A.
+Michael Froomkin, Reinventing the Government Corporation, 1995 U. ILL. L. REv. 543 (1995); Anne
+Joseph  O'Connell, Bureaucracy at the Boundary, 162  U. PA. L.  REv.  841  (2014);  Benjamin A.
+Templin,  The  Government Shareholder: Regulating Public Ownership of Private Enterprise, 62
+ADMIN. L. REV. 1127 (2010).
+111.  Among other things, this option would (1)  allow the SGS Holder to offer salaries in excess
+of the federal-employee compensation limits and, thus, attract and retain highly qualified personnel; (2)
+potentially free it from many of the formal constraints and requirements of the administrative process;
+(3) give it a greater degree of insulation from direct political pressure; and (4) encourage the emergence
+of a more focused and mission-oriented  institutional culture. See sources cited supra note 108. The
+principal downside of this option is the potential  loss of, or an ambiguity with respect to, federal
+immunity. To solve or preempt this problem, the SGS statute would have to include explicit provisions
+shielding the SGS Holder and individual SGS directors from potentially crippling shareholder suits. For
+a discussion of such provisions, see infra Part IV.B.
+112.  As discussed above,  regular and effective information-sharing and coordination with the
+regulatory  and  supervisory  agencies  are  particularly  important  in  facilitating  the  SGS  Holder's
+determination of whether a statutory triggering event has occurred with respect to a particular covered
+entity. See supra Part III.A.2017] Bank Governance and Systemic Stability 1061
+market-actor,  firm-insider  focus  and identity."3  The  SGS  Holder's  most
+significant decisions  should reflect  its primary  mission to act as  a direct
+stakeholder in a private firm, using internal levers of corporate governance
+to  achieve  the  public  goal  of  correcting  individual  firms'  potentially
+systemically  destabilizing behavior.  Even when other regulatory  agencies
+pursue  the  same  general  goal  of preventing  systemic  instability,  their
+typical  methods  and  general  posture  vis-d-vis  regulated  firms  are
+fundamentally  different.  The  SGS  Holder's decisions,  while informed by
+the relevant regulators'  actions and opinions, must nevertheless retain their
+"genetic  code"  as  market-driven  decisions,  especially  since  the  SGS
+Holder's  actions  aim  ultimately  at  preserving  the  market  from  self-
+destruction. Otherwise, not only the legitimacy' '4 but also the very efficacy
+of the SGS mechanism may be compromised."'
+For example, the SGS Holder's expanded role in the active post-trigger
+stage may be seen as excessively  overlapping  with the FDIC's and other
+bank  regulators'  rights  under  the  existing  regime  of prompt  corrective
+action  (PCA). 116  The  PCA  regime  establishes  a  scale  of  increasingly
+intrusive regulatory restrictions on the ability of the board of directors and
+management  of a  troubled  bank to  take various  corporate  actions-e.g.,
+distributing dividends to shareholders  or making  acquisitions-that  could
+hasten its bankruptcy.  It functions as an early warning system that forces
+regulators to adopt a quasi-managerial stance with respect to banks facing
+potential  failure.  As  discussed  above,  the  regulatory  and  supervisory
+metrics  that  trigger  various  PCA responses  can  also  be used  to  trigger
+special SGS  management  rights."7  Nevertheless,  the SGS  regime is not a
+substitute  for, or a redundant  replication  of, the  PCA scheme.  Thus,  the
+former  is potentially  significantly broader  in  its  scope,  both  because  its
+explicit goal is the preservation of systemic financial stability and because
+113.  Again, this need to establish a distinctive identity of the SGS Holder as a market actor, as
+opposed  to  a regulator  or supervisor,  works in  favor of establishing  it  as  a federally  chartered
+government corporation. See supra note 111.
+114.  One of the expected criticisms  of the SGS proposal  could point to potential conflicts of
+interest by virtue of the government acting both as a sovereign and a shareholder in financial firms.
+Although frequently overstated, it is a legitimate concern that requires special attention to avoiding or
+minimizing not only actual but also apparent conflicts of interest in the operation of the SGS regime.
+Designing an institutional structure and providing a clear and transparent procedural framework for the
+SGS Holder's decision-making are of paramount importance in this respect.
+115.  Generally, there is an inherent difficulty in discussing the efficacy/feasibility aspect of any
+new proposal simply because, in reality, much will depend on the culture of the new agencies and
+personalities of individuals who would lead them. Who these people are, how smart and honest they
+are, and how seriously they take their public duties will make all the difference in making the SGS idea
+succeed or fail in practice. None of that can be theorized or "proven" in the abstract. By the same token,
+of course, it cannot be theoretically "proven" that the proposed regime will necessarily fail for the lack
+of the right people or the right mindset.
+116.  See 12 U.S.C. § 18310 (2012).
+117.  See supra note 89 and accompanying text.1062 Alabama Law Review [Vol. 68:4:1029
+the universe of covered  entities  is likely to extend  beyond FDIC-insured
+depository  institutions.'18  Even  more  importantly,  the  SGS  Holder  will
+have a unique  set of internal governance  tools at its disposal, potentially
+enabling  it to target the individual firms' problems  more effectively, in a
+flexible and timely fashion. In effect, a well-functioning  SGS  regime may
+reduce  the  need to  use  the  more  intrusive  among  the  PCA  tools-and
+possibly to place  troubled firms  in resolution-by  shifting the burden of
+timely risk prevention and correction back on the relevant firm's directors
+and managers whose actions (or inactions) allowed such risk creation in the
+first  place.119  Of  course,  regular  and  close  information-sharing  and
+coordination between the SGS Holder and FDIC are crucial to ensuring that
+these two parallel processes  operate in a mutually  enhancing,  rather than
+inefficiently duplicative, way: one working from within, and the other from
+outside the troubled firm.
+Furthermore,  in  contrast  to  PCA  or  other  traditional  tools  of bank
+supervision,  the  SGS  regime  would  be  uniquely  designed  to  utilize
+mechanisms of internal corporate governance in response to the early signs
+of systemic  risk  accumulation  on a  macro,  as  opposed to  micro,  level.
+Thus,  as  discussed  above,  the  SGS  special  management  rights  can  be
+activated  if the SGS  Holder  identifies potentially  destabilizing  market or
+industry  trends, even  if there  are no immediate  signs of weakness at the
+level of an individual covered entity.120 This type of proactive correction of
+systemic  imbalances  through  adjustments  to  individual  firms'  behavior
+would  serve  as  an  invaluable  supplement  to  the  government's  current
+inventory of macroprudential regulation.
+To take full advantage of this vital benefit of the proposed SGS regime,
+it would be necessary  to  ensure that the  SGS  Holder maintains  constant
+communication  and  works  closely  with  both  FSOC  and  the  Office  of
+Financial  Research  (OFR)  of the  U.S.  Treasury  Department.121  To  the
+118.  See supraP art II.B.
+119.  The same potential benefit also obtains with respect to the postcrisis SIFI resolution regime
+under the Orderly Liquidation Authority (OLA).  See Dodd-Frank Wall Street Reform and Consumer
+Protection  Act  §§ 201-217,  12  U.S.C.  §§ 4403,  5381-5394  (2012),  18  U.S.C.  § 1032  (2012).
+Discussing the controversies surrounding the practical implementation and potential efficacy of SIFI
+resolution under the Dodd-Frank regime is beyond the scope of this Article. It is worth emphasizing
+here, though, that the SGS regime potentially provides a much more flexible, broader in scope, and far
+less procedurally cumbersome alternative to SIFI resolution or liquidation. In that sense, it is likely to
+be a more  effective potential  means  of avoiding politically  unpopular bailouts  of large financial
+institutions.
+120.  See supra Part III.A.  An example of a potentially troublesome market trend would be a
+sudden rise in the price of a particular type of financial instrument, such as mortgage-backed securities.
+An example of a potentially troublesome industry trend would be a sudden or rapid growth in assets or
+leverage of a specific category of financial institution, such as mortgage lenders.
+121.  Under the Dodd-Frank regime, the OFR's mission is to provide research and informational
+support for FSOC and other financial regulators specifically for purposes of detecting, measuring, and
+monitoring systemic risk. See About the OFR, OFF. OF FIN. RES., www.financialresearch.gov/about/.2017] Bank Governance and Systemic Stability 1063
+extent that neither FSOC nor OFR have actual supervisory responsibilities,
+their relationship  with  the  SGS  Holder  would  be  explicitly  focused  on
+tracking  and analyzing key  system-wide dynamics.  The head of the SGS
+Holder should have a place on FSOC,  even if in a  special capacity  as  an
+observing  member (in order to preserve the SGS  Holder's  autonomy and
+identity as a market actor). The SGS directors may be explicitly allowed to
+solicit  information and  advice from the OFR personnel  and to  give such
+information  or advice  a significant  weight in making  their  firm-specific
+decisions.  It may also be desirable to establish regular OFR briefings for
+the entire corps of SGS directors.
+B.  Funding; Accountability Mechanisms
+Proper  funding  is  another important  factor  in  ensuring  the  level  of
+operational and decision-making autonomy vital to the efficient functioning
+of the new SGS regime. To perform its hybrid role as a public market actor
+effectively,  the  SGS  Holder  would  need  to  attract  and  retain  highly
+qualified  and  committed  personnel,  which requires  not only  sufficiently
+high levels of compensation  but also considerable  ongoing investment in
+employee  training  and  organization  building.  Since  the  proposed  SGS
+regime  is  not  designed  to  generate  any  financial  profit  for  the  federal
+government, it would be critical to secure a reliable source of funding other
+than discretionary congressional appropriations.
+In principle, the SGS Holder could be funded by earmarking a portion
+of the  Federal  Reserve's revenues.  Another potential  source of the  SGS
+Holder's funding  could be some  sort of an industry surcharge,  applicable
+either to all financial services firms (on a sliding scale,  depending on the
+firms'  size or systemic significance)  or to some subset of such firms. 122  A
+market-wide  "financial  transactions  tax"123-a  popular,  though
+controversial,  idea-could  also  be  used  to  fund  the  SGS  Holder's
+operations, at least in part. Finally, the function of an SGS Holder could be
+vested in a public  instrumentality-which  could be a federal  agency  or a
+government  corporation-that  performs  other market-actor  roles  as  well
+and, as a result of such additional operations, generates its own revenues.124
+The uniquely hybrid nature of the SGS  regime also raises potentially
+complex  issues  of designing  effective  procedural  tools  for  ensuring  a
+reasonable degree of transparency and public accountability-while, at the
+122.  This subset could include, for example, all federally insured institutions, all BHCs, and all
+nonbank institutions that either exceed a certain  size threshold  or meet other regulatory criteria for
+potential systemic significance.
+123.  See Ross P. Buckley, Reconceptualizing the Regulation of Global Finance, 36 OXFORD J.
+LEGAL STuD. 242 (2016).
+124.  See Public Actors, supra note 13, at 173.1064 Alabama Law Review [Vol. 68:4:1029
+same time, preserving the SGS Holder's ability to react quickly and to take
+a wide range of actions shielded from public view by the corporate entity's
+organizational walls. In devising  such tools for the SGS  regime, one may
+be  able  to  draw  on  a  variety  of existing  examples,  both  in  financial
+regulation and in other regulatory areas. Thus, as discussed above, building
+into  the  SGS  regime  a  series  of  mandatory  interagency  coordination
+requirements would provide an important channel for the external vetting
+of the  SGS  Holder's  most  significant  firm-specific  determinations.125  I
+addition, it may  be desirable  to establish  some  form of oversight  of the
+SGS  Holder's  operations  by  FSOC,  as  the  principal  U.S.  systemic-risk
+monitor. To avoid potentially excessive interference in the substance of the
+SGS  Holder's  decision-making  process, however,  it may be  advisable to
+limit  FSOC's  oversight  authority  to  certain  procedural  matters.
+Furthermore,  the  statute could mandate  that the head of the SGS  Holder
+submit annual  reports  to  Congress  outlining  its  principal actions  in  the
+relevant period  and providing  its overall assessment of key trends  in  the
+U.S.  financial system.126 The  statute could also require  periodic audits of
+the SGS  Holder by an audit panel specially appointed for that purpose by
+FSOC.  Finally,  it may be desirable  to establish  a  special advisory  body
+comprising  independent  experts  and  public  interest  advocates,  whose
+primary function would be to guard not only against potential abuses of the
+SGS  Holder's  statutory powers  but also-and  very importantly-against
+potential failures on the part of that entity to fulfil its statutory mandate.127
+An important aspect of accountability, both in the realm of government
+decision-making  and  in  the  traditionally  private  sphere  of  corporate
+governance,  is  the  availability  of judicial  review  of  decision  makers'
+actions. In the context of the SGS proposal advanced here, one of the most
+delicate  issues  concerns  the  relative  rights  of private  shareholders  in
+covered  entities  vis-i-vis  the  SGS  Holder.  A  similar issue  arose  in  the
+context of the federal government's  acquiring  direct ownership  stakes in
+firms that received emergency equity investments under the Troubled Asset
+Repurchase  Program initiated by the U.S.  Treasury in the fall of 2008.128
+This  crisis-driven  measure  raised  difficult  questions  regarding  the
+availability  of judicial  and  administrative  review  of  the  government's
+actions  in  its  new  capacity  as  a  controlling  shareholder.  Predictably,
+125.  See supra Part m.
+126.  The statute may also require the SGS Holder to submit copies of its annual congressional
+reports to the FSOC, Federal Reserve, and the Treasury Department.
+127.  For more on designing an independent public advisory body of this type, see Saule T.
+Omarova, Bankers, Bureaucrats,a nd Guardians: Toward Tripartism in FinancialS ervices Regulation,
+37 J. CORP. L. 621 (2012).
+128.  Emergency Economic  Stabilization Act of 2008, Pub.  L. No. 110-343,  122 Stat.  3765
+(2008) (codified as amended in scattered sections of the U.S. Code).2017] Bank Governance and Systemic Stability 1065
+corporate  law  scholars  stressed  the  importance  of  protecting  private
+shareholders  against  the  govermnent-shareholder's  politically  driven
+actions  that  could  negatively  affect  the  corporation's  profitability  and
+possibly the value of their individual investments.129 Yet, existing corporate
+statutes-traditionally, the area of state jurisdiction-are not drafted with a
+sovereign  shareholder in mind and, therefore,  fail to provide  a workable
+solution.130  Administrative  law,  which  operates  on  an  assumption  that
+federal government agencies make rules and administer laws rather than act
+as direct stakeholders in private firms, is similarly unhelpful.131
+To the extent that the SGS proposal vests potentially significant levels
+of  control  over  corporate  decisions  in  the  hands  of SGS  directors,  it
+similarly  transcends  the  doctrinal  boundaries  of  both  corporate  and
+administrative law.  While filling this gap in the existing system of laws is
+not a part of the present project, it is nevertheless possible to articulate the
+basic approach  to designing a working system of judicial review of SGS
+decisions.
+As  a  general  matter,  the  SGS  statute  has  to  balance  two  goals:  (1)
+shielding  the  SGS  Holder  from  lawsuits  brought  against  it  by  private
+parties,  and  (2) giving private  shareholders  reasonable  protection against
+excessive  harm  caused  by the  SGS  Holder's  actions.  However,  because
+protecting  the SGS  Holder from incapacitating litigation battles  is a vital
+prerequisite  for effective operation of the  SGS  regime, the statute should
+explicitly and unambiguously prioritize the first objective over the second
+one. 132
+129.  See Marcel  Kahan  &  Edward  B.  Rock,  When  the  Government Is the  Controlling
+Shareholder, 89 TEX. L. REV.  1293  (2011); J.W. Verret,  Treasury Inc.: How the Bailout Reshapes
+Corporate Theory and Practice,2 7 YALE J. ON REG. 283 (2010); see also Barbara Black, The U.S. as
+"Reluctant Shareholder": Government, Business and the Law, 5 ENTREPRENEURIAL BUS. L.J. 561, 593
+(2010); Lissa L.  Broome,  Government Investment in Banks: Creeping Nationalization or Prudent,
+Temporary Aid?, 4 FLA. INT'L U. L. REV. 409 (2009); Steven M. Davidoff & David Zaring, Regulation
+by Deal: The Government's Response to the FinancialC risis, 61 ADMIN. L. REV. 463 (2009).
+130.  For insightful  discussions of the doctrinal and practical  limitations of corporate law  in
+dealing  with  a sovereign  shareholder,  see  Steven  M. Davidoff,  Uncomfortable Embrace: Federal
+Corporate Ownership in the Midst of the Financial Crisis, 95 MINN.  L. REV.  1733 (2011),  Steven
+Davidoff Solomon  & David  Zaring, After the Deal: Fannie, Freddie, and the Financial Crisis
+Aftermath, 95 B.U. L. REV. 371 (2015), and Marcel Kahan & Edward Rock, When the Government is
+the Controlling Shareholder:I mplicationsf or Delaware, 35 DEL. J. CORP. L. 409 (2010).
+131.  See Solomon & Zaring, supra note 130.
+132.  Ordinarily, federal government instrumentalities are protected from private lawsuits by the
+doctrine of sovereign immunity. See United States v. Sherwood, 312 U.S. 584, 586 (1941) ("The United
+States, as sovereign, is immune from suit save as it consents to be sued ....  ).  However, if the SGS
+Holder  is set up as  a federally chartered  government corporation,  it may not be entitled to assert
+sovereign immunity as an impenetrable shield against shareholder suits. See supra notes 110-111 and
+accompanying text. In any event, depriving shareholders of covered entities of all access to courts may
+be counterproductive and harm the regime's overall legitimacy. Finally, it may be difficult to claim full
+sovereign immunity in the context in which a federal instrumentality acts in the capacity of a market
+participant, rather than in its traditional regulatory capacity. See United States v.  Winstar Corp., 518
+U.S.  839,  887-88  (1996).  A full discussion  of these complex  and highly technical  issues of legal1066 Alabama Law Review [Vol. 68*1029
+For example, the statute may give the holders of common stock in a
+covered entity the right  to sue the SGS  Holder for damages  incurred by
+such holders  as  a  direct result  of the  SGS  Holder's  actions.  This right,
+however,  should be  subject  to  strict  limitations.  Thus,  only  holders  of
+common  stock  above  a  specified  statutory  threshold  (expressed  as  a
+percentage  of the  firm's  total common  stock  outstanding at the time  of
+filing the lawsuit), who were common stockholders  of that same firm for a
+specified minimum period of time (e.g., one year of continuous ownership),
+would  have  standing  to  sue  the  SGS  Holder  under  the  statute.  These
+conditions would eliminate strategic acquisitions by various arbitrageurs of
+token amounts of common stock in covered entities with a view to suing
+the government.
+Furthermore,  the SGS  Holder would  be held liable under the  statute
+only  for actions  taken  in bad  faith,  with  a specific  intent to  cause  the
+plaintiff  direct  harm  that,  at  the  time  of the  SGS  action,  was  clearly
+foreseeable,  highly  probable,  and  sufficiently  precisely  quantifiable.  The
+shareholder  plaintiff must  bear the  initial  burden  of proving  bad  faith,
+specific  intent,  high  probability  of the  quantifiable  direct  harm  to  the
+plaintiff known  or susceptible to  proof at the  time of the  SGS  Holder's
+action, and all other elements required by the statute. Setting this kind of a
+high  standard  for  the  plaintiff will  help  to  protect  shareholders  from
+egregious abuses of the SGS  Holder's statutory powers, while at the same
+time preventing a potential onslaught of frivolous private lawsuits  against
+the SGS Holder.
+It  is  worth  noting  here  that  shareholder  lawsuits  against  the  SGS
+Holder  are  also  likely  to  claim  some  form  of  an  uncompensated
+governmental taking of their property in violation of the Takings Clause of
+the  Fifth  Amendment  to  the  U.S.  Constitution.'33  In  essence,  these
+shareholders  would  argue  that,  by  taking  effective  control  over  key
+corporate  decisions  that  affected  the  firm's  ability  to  generate  greater
+profits and thus increase  shareholder value, the SGS  Holder deprived the
+firm's shareholders of their property rights. Controlling shareholders  could
+also assert the uncompensated taking of their so-called control premium, a
+concept familiar to scholars and practitioners of corporate law.  Under the
+proposed  statutory  scheme,  however,  such  claims  would  be  unlikely to
+succeed,  especially  because  they  would  be  fundamentally  analogous  to
+doctrine and practice  is beyond the scope of what is necessary at this point in the proposed thought
+experiment. The key for present purposes is that statutory assertion of full sovereign immunity on the
+part of the SGS Holder and its agents may not be a viable, or desirable, choice.
+133.  There is a large body of caselaw and academic analysis of the Takings Clause, discussion of
+which is beyond the scope of this Article. For a summary of the U.S.  Supreme Court precedent,  see
+ROBERT MELTZ, CONG. RESEARCH. SERV., 97-122, TAKINGS DECISIONS OF THE U.S. SUPREME COURT:
+A CHRONOLOGY (2015), https://www.fas.org/sgp/crs/misc/97-122.pdf.2017]1 Bank Governance and Systemic Stability 1067
+"regulatory takings" claims. In general, it is difficult for private plaintiffs to
+prevail  on  regulatory  takings  claims  because  every  regulatory  action
+inherently diminishes the value of private property subject to it.134  In the
+SGS  context,  the  SGS  Holder's  temporary  assumption  of  corporate
+management  rights  is  designed  to  curb  systemically  risky  behavior  of
+financial  institutions  that  some  shareholders  would  say  could  have
+generated extra profits for them. To  the extent the SGS  statute  explicitly
+and clearly articulates  its public policy objectives, it should preempt such
+arguments.
+C.  Dealing with the FearF  actor
+A discussion  of the design and operative features of the SGS  regime
+would be incomplete without  addressing, briefly but explicitly,  the single
+most important challenge this proposal is bound to face: potentially  deep-
+seated resistance to this type of bold institutional experimentation.
+Some  of that  resistance  will  inevitably  represent  a  conscious-and
+consciously concealed-effort by those who benefit, directly or indirectly,
+from the current state of affairs to preserve  the status quo and to prevent
+any reforms that threaten it. Because  of the fundamentally  self-interested
+character  of their objections,  these  critics  are  not  likely to  engage  in  a
+substantive discussion on the merits of the proposal. Their fear is that the
+proposed scheme could actually work as intended.
+On the other hand, some of the likely skepticism toward the concept of
+a  special golden  share  regime  may come  from those who  are  genuinely
+interested  in  finding  workable  mechanisms  of systemic  risk prevention.
+These  critics  may raise  questions about specific  legal and administrative
+details  insufficiently  developed  in  the  outlined proposal  or  may  worry
+about its various unintended consequences.
+Some  of  these  questions  and  concerns  may  reflect  the  inherent
+difficulty  of mentally  reconciling the  proposed  shift in  the paradigm  of
+bank  governance  with some  of the  basic  assumptions built into  today's
+corporate  governance  orthodoxy.  One  such  familiar  assumption  is  that
+allowing the government inside the boardroom would effectively amount to
+"nationalization" of private enterprise and imposition of "socialism," which
+is fundamentally incompatible with America's "free-market  economy" and
+commitment to "capitalism."l35 This starkly dichotomous view of the world
+is,  of course, empirically  false: the government is the crucial actor within
+the  modern  free-market  economy;  its  actions  fundamentally  enable  and
+134.  See Lucas v. S.C. Coastal Council, 505 U.S. 1003 (1992); Nollan v. Cal. Coastal Comm'n,
+483 U.S. 825 (1987); Penn Cent. Transp. Co. v. City of New York, 438 U.S.  104 (1978).
+135.  See Templin, supra note 110.1068 Alabama Law Review [Vol. 68:4:1029
+often constitute  the very  markets  we  call  "private."136  In that  sense,  the
+proposed SGS regime is neither "socialist" nor "capitalist." It is pragmatic
+and  incremental:  it seeks  to improve  the operation  and efficiency  of the
+hybrid public-private market economy we already have.
+The  best  way  to  dispel the  fear  of change  induced  by  the  ossified
+ideological  vocabulary  is to look past rhetorical  labels and to assess  the
+proposed regime on its merits. As discussed above, the SGS mechanism is
+designed to introduce the necessary systemic  corrective into an inherently
+entity-centric perspective of individual firms' boards. It is meant to operate
+as  a  dynamic  and  flexible tool  for  preventing  or minimizing  collective
+economic  harms  from individual  firms'  actions.  A  well-functioning  SGS
+regime should guide, rather than commandeer, individual banks' and SIFIs'
+internal  decision-making  in  a  way  that  helps  to  smooth  seemingly
+unavoidable boom-and-bust cycles in financial markets-and to avoid the
+need  for the  government  to use  its  "manager  of last resort"  powers  in
+practice. 137
+Understanding  the  SGS  proposal  in  these  functional,  rather  than
+ideological,  terms should also help to alleviate some of the more specific
+potential  concerns  about  its consequences  for the  economic  viability  of
+financial firms. For example, it may very well be that the covered entities'
+cost of capital  might rise  significantly,  as  private  investors would  either
+refuse to buy their shares or buy them at a deep discount. To the extent this
+type  of  market  reaction  reflects  the  generalized  fear  of  a  de  facto
+"nationalization,"  discussed above,  it is likely to be both temporary and
+susceptible  to  correction.  To  the  extent  it  reflects  the  degree  of
+internalization  of systemic risk posed by individual  financial institutions,
+however,  this  change  in  their  cost  of  capital  should  be  seen  as  an
+efficiency-enhancing  market adjustment.  Whether  or not  such  correction
+proves  fatal  to  the  entire  banking  sector  is  a  question  that  cannot  be
+answered in the abstract, though it seems unlikely that things would ever
+get so bad.138 Speculative predictions  aside, there is a strong argument that
+making bank managers focus on safeguarding the stability of the financial
+136.  For  an in-depth  analysis  of the  role  of public  instrumentalities  in  constituting  and
+augmenting financial markets, see Public Actors, supra note 13, and The Finance Franchise,s upra note
+53. See also MARIANA MAZZUCATO, THE ENTREPRENEURIAL STATE: DEBUNKING PUBLIC VS. PRIVATE
+SECTOR  MYTHS  (PublicAffairs  2015);  Fred Block, Swimming Against the Current: The Rise of a
+Hidden DevelopmentalS tate in the United States, 36 POL. & SOC'Y 169 (2008).
+137.  See supra note 103 and accompanying text.
+138.  There is another, somewhat related, concern that triggering active SGS rights with respect
+to a single SIFI could lead to a massive creditor and investor "run" on that SIFI and potentially trigger a
+systemic  financial  crisis.  Essentially the same  issue was  widely  debated in  connection  with  the
+regulatory attempts worldwide to mandate the issuance by banks of contingent debt claims susceptible
+to bail-in under certain conditions.  See, e.g., Hilary J. Allen,  Cocos Can Drive Markets Cuckoo, 16
+LEWIS & CLARK L. REV.  125 (2012) (discussing the pros and cons of contingent convertible capital
+instruments as a systemic risk prevention tool).2017] Bank Governance and Systemic Stability 1069
+system  should,  in  fact,  increase  banks'  and  other  financial  institutions'
+long-term value to investors.139
+This is not to suggest, of course, that the SGS  scheme is guaranteed to
+work perfectly in practice. No such guarantees can ever be given. It would
+be unrealistic,  however, to attempt to discuss in a single  article all of the
+potential consequences-intended  or unintended, positive or negative-of
+the proposed regime. A full understanding of such consequences is likely to
+emerge only in the process of further refining and implementing the broad
+conceptual framework elaborated above.
+CONCLUSION
+This  Article  outlined  principal  contours  of  a  new,  and  very
+unconventional by today's standards, regime of bank governance, in which
+the task of representing  the public interest on individual banks' boards of
+directors is performed by a special federal instrumentality, the SGS Holder.
+The  proposal  advanced  here  is  more  of a  thought  experiment  than  a
+legislative blueprint.  Developing  such a blueprint would require  thinking
+through  and resolving many complex legal, economic,  and administrative
+issues that are bound to arise in connection with such a bold departure from
+the  current norm.  Moreover, there may  not be sufficient  political will to
+pursue decisive measures of this kind, at least in the near future. And the
+financial services industry will relentlessly lobby against any reform likely
+to reduce Wall Street's profits by restricting its ability to externalize risk.
+For all these  depressingly familiar reasons,  the proposed regime may be
+simply too difficult to implement in practice.
+Yet,  it  would  be  short-sighted  to  reject  or  dismiss  this  thought
+experiment  too quickly. The golden  share  regime may prove to be more
+plausible  than  the  critics  are  willing  to  acknowledge.  Our  current
+perceptions  of how  impossibly  difficult  it  would  be  to  implement  the
+proposed  SGS  scheme  may  be  significantly  exaggerated,  in  large  part
+because that proposal represents such a radical departure from what we've
+been  conditioned  to  view  as  the  "normal"  state  of play.  Shifting  our
+collective attitudinal and conceptual framework to accommodate the basic
+concept of the public  as  a legitimate  endogenous  corporate  actor, on the
+other  hand,  is  bound  to  broaden  the  universe  of potential  legal  and
+administrative  solutions  to problems  that  might have  previously  seemed
+intractable. From that perspective, operationalizing the golden share regime
+envisioned here may be just the right challenge for the truly  creative and
+ambitious lawyers and lawmakers.
+139.  For a discussion of the interplay between  systemic  stability and shareholder value, see
+Armour & Gordon, supra note 46.1070  Alabama Law Review  [Vol. 68:4:1029
+For now, however, the task is to begin articulating the basic notion of a
+hybrid public-private bank governance regime as an option on the menu of
+potential  reforms.  Thinking  along these  unorthodox  lines  could hold the
+key to unlocking the full potential of corporate governance, more generally,
+as a tool of public interest. The alternative is clear: if our existing system of
+corporate governance  is  simply too rigidly programmed  to prioritize and
+safeguard short-term economic interests of certain private parties, then we
+must stop pretending that it can offer meaningful long-term solutions to our
+most pressing public policy problems. We will then have to search for such
+solutions elsewhere.

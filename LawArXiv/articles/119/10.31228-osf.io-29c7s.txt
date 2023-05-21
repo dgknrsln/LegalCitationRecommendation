@@ -1,0 +1,1272 @@
+The Action Principle in Market Mechanics
+anhire
+J. T. M
+TexasA&MUniversity,CollegeStation,Texas
+Abstract
+Thispaperexploresthepossibilitythatassetprices,especiallythosetradedinlargevolumeon
+publicexchanges,mightcomplywithspeciﬁcphysicallawsofmotionandprobability. Thepaper
+ﬁrstexaminesthebasicdynamicsofpricedisplacementsinﬁnancialmarketsandﬁndsonecan
+modelthisdynamicasaharmonicoscillatoratlocal“slices”ofelapsedtimeviaahomogeneous
+coordinatesystem. PriceandtimecoordinateshereareWignerinvariantmeetingthethreshold
+ofmathematicallawdiscoveryinmarkets. Basedonthisﬁnding,thepapertheorizesthatprice
+displacements are constrained, meaning they have extreme values beyond which they cannot
+gofordeﬁnedperiods. Byshowingthatpricedisplacementsalsocomplywiththeprincipleof
+stationaryaction,thepaperexploresamethodformeasuringspeciﬁcprobabilitiesoffutureprice
+displacementsbasedonpriorhistoricaldata. Testingthistheorywithlimitedmarketssuggestsit
+canmakeforecastsconsistentwithhistoricaldataastoconstraintsonextremepricemovements
+duringmarket“crashes”andprobabilitiesofspeciﬁcpricedisplacementsatothertimes.
+ntroduction
+1. I tion about market movements is represented
+insuchawayastobeanalogoustoagraphof
+The goal of this paper is to share a new motionovertime. Tothisend,thepaperseeks
+way of looking at ﬁnancial markets as toapplyknowledgeandtechniquesfoundin
+physical systems. It explores the pos- theoreticalphysicsspeciﬁcallytoﬁnancialmar-
+sibility that asset prices for ﬁnancial markets, kets to test the consequences of Landauer’s
+especiallythosetradedinlargevolumeonpub- propositioninthisarea.
+licexchanges,mightcomplywithspeciﬁc(even This is by no means the ﬁrst such attempt
+ifanalogous)physicallawsofmotiongivena toanalyzeeconomicsystemswithtoolsofthe
+speciﬁccoordinateperspectiveofelapsedtime, physicalsciences. Manyeconomistsintheearly
+displaced price, and displaced phase in the 20th century borrowed almost term for term
+complexplane. the classical physics of the 1880s [2]. Others
+In 1991, Landauer proposed that informa- havewrittenspeciﬁcallyonﬁnancialmarkets
+tion is physical, especially information that throughthelensofphysicsinthelate20thcen-
+is ﬁxed in some tangible medium [1]. Such tury[3],andtheeconophysicsschoolcontinues
+media can include ink on paper, impressions examiningﬁnancialmarketswiththetoolsof
+inclaytablets,orevenorganizedbinarycode statisticalmechanics[4]. Still,thispaperclaims
+in electronics. This leaves one to ponder, “If to be the ﬁrst to imagine the physical system
+theinformationﬁxedinatangiblemediumis itselfinthisparticularway.1
+physical,towhatextentdoesthatinformation
+1Theauthorissensitivetothegeneralrebukethat“eco-
+complywithphysicallaws?” nomicsisnotphysics.”[5]Yet,thegoalhereisnotphilo-
+sophical;itissimplytoseewhereLandauer’sproclamation
+Looking at something as basic as a stan-
+leadsifonetakesitliterallyandfollowsittoitslogical
+dardstockchart,onecanseehowtheinforma- conclusions.Ifthoseconclusionsendupbeingconsistent
+12 J.T.MANHIRE
+Aninitialpostulatefollowsfromanobvious oftheactionprincipletotheasset’smovement
+implicationofthepaper’sobjective: throughthepricedimension. Section5derives
+I. By analogy, ﬁnancial markets comply with, probability measures from the dynamics dis-
+even if they are not necessarily subject to, certain cussed. Section 6 attempts to test the theory
+physicallaws. bycomparingresultsobtainedfromtraditional
+If one does not assume this, the entire enter- analyses with those obtained solely from the
+prisewouldbewithoutlogicalmotivation. theoreticalmodel. Initialcomparisonswithhis-
+MantegnaandStanley[6]deﬁneaﬁnancial toricalassetpricedataappearpromising. Sec-
+market as a system fueled by a large number tion 7 closes the paper with a brief summary
+of interactions between buyers and sellers in andrecommendationsforfutureresearch.
+perpetual search for an appropriate price for
+anasset. Brokendownfurther,thisdeﬁnition
+ocal ystems
+2. L S
+explainsthataﬁnancialmarketisasystem,the
+mechanics of which relate solely to changes
+Webeginwithﬁrstprinciplesbyobservingﬁ-
+inpriceandthesoledriversofthesemechan-
+nancialmarketdataﬁxedinatangiblemedium
+ics are the interactions of buyers and sellers.
+and asking, “What can we deduce about the
+Theremainingtwopostulatesfollowfromthis
+mostfundamentalaspectsofamarket’schange
+deﬁnition:
+in price over some elapsed period?” The an-
+II.Observedmarketmechanicsaretheresultof
+swer seems clear. The price of an asset—the
+localsystemsthatcanbedeﬁnedbytheirrespective
+objectofthesystemwecallaﬁnancialmarket—
+changesinpriceandtime.
+goes up, down, or stays the same when com-
+III.Theonlyphenomenonthatdirectlyaffectsan
+paring the asset’s ﬁnal and initial prices over
+asset’spricedisplacementistheneteffectgenerated
+someperiod. Seenthisway,it’sreasonableto
+bythetradingactivitiesofbuyersandsellersateach
+talk about the asset as moving through price
+instanceofelapsedtime. overtime.2
+Fromthesepostulates,thepaperattemptsto
+Imagine a single dimension of an inertial
+followlogicalconclusionstoatheoreticalend.
+frame of reference for an asset. This is not a
+As shared in the ﬁnal section, the theoretical
+spatialdimensioninthetraditionalsense,but
+resultsfromtheseassumptionsareconsistent
+rather a dimension of price. An asset moves
+with historical data—at least for the few as-
+through this price dimension consistent with
+setsagainstwhichthetheoryhasbeentested.
+ourthirdpostulate.
+Whileeveryattemptismadethroughoutthis
+Let’s explore the basic dynamics of an as-
+papertoclearlyconveytheprocessthatleads
+set’smovementthroughthispricedimension,
+fromobservationtotheory,thereisnotattempt
+thatis,itspricedisplacement. Displacementin-
+attruemathematicalrigor.
+volvesmovingsomethingfromonepositionto
+Thepaperispresentedinsevensections,the
+anotheroversomeelapsedperiod. Therefore,
+ﬁrstbeingthisintroduction. Section2explores
+to arrive at the most basic dynamic of an as-
+thebasicdynamicsofanasset’spricedisplace-
+set’s price displacement we must ﬁrst try to
+ment at each instance in time. Section 3 in-
+understandthemostbasicinstanceofelapsed
+vestigates the forces that drive this price dis-
+time.
+placement. Section4explorestheapplication
+2Wecanalsotalkaboutthepricemovingaroundthe
+withhistoricalmarketdatathenperhapsthereismorehere assetifwewish.Afterall,doestheshipmovethroughthe
+forotherstoinvestigateandphilosophicalquestionswith waterordoesthewatermovearoundtheship?Intheend,
+whichotherscangrapple. thechosenreferenceframeseemsmoreintuitive.THEACTIONPRINCIPLEINMARKETMECHANICS 3
+A. ElapsedTime Since we can arbitrarily deﬁne the period
+t (e.g., one year, one month, one week, one
+Assume some elapsed period t, where t de-
+day,onehour,onesecond,etc.) itissufﬁcient
+notes a change in time from t to t , or
+A B to set t = 1 as an arbitrary temporal unit as
+t := t −t . Ifwedividethisperiodbysome
+B A
+long as we are clear on the deﬁnition of that
+integer n weget n-numberoftimeslices,each
+unitinpracticeandconsistentthroughoutour
+of which we’ll call τ. If n is very large then
+examination.
+eachtimesliceisverysmall. Theseslicesneed
+Consequently,wecandiscussthemechanics
+not be precisely equal intervals, but for our
+of a ﬁnancial market for any slice using that
+purposeswewillassumetheyare.
+sliceasaunitoftime. Althoughwegetmulti-
+Wecanidentifyeachtimesliceaccordingto
+pleunitsifwesumuptheunitslices,wecan
+an index (cid:101) that runs from the states A to B
+alwayscovertthatsumitselfintoanotherunit
+suchthat
+sliceaslongasourtermsarewell-deﬁned. Ac-
+(cid:101) ∈ {A =1<2< ··· < n−1< n = B}. cordingly,aslongaswearealwayscomparing
+thesameelapsedperiods(e.g.,one-weekperi-
+The identiﬁer τ indicates the time slice that odsfrom1January1980to31December2016,
+(cid:101)
+beginsatthestate(cid:101);thatis,τ = τ = t → t , one-minuteperiodsfrom1January1980to31
+A 1 1 2
+τ = t → t ,τ = t → t ,etc.,untilweﬁnally December 2016, etc.), we can regard each pe-
+2 2 3 3 3 4
+get τn−1 = tn−1 → tn = tB. riodasasingleunitforpurposesoftheelapsed
+Theslice τ shouldnotbeconfusedwiththe time,or t =1.
+notionof dt. Theformerisaperiodofelapsed
+timethatcanbearbitrarilysmallbutneverbe B. DisplacedPrice
+zero. The latter is the change in time as the
+Thequestionthenbecomes,“Whatisthemost
+period dt approaches zero. We can make n
+basic displacement dynamic occurring over
+sufﬁcientlylargetousethetoolsofcalculusto
+each time slice τ?” From an observation of
+accurately approximate results, but in doing
+assets traded on public exchanges it appears
+sowemustrememberthat τ neverapproaches
+that the most basic displacement dynamic at
+zerotothepointwhereabeginningandend-
+eachtimesliceisthattheassetiseithermoving
+ingtimecannotbedistinguished(i.e., t (cid:54)= t
+A B
+upordowninpricetovaryingdegrees.4
+forthesameperiodnomaterhowsmall). Each
+Let’scallan“up”movementinpricepositive
+timeslicenomatterhowsmallhasabeginning
+anda“down”movementnegative. Theseare
+and an end time with some relevant mean-
+arbitrarybutintuitivedirectionalassignments.
+ing to our examination of a ﬁnancial market.
+Again, as an asset moves in this way it trav-
+Therefore,anyactivity,includingthe τ-related
+elsnotthroughtraditionalspacebutthrough
+derivativesofprice,willendupbeingaverages
+the dimension of price. Let’s call this price
+from t(cid:101) to t(cid:101)+1.3
+displacement x deﬁnedasthechangeinprice
+Fromthisweseethat t = nτ ifallslicesare
+fromtheasset’sstartingprice x toitsending
+equalininterval. Iftheintervalsarenotequal A
+price x .
+then B
+B Yet, it would be insufﬁcient to deﬁne the
+∑
+t = τ .
+(cid:101) pricedisplacement x merelyas x −x aswe
+B A
+(cid:101)=A
+3Toberigorouswouldrequirespecialnotationtode- 4Itcanalsohavenonetmovement.Sincedirectionmat-
+notetheseaverages,suchas(cid:104)·(cid:105),however,suchnotationis ters,pricedisplacementandallfunctionsofitarevector
+unnecessarilycumbersomegiventhisclariﬁcationofwhat quantitieseventhoughweusescalarnotationthroughout
+wemustconsideranaverageandwhy. withdirectionsigniﬁedbypositiveornegativesigns.4 J.T.MANHIRE
+did with time since doing so would leave us identical.
+with a lack of homogeneity for ﬁnancial mar- Therefore,inordertomaintainhomogeneity
+kets. Generally, elapsed time and price dis- wemustmeasurepricedisplacementinterms
+placementsarehomogeneouseventhoughob- of the ratio of the change in price from t to
+A
+jective time and prices are not. There is ar- t totheobjectivepriceat t . Forthisreason,
+B A
+guablyarelevantdifferencebetweenthedates we will deﬁne the change in price x as (x −
+B
+14 March, 18 March, 25 November, and 29 x )/x ,orforanytimeslice
+A A
+November. Yet,theﬁve-dayperiodbetween14
+Marchand18Marchischronologicallyidenti- x(τ ) := x(cid:101)+1(τ(cid:101))−x(cid:101)(τ(cid:101)) = (cid:18)x(cid:101)+1(τ(cid:101)) −1(cid:19)
+(cid:101) x (τ ) x (τ )
+caltotheﬁve-dayperiodbetween25November (cid:101) (cid:101) (cid:101) (cid:101)
+and 29 November. This also applies to years,
+insteadof x = x −x only.
+B A
+months, weeks, hours, minutes, seconds, etc.
+Notethattheclosingpricefor τ isalsothe
+(cid:101)
+Therefore,elapsedtimeishomogeneouseven
+opening price for τ(cid:101)+1. This is from the ob-
+thoughspeciﬁctimesmightbedistinguishable.
+servation that ﬁnancial markets leave off and
+The same is true for changes in price, al- pick up in the exact same spot during a pe-
+thoughherewemustbemorecarefulthanwith riod of exchange closure. One might argue
+our examination of changes in time. There thatthepriceatthe“openingbell”isthetrue
+is a signiﬁcant difference between $100 and openingprice,butthisisinconsistentwithour
+$50. The two are distinguishable in relevant conception of time as a series of slices. The
+waysandare,therefore,inhomogeneous. Yet, closingpriceforτ maintainsitsvalueuntilthe
+(cid:101)
+there is no difference between the displace- exchangere-opensfortrading. Attheopening
+ments (xA1 = $90,xB1 = $100) and (xA2 = bell,anypriceisnottheopeningprice,butthe
+$40,xB2 = $50). In both instances the price ﬁrstpriceafter τ(cid:101)+1 hasbegun.
+displacements are x = x −x = $10. In all
+B A For this reason, the price displacement in
+relevantwaysthetwodisplacementsappearin- terms of reported price is always x(τ ) =
+(cid:101)
+distinguishableand,therefore,homogeneous. x(cid:101)+1(τ(cid:101))−x(cid:101)(τ(cid:101)),withthepricedisplacement
+Yet, we are concerned with changes in price
+ratiocomputedasalreadydiscussed. Hereafter,
+of a ﬁnancial market for all times. It appears
+anydiscussionofthe“pricedisplacement”will
+changes in price alone end up being inhomo-
+be synonymous with “price displacement ra-
+geneousoverextendedperiods.
+tio”forthesakeofconcisionunlessotherwise
+For example, the S&P 500 Index in the speciﬁed.
+UnitedStateshasdatagoingbackdecades. If
+oneweretotakedatafrom,say,1980through
+C. HomogeneousCoordinates
+2017,a$10changeinpricein1980wouldnot
+beequivalenttoa$10changeinpricein2017 If we imagine a coordinate system with t as
+sincethechangefrom1980camefromaninitial the abscissa and x as the ordinate we get a
+priceverycloseto$100whilethechangefrom standard-lookingstockchartwithtimerunning
+2017 came from an initial price very close to from left to right and the price running up
+$2,500. Theextremelylow(orforsomemarkets and down. A consequence of this coordinate
+high)valuesofearlydatacanexcessivelyskew representationisthatpricedisplacementscan
+the results so as to leave price displacements bethoughtofasfunctionsofelapsedtime,or
+formorecurrentperiodsinhomogeneouswith x(t).
+respecttopricedisplacementsforearlierdata Therefore, the changes in price and time as
+even if the actual monetary displacement is discussedin§§2Aand2BareinvariantunderTHEACTIONPRINCIPLEINMARKETMECHANICS 5
+translation,eventhoughpricesandtimethem- conventionalunits. Becauseofthis,wewillre-
+selvesarenot. Ifthechangesinpriceandtime fertoourcoordinatesystemofchangesintime
+arehomogeneousthentheyarealsoisotropic, and price that sets t = x = 0 and t = 1 as
+A A
+meaningtheyareinvariantunderrotation. a“homogeneouscoordinatesystem,”although
+Forthesereasons,wecanalwaysmakeboth thereadershouldbeawarethatothersmight
+t and x equivalent to t and x, respectively, deﬁnethistermdifferentlyintheliterature[9].
+B B
+if we regard t and x as zero in relation
+A A
+to tB and xB, respectively, for any time slice. 3. External Forces
+Therefore, in this coordinate system, we can
+assumefourprice-timeprinciples: (1)transla- Atthispointweshouldbeabletoimaginethe
+tionalinvariance,(2)rotationalinvariance,(3) pricedisplacementofanassetastheneteffect
+timetranslationalinvariance,and(4)Galilean oftheinteractionsofbuyersandsellers. Infact,
+invariance(therulesapplyequallytoallassets basedonourpostulates,theseinteractionsare
+evenifeachisinitsowncoordinatesystem).5 theonlysourceofanet“force”thatmovesthe
+These principles are important because they assetthroughthepricedimensionoveratime
+are the four invariances Wigner claims neces- slice τ.
+saryforthediscoveryofmathematicalrulesof Aretheseinteractionssometimestheresult
+asystem[7]. Withouttheseinvariances,math- of traders reacting to external events such as
+ematicalrulesmightexistforasystem,butwe a signiﬁcant terrorist attack or news of a ma-
+wouldbehardpressedtorootthemout. The jor corporate scandal? Of course, but neither
+perceivedlackoftheseinvariancesineconomic the attack nor the scandal directly affect the
+systems is a common criticism for applying mechanics of this system we call a ﬁnancial
+physical laws, even if by analogy, to ﬁnancial market. It might be the individual reactions
+markets[8]. oftraderstotheseeventsthatintheaggregate
+Asaconsequence,wecanrepresenttheend affect the direction of the price displacement
+state of any elapsed period with the coordi- oversomeelapsedperiod,butitisimportant
+nates (t,x) andthatshouldbesufﬁcienttode- torememberthatﬁnancialmarketshaveonly
+scribetheremainingdynamicsoccurringover one“primemover”whenweexaminethesys-
+thetimeintervalintermsoftimeandprice. tem qua system. That mover is the net force
+Theonlydifferenceinthecoordinatesisthat generatedbytheinteractionsoftraders. There
+twillalwaysbepositivesincetimeonlymoves isnoothersourceofdirectforceinthistheory.6
+inonedirectionforourpurposeshere,while x We use the term “force” here only by anal-
+mightbepositive,negative,orzerosinceprices ogy; however, we will assume the net force
+moveup,down,orexperiencenochange. to have the same properties and produce the
+Inthisway,ourcoordinatesystembecomes same effects on an asset in the dimension of
+oneofnetchangesfromstate AtostateBsince priceasaphysicalforcehasonanobjectinthe
+wecanalwaysset(cid:101)to Aand(cid:101)+1to Bforany dimensionofspace. Recallthatweassumeﬁ-
+slice τ regardlessoftheactualelapsedtimein nancialmarketscomplywithcertainprinciples
+ofphysics,evenifweagreethatﬁnancialmar-
+5ItiswellknownthatNewton’sSecondLawisinvariant
+kets are not subject to all physical laws (e.g.,
+underaGalileantransformationsoweneednotprovethis
+again here. By the end of this paper it should be clear gravity).
+thatthepricedisplacementofanyassetissubjecttothe
+samerulesregardlessofitsindividualcoordinatesystem 6Thistheorydoesnotdisregardtheuniquenessofeach
+withtheinertialcoefﬁcientbeingthemaindeterminant individual agent’s behavior. The difference is in focus.
+ofpricedisplacementmagnitudegivenequalnettrading Instead of focusing on the individual agent, this theory
+interactions. focusesontheinteractionofindividualagents.6 J.T.MANHIRE
+We know from experience that buyers and activitieswouldhavecausedseparately.
+sellers interact with an asset and each other Wecanalsoassumethatsomething“carries”
+foreachtimeslice τ thatanexchangeisopen theseforcestoproducetheobservedpricedis-
+for trading.7 Let’s call a buyer’s activity α placement of an asset. For now, we will refer
+since the activity is physically manifested in to this net “carrying thing” as ψ, where ψ is
+what’s called an “ask” and a seller’s activity the result of the superposition of the “carry-
+β sincetheactivityisphysicallymanifestedin ingthing”ofthebuyers’forceandthatofthe
+what’scalleda“bid.” Becausewe’vedecidedto sellers’.
+maketheupdirectionpositiveandthedown Let’sreturntoourproportionalassumption
+direction negative, we can notate a buyer’s that F ∝ x. Since both F and x are time func-
+activityas +α andaseller’sactivityas −β. tions,weknowperNewton’ssecondlawthat
+We assume that the price displacement for F = mx¨,where m canbethoughtofasaniner-
+some period τ is proportional to the sum of tialcoefﬁcientuniquetoeachassetand x¨ isthe
+thebuyers’andsellers’activities,or second time derivative of the price displace-
+ment. Thisleavesuswith mx¨ ∝ x.
+x ∝ α+(−β) = α−β,
+If mx¨ displacestheassetinthepricedimen-
+sion over, let’s say, the period τ it means the
+sincethesearetheonlyactivitiesthataffectthe 1
+equivalentoft ist andtheassetmovesfrom
+asset’smovementthroughthepricedimension. A 1
+price x toprice x at t .Forthesakeofargu-
+Consequently,if α = β thentheactionscancel, 1 2 2
+ment let’s assume the displacement over this
+producingapricedisplacement x =0forthat
+slice is in the positive direction. Yet, at pre-
+period. However, if α > β then x > 0, and if
+cisely t the price x that was the close price
+α < β then x <0. 2 2
+forthepreviousslice τ becomestheopening
+Morespeciﬁcally, wecanthinkoftheinter- 1
+price for the next slice τ . Our homogeneous
+active dynamic α−β as generating some net 2
+coordinate system is such that t and x can
+force that is solely responsible for the price A A
+alwaysbeconsideredzerosincewecareonly
+displacement we witness for the period. In
+about the net displacement over the period.
+other words, the net force is proportional to
+For this reason, when x goes from being the
+thechangeinprice,or F ∝ x. 2
+closingpricefor τ tobeingtheopeningprice
+Here, Fisthenetforceresultingfromthesu- 1
+for τ the asset must reclaim the value zero
+2
+perpositionof F and F where F ispositively
+α β α
+sinceweregardthestartingpriceforanyslice
+directedand F isnegativelydirected,or
+β
+aszero.
+F = F +(−F ) = F −F . By doing this, one of two things happen
+α β α β
+(both of which are equivalent): either the as-
+The system as we have deﬁned it appears in set moves from the price x2 = x2 at the end
+allrespectstobelinear. Therefore,itisappro- of τ1 to the price x2 = 0 at the start of τ2, or
+priate to assume that the net response of the the coordinate system moves to set x2 = 0 at
+systemtotheinteractionsoftradersisthesum the start of τ2. Either way, the price displace-
+of the responses that the buyers’ and sellers’ mentfortheﬁrstslice,x(τ1),mustbetraversed
+againinfull,butintheoppositedirection,so
+7Some“penny”stocksmightgoforlongperiodswith-
+that x = 0 for the start of τ . This means if
+outbuyerorselleractivity.Themarketsweexaminehere 2 2
+arethosewithhightradevolumesforallrelevanttimes. mx¨ is the net force that displaces the asset in
+Theonlyreasonfortheretonotbeatradeinthesemarkets
+thepositivedirectionover τ ,theremustbea
+wouldbethattheexchangeisclosedsotheinteractions 1
+cannotoccur. negatively-directed force of equal magnitudeTHEACTIONPRINCIPLEINMARKETMECHANICS 7
+returning price x to zero for the start of τ . sothatthepositivetime-axisisheadingintothe
+2 2
+We’llexpressthisnegatively-directedforceas page,thepositive (cid:60)-axisispointingtothetop
+kx. ofthepage,andthepositive (cid:61)-axisispointing
+Thisturnsourproportionalstatement mx¨ ∝ to the right of the page. We’re now observ-
+x into ing only the two dimensions of the complex
+mx¨ = −kx. (1) plane. Thisconﬁgurationisslightlyunconven-
+tional, but it maintains the visual of positive
+Sincemx¨isapositively-directedforceandkxis
+pricechangesgoing“up”andnegativechanges
+anegatively-directedforceofequalmagnitude,
+going“down.”
+wemustaddanegativesignto kx sothatthe
+We ﬁnd a complex solution for Eq. (1) in
+twosidesoftheequationbalance.
+QuadrantIofthecomplexplane(upperright)
+Thisisaveryfamiliarequation. Itdescribes
+inthefollowingform:
+the motion of a simple harmonic oscillator.8
+Thisisconsistentwithobservationsofaﬁnan- (cid:32) (cid:114) (cid:114) (cid:33)
+k k
+cialmarketfromtheperspectiveofthehomo- ψB = R cos t+isin t , (2)
+m m
+geneous coordinate system we have created.
+Ateachtimeslice τ thebasicdynamicisthat where R isthemodulusof ψ .
+B
+theassetmovesthroughthepricedimensionin
+The principal value of the argument of the
+onedirectionandthenmustreturn(ortheco- complex number ψ at t , or arg(ψ ), is φ .
+B B B
+ordinatesystemreset)totheequilibriumpoint
+Let’s call φ the phase of system, where the
+(cid:101)
+for the next slice thereby covering the same
+phaseisdeﬁnedgeometricallyinthecomplex
+distanceinprice. planeastheanglefromthepositive(cid:60)-axistoa
+Sofarourcoordinatesystemhasthedimen- vectorrotatedtowardthe(cid:61)-axis. Inourcoordi-
+sions of time and price. Yet, there are well-
+natesystem,thismeansthephaseispositively
+known solutions to Eq. (1) in the complex directedifitmovesclockwisefromthe+(cid:60)-axis
+plane. Ifasolutiontoanequationofmotionde- towardsthe +(cid:61) axis.9
+rivedfromourobservationsofhowaﬁnancial
+Reviewing the complex solution for Eq. (1)
+marketmovesinpriceresidesinthecomplex
+we hold that the phase φ is equivalent to
+√ (cid:101)
+plane,wemustassumethatthecomplexplane
+t k/m. Let’s denote the change in the phase
+isanecessarycomponentofthelensthrough
+from t to t as
+A B
+whichweobservethisrealphenomenonevenif
+itendsupbeinganintermediatemathematical φ := ∆φ = φ −φ .
+(cid:101) B A
+contrivance.
+To observe this solution we must add one Deﬁned this way, at t = 0 where x = 0,
+A A
+moredimension—animaginarydimension—to φ mustalwaysequal π. Thismeans
+A 2
+ourcoordinatesystem. Thisthirddimensionis
+π
+representedbytheimaginary-axis (cid:61),thereby φ = φ − .
+B
+2
+makingourpricedimensionequivalenttothe
+real-axis (cid:60). Let’srotatethecoordinatesystem Thus, we see that the principle value of the
+phase displacement φ is always the comple-
+8Moregenerally,thesystemcanbeexpressedasaVan
+ment of the principle value of the phase at
+derPolequationx¨−γ(1−x2)x˙+x=0withtheconstant
+γ at or very near zero keeping the limit cycle close to
+circularsince,asweshallseein§4,thetheoryrelieson 9Most conﬁgurations in the literature have the
+eitherthetotalorveryneartotalconservationofenergy positively-directedphasemovingcounterclockwise.Thisis
+withanynetenergyintroducedintothesystemwholly simplyaresultofhowonechoosestosetupthecoordinate
+convertedtomotioninthepricedimension. system,sothevariationisirrelevantforourexamination.8 J.T.MANHIRE
+φ . In Quadrant I, the phase displacement Asfascinatingastheimplicationsofthisap-
+B
+φ is always negatively directed (rotates coun- proach might be, there is an explanation be-
+terclockwise) with the only exception being sidesthatofalingeringhiddendimensionthat
+φ = φ =0. is just as mathematically legitimate; one that
+B A
+If we span all quadrants for each τ we see regards the imaginary elements of the com-
+that the range of φ is {−π,π} from its zero plexplaneasameremathematicaltooltohelp
+B
+pointalongthe (cid:60)-axis,consistentwithEq. (2), us understand the reality we see, but not as
+and the range of φ is {−π,π} from its zero a physical reality itself. Let’s examine an ap-
+2 2
+pointalongthe (cid:61)-axis. Again, φ isalways π proach that yields the same result as Eq. (4)
+A 2
+alongthe (cid:61)-axis. for an asset’s price displacement without ad-
+Thephasedisplacementcanbeconsidereda mitting a lingering hidden dimension in our
+functionalofthepricedisplacement,or φ[x(t)]. physicalreality.
+Thissimplymeansthatthephasedisplacement So far we have only discussed ψ as the so-
+isanumber,thevalueofwhichisentirelyde- lution for Eq. (1). Mathematically, there also
+pendent on the price displacement, which is existsasolutionforEq. (1)inQuadrantII(up-
+afunctionwithelapsedtimeasitsparameter. perleft)thatisthemirrorimageof ψ reﬂected
+As we shall see later in our discussion of the aboutthe (cid:60)-axis:
+action (which is also a functional of the price
+displacement), the price derivative for which ψ∗ = R(sinφ−icosφ).
+the functional derivative is always zero is an
+Thisisthecomplexconjugateof ψ.
+extremum.
+Since ψ∗ is a mirror reﬂection of ψ, we can
+Fromthiswecanexpressthecomplexnum-
+assume both have the same phase displace-
+ber in Eq. (2) in terms of the phase displace-
+ment magnitude of φ. Therefore, we can con-
+ment φ withthefollowing:
+sider the price displacement x to be the one-
+ψ = R(sinφ+icosφ). (3) dimensionalmedianbetween ψ and ψ∗ inthe
+B
+complexplane. Becausethedistributionofpla-
+TherealsolutionforEq. (3)(thepricedisplace- nar area is symmetric between ψ and ψ∗, we
+mentweactuallyobserve)becomes canexpressthismedianas
+x = Rsinφ. (4) x = 1(ψ+ψ∗). (5)
+2
+Therealsolutionforthepricedisplacement
+We can say the same for x in the negative di-
+in Eq. (4) is typically a result of our solving rectionusing −ψ and −ψ∗.
+Eq. (1)andignoringtheimaginarypartsofthe
+Given our deﬁnitions of ψ and ψ∗ we see
+complexsolutionψinEq. (3). Takenasaphys-
+that
+icaldescription,thisapproachimpliesthatwe ψ+ψ∗ =2Rsinφ.
+onlyobserveonepartofamuchricherphysical
+reality,theimaginarypartofwhichsomehow Notethattheimaginarytermsicosφ in ψ and
+still lingers in existence but beyond our abil- −icosφinψ∗ cancelwhenadded. Substituting
+ity to observe it. Such an approach certainly thissumintoEq. (5)werecoverEq. (4).
+stirstheimaginationtoconceiveofa“hidden By thinking of the price displacement
+dimension”thatexistsbeyondoursensesyet as the one-dimensional median of the two-
+isstillresponsibleforthephenomenaweexpe- dimensional region between the wave func-
+rienceinreal-worldﬁnancialmarkets. tion and its complex conjugate, we arrive atTHEACTIONPRINCIPLEINMARKETMECHANICS 9
+the same solution using a mathematical con- superpositionofthingsthatcarrytheforcesof
+trivance that cancels the imaginary terms in- buyersandsellerswitharesultingamplitude
+steadofadmittingalingeringdimensionthat of ±R. Thisisconsistentwithourassumption
+physicallyexistsbutwhichwesimplyignore. that some “carrying thing” is responsible for
+Itisnotmerely“morecomplete”toregardthe transporting the net force generated by the
+pricedisplacementthisway,it’snecessary. Sim- tradinginteractionsofbuyersandsellersthat
+ply ignoring the imaginary parts deprives us ultimately effects a price change for an asset.
+ofafullerunderstandingofhowthepricedis- Aswithmanythingsinthephysicalworld,the
+placement,theprobabilitiesofthesedisplace- thingthatcarriestheforceinourtheoryisakin
+ments,andtheactionrelatetooneanother. toawave,oratleastitsanalog.10
+Becausewearedealingwithasinusoidwe Throughoutthispaperweareultimatelyin-
+can deﬁne the average frequency ν in cycles terestedinthepricedisplacement x,whichwe
+perunitofelapsedtimeandtheaveragephase knowisequivalentto xB giventhat xA canal-
+displacement per unit of elapsed time from ways be considered zero. Yet, ψA cannot be
+states A to B as ω,where considered zero since ψA = iR, so ψ (cid:54)= ψB.
+Still,wewilluseψtodenoteψ fortheremain-
+B
+φ
+ω = =2πν. (6) derofthispaperwiththeclearunderstanding
+t
+that when we use ψ hereafter we are really
+We will return to these terms later in our dis- talking about the complex number ψ at state
+cussionofprobabilitiesandourapproximation B andnotthechangeinthecomplexnumbers
+fortheextremepricedisplacements ±R. fromstates A to B.
+We now have the elements of our three- Looking at our solution for the price dis-
+dimensionalhomogeneouscoordinatesystem: placementinEq. (4)wecanmaketworelated
+elapsed time, displaced price, and displaced observations. The ﬁrst is that there exists a
+phase,or(t,x,φ).Fromthesethreecoordinates uniquephasedisplacementmeasureφforeach
+wecandetermineallrelevantdynamicsofthe possiblepricedisplacementoverperiod t. The
+ﬁnancial market that occur over the period t. secondisthatthenetmovementinpriceover
+Note that the price displacement is a func- period t issomemaximumabsolutemeasure
+tion of elapsed time and the phase displace- multipliedbyafunctionthatoscillatesbetween
+mentisafunctionalofthepricedisplacement. −1 and +1. In other words, xmin = −R and
+This gives us the homogeneous coordinates xmax = +R.
+(t : x(t) : φ[x(t)]),witheachcoordinatehaving Thishassigniﬁcantimplicationsforourthe-
+someproportionalitytoaunitofelapsedtime, oryofmarketmechanicsasitsuggeststhereis
+or somenetpricedisplacementmeasurebeyond
+(cid:18) (cid:19)
+t x φ
+: : . whichanassetcannotgoforadeﬁnedperiod.
+t t t
+Theabsolutepricedisplacementcanbegreater
+Since we can regard t = 1 with our unit than R foraperiodlessthan t (e.g., tn−j−tA
+assumption, we can reduce this to a two- where j is a positive, non-zero integer); how-
+dimensionalcoordinatesystemwithnolossin ever, it cannot be greater than R for t −t .
+B A
+generality. Thisgivesusthesimpliﬁedhomo- This means an asset’s net price movement is
+geneouscoordinates(x : φ)thatbecomeequiv- constrainedforaspeciﬁedperiod,notbysome
+alenttothe“speed”ofthemarket’smechanics
+overeachunitofelapsedtime,or (x˙ : ω). 10Althoughitismoreaccuratetorefertotheseaswave-
+likefunctions,forthesakeofbrevitywewillcallthemwave
+Setupthisway,ψ = ψA+ψB isthecomplex functionsthroughout.10 J.T.MANHIRE
+external regulation, but by the properties of Alternatively, the Lagrangian is often de-
+theassetitself. Wewillcoverthismorefullyin ﬁnedasthedifferencebetweenthekineticterm
+alatersection. K and the potential term V of a system, each
+measured at t , since K expresses a property
+(cid:101)
+4. The Action Principle in terms of x˙(cid:101) and V in terms of x(cid:101). There-
+fore, L = K −V .12 It is well known that
+(cid:101) (cid:101)
+Ournextendeavoristoexaminewhetherthe in any physical system the observable path
+motionofanassetthroughpriceisconsistent of an object (the trajectory the object actually
+with the principle of stationary action, mean- takes through conﬁguration space over time)
+ing we will investigate whether the action of minimizesthisdifferential L overtime.13 This
+the market system is stationary under small is where the term “principle of least action”
+perturbations along its path from x at t to comesfrom.
+A A
+x at t ,atleasttoaﬁrstorderapproximation Still speaking analogously, recall from the
+B B
+[10][11]. third postulate that this theory posits that an
+Wewouldberemissifwedidnotacknowl- asset contains none of its own “force” and,
+edge that the discussion in this section of a therefore, none of its own “energy.” Any dis-
+ﬁnancial market as a system with “energies” placement of the asset in price is a result of
+(evenadiscussionbyanalogy)understandably workdoneontheasset,whichisequaltothe
+appearsasaSamuelsoniannightmareforsome netexternalforceovertheamountofanydis-
+readers[12]. Pleasekeepinmindthat,perour placement. Thetheoryfurtherholdsthatthere
+ﬁrst postulate, we use these concepts analo- isonlyoneaggregatesourcethatgeneratesthis
+gously but hold that the analogous concepts netexternalforceandintroducesittotheasset:
+mighthelpusbetterunderstandthedynamics the net effect of buyers’ and sellers’ trading
+ofthemarketmechanicsweobserve. interactions.
+Wedonotmakethisexaminationforitsown From the previous sections we see that at
+sake. We will use the calculated value of the each time slice τ the asset moves linearly in
+market’sactiontoderiveamethodforapprox- price. Asappliedhere,theprincipleofstation-
+imating the constraints of the system’s price ary action holds that for each elapsed time t
+displacementforanytimeslicethatareacon- the “path” taken by an asset (i.e., the curve
+sequenceofitsoscillatingmechanics. tracedoutintherelativeconﬁgurationspaceof
+thepricedimension)betweentimes t and t
+A B
+istheoneforwhichtheactiondoesnotchange
+A. TheActionandtheLagrangianGenerally
+(i.e.,isstationary)undersmallchangesinthe
+TheLagrangianisawayofdescribingaﬁnan-
+relativeconﬁgurationoftheassetrelatedtothe
+cial market as a function of the conditions at
+relativepricedimension.
+t (or any initial time for a slice τ) relating to
+(cid:101) Sincethepricedimensionisourverticalco-
+thepriceatthebeginningofthetimeslice(x )
+(cid:101) ordinateaxis,wecangofurtherandstatethat
+and the ﬁrst derivative of that price (x˙ ). It
+(cid:101) such a path is a straight line in either the up
+containsthecompleteinformationofboththe
+ordowndirection,althoughunderrotationwe
+system and the effects of forces acting upon
+cangeneralizeitasthepositiveornegativedi-
+thesystem.11
+12Note that the kinetic term is simply the integral of
+11DiracwouldmostlikelyconsidertheLagrangiannot theleft-handsideofEq.(1)andthepotentialtermisthe
+asafunctionoftheasset’sinitialcoordinatesanditsﬁrst negativeintegraloftheright-handside,bothwithrespect
+derivative,butinsteadasafunctionoftheasset’spriceat topricedisplacement.
+timet(cid:101)anditspriceattimet(cid:101)+1,i.e.,asendpoints[13]. 13ThisisshownbytheEuler-Lagrangeequation.THEACTIONPRINCIPLEINMARKETMECHANICS 11
+rection. Thisisconsistentwiththeoscillating Dirac’sapproach[13]and,later,Feynman’sdef-
+dynamicexpressedearlier. inition [14]. Observe, however, that the price
+Itisimportanttonotethisisonlyconsistent displacementisnotonlyaresultofthephase
+withobservedmarketmechanicswhen t = τ; displacement of ψ. It is also a result of the
+thatis,theassetmovesstrictlyupordownin phasedisplacementbelongingtothecomplex
+priceonlyatlocaltimeslices. Whatis“local?” conjugateof ψ∗,whichwe’lldenotehereas φ∗
+Well,thatdependsonwhatmeasurewewishto to avoid confusion.15 In fact, both φ and φ∗
+givenandourdeﬁnitionofatemporalinterval contribute in equal measure to x since, as we
+unit. showedearlier,acomplexnumberanditscom-
+plexconjugatesharethesame (cid:60)-axisvalue x ,
+Thoughtofanotherway,theaction—again, B
+whichinourhomogeneouscoordinatesystem
+thetimeintegraloftheLagrangian—overany
+is equivalent to the price displacement x. So
+region of our price-time coordinate system
+if the Lagrangian for each time slice τ makes
+must be stationary for any small changes in
+some contribution to the total price displace-
+the coordinates in that region. If we keep di-
+ment x measured between t and t so does
+vidingtheregionsuntilwegettoacollection A B
+twicethephasedisplacementforthattimeslice,
+of time slices, we observe this stationary ac-
+whichwe’lldenoteasafunctionaloftheprice
+tion as the binary “up-down” oscillations of
+displacementforthatinterval τ,or2φ[x(τ)].
+typicalmarketmechanicsateachtimeslice τ,
+whichagainistheelapsedtimefromt(cid:101) tot(cid:101)+1. SincethelocalelementsofEq. (7)sumtothe
+Therefore,foreachtimesliceinourprice-time totaltimeintegraloftheLagrangianbetween
+coordinate system there exists a Lagrangian tA and tB, and therefore the total action, we
+that is a function of its coordinates and their canstatethateachelement (cid:82)t(cid:101)+1L dt ≡ dS (if
+t(cid:101)
+ﬁrstderivativeswithrespecttotime. n is sufﬁciently large) and that each element
+isminimizedundertheprincipleofstationary
+Does this mean we can’t determine the ac-
+tionbetween t and t whentheelapsedtime action.
+A B
+isnotlocal? No,infact,quitetheopposite. It
+simply means we must ﬁrst examine the spe-
+B. MeasuringtheAction
+ciﬁcdynamicsateachslice τ between t and
+A
+tB andthensumoverallperiodsτ toﬁndmea- Webeginmeasuringtheactionbyexamining
+surable results that match observed data. In the potential and kinetic terms of the system.
+otherwords,theactionS fromtA totB isequal Anypositively-directedforcecanbeexpressed
+tothefollowingseriesoftimeslices: as the negative spatial derivative of the sys-
+tem’s potential. Thus, by analogy, we can ex-
+(cid:90) tB (cid:90) t1 (cid:90) t2 (cid:90) tn
+Ldt = Ldt+ Ldt+···+ Ldt, pressthenegatively-directedforce kx fromEq.
+tA t0 t1 tn−1 (1) as the positive price derivative of the po-
+(7)
+tential (or its analog) of the system we call
+where τ(cid:101) = t(cid:101)+1−t(cid:101) just as on a larger scale
+a ﬁnancial market. This potential V then be-
+weﬁnd t = t −t .14
+B A
+comes
+The Lagrangian over each time slice τ(cid:101) in V = 1kx2. (8)
+ourprice-timecoordinatesystemmakessome 2
+contributiontothetotalpricedisplacement x
+measuredbetweent andt . Thisissimilarto 15Technically,thecomplexwavefunctionψhasthecon-
+A B jugateψ∗andbothhaveidenticalphasedisplacementsφ,
+althoughtheyareoppositelydirected;however,it’seasier
+14Ofcourse,wecanalwayssetttoτ(cid:101),tBtot(cid:101)+1,andtA totalkaboutthephasedisplacementsattributedtoeach
+tot(cid:101)ifwechoose. bydenotingthem,forthemoment,asφandφ∗.12 J.T.MANHIRE
+Note that the potential term of the asset is themovementoftheassetthroughthepricedi-
+simplythepriceintegraloftheright-handside mension. Inotherwords,W =V(cid:101) = K(cid:101)+1. For
+of Eq. (1). The kinetic term should then be this to be true, V(cid:101)+1 and K(cid:101) must equal zero,
+thepriceintegraloftheleft-handside,which withV andK“tradingoff”measuresovereach
+becomes elapsedperiodbutthesumofV and K always
+1
+K = mx˙2. (9) equalingW forthattimeslice.
+2
+Sotheanswertothequestion,“Whatisthe
+Atthispointweshouldalreadybegintosus- potentialofthesystem?” dependsentirelyon
+pectanequivalencebetweenthepotentialand whenweaskthequestionovertheelapsedtime
+kinetictermsinﬁnancialmarketssincebothare slice τ.Forthisreason,itbecomesimpossible
+resultsofpriceintegralsofthebalanceofthe to express the potential and kinetic terms in
+netinteractionofbuyersandsellersexpressed any way except as averages over τ. The only
+inEq. (1). Still,wewilldivemoredeeplyinto exceptionsareexpressionsofthepotentialand
+thisoverthecomingpagesinordertobesure. kinetictermsattheendpointst(cid:101)andt(cid:101)+1ofthe
+The next question becomes, “What is the generic slice τ . Since K = 0, the Lagrangian
+(cid:101) (cid:101)
+measure of this action, and by extension, the becomes
+measure of the phase displacement?” We at-
+tempt to answer this by again examining the L = K(cid:101)−V(cid:101) =0−V(cid:101) = −V(cid:101).
+dynamicsateachtimeslice.
+We’vemadeabitofprogress. Wenowknow
+Ateachsliceτthenetexternalforcecausesa
+that the Lagrangian is the negative initial po-
+tinyamountofworktobedonewithrespectto
+tentialgeneratedbytheinteractionsofbuyers
+atinydisplacementinprice, especiallywhen
+n is very large, or F(τ ) = dW . To ﬁgure and sellers for any time slice τ(cid:101). But what is
+(cid:101) dx(τ(cid:101)) themeasureofthispotential? Weknowitmust
+outthetotalamountofworkdoneontheasset
+be the same as the average measure of work,
+over the period we take the price integral of
+thenetexternalforce,orW = 1Fx. which is equal to 12Fx. We also know from
+2 Newton’ssecondlawthat F = mx¨ = mx since
+TheworkW isequivalenttothetotalpoten- t2
+x¨ = x/t2 whentakenasanaverage. Therefore,
+tial necessary to be introduced into the asset
+from the net interactions of buyers and sell- 1 mx mx2
+Fx = x = .
+ers in order to make the asset move in price. 2 2t2 2t2
+Sincetheassetneitherhasnorstoresanyofits
+But this is the same as the measure of the
+own“energy,”anypotentialusedtomovethe
+averagekinetictermofasystemsincetheav-
+assetthroughthepricedimensionmustcome
+erage x˙ is always x/t. It seems, therefore,
+fromthenetpotentialintroducedintotheasset
+that K = V . Since K implies that
+bytheseexternalinteractions. Inotherwords, max max max
+V = 0, V implies that K = 0, and
+the kinetic term K resulting from any price min max min
+V ≡V ,wecanconcludethat
+displacementmustcomefromanexternalpo- (cid:101) max
+tential V. This means the ﬁnal kinetic term
+kx2 mx2
+must equal the initial potential as measured V(cid:101) = 2 = 2t2
+overanyelapsedperiod.
+Consequently, we can hold that the total as an average measure for t = τ(cid:101).16 Conse-
+work performed on the asset equals the to- quently, wecanexpresstheLagrangianofan
+talpotentialinitiallyintroducedintotheasset.
+16There are some who might argue that if we are ex-
+Thisisalsoequaltotheﬁnalkinetictermfrom pressingtheaveragekinetictermwhereτissmallwemustTHEACTIONPRINCIPLEINMARKETMECHANICS 13
+assetas termovertheperiod τ asanaverage,weget
+(cid:101)
+mx2
+L = −V = − .
+(cid:101) 2t2 (cid:16)mx(cid:17)(cid:16)x(cid:17) mx2
+S = = ,
+2 t 2t
+Because the action is deﬁned as the time
+integraloftheLagrangian,wecanexpressthe whichisthesamevaluewederivedoriginally.
+actionas Recallthesolutionfortheasset’spricepath
+for any elapsed period is x(t) = 1/2(ψ+ψ∗).
+(cid:90) tB mx2 mx2
+S = − dt = . (10) Wenextwanttoknowiftheactionalongthis
+tA 2t2 2t path x(t) is stationary, or more speciﬁcally,
+minimized.
+Wecanalsoﬁndthemeasureoftheactionby
+Assumex(t)istheactualpaththeassettakes
+calculatingitfromthetheoreticalLagrangian.
+throughthepricedimensionfromt tot ,and
+Expressedthisway,theactionbecomes A B
+ξ(t) issomearbitrarypathitcantakebetween
+S = m (cid:18)(cid:90) tB x˙2− k x2 dt(cid:19). the two temporal endpoints. We’ll introduce
+2 tA m thetermη(t)assomevariationfromtheactual
+path x(t), where η(t) := η(t ) = η(t ) = 0.
+A B
+Integratingbypartsgivesusthefollowingre-
+Wecanthendeﬁnethearbitrarypathasξ(t) :=
+latedtothekineticterm:
+x(t)+η(t).
+(cid:90) tB x˙2 dt = (cid:90) tB x˙x˙ dt = |xx˙|tB . SincetheLagrangianisquadraticin x and x˙,
+tA tA tA theactionforthearbitrarypath ξ(t) becomes
+Since x¨ = −kx,weget S(ξ) = S(x+η) = S(x)+S(η),
+m
+(cid:90) tB x˙2 dt = |xx˙|tB + k (cid:90) tB xx dt. whichisvalidforanoscillatingsystem. There-
+tA tA m tA fore, S >0when η(tA) = η(tB) =0.
+The action of the arbitrary system then be-
+Theactionthenbecomes
+comes
+S = m2 (cid:20)|xx˙|ttBA + mk (cid:90)tAtB xx dt− mk (cid:90)tAtB xx dt(cid:21), S(x)+S(η)+m (cid:18)(cid:90) tB x˙η˙ dt− k (cid:90) tB xη dt(cid:19).
+2 tA m tA
+whichsimpliﬁesto
+Ifwerewritethetermx˙η˙ intermsofη,weﬁnd
+S = m |xx˙|tB = m(x x˙ −x x˙ ). thattheintegratedtermsdisappearsinceη =0.
+2 tA 2 B B A A Therefore, S(η) = 0 meets the condition that
+Becauseweset xA =0inourhomogeneousco- S >0when η(tA) = η(tB) =0.
+ordinatesystem,the x termsdisappear. Fur- We can also deﬁne the action as stationary
+A
+ther,becausewecanonlytalkaboutthekinetic if there is no change in S in the ﬁrst approx-
+imation. In general, if we have a minimum
+quantity of a function then any perturbation
+dosoas m(cid:18)x(cid:101)+1−x(cid:101) · x(cid:101)−x(cid:101)−1(cid:19) awayfromthatminimumintheﬁrstorderwill
+2 t(cid:101)+1−t(cid:101) t(cid:101)−t(cid:101)−1 onlyhaveadeviationinthesecondorder. At
+notas m·(cid:0)x(cid:1)2ifthemeanvalueofthesquareoftheprice anyotherplacebesidestheminimumasmall
+2 t
+displacementisdtinsteadofdt2.Whilethisexceptionis perturbationwillshowupintheﬁrstorder,but
+noted,thenotationusedinthispaperseemsadequatefor
+at the minimum any small perturbation will
+purposesofexaminingthepricedisplacementofﬁnancial
+markets. makenodifferenceintheﬁrstapproximation.14 J.T.MANHIRE
+We can examine this by looking at the ac- absolutevalueofthephasedisplacementisin
+tion as a series. The action S = mx2 can be therange [0,π].Itisthesameforanynegative
+2t 2
+expressedastheinﬁniteseries price displacement. Therefore, if solutions to
+|φ| include these two extremes when the par-
+∞
+∑ 1(t−1)n(cid:104)(−1)nmx2(cid:105) (11) tialderivativeoftheactionwithrespecttothe
+2
+n=0 phase displacement is equal to zero, we can
+reasonablyassumetheactionisstationaryfor
+for|1−t| =0,whichiswhatwe’relookingfor
+allvaluesofthepricedisplacement |x|.
+since we want the action to be stationary for
+Recall from Eq. (4) that x = Rsinφ. Thus,
+anyunitofelapsedtime. Becauseweonlyneed
+we can set the partial derivative of the action
+tocalculatethevaluetotheﬁrstapproximation
+with respect tothe phase displacement equal
+to judge if the action is stationary we can re-
+tozerowiththeexpression
+strictthisseriesfrom n ∈ {0,∞} to n ∈ {0,1}.
+Thisgivesus ∂ (cid:18)m(Rsinφ)2(cid:19)
+=0. (13)
+∂φ 2t
+1 (cid:104) (cid:105) 1 (cid:104) (cid:105)
+(t−1)0 (−1)0mx2 + (t−1)1 (−1)1mx2 ,
+2 2
+Thisbecomes
+whichbecomes mR2sinφcosφ
+=0, (14)
+1 (cid:104) (cid:105) 1 (cid:104) (cid:105) t
+(1) (1)mx2 + (t−1) (−1)mx2 .
+2 2
+which generates two possible solutions: gπ
+Thisreducesto andgπ+ π,wheregisanintegerscalar. We’re
+2
+interestedinsolutionsat g =0sinceallother
+mx2
+(2−t). (12) solutionsaresimplypositiveornegativeinte-
+2
+germultiples. Thisleavesuswiththesolutions
+Note that at t = 1 this equation is equivalent
+π
+to Eq. (10). Thus, we see that δS = 0; the |φ| =0 and |φ| = , (15)
+2
+action remains stationary to the ﬁrst approxi-
+mation for any temporal unit. Therefore, we whicharetheextremesoftheabsolutevalueof
+can conclude the differential represented by eachphasedisplacementwejustmentioned.
+theLagrangianover t isminimized. Accordingly, we can conclude that all pos-
+sible paths for the price displacement x will
+From Eq. (10) we see that the action is
+result in a stationary action to a ﬁrst order
+parabolic with regards to the price displace-
+approximation. Therefore, the mechanics of
+ment. Therefore,wecanlookforsolutionsfor
+ﬁnancial markets viewed through the lens of
+thepricedisplacementthatmaintaintheaction
+ourhomogeneouscoordinatesystemconform
+as stationary. One way to do this is to take
+totheprincipleofleastactionforallpossible
+thepartialderivativeoftheactionwithrespect
+pricepaths.
+to the price displacement and ﬁnd solutions
+whenthepartialderivativeiszero. Ourhopeis
+eriving robabilities
+5. D P
+thattheactionremainsstationaryforallpossi-
+blevaluesofthepricedisplacement,meaning
+Wenowunderstandthatthereexistsaunique
+fromzeroto |R|.
+complexnumber ψ anditscomplexconjugate
+For any positive price displacement on the ψ∗ for every discrete price displacement x in
+complex plane ranging from zero to |R| the the inclusive range x ∈ [−R,R]. We can ex-THEACTIONPRINCIPLEINMARKETMECHANICS 15
+press ψ asanexponentialfunctionof φ inthe methodfordoingthisbydeﬁningmultiplere-
+form gionsandthensplittingthemup,butwecan
+ψ =iexp[−iφ]. (16) also view this as a basic probability problem.
+Byasking,“Whatistheprobabilityofxhaving
+Thisbecomesaprobability(Gaussian)function
+the speciﬁc value X?,” we’re essentially ask-
+bysimplysquaringtheexponent
+ing,“Whatistheprobabilityofﬁndingboth ψ
+(cid:104) (cid:105) (cid:104) (cid:105) and ψ∗ eachwithspeciﬁcphasedisplacement
+iexp (−iφ)2 =iexp −φ2 (17)
+values φ = Φ where Φ is the unique phase
+displacement for X?” Formally, this becomes
+and it becomes normalized by dividing the
+Pr(ψ∩ψ∗).Weknowhowtosolvethissinceit
+Gaussianbythesumofallpossiblevaluesof
+iswellknownthat
+theGaussian
+iexp(cid:2)−φ2(cid:3) Pr(ψ∩ψ∗) =Pr(ψ)·Pr(ψ∗)
+Pr(ψ) = (cid:82)∞ = Qψ e−φ2, (18)
+i exp[−φ2] dφ
+−∞ if ψ and ψ∗ are independent events, which
+where Q isthecorrespondingnormalization they are since they are unique and separate
+ψ
+constant for ψ in terms of the phase displace- from each other. Because this is the same as
+mentwiththevalue theprobabilityofaspeciﬁcpricedisplacement
+since the phase displacements are functions
+1
+Qψ = √ . (19) (more properly functionals) of the the price
+π
+displacement,itfollowsthat
+WeperformasimilaroperationtogetPr(ψ∗).
+Pr(x) =Pr(ψ)·Pr(ψ∗).
+Wealsounderstandfromourdiscussionof
+theLagrangianinEq. (7)thatforeachunique BecausePr(ψ) ≡Pr(ψ∗),thisgivesus
+price displacement x there exist two unique
+phasedisplacements φ;oneinQuadrantIand Pr(x) =Pr(ψ)2. (20)
+another in Quadrant II of the complex plane
+for positive price displacements, and one in
+Quadrant III and another in Quadrant IV for Note that we are simply adding the phase
+negativepricedisplacements. displacements together. Since the phase dis-
+In other words, for any +x there exist 2|φ| placements are in exponential forms we add
+andthesameforany−x.Ifwedeﬁnetheabso- bymultiplyingthetwoexponentialfunctions,
+luterangeofeach |φ| tobe [0,π] aswedidat whichinthiscaseisequivalenttosquaringthe
+2
+originalexponentialfunctionbecausePr(ψ) ≡
+theendof§4thenforanyabsolutepricedis-
+placement |x| thereexist4|φ| since |x| ≡ ±x. Pr(ψ∗). This is because the product of a se-
+ries of exponential functions is equal to the
+Similarly, we ﬁnd that the probability of
+exponentialfunctionofthesumofaseriesof
+the unique price displacement x occurring is
+exponents,or
+a function of both ψ and ψ∗. Since x results
+fromthephasedisplacementsassociatedwith (cid:32) (cid:33)
+∏ (cid:0) (cid:1) ∑
+ψandthephasedisplacementsassociatedwith exp aj =exp aj .
+ψ∗,wemustaddthe φ-termsforbothsidesto j j
+ﬁnd the probability of a speciﬁc value X, or
+Pr(x = X). Determiningtheprobabilityofthepricedis-
+Feynman[14]givesamuchmoreelaborate placementhavingthevalue X intermsofthe16 J.T.MANHIRE
+actionforeachelapsedperiodthenbecomes 2πν(Φ),where ν(Φ) istheaveragefrequency
+atthespeciﬁcphasedisplacementvalueΦ.We
+(cid:32) (cid:33)2
+iexp[−S] (cid:16) (cid:17)2 canexpressthisas
+(cid:82)∞ = Qx e−S (21)
+i exp[−S] dx
+−∞ Pr(|φ| ≥ Φ) ≡Pr(|φ| ≥2πν(Φ)). (23)
+where Q isthecorrespondingnormalization
+x
+constantforthepricedisplacementintermsof We can also express this equation using the
+theactionwiththevalue Gausscomplementaryerrorfunctionas
+(cid:114) m erfc(Φ) ≡erfc(2πν(Φ)), (24)
+Q = . (22)
+x
+2πt
+whichimplies
+This approach implies that the total proba-
+bility measure of the absolute price displace- Φ =2πν(Φ) (25)
+ment |x| for any region of relative conﬁgura-
+tionspacewithboundarycoordinates (|x|,|φ|) or
+Φ
+istheproductoftwoidenticallysplitregionsof ν(Φ) = . (26)
+2π
+three-dimensionalrelativeconﬁgurationspace
+with elapsed time t = 1. This is because the Let’s next try to express the probability of
+probabilities as we’ve constructed them are the absolute price displacement |x| being at
+exponentialfunctionsrelatingtotheabsolute leastthevalue|X|intermsoftheactionS.We
+phasedisplacement |φ|. Theentireprobability knowthevalueoftheactionfromEq. (10). To
+measureisthecombinationoftwoevenly-split ﬁnd the normalized probability of |x| ≥ |X|
+regionswithrespectto |ψ| and |ψ∗| alongthe in terms of the action we integrate the action
+(cid:60)-axisofourhomogeneouscoordinatesystem as an exponent from |X| to inﬁnity. We then
+foreachtimeslice τ. normalizetheresultbydividingbytheintegral
+Inshort,wemustsquarethetraditionalprob- ofthesamefromzerotoinﬁnity. Thisgivesus
+abilityfunctionfor |ψ| effectivelydoublingthe
+absolute phase displacement since there are (cid:82)|∞X|e−Sdx (cid:16)√ (cid:17)
+(cid:82)∞ =erfc S . (27)
+twopossiblewaysinthecomplexplanewecan e−Sdx
+0
+get the exact same price displacements for x,
+namely, ψ and ψ∗. The same is true for −x But recall that this is only one-half of the me-
+with−ψand−ψ∗. Thisapproachdoesnotvio- chanics since it represents the probability in
+termsof |ψ| only. Tocompletethepicture,we
+latetheprincipleofunitaritysinceprobability
+measuresremainbetweenzeroandunity.17 must add the |ψ∗| half, thereby squaring the
+entirequotient. Thisresultsin
+Recallourexpressionsofthefrequenciesin
+Eq. (6)andouruseofanelapsedtimeunit. The (cid:16)√ (cid:17)2
+Pr(|x| ≥ |X|) =erfc S . (28)
+probabilityofthephasedisplacementbeingat
+leastsomevalue Φ isequivalenttotheproba-
+Thisimplies
+bilityofthephasedisplacementbeingatleast
+17Onemightarguethatthisapproachassumesthatprice (cid:18) (cid:114)m(cid:19)2
+displacementsinthepositiveandnegativedirectionsare Pr(|x| ≥ |X|) =erfc |X| (29)
+2t
+symmetric, whichinmostcasestheyarenot. However,
+ifweonlymeasuretheprobabilitiesoftheabsoluteprice
+displacementsandthecorrespondingabsolutephasedis- from(10).
+placements, this asymmetry should not matter for our
+purposes. Sincethereexist4|φ|forany|x|,wecanstateTHEACTIONPRINCIPLEINMARKETMECHANICS 17
+furtherthat an elapsed period and the inertial coefﬁcient
+unique to each asset, or φ[x(t),m]. So, too, is
+Pr(|x| ≥ |X|) =erfc(4Φ)2 =erfc(8πν(Φ))2. theactionsuchafunctional,whichwealready
+(30) surmisedfromEq. (10).
+Combiningtheseequationsgivesus
+Regardedthisway,theactionofaﬁnancial
+market’s one-dimensional (linear) price path
+(cid:18) (cid:114) (cid:19)2
+m
+erfc |X| =erfc(8πν(Φ))2. (31) becomes the square of an analogous notion
+2t
+oftwo-dimensional(circular)rotationalspeed
+in the complex plane. We’ll denote this two-
+Thisimpliesthegeneralexpression
+dimensionalquantityas u.Therefore,wecon-
+(cid:114)
+m cludethat
+|X| =8πν(Φ). (32)
+2t S = u2. (39)
+If|X| = |R|then|Φ| = π.FromEq. (26)we Wewillnextapplythesetheoreticalexpres-
+2
+sionstohistoricaldatafromvariousﬁnancial
+seethat
+(cid:16)π(cid:17) 1 markets and see to what extent the historical
+ν = . (33)
+2 4 andtheoreticalresultsareconsistent.
+SubstitutingthisintoEq. (32)weget
+(cid:114)m (cid:16)π(cid:17) (cid:18)1(cid:19) 6. Testing the Theory
+|R| =8πν =8π =2π. (34)
+2t 2 4
+Now that we’ve laid the theoretical ground-
+This gives us a ﬁnal expression for the mea- work, let’s see if the theory is, at a minimum,
+sureoftheextremepricedisplacementforany consistent with certain historical asset prices.
+ﬁnancialmarketas Thefollowingdescribesoursimplewaytotest
+(cid:114) for conformity with historical data, although
+8t
+|R| = π , (35) Iamcertainthereareotherswithmuchmore
+m
+robustmethodstotestthis.
+or,since t =1, The ﬁrst part is really the set up where we
+comparetheoreticalprobabilitycalculationsfor
+8π2
+R2 = . (36) theabsolutepricedisplacementbeingatleast
+m
+itshistoricalvalueforeachperiodagainstthe
+relative frequency of that minimum displace-
+If we then substitute this value into the
+ment occurring over an extended period. If
+square of our original solution for the price
+theprobabilitieshaveanacceptablecorrelation
+displacementinEq. (4)weﬁndthat
+value (say, r2 > 0.99) it suggests the theory
+8π2 mightnotbeincorrect(whichisquitedifferent,
+x2 = sin2φ. (37)
+m of course, from suggesting the theory might
+be correct). This ﬁrst part will also allow us
+Rearranged,wecanexpressthepricedisplace-
+toapproximateanaverageinertialcoefﬁcient
+mentinEq. (4)intheformoftheaction
+foreachindividualmarketthatwewillusefor
+S = (2πsinφ)2. (38) ourprimarytest.
+The second part of the test for conformity
+This implies the phase displacement is both is to predict the extreme price displacements
+a functional of the price displacement over forindividualﬁnancialmarketsfromdatacol-18 J.T.MANHIRE
+lectedwellinadvanceof,sometimesdecades Thethirdstepistocodethedatawitheither
+before,anhistorical“crash”andseeifthepre- a “0” or “1.” A code of 0 means the value of
+dicted extreme is violated by the crash many |x| for a particular week w is less than some
+years later. If it is not violated, the results arbitrary value |X|. A code of 1 means the
+suggest two things: that (1) again, the theory valueof |x| isgreaterthanorequalto |X|.We
+might not be incorrect; and (2) each ﬁnancial canthentaketheaverageofallthe0’sand1’s
+markethasaninertialcoefﬁcient(oritsanalog) for each |X| and call it the relative frequency
+thatisaninternalpropertyofthatasset. ofthemarketmeetingthecondition |x| ≥ |X|.
+Limited by time and access to free market Wedenotethisrelativefrequencyfunction ρ.
+dataextendingbackmultipledecades,wetest The fourth step is to approximate the aver-
+hereonlyafewﬁnancialmarketsfortheunit agevalueoftheinertialcoefﬁcient m foreach
+period t = 1 trading week. We use represen- asset,whichwedenoteasmˆ.Wedothisbyem-
+tativestockindicesfromAmerican,European, ploying Eq. (29), performing some algebraic
+and Asian exchanges, a commodity futures manipulation, and concluding that the value
+contract,aforeigncurrencyexchangepair,and of m foraspeciﬁcweek w is
+a single publicly-traded company. Each of
+thesehassufﬁcienttradingvolumesandfreely (cid:32)erfc−1((cid:112)ρ(|x| ≥ |X|)(cid:33)2
+m =2t (40)
+accessiblehistoricaldatareachingbackintoat w |x|w
+leastthe1990sandsomeintotheearly1970s.
+recalling, of course, that t = 1 trading week.
+Theapproximationoftheaveragevalueofthe
+A. ProbabilitiesandInertialCoefﬁcients
+inertialcoefﬁcientforamarketthenbecomes
+Theﬁrststepinthistestistoﬁndweeklyhis- the value of mˆ that yields the highest coefﬁ-
+toricalpricedatafortheﬁnancialmarketswe cientofdeterminationvaluer2 forthedepen-
+wishtoexamine. Thefollowingaretheweekly dent variable Pr(|x| ≥ |X|) and the indepen-
+data that are freely available for each market dentvariable ρ(|x| ≥ |X|) where |X| = |x|w.
+fromthedatelistedtothepresent:18 The following are the mˆ and r2 values for
+eachassetusingthismethodsampledfromthe
+• S&P500(U.S.): 15June1980 ﬁrst 100 weeks of the data set with the dates
+• DowJones30(U.S.): 10February1985 listed previously (e.g., the S&P 500 sample is
+• NASDAQ100(U.S.): 15June1980 fromthebeginningoftheweekstarting15June
+• DAX(Germany): 03January1988 1980 to the end of the week starting 16 May
+• Nikkei225(Japan): 15January1984 1982):
+• WIG20(Poland): 24April1994
+• S&P500: mˆ =977.73;r2 =0.9992
+• GoldFutures: 27January1980
+• DowJones30: mˆ =982.21;r2 =0.9997
+• USD/JPY:10January1971
+• NASDAQ100: mˆ =683.00;r2 =0.9988
+• Johnson&Johnson(JNJ):23March1980
+• DAX: mˆ =504.66;r2 =0.9998
+The second step is to calculate the change • Nikkei225: mˆ =474.14;r2 =0.9990
+inpricefromthepreviousweek’sclosetothe • WIG20: mˆ =355.92;r2 =0.9988
+current week’s close (x −x ). We can then • GoldFutures: mˆ =820.35;r2 =0.9994
+B A
+calculatetheabsolutepricedisplacementratio • USD/JPY: mˆ =2513.76;r2 =0.9977
+using |x| = |x /x −1| foreachweek. • JNJ: mˆ =511.80;r2 =0.9995
+B A
+18Source:www.investing.com. Although we calculate the values of mˆ forTHEACTIONPRINCIPLEINMARKETMECHANICS 19
+each market, the fact that the coefﬁcient of • Actual |x| forCrashWeek: 1252.72
+determinationissohighformostsamplessug- • IntervalfromPred. toCrash: ≈ 18years
+gests that our method of calculation is very
+closetoaccurate. Nikkei225(N225)
+• Datafrom: 1984-1986
+B. ExtremePriceDisplacements
+• CrashWeek: 11October1987
+Therealtestforconformityofthetheorywith • Predicted |R| forCrashWeek: 6732.38
+historicaldataistothenusethevalueof µˆ in • Actual |x| forCrashWeek: 3068.00
+ordertopredicttheextremevaluesfor |x| for • IntervalfromPred. toCrash: ≈ 1year
+anyoneweek. Thistestrequiresthepostulates
+and assertions of this theory be accurate. If
+WIG20(WIG20)
+theresultsareconsistent,itsuggeststhisview
+of ﬁnancial markets through the lens of our • Datafrom: 1994-1996
+homogeneous coordinate system may be of • CrashWeek: 05October2008
+some value in future examinations of market • Predicted |R| forCrashWeek: 1107.86
+mechanics. • Actual |x| forCrashWeek: 360.54
+• IntervalfromPred. toCrash: ≈ 12years
+S&P500(SPX)
+• Datafrom: 1980-1982 GoldFutures(GC)
+• CrashWeek: 05October2008
+• Predicted |R| forCrashWeek: 312.37 • Datafrom: 1980-1982
+• Actual |x| forCrashWeek: 200.01 • CrashWeek: 18September2011
+• IntervalfromPred. toCrash: ≈ 26years • Predicted |R| forCrashWeek: 562.18
+• Actual |x| forCrashWeek: 174.60
+• IntervalfromPred. toCrash: ≈ 29years
+Dow30(DJI)
+• Datafrom: 1985-1987 U.S.DollarJapaneseYen(USD/JPY)
+• CrashWeek: 05October2008
+• Predicted |R| forCrashWeek: 2927.51 • Datafrom: 1971-1973
+• Actual |x| forCrashWeek: 1874.19 • CrashWeek: 4October1998
+• IntervalfromPred. toCrash: ≈ 21years • Predicted |R| forCrashWeek: 24.02
+• Actual |x| forCrashWeek: 18.90
+NASDAQ100(NDX) • IntervalfromPred. toCrash: ≈ 15years
+• Datafrom: 1980-1982
+Johnson&Johnson(JNJ)
+• CrashWeek: 09April2000
+• Predicted |R| forCrashWeek: 1511.81 • Datafrom: 1980-1982
+• Actual |x| forCrashWeek: 1125.16 • CrashWeek: 05October2008
+• IntervalfromPred. toCrash: ≈ 18years • Predicted |R| forCrashWeek: 25.99
+• Actual |x| forCrashWeek: 10.31
+DAX(GDAXI) • IntervalfromPred. toCrash: ≈ 26years
+• Datafrom: 1988-1990 Note that in all cases the data used to ap-
+• CrashWeek: 05October2008 proximatetheextremevalueofamarketcrash
+• Predicted |R| forCrashWeek: 2292.98 wasfromyearsandsometimesdecadesprior20 J.T.MANHIRE
+tothecrashitself. Thisimpliesthateachmar- dataforthoseperiods.
+ketmighthaveitsownuniquepropertiesthat What are some of the implications of this
+affecttheprobabilityofitspricedisplacement theoryandthepreliminaryresultswe’veseen?
+anditspricedisplacementextremes. Theﬁrstisthatassetpricedisplacementsmight
+We call the property mˆ an “inertial coefﬁ- complywithcertainphysicallaws. Weshowed
+cient” by analogy only, but it appears to act heretheoretically,andthehistoricaldatadonot
+muchthesamewayanobject’smasswouldin contradicttheconclusion,thatassetpricedis-
+thephysicalworld. Anassetwitharelatively placementsareperhapsconstrainedbyextreme
+high inertial coefﬁcient is less likely to move positive and negative values beyond which
+asfarinpriceasanassetwitharelativelylow wheycannotgoforspeciﬁedintervalsoftime.
+inertialcoefﬁcient. Thismarketpropertyis,at Mightthistheoreticaldiscoveryactasasort
+aminimum,consistentwithcertainbehaviors of“BlackSwan”predictor[15],atleastinmag-
+ofobjectsweexperienceinthephysicalworld. nitude? While there is nothing in this theory
+thatwouldtelluswhenalow-probabilityevent
+onclusions wouldoccursuchasthemarketcrashduring
+7. C
+theweekof5October2008,thetheorydidac-
+Asset prices move either up or down during curatelypredictthemagnitudeoftheconstraint
+some period of elapsed time. This up-and- ofthepricedisplacementforanytradingweek,
+down motion, by deﬁnition, is linear for the including the ﬁrst week of the October 2008
+speciﬁedperiod. Linearmotioninonedimen- crash.
+sion, in this case the dimension of price, is Anotherwayforresearcherstotestthisthe-
+the result we would expect if the asset’s me- oryistolookatthecorrelationbetweenprice
+chanicscomplywiththeprincipleofstationary displacementsandthenettradingvolumefor
+action. Yet, linear motion in one dimension appropriate samples of periods t. If one ex-
+is also achievable through circular motion in aminesthecorrelationbetweenthetotaltrad-
+two dimensions. If the single dimension we ingvolumeandthepricedisplacementforthe
+observe is “real” and the unobserved second sampleoneshouldﬁndlittletonocorrelation.
+dimension “imaginary,” then circular motion There should be a sense of randomness. Yet,
+in the complex plane can explain the observ- if one examines the net trading volume (i.e.,
+ablelinearmotionofassetsthroughtheprice thevolumeattributedto α lessthevolumeat-
+dimension. tributed to β) one should ﬁnd a fairly strong
+Given this construct, the phase displace- correlation. Your author’s guess is that the
+ment of the complex wave function and the strongestcorrelationwillbenonlinear.
+phase displacement of its complex conjugate Hopefully this theory also inspires a bet-
+are equally likely to produce an observable terunderstandingofmarketmechanicderiva-
+price displacement. The square of the wave’s tives,especiallyassetandoptionspricingthe-
+phasedisplacementisthenresponsibleforany ory. While this paper does not explore these
+observable linear motion, and therefore, the areas it seems only natural that other work
+stationaryaction. Asaresult,weholdthatthe speciﬁcallyexaminingassetandoptionspric-
+squareofafunctionofthephasedisplacement ing might beneﬁt from this different point of
+is equal to the action of the asset, or S = u2. view.
+Applying the action principle to deﬁned pe- Lastly, even though these results seem
+riodsproducespricedisplacementresultsfor promising,weshouldrememberthatthemenu
+assetsthatareconsistentwithhistoricalprice isnotthemealandthemapisnottheterrain.THEACTIONPRINCIPLEINMARKETMECHANICS 21
+Simplybecausetheresultsofemployingsuch [6] R.N.Mantegna,H.E.Stanley,AnIntroduction
+amodelsuggestthatﬁnancialmarketsmight toEconophysics: CorrelationsandComplexity
+comply with certain physical laws assumed inFinance,CambridgeUniv.Press,2000.
+in the model does not mean that this is an [7] E.P.Wigner,SymmetriesandReﬂections,Univ.
+exact explanation of phenomena we witness ofIndianaPress,Bloomington,1967.
+in everyday market mechanics; that is, these [8] J.L.McCauley,ResponsetoWorryingTrends
+verywellmightnotbethe“actualdescriptions inEconophysics,PhysicaA371(2006)601-609.
+of the forces and interactions at hand [16].”
+[9] R. Casse, Projective Geometry: An Introduc-
+Furthermore, this theory might only explain
+tion,NewYork,OxfordUniversityPress,2006.
+macro-market movements and might not be
+[10] W. R. Hamilton, First Essay On a General
+asapplicabletoallindividualassets. It’spos-
+MethodinDynamics,Phil.Trans.RoyalSoc’y
+sible that not all individual ﬁnancial markets
+(1835)95.
+havethesamemechanicalpatterns. Again,fur-
+[11] W. R. Hamilton, Second Essay On a General
+ther research is need to ﬁnd the limits of this
+MethodinDynamics,Phil.Trans.RoyalSoc’y
+theory’sapplication.
+(1835)247.
+Isincerely appreciatethehelp, review, and
+[12] P.A.Samuelson,MaximumPrinciplesinAna-
+advice of my dear friend Joseph R. Hanley,
+lyticalEconomics,in: A.Lindbeck(Ed.),Nobel
+myfatherDr. JohnT.Manhire,andProfessors
+Lectures, Economics 1969-1980, World Scien-
+JamesMcGrath,LisaRich,SaurabhVishnubkat,
+tiﬁcPublishingCo.,Singapore,1992,p.68.
+andNunoGaroupaatTexasA&M.Ialsowish
+to thank Andrew P. Morriss for our catalytic [13] P. A. M. Dirac, The Lagrangian in Quantum
+discussionsduringtheearlystagesofthiswork Mechanics,Physik.ZeitschriftderSowjetunion
+andhiscontinuedsupportthereafter. Mostof 3(1933)64.
+all, I thank (and apologize to) my wife, Ann,
+[14] R.P.Feynman,Space-TimeApproachtoNon-
+andourninechildrenwhohaveenduredinor-
+Relativistic Quantum Mechanics, Rev. Mod.
+dinateneglectduringtheperiodthisproblem
+Phys.20(1948)367.
+hasconsumedtheirhusbandandfather.
+[15] N.N.Taleb,TheBlackSwan: TheImpactofthe
+CollegeStation,Texas. jmanhire@tamu.edu. HighlyImprobable,2nded.,RandomHouse,
+NewYork,2010.
+eferences
+R [16] M.Gallegati,S.Keen,T.Lux,P.Ormerod,Wor-
+ryingTrendsinEconophysics,PhysicaA370
+[1] R.Landauer,InformationIsPhysical,Physics (2006)1-4.
+Today44(1990)23.
+[2] P.Mirowski,Physicsandthe’MarginalistRev-
+olution,’CambridgeJ.Econ.8(1984)361.
+[3] M.F.Osborne,TheStockMarketandFinance
+fromaPhysicist’sViewpoint, CrossgarPress,
+1977.
+[4] V. Gontis, S. Havlin, A. Kononovicius, B.
+Podobnik, H. E. Stanley, Stochastic Model of
+Financial Markets Reproducing Scaling and
+MemoryinVolatilityReturnIntervals,Physica
+A462(2016)1091.
+[5] L. von Mises, Social Science and Natural Sci-
+ence,J.Soc.Phil.&Jur.7(1942)240-245.

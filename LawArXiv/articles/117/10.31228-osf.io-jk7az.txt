@@ -1,0 +1,2465 @@
+Illuminating Innovation: From Patent 
+Racing to Patent War 
+Lea Shaver* 
+Abstract 
+Patent  law  assumes  that  stronger  protection  promotes 
+innovation,  yet  empirical  evidence  to  test  this  “innovation 
+hypothesis”  is  lacking.  This  Article  argues  that  historical  case 
+studies hold unique promise to provide an empirical foundation 
+for modern patent policy. Specifically, this Article uses the history 
+of  patents  surrounding  the  light  bulb  to  examine  a  recently 
+articulated theory of “patent racing” as a justification for patent 
+protection.  Thomas  Edison’s  experience  confirms  that  Mark 
+Lemley’s racing model has substantial descriptive merit. Yet this 
+case  study  also  reveals  the  limits  of  the  patent  racing  model. 
+Looking  past  the  initial  finish  line  of  patent  filings  to  later 
+litigation, the competition looks less like a race and more like a 
+war.  
+                                                                                                     
+  *  J.D., Yale Law School; M.A., University of Chicago; Associate Professor 
+of Law, Indiana University Robert H. McKinney School of Law. I would like to 
+thank Jack Balkin, Christopher Beauchamp, Joseph Blocher, Samuel Buell, 
+Michael Carrier, Dennis Corgill, Eric Dannenmaier, Rochelle Dreyfuss, Laura 
+DeNardis, Elizabeth Glazer, Laurence Helfer, Lauren Henry, Paul Israel, Eric 
+E. Johnson, Mark Lemley, David S. Levine, Gerard Magliocca, Robert Mensel, 
+Emily Morris, Adam Mossoff, Lisa Larrimore Ouellette, Jerome Reichman, Jake 
+Sherkow, Rose Villazor, Carleton Waterhouse, and R. George Wright for their 
+particularly helpful comments. Portions of this Article were presented at Duke 
+Law School’s Legal Theory Workshop, Hofstra Law School’s Junior Faculty 
+Forum, the Indiana University Maurer School of Law, the Information Society 
+Project at Yale Law School, the Intellectual Property Scholars Conference at 
+Stanford  University,  and  on  the  Stanford  University  radio  show  Hearsay 
+Culture. This Article is made available to the public under the terms of a 
+Creative Commons—Attribution license. A digital copy may be downloaded at 
+no  charge  from  the  Social  Sciences  Research  Network  at  http://ssrn.com/ 
+abstract=1658643. Copies and reprints should acknowledge first publication as: 
+Lea Shaver, Illuminating Innovation: From Patent Racing to Patent War, 69 
+WASH. & LEE L. REV. (2012), available at http://law.wlu.edu/lawreview/ and 
+http://ssrn.com/abstract=1658643. 
+ 
+1891 1892  69 WASH. & LEE L. REV. 1891 (2012) 
+The Article then proposes a new model of “patent warfare” 
+resembling the board game Risk. In the game, competing parties 
+assemble strategic assets, then turn to battle their rivals for world 
+domination. Similarly, innovative technology companies assemble 
+patent portfolios—initially for defensive purposes in the context of 
+a  dynamic  and  competitive  field.  As  an  industry  matures, 
+however, dominant players convert their shields into weapons to 
+eliminate their competition. Just as nineteenth-century companies 
+in the early electrical industry battled to control the light bulb, a 
+new patent war is now emerging to control the smartphone. This 
+anticompetitive endgame diminished next-generation innovation 
+in electric light and now threatens the future of innovation in 
+mobile computing. 
+A  new  appreciation  of  patent  warfare  should  prompt 
+increased skepticism of the “innovation assumption” at the heart 
+of  patent  law.  Patent  protection  clearly  provides  short-term 
+benefits to innovation, but it also produces unanticipated long-
+term costs to competition and next-generation innovation. Further 
+empirical  research  is  needed  to  ascertain  whether  the  benefits 
+outweigh the costs or vice versa and what tweaks to the patent 
+system might allow us to continue to capture the benefits while 
+lowering the costs. In this continued effort, historical case studies 
+will prove particularly helpful because they permit insight into the 
+complex workings of patent law on an industry over a longer time 
+horizon, revealing not only the short-term benefits but also the 
+long-term costs.  
+Table of Contents 
+  I.  Introduction ................................................................... 1893 
+  II.  Testing the Innovation Hypothesis ............................... 1896 
+    A.  Patents and Innovation ........................................... 1896 
+    B.  Case Study as Methodology .................................... 1900 
+    C.  Law and the Light Bulb .......................................... 1907 
+  III.  Dynamics of Inventive Races ........................................ 1911 
+    A.  The Theory of Patent Racing ................................... 1913 
+    B.  Support for Patent Racing Theory .......................... 1915 
+    C.  Problems for Patent Racing Theory ........................ 1921 ILLUMINATING INNOVATION  1893 
+  IV.  Learning from the Light Bulb ....................................... 1926 
+    A.  From Patent Racing to Patent War ........................ 1926 
+    B.  The Current Smartphone Patent War .................... 1933 
+    C.  Implications for Innovation ..................................... 1944 
+  V.  Conclusion ...................................................................... 1947 
+I. Introduction 
+More than a century after its introduction, the incandescent 
+light  bulb  remains  the  defining  icon  of  invention.  Elegantly 
+simple,  this  humble  device  was  nonetheless  a  transformative 
+technology.1  Just  as  spreadsheet  software  drove  demand  for 
+personal computers and email clients drove demand for Internet 
+service, the incandescent lamp was the “killer app” that drove 
+demand for electricity.2 In the process, the light bulb paved the 
+way for every other electronic appliance, including the radio, the 
+television, and the personal computer. No less than the computer, 
+the light bulb revolutionized our world.  
+This Article sheds light on the role that patent law played in 
+the  light  bulb’s  emergence.  The  story  told  here  is  not  a 
+conventional  tale  of  great  inventors,  bright  ideas,  and  the 
+inevitable march of scientific progress. It is a story of corporate 
+maneuvering and high-stakes litigation, as Thomas Edison and 
+                                                                                                     
+  1.  For greater discussion of the concept of “enabling technologies,” see 
+Mark A. Lemley, Patenting Nanotechnology, 58 STAN. L. REV. 601, 606–13 
+(2005).  
+  2.  See  ARTHUR  A.  BRIGHT,  JR.,  THE  ELECTRIC-LAMP  INDUSTRY: 
+TECHNOLOGICAL CHANGE AND ECONOMIC DEVELOPMENT FROM 1800 TO 1947 8–11 
+(1949) (explaining the importance of the incandescent lamp to the emergence of 
+an electrical supply system, scientific and public interest in electricity, the 
+radio, and economic growth through World War I generally). Edison himself 
+played  a  great  role  in  developing  and  building  out  the  technology  and 
+infrastructure for electricity distribution. Of Edison’s patents related to electric 
+light between 1881 and 1883, only 37% were related to the light bulb. The 
+majority of his patents related to other elements of the electric power delivery 
+system, including voltage regulation and engine governors (24%), transmission 
+and distribution (14%), and dynamo design and operation (12%), among other 
+aspects. Paul Israel, Claim the Earth: Protecting Edison’s Inventions at Home 
+and  Abroad,  in  KNOWLEDGE  MANAGEMENT  AND  INTELLECTUAL  PROPERTY: 
+CONCEPTS, ACTORS AND PRACTICES FROM THE PAST TO THE PRESENT (Graham 
+Dutfield & Stathis Arapostathis eds., 2013) (forthcoming) [hereinafter Israel, 
+Claim the Earth] (on file with author). 1894  69 WASH. & LEE L. REV. 1891 (2012) 
+his competitors employed patents as weapons in their battle to 
+dominate  the  electrical  industry.  Although  famous  for  his 
+workshop talents, Edison would be better understood as an early 
+Bill Gates, his business success built on a keen appreciation of 
+the power of aggressive intellectual property strategy and the 
+frailty of antitrust law.3  
+This  story  holds  particularly  important  lessons  for  the 
+modern  information  technology  (IT)  industry,  where  an  epic 
+patent  battle  is  now  underway.4  Although  early  incandescent 
+                                                                                                     
+  3.  See generally WILLIAM H. PAGE & JOHN E. LOPATKA, THE MICROSOFT 
+CASE:  ANTITRUST,  HIGH  TECHNOLOGY,  AND  CONSUMER  WELFARE  (2007) 
+(examining  the  antitrust  case  against  Microsoft  in  the  context  of  shifting 
+debates about antitrust law); see also Israel, Claim the Earth, supra note 2 
+(explaining that Edison used patents as part of a larger strategy to establish 
+industry  dominance  through  his  early  work  in  the  telegraphy  industry, 
+strategically identifying certain technological features of the electrical system as 
+choke points for where to achieve “the commercial monopoly of the general 
+[electricity] distribution business”). 
+  4.  As this Article went to print in December 2012, Apple had recently won a 
+$1 billion judgment against Samsung for intellectual property infringement related 
+to  smartphones  and  tablets  running  Google’s  Android  operating  system.  This 
+Apple–Samsung trial, completed in August 2012, is just one among dozens in a 
+broader pattern of transnational litigation. See generally Andy Baio, A Patent Lie: 
+How  Yahoo  Weaponized  My  Work,  WIRED  (Mar.  13,  2012,  3:44  PM), 
+http://www.wired.com/epicenter/2012/03/opinion-baio-yahoo-patent-lie/  (last  visited 
+Nov. 14, 2012) (on file with the Washington and Lee Law Review); Michael A. 
+Carrier, A Roadmap to the Smartphone Patent Wars and FRAND Licensing, CPI 
+ANTITRUST  CHRON.,  Apr.  2012,  available  at  http://papers.ssrn.com/sol3/ 
+papers.cfm?abstract_id=2050743;  Robert  McMillan,  How  Apple  and  Microsoft 
+Armed 4,000 Patent  Warheads, WIRED (May 21, 2012,  6:30 AM),  http://www. 
+wired.com/wiredenterprise/2012/05/rockstar/ (last visited Nov. 14, 2012) (on file 
+with the Washington and Lee Law Review); Marissa Oberlander, Martin Stabe 
+& Steve Bernard, The Smartphone Patent Wars, FIN. TIMES (Oct. 17, 2011, 
+5:43 PM),  http://www.ft.com/intl/cms/s/2/de24f970-f8d0-11e0-a5f7-00144feab49a.ht 
+ml#axzz25KFyAXEL (last visited Nov. 14, 2012) (“Patent wars are raging in the 
+smartphone  industry.  What  began  as  Apple  v  Google  Android  conflict  has 
+turned into a vast legal quagmire involving everyone from Amazon to ZTE.”) (on 
+file with the Washington and Lee Law Review); Richard A. Posner, Why There 
+Are  Too  Many  Patents  in  America,  ATLANTIC  (July  12,  2012,  10:20  AM), 
+http://www.theatlantic.com/business/archive/2012/07/why-there-are-too-
+many-patents-in-america/259725/  (last  visited  Nov.  14,  2012)  [hereinafter 
+Posner, Too Many Patents] (on file with the Washington and Lee Law Review); 
+Jessica E. Vascellaro & Evan Ramstad, Apple, Samsung Set Patent Talks: 
+Settlement Attempt Unlikely to Bear Fruit, WALL ST. J. (May 21, 2012, 9:59 AM), 
+http://online.wsj.com/article/SB10001424052702303879604577414832794580586.
+html  (last  visited  Nov.  14,  2012)  (“Chief  executives . . .  will  meet  in  San 
+Francisco  Monday  in  a  court-directed  session  aimed  at  settling  their 
+smartphone patent war. But a deal seems unlikely, people familiar with the ILLUMINATING INNOVATION  1895 
+light  bulbs  and  modern  smartphones  are  very  different 
+technologies, they have much in common from the perspective of 
+patent strategy.  Understanding  the  patent war  over the  light 
+bulb can help us understand what is at stake in the current war 
+over the smartphone.5  
+Edison’s  lamp  can  also  shed  light  on  one  of  the  most 
+challenging  questions  asked  in  patent  scholarship  today.  Is 
+patent protection on the whole helpful or harmful to innovation? 
+And how might the law be tweaked to achieve an even better 
+balance between protection and competition? The light bulb can 
+illuminate these questions by testing existing theory and helping 
+to improve on it. For more than two centuries, U.S. patent law 
+has assumed that patents promote innovation.6 Yet for all the 
+profound impact that patent law has on industry and society, we 
+have  little  empirical  evidence  to  test  this  “innovation 
+assumption.”  In  fact,  there  are  good  reasons  to  believe  that 
+patents  may  also  impede  innovation  by  creating  barriers  to 
+competition.7 The assumption should more prudently be treated 
+as a hypothesis in need of empirical testing. 
+Part  II  of  this  Article  argues  that  careful  case  studies, 
+particularly  those  drawn  from  history,  may  best  advance  our 
+understanding  of  patent  law’s  impact  on  innovation.  The 
+remainder of the Article develops such a case study, focusing on 
+Thomas Edison’s efforts to market an incandescent light bulb. 
+Part III takes up a recently articulated theory of patent racing, 
+using the case study to test and refine the racing model. Part IV 
+explores  the  lessons  of  this  case  study  for  the  innovation 
+hypothesis. Here, a new model of “patent warfare” is advanced, 
+which  not  only  explains  the  experience  of  the  early  electrical 
+                                                                                                     
+matter and others tracking the battle say.”) (on file with the Washington and 
+Lee Law Review). 
+  5.  This insight becomes even more timely in light of Judge Posner’s recent 
+ruling in the Apple–Google litigation. See infra notes 183–84 and accompanying 
+text (discussing Judge Posner’s decision to dismiss the recent suit between 
+Apple and Motorola for lack of an adequate, acceptable remedy). 
+  6.  See generally BRUCE W. BUGBEE, GENESIS OF AMERICAN PATENT AND 
+COPYRIGHT LAW 60–103 (1967). 
+  7.  See infra Part II.A (discussing the economic and social costs of a patent 
+system). 1896  69 WASH. & LEE L. REV. 1891 (2012) 
+industry, but also reveals the high stakes of the new patent war 
+now breaking out in the smartphone industry. 
+II. Testing the Innovation Hypothesis 
+A. Patents and Innovation 
+For  more  than  two  centuries,  the  notion  that  patent 
+protection encourages technological innovation has remained the 
+conventional wisdom.8 In 1830, Anglo-American legal philosopher 
+Jeremy  Bentham  captured  its  essence:  “In  new  inventions, 
+protection  against  imitators  is  not  less  necessary  than  in 
+established manufactures protection against thieves. He who has 
+no hope that he shall reap will not take the trouble to sow.”9 A 
+half-century later, the same notion is reflected as the popular 
+wisdom of industrial Americans in Mark Twain’s A Connecticut 
+Yankee in King Arthur’s Court.10 In this tale, a New England 
+                                                                                                     
+  8.  This utilitarian argument has never been the only justification for 
+patent  protection.  Adam  Mossoff  has  persuasively  argued  that  normative 
+concepts  of  fairness,  not  expectations  of  economic  benefit,  have  been  a 
+significant—perhaps even primary—justification for patent protection since the 
+founding of America. See Adam Mossoff, Who Cares What Thomas Jefferson 
+Thought  About  Patents?  Reevaluating  the  Patent  “Privilege”  in  Historical 
+Context, 92 CORNELL L. REV. 953, 954–59 (2007). For a recent and thorough 
+treatment of ethical justifications for intellectual property not relying on the 
+innovation  assumption,  see  generally  ROBERT  P.  MERGES,  JUSTIFYING 
+INTELLECTUAL  PROPERTY  (2011).  Of  course,  patent  protection  can  also  be 
+challenged on ethical grounds, including notions of human rights. See, e.g., Lea 
+Shaver, The Right to Science and Culture, 2010 WISC. L. REV. 121, 122–28. 
+Nonetheless,  the  empirical  assumption  that  patent  protection  will  promote 
+technological progress finds expression in the U.S. Constitution, which provides 
+that Congress may offer inventors monopoly privileges on their inventions for 
+limited times “to promote the Progress of Science and useful Arts.” U.S. CONST. 
+art. I, § 8, cl. 8. At the Constitution’s signing, a number of states were already 
+granting patents and some had done so even as British colonies. See BUGBEE, 
+supra note 6, at 57–103 (describing the early patent system in colonial America). 
+The  true  effect  of  this  constitutional  provision,  then,  was  not  to  create  a 
+governmental power to grant monopolies, but to establish this power as an 
+exclusively federal one, to be exercised by the legislative branch. See BUGBEE, 
+supra note 6, at 129–31 (explaining the establishment of a federal patent 
+system). Whether the provision also established meaningful limits on the term 
+of such monopolies is a topic that remains open to substantial debate. 
+  9.  JEREMY BENTHAM, THE RATIONALE OF REWARD 318 (1830).  
+  10.  MARK TWAIN, A CONNECTICUT YANKEE IN KING ARTHUR’S COURT (Oxford 
+Univ. Press 2008) (1889). ILLUMINATING INNOVATION  1897 
+mechanic from the 1880s travels back in time to Camelot, where 
+he becomes a valued advisor to the English king. On the subject 
+of technological innovation, Twain’s hero relates:  
+[T]he very first official thing I did, in my administration—and 
+it was on the first day of it, too—was to start a patent office; 
+for I knew that a country without a patent office and good 
+patent laws was just a crab, and couldn’t travel any way but 
+sideways or backwards.11 
+As  an  empirical  matter,  however,  the  benefits  of  patent 
+protection  for  innovation  are  far  less  certain.  Scholarly 
+skepticism  about  the  anticipated  benefits  of  patent  protection 
+also has deep roots.12 In the 1950s, the noted economist Franz 
+Machlup advised Congress: 
+If we did not have a patent system, it would be irresponsible, 
+on  the  basis  of  our  present  knowledge  of  its  economic 
+consequences,  to  recommend  instituting  one.  But  since  we 
+have  had  a  patent  system  for  a  long  time,  it  would  be 
+irresponsible,  on  the  basis  of  our  present  knowledge,  to 
+recommend abolishing it.13 
+Fifty years later, noted scholar Richard Posner lamented that 
+economists  have  still  not  determined  whether  the  benefits  of 
+intellectual property protection outweigh the costs.14 Economists 
+                                                                                                     
+  11.  MARK TWAIN, A CONNECTICUT YANKEE IN KING ARTHUR’S COURT 107 (1st 
+ed. 1889). Credit is due to Mark Adelman for leading me to Twain’s work. For a 
+more serious interview with Mark Twain suggesting that the Yankee hero’s 
+statement reflects Twain’s own beliefs rather than simply words thrust upon a 
+satirical strawman, see MARK TWAIN, MARK TWAIN: THE COMPLETE INTERVIEWS 
+295 (Gary Scharnhorst ed., The University of Alabama Press 2006) (using 
+historical evidence himself to suggest that patent protection encourages not so 
+much invention itself as the diligent perfection of invention into a commercially 
+practical technology). Twain was also a patent holder. See Improvement In 
+Scrap-Books, U.S. Patent No. 140,245 (filed May 7, 1873) (issued June 24, 1873) 
+(disclosing a self-pasting scrap-book). 
+  12.  See, e.g., Mark D. Janis, Patent Abolitionism, 17 BERKELEY TECH. L.J. 
+899,  901–03  (2002)  (analyzing  parallels  between  the  Victorian-era  British 
+movement to abolish patents and contemporary debates).  
+  13.  FRITZ MACHLUP, AN ECONOMIC REVIEW OF THE PATENT SYSTEM: STUDY OF 
+THE SUBCOMMITTEE ON PATENTS, TRADEMARKS, AND COPYRIGHTS 80 (1958). 
+  14.  See,  e.g.,  Richard  A.  Posner,  Intellectual  Property:  The  Law  and 
+Economics  Approach,  19  J.  ECON.  PERSP.  57,  59  (2005)  (“Unfortunately, 
+economists do not know whether the existing system of intellectual property 
+rights is, or . . . whether any other system of intellectual property rights would 
+be, a source of net social utility, given the costs of the system and the existence 1898  69 WASH. & LEE L. REV. 1891 (2012) 
+and  legal  scholars  have  recently  devoted  great  theoretical 
+attention to clarifying the ways in which patent protection may 
+inhibit innovation, as well as incentivize it.15 
+                                                                                                     
+of alternative sources of incentives to create such property.”). 
+  15.  See, e.g., YOCHAI BENKLER, THE WEALTH OF NETWORKS: HOW SOCIAL 
+PRODUCTION TRANSFORMS MARKETS AND FREEDOM 35–41 (2006) (analyzing the 
+digital environment with the “understanding that markets based on patents or 
+copyrights involve a trade-off between static and dynamic efficiency”); MICHELE 
+BOLDRIN  &  DAVID  K.  LEVINE,  AGAINST  INTELLECTUAL  MONOPOLY  206  (2008) 
+(offering a litany of economic arguments against patents and copyrights and 
+concluding  that  “the  patent  system  destroys  productive  capacity,  generates 
+useless and damaging monopoly, and last but not least, humiliates and destroys 
+decent and humble geniuses”); JAMES BESSEN & MICHAEL J. MEURER, PATENT 
+FAILURE: HOW JUDGES, BUREAUCRATS, AND LAWYERS PUT INNOVATORS AT RISK 
+145–46 (2008) (“It is important to emphasize that our evidence suggests that 
+patents today constitute a brake on innovation, not a roadblock . . . . [O]ur 
+evidence implies that patents place a drag on innovation. Without this drag, the 
+rate of innovation and technological progress might have been even greater, 
+perhaps much greater.”); ADAM B. JAFFE & JOSH LERNER, INNOVATION AND ITS 
+DISCONTENTS: HOW OUR BROKEN PATENT SYSTEM IS ENDANGERING INNOVATION 
+AND PROGRESS, AND WHAT TO DO ABOUT IT 2 (2004) (arguing that innovation is 
+threatened by the uncertainty created by a patent system that provides poor 
+notice of property boundaries); WILLIAM M. LANDES & RICHARD A. POSNER, THE 
+ECONOMIC STRUCTURE OF INTELLECTUAL PROPERTY LAW 11–24 (2003); Dan L. 
+Burk & Mark A. Lemley, Policy Levers in Patent Law, 89 VA. L. REV. 1575, 
+1597–99 (2003); Rochelle Cooper Dreyfuss, Does IP Need IP? Accommodating 
+Intellectual Production Outside the Intellectual Property Paradigm, 31 CARDOZO 
+L.  REV.  1437,  1465–73  (2010)  (surveying  contexts  in  which  intellectual 
+production flourishes without intellectual property as well as reasons to believe 
+that intellectual property may still be necessary to provide optimal incentives); 
+Rochelle Dreyfuss, Pathological Patenting: The PTO as Cause or Cure, 104 
+MICH. L. REV. 1559, 1561 (2006) (reviewing Jaffe and Lerner’s Book Innovation 
+and Its Discontents: How Our Broken Patent System Is Endangering Innovation 
+and  Progress,  and  What  To  Do  About  It  and  arguing  that  “[w]ith  some 
+modification,  [the  authors’ suggested  reforms]  could  go  a  long  way  toward 
+healing the system”); Herbert Hovenkamp, Mark Janis & Mark A. Lemley, 
+Anticompetitive Settlement of Intellectual Property Disputes, 87 MINN. L. REV. 
+1719, 1721–24 (2003) (noting that questionable patent litigation is frequently 
+being used as cover for collusion between market competitors); Adam B. Jaffe, 
+The U.S. Patent System in Transition: Policy Innovation and the Innovation 
+Process,  29  RES.  POL’Y  531,  531–32  (2000);  Mark  A.  Lemley,  Property, 
+Intellectual Property, and Free Riding, 83 TEX. L. REV. 1031, 1058–59 (2005); 
+Christopher Leslie, The Anticompetitive Effects of Unenforced Invalid Patents, 
+91  MINN.  L.  REV.  101,  103  (2006);  Katherine  J.  Strandburg,  Evolving 
+Information Paradigms and the Global Intellectual Property Regime, 41 CONN. 
+L. REV. 861, 871–79 (2009) (arguing that changing dynamics of innovation are 
+poorly  served  by  international  regimes  imposing  substantive  standards  of 
+intellectual property protection); Mark A. Lemley, Industry-Specific Antitrust 
+Policy for Innovation 2–4 (Stanford Law & Econ. Olin, Working Paper No. 397, ILLUMINATING INNOVATION  1899 
+Patent law and policy, however, continue to operate on the 
+assumption that patents not only incentivize greater innovation, 
+but that the patent incentive is substantial such that innovation 
+would be greatly diminished if the incentive were removed or even 
+weakened.16  By  and  large,  the  field  of  patent  scholarship  also 
+treats  this  assumption  as  presumptively  correct,  while 
+acknowledging  that  future  research  might  one  day  call  it  into 
+question. This willingness to assume—at least for the time being—
+that patents work as intended has the same practical effect as an 
+evidentiary presumption: it shifts the burden of proof onto the 
+challengers  of  the  conventional  wisdom.  There  are  virtues  to 
+adopting  this  assumption.  One  such  virtue  is  enabling  patent 
+scholars  to  focus  productively  on  calibrating  less-entrenched 
+aspects of patent doctrine and on suggesting reforms that may be 
+implemented in the near future.17  
+Embracing  this  assumption  too  fully,  however,  carries  an 
+unacceptable risk. Patent law is a tremendously influential aspect 
+of modern economic regulation.18 What if its central assumption is 
+wrong?  So  far  we  have  justified  the substantial  social  costs  of 
+patent protection—litigation costs, anticompetitive effects, higher 
+prices for consumers, barriers to adoption of new technologies—on 
+the basis that these sacrifices are worthwhile in order to achieve 
+faster innovation. If patent protection offers much fewer benefits 
+for innovation than widely supposed, the law is imposing these 
+substantial costs needlessly. And if patent protection actually has 
+a net negative impact on innovation, the real costs to economic 
+growth  may  be  appalling  in  scale.  Because  the  risks  of  being 
+                                                                                                     
+2010), available at http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1670197. 
+  16.  Indeed, evidence suggests that patent law’s reliance on the innovation 
+assumption has, if anything, increased in recent years. See Gaia Bernstein, In 
+the  Shadow  of  Innovation,  31  CARDOZO  L.  REV.  2257,  2259–60  (2010) 
+(documenting  an  increasing  use  of  the  phrase  “innovation”  in  intellectual 
+property opinions beginning in the 1980s). 
+  17.  See,  e.g.,  Lisa  Larrimore  Ouellette,  Do  Patents  Disclose  Useful 
+Information?, 25 HARV. J.L. & TECH. 531, 532–35 (2012) (surveying the mixed 
+empirical  support  for  the  innovation  hypothesis  without  taking  sides  and 
+proceeding to focus on a more politically open question: What emphasis should 
+patent doctrine place on disclosure as a central policy goal?).  
+  18.  See, e.g., BESSEN & MEURER, supra note 15, at 6–7 (comparing the 
+economic impact of tangible property law to economic incentives potentially 
+created by patent laws). 1900  69 WASH. & LEE L. REV. 1891 (2012) 
+wrong  are  so  great,  the  innovation  assumption  should  more 
+prudently be treated as the innovation hypothesis, in need of 
+further empirical testing. 
+B. Case Study as Methodology 
+A  major  challenge  for  researchers  seeking  to  test  the 
+innovation  hypothesis  is  the  complexity  of  the  phenomenon. 
+Changes in patent policy take time to play out in the marketplace 
+and  affect  different  industries  in  different  ways.19  At  the 
+macroeconomic  level,  it  can  be  very  difficult  to  separate  out 
+impacts due to changes in patent policy from those due to other 
+causes.20 Cross-national comparisons are further complicated by 
+the  trend  toward  harmonization  of  patent  law,  which  limits 
+opportunities for empirical evaluation of differing regimes.21 Even 
+defining  “innovation”  as  a  quantifiable  outcome  has  proven 
+elusive.22 These challenges make it difficult to reliably measure 
+patent law’s impact through large-scale quantitative analysis. 
+                                                                                                     
+  19.  See, e.g., Burk & Lemley, supra note 15, at 1576–78 (explaining how 
+innovation and therefore the impacts of patent policy differ based on the 
+industry studied). 
+  20.  See, e.g., BESSEN & MEURER, supra note 15, at 11 (“Many interrelated 
+factors  can  influence  R&D  spending,  innovation,  and  the  resulting  social 
+welfare, so it is difficult to disentangle these to determine the independent 
+influence of patents.”). 
+  21.  Economist Petra Moser has creatively approached this problem by 
+analyzing  evidence  of  innovation  predating  the  modern  trend  toward 
+international harmonization of patent law. See Petra Moser, How Do Patent 
+Laws Influence Innovation? Evidence from Nineteenth-Century World’s Fairs, 
+95 AM. ECON. REV. 1214, 1231–33 (2005) (concluding that, because patent 
+protection appears to enhance innovation in some industries but impede it in 
+others, variance in patent regimes across countries may result in optimal 
+global results by encouraging the development of comparative advantages). 
+  22.  In 2006, the United States Department of Commerce launched a 
+special  advisory  committee  to  help  it  develop  metrics  for  measuring  the 
+innovativeness of the United States’ economy. U.S. DEP’T OF COMMERCE, ECON. 
+&  STATISTICS  ADMIN.,  INNOVATION  MEASUREMENT,  TRACKING  THE  STATE  OF 
+INNOVATION  IN  THE  AMERICAN  ECONOMY  (2008),  available  at  http://www. 
+esa.doc.gov/Reports/innovation-measurement-tracking-state-innovation-american-
+economy. The Measuring Innovation in the 21st Century Economy Advisory 
+Committee’s first meeting in February 2007 highlighted some of the challenges of 
+measuring innovation. See Brian Wingfield, Measuring Innovation, FORBES (Feb. 
+23,  2007,  6:00  AM),  http://www.forbes.com/businessinthebeltway/2007/02/22/ 
+innovation-commerce-companies-biz-washington-cx_bw_0223innovate.html  (last ILLUMINATING INNOVATION  1901 
+In my first article, I explored some of the problems inherent 
+in  macroeconomic  measures  of  innovation,  particularly  the 
+problematic reliance on rates of patent filing as the measure of 
+innovation.23 Rather than relying on numerical data, the article 
+suggested  that  careful  case  studies  are  likely  to  prove  more 
+enlightening at the present stage of research.24 An empirical case 
+study steps back from the overwhelming web of data to pick up 
+the  thread  of  a  single  “case,”  which  might  be  the  life  of  a 
+particular  patent,  technology,  company,  or  industry.25  The 
+                                                                                                     
+visited Nov. 14, 2012) (describing the first meeting of the committee) (on file with 
+the Washington and Lee Law Review); see also NAT’L SCI. FOUND., DIV. OF SCI. 
+RES. STATISTICS, NSF 07-306, ADVANCING MEASURES OF INNOVATION: KNOWLEDGE 
+FLOWS, BUSINESS METRICS, AND MEASUREMENT STRATEGIES (2007), available at 
+http://www.nsf.gov/statistics/nsf07306/pdf/nsf07306.pdf  (concluding  that  much 
+further research will be necessary to develop reliable innovation metrics).  
+  23.  See Lea Bishop Shaver, Defining and Measuring A2K: A Blueprint for 
+an Index of Access to Knowledge, 4 I/S: J.L. & POL’Y FOR INFO. SOC’Y 235, 264–65 
+(2008) (noting that rates of patent applications and grants reveal more about 
+the ease and advantages of obtaining a patent, rather than accurately reflecting 
+underlying rates of innovation). 
+  24.  See id. (suggesting that researchers focus on “high-value innovation” or 
+narrow the focus of their study to one field rather than attempt to measure 
+innovation across an entire society). 
+  25.  The empirical “case study” has no necessary relationship with the “case 
+method” widely used in legal research and education. Literature on case studies 
+as an empirical research methodology has been careful to distinguish its subject 
+from the quite different use of cases as a teaching tool in law and business. See, 
+e.g., ROBERT K. YIN, CASE STUDY RESEARCH: DESIGN AND METHODS 4–5 (4th ed. 
+2009) (describing a “teaching case” as one designed to establish a framework for 
+discussion and debate among students and noting that the focus on his work is 
+on the use of case studies as a research method). In contrast to the case method, 
+the case study need not take a particular legal dispute or judicial opinion as its 
+focus of inquiry. Of course, the “case” that is the object of empirical study might 
+be a legal case, such as the Supreme Court’s hearing of the Incandescent Lamp 
+Case, 159 U.S. 465 (1895). But the “case” might also be a patent (such as 
+Edison’s ’898 Patent), a technology (the light bulb), a patentee (Thomas Edison), 
+a firm (General Electric), or a sector (the early electrical industry). Any specific, 
+complex, functioning thing may be a “case” for study. See ROBERT E. STAKE, THE 
+ART  OF  CASE  STUDY  RESEARCH  2  (1995)  [hereinafter  STAKE,  CASE  STUDY 
+RESEARCH].  My  interest  in  understanding  how  patent  law  influences 
+technological innovation led me to define my case around one technology—the 
+early light bulb. Many different legal disputes, patents, patentees, and firms 
+influence innovation in any particular field of technology. Therefore, focusing on 
+any one particular opinion, patent, inventor, or company would likely narrow 
+the  inquiry  too  much  and  miss  essential  aspects  of  the  larger  innovation 
+dynamics. A concrete technology (such as the light bulb or the smartphone) 
+appears to be the simplest unit of investigation that allows us to seek answers 1902  69 WASH. & LEE L. REV. 1891 (2012) 
+researcher follows the path of that one subject to see where it 
+leads  and  attempts  to  interpret  its  lessons.26  A  leading 
+articulation of the case study methodology in the social sciences 
+proposes  that  “case  studies  are  the  preferred  method  when 
+(a) ’how’ or ‘why’ questions are being posed, (b) the investigator 
+has  little  control  over  events,  and  (c) the  focus  is  on  a 
+contemporary  phenomenon  within  a  real-life  context.”27  These 
+three  conditions  accurately  capture  the  challenges  associated 
+with asking how patent law impacts technological innovation.  
+To  be  sure,  a  case  study  of  any  one  technology  has  only 
+limited  utility  for  answering  our  larger  questions  about 
+innovation. The dynamics of the particular technology selected 
+may not be representative of all sectors or even of the general 
+trend.  Multiple  data  points  are  needed.  It  should  also  be 
+acknowledged  that  case  studies  are  fundamentally  acts  of 
+interpretation.28  To  guard  against  investigator  bias,  these 
+interpretations should be subject to peer review, public debate, 
+                                                                                                     
+to questions about technological innovation and diffusion, without hiding the 
+complex operations of patent law in the real world.  
+  26.  Within  the  substantial  social  scientific  literature  employing  and 
+commenting on case study methodology, some researchers prefer case studies 
+because  of  normative  commitments  that  achieving  objective,  accurate 
+explanation of complex social phenomena is unattainable or undesirable. From 
+these researchers’ point of view, there is no “truth” in social science, only 
+“interpretation.” See Robert E. Stake, Case Studies, in THE SAGE HANDBOOK OF 
+QUALITATIVE RESEARCH 435, 439 (Norman K. Denzin & Donna S. Lincoln eds., 
+2d ed. 2000) [hereinafter Stake, QUALITATIVE RESEARCH] (describing some of the 
+criticisms of case study research regarding their value to generalizability). This 
+is not my point of view, nor is it my motivation for adopting this methodology. 
+Quite to the contrary, the present study assumes that there is a correct answer 
+to the question, “Does patent protection promote technological innovation?” and 
+that social science can help us find that correct answer. Of course, the correct 
+answer is unlikely to be a simple “yes” or “no.” Rather, the accurate answer to 
+this question is likely to be complex, to be filled with caveats, and to inevitably 
+have some margin of uncertainty. The correct answer is likely to be: “Under 
+certain circumstances, yes, patent protection does appear to promote innovation; 
+and  under  other  circumstances,  no,  patent  protection  appears  to  be 
+counterproductive.” Careful case studies can help illuminate these complex 
+dynamics and help to form provisional answers, which may in turn be further 
+tested and verified through quantitative analysis. 
+  27.  YIN, supra note 25, at 13. 
+  28.  See, e.g., STAKE, CASE STUDY RESEARCH, supra note 25, at 8 (“According 
+to one highly respected writer on qualitative studies, Fred Erickson, the most 
+distinctive  characteristic  of  qualitative  inquiry  is  its  emphasis  on 
+interpretation.”). ILLUMINATING INNOVATION  1903 
+and independent studies of other cases, a phenomenon referred to 
+in  the  case  study  literature  as  “triangulation.”29  Over  time, 
+however, the collective work of many scholars may build a robust 
+body of case studies, which could provide a strong empirical basis 
+to support or call into question key predictions and assumptions 
+about  the  impact  of  patents  on  innovation.  Even  before  this 
+critical  mass  is  reached,  individual  case  studies  can  offer  a 
+helpful reality check  on  our  theoretical  models  of  how  patent 
+incentives work. Do theoretical predictions that seem to make 
+sense in the abstract actually fit with what can be observed in the 
+historical record? Or is there a significant gap between theory 
+and fact, at least in the particular cases available to date?  
+The  present  work  builds  upon  a  body  of  empirical  case 
+studies  that  have  already  been  developed  by  patent  scholars 
+looking at a number of modern technologies. For example, Lisa 
+Ouellette  has  examined  the  disclosure  function  of  patents  in 
+spreading  scientific  knowledge  through  the  nanotechnology 
+sector.30  Graham,  Merges,  Samuelson,  and  Sichelman  have 
+drawn findings about the role of patents in assisting startups, 
+drawing  on  surveys  of  more  than  one  thousand  high-tech 
+entrepreneurs  in  sectors  ranging  from  biotechnology  to 
+software.31  Samuelson  and  Scotchmer  have  examined  the 
+economic impact of reverse engineering in the semi-conductor and 
+software industries.32 Health economist Heidi Williams has used 
+interviews and statistical analysis to document a negative impact 
+                                                                                                     
+  29.  See id. at 111–15 (describing the triangulation protocols to “increase 
+credence  in  the  interpretation”  and  “to  demonstrate  commonality  of  an 
+assertion”). 
+  30.  See, e.g., Ouellette, supra note 17, at 552–71 (drawing on a survey of 
+more  than  200  nanotechnology  researchers  and  case  studies  of  selected 
+nanotechnology  patents  to  evaluate  the  impact  of  patents  on  scientific 
+disclosure).  
+  31.  See Stuart J. H. Graham et al., High Technology Entrepreneurs and the 
+Patent System: Results of the 2008 Berkeley Patent Survey, 24 BERKELEY TECH. 
+L.J. 1255, 1255 (2009) (“We offer description and analysis of the 2008 Berkeley 
+Patent  Survey—the  first  comprehensive  survey  of  patenting  and 
+entrepreneurship in the United States—summarizing the responses of 1,332 
+early-stage technology companies founded since 1998.”). 
+  32.  See Pamela Samuelson & Suzanne Scotchmer, The Law and Economics 
+of Reverse Engineering, 111 YALE L.J. 1575, 1595–1626 (2002) (describing the 
+results of the authors’ study of the economic impact of reverse engineering in 
+the semi-conductor and software industries). 1904  69 WASH. & LEE L. REV. 1891 (2012) 
+on  downstream  innovation  for  gene  sequences  covered  by 
+intellectual property.33 Fiona Murray and colleagues documented 
+a similar negative impact in a comparison of laboratory mouse 
+varieties subject to differing intellectual property restrictions.34 
+The  above  case  studies  each  have  a  quantitative  component, 
+focusing on a particular set of data to answer particular questions 
+about  their  cases.  These  studies  illustrate  the  point  that  the 
+empirical case study need not be purely qualitative. 
+A  more  recent  trend  in  patent  scholarship  is  to  explore 
+historical,  as  well  as  current,  case  studies.35  Thus,  Gerard 
+Magliocca  has  harvested  lessons  from  the  behavior  of  patent 
+                                                                                                     
+  33.  Heidi Williams, Intellectual Property Rights and Innovation: Evidence 
+from the Human Genome (Nat’l Bureau of Econ. Research, Working Paper No. 
+16213,  2011),  available  at  http://www.law.nyu.edu/academics/colloquia/ 
+innovationpolicy/ECM_PRO_070944; see also Rochelle C. Dreyfuss & James P. 
+Evans, From Bilski Back to Benson: Preemption, Inventing Around, and the 
+Case of Genetic Diagnostics, 63 STAN. L. REV. 1349, 1365–70 (2011) (surveying 
+empirical research on the effect of gene patents on medical innovation and 
+drawing lessons for the patentability of genetic correlations). 
+  34.   See Fiona Murray et al., Of Mice and Academics: Examining the Effect 
+of Openness on Innovation 4–5 (Nat’l Bureau of Econ. Research, Working Paper 
+No. 14,819, 2009), available at http://www.nber.org/papers/w14819 (determining 
+that  research  using  mice  species  subject  to  greater  intellectual  property 
+restrictions resulted in less “downstream” innovation than research using less-
+restricted species). 
+  35.  There  is  also  a  larger  body  of  historical  work  on  patent  law  not 
+employing the case study approach. See generally, e.g., B. ZORINA KHAN, THE 
+DEMOCRATIZATION  OF  INVENTION:  PATENTS  AND  COPYRIGHTS  IN  AMERICAN 
+ECONOMIC DEVELOPMENT, 1790–1920 (2005) (providing a historical overview of 
+the development of patent and copyright law in America and its impact on 
+economic  development);  CHRISTINE  MACLEOD,  INVENTING  THE  INDUSTRIAL 
+REVOLUTION: THE ENGLISH PATENT SYSTEM, 1600–1800 (1988) (examining trends 
+in patenting and innovation as well as offering an intellectual history of the 
+concept of invention in this time period); Catherine L. Fisk, Removing the ‘Fuel 
+of Interest’ from the ‘Fire of Genius’: Law and the Employee-Inventor, 1830–1930, 
+65 U. CHI. L. REV. 1127 (1998) (examining the development of law respecting 
+ownership  of  employee  inventions  during  the  19th  and  20th  centuries  in 
+America); Moser, supra note 21 (using exhibition data to examine the impact of 
+patent laws on innovation); Brad Sherman & Leanne Wiseman, Fair Copy: 
+Protecting Access to Scientific Information in Post-War Britain, 73 MOD. L. REV. 
+240  (2010)  (discussing  the  impact  of  library  copying  provisions  on  the 
+development of copyright law in post-war Great Britain); Kara Swanson, The 
+Emergence of the Professional Patent Practitioner, 50 TECH. & CULTURE 519 
+(2009) (tracing the historical roots of the modern patent bar); Steven Wilf, The 
+Making of the Post-War Paradigm in American Intellectual Property Law, 31 
+COLUM. J.L. & ARTS 139 (2008) (reviewing the expansion and development of the 
+scope of intellectual property law in America since World War II). ILLUMINATING INNOVATION  1905 
+trolls with regard to nineteenth century agricultural machinery.36 
+Adam Mossoff has delved into patent thickets surrounding the 
+early sewing machine industry.37 Kara Swanson uncovered the 
+hidden  dimensions  of  “the  corset  case”  to  offer  a  gendered 
+perspective on patent law.38 And Christopher Beauchamp picks 
+up the telephone as an object of cultural and legal disputes over 
+inventorship.39  
+So far, historical scholars have not typically focused their 
+attention on the innovation hypothesis, and innovation scholars 
+have not generally favored historical case studies.40 Yet historical 
+case studies may be critical to testing patent law’s innovation 
+hypothesis. The unique advantage of a historical case study is 
+that the passing of time allows researchers to observe both short-
+term  and  long-term  results.  This  is  crucial  because  the  full 
+impact of patent protection plays out over several decades. In the 
+near term, incentives are perceived, a technology is developed, 
+patents are issued, and products come to market. In the longer 
+term,  the  new  industry  matures,  litigation  ensues,  the  first-
+generation  patents  expire,  and  second-generation  innovation 
+takes  place.  When studying  cutting-edge  technological  sectors, 
+our analysis is necessarily limited to the near term; the longer-
+term effects remain in the future, out of sight. This shortened 
+horizon  may  introduce  a  systematic  blind  spot  in  our 
+                                                                                                     
+  36.  Gerard N. Magliocca, Blackberries and Barnyards: Patent Trolls and 
+the Perils of Innovation, 82 NOTRE DAME L. REV. 1809, 1808–14 (2007). 
+  37.  Adam Mossoff, The Rise and Fall of the First American Patent Thicket: 
+The Sewing Machine War of the 1850s, 53 ARIZ. L. REV. 165, 166–70 (2011). 
+  38.  Kara W. Swanson, Getting a Grip on the Corset: Gender, Sexuality, and 
+Patent Law, 23 YALE J.L. & FEMINISM 57, 59–62 (2011). 
+  39.  Christopher  Beauchamp,  Who  Invented  the  Telephone?:  Lawyers, 
+Patents, and the Judgments of History, 51 TECH. & CULTURE 854, 855–66, 877–
+78 (2010) [hereinafter Beauchamp, Who Invented the Telephone] (examining 
+how patent law influenced the legal and cultural notions of who invented the 
+telephone); see also Christopher Beauchamp, The Telephone Patents: Intellectual 
+Property, Business, and the Law in the United States and Britain, 1876–1900, 9 
+ENTERPRISE & SOC’Y 591 (2008) (using a case study of the early telephone 
+industry in the United States and Great Britain to explore interactions between 
+business strategies and national legal regimes). 
+  40.  Indeed, historical inquiry comes with challenges for the researcher 
+interested in assessing the impact of patent law on innovation. Quantitative 
+data may not have been recorded and might be impossible to gather now. 
+Participant  observation  and  interviewing  are  similarly  unavailable  as 
+methodologies. 1906  69 WASH. & LEE L. REV. 1891 (2012) 
+understanding of patent law’s true impact. The benefits of patent 
+protection  are  visible  immediately  in  the  form  of  enhanced 
+research and development spending, cutting-edge technologies, 
+and new products on market. The long-term costs to competition, 
+access, and next-generation innovation may take place later, out 
+of sight.41 
+Taking a historic case study such as the light bulb allows us 
+to examine the impact of patent law in the fullness of time—not 
+just  at  the  initial  stage  of  research  and  development,  but 
+throughout the term of protection and past the expiration of first-
+generation  patents.  This  greater  perspective  can  allow 
+researchers  to  observe  long-term  dynamics  that  would  have 
+remained hidden in the future when studying a more current 
+technology.  In  the  case  of  the  light  bulb,  these  long-term 
+dynamics  included  massive  litigation,42  the  consolidation  of  a 
+previously competitive industry,43 and a half-century lull between 
+when incandescent-light technology was first patented and when 
+it  finally  became  widely  accessible  to  the  American  public.44 
+Perhaps it should come as no surprise, then, that patent scholars 
+centrally concerned with  the  innovation  problem  have  heavily 
+relied on the very limited historical research already at hand.45 
+                                                                                                     
+  41.  See Bernstein, supra note 16, at 2311 (distinguishing the first step of 
+innovation from the second step of diffusion and concluding that intellectual 
+property law has been insufficiently concerned with the latter). 
+  42.  See, e.g., HAROLD C. PASSER, THE ELECTRICAL MANUFACTURERS 1875–
+1900: A STUDY IN COMPETITION, ENTREPRENEURSHIP, TECHNICAL CHANGE, AND 
+ECONOMIC  GROWTH  151–55  (1953)  [hereinafter  PASSER,  THE  ELECTRICAL 
+MANUFACTURERS]  (describing  the  litigation  that  ensued  surrounding  the 
+patenting of the light bulb). 
+  43.  See id. at 155–62 (describing the consolidation of the incandescent lamp 
+industry following the upholding of Edison’s light bulb patent). 
+  44.  See generally DAVID E. NYE, ELECTRIFYING AMERICA: SOCIAL MEANINGS 
+OF A NEW TECHNOLOGY, 1880–1940 (1992) (tracing the history of electricity’s 
+spread across America from its initial development in the early 1880s to its 
+broad spread to ordinary Americans only in the 1930s and 1940s). 
+  45.  See, e.g., BESSEN & MEURER, supra note 15 (discussing patents as a form 
+of property right and concluding that patents fail as property in rewarding 
+innovators and encouraging investment in innovation); BOLDRIN & LEVINE, supra 
+note 15 (analyzing the impact of intellectual monopolies created through patents 
+and copyrights on the economic motivations for innovation); Mark A. Lemley, 
+The Myth of the Sole Inventor, 110 MICH. L. REV. 709 (2012) [hereinafter Lemley, 
+Sole Inventor] (examining the problem of simultaneous or near-simultaneous 
+invention as it relates to patent law theory). ILLUMINATING INNOVATION  1907 
+History remains the best evidence available to us, in a world 
+where  controlled  experiments  are  impossible.  This  promising 
+body  of  evidence  deserves  more  careful  and  extensive 
+investigation. 
+C. Law and the Light Bulb 
+Many different technologies might have been the focus of an 
+attempt to historically examine the innovation hypothesis. Why 
+choose the light bulb? Robert E. Stake has distinguished three 
+approaches to case study research: “intrinsic, instrumental, and 
+collective.”46 First, a researcher may choose to undertake a case 
+study  for  intrinsic  interest:  not  to  understand  a  general 
+phenomenon or build theory, but because the case itself is of 
+inherent interest.47 Alternatively, a case may be explored with 
+the primary goal of gaining an understanding of larger questions 
+removed  from  the  particular  instance—the  instrumental  case 
+study.48  My  aim  in  undertaking  this  case  study  is  decidedly 
+instrumental. My research is driven by the desire to understand 
+how patent law impacts technological innovation and diffusion. 
+Many different technologies could have served that instrumental 
+purpose; the light bulb offered simply one convenient starting 
+point.  In  the  future,  several  thoughtfully  selected  inventions 
+might be explored through a collective case study.49  
+For many Americans, however, the case of Thomas Edison 
+and the light bulb holds substantial intrinsic interest. People are 
+interested in knowing more about the invention of the light bulb, 
+for its own sake. Choosing this particular case thus offered me a 
+vehicle to explore the innovation hypothesis, with the hope of 
+finding a wider audience. A second advantage of the enduring 
+intrinsic interest in the light bulb and Thomas Edison is that a 
+                                                                                                     
+  46.  Stake, QUALITATIVE RESEARCH, supra note 26, at 438. 
+  47.  See id. at 437 (noting that the case is undertaken not “because the case 
+represents other cases or because it illustrates a particular trait or problem, but 
+because, in all its particularly and ordinariness, [the] case itself is of interest”). 
+  48.  See id. (“The case is of secondary interest, it plays a supportive role, 
+and it facilitates our understanding of something else.”). 
+  49.  See id. (defining the collective case study as an instrumental study 
+extended to several cases, which are selected as a sample to be representative of 
+a broader class of phenomena the researcher wants to understand). 1908  69 WASH. & LEE L. REV. 1891 (2012) 
+substantial body of scholarship already exists on this case. This 
+Article draws significantly on that existing scholarship to look for 
+answers  to  a  previously  neglected  research  question.  The 
+availability of a wealth of primary and secondary materials on 
+this case also means that researchers who share my interest in 
+the  innovation  hypothesis  have  access  to  the  same  resources. 
+Others may interpret these materials independently, critique my 
+conclusions,  and  offer  alternative  explanations:  such 
+“triangulation” is an important check on case study work that 
+seeks to answer an empirical question. 
+Discussion  of  Edison’s  work  seems  an  almost  inescapable 
+element of any treatise on innovation.50 Yet the Great Inventor 
+has so far attracted only a little attention from legal scholars.51 
+The Supreme Court’s opinion in the Incandescent Lamp Patent 
+case52  is  familiar  to  many  patent  attorneys,  students,  and 
+scholars. It is excerpted in several patent casebooks and makes 
+regular  appearances  in  law  review  footnotes.53  Yet  the  case’s 
+                                                                                                     
+  50.  See, e.g., HAROLD EVANS WITH GAIL BUCKLAND & DAVID LEFER, THEY 
+MADE AMERICA 151–71 (2004); JONATHAN S. FEINSTEIN, THE NATURE OF CREATIVE 
+DEVELOPMENT 565 (2006); ANDREW HARGADON, HOW BREAKTHROUGHS HAPPEN: 
+THE SURPRISING TRUTH ABOUT HOW COMPANIES INNOVATE 249 (2003); THOMAS P. 
+HUGHES, AMERICAN GENESIS: A CENTURY OF INVENTION AND  TECHNOLOGICAL 
+ENTHUSIASM  517  (2004);  INVENTIVE  MINDS:  CREATIVITY  IN  TECHNOLOGY  345 
+(Robert  J.  Weber  &  David  N.  Perkins  eds.,  1992);  ROBERT  W.  WEISBERG, 
+CREATIVITY:  UNDERSTANDING  INNOVATION  IN  PROBLEM  SOLVING,  SCIENCE, 
+INVENTION,  AND  THE  ARTS  261–75  (2006);  JOHN  ZIMAN,  TECHNOLOGICAL 
+INNOVATION AS AN EVOLUTIONARY PROCESS 356 (2000). 
+  51.  For  the  exception  that  proves  the  rule,  see  Barak  Y.  Orbach, 
+Prizefighting and the Birth of Movie Censorship, 21 YALE J.L. & HUMAN. 251, 
+251 (2009) (examining extensively Edison’s role in adopting self-regulation as a 
+mode of content censorship in the early motion picture industry). Orbach’s 
+interest was censorship and freedom of expression, yet his article’s insight into 
+Edison’s business approach to motion picture technology is interesting from an 
+intellectual property perspective as well. For instance, Orbach traces Edison’s 
+tendency to publicly exaggerate the progress of an invention and his inability to 
+accurately predict the profitability of a technology at the time of its invention. 
+See  id.  at  275−76  (recalling  that  Edison  often  used  the  press  to  promote 
+uncompleted inventions without foresight into the financial benefits of such 
+publicity). Edison also receives several paragraphs of attention in recent works 
+by Mark Lemley and Brian Love; these works are discussed in detail in Part III 
+of this Article. 
+  52.  Consol. Elec. Light Co. v. McKeesport Light Co., 159 U.S. 465 (1895). 
+  53.  The case quickly became known by the subject matter of the patent, 
+rather than the parties’ names. See, e.g., WALTER MALINS ROSE, NOTES ON THE 
+UNITED  STATES  REPORTS:  A  BRIEF  CHRONOLOGICAL  DIGEST  OF  ALL  POINTS ILLUMINATING INNOVATION  1909 
+historical  context,  the  litigation’s  implications  for  the 
+electrification of America, and the case’s potential larger lessons 
+for innovation policy remain only dimly unappreciated. Indeed, 
+the case name itself is a misnomer. There is no single patent 
+corresponding to the incandescent lamp. Thomas Edison himself 
+took out more than 100 patents on technical components of the 
+incandescent  lamp;54  his  assistants  and  competitors  also  held 
+many light bulb patents. Indeed, the patent at the center of the 
+Supreme Court case was not Edison’s but that of a rival. More 
+often, we invoke Thomas Edison and his light bulb in passing—
+treating Edison as an icon, rather than as a subject of inquiry.55 
+                                                                                                     
+DETERMINED IN THE DECISIONS OF THE SUPREME COURT 776 (1901) (referring to 
+the case by the name of “Incandescent Lamp Patent” and summarizing the 
+holding as “the “[p]atent is void, where application is so vague that independent 
+experimentation is necessary to construe it”); Dmitry Karshtedt, Limits on 
+Hard-to-Reproduce  Inventions:  Process  Elements  and  Biotechnology’s 
+Compliance with the Enablement Requirement, 3 HASTINGS SCI. & TECH. L.J. 
+109,  138  (2011)  (citing  “the  venerable Incandescent  Lamp  Patent  case”  as 
+indicative of the genus-species rule of patent claiming); Mark A. Lemley, The 
+Economics of Improvement in Intellectual Property Law, 75 TEX. L. REV. 989, 
+1002 (1997) [hereinafter Lemley, Economics of Improvement] (referring to the 
+Incandescent Lamp Patent case as “a celebrated case” illustrating the principle 
+that patent claim scope should be limited to embodiments actually enabled by 
+the  disclosure);  Joshua  D.  Sarnoff,  The  Historic  and  Modern  Doctrines  of 
+Equivalents  and  Claiming  the  Future,  Part  II  (1870-1952),  87  J.  PAT.  & 
+TRADEMARK OFF. SOC’Y 441, 446 nn.121–27 (2005) (crediting the case with 
+establishing the modern standard for enablement of claim scope, laying to rest 
+earlier doctrine on pioneering patents). 
+  54.  See Israel, Claim the Earth, supra note 2. 
+  55.  See, e.g., Bernstein, supra note 16, at 2258 (“We adore genius and 
+admire creators. We celebrate the achievements of Thomas Edison, and the 
+extraordinary  talent  of  Wolfgang  Amadeus  Mozart.”);  John  S.  Leibovitz, 
+Inventing a Nonexclusive Patent System, 111 YALE L.J. 2251, 2251–53 (2002) 
+(using a slightly fictionalized account of the Edison-Swan invention race as a 
+“paradigmatic patent parable” to illustrate the drawbacks of a winner-take-all 
+approach to patent rights); Corey McCaffrey, The Virtues of Virtual Marking in 
+Patent Reform, 105 NW. U. L. REV. 367, 367 (2011) (“The world is full of 
+reminders that we are surrounded by inventions. When we see a light bulb, we 
+remember Thomas Edison.”); Michael J. Meurer & Katherine J. Strandburg, 
+Patent Carrots and Sticks: A Model of Nonobviousness, 12 LEWIS & CLARK L. 
+REV. 547, 551−52 nn.12−15 (2008) (using Edison’s light bulb as a familiar 
+invention to illustrate the argument that higher nonobviousness standards push 
+inventors to pursue more ambitious projects); see also Lemley, Sole Inventor, 
+supra note 45, at 710 (“Any elementary-school student can recite a number of 
+canonical American invention stories. Thomas Edison invented the light bulb 
+from his famous home laboratory in Menlo Park, New Jersey.”). Lemley’s article 
+does not end with the icon, however, but goes on to explore Edison’s story in 1910  69 WASH. & LEE L. REV. 1891 (2012) 
+This  Article  seeks  to  go  further,  examining  the  invention, 
+patenting,  marketing,  and  litigation  of  the  incandescent  light 
+bulb through the close lens of patent racing theory. 
+Before  beginning  this  deeper  inquiry,  however,  a  brief 
+introduction is in order. Many of us were taught as children that 
+Thomas Alva Edison invented the light bulb.56 The full story is 
+more  complicated.  A  primitive  light  bulb  had  first  been 
+demonstrated  more  than  seventy  years  before  Edison’s  work 
+began.57  In  the  intervening  decades,  crucial  improvements  in 
+vacuum  technology  and  electricity  generation  were  developed 
+that  made  electric  light  a  newly  promising  technology.58 
+Beginning in 1878, Edison led a team of engineers who worked 
+together  to  produce  one  of  the  first  commercially  practical 
+systems of interior lighting.59 This team, however, had serious 
+competition  in  the  laboratory  and  the  marketplace.60  The 
+competition was so intense, in fact, that for many years after 
+                                                                                                     
+greater depth, calling into question the iconic image. See id. at 722−23 (“It 
+seems  clear,  however,  that  Edison  did  not  ‘invent’  the  lightbulb  in  any 
+meaningful sense.”). Lemley also uses the Incandescent Lamp Patent case as an 
+illustration of the doctrine of enablement in the context of follow-on innovation. 
+See Lemley, Economics of Improvement, supra note 53, at 1002−03 (discussing 
+the court’s decision to invalidate Sawyer and Mann’s patent infringement claim 
+against Edison on the grounds that Sawyer and Mann’s patent for the use of any 
+vegetable fiber as a filament did not preclude Edison from making further 
+investigation using bamboo). 
+  56.  A number of works aimed at children present Thomas Edison as an 
+archetype of the heroic inventor See, e.g., LAURIE CARLSON, THOMAS EDISON FOR 
+KIDS: HIS LIFE AND IDEAS: 21 ACTIVITIES (2006); INEZ NELLIE MCFEE, THE STORY 
+OF THOMAS A. EDISON (1922); WILLIAM H. MEADOWCROFT WITH AUTOBIOGRAPHICAL 
+NOTE BY MR. EDISON, THE BOY’S LIFE OF EDISON (1911); FRANCIS ROLT-WHEELER, 
+THOMAS ALVA EDISON (1915). 
+  57.  See BRIGHT, supra note 2, at 36 (“One of the first demonstrations of 
+electrically induced incandescence was made in 1802 . . . .”). 
+  58.  See id. at 38−42 (discussing the contribution energy advancements and 
+vacuum developments had on the ultimate success of incandescent lighting). 
+  59.  See ROBERT FRIEDEL & PAUL ISRAEL WITH BERNARD S. FINN, EDISON’S 
+ELECTRIC LIGHT: BIOGRAPHY OF AN INVENTION, 4−5 (1986) [hereinafter FRIEDEL & 
+ISRAEL, ELECTRIC LIGHT]. 
+  60.  At the exhibitions of the International Electrical Congress in Paris in 
+1881—held after Edison had filed several patents in the field but before he had 
+his first paying customers—incandescent lamps were displayed by Swan, Lane-
+Fox,  Maxim,  and  Edison.  THOMAS  P.  HUGHES,  NETWORKS  OF  POWER: 
+ELECTRIFICATION IN WESTERN SOCIETY, 1880–1930, at 50 (1983) [hereinafter 
+HUGHES, NETWORKS OF POWER]. ILLUMINATING INNOVATION  1911 
+light  bulbs  began  to  be  widely  manufactured  and  sold,  it 
+remained  unclear  who  had  won.  Even  today,  British 
+schoolchildren are taught that Joseph Swan, not Thomas Edison, 
+won the race to invent the light bulb.61 Once electric light was 
+ready  for  commercialization,  many  companies  competed  with 
+Edison’s in the marketplace.62 Compared to his rivals, however, 
+Edison was particularly successful in litigating his portfolio of 
+patents related to electric light technology. Edison leveraged his 
+patent portfolio and courtroom successes to obtain mergers or 
+market  sharing  agreements  with  most  of  his  competition.63  A 
+fifteen-year  litigation  campaign  advancing  claims  based  on  a 
+number  of  patents  produced  a  stunning  consolidation  of  a 
+previously competitive market for light bulb manufacture.64 By 
+1910, General Electric—the successor to Edison’s electric light 
+companies—would control 97% of all light bulbs sold in the U.S. 
+market.65 The remainder of this Article examines both the early 
+patent race and the later patent war in greater detail. 
+III. Dynamics of Inventive Races 
+One contribution historical case studies can make is to test 
+existing  theoretical  models  of  patents’  roles  in  incentivizing 
+innovation. Part III of this Article uses the case study of the light 
+                                                                                                     
+  61.  This version of history is reflected in the Wikipedia entry for Joseph 
+Swan.  See  Joseph  Swan,  WIKIPEDIA  (Sept.  12,  2012,  4:18  PM), 
+http://en.wikipedia.org/wiki/Joseph_Swan (last visited Nov. 14, 2012) (“He is 
+most famous for inventing an incandescent light bulb before its independent 
+invention by the American Thomas Edison.”) (on file with the Washington and 
+Lee Law Review); see also KENNETH R. SWAN, K.C., SIR JOSEPH SWAN 15–39 
+(1946) (denouncing at the outset “the somewhat pretentious and all-embracing 
+claims which have from time to time been advanced on Edison’s behalf” and 
+providing  a  detailed  account  of  Swan’s  own  claim  to  inventorship  of  the 
+incandescent light bulb).  
+  62.  See BRIGHT, supra note 2, at 73 tbl.X (listing the “principal pioneer 
+manufacturers of carbon-filament lamps in the United States”). 
+  63.  See id. at 87−101 (illustrating Edison’s use of his patent to bring 
+injunctions  against  competitors,  forcing  many  of  them  to  close  down  or 
+consolidate their businesses). 
+  64.  See  id.  (describing  the  “corporate  purchases,  consolidations,  and 
+regulations,” mostly triggered by Edison’s legislation tactics, that ultimately 
+resulted in two companies controlling the electrical-goods industry). 
+  65.  Id. at 147–48. 1912  69 WASH. & LEE L. REV. 1891 (2012) 
+bulb to test, critique, and refine one theory of “patent racing,” 
+which has been offered as one account of how patent protection 
+may  incentivize  faster  innovation.66  As  articulated  by  Mark 
+Lemley, patent racing theory centers on an underappreciated fact 
+that proves problematic for other theories of patent-motivated 
+innovation:  most  inventions  are  not  breakthroughs  at  all,  but 
+ordinary engineering work that achieved its goal just a short time 
+before the rest of the competition.67  
+In using the light bulb case study to test this theory, this 
+Article  draws  upon  a vast secondary  literature  describing  the 
+development  of  incandescent  light.  These  historical  accounts, 
+however, predate patent racing theory, tend to discuss patents 
+and patent law only tangentially, and are generally authored by 
+writers more interested in Thomas Edison as a personality than 
+in theoretical questions of innovation policy. The process of sifting 
+through this literature is thus one of searching for needles in a 
+haystack—finding  those  snippets  of  relevant  information  here 
+and there in the corpus, historical asides that now enjoy a second 
+life  as  data  points  completely  unintended  by  their  original 
+documenters.  In  all  cases,  I  have  made  a  point  to  critically 
+question whether the original author’s account of the historical 
+“facts” should be treated as reliable or not. As much as possible, 
+this account relies only on data that can be confirmed through 
+reference to more than one source.  
+Held  up  to  the  empirical  light  of  Edison’s  bulb,  Lemley’s 
+patent  racing  model  proves  to  have  substantial  merit  as  a 
+descriptive account. The racing metaphor captures a significant, 
+                                                                                                     
+  66.  For a fuller picture of variations on the theory of patent racing and 
+related models offered to explain how patents incentivize faster innovation, see 
+John F. Duffy, Rethinking the Prospect Theory of Patents, 71 U. CHI. L. REV. 439, 
+440–47 (2004) (“[T]he race to claim patent rights becomes a race to diminish the 
+patentee’s rents by dedicating the invention to the public sooner.”); Mark F. 
+Grady & Jay I. Alexander, Patent Law & Rent Dissipation, 78 VA. L. REV. 305, 
+305–10 (1992) (identifying that the case law suggests that “patent protection 
+applies  only  to  inventions  that  signal  large  possibilities  for  improvement 
+relative to the rent that a patent gives to the inventor”) (emphasis omitted); 
+Edmund W. Kitch, The Nature and Function of the Patent System, 20 J.L. & 
+ECON. 265, 265–67 (1977) (arguing that the patent system increases the output 
+from resources used for technological innovation). 
+  67.  Lemley, Sole Inventor, supra note 45, at 710 (discrediting the “canonical 
+story” of the individual inventor and suggesting that new technologies are 
+oftentimes invented simultaneously by independent teams). ILLUMINATING INNOVATION  1913 
+and often overlooked, reality about the dynamics of innovation in 
+the shadow of patent law and is helpful to understanding the 
+development  of  the  light  bulb.  In  its  present  form,  however, 
+patent racing theory also has weaknesses. A closer look at the 
+light bulb suggests that the better metaphor for understanding 
+technological innovation may be neither a sprint nor a marathon 
+but the board game Risk. Patent law does not provide clearly 
+defined finish lines and criteria for judging winners, but rather a 
+set  of  strategic  resources  for  waging  longer-term  corporate 
+battles.68 Ultimately, the experience of the light bulb leaves me 
+less  optimistic  than  Lemley  that  patent  racing  will  fare  any 
+better as a normative justification for patent protection. Rather, a 
+fuller understanding of the inventive race to control the light bulb 
+should leave us even more skeptical of the innovation hypothesis. 
+A. The Theory of Patent Racing 
+In The Myth of the Sole Inventor, Mark Lemley explores the 
+underappreciated dynamic of “simultaneous invention” and the 
+problems it poses for the conventional economic justifications of 
+patent protection.69 In case after case, Lemley’s article illustrates 
+that  multiple  inventors  working  on  the  same  technological 
+problem have arrived at the same solution at nearly the same 
+time.70  The  archetypal  case  here  is  the  telephone:  Alexander 
+Graham Bell and Elisha Gray reportedly filed their competing 
+                                                                                                     
+  68.  I am indebted to Robin Feldman at the UC Hastings College of the Law 
+for  the  invitation  to  think  of  patent  rights  not  as  property  claims  in  the 
+traditional sense but as chips to be presented at the bargaining table when 
+shares  of  ownership  in  a  technology  are  eventually  being  resolved.  I  first 
+encountered this presentation of patent law as an audience member when she 
+gave  a  plenary  presentation  at  the  2009  Intellectual  Property  Scholars 
+Conference, and it greatly shaped my thinking about this project and the 
+present Article. That presentation has now evolved into an excellent book, see 
+ROBIN FELDMAN, RETHINKING PATENT LAW (2012). My theory of patent warfare 
+builds on Professor Feldman’s view of patent strategy, although the metaphor I 
+have chosen—war, rather than bargaining—reflects my view of the dynamic as 
+less collaborative and more destructive than her own. 
+  69.  See Lemley, Sole Inventor, supra note 45, at 710−11 (arguing for a 
+change in patent theory to accommodate the reality of simultaneous invention). 
+  70.  See id. at 735 (concluding, after a historical analysis, that it is “rare” for 
+one inventor to develop a “wholly new product that no one else achieved at 
+roughly the same time”). 1914  69 WASH. & LEE L. REV. 1891 (2012) 
+patent  applications  on  the  very  same  day.71  Simultaneous 
+invention may also take a less obvious form, wherein a single 
+product builds on incremental inventive contributions by so many 
+different parties that it truly has no identifiable inventor.72  
+The  overwhelming  presence  of  simultaneous  invention, 
+Lemley  argues,  calls  into  question  the  dominant  theoretical 
+justifications for patent protection.73 If invention is the product of 
+ordinary engineering work rather than extraordinary labors of 
+genius, why do we award such an enormous prize to the party 
+that  achieved  it  first,  if  only  by  a  few  days?74  Lemley  then 
+proposes an alternative theory that might better justify patent 
+protection,  which  begins  from  the  reality  of  simultaneous 
+invention, rather than from the myth of the sole inventor.75 This 
+“patent racing” theory proposes that patent incentives accelerate 
+innovation by increasing the stakes of the race to invent.76 All 
+parties in the competition know that the first-place winner will 
+take away a great prize, and the runner-up may be shut out 
+completely. The enhanced competition these heightened stakes 
+engender, Lemley suggests, may motivate greater investment of 
+resources and thus accelerate the overall pace of innovation.77 
+The Myth of the Sole Inventor actually includes the light bulb 
+among its historical examples of simultaneous invention, along 
+the incremental model.78 Lemley correctly characterizes Edison’s 
+                                                                                                     
+  71.  See id. at 710, 720–22, 751. 
+  72.  See id. at 714−15 (claiming that the incremental process of invention 
+often leads to recognition of the “first person to make one significant step in the 
+chain” and ignorance of “the developments that precede and follow it”). 
+  73.  See  id.  at  737  (“The  overwhelming  presence  of  both  independent 
+invention  and  incremental  contribution  calls  the  basic  incentive  story  into 
+serious question.”). 
+  74.  See id. at 752 (“If two or more putative investors invest that money in 
+research and development in an effort to beat each other to the market, all but 
+the first to invent will have wasted that money . . . .”). 
+  75.  See  id.  at  750  (considering  a  patent  system  that  recognizes  the 
+importance of cumulative innovation). 
+  76.  See id. at 753−54 (describing the benefits of a patent race, including the 
+quicker progress of inventions, the possibility of a wide variety of approaches to 
+solving a problem, and the improved quality of inventions that a deadline might 
+encourage).  
+  77.  See id. at 753 (“[A] patent race should . . . cause inventions to be made 
+sooner than they otherwise would be . . . .”). 
+  78.  Id. at 722−23. ILLUMINATING INNOVATION  1915 
+inventive contribution as “an incremental one: one in a long chain 
+of improvements.”79 Indeed, the contributions of Edison’s research 
+team took the form of a chain of improvements as well, with 
+multiple patents filed on various aspects of the light bulb and its 
+related technology as they were developed, ultimately building a 
+robust patent portfolio surrounding electric light technology. A 
+closer  look  at  the  development  of  the  incandescent  light  bulb 
+reveals strong support for some aspects of patent racing theory, 
+and  also  suggests  ways  in  which  the  framework  requires 
+complication and revision. 
+B. Support for Patent Racing Theory 
+First,  the  support:  Thomas  Edison  was  clearly  in  an 
+inventive race. He had multiple contemporaneous rivals pursuing 
+the exact same inventive goal: a commercially viable light bulb.80 
+According to Conot, at least thirty-one U.S. Patents in the area of 
+incandescent  light  had  already  been  granted  and  not  yet 
+expired.81 Edison thus began work on the incandescent light bulb 
+in  1878,  at  a  time  when  the  field  was  already  populated  by 
+competing  inventors  and  prior  patents.82  This  competition 
+continued after Edison entered the field, and multiple parties 
+filed  important  patents  in  the  United  States  and  other 
+jurisdictions.83 Edison ultimately began large-scale electric light 
+                                                                                                     
+  79.  Id. at 723. 
+  80.  See BRIGHT, supra note 2, at 44 (listing six other inventors working 
+towards the development of incandescent electric lighting). 
+  81.  See CHARLES BAZERMAN, THE LANGUAGES OF EDISON’S LIGHT 247 (1999) 
+(“[I]n the 15 years before Edison was granted his first patent for incandescent 
+light, 31 patents had already been granted in that area . . . .” (citing ROBERT E. 
+CONOT, A STREAK OF LUCK 214 (1979))). 
+  82.  See FRIEDEL & ISRAEL, ELECTRIC LIGHT, supra note 59, at 7–8 (“As early 
+as 1841, Frederick De Moleyns, an Englishman, received a British patent for an 
+incandescent lamp using both carbon and platinum. In 1845 an American, J.W. 
+Starr, not only patented two forms of incandescent lamp . . . but also traveled 
+around England giving exhibitions and promoting his inventions.”); see also 
+William Sawyer, Elec. Lamp, U.S. Patent No. 235,459 (filed Sept. 20, 1880) 
+(issued Dec. 14, 1880) (claiming a particular mechanism for fitting an electric 
+lamp to a bracket).  
+  83.  See BAZERMAN, supra note 81, at 247 (“[I]n the 15 years before Edison 
+was granted his first patent for incandescent light, 31 patents had already been 
+granted in that area . . . .” (citing ROBERT E. CONOT, A STREAK OF LUCK 214 1916  69 WASH. & LEE L. REV. 1891 (2012) 
+service in New York City in September 1882.84 By that point, 
+several other companies were also mass-producing electric light 
+bulbs—and wielding their own patent portfolios.85  
+Offering  further  support  for  the  validity  of  Lemley’s 
+metaphor, these parties also perceived themselves to be in a 
+race. They were acutely self-conscious about their competition, 
+sought out every available bit of information about the other 
+teams’ progress, and were generally quite concerned about who 
+seemed  to  be  ahead  at  any  given  moment.86  So  were  their 
+                                                                                                     
+(1979))). 
+  84.  Edison’s Electric Light, N.Y. TIMES, Sept. 5, 1882, at 8. 
+  85.  See, e.g., PASSER, THE ELECTRICAL MANUFACTURERS, supra note 42, at 
+191 (“Under [Hiram] Maxim, the [United States Electric Lighting Company] 
+began production of incandescent-lighting plants for isolated use in 1880.”). In 
+August 1881, various light bulb manufacturers, including the Swan, Maxim, 
+and Lane-Fox teams, in addition to Edison’s, had demonstrated their wares at 
+the Exposition Internationale de l’Électricité (Paris Exhibition). See Letter from 
+Otto A. Moses, Edison Emp. (Aug. 26, 1881), in 6 THE PAPERS OF THOMAS ALVA 
+EDISON: ELECTRIFYING NEW YORK AND ABROAD 144–45 (Paul Israel et al. eds., 
+2007) [hereinafter PAPERS OF EDISON VOL. 6] (assuring the receiver of the letter 
+that  the  Edison  exhibit  outshone  all  the  rest).  By  1882,  several  systems 
+competed with Edison’s. See Letter from Charles Mott to Arnold White (July 5, 
+1882), in PAPERS OF EDISON VOL. 6, supra, at 584–85 (referring to competing 
+providers of incandescent light installations, including Siemens, Swan, “and 
+others”); see also Letter from Frank J. Sprague, a member of Edison’s research 
+team, to Edward Johnson, another Edison employee (Sept. 21, 1882), in PAPERS 
+OF EDISON VOL. 6, supra, at 655–57 (“Crompton informed me privately that the 
+[Swan] Company were turning out 15,000 lamps a week, and I am inclined to 
+believe him.”); BAZERMAN, supra note 81, at 247–48 (discussing the patents 
+wielded by other manufacturers). 
+  86.  This was true from the first months of Edison’s work on incandescent 
+light.  See,  e.g.,  Letter  from  E.W.  Griffiths,  counsel  retained  by  Edison,  to 
+Thomas A. Edison (Oct. 30, 1878), in 4 THE PAPERS OF THOMAS A. EDISON: THE 
+WIZARD  OF  MENLO  PARK,  1878,  at  657–58  (Paul  Israel  et  al.  eds.,  1998) 
+[hereinafter PAPERS OF EDISON VOL. 4] (“Mr. Lowrey directs me to send you a few 
+hurried  notes  of  a  conversation  had  with  Mr.  Sawyer  this  morning.”  The 
+enclosure  then  details  particular  technological  accomplishments  in  which 
+Sawyer claims to have anticipated Edison’s team.) The very next day, Edison 
+directed his attorney to conduct a thorough patent search. Letter from T.A. 
+Edison to Lemuel Serrel (Oct. 31, 1878), in PAPERS OF EDISON VOL. 4, supra, at 
+658 (“Please make out a list of all US patents from the earliest ages to the 
+present time on Electric light and send them for me [sic] Want them right off.”).
+Edison’s concern to keep apprised of his competition continued as the endeavor 
+moved from the research stage to commercialization. A report from an Edison 
+employee gives a sense of the competition research being conducted:  
+The Swan Company is pushing forward, and in this connection let me 
+say that Edison must not abate the work on the lamp, Swan is ILLUMINATING INNOVATION  1917 
+investors.87 The progress made by the team of William Edward 
+Sawyer and Albon Man posed particular problems for Edison.88 
+Between 1880 and 1883, the competitors were embroiled in a 
+hard-fought priority battle at the U.S. patent office over which 
+team had been first to achieve a key insight.89 The dispute went 
+against Edison, and the issuance of the Sawyer and Man patent 
+in 1885—along with Westinghouse’s entry in the industry—set 
+the stage for a decade of extensive and expensive litigation.90  
+Given the existence of other competitors, one very plausible 
+interpretation of this history is that Edison’s participation in this 
+race merely accelerated the arrival of a commercially practical 
+light bulb. Gas lighting was an extremely lucrative industry,91 
+and  arc  electric  lighting  was  already  finding  commercial 
+                                                                                                     
+making  continual  advance,  and  has  recently  commenced  making 
+lamps by a new process, which are the finest lamps I ever saw. They 
+are  not  yet  public, but  Crompton,  who  is  now one of  the  Swan 
+Directors showed me one. . . . This new lamp is claimed to have 100 
+ohm resistance hot, and it can easily be increased, and to require but 
+.6 of an empere, and 36 vol-tamperes, for 20 candle power. I think 
+perhaps this is a little high, but is a wonderfully fine lamp, and I 
+think can be made more cheaply than Edison’s, and has fully as much 
+life. He is making other lamps of 40 candle and has recently made 
+lamps of 300 ordinary candle power. 
+Letter from Frank J. Sprague, in PAPERS OF EDISON VOL. 6, supra note 85, at 
+657. See also SWAN, supra note 61, at 19 (describing Swan’s response to the 
+growing publicity afforded to the competing systems of electric lighting). 
+  87.  See, e.g., FRIEDEL & ISRAEL, supra note 59, at 26–29 (describing growing 
+pressure  from  Edison’s  investors  at  the  earliest  stages  of  his  research  to 
+demonstrate some advantage over existing teams of researchers) 
+  88.  See generally BAZERMAN, supra note 81, at 247–49 (describing Edison’s 
+practice of resolving conflicting patent claims over the incandescent light by 
+combining forces with the businesses holding competing patents, but noting that 
+this  was  not  successful  universally,  and  the  Sawyer Man  competition  was 
+particularly vexing). 
+  89.  See id. at 248–57 (detailing the patent interference proceedings and 
+later litigation between the Edison and Sawyer-Man teams). 
+  90.  See id. at 248 (discussing the beginning of multiple infringement suits 
+involving Edison and his competitors); infra Part IV.A (same); see also Israel, 
+Claim the Earth, supra note 2, at 20 (“Edison and his company used their strong 
+patent position to enforce licensing agreements with customers of both central 
+and isolated stations and to attack competitors. By 1885, they were involved in 
+nearly one hundred patent office proceedings and lawsuits involving electric 
+lighting.”). 
+  91.  BRIGHT, supra note 2, at 20. 1918  69 WASH. & LEE L. REV. 1891 (2012) 
+application.92 The immense market potential of electric light in 
+the household context was widely realized. For electric engineers 
+of  the  day,  the  challenge  of  “subdividing  the  electric  light”—
+adapting  it  for  domestic  use—was  an  obvious  goal,  attracting 
+significant attention and effort even before Edison entered the 
+field.93  From  the  perspective  of  market  incentives  and  of 
+technological groundwork already laid, a commercially practical 
+light bulb may have been a near inevitability. 
+Edison’s participation, however, probably greatly increased 
+the fervor of this race—at least between his 1878 entry and 1881, 
+when Edison moved from Menlo Park to New York to oversee 
+commercial  introduction.  Prior  to  Edison’s  entry,  limited 
+resources were being invested in pursuit of the incandescent light 
+bulb. The leading American competition was the Sawyer–Man 
+team.94 William Sawyer was a journalist turned inventor funded 
+primarily by New York lawyer Albon Man, who organized the 
+Electro-Dynamic Light Company for this purpose.95 The company 
+had allocated $4,000 to Sawyer’s research between March and 
+June 1878.96 Edison’s talent for raising venture capital would 
+produce a much bigger war chest: nearly $130,000 in research 
+funds were directed to his electric lighting work between 1878 
+and  1881.97  Edison’s  entry  into  the  field  not  only  attracted 
+significant new investments to his own team, but also motivated 
+increased investments to his competitors. In September 1878, the 
+precise  month  that  Edison  threw  his  hat  into  the  ring,  the 
+Sawyer–Man company set up a second workshop.98  
+Indeed, Edison’s entry may have been the defining event that 
+truly kicked off the race for the light bulb as a serious one. When 
+Edison filed his first light bulb patent in September 1878, he gave 
+                                                                                                     
+  92.  See, e.g., id. at 32 (“Arc lighting was making commercial as well as 
+technical progress in this country [the United States] by the time incandescent 
+lighting appeared on the scene in 1880.”). 
+  93.  HUGHES, NETWORKS OF POWER, supra note 60, at 31–32. 
+  94.  PAUL ISRAEL, EDISON: A LIFE OF INVENTION 188 (1998) [hereinafter 
+ISRAEL, A LIFE OF INVENTION]. 
+  95.  Id. 
+  96.  Id. 
+  97.  Id. Adjusted for GDP deflation, Edison’s $130,000 in research expenses 
+from 1878 to 1881 translates to more than $2.5 million in current dollars. Id. 
+  98.  Id. ILLUMINATING INNOVATION  1919 
+an  interview  to  the  New  York  Sun  in  which  he  claimed 
+definitively—if  not  accurately—to  have  solved  the  problem  of 
+incandescent light.99 A brief excerpt serves to illustrate the effect: 
+Mr. Edison says that he has discovered how to make electricity 
+a cheap and profitable substitute for illuminating gas. Many 
+scientific men have worked assiduously in that direction, but 
+with little success. . . . It has been reserved for Mr. Edison to 
+solve the difficult problem desired. This, he says, he has done 
+within a few days . . . “I have obtained it through an entirely 
+different process from which scientific men have ever sought to 
+secure it. They have all been working in the same groove, and 
+when it is known how I accomplished my object, everybody will 
+wonder  why  they  have  never  thought  of  it,  it  is  so 
+simple . . . .”100 
+A  few  days  later,  Edison  began  financial  negotiations  for 
+investments.101 A letter privately assured one potential investor 
+that  “all  serious  difficulties  have  been  overcome  and  there  is 
+every reason to believe that [Edison] has discovered the means of 
+giving an electrical light suitable for every use at a vastly reduced 
+cost as compared with the cost of gas.”102  
+Edison thus claimed to not only be ahead of his competition 
+in the inventive race for incandescent light, but to have already 
+won. Stock prices in gas companies tumbled, indicating that at 
+least  some  people  took  these  claims  seriously.103  More 
+sophisticated  investors,  however,  knew  better  than  to  take 
+Edison’s initial claims at face value.104 They suspected that the 
+solution was not yet in hand and even doubted whether Edison 
+                                                                                                     
+  99.  Edison’s Newest Marvel, N.Y. SUN, Sept. 16, 1878, in THERESA M. 
+COLLINS & LISA GITELMAN, THOMAS EDISON AND MODERN AMERICA: A BRIEF 
+HISTORY WITH DOCUMENTS 83–85 (2002). 
+  100.  Id. at 83. 
+  101.  BAZERMAN, supra note 81, at 10; FRIEDEL & ISRAEL, supra note 59, at 
+14. 
+  102.  Letter  from  G.P.  Lowrey,  Edison’s  representative  in  investment 
+negotiations, to Hamilton McKay Twombly, representative of potential investor 
+William H. Vanderbilt (Oct. 1, 1878), in PAPERS OF EDISON VOL. 4, supra note 86, 
+at 658.  
+  103.  See FRIEDEL & ISRAEL, supra note 59, at 23 (“[I]n early October the 
+news from America caused a panic in gas shares in London, where Edison’s 
+reputation for wizardry was unequaled.”). 
+  104.  See  id.  at  14  (“[T]he  story  was  read  by  some  of  the  Wall  Street 
+moneymen who had already learned to be wary of Edison’s technical genius.”). 1920  69 WASH. & LEE L. REV. 1891 (2012) 
+would  ultimately  be  the  first  to  achieve  it.105  Indeed,  the 
+technique  Edison  claimed  in  U.S.  Patent  No.  214,636, 
+“Improvement in Electric Lights,” was ultimately unsuccessful. 
+The  line  of  research  reflected  in  this  first  patent  filing  was 
+discarded entirely and the design never made it into an actual 
+product.106 Edison would not be able to publicly demonstrate a 
+successful  bulb—utilizing  a  different  underlying  technology—
+until more than a year later, at the end of December 1879.107 
+Although Edison’s claims were premature, they could not be 
+ignored.  Lemley  suggests  that  patents  may  increase  the 
+incentives in a race as both a carrot and a stick. From the carrot 
+perspective,  runners  race  because  they  believe  that  they  will 
+finish  first  and  obtain  a  patent  reward.108  From  the  stick 
+perspective, runners are motivated to go faster because they fear 
+that their competitors will win, obtaining patent rights that shut 
+them out of a lucrative market.109 Looking at the race for the light 
+bulb, the stick dynamic seems to be strongly in play. Edison’s 
+1878 claims represented a threat that he would solve the problem 
+of the light bulb in the near future. That threat seemed uniquely 
+                                                                                                     
+  105.  Potential investors in Europe asked to see a working model of the 
+invention, which Edison promised to send through his agent George Gourad. See 
+Letter from Thomas A. Edison to Theodore Puskas (Oct. 5, 1878), in THERESA M. 
+COLLINS & LISA GITELMAN, THOMAS EDISON AND MODERN AMERICA: A BRIEF 
+HISTORY WITH DOCUMENTS, at 85–86 (2002) [hereinafter A BRIEF HISTORY]. Two 
+days later, however, a telegram from Gouraud himself to Edison vainly pleaded 
+for a demonstration or some helpful detail of the breakthrough that could be 
+publicly shared to bolster confidence before panicked British investors moved to 
+support a rival system. See Telegram from George Gourad to Thomas A. Edison 
+(Oct. 7, 1878), in A BRIEF HISTORY, supra note 105, at 86. Edison cabled back 
+advising  Gourad  to  “let  them  go  ahead,”  as  he  could  not  yet  provide  the 
+requested proof. Id.; see also FRIEDEL & ISRAEL, supra note 59, at 14 (describing 
+the hesitancy of investors in financing Edison’s new invention). 
+  106.  BAZERMAN, supra note 81, at 186–89. Bazerman deftly provides a clear 
+explanation of the technique claimed by Edison in this first patent, which even a 
+non-engineer can understand, as well as reproducing the patent specification 
+and claims, as issued. Id.  
+  107.  See e.g., id, at 183–85; FRIEDEL & ISRAEL, ELECTRIC LIGHT, supra note 
+59, at 111–14; ISRAEL, A LIFE OF INVENTION, supra note 94, at 187–88. 
+  108.  See  Lemley,  Sole  Inventor,  supra  note  45,  at  755  (describing  the 
+different  motivations  for  inventors  to  move  quickly  in  developing  their 
+invention). 
+  109.  See id. (describing the role a patent race can play as a “stick” by 
+motivating inventors to move quickly to avoid “the risk of losing a race and 
+being excluded from competition in that market”). ILLUMINATING INNOVATION  1921 
+credible coming from Edison because of his public reputation as 
+an inventor and because of his obviously passionate commitment 
+to this particular technological challenge.110  
+Edison’s entry into the race on these terms helped to create 
+an  air  of  inevitability  surrounding  incandescent  lighting.  The 
+perfection  of  the  technology  suddenly  seemed  close  at  hand. 
+Investors scrambled to pick sides and stake claims in what now 
+appeared poised to be an important new industry.111 Gas lighting 
+companies stood to come out as losers no matter which team won 
+the race. This made it all the more important for them to throw 
+some of their great resources into backing a winning team in 
+order  to  hedge  their  existing  investments.  The  race  was 
+definitively  on  and  gathering  momentum.  The  key  points  of 
+Lemley’s theory—the prevalence of simultaneous invention, the 
+role of patent protection in raising the stakes, and the power of 
+competition to motivate increased investments in research and 
+development—all find support in the race to perfect the light 
+bulb. 
+C. Problems for Patent Racing Theory 
+Despite  all  this support  in  the  historical  record,  Lemley’s 
+theory of patent racing has been vehemently disputed by business 
+professor John Howells and his co-author, Ron D. Katznelson.112 
+These critics specifically take issue with Lemley’s use of the light 
+bulb as an example of incremental invention.113 They argue that 
+Edison’s contribution in fact “unlocked the field,” that it cannot 
+be placed on par with contributions by any other inventor, and 
+                                                                                                     
+  110.  See FRIEDEL & ISRAEL, supra note 59, at 29 (suggesting that initially, 
+Edison’s chief asset was self-confidence, largely shared by the world at large).  
+  111.  See id. at 14 (examining the various investors who decided to finance 
+Edison’s operation, including individuals associated with the telegraph and gas 
+companies). 
+  112.  See John Howells & Ron D. Katznelson, A Critique of Mark Lemley’s “A 
+Myth of the Sole Inventor” 4–5 (Sept. 15, 2011) (unpublished manuscript), 
+available at http://bitly.com/Lemley-Critique (on file with author). 
+  113.  See id. (disputing Lemley’s claim that Edison was not a sole inventor by 
+highlighting the distinct strengths of Edison’s invention in contrast with those 
+of his competition). 1922  69 WASH. & LEE L. REV. 1891 (2012) 
+that  Edison  was  deserving  of  a  “pioneer”  patent.114  My  own 
+examination of the light bulb case puts me on the side of Lemley 
+rather than his critics. The central mistake made by Howells and 
+Katznelson  is  to  treat  judicial  opinions  and  patent  claims  as 
+reliable evidence of who really did what.115 These legal documents 
+emphatically assert that Edison’s inventive contributions were 
+without peer. Such assertions, however, should be treated with 
+great  skepticism.  The  historical  claims  about  Edison’s 
+contributions, which Howells and Katznelson present as fact, are 
+better  understood  as  a  deeply  mythologized  “narrative  of 
+invention”  that  Edison  himself  forged  in  preparation  for 
+litigation.116  The  model  of  incremental  innovation  more 
+accurately fits the true history of the light bulb’s development.  
+Contrary to Howells and Katznelson’s position, my concern 
+with Lemley’s patent racing theory is that the model may not go 
+far  enough  to  reflect  the  reality  of  incremental  innovation. 
+Lemley  describes  simultaneous  invention  as  existing  in  two 
+models.117 The first model is when two inventors are working on 
+the same technology, and the contest is to see who will produce it 
+first.118 Lemley offers the telephone as the archetype of a patent 
+race: two inventors almost literally racing to the patent office 
+door.119 But the second model is probably more common. This is 
+when  the  process  of  invention  is  characterized  by  roughly 
+                                                                                                     
+  114.  Id. at 6. The concept of a “pioneer patent” was popular in American 
+patent doctrine at the late nineteenth and early twentieth centuries. Proponents 
+argued that when an inventor had made a “pioneering” contribution to a new 
+field of technology, he should be entitled to broad claims covering not only the 
+specific  embodiment  they  had  produced  but  also  later  generations  of  the 
+technology that others developed. For a critique of this doctrine—and argument 
+as to its enduring relevance—see Brian J. Love, Interring the Pioneer Invention 
+Doctrine, 90 N. CAROLINA L. REV. 379, 389 (2012). 
+  115.  See Howells & Katznelson, supra note 112, at 4–7 (describing the 
+reasons that Edison’s patent for the incandescent light was superior to his 
+competitors). 
+  116.  See generally Lea Shaver, Patents, Publicity, and the Myth of Invention 
+(2012) (unpublished manuscript) [hereinafter Shaver, Myth of Invention] (on file 
+with author). 
+  117.  See Lemley, Sole Inventor, supra note 45, at 731 (“[I]nventions . . . are 
+in fact generally the products either of simultaneous independent invention or of 
+incremental development from multiple sources, or both.”). 
+  118.  Id. at 712–15. 
+  119.  Id. at 720–22. ILLUMINATING INNOVATION  1923 
+contemporaneous contributions by so many different parties that 
+it  becomes  impossible  to  declare  any  one  true  “father”  of  the 
+technology.120 The race for the light bulb, at least, best fits this 
+pattern  of  incremental  innovation.121  Even  in  the  case  of  the 
+telephone, the narrative of the race to the patent office may be 
+more a product of litigation stance than of the underlying reality 
+of technological development.122 
+If  the  pattern  of  incremental  innovation  is  indeed  the 
+prevailing one, as I suspect, we need a reconceptualization of 
+racing theory that deemphasizes the patent office door as the 
+finish line. Doing so, however, destabilizes the metaphor. Central 
+to the concept of a race is the existence of a clearly defined finish 
+line, at which point the winners and losers are declared based 
+upon a simple and objective measure of performance. Indeed, the 
+very purpose of the race as an athletic convention is to enable this 
+objectivity by clearly defining the terms of the contest in advance. 
+A political campaign also meets these two criteria of a traditional 
+race: a clearly defined endpoint (election day) and an objective 
+methodology  for  determining  the  winner  (tabulating  votes). 
+Inventive races, however, may not conform to this model. The 
+race  for  the  light  bulb,  at  least,  lacked  these  two  key 
+characteristics.123  
+                                                                                                     
+  120.  Id. at 715–16. 
+  121.  For  a  comprehensive  account  of  innovations  in  electrical  lighting 
+between 1880 and 1890, well situated in their economic and political context, 
+see generally HUGHES, NETWORKS OF POWER, supra note 60. 
+  122.  See Beauchamp, Who Invented the Telephone, supra note 39, at 877 
+(highlighting the difficulty of “the question of where, on the continuum of 
+conceptualization,  experimentation,  ‘reduction  to  practice,’  and 
+commercialization, the invention of the telephone should be rightly marked”). 
+  123.  The inventive race for the light bulb has one other similarity with 
+political races, however: the dynamics of self-fulfilling prophecies. In a political 
+campaign, contenders seek to create the perception that they are in the lead, in 
+order to win over those potential supporters who simply want to throw in their 
+lot with the likely winner. Edison thus cultivated the media and exaggerated his 
+own progress to discourage investors from backing his rivals. See FRIEDEL & 
+ISRAEL, supra note 59, at 13. Similar to a political campaign, impressions about 
+which inventive team is ahead can translate into additional resources helpful 
+for getting ahead, making such prophecies self-fulfilling. Mercifully, even the 
+longest political campaign finds its end within eighteen months, and a victor is 
+clearly anointed. Not so with an inventive race, in which it may take more than 
+a decade for courts to declare the winner. 1924  69 WASH. & LEE L. REV. 1891 (2012) 
+Indeed,  this  particular  race  was  so  closely  and  fiercely 
+contested that for many years—even years after light bulbs were 
+widely being manufactured in the United States—there was no 
+clear winner. Throughout the 1880s, multiple companies, each 
+holding patent portfolios from different inventive teams, claimed 
+strenuously that their champions had prevailed.124 Ultimately, 
+these conflicting claims had to be settled by the law.125 In doing 
+so, the patent office and the courts had to apply legal criteria that 
+are infinitely more complex and subjective than those commonly 
+used to judge athletic and political races. Courts also had to make 
+this determination, not immediately after the relevant finish line, 
+but  many  years  later,  upon  an  imperfect  evidentiary  record 
+developed by deeply interested parties. In one crucial trial, for 
+instance, Edison’s attorneys persuaded the judge that William E. 
+Sawyer had in fact never made the lamp claimed in the disputed 
+patent.126  Because  ten  years  had  passed  between  the  claimed 
+experiments and the Incandescent Lamp Patent trial, Mr. Sawyer 
+was no longer alive to testify personally as to the events. 
+Beyond mere problems of evidence, Robin Feldman argues 
+persuasively  that  subjectivity  and  indeterminacy  are  inherent 
+features  of  patent  interpretation.127  In  Feldman’s  words, 
+“[p]atents cannot possibly delineate the boundary of an inventor’s 
+rights  because  those  rights  will  be  established  in  relation  to 
+products that have yet to be created at the time of the patent 
+grant.”128  Patent  lawyers  face  the  daunting  task  of  choosing 
+words to capture the essence of a technology that by definition 
+                                                                                                     
+  124.  See, e.g., BAZERMAN, supra note 81, at 247–48 (describing the uncertain 
+and overlapping claims of ownership over the light bulb technology and the 
+increasingly  competitive  production  of  light  bulbs  based  on  these  various 
+patents). 
+  125.  See id. at 248–50 (describing the interference battle between Edison 
+and  the  Sawyer-Man  team  at  the  patent  office  in  1881–1883  and  later 
+litigation); PASSER, THE ELECTRICAL MANUFACTURERS, supra note 42, at 151–59 
+(describing the beginning of patent litigation over the incandescent lamp in 
+1885  and  its  continuation  for  many  years);  Consol.  Elec.  Light  Co.  v. 
+McKeesport Light Co., 159 U.S. 465 (1895) (invalidating a Sawyer-Man patent 
+under which any light bulb with a filament of carbonized vegetable matter 
+would have been deemed infringing). 
+  126.  Consolidated Elec. Light Co. v. McKeesport Light Co., 40 F. 21, 28–29 
+(C.C.W.D. Pa. 1889), aff’d, 159 U.S. 465 (1895). 
+  127.  See generally FELDMAN, RETHINKING PATENT LAW, supra note 68. 
+  128.  Id. at 3. ILLUMINATING INNOVATION  1925 
+has never before been described, in order to compare it in the 
+future  to  other  technologies  that  do  not  yet  exist.129  “Taken 
+together, this set of circumstances ensures that a patent could 
+never  grant  a  definitive  and  clearly  bounded  set  of  rights.”130 
+Feldman concludes that a patent must be understood not as a 
+clear  marking  of  the  “metes  and  bounds”  of  one  party’s 
+intellectual property, but rather as an invitation to bargain with 
+others over the scope and value of the patent rights.131 In the end, 
+“the extent of the rights cannot truly be known until the day that 
+the patent expires.”132 Keeping Edison’s experience in mind, we 
+might also characterize this inherent uncertainty of patent claims 
+as not just “an invitation to bargain,” but also as an invitation to 
+litigate. 
+Because  of  problems  of  evidence,  indeterminate  claim 
+language,  and  shifting  standards  of  legal  interpretation,  the 
+nature of the competition in a patent race may be much less 
+objective and meritocratic than the metaphor initially suggests. 
+Are inventive races meaningfully similar to the 100-meter dash 
+or a presidential primary? Or are they more like an Olympic 
+gymnastics competition, in which the American and Soviet judges 
+may arrive at wildly different conclusions?133 Whether we view 
+the patent race as a fair and objective contest or not has great 
+implications for the degree of confidence we place in the patent 
+system to pick winners and losers, and therefore, to structure the 
+proper incentives for technological innovation. Lemley’s patent 
+racing  model  lessens  the  power  of  the  myth  that  inventions 
+appear out of thin air, and would not have existed but for the 
+contributions of the credited inventor, a misperception that too 
+easily favors very strong patent rights. Without great caution, 
+however, the patent racing model might replace an old myth with 
+a new one: that of the patent race as a fair and clean contest. 
+Patent law on the ground is not so neat and tidy. 
+                                                                                                     
+  129.  Id. 
+  130.  Id. 
+  131.  Id. 
+  132.  Id. at 5. 
+  133.  After all, American courts picked Thomas Edison, and British courts 
+picked Joseph Swan. 1926  69 WASH. & LEE L. REV. 1891 (2012) 
+The patent racing model also carries a second risk: it tells 
+only part of the story and leaves out what might be the most 
+important part, from the perspective of innovation. Patent racing 
+theory best describes the early stages of development of a new 
+technology.  In  the  latter  stages  of  commercialization, 
+improvement, and diffusion of that technology, the nature of the 
+competition  shifts  very  distinctively.134  This  latter  dynamic, 
+which  I  term  “patent  warfare,”  can  also  be  understood  as  a 
+contest or game. But its nature is quite different from the patent 
+race described by Lemley, and its implications for innovation are 
+not nearly so positive. A look at what happens next in the story of 
+the  light  bulb—after  the  technology  was  perfected  enough for 
+Edison and others to begin to commercialize it—will make this 
+point crystal clear. 
+IV. Learning from the Light Bulb 
+A. From Patent Racing to Patent War 
+In Part III, the early contest to develop and bring to market 
+an incandescent light bulb was used to test the theory of patent 
+racing. The history largely supports the theory of patent racing, 
+albeit with skepticism as to any implication of a clear finish line. 
+After the light bulb came to market, however, the dynamics of the 
+competition among inventive teams shifted dramatically. Here, 
+the more accurate metaphor is neither a sprint nor a marathon, 
+but the strategic board game Risk.135 In this game, the board 
+resembles a map of the world, with varying territories. In the 
+early  stages  of  the  game,  players  amass  tokens  representing 
+armies and position them strategically on the board to fortify their 
+positions.  Eventually,  the  game  shifts  into  attack  mode,  as 
+                                                                                                     
+  134.  I  am  indebted  to  Gaia  Bernstein  for  highlighting  an  important 
+distinction between innovation and diffusion of new technologies. See, e.g., 
+Bernstein,  supra  note  16,  at  2290–91  (distinguishing  the  innovation  and 
+diffusion stages of a technology’s introduction and arguing that intellectual 
+property law neglects the latter). 
+  135.  See  Risk  (game),  WIKIPEDIA,  (Sept.  14,  2012,  4:45  PM),  https://en. 
+wikipedia.org/wiki/Risk_(game)  (last  visited  Nov.  14,  2012)  (offering  a  full 
+description of the game of Risk) (on file with the Washington and Lee Law 
+Review). ILLUMINATING INNOVATION  1927 
+players vie to conquer each other’s territories. Ultimately, one 
+party pushes out all the competitors and achieves the goal of the 
+game: world domination.  
+Similarly, industrial contenders may spend years amassing a 
+patent portfolio and income streams that will eventually fund 
+their litigation war chest. At a certain point, when one party 
+thinks it is the right amount ahead, it begins to close in on its 
+opponents.  Both  in  Risk  and  in  patent  warfare,  the  strategic 
+campaigner should begin by confronting its weakest competitors 
+because those victories will be easiest. The victor may also amass 
+strength by absorbing the assets—patent portfolio and market 
+share—of  the  vanquished  foe.  Finally,  the  two  strongest 
+competitors confront each other, as the Edison and Westinghouse 
+companies faced off in the litigation that reached the Supreme 
+Court in the Incandescent Lamp Patent case. 
+To  paraphrase  the  classical  military  theorist  Clausewitz: 
+Patent litigation is the continuation of business strategy by other 
+means.136 Patent racing is helpful for understanding how patents 
+impact innovation leading up to the patent filing. But the long-
+term impact of patent law on industrial competition requires a 
+very different metaphor. Patents acquired in the racing stage 
+become  pawns  in  a  battle  to  achieve  market  dominance  and 
+secure competitive position. Contrary to the metaphor of the race, 
+it is not who is first to the patent office that wins, but who is last 
+left standing at the end of litigation.  
+In the early days of the light bulb’s commercial use, patents 
+proliferated but did not pose a barrier to competition. Economic 
+historian  Harold  C.  Passer  points  out  that  Edison  had  a 
+significant share of the market early on, but not anything like 
+exclusive control.137 In Passer’s words: “In the beginning, very 
+little  attention  was  paid  to  patents,  and  manufacturers  could 
+make the entire incandescent system. The dynamo could not be 
+                                                                                                     
+  136.  See CARL PHILIPP GOTTFRIED VON CLAUSEWITZ, ON WAR 87 (Michael 
+Howard & Peter Paret eds., trans., Princeton University Press 1976) (“War 
+is . . .  a  continuation  of  political  activity  by  other  means.”).  Carl  Philipp 
+Gottfried von Clausewitz was a Prussian General and writer in military theory. 
+See id. at 3–25 (describing the background and history of Carl Philipp Gottfried 
+von Clausewitz). 
+  137.  See PASSER, THE ELECTRICAL MANUFACTURERS, supra note 42, at 206 
+(“Of the 250,000 [incandescent lights] in use in 1885, over 200,000 were Edison 
+lights on Edison equipment.”). 1928  69 WASH. & LEE L. REV. 1891 (2012) 
+patented,  and  lamp  patents  were  not  respected.”138  By  1890, 
+however, Edison’s market share had fallen to less than half.139 
+Patent warfare was crucial to reversing that trend and securing 
+Edison’s  control  of  the  light-bulb  market.  In  the  first  year  of 
+litigation, Edison’s company was involved in nearly one hundred 
+patent  disputes,  including  administrative  proceedings.140 
+Between 1885 and 1895, more than twenty major opinions were 
+issued in U.S. cases disputing Edison’s claims to control of the 
+incandescent light bulb.141 By 1901, Edison’s side had spent about 
+$2,000,000  on  more  than  two-hundred  lawsuits  related  to  its 
+lighting patents.142 The Sawyer–Man infringement suit against 
+Edison alone generated more than 5,000 pages of documents, not 
+including the patent application and interference stages.143 Nor 
+was  the  litigation  confined  to  the  American  shores.  Foreign 
+patents  and  litigation,  especially  in  Great  Britain  and  in 
+                                                                                                     
+  138.  Id. 
+  139.  Id. 
+  140.  Israel, Claim the Earth, supra note 2, at 20. 
+  141.  See, e.g., Edison Elec. Light Co. v. Waring Elec. Co., 59 F. 358 (C.C.D. 
+Conn. 1894) (granting preliminary injunction against infringement of Edison 
+Patent No. 223,898), aff’d, 69 F. 645 (2d Cir. 1894) (per curiam); Edison Elec. 
+Co. v. Boston Incandescent Lamp Co., 62 F. 397 (C.C.D. Mass. 1894) (granting 
+preliminary injunction against infringement of Edison Patent No. 223,898); 
+Edison Elec. Co. v. Bos. Incandescent Lamp Co., 62 F. 397 (C.C.D. Mass. 1894) 
+(granting preliminary injunction against infringement of Edison Patent No. 
+223,898); Edison Elec. Light Co. v. Beacon Vacuum Pump & Elec. Co., 54 F. 678 
+(C.C.D. Mass. 1893) (granting preliminary injunction against infringement of 
+Edison Patent); Edison Elec. Light Co. v. Elec. Mfg. Co., 57 F. 616 (C.C.E.D. 
+Wis. 1893) (upholding the validity of Edison Patent No. 223,898 and finding 
+infringement), aff’d, 61 F. 834 (7th Cir. 1894); Edison Elec. Light Co. v. U.S. 
+Elec. Lighting Co., 52 F. 300 (2d Cir. 1892) (upholding the validity of Edison 
+Patent No. 223,898 and finding infringement), decree modified sub. nom. Edison 
+Elec. Light Co. v. Sawyer–Man Elec. Lighting Co., 53 F. 592 (2d Cir. 1982); 
+Edison Elec. Light Co. v. Westinghouse, 40 F. 666 (C.C.D.N.J. 1889) (upholding 
+the validity of Edison Patent No. 264,642 and finding infringement); Consol. 
+Elec.  Light  Co.  v.  McKeesport  Light  Co.,  40  F.  21  (C.C.W.D.  Pa.  1889) 
+(invalidating Sawyer–Man Patent No. 317,676, erroneously referred to in the 
+opinion as No. 317,076), aff’d, 159 U.S. 465 (1895). Paul Israel estimates Edison 
+was involved in nearly 100 patent disputes involving electric light by 1885. 
+Israel, Claim the Earth, supra note 2, at 20.  
+  142.  BRIGHT, supra note 2, at 136–37. 
+  143.  See BAZERMAN, supra note 81, at 239–40 (“The conflict . . . moved to the 
+courts, where it produced eight volumes of documents totaling more than 5000 
+pages.”). ILLUMINATING INNOVATION  1929 
+Germany, formed  an  important part of  Edison’s transnational 
+litigation strategy.  
+As companies in the field of incandescent light technology 
+negotiated cross-licensing deals and takeovers, patents on many 
+aspects  of  the  electrical  lighting  system  played  important 
+roles.144 But in U.S. litigation one of Edison’s many patents on 
+the light bulb would ultimately play the most important role. 
+Issued  on  January  27,  1880,  U.S.  Patent  No.  223,898  (’898 
+Patent)  recognized  Thomas  Alva  Edison’s  “improvement  in 
+electric  lamps,”  including  a  claim  on  “[a]n  electric  lamp  for 
+giving light by incandescence, consisting of a filament of carbon 
+of high resistance, made as described, and secured to metallic 
+wires,  as  set  forth.”145  The  ’898  Patent  was  just  one  among 
+dozens  of  patents  that  Edison  sought  on  the  light  bulb 
+technology, and it was not initially clear that it would prove so 
+central.146  Competitors  in  the  industry  strongly  doubted  the 
+validity  of  its  claims.147  That  changed  crucially  when  a 
+Pennsylvania court, in the course of invalidating a rival patent 
+held by Sawyer and Man, and in dicta, gave Edison’s ’898 Patent 
+a  new  interpretation  so  broad  as  to  render  virtually  every 
+incandescent  light  bulb  infringing.148  Subsequent  litigation 
+produced  a  stunning  consolidation  of  the  previously  very 
+competitive  American  electric  industry.149  After  the  Supreme 
+                                                                                                     
+  144.  See BRIGHT, supra note 2, at 86. See generally Israel, Claim the Earth, 
+supra note 2. 
+  145.  Thomas Alva Edison, Elec. Lamp, U.S. Patent No. 223,898 (filed Nov. 
+11,  1879)  (issued  Jan.  27,  1880).  The  patent  contains  three  additional 
+independent claims, which are omitted here for the sake of brevity. Id. 
+  146.  See BAZERMAN, supra note 81, at 86–89 (explaining that, despite the 
+large number of Edison patents, only the ’898 Patent was deemed “crucial”). 
+  147.  See PASSER, THE ELECTRICAL MANUFACTURERS, supra note 42, at 153–
+54. 
+  148.  See Consol. Elec. Light Co. v. McKeesport Light Co., 40 F. 21 (C.C.W.D. 
+Pa. 1889), aff’d, 159 U.S. 465 (1895) (invalidating the Sawyer–Man Patent); 
+PASSER, THE ELECTRICAL MANUFACTURERS, supra note 42, at 155 (“The meaning 
+of the decision seemed to be that the Edison patent could be the basis for an 
+absolute monopoly of incandescent-lamp manufacture in the United States.”); 
+see also BAZERMAN, supra note 81, at 250–57 (offering an insightful account of 
+the McKeesport trial). 
+  149.  See BRIGHT, supra note 2, at 84–93; see also BAZERMAN, supra note 81, 
+at 239–40 (explaining that, after the litigation with its industry competition, the 
+Edison  companies  and  their  successor,  General  Electric,  emerged  as  “the 
+primary owner of light technology as the industry expanded”). 1930  69 WASH. & LEE L. REV. 1891 (2012) 
+Court’s  1895  decision,  all  U.S.  producers  either  purchased 
+licenses from General Electric or merged with it.150 
+Passer’s economic study documents the transformation of the 
+light bulb market before and after the patent litigation. In the 
+early years of the electrical industry, he writes: 
+Patents  were  not  significant  in  either  the  product  or  the 
+manufacturing process. In these conditions—a standardized 
+product sold mainly to business firms, relatively free entry, 
+many  buyers,  and  more  than  fifteen  sellers—the  market 
+closely  approached  the  economist’s  concept  of  pure 
+competition. The competition was almost entirely in prices, 
+and these were driven down to cost by the additional supply 
+from new firms. But these freely competitive conditions did not 
+prevail  for  long.  The  year  1888  marked  the  end  of  pure 
+competition  in  arc  carbons,  and  1896  [the  year  after  The 
+Incandescent Lamp Patent was decided] saw the termination 
+of pure competition in incandescent lamps.151 
+By  1897,  General  Electric  was  the  undisputed  leader,  and 
+Westinghouse was its only serious rival.152 The two companies 
+agreed to a truce in the form of patent cross-licensing and product 
+pricing agreements.153 Smaller competitors were invited to join 
+                                                                                                     
+  150.  See BRIGHT, supra note 2, at 136–37 (explaining that the combination of 
+“patent victory, consolidations, and patent and marketing agreements” made 
+Edison the indisputable leader of the domestic incandescent-lamp industry). 
+  151.  PASSER, THE ELECTRICAL MANUFACTURERS, supra note 42, at 350. Passer 
+details forces contributing to the demise of competition including both non-
+patent and patent factors. Of the latter, he writes:  
+Patents also influenced competitive conditions. They were a prime 
+cause  of  the  numerous  consolidations  and  mergers  which  finally 
+resulted  in  only  two  full-line  producers.  Furthermore,  patents 
+permitted competition to take place on a system basis instead of with 
+reference to single items of equipment. Manufacturers could refuse to 
+allow the use of particular patented apparatus except as a part of a 
+complete lighting or power system.  
+Id. at 352. 
+  152.  See  BRIGHT,  supra  note  2,  at  144  (“In  1987  the  General  Electric 
+Company was unquestionably the leader of the American electric-lamp industry. 
+It had recently entered into a general cross-licensing arrangement with the 
+Westinghouse Electric & Manufacturing Company, its largest competitor . . . .”). 
+  153.  See id. at 12 (“A general patent-licensing arrangement between General 
+Electric and Westinghouse in 1896 and subsequent specific licenses established 
+a  pattern  in  the  lamp  industry  which  was  substantially  maintained  until 
+1945.”); see also W. BERNARD CARLSON, INNOVATION AS A SOCIAL PROCESS: ELIHU 
+THOMSON AND THE RISE OF GENERAL ELECTRIC 271–301 (1991).  ILLUMINATING INNOVATION  1931 
+the Incandescent Lamp Manufacturers Association, organized by 
+General Electric. These members agreed to divide up the markets 
+and avoid price competition.154 The result was that G.E. sold half 
+of  the  bulbs  in  the  U.S.  market,  and  the  smaller  companies 
+divided the other half.155 These smaller companies, dependent on 
+G.E.  patent  licenses  for  their  existence,  put  no  downward 
+pressure on prices and were discouraged from contributing their 
+full potential to next-generation innovation.156 In Bright’s words: 
+“They  gave  only  the  appearance  of  competition.”157  Through 
+incorporation, patent litigation, licensing deals, and eventually 
+purchases of stock, by 1910, G.E. controlled 97% of the market.158 
+Only then could Edison finally rest, his empire secure.  
+History  remembers  Edison  as  a  workshop  inventor,  a 
+tinkerer—an image established, in no small part, by Edison’s own 
+efforts.  A  more  accurate  historical  portrait  begins  with 
+recognizing  Edison  as  an  entrepreneur  and  empire  builder.159 
+                                                                                                     
+  154.  See BRIGHT, supra note 2, at 144 (explaining that General Electric 
+organized the Incandescent Lamp Manufacturers Association, obtaining the 
+cooperation of a large proportion of the industry, including six “formerly bitter 
+rivals,” who joined to avoid intense price competition). 
+  155.  See id. (“The members of the association agreed among themselves to 
+fix lamp prices, both wholesale and retail, to divide business and customers, and 
+to set terms of sale.”). 
+  156.  See  id.  at  457.  (“The  role  of  the  licensees  was  largely  passive . . . 
+add[ing] little to the vitality of the lamp industry; and they aided General 
+Electric in retaining its hold over the industry. They did not provide any real 
+downward pressure on prices. They gave only the appearance of competition.”). 
+  157.  Id. 
+  158.  Id.  at  147–48.  An  antitrust  investigation  subsequently  found 
+misconduct, but the remedies did not require the company to seriously change 
+its business model. General Electric would continue to dominate the light bulb 
+market for decades longer. See id. at 253–56. 
+  159.  In an unguarded moment, Edison’s voice was captured on his own 
+phonograph in an exchange suggesting Edison saw himself as a “hustler.” Stross 
+tells the story best: 
+One occasion when Edison cast off the expectations of others in his 
+middle age was when he met Henry Stanley, of “Dr. Livingston, I 
+presume” fame, and Stanley’s wife, who had come to visit him at his 
+laboratory in West Orange, N.J. Edison provided a demonstration of 
+the  phonograph,  which  Stanley  had  never  heard  before.  Stanley 
+asked, in a low voice and slow cadence, “Mr. Edison, if it were 
+possible for you to hear the voice of any man whose name is known in 
+the history of the world, whose voice would you prefer to hear?” 
+“Napoleon’s,” replied Edison without hesitation. 1932  69 WASH. & LEE L. REV. 1891 (2012) 
+Among his contemporaries working on the light bulb, Edison had 
+a unique focus on commercialization of the emerging technology, 
+rather  than  merely  securing  patents.160  Edison  was  no  mere 
+inventor,  but  a  different  breed  altogether:  the  inventor-
+entrepreneur.161 From the beginning, Edison intended not merely 
+to  license  his  light-bulb  patents,  but  to  commercialize  the 
+technology  himself;  indeed,  much  of  his  energies  would  be 
+consumed  in  supervising  the  rollout  of  his  products  in  the 
+marketplace.162 In this way, he had much more in common with 
+Steve Jobs or Bill Gates than with the average patent seeker. 
+As an entrepreneur, Edison understood that he would have 
+to confront his competition in the marketplace sooner or later, no 
+matter  how  advantageous  his  patent  portfolio.163  He  likely 
+recognized the business advantages that come with being the first 
+                                                                                                     
+“No, no,” Stanley said piously, “I should like to hear the voice of our 
+Savior.” 
+“Well,” explained Edison, “You know, I like a hustler.” 
+Randall Stross, Edison the Inventor: Edison the Showman, N.Y. TIMES, Mar. 11, 
+2007, at B1. Strictly speaking, Edison’s use of the word “hustler” describes 
+Napoleon, not himself. But Edison’s selection of Napoleon as the historical voice 
+he would most like to hear strongly suggests that the inventor considered the 
+empire-maker a personal role model. In describing Napoleon as a hustler, I 
+believe Edison was also describing his vision of himself. It was a self-image 
+successfully conveyed to others. Edison collaborator Francis Jehl would later 
+celebrate Edison as the Napoleon of the team’s efforts.  
+  160.  See PASSER, supra note 42, at 83 (“From the economist’s viewpoint, the 
+most significant aspect of Edison’s activities in electric lighting was his concern 
+at every step with economic factors.”); see also HUGHES, NETWORKS OF POWER, 
+supra note 60, at 29 (“From the start, he clearly realized . . . that his system 
+would have to be economically competitive, and thus he conceived of the problem 
+to be solved by invention as inseparably technical and economic.”). 
+  161.  See HUGHES, NETWORKS OF POWER, supra note 60, at 18–22 (describing 
+Edison’s  work  as  an  inventor-entrepreneur).  Harold  C.  Passer  had  earlier 
+written of the engineer-entrepreneur, of which Edison was a leading example. 
+See PASSER, supra note 42, at 356–60. “Edison was an engineer-entrepreneur on 
+a full-time basis when he turned to the electric light. He made the move 
+consciously and chose electric lighting as the best of a number of alternatives.” 
+Id. at 357. 
+  162.  See HUGHES, NETWORKS OF POWER, supra note 60, at 39–42 (explaining 
+Edison’s strategic design and location of the Pearl Street Station of the Edison 
+Electric Illuminating Company in the financial district of New York City). 
+  163.  See PASSER, supra note 42, at 83 (“Nearly all of [Edison’s] inventive 
+activities were directed toward making his system as efficient as possible. If his 
+system were to be successful . . . it would have to survive the market test that 
+every product in a free economic system has to meet.”). ILLUMINATING INNOVATION  1933 
+to bring a product to market. Moreover, Edison was not just an 
+experienced  inventor  and  entrepreneur,  he  was  also  an 
+experienced  patent  litigator,  having  participated  in  patent 
+disputes related to many of his earlier inventions. Because of this 
+past experience, Edison likely appreciated how difficult a task the 
+courts would ultimately face in sorting out the competing patent 
+claims surrounding incandescent light and realized that the party 
+with greater market share and greater income would hold an 
+important strategic advantage in the very expensive process of 
+litigation.  
+Perhaps Edison ultimately won the patent war over electric 
+light because, uniquely among the parties, he understood the true 
+nature  of  the  contest.  Throughout  the  inventive  race  to  the 
+marketplace, each patent filing was merely a mile marker in an 
+ultra-marathon of uncertain length. No one knew at the time of 
+filing which patent claims would turn out to be key, once the 
+market and the litigation began to take shape.164 This is not to 
+say that patents were unimportant. They were stockpiled for the 
+future, when the competition ultimately shifted from an inventive 
+race to patent war. This battlefield was the true finish line, and 
+the competition here took place as much on the dimensions of 
+litigation and business strategy as on the technical merits. In 
+retrospect, the initial patent race was not an athletic competition 
+with a clearly defined finish line, allowing judges to objectively 
+declare the winner. It was an arms race.165 
+B. The Current Smartphone Patent War 
+This  Article’s  model  of  patent  litigation,  as  resembling  a 
+game  of  Risk,  was  inspired  by  historical  evidence.  But  the 
+                                                                                                     
+  164.  See BRIGHT, supra note 2, at 86 (detailing the situation before the 
+patent war began, stating that by 1887 the “validity of the patents granted in 
+1880 had not yet been tested”). See generally FELDMAN, RETHINKING PATENT 
+LAW, supra note 68, at 40–74 (suggesting that this tremendous uncertainty as to 
+future meaning and value at the time a patent is filed and granted is inherent to 
+the nature of patent law). 
+  165.  For a more sophisticated exploration of the “arms race” metaphor in 
+patent law, see Colleen V. Chien, From Arms Race to Marketplace: The Complex 
+Patent Ecosystem and Its Implications for the Patent System, 62 HASTINGS L.J. 
+297, 303–11 (2011)  1934  69 WASH. & LEE L. REV. 1891 (2012) 
+metaphor  of  patent  warfare  has  also  recently  been  used  to 
+describe  emerging  litigation  in  the  IT  industry.  According  to 
+competition  and  antitrust  law  scholar  Michael  Carrier,  “The 
+smartphone  industry  today  is  characterized  by  a  thicket  of 
+patents and wars based on those patents. Every day brings a new 
+lawsuit or development between Apple, HTC, Microsoft, Motorola 
+Mobility (MMI), Nokia, and Samsung.”166 Carrier is neither the 
+first nor the last to refer to the developing pattern of smartphone 
+litigation as patent “warfare.”167 Journalists appear to have taken 
+the  cue  for  this  military  metaphor  from  the  litigants 
+themselves.168 As the metaphor suggests, the goal of this patent 
+litigation is to crush the opponent and force surrender. 
+Ironically, this new patent war is breaking out in the very 
+sector  of  the  economy  where  patents  may  have  played  the 
+smallest  role  in  incentivizing  innovation.  When  the  computer 
+industry first emerged in the 1960s, the United States Patent and 
+Trademark Office (USPTO) resisted software patent applications 
+as  a  matter  of  policy,169  and  computer  companies  themselves 
+                                                                                                     
+  166.  Carrier, supra note 4, at 1. 
+  167.  See, e.g., McMillan, supra note 4 (“But in practice, patents are weapons. 
+Technology companies load up on patents like Cold War nations stockpiling 
+nuclear bombs, hoarding them for use when an important market is at stake.”); 
+Oberlander, Stabe & Bernard, supra note 4 (“Patent wars are raging in the 
+smartphone industry. What began as Apple v. Google Android conflict has 
+turned into a vast legal quagmire involving everyone from Amazon to ZTE.”); 
+Vascellaro & Ramstad, supra note 4 (“Chief executives . . . will meet in San 
+Francisco  Monday  in  a  court-directed  session  aimed  at  settling  their 
+smartphone patent war. But a deal seems unlikely, people familiar with the 
+matter and others tracking the battle say.”). 
+  168.  Software industry participants long spoke of defensive patenting; more 
+recently,  Steve  Jobs  famously  invoked  the  metaphor  of  nuclear  war  in 
+threatening a competing phone system. Peter Burrows, Apple Seen Hurting 
+Shareholders Pursuing Jobs’s Patent War: Tech, BLOOMBERG (Dec. 28, 2011, 
+12:01  AM),  http://www.bloomberg.com/news/2011-12-28/apple-seen-hurting-
+shareholders-with-jobs-s-thermonuclear-patent-war-tech.html (last visited Nov. 
+14, 2012) (“Steve Jobs, the co-founder of Apple (AAPL) Inc., told his biographer 
+that he’d rather wage ‘thermonuclear war’ with Google Inc. than make deals to 
+share its technology with the maker of the Android operating system.”) (on file 
+with the Washington and Lee Law Review). 
+  169.  See Pamela Samuelson, Benson Revisited: The Case Against Patent 
+Protection for Algorithms and Other Computer Program-Related Inventions, 39 
+EMORY L.J. 1025, 1038–39 (1990) (“It was the [Patent Office] Commission’s 
+judgment that patent protection for computer program innovations was not 
+desirable.  The  Commission’s  1966  report . . . recommended  legislation  that 
+expressly excluded computer programs from patent protection.”).  ILLUMINATING INNOVATION  1935 
+supported  this  approach.170  Even  in  the  1990s,  some  leading 
+software firms opposed the granting of patents in their field.171 
+Software engineers also overwhelmingly expressed the view that 
+patents  were  unnecessary  and  potentially  harmful  in  their 
+field.172 Nevertheless, the patentability of software has now been 
+firmly  established  in  the  United  States,  and  the  number  of 
+software patent applications filed and granted has dramatically 
+increased.173 Europe has been even slower than the U.S. to grant 
+patent  protection  to  software  but  is  moving  in  the  same 
+direction.174  It  is  unclear  whether  the  modern  availability  of 
+                                                                                                     
+  170.  See  id.  at  1028  n.3  (describing  industry  input  to  the  presidential 
+commission in 1966); see also id. at 1143 (providing an overview of the early 
+legal changes regarding the patentability of software). 
+  171.  See James Bessen, A Generation of Software Patents 2 (Bos. Univ. Sch. 
+of Law, Working Paper No. 11-31, 2011), [hereinafter Bessen, Software Patents], 
+available at http://ssrn.com/abstract=1868979 (“Major software firms opposed 
+software patents through the mid-1990s.” (citing Transcripts of the 1994 USPTO 
+Software  Patents  Hearings,  U.S. PATENT & TRADEMARK  OFFICE,  http://www. 
+uspto.gov/web/offices/com/hearings/index.html (last visited Nov. 14, 2012))). 
+  172.  See Effy Oz, Acceptable Protection of Software Intellectual Property: A 
+Survey of Software Developers and Lawyers, 34 INFO. & MGMT. 161, 161–73 
+(1998); Pamela Samuelson et. al., Developments on the Intellectual Property 
+Front, COMMUNICATIONS OF THE ACM, June 1992, at 33, 38 (stating that the 
+responses to a 1989 survey taken by software developers suggested that there 
+was  “a  significant  opposition . . .  concerning  patent  protection  for  software 
+innovations”).  
+  173.  See James Bessen & Robert M. Hunt, An Empirical Look at Software 
+Patents, 16 J. ECON. & MGMT. STRATEGY 157, 169 (2007) (stating that the 
+number of patent applications granted per year has grown dramatically, and 
+now “almost 15% of all patents granted are software patents”); Stuart J.H. 
+Graham  &  David  C.  Mowery,  Intellectual  Property  Protection  in  the  U.S. 
+Software Industry, in PATENTS IN THE KNOWLEDGE-BASED ECON. 219, 226–47 
+(Wesley A. Cohen & Stephen A. Merrill eds., 2003) (examining judicial opinions 
+and the shift to support the use of patents in software); Julie E. Cohen & Mark 
+A. Lemley, Patent Scope and Innovation in the Software Industry, 89 CAL. L. 
+REV. 1, 7 (2001) (“[S]oftware’s status as patentable subject matter was first 
+doubted, then grudgingly admitted, and finally embraced.”). 
+  174.  The  European  Patent  Convention  states  that  methods  of  “doing 
+business[] and programs for computers” are not eligible for patent protection. 
+European Patent Office [EPO], European Patent Convention art. 52(3), Oct. 5, 
+1973, 13 I.L.M. 268. That prohibition has been significantly modified, however, 
+by more recent legal sources. The European Patent Office routinely grants 
+software patents. See EPO, Guidelines for Examination in the European Patent 
+Office,  Part  C,  Chapter  IV,  §§ 2.1,  2.2  (June  2005)  (indicating  that  the 
+prohibition on the patentability of items under Art. 52(2) should be narrowly 
+construed); see also Computer Program Product/IBM, T 1173/97-3.5.1 (EPO Bd. 
+of  App.  July  1,  1998)  (noting  that  “a  computer  program  product  is 1936  69 WASH. & LEE L. REV. 1891 (2012) 
+patent  protection  has  produced  any  greater  innovation  in  the 
+software industry.175  
+Even  under  the  newer  pro-patenting  rules,  the  prevailing 
+dynamic of patenting in the software industry was “defensive”—
+with companies seeking patent portfolios as leverage to protect 
+themselves against suits by others.176 Strong patterns of cross-
+licensing  and  a  “gentleman’s  agreement”  not  to  sue  kept  the 
+major firms from litigating their patents.177 In this context, it 
+seemed that the major corporations had relegated patent law to 
+an  incidental  role  in  the  industry’s  business  models.  Mobile 
+telephony  was  built  upon  collaborative  industry  standards 
+relying on voluntary patent pooling. The Internet was built upon 
+nonproprietary  protocols.  These were  understood as  deliberate 
+choices made by industry consensus to limit the power of patent 
+law and thereby avoid its negative consequences.178  
+Industry insiders and patent scholars alike assumed that the 
+peace was secured by the logic of mutually assured destruction. 
+Alex Blumberg and Laura Sydell summed up the conventional 
+                                                                                                     
+not . . . excluded under all circumstances” under Article 52(2) and (3)). This 
+leaves it up to each nation’s courts to judge the validity of such patents in 
+subsequent litigation. For a current overview of U.K. and German case law on 
+the validity of software patents, see Susan J. Marsnick & Robert E. Thomas, 
+Drawing a Line in the Patent Subject-Matter Sands: Does Europe Provide a 
+Solution to the Software and Business Method Patent Problem?, 34 B.C. INT’L & 
+COMP. L. REV. 227 (2011). 
+  175.  See generally Bessen, Software Patents, supra note 171 (drawing on 
+empirical research to conclude that the spread of software patents has not 
+produced  greater  innovation,  only  greater  litigation).  It  should  be  noted, 
+however, that software has long enjoyed copyright protection. The important 
+difference  is  that  copyright  protection  does  not  prevent  competitors  from 
+reverse-engineering the same function, so long as they write original code. 
+  176.  See, e.g., Chien, supra note 165, at 303–10 (discussing the tendency of 
+companies  in  the  current  software  industry  to  pursue  defensive  patenting 
+strategies);  see  also  Baio,  supra  note  4  (recounting  his  participation  in  a 
+software patenting effort he believed at the time was defensive, only to later 
+find his firm at the center of offensive use of such patents). 
+  177.  Matt Macari, FRANDS Forever: How the Smartphone Industry Turned 
+a Gentleman’s Agreement into a Full-Scale Patent War, VERGE (Feb. 16, 2012, 
+4:01  PM),  http://www.theverge.com/2012/2/16/2786970/FRAND-smartphone-
+industry-apple-motorola-samsung (last visited Nov. 14, 2012) (on file with the 
+Washington and Lee Law Review). 
+  178.  See id. (discussing the patent-licensing arrangements in the technology 
+industry that sought to avoid patent law’s negative impact). ILLUMINATING INNOVATION  1937 
+wisdom of industry insiders and followers when they reported in 
+2011: 
+All the big tech companies have started amassing troves of 
+software  patents—not  to  build  anything,  but  to  defend 
+themselves. If a company’s patent horde is big enough, it can 
+essentially say to the world “If you try to sue me with your 
+patents,  I’ll  sue  you  with  mine.”  It’s  mutually  assured 
+destruction. But instead of arsenals of nuclear weapons, it’s 
+arsenals of patents.179 
+By 2012, however, it became clear that the truce had broken 
+down. What is less clear as this Article goes to press is what the 
+consequences of this patent war will turn out to be. Will it indeed 
+be mutual destruction? Or will one party emerge victorious, and 
+with what damage to each side? And what will be the collateral 
+damage to the public interest?  
+The smartphone patent war might be viewed as simply one 
+more episode in the inevitable dynamics of economic uncertainty 
+in  a  competitive  marketplace.  We  might  choose  to  remain 
+confident in the legal system to sort things out properly, and in 
+the markets to rebalance themselves. The lesson of the light-bulb 
+war, however, cautions against such confidence. If history repeats 
+itself in the smartphone patent war, we could once again see the 
+consolidation of an important high-technology industry, with the 
+attendant decline of competition.180 If one company establishes 
+dominance in the smartphone sector, it will not only control the 
+device  itself  but  also  have  a  market-dominant  position  from 
+which  to  influence  the  markets  for  related  services:  mobile 
+telephony, software, social networking, online advertising, mobile 
+banking, and online retail. Smartphone dominance could be used 
+to extract rents from and consolidate those related industries, 
+subject only to the limits imposed by effective enforcement of 
+antitrust law.181 
+                                                                                                     
+  179.  Alex Blumberg & Laura Sydell, When Patents Attack, NPR (July 22, 
+2011, 8:04 PM), https://www.npr.org/blogs/money/2011/07/26/138576167/when-
+patents-attack (last visited Nov. 14, 2012) (on file with the Washington and Lee 
+Law Review). 
+  180.  See supra Part IV.A (noting that the electric industry, following the 
+patent warfare involving the light bulb, consolidated into General Electric, thus 
+effectively preventing competition). 
+  181.  See Carrier, supra note 4 (discussing the role that antitrust law has 
+begun to assume in limiting market dominance in the high-technology industry, 1938  69 WASH. & LEE L. REV. 1891 (2012) 
+To  be  sure,  the  fact  that  patent  warfare  led  to  effective 
+monopoly in the early electrical industry is no guarantee that the 
+same result will occur in the smartphone sector. The light bulb 
+and  the  smartphone  are  different  technologies,  and  these 
+differences may produce different outcomes in the two industries. 
+It is also possible that reforms in patent and antitrust law since 
+the turn of the century have lowered the risks for this kind of 
+patent-precipitated consolidation of a market. Nevertheless, the 
+very fact that a similar pattern of patent warfare is exhibited in 
+two very different industries, at two very different points in time, 
+suggests significant commonalities. Rather than adopt a wait-
+and-see approach when so much may be on the line, what can be 
+done proactively to reduce the risk of consolidation and loss of 
+competition in the smartphone industry?  
+At least one federal judge has already flagged the risk that 
+patent  litigation  poses  to  industry  competition  and  consumer 
+welfare in the smartphone sector.182 In June 2012, Judge Richard 
+A.  Posner  issued  a  remarkable  ruling  in  a  particularly  high-
+profile  smartphone  patent  suit  between  Apple  and  Motorola 
+(which was acquired by Google in August 2011).183 Judge Posner 
+indicated his intention to dismiss the suit with prejudice without 
+granting a jury trial, on the grounds that, even if the disputed 
+patents were valid and infringed, there was insufficient evidence 
+to support damages, and injunctive relief would be counter to the 
+public  interest.184  This  holding  may  be  interpreted  as  clever 
+procedural handling by Judge Posner to squash a case in which 
+one  or  both  parties were  attempting  to misuse  patent  law  to 
+damage  its  competitor  company  out  of  proportion  to  any  real 
+harm done. On the heels of the decision, Judge Posner—acting in 
+his capacity as a law professor—also initiated a media effort to 
+                                                                                                     
+both in the United States and in Germany). 
+  182.  See Posner, Too Many Patents, supra note 4 (noting the potential risks 
+of certain patenting tactics). 
+  183.  Judge  Posner  is  one  of  a  number  of  Article  III  judges  specially 
+designated as volunteers to hear patent disputes at the trial court level, having 
+received special training in the handling of these complex cases.  
+  184.  Apple, Inc. v. Motorola, Inc., No. 1:11-cv-08540 (N.D. Ill. June 7, 2012), 
+available  at  http://www.scribd.com/doc/96427053/Posner-Order,  Opinion  and 
+Order of June 7, 2012 (on appeal Fed. Cir.). ILLUMINATING INNOVATION  1939 
+highlight the potential of patent law to damage competition 
+and innovation, calling for dramatic patent reform.185  
+The  suit  before  Judge  Posner,  however,  was  just  one 
+among many. In August 2012, Judge Lucy Koh presided over a 
+highly  publicized  trial  brought  by  Apple  in  the  Northern 
+District  of  California.186  The  lawsuit  targeted  Samsung,  the 
+leading  manufacturer  of  smartphones  running  Android 
+software, which were increasingly overtaking the Apple iPhone 
+in popularity.187 After just three days of deliberation, the jury 
+found  Samsung  to  have  infringed  Apple’s  utility  patents, 
+design patents, and trade dress.188 The jury awarded over $1 
+                                                                                                     
+  185.  See,  e.g.,  Posner,  Too  Many  Patents,  supra  note  4  (discussing  the 
+negative consequences of patent law). 
+  186.  Apple Inc., v. Samsung Elecs. Co., No. 11-CV-01846-LHK, 2012 WL 
+3627731 (N.D. Cal. Aug. 21, 2012). 
+  187.  Apple had an early advantage in the smartphone market because of 
+lead-time  and  network  effects.  Apple  encouraged  independent  software 
+developers  to  produce  “apps”  that  could  run  on  Apple’s  iOS  system.  The 
+availability of these apps became a major feature driving consumers to purchase 
+the  iPhone.  None  of  the  competing  smartphone  manufacturers  commanded 
+sufficient market penetration to attract similar app development, until Google 
+introduced the Android operating system. Google widely licensed the Android 
+software to a number of smartphone manufacturers, including Samsung. The 
+emergence of the Android platform enabled other manufacturers to effectively 
+compete with the iPhone. By mid-2011, Android phones were outselling iPhones 
+more than two-to-one. See IDC, Android and iOS Surge to New Smartphone OS 
+Record  in  Second  Quarter  (Aug.  8,  2012),  http://www.idc.com/getdoc.jsp? 
+containerId=prUS23638712  (last  visted  Oct.  21,  2012)  (reporting  Q2  2011 
+shipments of 50.8 million Android phones and 20.4 million iOS phones) (on file 
+with the Washington and Lee Law Review). By the middle of 2012, however, the 
+gap had widened; four Android phones were being sold for each iPhone. See id. 
+(reporting Q2 2012 shipments of 104.8 million Android phones and 26.0 million 
+iOS phones.) At the time of the trial, Samsung was the leading producer of 
+Android phones. See id. (“Android’s success in the market can be traced directly 
+to  Samsung,  which  accounted  for  44.0%  of  all  Android  phones  shipped 
+[worldwide] in [the second quarter of 2012] and totaled more than the next 
+seven Android vendors’ volumes combined.”). 
+  188.  See Amended Verdict Form, Apple Inc., v. Samsung Elecs. Co., No. 11-
+CV-01846-LHK (N.D. Cal. Aug. 21, 2012) [hereinafter Amended Jury Verdict 
+Form], available at http://cand.uscourts.gov/filelibrary/1079/Amended%20Jury% 
+20Verdict.pdf; Dan Levine, Jury Didn’t Want to Let Samsung Off Easy in Apple 
+Trial: Foreman, REUTERS (Aug. 25, 2012, 3:51 PM), http://www.reuters.com/article/ 
+2012/08/25/us-apple-samsung-juror-idUSBRE87O09U20120825  (last  visited  Nov. 
+14, 2012) [hereinafter Levine, Apple Trial] (“A nine-member jury found the 
+Korean  company  had  infringed  on  several  Apple  features  and  design 
+patents . . . .”) (on file with the Washington and Lee Law Review).  1940  69 WASH. & LEE L. REV. 1891 (2012) 
+billion in damages.189 Having tested the appeal of their claims 
+before one jury, Apple has probably gained a stronger hand to 
+negotiate  concessions  from  other  smartphone  manufacturers 
+running the Android system. This case was unique, however, in 
+that the accused products not only incorporated software features 
+described by Apple’s utility patents but were also very similar in 
+external appearance. This latter fact led to infringement claims 
+based on Apple’s design patents and on a theory of trade dress 
+dilution.190  The jury was not asked to distinguish the damages it 
+attributed to each theory of infringement.191 A different result 
+might thus be reached in another case in which the products were 
+not similar in external appearance.  
+The Federal Circuit has also shown an inclination to lower 
+the  stakes  of  the  smartphone  patent  war  by  making  it 
+increasingly difficult to block a competitor’s phone on the basis of 
+a  minor  software  patent.  For  many  years,  courts  routinely 
+awarded  not  only  monetary  damages  but  also  an  injunction 
+against  future  sales  of  the  infringing  product,  whenever  the 
+patent holder prevailed on the merits.192 This created a problem 
+of “patent holdup,” whereby patents on minor features could be 
+used  to  block  the  sale  of  an  entire  product.193  The  Supreme 
+                                                                                                     
+  189.  See Amended Jury Verdict Form, supra note 188, at 15 (stating the 
+damages awarded to Apple); Levine, Apple Trial (awarding a jury verdict of 
+$1.05 billion dollars, which could be tripled because the jury found the company 
+acted willfully). 
+  190.   The San Jose jury concluded that the iPhone trade dress (registered 
+and unregistered) was famous and was willfully diluted by Samsung’s products. 
+See Amended Jury Verdict Form, supra note 188, at 10–12, 14. 
+  191.  See Amended Jury Verdict Form (asking jurors to answer “yes” or “no” 
+for whether each accused product violated each patent and the trade dress, and 
+also “[w]hat is the total dollar amount that Apple is entitled to receive from 
+Samsung on the claims on which you have ruled in favor of Apple?”). 
+  192.   See, e.g., MercExchange, L.L.C. v. eBay Inc, 401 F.3d 1323, 1339 (Fed. 
+Cir. 2005) (granting an injunction and restating the “general rule that courts 
+will  issue  permanent  injunctions  against  patent  infringement  absent 
+exceptional circumstances”), rev’d, 547 U.S. 388 (2006). 
+  193.  See Colleen V. Chien & Mark A. Lemley, Patent Holdups, the ITC, and 
+the  Public  Interest,  98  CORNELL  L.  REV.  105–06  (forthcoming  Nov.  2012), 
+available at http://ssrn.com/abstract=2022168 
+In a common patent infringement case, for example, the patent covers 
+a small part of a larger product, and the defendant infringes it 
+inadvertently. If an interoperability standard covers the infringing 
+feature, removing the feature may disable the product. Eliminating a ILLUMINATING INNOVATION  1941 
+Court’s 2006 decision in Ebay v. MercExchange194 questioned the 
+routine grant of injunctive relief in patent cases and called for a 
+more demanding inquiry into the equities of each case.195 In the 
+wake of this case, lower courts have been more inclined to deny 
+injunctive  relief,  even  where  a  patent  holder  seems  likely  to 
+prevail on the merits.  
+In  the  Apple–Samsung  case  described  above,  Judge  Koh 
+refused to enjoin the sale of four Samsung products in December 
+2011, despite holding that Apple was likely to prevail in proving 
+patent infringement.196 Koh reasoned that Apple had failed to 
+prove a sufficient “nexus” between the patent Samsung infringed 
+and  the  alleged  harm  of  lost  iPhone  sales.197  On  appeal,  the 
+                                                                                                     
+big  product  from  the  market  because  of  a  small  patent  harms 
+consumers, and blocking a large number of lawful components and 
+features  from  the  market  along  with  the  infringing  one  distorts 
+competition. 
+In another common situation, a patent holder sues a large number of 
+companies, threatening to hobble an entire industry. An injunction 
+would  exclude  many  participants  from  the  marketplace  and 
+dramatically reduce competition. 
+In both these scenarios, the harm to consumers and competition from 
+an exclusion order is greater than the contribution made by the 
+individual infringing component. 
+  194.  eBay Inc. v. MercExchange, L.L.C., 547 U.S. 388 (2006). 
+  195.  See id. at 393–94 (holding that injunctive relief was inappropriate 
+based on a case-specific analysis of four equitable factors); see also Winter v. 
+Natural  Res.  Def.  Council,  Inc.,  555  U.S.  7,  20  (2008)  (applying  the 
+MercExchange standard to deny a preliminary injunction in a case not related to 
+patent law). 
+  196.  Apple, Inc. v. Samsung Elecs. Co., No. 11-CV-01846-LHK, 2011 WL 
+7036077, at *40 (N.D. Cal. 2011) (“For the forgoing reasons, the Court DENIES 
+Apple’s motion to preliminarily enjoin the sale in the United States of the 
+Samsung Infuse 4G, the Samsung Galaxy S 4G, the Samsung Tab 10.1, and the 
+Droid Charge phone.”), aff’d in part, vacated in part, remanded, 678 F.3d 1314 
+(Fed. Cir. 2012). 
+  197.  See id. at *20–21, *39–40. Judge Koh explained her decision with 
+reference to the “leveraging” reasoning offered in eBay:  
+Even though Apple has shown Samsung’s products likely infringe 
+Apple’s valid ’381 patent, and that Apple and Samsung compete in 
+the  same  market  for  new  smartphone  customers  and  for  tablet 
+computer consumers, Apple has offered no evidence that Samsung’s 
+infringement  of  the  ’381  patent  is  likely  to  cause  irreparable 
+harm. . . . Indeed, Apple has failed to establish a relationship between 
+any alleged loss of market share, customers, or goodwill, and the 
+infringement of the ’381 patent.  1942  69 WASH. & LEE L. REV. 1891 (2012) 
+Federal Circuit endorsed Koh’s articulation and application of a 
+nexus requirement.198 Following this guidance, Judge Koh again 
+conducted  a  nexus  analysis  in  June  2012,  in  the  second  case 
+brought by Apple against Samsung in her court.199 This time, Koh 
+found  the  nexus  requirement  to  be  satisfied  and  granted  an 
+injunction  barring  sales  of  Samsung’s  Galaxy  Nexus 
+smartphone.200 Judge Koh held that Apple had met its burden of 
+proof  with  respect  to  one  particularly  important  patent,  U.S. 
+                                                                                                     
+Justice Kennedy, in his concurring opinion in eBay, instructed courts 
+to be cognizant of the nature of the patent being enforced and the 
+economic function of the patent holder when applying the equitable 
+factors: 
+When the patented invention is but a small component of the product 
+the companies seek to produce and the threat of an injunction is 
+employed simply for undue leverage in negotiations, legal damages 
+may well be sufficient to compensate for the infringement and an 
+injunction may not serve the public interest. 
+The Court finds this argument persuasive. While Apple undoubtedly 
+uses the patent and produces goods in the same market, Apple has 
+neither  alleged,  nor  established,  that  the  ’381  patent  is  either 
+necessary to, or a core functionality of, the products that it seeks to 
+enjoin. Nor has Apple shown that consumers’ purchasing decisions 
+are based on the existence of a snap back feature protected by the 
+’381 patent.  
+Id. at *39–40 (citations omitted). 
+  198.  See Apple, Inc. v. Samsung Elecs. Co., 678 F.3d 1314, 1324 (Fed. Cir. 
+2012) 
+We hold that the district court was correct to require a showing of 
+some causal nexus between Samsung’s infringement and the alleged 
+harm to Apple as part of the showing of irreparable harm. To show 
+irreparable  harm,  it  is  necessary  to  show  that  the  infringement 
+caused harm in the first place. Sales lost to an infringing product 
+cannot irreparably harm a patentee if consumers buy that product for 
+reasons other than the patented feature. If the patented feature does 
+not drive the demand for the product, sales would be lost even if the 
+offending feature were absent from the accused product. Thus, a 
+likelihood of irreparable harm cannot be shown if sales would be lost 
+regardless of the infringing conduct. 
+  199.  See Apple Inc., v. Samsung Elecs. Co., No. 12-CV-00630-LHK, 2012 WL 
+257203 (N.D. Cal. July 1, 2012), rev’d, No. 2012-1507, 2012 WL 4820601 (Fed. 
+Cir. 2012).  
+  200.  See id. The “Nexus” phone was thus saved by the “nexus” requirement. 
+This may not be a complete linguistic coincidence. Although other courts had 
+previously articulated this concept, Judge Koh appears to be the first to use the 
+term “nexus” to describe it. ILLUMINATING INNOVATION  1943 
+Patent No. 8,086,604, which was related to the iPhone’s “Siri” 
+personal assistant feature.201  
+In  October  2012,  however,  the  Federal  Circuit  ruled  on 
+appeal  that  the  Galaxy  Nexus  injunction  was  improperly 
+granted.202  The  Federal  Circuit  insisted  that  the  nexus 
+requirement be applied even more stringently. According to the 
+circuit-level opinion, Apple had failed to demonstrate that the 
+infringement  drove  consumer  demand  for  the  Galaxy  Nexus 
+because Samsung’s feature incorporating the ‘604 patent was not 
+among the top five reasons that consumers choose that phone.203 
+Articulated  in  this  way,  the  Federal  Circuit’s  “causal  nexus” 
+standard  seems  extremely  difficult  to  satisfy,  at  least  in  the 
+context of smartphones. This ruling may signal the end of the 
+injunction as a weapon in the smartphone patent war.  
+Even as the Federal Circuit has made it more difficult to 
+block a competitor’s phone through the courts, however, litigants 
+are looking to other venues. Colleen Chien and Mark Lemley 
+point out that patent holders are increasingly circumventing the 
+new higher standards for injunctive relief by taking their cases to 
+the International Trade Commission (ITC) instead.204 The ITC is 
+a  U.S.  administrative  agency  that  is  empowered  to  issue 
+“exclusion  orders”  blocking  products  it  deems  to  be  infringing 
+from  entering  the  U.S.,  achieving  the  same  result  as  an 
+injunction.  According  to  Chien  and  Lemley,  the  ITC  is 
+increasingly the battleground of choice in the smartphone patent 
+war and continues to be liberal in granting exclusion orders.205  
+Given  the  myriad  of  patents  relevant  to  smartphone 
+technology,  an  aggressive  and  persistent  litigator  can  launch 
+                                                                                                     
+  201.  See id. at *55–56. 
+  202.  See  Apple  Inc.,  v.  Samsung  Elecs.  Co.,  No.  2012-1507,  2012  WL 
+4820601 (Fed. Cir. 2012). 
+  203.  See id. at *10–11 (“Apple’s own survey evidence shows that unified 
+search is not one of the top five reasons consumers select Android smartphones. 
+In this light, the causal link between the alleged infringement and consumer 
+demand for the Galaxy Nexus is too tenuous to support a finding of irreparable 
+harm.”). 
+  204.  See Chien & Lemley, supra note 193, at 102–03. (“[T]he ITC is busier 
+with patent cases than it ever has been before.”). 
+  205.  See id. at n.15 (citing individual cases involving Apple, Samsung, Sony, 
+LG, HTC, Motorola, Nokia, and RIM). “In 2011, every major smartphone maker 
+was embroiled in an ITC dispute.” Id. at 104. 1944  69 WASH. & LEE L. REV. 1891 (2012) 
+many  volleys  and  advance  through  attrition.  Edison’s  own 
+litigation  campaign  met  with  modest  success  for  many  years, 
+until he achieved a surprising victory in a German court, which 
+then formed the basis for the next round of decisive litigation in 
+the  U.S.  Similarly,  the  smartphone  patent  war  is  now  being 
+waged on many fronts, with suits active in England, Germany, 
+South Korea, Japan, and elsewhere, and is far from over.206  
+C. Implications for Innovation 
+Supplementing the theory of patent racing with a theory of 
+patent warfare casts a more skeptical light on the innovation 
+hypothesis. The initial fervor to claim patent rights in the early 
+electrical  industry  stimulated  greater  investment  in  first-
+generation research.207 This is consistent with the predictions of 
+Lemley’s patent racing theory.208 Over the long term, however, 
+patent protection also led to a dramatic reduction of competition 
+in the electrical industry.209 As the industry matured, the more 
+well-funded  companies  used  patent  warfare  to  target  and 
+eliminate their competition.210 Regardless of who emerges as the 
+winner  in  Risk,  the  endgame  is  always  the  same:  one  party 
+controls the entire board. In the real-life version, there may also 
+be a détente where two parties agree to tolerate each other in 
+separate spheres—as General Electric and Westinghouse divided 
+the U.S. and British markets. Either way, the very competition 
+that  stimulated  faster  innovation  during  the  racing  stage  is 
+ultimately brought to an end. 
+                                                                                                     
+  206.  See Carrier, supra note 4, at 3 (noting the importance of the German 
+courts with respect to patent law). 
+  207.  See supra Part III.B (supporting the proposition that the initial fervor 
+to claim patent rights stimulated substantial investment in first-generation 
+research). 
+  208.  See supra Part III.A–B (noting Lemley’s predictions and discussing how 
+the historical record of the beginnings of light bulb inventing is consistent with 
+Lemley’s predictions). 
+  209.  See supra Part IV.A (noting the negative effects of patent law on 
+industry research). 
+  210.  See supra Part IV.A (discussing the tactics of well-funded companies to 
+use patent litigation to eliminate competition). ILLUMINATING INNOVATION  1945 
+Patent warfare may harm innovation in at least three ways. 
+First, litigation is a resource-intensive distraction of capital and 
+human resources. The Edison interests, for example, spent $2 
+million on litigation211 at a time when the company’s net worth 
+was  only  $12  million.212  These  financial  resources,  as  well  as 
+Edison’s  own  talents,  might  otherwise  have  been  invested  in 
+improving  the  product  and  delivering  it  more  efficiently  to 
+consumers. Second, a litigious environment can discourage the 
+risk-taking  of  investing  in  next-generation  innovation  because 
+would-be  innovators  fear  they  will  be  legally  prevented  from 
+producing the newer technology. Third, as the pressure to stay 
+one  step  ahead  of  the  competition  is  eased,  the  competitive 
+motivation  to  keep  improving  the  technology  is  diminished. 
+Bright notes this dynamic in the early electrical industry: as the 
+light  bulb  litigation  heated  up,  technological  innovation 
+dimmed.213 In the aftermath of patent warfare, General Electric 
+was  able  to  prevent  any  other  light  bulb  manufacturer  from 
+exerting downward pressure on prices; the only real competitive 
+pressure came from further advances in the substitute technology 
+of gas lighting.214 This is not to say that light bulb innovation 
+ground to a halt. General Electric still had profit-based incentives 
+to  cut  its  own  production  costs  by  introducing  more  efficient 
+technological improvements.215 But the company no longer risked 
+                                                                                                     
+  211.  See BRIGHT, supra note 2, at 86 (estimating that “[b]etween 1885 and 
+1901 the Edison company and its successors spent about $2,000,000 on well over 
+two  hundred  infringement  suits  under  its  lamp  and  lighting  patents”). 
+Defendants of the lawsuits probably had to spend nearly the same amount. 
+  212.  See id. (“The final step in the transition of the Edison companies from 
+domination by Thomas A. Edison to domination by financiers took place in 1889 
+[merging]  the  remaining  separate  Edison  development  and  manufacturing 
+companies  into  the  Edison  General  Electric  Light  Company. . . .  The  new 
+company had a capitalization of $12,000,000 . . . .”). 
+  213.  See id. at 138 (indicating that “[t]he lengthy and expensive patent 
+struggle in the lamp industry from 1885 to 1894 was a serious damper on 
+progress in lamp design, although process improvement continued”). 
+  214.  See id. at 457 (discussing the realities surround General Electric’s 
+dominance, including the volume of the market controlled by General Electric, 
+the lack of developmental work available to competitors, and the generally 
+passive role licensees).  
+  215.  See id. at 455 (noting that General Electric “possessed immense ability 
+to achieve technological advances . . . [and] . . . had strong incentives to make 
+improvements in lamp design and production methods”). 1946  69 WASH. & LEE L. REV. 1891 (2012) 
+being  overtaken  by  a  competitor  if  it  lagged  behind  in  the 
+innovative  endeavor.  As  competition  in  the  electric  industry 
+slowed  and  prices  for  equipment  and  service  remained  high, 
+millions of Americans literally waited in the dark. More than a 
+half-century  would  pass  after  Thomas  Edison  filed  his  first 
+patents before electric light would find its way into the average 
+American home. 
+Importantly,  the  potential  long-term  damage  to  next-
+generation innovation is not limited to the twenty years of the 
+modern patent term. By the time first-generation patents become 
+obsolete, newer patents already exist to take their place. When 
+Edison’s patents expired, General Electric was able to use newer 
+ones to extend its dominance.216 The result in the case of the light 
+bulb was that General Electric would control the electric lighting 
+industry for many decades longer.217 Even as Arthur A. Bright 
+published  his  thesis  on  the  electric-lamp  industry  in  1949, 
+General Electric’s monopolization of the electric lighting industry 
+remained  a  problem.  Once  patent  warfare  produces  the 
+consolidation of an industry, reintroducing competition is not a 
+simple matter.  
+This anticompetitive endgame is my central concern with the 
+use  of  patent  racing  theory  as  a  new  justification  for  patent 
+protection. The racing metaphor paints a picture of objectivity 
+and fair competition. In the case of the light bulb, however, the 
+race was merely a prelude to the war. Patents almost certainly 
+add fervor to inventive races at a certain stage of research and 
+development. But at a later stage, patents also become weapons 
+that competitors use to threaten and dominate their competition, 
+long before the public policy goal of wide diffusion of the new 
+technology  has  been  fully  attained.  This  may  also  have  the 
+perverse effect of ultimately limiting next-generation innovation. 
+In the end, enthusiasm for the competitive advantages of races 
+may be an argument against patent protection, rather than an 
+argument in its favor. 
+                                                                                                     
+  216.  See id. at 458 (noting General Electric’s ability to exert control over the 
+patent market). 
+  217.  See id. at 458–60 (noting General Electric’s ability to exert control until 
+World War II “with the aid of a strong patent position, commercial and technical 
+aggressiveness,  strong  control  over  lamp  parts  and  machinery,  extensive 
+advertising, and good public relations”). ILLUMINATING INNOVATION  1947 
+The story of the light bulb thus turns out to be a cautionary 
+tale  against  reliance  on  the  innovation  assumption.  The 
+downsides  of  patent  protection  are  probably  systematically 
+underappreciated. Partly this has to do with our methodology of 
+study. Empirical study of recent fields of technology is best at 
+highlighting the initial, short-term impacts of patent protection. 
+These include assistance in recruiting capital to fund research 
+and product development, and in outsourcing production chains—
+both of which are positives for innovation. Only historical study 
+can  reveal  the  longer-term  impacts  that  patent  litigation 
+produces  on  an  industry.  These  may  be  systematically  more 
+negative as patents become weapons in attempts to monopolize a 
+field.218 Further research is needed to determine whether patent 
+wars  are  typical  or  exceptional  features  of  technological 
+development in the shadow of patent law, identify what factors 
+motivate  different  outcomes  in  patent  wars,  and  clarify  the 
+impact of industrial consolidation on next-generation innovation 
+as well as diffusion. 
+V. Conclusion 
+Although  patent  law  is  founded  on  the  assumption  that 
+patent protection encourages innovation, there is little empirical 
+support  available  to  test  this  “innovation  hypothesis.”  This 
+Article has argued that historical case studies can offer a stronger 
+empirical basis for patent scholarship by illuminating the true 
+impact of patent law on innovation throughout the life of a patent 
+term. The present case study demonstrates this potential, both by 
+suggesting refinements to one theory of patent racing, and by 
+proposing a new theory of patent warfare resembling the board 
+game Risk. Patent warfare transformed the electrical industry at 
+the close of the nineteenth century and has now erupted in the 
+smartphone sector. The case study of the light bulb shows that 
+patent  law  can  have  both  positive  and  negative  impacts  on 
+technological innovation, and we ignore the complexity of these 
+dynamics at our own peril.  
+   
+                                                                                                     
+  218.  See supra Part II.B (noting case studies of patenting that support the 
+proposition that patent law harms industry and innovation). 

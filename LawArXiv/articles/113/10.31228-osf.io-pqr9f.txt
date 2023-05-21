@@ -1,0 +1,1356 @@
+\\jciprod01\productn\C\CRN\102-3\CRN302.txt unknown Seq: 1 20-MAR-17 15:33
+NOTE
+CROSS-MARKET MERGERS IN HEALTHCARE:
+ADAPTING ANTITRUST REGULATION TO ADDRESS
+A GROWING CONCERN
+Thaddeus J. Lopatka†
+INTRODUCTION ........................................... 822 R
+I. MODERN FRAMEWORK FOR MERGER REVIEW .......... 824 R
+A. Evaluation of Healthcare Provider Mergers by
+Antitrust Regulators.......................... 824 R
+1. Market Definition.......................... 824 R
+2. Market Concentration...................... 826 R
+B. Evaluation of Healthcare Provider Mergers by
+the Courts ................................... 827 R
+II. OVERVIEW OF THE MARKET FOR HEALTHCARE
+SERVICES......................................... 830 R
+A. Structure of the Market for Healthcare
+Services...................................... 830 R
+B. Economic Incentives for Healthcare Providers
+to Merge ..................................... 832 R
+III. EFFECTS OF CROSS-MARKET HEALTHCARE PROVIDER
+MERGERS......................................... 834 R
+A. Anticompetitive Effects of Cross-Market
+Mergers ...................................... 834 R
+1. Common Consumer Effect ................. 834 R
+2. Cross-Market Subsidization of Prices
+Effect..................................... 837 R
+3. Improved Negotiation Skill ................. 838 R
+B. Pro-Competitive Effects of Cross-Market
+Mergers ...................................... 838 R
+1. Improvements in Quality of Care ........... 838 R
+2. Price Efficiencies .......................... 839 R
+† B.S., Pennsylvania State University, 2014; J.D., Cornell Law School, 2017;
+Articles Editor, Cornell Law Review, Vol. 102. Thanks to Susan Raitt and the
+attorneys at the Northeast Region of the Federal Trade Commission for introduc-
+ing me to the world of merger review. I also owe thanks to Samantha Ostrom,
+Nicholas Amin, Anthony Wu, Victor Pinedo, and the Cornell Law Review editors
+and associates for their patience and assistance throughout the publication pro-
+cess. Finally, I thank my parents, Marie Reilly and John Lopatka, for their unwa-
+vering support of my academic pursuits.
+821\\jciprod01\productn\C\CRN\102-3\CRN302.txt unknown Seq: 2 20-MAR-17 15:33
+822 CORNELL LAW REVIEW [Vol.102:821
+IV. REVISED EVALUATION OF CROSS-MARKET MERGERS.... 841 R
+A. Proposed Analysis of Cross-Market Mergers by
+Antitrust Regulators.......................... 841 R
+B. Proposed Analysis of Cross-Market Mergers by
+Courts ....................................... 847 R
+CONCLUSION ............................................ 849 R
+INTRODUCTION
+In the United States, the FTC and the Antitrust Division of
+the Department of Justice together serve to keep domestic mar-
+kets free and competitive for the benefit of American consum-
+ers.1 One such way these antitrust regulators maintain and
+enforce free competition is by blocking potential mergers be-
+tween competing firms that would result in higher prices or
+lower quality products without creating offsetting positive effi-
+ciencies.2 Thus, merger review by antitrust enforcers inher-
+ently involves weighing the procompetitive benefits of mergers
+against the anticompetitive consequences. Since 1968, the an-
+titrust regulators have evaluated the procompetitive and an-
+ticompetitive effects of mergers under the framework of the
+Horizontal Merger Guidelines.3 Mergers between firms that op-
+erate  in  separate  and  distinct  geographic  areas,  known  as
+“cross-market mergers,” present a unique challenge to anti-
+trust regulators in performing this balancing test, as the an-
+ticompetitive effects of such mergers are unclear.4
+Since President Obama signed the Patient Protection and
+Affordable Care Act (ACA) into law in 2010, there has been a
+surge in the number of mergers between healthcare providers,
+as firms in the healthcare industry strive to achieve the Act’s
+goal  of  “population  health  management.”5  Increasingly,
+1 See COUNCILOF ECON. ADVISERS, BENEFITSOF COMPETITIONAND INDICATORSOF
+MARKET  POWER  1–2  (2016),  https://www.whitehouse.gov/sites/default/files/
+page/files/20160414_cea_competition_issue_brief.pdf [https://perma.cc/3X9V-
+2Y7P].
+2 See FTC, STRATEGIC PLAN FISCAL YEARS 2003-2008 3 (2003), https://www.ftc
+.gov/sites/default/files/documents/reports_annual/strategic-plan/spfy03fy08
+.pdf [https://perma.cc/GRX5-M5Z2].
+3 See W. Stephen Smith & Jeff Jaeckel, Good News, Bad News, or No News?
+The U.S. Antitrust Enforcement Agencies’ Commentary on the Horizontal Merger
+Guidelines, 10 M&A LAW., 10, 11 (2006).
+4 See Gregory S. Vistnes & Yianis Sarafidis, Cross-Market Hospital Mergers:
+A Holistic Approach, 79 ANTITRUST L.J. 253, 254–59 (2013).
+5 Kenneth L. Davis, Hospital Mergers Can Lower Costs and Improve Medical
+Care, WALL STREET J. (Sept. 15, 2014, 7:17 PM), http://www.wsj.com/articles/
+kenneth-l-davis-hospital-mergers-can-lower-costs-and-improve-medical-care-
+1410823048 [https://perma.cc/3XAJ-BSXA] (describing the benefits of popula-
+tion health management); Anna Wilde Mathews, Health-Care Providers, Insurers\\jciprod01\productn\C\CRN\102-3\CRN302.txt unknown Seq: 3 20-MAR-17 15:33
+2017] CROSS-MARKET MERGERS IN HEALTHCARE 823
+healthcare mergers are occurring between providers that draw
+patients from separate and distinct geographic markets. 6 An-
+titrust regulators, following the most recent Horizontal Merger
+Guidelines, have been hesitant to challenge these cross-market
+mergers because they do not increase the concentration of any
+particular  geographic  market,  suggesting  that  cross-market
+mergers do not have a noticeable effect on competition.7 None-
+theless,  recent  studies  indicate  that  cross-market  mergers
+among healthcare providers raise prices for insurance payors,
+and ultimately patients, without producing any improvement
+in quality of care.8
+This Note argues that the higher prices following cross-
+market provider mergers are anticompetitive effects caused by
+the merged firm’s increased bargaining power and by the cross-
+market subsidization of price increases. In response to this
+finding, antitrust regulators should take a new approach to
+reviewing proposed cross-market mergers that focuses on iden-
+tifying signals of a potential price increase.9 Ultimately, both
+regulators and courts must adapt merger review to address the
+unique issues surrounding cross-market mergers. Part I pro-
+vides an overview of how regulators and courts currently review
+healthcare  provider  mergers  under  the  Horizontal  Merger
+Guidelines. Part II provides an overview of the current climate
+in the market for healthcare services by introducing the players
+in the market—providers, payors, employers, and patients—
+and examining how they negotiate to arrive at the price for
+healthcare services. Part II also offers an explanation as to why
+healthcare providers are so keen to merge following the ACA
+Supersize, WALL ST. J. (Sept. 21, 2015, 11:46 AM), http://www.wsj.com/articles/
+health-care-providers-insurers-supersize-1442850400  [https://perma.cc/
+4MD6-PRBD] (noting an increase in healthcare mergers following the passage of
+the ACA).
+6 Between 1998 and 2012, more than a third of all healthcare provider
+mergers occurred between firms operating in different geographic markets. See
+Leemore Dafny, Examining Healthcare Competition: Trends in Provider Consoli-
+dation 89–90 (Feb. 25, 2015) (transcript available at https://www.ftc.gov/sys-
+tem/files/documents/public_events/618591/transcript-day2.pdf [https://per
+ma.cc/67BZ-KR8F]).
+7 U.S. DEP’T OF JUSTICE & FTC, HORIZONTAL MERGER GUIDELINES 15 (2010)
+[hereinafter HORIZONTAL MERGER GUIDELINES] (explaining the importance of market
+concentration in horizontal merger analysis; market shares and market concen-
+tration “can directly influence firms’ competitive incentives”).
+8 See Dafny, supra note 6, at 91. R
+9 Some commentators note that the FTC is already making greater efforts to
+scrutinize mergers of hospitals in adjoining markets. See Lisa Schencker, FTC
+Takes Close Look at Advocate, NorthShore Merger, MOD. HEALTHCARE (Apr. 1,
+2015), http://www.modernhealthcare.com/article/20150401/NEWS/1504099
+88 [https://perma.cc/T48R-RLBS].\\jciprod01\productn\C\CRN\102-3\CRN302.txt unknown Seq: 4 20-MAR-17 15:33
+824 CORNELL LAW REVIEW [Vol.102:821
+and how such mergers may be beneficial to society. Part III
+then examines both the anticompetitive and procompetitive ef-
+fects of cross-market mergers between healthcare providers.
+Finally, Part IV proposes a new approach for regulators and
+courts to evaluate cross-market mergers aimed at predicting
+these potential competitive effects.
+I
+MODERN FRAMEWORK FOR MERGER REVIEW
+A. Evaluation of Healthcare Provider Mergers by Antitrust
+Regulators
+The ultimate goal of antitrust regulators in reviewing a hor-
+izontal merger is to determine whether the merged firm could
+exploit an increase in market power following the merger to
+raise prices.10 To answer this question, the regulators first
+must define the market in which the merging parties operate.
+Once the regulators have defined the market, they must evalu-
+ate how competitive the market is currently and how competi-
+tive  it  will  be  following  the  merger.11  In  performing  this
+analysis, antitrust regulators use “market concentration” as an
+indicator of competitiveness, with a higher concentration indi-
+cating less competition in the market.12 If the concentration
+analysis indicates that the merger is anticompetitive to such an
+extent that it will harm consumers, regulators may seek to
+block the consummation of the merger in court.13 Additionally,
+in cases involving mergers that have already been consum-
+mated, the regulators may use actual price effects to demon-
+strate  that  the  merger  is  anticompetitive  and  may  seek  a
+retroactive remedy such as disgorgement.14
+1. Market Definition
+In order to determine if a horizontal merger will be an-
+ticompetitive, antitrust regulators must identify both the line of
+commerce and the section of the country the merger will im-
+pact.15 Market definition is based solely on the concept of “de-
+10 See Keith N. Hylton, Brown Shoe Versus the Horizontal Merger Guidelines,
+39 REV. INDUS. ORG. 95, 97 (2011).
+11 See HORIZONTAL MERGER GUIDELINES, supra note 7, at 7–18. R
+12 See id. at 18.
+13 See 15 U.S.C. §53(b) (2012).
+14 See HORIZONTAL MERGER GUIDELINES, supra note 7, at 3. The remedy of R
+disgorgement requires the merged entity to return profits gained through an
+anticompetitive merger. See Einer Elhauge, Disgorgement as an Antitrust Remedy,
+76 ANTITRUST L.J. 79, 79–80 (2009).
+15 See HORIZONTAL MERGER GUIDELINES, supra note 7, at 7. R\\jciprod01\productn\C\CRN\102-3\CRN302.txt unknown Seq: 5 20-MAR-17 15:33
+2017] CROSS-MARKET MERGERS IN HEALTHCARE 825
+mand substitution”: a consumer’s “ability and willingness to
+substitute away from one product to another in response to a
+price increase” or a decrease in quality.16 Regulators define the
+relevant line of commerce and section of the country using the
+“hypothetical monopolist test.”17 Under this test, a market is
+defined where a hypothetical monopolist could profitably im-
+pose a small but significant and nontransitory increase in price
+(SSNIP) for a given product in a delineated geographic area.18
+Thus, in a market defined by the hypothetical monopolist test,
+consumers are unwilling to substitute for different products or
+purchase their products in a different geographic area in re-
+sponse  to  an  increase  in  price  by  the  hypothetical
+monopolist.19
+The line of commerce, known as the product market, in-
+cludes all substitutes a consumer would be willing to accept for
+a given good in response to an increase in price.20 In practice,
+the product markets for healthcare mergers are divided based
+on the specific nature of services provided. For example, com-
+petition for the provision of essential health services occurs in
+the product market for “primary” or “secondary” healthcare,
+while competition for the provision of more specialized care
+occurs in the market for “tertiary” healthcare.21 However, for
+the purposes of this Note, the relevant product market may be
+generalized as the market for “healthcare services.”
+The relevant section of the country in which competition
+occurs, known as the geographic market, is defined as the area
+beyond which consumers would be unwilling to travel to re-
+ceive a substitute good in response to a SSNIP.22 For health-
+care provider mergers, the geographic market is the “patient
+discharge” area: the area from which the providers attract pa-
+tients.23 In choosing healthcare providers, patients are limited
+16 Id.
+17 Id. at 8–9.
+18 See Malcolm B. Coate & Jeffrey H. Fischer, A Practical Guide to the Hypo-
+thetical Monopolist Test for Market Definition, 4 J. COMPETITION L. & ECON. 1031,
+1035 (2008).
+19 See id.
+20 See HORIZONTAL MERGER GUIDELINES, supra note 7, at 7. R
+21 See Cascade Health Sols. v. PeaceHealth, 515 F.3d 883, 891 (9th Cir. 2007)
+(“Primary and secondary . . . hospital services are common medical services like
+setting a broken bone and performing a tonsillectomy . . . [while] ‘tertiary care’ . . .
+includes more complex services like invasive cardiovascular surgery and intensive
+neonatal care.”).
+22 See HORIZONTAL MERGER GUIDELINES, supra note 7, at 13. R
+23 See Michael A. Morrisey et al., Defining Geographic Markets for Hospital
+Care, 51 LAW & CONTEMP. PROBS. 165, 171, 176 (1988) (noting that the geographic
+market for a hospital may be defined as the area from which the hospital receives\\jciprod01\productn\C\CRN\102-3\CRN302.txt unknown Seq: 6 20-MAR-17 15:33
+826 CORNELL LAW REVIEW [Vol.102:821
+geographically by travel costs and administrative barriers such
+as the extent of coverage offered by the patient’s health insur-
+ance  plan.24  Travel  costs  include  both  the  actual  price  of
+transportation as well as the value of the time the patient
+spends travelling to a distant provider.
+2. Market Concentration
+Once the product and geographic markets have been de-
+fined, antitrust regulators must evaluate the level of competi-
+tion both in the market’s current state and in the market
+following the proposed merger.25 The regulators’ first step in
+this evaluation is identifying all other firms that earn revenues
+in the defined product and geographic markets.26 Such firms
+are classified as “market participants.”27 For mergers between
+healthcare  providers,  market  participants  include  all  other
+healthcare providers within the relevant market. Next, regula-
+tors calculate the market shares for all market participants.28
+Typically, the calculation of market share is based on historical
+evidence of revenues, but the regulators may also consider any
+indicator of the firms’ future competitive significance in the
+relevant market.29 For healthcare providers, the number of
+hospital beds each firm maintains in proportion to the total
+number of beds available within the relevant market serves as
+a reasonable proxy for the firm’s market share.30 Regulators
+use this market share information to calculate market concen-
+tration.31 Based on its concentration, a market falls into one of
+three categories: highly concentrated markets, which have the
+greatest potential to realize anticompetitive effects; moderately
+concentrated  markets;  and  unconcentrated  markets,  which
+have the lowest risk of producing anticompetitive effects.32
+Both regulators and courts presume that a merger causing a
+large increase in concentration and resulting in a highly con-
+virtually all of its admissions; “virtually all” for these purposes is defined as either
+75% or 90%).
+24 See id. at 170.
+25 See HORIZONTAL MERGER GUIDELINES, supra note 7, at 18. R
+26 See id. at 15.
+27 Id.
+28 See id. at 16.
+29 See id. at 16–17.
+30 See Morrisey et al., supra note 23, at 179. R
+31 Typically, market concentration is measured using the Herfindahl-Hirsch-
+man Index (HHI), which is calculated by summing the square of each market
+participant’s market share. See HORIZONTAL MERGER GUIDELINES, supra note 7, at R
+18–19. Antitrust regulators identify a market with an HHI greater than 2,500 as
+highly concentrated. See id.
+32 See id. at 19.\\jciprod01\productn\C\CRN\102-3\CRN302.txt unknown Seq: 7 20-MAR-17 15:33
+2017] CROSS-MARKET MERGERS IN HEALTHCARE 827
+centrated market is anticompetitive.33 However, this presump-
+tion  is  rebuttable  if  the  merging  parties  produce  evidence
+showing that entry into the market by new competitors is easy,
+and thus the merger is unlikely to actually increase market
+power.34
+B. Evaluation of Healthcare Provider Mergers by the
+Courts
+If the antitrust regulator determines that there is a strong
+possibility a healthcare provider merger will have anticompeti-
+tive effects, the regulator will pursue a preliminary injunction
+in federal court to block the merger before it is consummated.35
+In deciding whether to grant this preliminary injunction, the
+court must evaluate the likelihood the regulator will succeed on
+the merits of an antitrust claim brought under Section 7 of the
+Clayton Act.36 The court will grant a preliminary injunction
+where, after considering the regulator’s likelihood of success on
+the merits and weighing the equitable impact of its decision,
+granting an injunction would be in the public’s interest.37
+Courts typically place great weight upon the market con-
+centration analysis presented by the antitrust regulator.38 In
+Philadelphia National Bank, the Supreme Court established a
+presumption  of  anticompetitive  effects  from  a  merger  that
+causes a large increase in concentration and results in a highly
+concentrated market, holding that:
+[A] merger which produces a firm controlling an undue per-
+centage share of the relevant market, and results in a signifi-
+cant increase in the concentration of firms in that market is
+33 Regulators presume that mergers involving an increase in HHI of greater
+than 200 and resulting in highly concentrated markets are presumed to enhance
+the market power of the merged firm to an anticompetitive level. See id.
+34 See id. at 27–29.
+35 The Federal Trade Commission, the regulator that evaluates healthcare
+mergers, derives its power to seek an injunction in federal court to block an
+anticompetitive merger from Section 13(b) of the Federal Trade Commission Act.
+David M. Stryker, Note, The Federal Trade Commission, Injunctive Relief, and
+Allegedly Anticompetitive Mergers: Preliminary Relief Under the Federal Trade
+Commission Act, 58 IND. L.J. 293, 293 (1982).
+36 Section 7 of the Clayton Act holds unlawful any acquisition or merger
+where “the effect of such acquisition may be substantially to lessen competition,
+or to tend to create a monopoly.” 15 U.S.C. §18 (2012).
+37 See Stryker, supra note 35, at 298. R
+38 See Deborah A. Garza, Market Definition, the New Horizontal Merger Guide-
+lines, and the Long March Away from Structural Presumptions, ANTITRUST SOURCE,
+Oct. 2010, at 1, 4 (noting that since the Horizontal Merger Guidelines evaluate
+mergers in terms of market concentration, “courts have generally assessed merg-
+ers that way”).\\jciprod01\productn\C\CRN\102-3\CRN302.txt unknown Seq: 8 20-MAR-17 15:33
+828 CORNELL LAW REVIEW [Vol.102:821
+so inherently likely to lessen competition substantially that it
+must be enjoined in the absence of evidence clearly showing
+that the merger is not likely to have such anticompetitive
+effects.39
+In recent healthcare merger evaluations, courts have de-
+bated how much weight they should place on the merging par-
+ties’ asserted nonprice and price efficiencies associated with
+the deal. The parties to a merger that results in an anticompe-
+titive level of market concentration under the Philadelphia Na-
+tional Bank presumption may claim nonprice efficiencies by
+arguing  that  although  prices  could  increase  following  the
+merger, this increase in price will be more than offset by a
+corresponding increase in quality. Alternatively, the parties
+may claim that the merger will produce price efficiencies that
+allow the merged firm to lower prices and increase competition
+with other market participants. Improvements in care and
+price efficiencies that may result from healthcare mergers are
+discussed in greater detail later in this Note.40
+Prior to 1982, courts generally ignored the efficiencies de-
+fense altogether and essentially held the Philadelphia National
+Bank presumption to be conclusive proof of anticompetitive
+effects.41 This approach closely tracks the 1968 iteration of the
+Horizontal  Merger  Guidelines  and  is  considered  outdated
+under more recent iterations of the Guidelines, and therefore it
+is seldom used by modern courts.42 Following the publication
+of the 1982 Horizontal Merger Guidelines, courts have shown a
+willingness to consider efficiencies as evidence to rebut the
+regulator’s claim that a merger is presumed to be anticompeti-
+tive.43 Modern courts generally consider efficiencies to some
+degree in deciding whether a merger should be presumed an-
+ticompetitive.44 However, the weight given to the efficiencies
+39 Phila. Nat’l Bank v. United States, 374 U.S. 321, 363 (1963).
+40 See infra subpart III.B.
+41 See William J. Kolasky & Andrew R. Dick, The Merger Guidelines and the
+Integration of Efficiencies into Antitrust Review of Horizontal Mergers, 71 ANTITRUST
+L.J. 207, 213–17 (2003).
+42 See id. at 213 (“Unless there are exceptional circumstances, the Depart-
+ment will not accept as a justification for an acquisition . . . the claim that the
+merger will produce [efficiencies]” (quoting U.S. DEP’T OF JUSTICE, 1968 MERGER
+GUIDELINES 8 (1968))).
+43 See id. at 232 (noting that since the 1982 version of the Horizontal Merger
+Guidelines, four circuit courts have had the occasion to consider an efficiencies
+defense to a merger and all four have shown a willingness to allow the efficiencies
+defense to rebut a presumption of anticompetitiveness).
+44 See id. at 232.\\jciprod01\productn\C\CRN\102-3\CRN302.txt unknown Seq: 9 20-MAR-17 15:33
+2017] CROSS-MARKET MERGERS IN HEALTHCARE 829
+defense and how such a defense factors into the Clayton Act
+Section 7 analysis varies from court to court.45
+Courts tend to differ in the burden of proof the merging
+parties must meet in order to rebut the Philadelphia National
+Bank presumption.46 The Eleventh Circuit was the first to re-
+ject the 1968 Guidelines approach to efficiencies, holding in
+University Health that efficiencies may be used to rebut a prima
+facie showing of anticompetitive effects.47 Following the Elev-
+enth Circuit’s lead, the Eighth Circuit in Tenet Health found
+that the combination of two hospitals could produce a “larger
+and more efficient” facility able to “provide better medical care
+than either of those hospitals could separately.”48 In the widely
+followed decision Long Island Jewish Medical Center, the dis-
+trict court placed significant limits on the efficiencies defense,
+holding that the efficiencies claimed must be significant and
+the merger must “enhance[] rather than hinder[] competition
+because of the increased efficiencies.”49
+In the most recent decisions involving the efficiencies de-
+fense, courts have greatly increased the burden the merging
+parties must meet in order to rebut the Philadelphia National
+Bank presumption. In evaluating a merger between two manu-
+facturers of baby formula, the D.C. Circuit in Heinz held that to
+rebut a presumption of anticompetitive effects based on high
+market concentration levels, the merging parties must supply
+“proof  of  extraordinary  efficiencies”  that  are  specific  to  the
+merger.50 Building on Heinz, the Eleventh Circuit in St. Luke’s
+essentially rejected all nonprice efficiencies in healthcare pro-
+vider mergers, holding that although a merger would “improve
+the delivery of health care,” such an efficiency gain is not suffi-
+cient to rebut the Philadelphia National Bank presumption un-
+less the merging parties show “that the merger would increase
+45 See Peter J. Hammer, Questioning Traditional Antitrust Presumptions: Price
+and Non-Price Competition in Hospital Markets, 32 U. MICH. J.L. REFORM 727, 744
+n.40 (1999).
+46 The 1982 Guidelines articulated the basic requirements an efficiencies
+defense must meet in order to warrant consideration by regulators and courts. To
+meet these requirements, the efficiencies defense must contain clear and convinc-
+ing evidence of substantial cost savings already enjoyed by other firms in the
+industry that could not be realized by less anticompetitive means than the pre-
+sent merger. See Kolasky & Dick, supra note 41, at 218 (citing U.S. DEP’T OF R
+JUSTICE, 1982 MERGER GUIDELINES §3.5 (1982)).
+47 FTC v. Univ. Health, Inc., 938 F.2d 1206, 1222 (11th Cir. 1991).
+48 FTC v. Tenet Health Care Corp., 186 F.3d 1045, 1054 (8th Cir. 1999).
+49 United States v. Long Island Jewish Med. Ctr., 983 F. Supp. 121, 137
+(E.D.N.Y. 1997).
+50 FTC v. H.J. Heinz Co., 246 F.3d 708, 720–21 (D.C. Cir. 2001) (citing U.S.
+DEP’TOF JUSTICE & FTC, 1997 HORIZONTAL MERGER GUIDELINES 30–32 (1997)).\\jciprod01\productn\C\CRN\102-3\CRN302.txt unknown Seq: 10 20-MAR-17 15:33
+830 CORNELL LAW REVIEW [Vol.102:821
+competition or decrease prices.”51 Finally, in the most recent
+decision involving an efficiencies defense, the Third Circuit in
+Penn State Hershey Medical Center set forth four requirements
+for efficiencies: (1) the efficiencies must “offset the anticompeti-
+tive concerns in highly concentrated markets”; (2) the efficien-
+cies “must be merger specific”; (3) the efficiencies “must be
+verifiable, not speculative”; and (4) the efficiencies “must not
+arise from anticompetitive reductions in output or service.”52
+Overall, under the current state of the law, the merging parties
+must offer a highly compelling efficiencies defense to overcome
+the Philadelphia presumption.
+II
+OVERVIEW OF THE MARKET FOR HEALTHCARE SERVICES
+A. Structure of the Market for Healthcare Services
+In order to understand the effects of cross-market health-
+care provider mergers on prices, it is important to first under-
+stand  the  main  players—healthcare  providers,  health
+insurance  payors,  employers,  and  employees/patients—and
+how they interact. This Part examines the negotiations process
+between providers, payors, employers, and patients.
+First, providers and health insurance payors negotiate over
+the price at which a plan will accept a hospital into its net-
+work.53 A payor, for purposes of this Note, is a private health
+insurance provider that reimburses the medical expenses of
+patients enrolled in its health insurance plan.54 A payor seeks
+to maximize the coverage of its plan at the lowest possible price
+in order to make its plan as attractive as possible to employers
+and patients.55 The more patients a provider currently serves,
+the more attractive the provider is to a payor, since the payor
+51 Saint Alphonsus Med. Ctr.-Nampa Inc. v. St. Luke’s Health Sys., Ltd., 778
+F.3d 775, 791 (11th Cir. 2014).
+52 FTC v. Penn State Hershey Med. Ctr., No. 16–2365 2016 WL 5389289, at
+*13–15 (3d Cir. July 26, 2016) (rejecting the merging parties’ efficiencies defense
+that the merger would relieve “capacity constraints” and “engage in risk-based
+contracting” because these efficiencies were “insufficient to rebut the presump-
+tion  of  anticompetitiveness”  established  by  the  FTC’s  market  concentration
+analysis).
+53 See David A. Argue & Richard T. Shin, An Innovative Approach to an Old
+Problem: Hospital Merger Simulation, 24 ANTITRUST49, 49 (2009).
+54 See Gary T. Schwartz, National Health Care Program: What Its Effect Would
+Be on American Tort Law and Malpractice Law, 79 CORNELL L. REV. 1339, 1346
+(1994) (noting Medicare as an example of a nonprivate health insurance payor).
+55 See OFFICEOF ATT’Y GEN. MARTHA COAKLEY, EXAMINATIONOF HEALTH CARE COST
+TRENDS AND COST DRIVERS 28 (2010) (arguing that payors “must maintain stable,
+broad provider networks”).\\jciprod01\productn\C\CRN\102-3\CRN302.txt unknown Seq: 11 20-MAR-17 15:33
+2017] CROSS-MARKET MERGERS IN HEALTHCARE 831
+maximizes its profits by enrolling as many employers and pa-
+tients in its plan as possible and a high usage rate indicates
+that the provider is popular with employers and patients.56 A
+provider, on the other hand, seeks to maximize its revenue by
+maximizing  the  number  of  patients  directed  to  it  by  the
+payor.57 Thus, the more patients enrolled in a payor’s plan, the
+more attractive the plan is to a provider.58 In recent years,
+bargaining power has shifted in favor of providers due in large
+part to antitrust regulators’ inability to successfully challenge
+provider mergers.59
+Next, payors and employers negotiate over the price at
+which an employer may enroll its employees in the payor’s
+health plan.60 An employer seeks to maximize both the quality
+and convenience of healthcare services for its employees at the
+lowest possible price.61 Large employers that have workers liv-
+ing throughout a broad geographic region will demand a health
+plan that offers coverage over the entire area.62 Large employ-
+ers, therefore, play an important role in cross-market mergers
+where workers living in separate geographic healthcare ser-
+vices markets are employed by the same firm.
+Finally, patients either select a healthcare provider from
+the health plan provided to them by their employers or negoti-
+ate for a health plan directly with a payor.63 For the purposes
+of this Note, it is assumed that all patients receive a health
+insurance plan from their employer. Since the cost of health-
+care is covered by insurance, an employee is not concerned
+56 See id. (providing “the total number of [patients] who are associated
+with . . . the provider system” as a proxy for the provider’s leverage over a payor).
+57 See Kelly J. Devers et al., Hospitals’ Negotiating Leverage with Health
+Plans: How and Why Has It Changed?, 38 HEALTH SERVS. RES. 419, 422 (2003)
+(examining how “[t]he threat of a plan excluding a hospital from a contract, and
+channeling large blocks of patients elsewhere” impacts negotiations between
+payors and providers).
+58 See id.
+59 Thomas R. McCarthy & Scott J. Thomas, Antitrust Issues Between Payers
+and Providers, ANTITRUST HEALTH CARE CHRON., Mar. 2002, at 2–3.
+60 See Vistnes & Sarafidis, supra note 4, at 266–67. R
+61 See id. at 267 (“All else equal, a health plan with a more comprehensive
+provider network will be more attractive to both employers and employees.”).
+62 See Argue & Shin, supra note 53, at 53 (“[A] broader set of hospital choices R
+increases . . . the likelihood of a payor winning an employer’s contract.”).
+63 According to the U.S. Census Bureau, over half of all workers receive
+health insurance from their employer. HUBERT JANICKI, U.S. CENSUS BUREAU, EM-
+PLOYMENT-BASED HEALTH INSURANCE: 2010, at 1–2 (2013), https://www.census
+.gov/prod/2013pubs/p70-134.pdf [https://perma.cc/LFL6-M52U] (noting that
+the  percentage  of  workers  receiving  employment-based  health  insurance  is
+decreasing).\\jciprod01\productn\C\CRN\102-3\CRN302.txt unknown Seq: 12 20-MAR-17 15:33
+832 CORNELL LAW REVIEW [Vol.102:821
+with  price  when  selecting  a  healthcare  provider.64  Rather,
+when selecting which provider to use, the employee is con-
+cerned  with  nonprice  factors  such  as  quality  of  care  and
+convenience.65
+B. Economic Incentives for Healthcare Providers to Merge
+Economically rational firms merge because the profits gen-
+erated by the merged firm will surpass the acquisition costs
+expended by the merging parties.66 For healthcare providers, a
+merged firm lowers its costs and increases its profits by achiev-
+ing “clinical integration.”67 Clinical integration is the coordina-
+tion  of  healthcare  services  across  patients  and  facilities  to
+maximize the quality and value of those services.68 From an
+antitrust perspective, regulators take the position that once
+clinical integration has been achieved by a provider merger, the
+merged entity can negotiate jointly with payors without engag-
+ing in an agreement in restraint of competition.69 Following the
+passage of the ACA, achieving clinical integration is especially
+profitable due to the financial incentives the Act offers provid-
+ers for reducing patient readmissions.70
+Many experts believe that the main reason for the recent
+upswing in healthcare mergers is the ACA passed in 2010.71
+Section 3025 of the Act establishes the Readmissions Reduc-
+tion program, which, by withholding Medicare funding, penal-
+izes healthcare providers who readmit previously discharged
+64 See Argue & Shin, supra note 53, at 50. R
+65 See id.
+66 See Ronald N. Johnson & Allen M. Parkman, Premerger Notification and the
+Incentive to Merge and Litigate, 7 J.L. ECON. & ORG. 145, 148–54 (1991).
+67 AM. HOSP. ASS’N, CLINICAL INTEGRATION–THE KEY TO REAL REFORM 1 (2010),
+http://www.aha.org/research/reports/tw/10feb-clinicinteg.pdf [https://perma
+.cc/H7MD-P82C].
+68 See STEPHEN M. SHORTELL ET AL., REMAKING HEALTH CARE IN AMERICA: THE
+EVOLUTIONOF ORGANIZED DELIVERY SYSTEMS 129 (2d ed. 2000).
+69 See Deborah L. Feinstein, Antitrust Enforcement in Health Care: Proscrip-
+tion, Not Prescription 2–5 (June 19, 2015) (transcript available at https://www.ftc
+.gov/system/files/documents/public_statements/409481/140619_aco_speech
+.pdf [https://perma.cc/X559-SB68]).
+70 See Kenneth Kizer, Examining Health Care Competition: Trends in Pro-
+vider Consolidation 82 (Feb. 25, 2015), (transcript available at https://www.ftc
+.gov/system/files/documents/public_events/618591/transcript-day2.pdf
+[https://perma.cc/4VYL-XPA6]) (“[T]he drive to consolidate providers is largely
+driven by this need to achieve clinical integration because of the [Affordable Care
+Act].”).
+71 See id. at 109–11.\\jciprod01\productn\C\CRN\102-3\CRN302.txt unknown Seq: 13 20-MAR-17 15:33
+2017] CROSS-MARKET MERGERS IN HEALTHCARE 833
+patients for continued treatment of prior ailments.72 In order
+to avoid readmissions, healthcare providers seek to control the
+entire “continuum” of healthcare for their patients, from diag-
+nosis, to treatment, to rehabilitation.73 Controlling the entire
+spectrum of services, known as population health manage-
+ment, reduces the possibility that an error by one provider will
+result in a readmission for a different provider.74 Furthermore,
+population health management allows health systems to mini-
+mize the actuarial risk of any one hospital receiving an exces-
+sive number of readmissions.75 In order to achieve the goal of
+population health management, providers use mergers to im-
+prove quality of care, increase capacity, and expand the range
+of services they offer.
+Clinical  integration  results  in  more  efficient  delivery  of
+healthcare services by coordinating and consolidating activities
+by separate providers.76 A merger allows healthcare providers
+to share patient information, leading to faster and more accu-
+rate diagnoses.77 Furthermore, a merger may greatly reduce
+administrative  overhead  costs  associated  with  the  manage-
+ment of a health system.78 Finally, the merged firm may be
+better able to allocate its resources by assigning physicians
+and beds to correspond to the needs of its patients.79
+72 See Patient Protection and Affordable Care Act §3025, Pub. L. No. 111-
+148, 124 Stat. 119 (2010) (codified as amended in scattered sections of 26 & 42
+U.S.C.).
+73 See Laura Wood, Research and Markets, Avoiding the Readmissions Pen-
+alty Zone: Population Health Management for High-Risk Populations, BUS. WIRE
+(Mar. 7, 2013, 5:12 AM), http://www.businesswire.com/news/home/201303070
+05474/en/Research-Markets-Avoiding-Readmissions-Penalty-Zone-Population
+[https://perma.cc/LDC8-X533] (noting the importance of monitoring the “care
+continuum,” especially discharge facilities, in order to achieve population health
+management).
+74 See id.
+75 See Kenneth L. Davis, Hospital Mergers Can Lower Costs and Improve
+Medical Care, WALL ST. J. (Sept. 15, 2014, 7:17 PM), http://www.wsj.com/arti-
+cles/kenneth-l-davis-hospital-mergers-can-lower-costs-and-improve-medical-
+care-1410823048 [https://perma.cc/3XAJ-BSXA] (“[W]ithout [population health
+management] there is too great a risk that . . . patients who are high utilizers of
+medical services[] will unbalance the scales.”).
+76 See SHORTELLETAL., supra note 68, at 129. R
+77 See Kizer, supra note 70, at 83. R
+78 See id. at 98.
+79 For example, in San Francisco, a population health management system
+created a “medical respite and sobering center” where victims of alcohol abuse
+could be treated at a far lower cost than in a traditional emergency room. Jeffrey
+Bendix, Experts See Potential in Population Health Management, but Obstacles
+Remain, MED. ECON. (Aug. 11, 2015), http://medicaleconomics.modernmedicine
+.com/medical-economics/news/experts-see-potential-population-health-man-
+agement-obstacles-remain [https://perma.cc/8QAU-GDXD].\\jciprod01\productn\C\CRN\102-3\CRN302.txt unknown Seq: 14 20-MAR-17 15:33
+834 CORNELL LAW REVIEW [Vol.102:821
+III
+EFFECTS OF CROSS-MARKET HEALTHCARE PROVIDER MERGERS
+A. Anticompetitive Effects of Cross-Market Mergers
+In the case of a cross-market merger, market concentration
+following the merger is unaffected because the merging provid-
+ers operate in separate geographic markets. Therefore, pa-
+tients, the consumers of healthcare services, have the same
+variety  of  healthcare  provider  choices  before  and  after  the
+cross-market merger. However, empirically, the prices of a
+healthcare provider increase 14 to 18% after joining an out-of-
+market health system.80 Despite this increase in price, studies
+indicate that the merged firm lowers its average costs by any-
+where from 5 to 14%, suggesting that cross-market mergers
+reduce consumer surplus.81 Typically, the increase in market
+concentration caused by a merger results in higher prices as
+the merged firm commands greater market power than the
+merging parties held individually before the consummation of
+the merger.82 This Part argues that the merged firm is able to
+charge higher prices due to increased bargaining power gained
+through the common consumer effect, the exploitation of differ-
+ing demand elasticities for healthcare services, known as the
+cross-subsidization of prices effect, and improved negotiation
+skill.
+1. Common Consumer Effect
+Healthcare providers in separate geographic markets that
+merge into a single provider system command more leverage in
+negotiating  for  inclusion  in  a  payor’s  network  because  the
+value of the merged firm to the payor’s network is greater than
+that of the sum of the merging parties.83 If a payor’s network is
+thought of as a blanket of coverage, providers that are not part
+of the plan may be thought of as holes.84 Payors seek to mini-
+mize the number of holes in their plans in order to make them
+attractive to employers.85 By merging, healthcare providers in-
+80 See Matthew S. Lewis & Kevin E. Pflum, Hospital Systems and Bargaining
+Power: Evidence from Out-of-Market Acquisitions, RAND J. Econ. 22 (forthcoming
+2016) (available at https://www.aeaweb.org/conference/2015/retrieve.php?pdf
+id=537 [https://perma.cc/DH76-B9CL]).
+81 Teresa D. Harrison, Do Mergers Really Reduce Costs? Evidence from Hospi-
+tals, 49 ECON. INQUIRY 1054, 1055 (2011).
+82 See Matthew Weinberg, The Price Effects of Horizontal Mergers, 4 J. COMPE-
+TITION L. & ECON. 433, 445–46 (2007).
+83 See Vistnes & Sarafidis, supra note 4, at 255. R
+84 See id.
+85 See id. at 275.\\jciprod01\productn\C\CRN\102-3\CRN302.txt unknown Seq: 15 20-MAR-17 15:33
+2017] CROSS-MARKET MERGERS IN HEALTHCARE 835
+crease the size of the hole that would result if they were to drop
+out of a payor’s health plan, thereby increasing their bargain-
+ing power with the payor.86 Thus, the merger creates an “inter-
+hospital linkage” in which a payor’s bargaining position with
+respect to the merged firm depends on whether the payor can
+contract with a second provider.87 A horizontal merger in-
+creases the bargaining strength of the merged firm because it
+eliminates other providers with which the payor may contract if
+it fails to reach a deal with the first provider.
+A cross-market merger may result in interprovider linkage
+because large employers consider coverage across a payor’s
+entire network when selecting a plan for its employees.88 Large
+employers consider the entire extent of the plan because they
+draw employees from a wide geographic area. Figure 1, below,
+illustrates a situation in which two providers operating in sepa-
+rate geographic markets may increase their bargaining power
+over a payor through a cross-market merger.
+FIGURE 1: PATIENT DISCHARGE AREAS FOR NORTH SHORE MEDICAL
+CENTER AND SOUTH SHORE HOSPITAL89
+86 See id.
+87 See id. at 258.
+88 See id.
+89 Figure 1 was generated using patient origin data from the Massachusetts
+Center for Health Information and Analysis.\\jciprod01\productn\C\CRN\102-3\CRN302.txt unknown Seq: 16 20-MAR-17 15:33
+836 CORNELL LAW REVIEW [Vol.102:821
+Figure 1 displays the geographic extent of the patient dis-
+charge areas for North Shore Medical Center in Salem, Massa-
+chusetts  and  South  Shore  Hospital  in  South  Weymouth,
+Massachusetts. The two providers are located about thirty
+miles apart,90 and Figure 1 shows that the providers’ respective
+patient discharge areas do not overlap, indicating that the
+providers operate in separate geographic markets. A hypothet-
+ical large employer in central Boston, roughly equidistant from
+North Shore and South Shore, may employ people from both
+the northern and southern suburbs.91 Therefore, the large em-
+ployer, in order to provide health coverage for all of its employ-
+ees, would seek a plan that offers both North Shore and South
+Shore. If North Shore and South Shore were to merge and leave
+a payor’s network, the merged firm would leave a hole in cover-
+age for both the northern and southern suburbs, making the
+plan less desirable for the large central employer. This poten-
+tial hole caused by the merged firm would be more damaging to
+a payor’s plan than the potential holes caused by the merging
+parties individually.92 Therefore, the merged firm would com-
+mand greater bargaining leverage over a payor than that which
+North Shore and South Shore commanded over the same payor
+prior to the merger.
+In  a  situation  like  the  hypothetical  North  Shore-South
+Shore merger where employers and patients value both of the
+merging parties, the increase in bargaining power gained by the
+merged firm is due to the “common consumer effect.”93 When
+healthcare providers in separate geographic areas merge, the
+merged firm can raise its price when there is a payor or group
+of payors that negotiated with both merging parties and desires
+to include both merging parties in its network.94 The closer the
+proximity of the merging firms, the more likely there are com-
+mon consumers and large employers, who value both parties.95
+90 Driving Directions from North Shore Medical Center to South Shore Hospi-
+tal, GOOGLE MAPS, http://maps.google.com [https://perma.cc/3HPH-CFFG] (fol-
+low “Directions” hyperlink; then search starting point field for “North Shore
+Medical Center, Salem, MA” and search destination field for “South Shore Hospi-
+tal, South Weymouth, MA”).
+91 C.f. Dafny, supra note 6, at 92. R
+92 See Vistnes & Sarafidis, supra note 4, at 255–58. R
+93 See Dafny, supra note 6, at 91. R
+94 See id. at 92
+95 See id.\\jciprod01\productn\C\CRN\102-3\CRN302.txt unknown Seq: 17 20-MAR-17 15:33
+2017] CROSS-MARKET MERGERS IN HEALTHCARE 837
+2. Cross-Market Subsidization of Prices Effect
+Following a cross-market merger, the merged firm may be
+able to increase prices by taking advantage of differing elastici-
+ties of demand in the separate geographic markets of the merg-
+ing parties.96 For example, when a provider in a market with
+elastic demand merges with a provider in a separate market
+with inelastic demand, the merged firm may raise prices in the
+inelastic market to subsidize a predatory price cut in the elastic
+market.97 Predatory pricing in the elastic market serves to
+drive out the competition and thus increase the concentration
+of that market, ultimately resulting in higher prices.98
+For cross-market price subsidization to occur, the merging
+parties must negotiate for inclusion in the same payor net-
+works prior to the merger.99 The merged firm may take advan-
+tage of cross-market price subsidization even if it negotiates
+with payors on a system-wide basis; that is, the merged firm
+negotiates for a single price to include all of its facilities in the
+payor’s system rather than separate prices for each individual
+facility within the system.100 For example, if a provider in a
+highly elastic market merges with a provider that holds a mo-
+nopoly in its local market, the merged firm can charge a higher
+system-wide price because payors would be unwilling to risk
+losing the monopolist provider, even if it would otherwise be
+willing to drop the firm in the elastic market from its net-
+work.101 In this example, the provider in the elastic market
+becomes more valuable to the payor simply through its associ-
+ation with the monopolist.
+Unlike the common consumer effect, cross-market subsi-
+dization may occur even without employers that value the in-
+clusion of both merging parties in its health plan.102 However,
+like the common consumer effect, cross-market subsidization
+will only occur when both merging parties negotiate with the
+same payor.103 Since payors typically negotiate with providers
+to craft networks on a statewide basis, price increases due to
+96 See id. at 93.
+97 See id.
+98 See Phillip Areeda & Donald F. Turner, Predatory Pricing and Related Prac-
+tices Under Section 2 of the Sherman Act, 88 HARV. L. REV. 697, 697–98 (1975).
+99 See Dafny, supra note 6, at 93. R
+100 See Argue & Shin, supra note 53, at 52 (examining the leverage a health- R
+care provider may extract by being the only provider in a certain geographic area).
+101 See id.
+102 See Dafny, supra note 6,at 92. R
+103 See id.\\jciprod01\productn\C\CRN\102-3\CRN302.txt unknown Seq: 18 20-MAR-17 15:33
+838 CORNELL LAW REVIEW [Vol.102:821
+cross-market subsidization are only likely to occur when the
+merging parties operate in the same state.104
+3. Improved Negotiation Skill
+A cross-market merger among providers may allow the
+merged firm to increase its bargaining leverage through in-
+creased negotiating skill. As a result of mergers, healthcare
+providers become more skilled at negotiating as the merging
+parties share information about their previous negotiations
+with payors.105 For example, following a series of cross-market
+provider mergers that led to the creation of Tenet Healthcare in
+2004, Tenet adopted a “national negotiating template and new
+technology to analyze payer-specific profit and loss data, giving
+negotiators ammunition during contract talks.”106 Although
+the merger did not increase market concentration, Tenet was
+nevertheless able to increase prices by using a shared informa-
+tion system to increase bargaining leverage with payors.107
+B. Pro-Competitive Effects of Cross-Market Mergers
+While empirical evidence shows that prices tend to in-
+crease  following  cross-market  mergers  between  healthcare
+providers, such evidence is unavailable until after the merger
+has been consummated.108 Therefore, when a merger is re-
+viewed by regulators and the courts prior to consummation,
+the merging parties have the opportunity to show reasons why,
+despite the concerns of anticompetitive effects described in
+subpart III.A, the merger will benefit consumers. This subpart
+details two arguments the merging parties may use to dispel
+concerns that their cross-market merger will have anticompeti-
+tive effects: improvements in quality of care and price efficien-
+cies resulting in reduced costs.
+1. Improvements in Quality of Care
+Even though regulators may claim that prices are likely to
+increase following a cross-market merger due to the anticom-
+petitive effects described in subpart IV.A, the merging parties
+may concede that prices will increase but argue that such in-
+104 See Scott D. Litman, Health Care Reform for the Twenty-First Century: The
+Need for a Federal and State Partnership, 7 CORNELL J.L. & PUB. POL’Y 871, 872
+(1998).
+105 See FTC v. Tenet Health Care Corp., 186 F.3d 1045, 1049 (8th Cir. 1999).
+106 Mike Colias, Ready to Rumble, 80 HOSPS. & HEALTH NETWORKS 32, 34–36
+(2006).
+107 See id.
+108 See Lewis & Pflum, supra note 80, at 22. R\\jciprod01\productn\C\CRN\102-3\CRN302.txt unknown Seq: 19 20-MAR-17 15:33
+2017] CROSS-MARKET MERGERS IN HEALTHCARE 839
+crease will be offset by a system-wide improvement in quality of
+care.109 This defense faces three main challenges when used to
+support a cross-market merger: first, since the merging firms
+serve different geographic markets, it is difficult to show how
+the system will be able to efficiently allocate its resources to
+better serve patients; second, even if the merging parties can
+set forth a plan for efficient resource allocation, they must find
+an empirical measurement to use as a proxy for quality of care;
+and  finally,  the  improvements  in  quality  of  care  must  be
+merger-specific.110
+The main challenge to raising a successful improvement in
+care defense to a cross-market merger is the difficulty of prov-
+ing improvements in quality of care with empirical evidence.
+Empirical evidence shows that patient admissions to a merged
+firm do not increase following either an in-market or cross-
+market acquisition.111 Thus, regardless of whether the pro-
+vider’s actual quality of care increases following a merger, pa-
+tients do not perceive any increase in quality of the merged
+firm.112 Nevertheless, the merged firm may be able to use an
+increase in the “average reserve margin” of its facilities to em-
+pirically suggest that the merged firm offers better care than
+did  the  merging  parties  separately.113  The  average  reserve
+margin is the number of beds a hospital keeps in reserve below
+its full capacity.114 Economists frequently use average reserve
+margin as a proxy for quality because physicians believe that
+hospitals provide better care when they are operating below
+their capacity constraints.115
+2. Price Efficiencies
+The merging parties may also contend that the merger will
+lead to economies of scale that will reduce the price of health-
+care services and ultimately benefit consumers. One of the
+109 See Hammer, supra note 45, at 759 n.85 (noting that by accurately calcu- R
+lating quality adjusted prices, competition over quality “could be conceptually
+reduced to a problem of price competition”).
+110 See supra note 52 and accompanying text. R
+111 See Lewis & Pflum, supra note 80, at 33–34. R
+112 Id.
+113 Paul L. Joskow, The Effects of Competition and Regulation on Hospital Bed
+Supply and the Reservation Quality of the Hospital, 11 BELL J. ECON. 421, 425–26
+(1980).
+114 See id.
+115 See Paul A. Pautler & Michael G. Vita, Hospital Market Structure, Hospital
+Competition, and Consumer Welfare: What Can the Evidence Tell Us?, 10 J. CON-
+TEMP. HEALTH L. & POL’Y 117, 124 (1994) (“[I]ncreases in the average reserve mar-
+gin . . . reduce[] expected admission delays, and . . . hospitals provide better care
+when they are operating well below their capacity constraints.”).\\jciprod01\productn\C\CRN\102-3\CRN302.txt unknown Seq: 20 20-MAR-17 15:33
+840 CORNELL LAW REVIEW [Vol.102:821
+most commonly cited efficiencies used by merging parties is
+that the merger will allow the firm to cut down on administra-
+tive and overhead costs.116 However, for such a defense to be
+recognized by regulators and courts, the merging parties must
+show that the cost reductions arising out of this efficiency will
+be passed on to consumers rather than merely being captured
+by the merged firm as additional producer surplus.117 Empiri-
+cal evidence from completed cross-market healthcare provider
+mergers shows that while the merged firm does indeed reduce
+its costs, the savings are not passed on to consumers.118
+Another efficiencies defense commonly used by the merg-
+ing parties is that the merger will produce economies of scale,
+enabling the merged firm to lower its costs. Economies of scale
+are found when the per-patient cost of providing care declines
+as the number of patients increases.119 Thus, the merging
+parties would contend that the merger, by creating a health-
+care provider system capable of caring for more patients, will
+allow the merged firm to reduce its per-patient costs and ulti-
+mately reduce its prices.120 Studies have shown that hospitals
+have constant returns to scale once its size reaches 200–400
+beds, meaning that any merger producing a firm capable of
+treating more than 400 patients will not receive the full benefits
+of economies of scale.121
+Finally, the merging parties may argue that the merger will
+produce economies of scope that will benefit consumers. Econ-
+omies of scope arise in healthcare mergers when resources are
+shared across facilities and used jointly in treating patients,
+making it cheaper to offer multiple services together than to
+offer those services separately.122 Following a merger, provid-
+ers may be able to shift physicians between facilities in order to
+more efficiently care for patients.123 Empirical evidence sug-
+116 Michael G. Vita et al., Economic Analysis in Health Care Antirust, 7 J.
+CONTEMP. HEALTH L. & POL’Y 73, 97 (1991).
+117 See id. (“[I]f cost reductions will not be passed on to consumers . . . the
+[FTC] is likely to challenge an acquisition.”).
+118 See Lewis & Pflum, supra note 80, at 21–22. R
+119 See Vita et al., supra note 116, at 97. R
+120 See id. at 98.
+121 See id.; see also FRONTIER ECON., A STUDY INVESTIGATINGTHE EXTENTTO WHICH
+THERE ARE ECONOMIESOF SCALEAND SCOPEIN HEALTHCARE MARKETSAND HOW THESE
+CAN BE MEASUREDBY MONITOR 11 (2012) (stating that the optimal size for an acute
+hospital is 200-400 beds), https://www.gov.uk/government/uploads/system/up
+loads/attachment_data/file/303160/Monitor_Economies_of_Scale_and_Scope_-
+_FINAL_REPORT_0_0.pdf [https://perma.cc/4WLJ-2DW4].
+122 See Vita et al., supra note 116, at 97. R
+123 See id. (noting that in the case of physician services, “the cost of producing
+multiple outputs jointly is less than the cost of producing them separately”).\\jciprod01\productn\C\CRN\102-3\CRN302.txt unknown Seq: 21 20-MAR-17 15:33
+2017] CROSS-MARKET MERGERS IN HEALTHCARE 841
+gests that economies of scope may be achievable in certain
+healthcare services such as pediatrics and emergency room
+care, but overall, an economies of scope argument does not
+provide strong support for an acquisition.124
+IV
+REVISED EVALUATION OF CROSS-MARKET MERGERS
+In response to the recent surge in healthcare mergers, both
+antitrust regulators and courts should be aware of the poten-
+tial for anticompetitive price increases arising from cross-mar-
+ket mergers. The Horizontal Merger Guidelines, as they are
+currently written and interpreted, provide insufficient guidance
+for regulators and courts in evaluating cross-market mergers,
+since merger review under the Guidelines is so tightly interwo-
+ven with market concentration.125 In reviewing cross-market
+mergers, antitrust regulators should seek to identify potential
+cross-consumer effects as well as evaluate the risk of cross-
+market price subsidization.126 When faced with preliminary
+injunction  motions  in  cross-market  merger  cases,  courts
+should move away from their heavy reliance on traditional mar-
+ket concentration evaluations.127 Instead, courts should weigh
+the potential for anticompetitive price effects, as presented by
+the regulators, against the merging parties’ asserted procompe-
+titive effects, taking into account the geographic limitations of
+both the anticompetitive effects and the efficiencies.
+A. Proposed Analysis of Cross-Market Mergers by
+Antitrust Regulators
+The most recent iteration of the Horizontal Merger Guide-
+lines  offers  antitrust  regulators  some  flexibility  finding  a
+merger anticompetitive without defining a relevant market by
+noting that “[e]vidence of competitive effects can inform market
+definition, just as market definition can be informative regard-
+ing competitive effects.”128 Through this language, the Guide-
+lines allow regulators to bypass market definition in cases
+where a merger is certain to cause anticompetitive effects.129
+While this language potentially aids antitrust regulators in
+124 Id. at 100 (“The evidence on economies of scope is mixed and probably
+should not be used to indicate strong support for an acquisition.”).
+125 See HORIZONTAL MERGER GUIDELINES, supra note 7 and accompanying text. R
+126 See supra subpart II.A.
+127 See Garza, supra note 38, at 5 and accompanying text. R
+128 HORIZONTAL MERGER GUIDELINES, supra note 7, at 7. R
+129 See id.\\jciprod01\productn\C\CRN\102-3\CRN302.txt unknown Seq: 22 20-MAR-17 15:33
+842 CORNELL LAW REVIEW [Vol.102:821
+blocking  anticompetitive  cross-market  healthcare  provider
+mergers, it has two significant limitations. First, the language
+does little to prevent anticompetitive mergers before they hap-
+pen, since the evidence of resulting price increases, on which
+the regulators must rely, does not arise until after the merger
+has been consummated. Second, the language provides little
+guidance to courts that are accustomed to relying upon the
+Philadelphia National Bank presumption in granting injunc-
+tions to prevent anticompetitive mergers.
+Since the Philadelphia National Bank presumption is ex-
+plicitly based upon the anticompetitive harms of high market
+concentration, in order to invoke the presumption, regulators
+must define the market in which the merging parties compete
+horizontally.130 Defining the market in the case of a cross-
+market merger is difficult because, by definition, the merging
+firms do not operate in the same geographic market. Therefore,
+a cross-market merger, under the current Guidelines, would
+not result in an increase in market concentration, even though
+it may result in higher prices.131 The FTC has attempted to
+address this problem by ignoring the Merger Guidelines’ em-
+phasis on market definition when evaluating certain cross-
+market mergers and attempting to focus the court’s attention
+solely on the anticompetitive effects.132 However, thus far the
+FTC has only taken this approach to challenge mergers retro-
+actively,  after  the  anticompetitive  effects  have  already  oc-
+curred.133 In order to proactively prevent mergers that will
+produce  anticompetitive  effects,  regulators  should  compile
+structural evidence surrounding the deal that indicates the
+potential for such anticompetitive effects. Specifically, once a
+review of the merging parties’ patient discharge data indicates
+that the parties operate in separate geographic markets, the
+regulator must identify the potential for common consumer
+effects and cross-market subsidization.134
+130 See Phila. Nat’l Bank v. United States, 374 U.S. 321, 363 (1963).
+131 See Lewis & Pflum, supra note 80, at 22. R
+132 See in re Evanston Nw. Healthcare Corp., F.T.C. No. 9315, at 87 (2008) (“[I]t
+is appropriate to prove anticompetitive effects through direct evidence in place of
+market definition.”).
+133 See Schencker, supra note 9 (quoting antitrust expert Jeff Miles claiming R
+“[t]he FTC has not brought a cross-market merger case, but there’s a good deal
+of . . . economic research going on looking into a theory under which they can be
+challenged”).
+134 If the patient discharge data indicates that the parties operate within the
+same geographic market, traditional Horizontal Merger Analysis under the Hori-
+zontal Merger Guidelines should apply. See HORIZONTAL MERGER GUIDELINES, supra\\jciprod01\productn\C\CRN\102-3\CRN302.txt unknown Seq: 23 20-MAR-17 15:33
+2017] CROSS-MARKET MERGERS IN HEALTHCARE 843
+First, to identify the potential for anticompetitive common
+consumer effects arising from a cross-market merger, regula-
+tors must closely analyze the geographic relationship between
+the  merging  parties.  To  begin,  regulators  should  identify
+whether the merging parties operate any facilities within the
+same state and examine whether the parties negotiate with any
+of the same payors.135 The locations of the parties’ facilities
+likely will be available publicly on the parties’ websites or, if the
+merger involves a large enough value, in the parties’ premerger
+notification filing.136 The regulators must then contact payors
+who offer plans in the regions the merging parties operate to
+determine  if  the  parties  negotiate  with  any  of  the  same
+payors.137 If the parties operate facilities in the same state and
+negotiate with any of the same payors, anticompetitive com-
+mon consumer effects are possible.
+Next,  regulators  must  obtain  additional  evidence  from
+payors  and  employers  to  determine  whether  common  con-
+sumer effects are likely enough to warrant blocking the merger.
+The regulator must examine more carefully the parties’ patient
+discharge information to gauge the possibility that an employer
+operating within or in between the separate geographic mar-
+kets of the merging parties might value the inclusion for both
+parties in its health plan for the benefit of its employees.138 For
+example, in the hypothetical North Shore-South Shore merger,
+where the merging parties’ facilities are a mere thirty miles
+apart and between them lays central Boston, it is likely that an
+employer would have workers who live in both the northern
+and southern suburbs. This hypothetical central Boston em-
+ployer would want access to both of the merging providers in its
+health plan. Using patient discharge data, regulators can de-
+termine the distance patients are willing to travel for care at a
+given healthcare facility.139 Figure 2, below, details how, by
+note 7, at 13–14 (describing how to define a geographic market based on the R
+location of customers).
+135 In general, payors must operate facilities in the same state in order to
+negotiate with the same payors. See Colias, supra note 106, at 33. R
+136 Addresses at which the parties conduct business must be included in the
+parties’ premerger notification form. Antitrust Improvements Act Notification and
+Report Form for Certain Mergers and Acquisitions, FTC, https://www.ftc.gov/sys-
+tem/files/attachments/form-instructions/instructions_-_final_05-13-14.pdf
+[https://perma.cc/6GWU-U84E].
+137 See supra section II.A.1.
+138 See Vistnes & Sarafidis, supra note 4, at 255–57 and accompanying text. R
+139 See, e.g.,Fig. 1; supra note 89. The distance patients are willing to travel is R
+represented by the edge of the patient discharge area for North Shore and South
+Shore.\\jciprod01\productn\C\CRN\102-3\CRN302.txt unknown Seq: 24 20-MAR-17 15:33
+844 CORNELL LAW REVIEW [Vol.102:821
+using this information on patients’ willingness to travel for
+healthcare and the typical commute distance for the area in
+which the merging parties operate, regulators may determine,
+as a threshold matter, whether any common consumers are
+likely to exist.140
+FIGURE 2: EXAMINING THE LIKELIHOOD OF A COMMON CONSUMER
+C = Typical Commute Distance
+Paa = Distance patients are willing to travel to Provider A’s
+facility
+Pbb  = Distance patients are willing to travel to Provider B’s
+facility
+D = Distance between Provider A and Provider B
+C
+Provider A Provider B
+P P
+a  b 
+D
+C  ≥  D – (Paa+Pbb)
+Common Consumer is likely when: 2
+In Figure 2, P and P represent the radius of the patient
+a b
+discharge areas for Provider A and Provider B’s facilities re-
+spectively. Thus, if the distance between P and P is less than
+a b
+2*C, the diameter of the circle representing the typical com-
+mute distance for the metropolitan area in which Provider A
+and Provider B operate, an employer could draw a typical com-
+muter from both Provider A and Provider B’s patient discharge
+area. Therefore, as a threshold matter, under these conditions,
+a common consumer is likely to exist.
+140 ELIZABETH KNEEBONE & NATALIE HOLMES, BROOKINGS, THE GROWING DISTANCE
+BETWEEN PEOPLEAND JOBSIN METROPOLITAN AMERICA 3 (2015).\\jciprod01\productn\C\CRN\102-3\CRN302.txt unknown Seq: 25 20-MAR-17 15:33
+2017] CROSS-MARKET MERGERS IN HEALTHCARE 845
+If, as a threshold matter, common consumers of the two
+merging parties are likely, then regulators should proceed by
+contacting large employers in the area of concern to determine
+if employers in the area value including both providers in its
+health plan.141 If both providers are valued by local employers,
+the regulators should next interview payors to evaluate the
+bargaining power of the merging parties and the prospective
+power of the merged firm. Specifically, the regulators would
+need to determine if payors would be willing to drop the merged
+firm from its network if the firm threatened a SSNIP.142 When
+obtaining evidence from payors, regulators must be mindful of
+the risk that payors will fabricate claims in order to shift bar-
+gaining power over providers in their favor.143 Despite the fact
+that the merging parties operate in separate geographic mar-
+kets, if the regulators determine that employers desire both
+parties in their health plans and payors would be unable to
+resist a SSNIP from the merged firm, then the common con-
+sumer effect is likely to cause an increase in prices following
+the merger and the regulator may choose to block the merger.
+Next, the regulators must evaluate the potential for an-
+ticompetitive effects arising from cross-market subsidization of
+prices. Like the common consumer effect, for cross-market
+subsidization to occur, there must exist payors that negotiate
+with both parties.144 If such common payors exist, regulators
+must examine the elasticity of demand for healthcare in the
+separate geographic markets of the merging parties.145 Elas-
+ticity of demand is the absolute value of the ratio of the percent
+change in quantity demanded for a product to the percent
+change in price of that product.146 An elasticity value less than
+one indicates that the market is inelastic while a value greater
+than one indicates that the market is elastic.147 In an inelastic
+market, consumer demand is not heavily dependent on price
+while in an elastic market, consumers are highly sensitive to
+141 See supra note 100 and accompanying text. R
+142 See HORIZONTAL MERGER GUIDELINES, supra note 7, at 9–10. R
+143 Providers and payors are engaged in an ongoing battle over bargaining
+power in negotiations. See McCarthy & Thomas, supra note 59, at 2–5. R
+144 See supra note 104 and accompanying text. R
+145 Cross-market subsidization of prices occurs when the merged firm exploits
+differences in elasticity between the separate geographic markets of the merging
+parties. See Dafny, supra note 6, at 89–90 and accompanying text. R
+146 JEANNE S. RINGELETAL., RAND, THE ELASTICITYOF DEMANDFOR HEALTH CARE: A
+REVIEW OF THE LITERATURE AND ITS APPLICATION TO THE MILITARY HEALTH SYSTEM 9
+(2002).
+147 Furthermore, a value of zero indicates that the market is perfectly inelastic
+while an infinite value indicates the market is perfectly elastic. See id. at 10.\\jciprod01\productn\C\CRN\102-3\CRN302.txt unknown Seq: 26 20-MAR-17 15:33
+846 CORNELL LAW REVIEW [Vol.102:821
+price when making their purchasing decisions.148 Therefore,
+in the context of healthcare providers, a provider in an inelastic
+market will lose fewer consumers following a price increase
+than a provider in an elastic market.
+Calculating  elasticity  for  healthcare  services  markets
+presents a unique challenge because the consumers who re-
+spond to price are payors rather than the patients who ulti-
+mately consume the services.149 From a payor’s perspective,
+the value of including a provider in its plan increases as the
+number of possible substitute providers in that market de-
+creases.150 Market concentration serves as a good proxy for
+market elasticity since a payor would be less sensitive to an
+increase in price in a market with many substitute provid-
+ers.151 A highly concentrated market is likely to be inelastic
+while  an  unconcentrated  market  is  likely  to  be  elastic.152
+Thus, in evaluating the elasticity of demand for a particular
+healthcare market, regulators should begin by calculating mar-
+ket concentration for the market.153
+Next, regulators should consider whether there is a signifi-
+cant difference in market concentration between the separate
+geographic markets of the merging parties, where one market
+is highly concentrated while the other is unconcentrated.154 A
+significant difference in market concentration suggests a paral-
+lel difference in elasticity between the markets.155 The merged
+firm could potentially exploit this difference in elasticity by
+raising prices in the inelastic market to subsidize predatory
+prices in the elastic market.156 If such conditions are present,
+regulators should inquire as to whether payors would be will-
+ing to lose the merged firm from its network if the merged firm
+148 See id.
+149 See Argue & Shin, supra note 53, at 50. R
+150 See Vistnes & Sarafidis, supra note 4, at 266–67. R
+151 See id.
+152 See supra section II.A.2.
+153 To calculate the market share for a given provider, take the number of beds
+operated by that provider divided by the total number of beds in the market. See
+supra note 30 and accompanying text. Use the market shares for firms in the R
+market to calculate the HHI market concentration. See supra note 31 and accom- R
+panying text.
+154 An unconcentrated market has an HHI below 1500 while a highly concen-
+trated market has an HHI above 2500. HORIZONTAL MERGER GUIDELINES, supra note
+7, at 18; see supra note 31 and accompanying text. R
+155 See Dafny, supra note 6, at 93. R
+156 See id.\\jciprod01\productn\C\CRN\102-3\CRN302.txt unknown Seq: 27 20-MAR-17 15:33
+2017] CROSS-MARKET MERGERS IN HEALTHCARE 847
+threatened a SSNIP.157 If the payors will negotiate with the
+merged firm on a system-wide rather than a facility-by-facility
+basis, regulators should ask the payors whether they would be
+willing to pay the merged firm a higher price to keep coverage in
+the inelastic market.158 Ultimately, if the merged firm would
+gain negotiating leverage because of its presence in the highly
+concentrated, inelastic market, the merger may result in signif-
+icant  anticompetitive  effects  due  to  cross-market  price
+subsidization.
+B. Proposed Analysis of Cross-Market Mergers by Courts
+Under the current approach to granting preliminary in-
+junctions in hospital merger cases, courts place great weight
+on market concentration.159 However, market concentration
+may not paint a complete picture of the anticompetitive effects
+that may arise from cross-market mergers. As the economic
+analysis of cross-market mergers continues to improve, courts
+will give more weight to the antitrust regulators’ arguments on
+potential anticompetitive effects. The amount of weight courts
+should give to the potential anticompetitive effects ultimately
+depends on the extent to which the conditions surrounding the
+merger suggest the potential for harm to consumers.160 This
+section assumes that the evidence presented by the regulators
+is sufficient to establish a prima facie case that the merger will
+result in anticompetitive effects. In response, the merging par-
+ties may offer an improvement in care or a price efficiencies
+defense to argue that the merger is not in fact anticompetitive.
+This subpart examines how courts should evaluate these de-
+fenses in light of the goals of the ACA, the true motives behind
+the merger, and the unique aspects of cross-market mergers
+that present challenges to achieving efficiencies.
+Courts should be wary of improvement in care defenses
+where the primary motivation behind the merger was to reduce
+costs or increase the bargaining power of the merged firm. The
+merging parties may allege that an increase in price following
+the merger does not reduce consumer surplus because it is
+offset by an improvement in quality. Courts should give great
+157 The merged provider can exploit the payor’s need to offer coverage in the
+inelastic market by charging a higher price for this market individually or for its
+system as a whole. See id.
+158 See id.
+159 See Garza, supra note 38, at 4. R
+160 The court must evaluate whether the conditions surrounding the merger
+are such so as to give rise to the common consumer effect or cross-market price
+subsidization. See section III.C.1.\\jciprod01\productn\C\CRN\102-3\CRN302.txt unknown Seq: 28 20-MAR-17 15:33
+848 CORNELL LAW REVIEW [Vol.102:821
+weight to this defense since the ACA expresses Congress’ intent
+to encourage healthcare providers to improve quality of care.161
+The merging parties may use average reserve margin as a proxy
+for quality to argue that the merger improves quality of care by
+increasing the level of resources available per patient.162 The
+merging parties may also claim that the merger will improve
+system-wide access to physicians.163 However, regulators and
+courts may be able to undermine the improvement in quality of
+care defense if correspondence between the merging parties
+indicates that a primary motivation behind the merger is to
+reduce costs or eliminate competition. Courts should be skep-
+tical of alleged improvements in quality where the primary mo-
+tivation of the merger is cost reduction, since effective clinical
+integration is typically not found where a merger was initiated
+to reduce costs or increase bargaining power with payors.164
+The merging parties could also contend that the merger
+will produce price efficiencies that would enable the merged
+firm to lower costs and pass the savings on to consumers. This
+efficiencies defense contends that increasing the scale of pro-
+duction would allow the firm to allocate resources more effi-
+ciently,  reducing  the  length  of  patient  stays  without
+compromising quality.165 Generally, however, to take advan-
+tage  of  economies  of  scale,  the  healthcare  facilities  in  the
+merged firm must be able to effectively coordinate their opera-
+tions.166 Thus, courts should discount this defense when the
+distance between the merging parties makes it unlikely that
+the merged firm will be able to effectively coordinate its opera-
+tions to improve care. Because patients are so concerned with
+convenience  when  selecting  healthcare  providers,  in  some
+161 See Patient Protection and Affordable Care Act §3025, supra note 72 and R
+accompanying text.
+162 See Pautler & Vita, supra note 115, at 124. R
+163 Scott  Baltic,  Monopolizing  Medicine:  Why  Hospitals’  Quest  to  Control
+Healthcare Costs is a Losing Game, 91 MED. ECON., Feb. 25, 2014, at 20, 27
+(“[C]onsolidation . . . undertaken ‘primarily for the purpose of enhanced bargain-
+ing power with payers’ . . . did not lead to true integration nor to enhanced
+performance.” (quoting Martin Gaynor & Robert Town, The Impact of Hospital
+Consolidation-Update, SYNTHESIS PROJECT (2012))).
+164 See id.
+165 See Aileen Clarke, Why Are We Trying to Reduce Length of Stay? Evalua-
+tion of the Costs and Benefits of Reducing Time in Hospital Must Start from the
+Objectives  that  Govern  the  Change,  5  QUALITY IN  HEALTH  CARE 172  (1996)
+(“[R]eductions of time spent in hospital will reduce costs without compromising
+patient outcomes.”).
+166 See Davis, supra note 5 (“Population health management means services R
+must be coordinated . . . . This requires hospital systems to provide a full suite of
+services for their patient populations, warranting expansion through acquisitions
+of other hospitals . . . .”).\\jciprod01\productn\C\CRN\102-3\CRN302.txt unknown Seq: 29 20-MAR-17 15:33
+2017] CROSS-MARKET MERGERS IN HEALTHCARE 849
+cases they will be unwilling to travel to a distant facility, even if
+it is better suited for treating that patient than a nearby facil-
+ity.167 One estimate suggests that patients are willing to travel
+a maximum of seventy-five miles for healthcare.168 This means
+that the ability of the merged firm to direct patients to the most
+efficient and highest quality treatment option is limited by the
+distance patients are willing to travel for healthcare.169 Since
+the merging parties to a cross-market merger operate in sepa-
+rate geographic markets, any plan to improve quality of care
+would only be viable if the parties can show that patients would
+be willing to travel the distance between the separate geo-
+graphic markets in order to receive healthcare.170
+CONCLUSION
+Cross-market mergers between healthcare providers, until
+recently viewed as harmless by antitrust regulators and courts,
+may have anticompetitive effects that harm American consum-
+ers. The potential for anticompetitive effects from cross-market
+healthcare provider mergers is greatly enhanced by the fact
+that healthcare mergers are occurring more frequently now
+more  than  ever  and  being  driven  by  the  incentives  of  the
+ACA.171 Regulators have already shown a willingness to ad-
+dress this problem, but with relatively few sources of economic
+proof indicating price effects following cross-market mergers,
+the FTC and the DOJ are left with little ammunition to block a
+potentially anticompetitive cross-market merger in court. As
+economic analysis of cross-market mergers improves, regula-
+167 See supra note 23 and accompanying text. Patients’ willingness to travel R
+for healthcare varies across different regions of the country. For example, data
+from the Washington State Office of Financial Management show that an average
+adult is willing to travel 20.4 miles for routine care and twenty-two miles for
+urgent care. WEI YEN, WASH. STATE OFF. OF FIN. MGMT., HOW LONGAND HOW FAR DO
+ADULTS TRAVEL AND WILL ADULTS TRAVEL FOR PRIMARY CARE? (2013), http://www
+.ofm.wa.gov/researchbriefs/2013/brief070.pdf [https://perma.cc/P6L2-J3DF].
+168 See Lewis & Pflum, supra note 80, at 22. R
+169 Based on the Lewis-Pflum estimate, a patient living at the midpoint be-
+tween the merging parties’ facilities would be willing to travel seventy-five miles in
+either direction for care, meaning that the facilities must be a maximum of 150
+miles apart in order to result in an improvement in quality of care. See id.
+170 For example, consider the hypothetical merger between North Shore and
+South Shore discussed in section II.A.1. Although North Shore and South Shore
+do not currently attract the same patients, the parties, by taking a survey from
+their current patients, may be able to show that their patients would be willing to
+travel thirty miles further to use the other facility, especially to receive specialized
+care.
+171 See supra note 5 and accompanying text. R\\jciprod01\productn\C\CRN\102-3\CRN302.txt unknown Seq: 30 20-MAR-17 15:33
+850 CORNELL LAW REVIEW [Vol.102:821
+tors will be able to predict more accurately the conditions that
+cause cross-market mergers to increase prices.
+By and large, price increases following cross-market merg-
+ers are due to the increase in bargaining power the merged firm
+gains over health insurance payors with whom the merging
+parties negotiated prior to the merger. Increased bargaining
+power following a cross-market merger may result from either
+the common consumer effect or cross-subsidization of prices.
+This Note sets forth tactics regulators may employ to identify
+conditions that lead to these effects so that regulators may
+block anticompetitive cross-market healthcare provider merg-
+ers before they are consummated. To assist in identifying the
+potential for the common consumer effect, this Note offers a
+threshold analysis whereby regulators may use both consum-
+ers’ willingness to commute in an area and consumers’ willing-
+ness to travel for healthcare to suggest the potential for a
+common consumer between two merging parties. In the future,
+regulators may improve upon this threshold analysis by ac-
+counting for population distribution in the area between the
+providers as well as workers that commute further than the
+typical commute distance for the relevant area. Furthermore,
+with more information on the actual economic effects of cross-
+market mergers, regression analysis might be used to identify a
+causal relationship between the existence of common consum-
+ers or a differential in market elasticity between the merging
+firms  and  increases  in  price  for  healthcare  following  a
+merger.172
+This Note advocates taking a more open approach to the
+traditional balancing of anticompetitive and procompetitive ef-
+fects of mergers. Courts must consider both arguments from
+the regulators suggesting conditions surrounding the merger
+that indicate the potential for price increases and arguments
+from the merging parties that the merger will in fact result in
+higher quality care or efficiencies leading to lower prices. Ad-
+vising courts on a general course of action is difficult because
+there is a broad range of ways in which modern courts analyze
+efficiencies defenses.173 Furthermore, courts must not place
+too much weight on potential anticompetitive effects so as to
+prevent or deter beneficial mergers that further Congress’ in-
+172 See Alan O. Sykes, An Introduction to Regression Analysis 3 (Univ. of Chi.
+Law Sch., Law & Econs., Paper No. 20, 1992), http://www.law.uchicago.edu/
+files/files/20.Sykes_.Regression_0.pdf [https://perma.cc/V79G-6ZGX] (explain-
+ing how regression analysis may be used to test hypotheses “about the relation-
+ship between the variables of interest”).
+173 See supra section II.A.3.\\jciprod01\productn\C\CRN\102-3\CRN302.txt unknown Seq: 31 20-MAR-17 15:33
+2017] CROSS-MARKET MERGERS IN HEALTHCARE 851
+tent of improving care embodied in the ACA.174 This Note pro-
+vides guidance on when courts should discount the merging
+parties’ improvements in quality and price efficiencies defenses
+in light of the likelihood of anticompetitive effects.
+174 See supra note 70–71 and accompanying text. R\\jciprod01\productn\C\CRN\102-3\CRN302.txt unknown Seq: 32 20-MAR-17 15:33
+852 CORNELL LAW REVIEW [Vol.102:821

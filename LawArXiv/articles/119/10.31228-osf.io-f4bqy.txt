@@ -1,0 +1,1238 @@
+LAW LIBRARY JOURNAL Vol. 104:3 [2012-28]
+How Librarians Can Help Improve Law Journal Publishing*
+Benjamin J. Keele** and Michelle Pearse***
+Librarians are well positioned to improve law journal publishing and help it evolve 
+in the ever-changing digital environment. They can provide student editors with 
+advice on a variety of issues such as copyright, data preservation, and version control. 
+Librarians can also help journals adopt technical standards and improve the discover-
+ability and usability of journal content. While few libraries will be able to adopt all 
+these suggestions, a checklist of ideas is provided to help librarians select those that are 
+most suitable to their libraries and journals.
+Introduction
+¶1 Numbering near one thousand titles and growing, more law journals than 
+ever are now being published by U.S. law schools.1 Most of these journals are edited 
+by students, and the fact that more journals are being established indicates there is 
+demand from students for opportunities to work on a journal or from professors 
+for publication venues. Editors and authors share a common goal to produce legal 
+scholarship that is read, cited, and influential.
+¶2 Law librarians assist in the production and dissemination of law journals at 
+several points in the process. Librarians help produce legal scholarship by helping 
+authors  use  resources  in  their  research. After  articles  have  been  written  and 
+accepted by journals, librarians assist editors and staff as they verify references and 
+  *  © Benjamin J. Keele and Michelle Pearse, 2012. This article is licensed under the Creative 
+Commons Attribution License, which permits unrestricted use, distribution, and reproduction in 
+any medium, provided the original authors and source are credited. The authors would like to thank 
+Sarah Rhodes and Erika Wayne for their helpful comments on earlier drafts of the article, and Rich 
+Leiter, Tom Boone, Roger Skalback, Ken Hirsh, and Valerie Craigle for helpful comments during a 
+Law Librarian Conversations podcast related to the article. Many of the ideas in this article were first 
+presented in a poster session at the 2011 Annual Meeting of the American Association of Law Librar-
+ies. The poster is available at http://scholarship.law.wm.edu/libpubs/25/, and additional resources on 
+library support for law journal publishing are available at http://libguides.law.harvard.edu/lawjournal 
+publishing, archived at http://www.webcitation.org/67WzAbNL3. As an example of preserving our 
+online sources, we have archived snapshots of most online citations using WebCite (http://www 
+.webcitation.org) and added a URL for that snapshot to the citation; because of this, “last visited” 
+dates have been omitted from those citations. We have not archived online sources that are in reliable 
+repositories or when the WebCite tool failed to accurately capture the source.
+  **  Reference Librarian, William & Mary Law School, Williamsburg, Virginia.
+  ***  Research Librarian for Open Access Initiatives and Scholarly Communication, Harvard Law 
+School, Cambridge, Massachusetts.
+  1. See John Doyle, The Law Reviews: Do Their Paths of Glory Lead but to the Grave?, 10 J. APP. 
+PrAc. & Process 179, 180 (2009).
+383384 LAW LIBRARY JOURNAL Vol. 104:3  [2012-28]
+bring the articles into conformity with citation standards.2 In recent years, libraries 
+have also become increasingly engaged in providing platforms through which jour-
+nals may publish their content through online repositories and publishing systems, 
+such as DigitalCommons,3 Open Journal Systems (OJS),4 WordPress,5 Drupal,6 and 
+DSpace.7
+¶3 This is hardly a complete list of how librarians contribute to journal produc-
+tion, and there are other services librarians are especially qualified to provide to law 
+journals. Our article considers ways in which libraries can broaden their roles in 
+supporting law review publication and increasing the visibility and discoverability 
+of these journals, in both the long and the short term. While libraries have been 
+widely engaged in providing various services to journals (e.g., instruction, support 
+for citation checking, and repository and other publishing platforms), we seek to 
+reflect on activities that do not seem so common and to think broadly about how 
+libraries and librarians might become more actively engaged in publishing law 
+reviews and evolve in their roles as partners in the publication of law reviews. A 
+checklist, included here as an appendix, reminds librarians of issues that could be 
+raised with law review editors, IT departments, and anyone else engaged in the law 
+journal production process.
+¶4 Just as university libraries have found themselves increasingly partnering (or 
+in some cases merging) with their university presses,8 law school libraries should 
+be positioning themselves to support their journals’ evolution in the new digital 
+publishing landscape by advising and supporting innovative initiatives in publish-
+ing, becoming more engaged in supporting the editorial production of the journal, 
+and helping with marketing and retailing. Librarians are well situated to lend their 
+expertise to student editors, who do not possess much training in information 
+distribution and retrieval and do not tend to think about the long-term institu-
+tional goals of their journals.
+¶5 Our article builds on discussion at meetings in reaction to the Durham 
+Statement which advocated for the transition of law reviews to a purely digital 
+  2.  For a discussion of how librarians can assist law journals with training, interlibrary loan, and 
+cite-checking, see Pamela D. Burdett, Dorothy C. Clark & Sally G. Waters, What Librarians Can Do for 
+Your Law Review, 30 sTeTson l. rev. 593 (2000).
+  3. DigiTAlcommons, http://digitalcommons.bepress.com (last visited May 29, 2012).
+  4. Open Journal Systems, Public knowleDge ProJecT, http://pkp.sfu.ca/?q=ojs, archived at 
+http://www.webcitation.org/67WzSv8jk.
+  5. worDPress.com,  https://wordpress.com,  archived  at  http://www.webcitation.org/67Wz 
+T2R78.
+  6. DruPAl, https://drupal.org, archived at http://www.webcitation.org/67WzbsakH.
+  7. DsPAce, http://www.dspace.org, archived at http://www.webcitation.org/67WzbkGcg.
+  8.  As of 2010, at least sixteen university presses reported to academic libraries. Richard W. 
+Clement, Library and University Press Integration: A New Vision for University Publishing, 51 J. libr. 
+ADmin. 507, 520 (2011). Recent reports and scholarship stress the increasing role of the library 
+in publishing services. See lAurA brown eT Al., universiTy Publishing in A DigiTAl Age (July 
+2007), available at http://www.sr.ithaka.org/research-publications/university-publishing-digital-age; 
+sPArc, librAry Publishing services: sTrATegies for success; finAl reseArch rePorT (Mar. 2012), 
+http://wp.sparc.arl.org/lps/, archived at http://www.webcitation.org/67Wzrg4sK; Maria Carpenter 
+et al., Envisioning the Library’s Role in Scholarly Communication in the Year 2025, 11 PorTAl: libr. 
+& AcAD. 659 (2011) (contemplating potential future roles for libraries in scholarly communication 
+through various scenarios, including the library as publisher).Vol. 104:3  [2012-28] HOW LIBRARIANS CAN HELP IMPROVE LAW JOURNAL PUBLISHING 385
+mode of publication.9 While these meetings and papers emanating from them have 
+laid the groundwork for a technical infrastructure and requirements for making the 
+Durham Statement work, our more modest goal is to outline tools and resources to 
+enable law librarians to have conversations with their journal editors and explore 
+various activities for helping them publish better. We hope to flesh out concrete 
+ways in which law libraries can increase their role in supporting student publica-
+tions and expand on their traditional services and functions.
+Copyright Agreements and Policies
+¶6 For law journal editors and authors, profit is not the primary motivation. 
+While some journals and authors may receive royalties from database vendors or 
+textbook publishers, most participants are unpaid, or at least not paid beyond their 
+normal salaries. Because copyright is primarily an economic privilege, it would 
+seem that editors and authors would be largely unconcerned with copyright mat-
+ters, and in many ways this assumption is being increasingly borne out in law jour-
+nal policies.10 Since the late 1980s, law journal publication agreements have, in 
+general, become less demanding of exclusive rights from authors. Rather than ask-
+ing for a complete transfer of copyright, many journals now request a temporary 
+exclusive license or even a nonexclusive license.11 Many journals also liberally grant 
+permission for reproduction of articles, generally provided that the copying is for 
+educational use, copies are distributed at or below cost, proper copyright notices 
+and attributions are given, and notification is sent to the journal.12 Further indicat-
+ing that these liberal policies are common is the National Conference of Law 
+Reviews’ Model Code of Ethics. The Model Code provides that while journals have 
+the right to ask for copyright in published articles, they should permit authors who 
+wish to retain copyright to do so, and in any case should let authors republish and 
+  9. See, e.g., Implementing the Durham Statement: Best Practices for Open Access Law Jour-
+nals,  Duke  lAw  sch.,  http://www.law.duke.edu/libtech/openaccess/conference2010,  archived  at 
+http://www.webcitation.org/67X094RpX.  For  more  about  the  Durham  Statement,  see  Richard 
+A.  Danner,  Kelly  Leong  & Wayne V.  Miller,  The  Durham  Statement  Two Years  Later:  Open 
+Access in the Law School Journal Environment, 103 lAw libr. J. 39, 2011 lAw libr. J. 2; Wayne 
+V. Miller, A Foundational Proposal for Making the Durham Statement Real (Duke Law Work-
+ing  Paper  29,  2010),  http://scholarship.law.duke.edu/cgi/viewcontent.cgi?article=2948&context 
+=faculty_scholarship. See also Tom Boone, Librarians Key to Open-Access Electronic Law Reviews, 
+librAry lAws Are meAnT To be broken (Sept. 3, 2009, 3:57 P.m.), http://tomboone.com/library 
+-laws/2009/09/librarians-key-open-access-electronic-law-reviews, archived at http://www.webcitation 
+.org/67X0IJw10.
+  10.  See Jessica Litman, The Economics of Open Access Law Publishing, 10 lewis & clArk l. rev. 
+779, 783 (2006) (“Indeed, copyright is sufficiently irrelevant that legal scholars, the institutions that 
+employ them, and the journals that publish their research tolerate considerable uncertainty about who 
+owns the copyright to the works in question, without engaging in serious efforts to resolve it.”).
+  11.  See Benjamin J. Keele, Copyright Provisions in Law Journal Publication Agreements, 102 lAw 
+libr. J. 269, 274, 2010 lAw libr. J. 15, ¶ 18.
+  12.  Examples of these provisions can be found in the Duke Law Journal, the Indiana Law Journal, 
+the Minnesota Law Review, the Pepperdine Law Review, the U.C. Davis Law Review, and the William & 
+Mary Law Review.386 LAW LIBRARY JOURNAL Vol. 104:3  [2012-28]
+adapt their articles.13 The Model Code also calls on authors to grant journals’ 
+requests to republish, especially in electronic databases.14 In 1998, an Association 
+of American Law Schools (AALS) special committee developed a fairly liberal 
+model publication agreement for journals and authors.15
+¶7 However, some sort of written copyright transfer or license is crucial to 
+journals. These agreements provide the journal with clear authority to distribute 
+articles through a variety of media. Journals want to distribute their content 
+through as many reputable channels as possible, including the journal’s web site, 
+LexisNexis, Westlaw, HeinOnline, and other disciplinary databases. Editors also 
+need to ensure that their journals retain sufficient rights to distribute articles 
+through new vendors that may appear in the future. Copyright lasts a very long 
+time, so it is important for journals to have the flexibility to use distribution venues 
+that were unforeseen when articles were first published.16
+¶8 Authors, on the other hand, wish to post their articles, whether in draft or 
+final form, on their personal web sites and sites like the Social Science Research 
+Network (SSRN) or bepress. Many editors, recognizing that most law journals are 
+products of educational institutions, also want to permit educational and noncom-
+mercial reproduction of their articles. Most journals do not rely on subscription 
+revenues as a significant source of funding, and so should not require more than 
+nonexclusive licenses that give both journal and author great flexibility for repro-
+ducing and distributing their work. 
+¶9 Depending on the level of the library’s supervision over journals, librarians 
+can help guide editors to adopt publication agreements and copyright policies that 
+provide as much flexibility as possible for both the journal and the author to 
+achieve their scholarly goals. To enable maximum circulation and impact of legal 
+scholarship, librarians should encourage journals to use publication agreements 
+that give the author and the journal nonexclusive rights to reproduce and distrib-
+ute articles, provided that proper attribution is given. While U.S. copyright law 
+does not protect a right of attribution for written works,17 publication agreements 
+should generally provide that authors credit the journal as the point of first formal 
+publication and that the journal credit the author in any excerpts or later publica-
+tions. For a few journals, royalties may be a significant source of funding, but even 
+for journals concerned about maintaining subscriptions, an exclusive license for a 
+short period, between six months and two years, should suffice. A transfer of copy-
+right is now outside the norm of law journal practice and should require special 
+justification. 
+¶10 Journals often also have copyright policies for the purpose of exercising 
+their copyright over the journal compilation and the licenses to individual articles. 
+As mentioned above, many journals explicitly grant permission for classroom 
+  13.  Michael L. Closen & Robert M. Jarvis, The National Conference of Law Reviews Model Code 
+of Ethics: Final Text and Comments, 75 mArQ. l. rev. 509, 519 (1992) (Rule 2.5).
+  14.  Id. at 525 (Rule 4.5).
+  15.  AALS Special Committee, Model Author/Journal Agreement (1998), available at http://www 
+.aals.org/deansmemos/98-24.html, archived at http://www.webcitation.org/67X0Z3Jsc.
+  16.  See Michael N. Widener, Safeguarding “The Precious”: Counsel on Law Journal Publication 
+Agreements in Digital Times, 28 John mArshAll J. comP. & info. l. 217, 241 (2010).
+  17.  3 melville b. nimmer & DAviD nimmer, nimmer on coPyrighT § 8D.03 (2011).Vol. 104:3  [2012-28] HOW LIBRARIANS CAN HELP IMPROVE LAW JOURNAL PUBLISHING 387
+reproduction as long as proper attribution is given and copies are not sold at a 
+profit. 
+¶11 A new mode of distribution for articles is the institutional repository, an 
+online database of scholarly works by an academic institution’s faculty. A number 
+of major research universities have recently adopted open access policies that 
+encourage or require faculty to post their scholarly works online.18 Journals can 
+facilitate author compliance with these policies by providing in their agreements 
+and copyright policies that academic employers can archive their employees’ work 
+without further permission. Such a policy will reduce transaction costs for both 
+journals and libraries and further their educational goals. Any embargo on open 
+access posting of articles can be specified. Librarians can explain to editors the ben-
+efits of permitting posting in institutional repositories and help craft policy lan-
+guage that serves both journal and library interests.19
+¶12 Librarians should also encourage transparency of copyright agreements 
+and policies. Very few journals make their agreements and policies available on 
+their web sites.20 This lack of disclosure makes it more difficult for authors con-
+cerned with retaining their rights to determine whether a journal has an agreeable 
+policy, and it complicates the work of librarians and authors who want to know if 
+they can distribute or use articles in certain ways. Librarians can encourage their 
+institution’s journals to make their copyright documents publicly available and 
+submit their policies to databases that provide a centralized collection of scholarly 
+journals’ copyright policies.21
+Version Marking
+¶13 A consequence of the proliferation of electronic distribution channels for 
+articles is that print journals are no longer the first or primary means by which 
+researchers obtain journal content. For example, an article can be posted as a draft 
+on SSRN, bepress, and any other web site to which the author wishes to post. As the 
+author revises the article, she may add new drafts to these sites. Once the article is 
+accepted by a journal, it is cite-checked, edited, and formatted for publication in the 
+journal. This published version may then become available on the journal’s web 
+  18.  See Registry of Open Access Repositories Mandatory Archiving Policies, ROARMAP, http://roar 
+map.eprints.org, archived at http://www.webcitation.org/67X0cEmRB.
+  19.  Some have suggested adoption of a Creative Commons license for the purposes of creating 
+an infrastructure for the Durham Statement. See, e.g., Miller, supra note 9, at [2]. An earlier project to 
+promote open access law journals issued a statement of principles that included noninterference with 
+an author’s desire to publish under a Creative Commons Attribution–Noncommercial Use license. 
+Open  Access  Law:  Principles,  sciencecommons,  http://sciencecommons.org/projects/publishing 
+/oalaw/principles, archived at http://www.webcitation.org/67X11A9RM.
+  20.  Keele, supra note 11, at 273, ¶ 15.
+  21.  The most prominent service for most academic disciplines is SHERPA/RoMEO, http://www 
+.sherpa.ac.uk/romeo, archived at http://www.webcitation.org/67X14OKDZ. Michael Froomkin has 
+also created CopyrightExperiences, a wiki that contains information from law journals. coPyrighT 
+exPeriences,  http://commons.umlaw.net/index.php?title=Main_Page,  archived  at  http://www.web 
+citation.org/67X15Ktil. Coordinated efforts among law libraries and journals could help make infor-
+mation consistently available in a variety of places where people look for journal policies.388 LAW LIBRARY JOURNAL Vol. 104:3  [2012-28]
+site, vendor databases, and any of the sites to which the author posts it. Even after 
+formal publication, the author could revise, update, or correct the article and put 
+that version online.
+¶14 This scenario presents at least two challenges. First, by posting drafts, the 
+published version, and even later revisions, authors increase the risk that research-
+ers will find and possibly cite works that represent their preliminary thoughts. 
+Some authors help mitigate this risk by putting notices on their papers indicating 
+that they are drafts and should not be cited. But these admonitions cannot prevent 
+a researcher from citing a draft, especially if the final version has not yet been pub-
+lished or is not readily accessible. The ability to post drafts online for comment 
+accelerates scholarly dialogue and makes legal scholarship more accessible to 
+researchers outside the academy, but it also increases the risk that inaccurate or 
+unpolished drafts will compete with their more complete and vetted successors. 
+Second, researchers may have difficulty knowing the provenance of the article they 
+are reading and may unknowingly use articles that have not been revised, proof-
+read, or cite-checked. Multiple versions of a single intellectual work also make 
+proper attribution to it more complicated than it would be if only one version were 
+available.
+¶15 One may wonder how different a draft article on SSRN is from the article 
+published in the print journal. We do not know of any studies comparing drafts to 
+formally published articles in legal scholarship, but several studies have examined 
+the differences in other fields. One study of articles published by Blackwell found 
+that a significant number of changes were made, most often to correct erroneous 
+references.22 A second study of a small number of biology and social science articles 
+found that numerous changes were made between drafts posted online and the 
+final, published article. These edits generally made the papers more readable, but 
+did not affect the validity of the conclusions. The study’s authors also found that 
+some of the drafts posted by authors became inaccessible.23 Lastly, one study 
+inspected drafts and articles from social science and humanities journals. The 
+author concluded that most edits were minor and stylistic, but expressed concern 
+that some errors in quotations and citations had not been corrected, even in the 
+final, published version.24
+¶16 While these studies did not look at law journal articles, their findings still 
+have some value for law librarians and journal editors. The point most applicable 
+to law journals is the problem caused when quotations and references are not veri-
+fied by the editors of the journals; these errors, once published, are unlikely ever to 
+be corrected in the future. Thus, cite-checking by law journal staff is an important 
+service to legal scholarship that helps minimize errors in citation. By this we do not 
+mean ensuring strict compliance with citation style (although some citation stan-
+dard is valuable), but rather checking cited sources to ensure that they are acces-
+  22.  Edward Wates & Robert Campbell, Author’s Version vs. Publisher’s Version: An Analysis of the 
+Copy-Editing Function, 20 leArneD Publ’g 121, 126 (2007).
+  23.  David Goodman et al., Open Access and Accuracy: Author-Archived Manuscripts vs. Published 
+Articles, 20 leArneD Publ’g 203, 209–10 (2007).
+  24.  Sanford G. Thatcher, Copyediting’s Role in an Open-Access World, AgAinsT The grAin, Apr. 
+2011, at 30, 32.Vol. 104:3  [2012-28] HOW LIBRARIANS CAN HELP IMPROVE LAW JOURNAL PUBLISHING 389
+sible to researchers and support the propositions for which they are cited. Many 
+scholarly databases now automatically link articles with others that cite or are cited 
+by them.25 Law librarians are most familiar with Westlaw’s KeyCite and LexisNexis’s 
+Shepard’s citators, but HeinOnline’s ScholarCheck, SSRN’s CiteReader, and Google 
+Scholar also automatically analyze citations and link to appropriate articles. Cita-
+tion errors or formatting irregularities can prevent these programs from making 
+the proper links. Perhaps the programs will eventually be sophisticated enough to 
+decipher  any  citation,  but  until  then,  accurate  citation  is  important  to  later 
+researchers who wish to find further resources. Since citations are unlikely to be 
+corrected after formal publication, the cite-checking process is probably the last 
+chance to get them right.
+¶17 The ephemeral nature of some online drafts is also a concern. Upon formal 
+publication, most articles are reproduced in paper copies distributed to libraries 
+and in digital copies hosted by proprietary databases or institutional web sites. This 
+comparatively widespread distribution to institutions means that an article will be 
+retrievable, even decades after publication. Draft articles are not generally collected 
+or retained to this extent, which reduces the likelihood that they will be available 
+years into the future. Authors may choose to delete their drafts at some point, or the 
+sites hosting them may purge drafts or simply cease operating. Without clear label-
+ing of versions, researchers may rely on draft articles that are prone to vanishing 
+into the ether.
+¶18 Other scholarly disciplines have worked to develop a standard nomencla-
+ture for article versions. PubMed, a major database of biomedical literature, has 
+instituted standards for clearly labeling revised articles.26 The National Information 
+Standards Organization (NISO) developed recommended standards for distin-
+guishing between different versions of scholarly articles.27 The NISO-recommended 
+practice provides for seven possible article versions: an author’s original draft, a 
+submitted manuscript under review, an accepted manuscript, a proof, a version of 
+record, a corrected version of record, and an enhanced version of record.28 This 
+standard is based on the process of an academic journal that uses peer review to 
+select articles. It also anticipates publishers later making corrections to articles or 
+adding enhancements, such as supplementary data.
+¶19 The NISO-recommended practice is instructive for law journals, but it does 
+not correspond perfectly to law journal publishing practices. First, most law jour-
+nals do not ask outside reviewers to help decide which articles to publish. Authors 
+can submit to only one peer-reviewed journal at a time, while most law journals 
+  25.  For discussion of automatic reference linking by a computer scientist, see DonnA bergmArk, 
+AuTomATic exTrAcTion of reference linking informATion from online DocumenTs (Cornell Univ. 
+Comp. Sci. Tech. Rep. 2000-1821, 2000), available at http://hdl.handle.net/1813/5809.
+  26.  Sarah Torre, Versioning in PubMed, nlm Tech. bull. no. 384, e6 (Jan./Feb. 2012), http://
+www.nlm.nih.gov/pubs/techbull/jf12/jf12_pm_versioning.html, archived at http://www.webcitation 
+.org/67X2vTUNl.
+  27.  niso/AlPsP JAv Tech. working grouP, JournAl ArTicle versions (JAv) (Apr. 2008), 
+available at http://www.niso.org/publications/rp/RP-8-2008.pdf, archived at http://www.webcitation 
+.org/67X2xSkSd.
+  28.  Todd Carpenter, Are These Two Versions the Same? Functional Equivalence and Article Version, 
+AgAinsT The grAin, Apr. 2011, at 16, 16.390 LAW LIBRARY JOURNAL Vol. 104:3  [2012-28]
+accept papers that have been simultaneously submitted to other journals. Authors 
+may also continue revising their papers after submission. Thus, the distinctions 
+between an author’s original draft and submitted manuscripts are not very clear.
+¶20 Law journals generally delegate responsibility for preservation of published 
+articles to vendors such as LexisNexis, Westlaw, and Hein (which also handles most 
+orders for print back issues), and law libraries that keep print and digital copies. 
+Once an article is published, most law journals are not directly responsible for 
+preservation and enhancement, so the corrected and enhanced versions of record 
+designations are unlikely to be used. Authors, however, may very well update or 
+correct their papers after formal publication.
+¶21 Law librarians can help address article version ambiguity in at least three 
+ways. First, librarians can assist journals with establishing clear policies on article 
+versions. Some journals’ publication agreements distinguish between a draft (any 
+version before formal publication) and a published version (the article as formally 
+published, with no indication that later revision is anticipated). The agreements 
+authorize authors to post drafts on SSRN or personal web sites. At least one pub-
+lisher asks authors to replace all posted drafts with the formally published ver-
+sion.29 These divergent practices seem to reflect differing views on how journals 
+should best protect their subscription revenue and brand reputation.
+¶22 An improved policy could permit online publication of both drafts and 
+versions of record, but require that all be clearly marked so researchers know what 
+stage of the publication process the paper they are reading represents. The seven 
+categories of the NISO-recommended practice are probably more extensive than 
+law journals need, but the draft/published dichotomy is too simplistic. A possible 
+compromise could include four categories: an author’s draft that has not been vet-
+ted or edited by a journal (successive drafts in this stage could be denoted by 
+ascending numbers, e.g., version 3 or draft 2.5); an edited manuscript that has been 
+proofread and, most importantly, cite-checked by journal staff, letting researchers 
+know the sources have been independently verified; a version of record that has 
+been approved by both the author and the journal, leading to what is traditionally 
+thought of as formal publication; and, finally, a revised article that has been cor-
+rected or updated by either the author or the journal. If changes are made to an 
+article after the version of record has been published, the party responsible for the 
+update (author or journal) should be clearly indicated so researchers know the 
+revised paper’s provenance.
+¶23 This, of course, is merely a suggestion, but a standard practice that reflects 
+reasoned agreements in the legal publishing community would be valuable. Librar-
+ians, with their expertise in organizing and accessing multiple versions of the same 
+  29.  The University of Chicago Press Guidelines for Journal Authors’ Rights, univ. of chicAgo 
+Press, http://www.press.uchicago.edu/journals/jrnl_rights.html, archived at http://www.webcitation 
+.org/67X34Nm3M (“To avoid citation confusion, we discourage online posting of preprints and 
+working papers. If you choose to submit a prepublication version of your accepted paper to a non-
+commercial, discipline-specific preprint or working paper archive, however, we require that appropri-
+ate credit be given to the journal as described above and ask you to remove the working paper from 
+the archive after your article is published or replace it with the published version.”). See also Keele, 
+supra note 11, at 275, ¶ 21.Vol. 104:3  [2012-28] HOW LIBRARIANS CAN HELP IMPROVE LAW JOURNAL PUBLISHING 391
+intellectual item (such as multiple editions of a treatise or the many versions of a 
+bill that are created as it progresses through the legislative process), are well suited 
+to helping journals adopt version-labeling policies that reduce confusion and ambi-
+guity regarding article versions.
+¶24 Second, librarians can educate authors about the value of clearly indicating 
+the publication status of their papers. If librarians are responsible for posting 
+papers to SSRN, bepress, or institutional repositories, they can indicate the version 
+in the article’s metadata.
+¶25 Third, librarians can facilitate collection of faculty draft papers. Just as 
+hard-copy faculty papers are often collected in school archives, so digital drafts 
+posted online can be retained to more fully document an author’s scholarly record. 
+Each library’s collection of digital drafts would be unique and an expression of each 
+faculty’s distinct scholarly achievements. Library collection of drafts would increase 
+demand for a consistent version-marking system and raise author awareness of its 
+value.
+¶26 Clear indication of article versions falls into the realm of administrative 
+practices that many journal editors may not think of, or find too dull to address. An 
+intuitive and substantively consistent system of indicating article versions will ease 
+access and evaluation of journal articles. This kind of bibliographic infrastructure 
+is precisely the sort of thing librarians should help build.
+Preventing Link Rot with Persistent Identifiers
+¶27 Another challenge presented by digital resources is link rot, or uniform 
+resource locators (URLs) that no longer direct researchers to the correct online 
+resource. In the dynamic online environment that exists today, as resources are 
+altered, moved, or deleted, link rot is inevitable. Several studies have indicated that 
+citations  in  law  journal  articles  to  online  resources  often  contain  short-lived 
+URLs.30 These broken links are, at best, an annoyance for researchers who must find 
+the resource through another access point. At worst, broken links undermine an 
+article’s soundness by removing support for its assertions. Journals can reduce the 
+likelihood of broken links to online copies of their articles by assigning and main-
+taining persistent identifiers. Unlike URLs, which point to a physical spot on a 
+computer, persistent identifiers point to the resource itself, regardless of whether 
+the resource moves to another location. A physical analog is the International Stan-
+dard Book Number (ISBN)—no matter what shelf a book is assigned to, the ISBN 
+identifies the same book.
+¶28 Several persistent identifier systems exist, including Handles, Persistent 
+Uniform Resource Locators (PURLs), Archival Resource Keys, and Digital Object 
+  30.  Simon Canick, Availability of Works Cited in Recent Law Review Articles on LEXIS, Westlaw, the 
+Internet, and Other Databases, 21 legAl reference services Q., nos. 2/3, 2002, at 55; Helane E. Davis, 
+Keeping Validity in Cite: Web Resources Cited in Select Washington Law Reviews, 2001–03, 98 lAw libr. 
+J. 639, 2006 lAw libr. J. 38; E. Dana Neacsu, Legal Scholarship and Digital Publishing: Has Anything 
+Changed in the Way We Do Legal Research?, 21 legAl reference services Q., nos. 2/3, 2002, at 105; 
+Mary Rumsey, Runaway Train: Problems of Permanence, Accessibility, and Stability in the Use of Web 
+Sources in Law Review Citations, 94 lAw libr. J. 27, 2002 lAw libr. J. 2.392 LAW LIBRARY JOURNAL Vol. 104:3  [2012-28]
+Identifiers (DOIs).31 DOIs have achieved a large measure of acceptance among 
+scholarly publishers, including a few that publish journals in law and other fields. 
+As of May 2012, almost fifty-four million DOIs had been registered with CrossRef, 
+the DOI registration agency for scholarly publishers.32 PURLs have been adopted 
+by the Government Printing Office to provide more reliable access to government 
+publications.33 While they differ in their operational details, the basic principle 
+behind these persistent identifiers is that an organization acts as an intermediary 
+between the researcher and the sought resource. A central index connects the iden-
+tifier with the current location of the resource, so even if a resource moves due to 
+a web site redesign or change in resource ownership, a researcher using the identi-
+fier will be able to find the resource.34
+¶29 No legal citation guide requires using persistent identifiers (although both 
+the Bluebook and the ALWD Citation Manual recommend using unique identifiers 
+in commercial databases35), and law journals generally have not used DOIs in foot-
+notes, even when DOIs exist for cited articles.36 Journals are thus forgoing mecha-
+nisms that could help them ensure their articles remain easily retrievable online, 
+even as the journal web site undergoes redesigns and updates. Librarians can 
+encourage journal editors both to prefer using persistent identifiers in citations and 
+to assign and maintain identifiers to their own articles. Persistent identifier systems 
+rely on long-term maintenance and updating. The short terms of journal editors 
+make them unlikely champions of such ongoing endeavors. Librarians’ more estab-
+lished resources and professional ethos make them much better equipped to han-
+dle assignment and updating of persistent identifiers. Miller suggests establishing a 
+foundation that will preserve journal content and provide stable links.37 This ambi-
+tious proposal supports the idea that projects that require long-term maintenance, 
+like persistent identifiers, require organizations designed to function much longer 
+than a student editorial board.
+¶30 Perhaps librarians could offer this as a publication service to the journals. 
+Journals could join CrossRef and register DOIs, with librarians advising or taking 
+primary administrative responsibility for DOI management. Such a service would 
+require additional resources to cover CrossRef membership fees and technical 
+expertise, so a method for distributing costs through an existing or new consor-
+tium might make this more practical for law journals. The California Digital 
+  31.  For more on this, see Susan Lyons, Persistent Identification of Electronic Documents and the 
+Future of Footnotes, 97 lAw libr. J. 681, 2005 lAw libr. J. 42.
+  32.  CrossRef  Indicators,  crossref,  http://crossref.org/01company/crossref_indicators.html, 
+archived at http://www.webcitation.org/67X4D7WBz.
+  33.  Linking to Federal Resources Using Persistent Uniform Resource Locators (PURLs), fDlP Desk-
+ToP (2010), http://www.fdlp.gov/collections/building-collections/614-purls, archived at http://www 
+.webcitation.org/67X4ENhvM.
+  34.  For more information on DOIs, see Patricia Feeney, DOIs for Journals: Linking and Beyond, 
+info. sTAnDArDs Q., Summer 2010, at 27.
+  35.  The bluebook: A uniform sysTem of ciTATion R. 18.3.1 (19th ed. 2010); Ass’n of legAl 
+wriTing Dirs. & DArby Dickerson, AlwD ciTATion mAnuAl R. 39.1 (4th ed. 2010).
+  36.  Benjamin J. Keele, What If Law Journal Citations Included Digital Object Identifiers? A 
+Snapshot of Major Law Journals (Jan. 2010), http://works.bepress.com/aallcallforpapers/65.
+  37.  Miller, supra note 9.Vol. 104:3  [2012-28] HOW LIBRARIANS CAN HELP IMPROVE LAW JOURNAL PUBLISHING 393
+Library’s EZID provides persistent identifiers for documents and data sets for 
+researchers and could be a model for law libraries.38 Bepress’s DigitalCommons 
+platform is a common tool for publishing law journals online. Law libraries consti-
+tute a major customer base for DigitalCommons, and librarians could encourage 
+bepress and other publishing vendors to include support for persistent identifiers. 
+While law journals in DigitalCommons do not use DOIs at present, the article 
+URLs are at least consistently designed and therefore less likely to change than 
+URLs for academic or commercially hosted web sites.
+Plagiarism Detection
+¶31 Journals’ interest in furthering scholarly research and education leads them 
+to require that all articles be original (i.e., created by the author and not previously 
+formally published) at the time of publication. Virtually all journal publication 
+agreements ask authors to warrant that the article is original and does not infringe 
+on anyone else’s copyright. The National Conference of Law Reviews’ Model Code 
+of Ethics notes that authors have a duty to “produce manuscripts through the use of 
+the law review author’s own talents, skills, knowledge, creativity, mental processes, 
+research, and time.”39 It appears no studies have been conducted to determine how 
+common plagiarism is in law journal articles. Whether it is common or rare, 
+though, any plagiarism is a serious matter.
+¶32 The precise definition of plagiarism is subject to some debate, but Terri 
+LeClercq offers this definition in the context of academic institutions: “Plagiarism 
+means taking the literary property of another without attribution, passing it off as 
+one’s own, and reaping from its use the unearned benefit from an academic 
+institution.”40 A determination of whether something amounts to plagiarism can be 
+difficult in close cases, but one can easily imagine copying that is clearly plagiarism, 
+such as replicating the entire body of another article without attribution. Plagia-
+rism in law journals undermines journals’ common mission to advance legal 
+thought through publishing original contributions and breaks readers’ trust in 
+journals and authors that represent their articles as original.41
+¶33 Especially difficult for law journal editors are instances of duplicate publi-
+cation, also called recycling and self-plagiarism. Some authors reuse (verbatim or 
+with minor edits) parts of their own published work in new articles without 
+acknowledging the earlier publication. In these instances, the author’s work is not 
+being misappropriated without her knowledge. The concerns, rather, are that the 
+scholarly debate is not advanced and that readers are misled regarding the prove-
+  38.  UC3EZID: Long Term Identifiers Made Easy, cAlif. DigiTAl librAry, http://www.cdlib.org 
+/uc3/ezid/, archived at http://www.webcitation.org/67XYa9qz4.
+  39.  Closen & Jarvis, supra note 13, at 522.
+  40.  Terri LeClercq, Failure to Teach: Due Process and Law School Plagiarism, 49 J. legAl eDuc. 
+236, 244 (1999). A well-researched discussion of plagiarism in higher education is Audrey Wolfson 
+Latourette, Plagiarism: Legal and Ethical Implications for the University, 37 J.c. & u.l. 1 (2010).
+  41.  Deborah R. Gerhardt, Plagiarism in Cyberspace: Learning the Rules of Recycling Content with a 
+View Towards Nurturing Academic Trust in an Electronic World, 12 rich. J.l. & Tech. 10, ¶ 33 (2006), 
+http://law.richmond.edu/jolt/v12i3/article10.pdf.394 LAW LIBRARY JOURNAL Vol. 104:3  [2012-28]
+nance of the article’s arguments.42 Law journal articles are important factors in law 
+school tenure and promotion decisions, and authors who recycle papers may gain 
+an unfair professional advantage. Editors should be careful to maintain the integ-
+rity of the publication process and scholarly record.
+¶34 Extensive databases of articles have made greater plagiarism detection 
+efforts possible. Public announcements that accepted articles will be checked for 
+plagiarism before publication may deter submissions with lifted material. The 
+most common detection tool is TurnItIn,43 a program by iThenticate.44 For jour-
+nals that participate in CrossRef and assign DOIs to their articles, a service called 
+CrossCheck, also using iThenticate’s resources, is available.45 LexisNexis also offers 
+SafeAssign, a service that checks submitted articles against several LexisNexis data-
+bases.46 Unfortunately, none of these databases appears to have comprehensive 
+coverage of law journal articles. TurnItIn is intended primarily for checking under-
+graduate course papers, and iThenticate’s product for academic journals does not 
+include student-edited law journals. LexisNexis’s SafeAssign product includes the 
+ProQuest ABI/INFORM database (a business literature database), articles from the 
+top five hundred law reviews (with coverage back to 2000), papers submitted 
+through Blackboard, and articles available on the public web, which may include 
+some other law journals that make their issues available online.47
+¶35 Despite the lack of a comprehensive plagiarism-checking solution for law 
+journals, editors may detect copying to some extent when they cite-check accepted 
+articles (although finding potential misconduct after an article is accepted leads to 
+awkward conversations with the author) and when they conduct preemption checks 
+to ensure that the article’s thesis is an original contribution to the literature. Librar-
+ians can offer information on plagiarism-checking services and methods during 
+journal training. Even well-crafted searches in Westlaw, LexisNexis, HeinOnline, and 
+Google Scholar can be valuable parts of a journal’s due diligence.
+¶36 Journals also need policies for the unfortunate times when a paper is found 
+to be a product of plagiarism or duplicate publication. Clear guidelines should be 
+established so authors and staff have advance notice as to what copying will be 
+regarded as plagiarism. Unattributed copying of another’s work is generally unac-
+  42.  See richArD A. Posner, The liTTle book of PlAgiArism 43 (2007) (“Self-copying becomes 
+fraudulent and therefore plagiaristic only when the author represents his latest work to be newly 
+composed when in fact it is a copy of an earlier work of his that readers may have read.”); Patrick 
+M. Scanlon, Song from Myself: An Anatomy of Self-Plagiarism, 2 PlAgiAry: cross-DisciPlinAry sTuDs. 
+PlAgiArism, fAbricATion, & fAlsificATion 57, 63 (2007), available at http://hdl.handle.net/2027 
+/spo.5240451.0002.007 (“The ethical crux of self-plagiarism seems to be the extent to which the 
+words before us are original not only with the present author, unless otherwise noted, but with the 
+present publication as well.”).
+  43.  TurniTin, http://turnitin.com/en_us/home (last visited May 29, 2012).
+  44.  iThenTicATe, http://www.ithenticate.com (last visited May 25, 2012).
+  45.  CrossCheck, crossref, http://crossref.org/crosscheck, archived at http://www.webcitation 
+.org/67XYsO7Ww.
+  46.  SafeAssign  Plagiarism-Checking  Service,  lexisnexis  (2009),  http://www.lexisnexis.com 
+/documents/LawSchoolTutorials/20091102103551_small.pdf,  archived  at  http://www.webcitation 
+.org/67XYu0POt.
+  47.  Id.; e-mail from Shelley Landfair, LexisNexis Account Executive, to author Keele (Mar. 22, 
+2012) (on file with author).Vol. 104:3  [2012-28] HOW LIBRARIANS CAN HELP IMPROVE LAW JOURNAL PUBLISHING 395
+ceptable, while recycling one’s own past work is perhaps more tolerable. Indeed, 
+some limited copying of previously published language may be warranted when the 
+published and new papers come from a common line of research. Even then, 
+though, journals should insist on full disclosure of previously published work. This 
+solution allows the reader to be fully informed about the article’s origins and ben-
+efits readers by pointing them to relevant sources.48 If the recycling is too extensive, 
+editors may need to reject a submission or ask the author to withdraw or revise an 
+accepted paper due to lack of originality. A nightmare scenario for editors, finding 
+that a plagiarized or copyright-infringing paper has been published, might neces-
+sitate a retraction.49
+¶37 Librarians can help editors develop antiplagiarism policies and plagiarism-
+detection procedures. Science, technology, and medical journals have taken many 
+of these steps, and their experience may be instructive.50 Journals can also join the 
+Committee on Publication Ethics, a group of scholarly editors and publishers that 
+develops guidance on protecting the integrity of scholarly publishing.51
+Empirical Data Support
+¶38 Law journals are increasingly publishing articles that are empirical in 
+nature and based on data created by the authors or others.52 Articles based on 
+empirical data in student-edited journals are not generally submitted to the same 
+standards of review and challenges as articles in peer-reviewed journals.53 Many 
+academic law journal editors do not have backgrounds that permit them to ade-
+quately assess the methodology used in such works or to deal with the related issues 
+that arise with data. Librarians are uniquely positioned to support editorial, cura-
+tion, and metadata services that would help improve the quality and accessibility of 
+  48.  See Carol M. Bast & Linda B. Samuels, Plagiarism and Legal Scholarship in the Age of Informa-
+tion Sharing: The Need for Intellectual Honesty, 57 cATh. u. l. rev. 777, 810–11 (2008); Scanlon, supra 
+note 42, at 63.
+  49.  Various projects have evolved to address the problems of retraction. See, e.g., reTrAcTion 
+wATch, http://retractionwatch.wordpress.com, archived at http://www.webcitation.org/67XYwvFMM. 
+Retractions might be difficult in law review settings where editorial boards and student participants 
+are constantly changing.
+  50.  See Declan Butler, Journals Step up Plagiarism Policing, 466 nATure 167 (2010); Kirsty  
+Meddings, Credit Where Credit’s Due: Screening in Scholarly Publishing, 23 leArneD Publ’g 5 (2010).
+  51.  commiTTee on PublicATion eThics, http://publicationethics.org, archived at http://www 
+.webcitation.org/67XZ5sb59.
+  52.  Shari Seidman Diamond & Pam Mueller, Empirical Legal Scholarship in Law Reviews, 6 Ann. 
+rev. l. & soc. sci. 581, 587 (2010) (finding that nearly half of law review articles published in sixty law 
+reviews between 1998 and 2008 included some sort of empirical content, although original empirical 
+research was present in only about six percent of articles).
+  53.  Id. at 592 (“[L]aw reviews can generally offer a swift decision on whether the article will be 
+accepted and a short time line to publication, compared with the seemingly interminable waits that 
+many peer-reviewed journals impose on authors, often with the added burden of revise-and-resubmit 
+response that does not promise ultimate publication.”). See also Lee Epstein & Gary King, Building 
+an Infrastructure for Empirical Research in Law, 53 J. legAl eDuc. 311, 316–18 (2003) (lamenting the 
+problems inherent in student-edited law reviews without blind peer review and suggesting a review 
+model for these journals).396 LAW LIBRARY JOURNAL Vol. 104:3  [2012-28]
+such work and potentially improve its reputation among legal scholars and in the 
+world of scholarship in general.
+¶39 A select number of journals do provide some form of faculty review of 
+submitted articles,54 but we are not aware of many law school law reviews promot-
+ing submissions procedures or policies that provide or facilitate formal review by a 
+statistician or someone with a background in empirical work.55 While few libraries 
+have a source of empirical support among the library staff, they could coordinate 
+with members of the law school (or the larger university community if available) 
+to provide such services.56 Perhaps a consortium service could be coordinated 
+between librarians actively engaged in empirical legal studies, similar to the Peer 
+Reviewed Scholarship Marketplace (PRSM) project created by law school journals 
+for faculty review.57
+¶40 Another natural role for librarians is in the deposit of data sets associated 
+with journal articles to ensure the possibility of replication.58 For example, the 
+Institute for Quantitative Social Science (IQSS) at Harvard University provides a 
+service called Dataverse through which journals (or individual scholars) may 
+deposit data.59 Some law reviews have already experimented with depositing data 
+linked to their articles.60 While there has been discussion in law library circles 
+  54.  See Peer Review at Student-Edited Journals: Best Practices?, PrAwfsblAwg (Aug. 11, 2011, 2:25 
+P.m.),  http://prawfsblawg.blogs.com/prawfsblawg/2011/08/peer-review-at-student-edited-journals 
+-best-practices.html, archived at http://www.webcitation.org/67XZBxFAv; Prsm: Peer revieweD 
+scholArshiP mArkeTPlAce, http://www.legalpeerreview.org, archived at http://www.webcitation.org 
+/67XZFGNVS.
+  55.  A search of the submission policies of many of the law school law reviews yielded only a 
+few examples of journals that expressly state procedures for review of articles that are empirical 
+in nature. The UCLA Law Review offers empirical review: “The Law Review has access to the Law 
+School’s Empirical Research Group. The ERG is available to review an author’s empirical work should 
+the author express interest in this service.” Submissions, uclA lAw review, http://uclalawreview 
+.org/?page_id=40, archived at http://www.webcitation.org/67XZHzxvp. The NYU Law Review out-
+lines best practices for its authors and encourages deposit of data sets in its data repository. Law 
+Review:  Article  Submissions,  nyu  lAw,  http://www.law.nyu.edu/journals/lawreview/submissions 
+/index.htm, archived at http://www.webcitation.org/67XZKJ0d7. See also Michelle Pearse, An Update 
+on the Peer Reviewed Scholarship Marketplace, eT seQ. (Aug. 18, 2011), http://etseq.law.harvard 
+.edu/2011/08/an-update-on-the-peer-reviewed-scholarship-marketplace,  archived  at  http://www 
+.webcitation.org/67XZNga5n (noting that when asked about whether they have reviewers specifically 
+qualified to review empirical work, a PRSM administrator answered: “Only one of our potential 
+reviewers indicated that his expertise is ‘quantitative/empirical methods.’”).
+  56.  See Kevin Smith, Lightning in a Bottle: Libraries, Technology, and the Changing System of 
+Scholarly Communications, presentation at Charleston Conference, Charleston, S.C., Nov. 4, 2009, 
+http://www.katina.info/conference/video_smith.php (video at 28:42) (suggesting librarians with 
+subject expertise could manage the peer review process for publication).
+  57.  See PRSM, supra note 54.
+  58.  Many libraries (particularly in the sciences) have begun supporting data curation and 
+researchers’ development of data management plans as required for NSF funding. See e.g. Data Man-
+agement and Publishing, miT librAries, http://libraries.mit.edu/guides/subjects/data-management 
+/index.html, archived at http://www.webcitation.org/68GxxfIGH; Resources for Data Management 
+Planning, Ass’n of res. librAries, http://libraries.mit.edu/guides/subjects/data-management/index 
+.html, archived at http://www.webcitation.org/68Gwnb1rA.
+  59.  About the Project, The DATAverse neTwork ProJecT, http://thedata.org/book/about-project, 
+archived at http://www.webcitation.org/681rMM1Z1.
+  60.  At the time of this writing, the NYU Law Review and the Virginia Law Review have depos-
+ited data associated with some of their articles (“journal replication archives”) in Dataverse. NYU Vol. 104:3  [2012-28] HOW LIBRARIANS CAN HELP IMPROVE LAW JOURNAL PUBLISHING 397
+about preserving data from individual faculty members, there should be equal 
+interest in encouraging journals to collaborate with authors in making the data 
+associated with their publications available. In addition to advising on minimal 
+technical requirements for data preservation,61 librarians are uniquely situated to 
+develop rich metadata for the data sets that would increase discoverability and con-
+nections with other relevant information. Making data available and accessible and 
+preserving it would strengthen the quality of empirical legal scholarship.
+¶41 Sharing data for replication and further analysis is more common in other 
+areas of the social sciences.62 Making such activity the norm in academic legal 
+scholarship would help improve authors’ and journals’ standing with empiricists in 
+other fields.63 From a research perspective, librarians could help editors assess 
+whether or not methodologies are accurately used and explained. They could also 
+confirm understanding about human subject participation concerns (although this 
+onus could be on the author). Librarians could be more actively involved in experi-
+mentation with the visualization of data,64 mashing up the data with other content, 
+advising on rights and licensing issues,65 and facilitating consistent citation within 
+Law Review Dataverse, iQss DATAverse neTwork, http://dvn.iq.harvard.edu/dvn/dv/nyulawreview, 
+archived at http://www.webcitation.org/67XZYEeuC; Virginia Law Review Dataverse, iQss DATAverse 
+neTwork, http://dvn.iq.harvard.edu/dvn/dv/vlr, archived at http://www.webcitation.org/67XZgKL2f. 
+Georgetown Law Library recently released its own instance for use by individuals and its journals. 
+Sarah Rhodes, Georgetown Law Library Launches Dataverse Archive, Due Process: georgeTown lAw 
+librAry blog (Jan.12, 2012), http://www.ll.georgetown.edu/blog/index.cfm/2012/1/12/Georgetown 
+-Law-Library-Launches-Dataverse-Archive, archived at http://www.webcitation.org/68LGkgmGR.
+  61.  See Guide to Social Science Data Preparation and Archiving, inTer-univ. consorTium for 
+PoliTicAl & soc. reseArch (icPsr), http://www.icpsr.umich.edu/icpsrweb/content/ICPSR/access 
+/deposit/guide, archived at http://www.webcitation.org/67XZmJmkK.
+  62.  Several economics journals have adopted data availability policies. PhiliP glAnDon, rePorT 
+on The AmericAn economic review DATA AvAilAbiliTy comPliAnce ProJecT (Nov. 2010), available at 
+http://www.aeaweb.org/aer/2011_Data_Compliance_Report.pdf. Projects and scholarship about rep-
+lication in other social sciences also exist. See, e.g., Tom Bartlett, Is Psychology About to Come Undone?, 
+PercolATor (Apr. 17, 2012, 5:09 P.m.), http://chronicle.com/blogs/percolator/is-psychology-about 
+-to-come-undone/29045, archived at http://www.webcitation.org/67XZt1Dii (discussing a project 
+that plans to replicate every study published in three psychology journals during 2008).
+  63.  Lee Epstein & Gary King, The Rules of Inference, 69 u. chi. l. rev. 1, 130 (2002).
+  64.  Repositories such as Dataverse offer visualization tools within their repository environ-
+ment, but there are many other tools and free programming options for creating very sophisticated 
+visualizations. Tools include mAny eyes, http://www-958.ibm.com/software/data/cognos/manyeyes, 
+archived at http://www.webcitation.org/67XfMLLo3, which requires uploading of data, and visuAl.ly, 
+http://visual.ly, archived at http://www.webcitation.org/67XfNaZTf. The Computational Legal Stud-
+ies blog, http://computationallegalstudies.com, archived at http://www.webcitation.org/67XfRWa9m 
+offers wonderful examples of the potential for visualizations.
+  65.  Librarians  can  educate  journals  about  standards  and  best  practices  that  have  been 
+developed—sharing data in ways that are open and facilitate reuse, further research, and replica-
+tion. See oPen DATA commons, http://opendatacommons.org, archived at http://www.webcitation 
+.org/67XfUPFS5; oPen DATA hAnDbook, http://opendatahandbook.org, archived at http://www.web 
+citation.org/681rtF3iH.398 LAW LIBRARY JOURNAL Vol. 104:3  [2012-28]
+legal scholarship.66 Mandates for data deposit by organizations funding research in 
+the sciences and other areas could increasingly impact the social sciences.67
+Helping Law Journals Create Metadata
+¶42 While libraries have been helping to provide publishing platforms through 
+the use of institutional repositories and other services, there is room for librarians 
+(particularly those with cataloging, metadata, and subject expertise) to be even 
+more actively engaged in helping mark up content so that it is more easily discov-
+erable.68 This is particularly true in the context of the semantic web.69 Libraries are 
+already equipped to advise journals on technical formats, basic metadata elements, 
+and schema for their underlying journal content.70 There are, however, new proj-
+ects and concerns such as schema.org71 and linked (open) data72 that potentially 
+  66.  See Micah Altman & Gary King, Commentary, A Proposed Standard for the Scholarly 
+Citation  of  Quantitative  Data,  D-lib  mAg.,  Mar./Apr.  2007,  http://www.dlib.org/dlib/march07 
+/altman/03altman.html, archived at http://www.webcitation.org/67XfZXxoL; Toby Green, We Need 
+Publishing Standards for Data Sets and Data Tables, 22 leArneD Publ’g 325 (2009). Perhaps there is a 
+role for librarians to collaborate with the editors of the Bluebook to address uniform citation formats 
+for data.
+  67.  For example, the National Science Foundation requires grantees to submit data plans “except 
+where this is impossible or inappropriate. These plans should cover how and where these materials 
+will be stored at reasonable cost, and how access will be provided to other researchers, generally 
+at their cost.” Data Archiving Policy, nAT’l science founD., http://www.nsf.gov/sbe/ses/common 
+/archive.jsp,  archived  at  http://web.archive.org/web/20110714060548/http://www.nsf.gov/sbe/ses 
+/common/archive.jsp.
+  68.   See Valeri Craigle, Legal Scholarship in the Digital Domain: A Technical Roadmap for Imple-
+menting the Durham Statement, Tech. serv. l. libr., Dec. 2010, at 1, available at http://www.aallnet 
+.org/sis/tssis/tsll/36-02/36-02.pdf; Richard A. Leiter, The Leiter Perspective: Tech Services in a Digi-
+tal World, AAll sPecTrum, Nov. 2011, http://www.aallnet.org/main-menu/Publications/spectrum 
+/Vol-16/No-3/tech-services-in-digital-world.html,  archived  at  http://www.webcitation.org/67Xgh 
+3U8I (article available in online version only).
+  69.  Also referred to as Web 3.0, the semantic web focuses on linked data between sources and 
+incorporates the technologies “OWL [Web Ontology Language] (to build vocabularies, or “ontolo-
+gies”) and SKOS [Simple Knowledge Organization System] (for designing knowledge organiza-
+tion systems) . . . to enrich data with additional meaning, which allows more people (and more  
+machines) to do more with the data.” Semantic Web, w3c, http://www.w3.org/standards/semantic 
+web,  archived  at  http://www.webcitation.org/67XgjNPQr.  See  Michelle  Pearse,  Is  It  Time  for 
+Law Libraries to Collaborate on Description for Their Own Institutions’ Legal Scholarship?, vox 
+PoPulii (Sept. 30, 2011), http://blog.law.cornell.edu/voxpop/2011/09/30/is-it-time-for-law-libraries 
+-to-collaborate-on-description-for-their-own-institutions%E2%80%99-legal-scholarship;  see  also 
+generally APProAches To legAl onTologies (Giovanni Sartor et al., eds., 2010); bill coPe eT Al., 
+TowArDs A semAnTic web: connecTing knowleDge in AcADemic reseArch (2011); DAviD sTuArT, 
+fAciliTATing Access To The web of DATA: A guiDe for librAriAns (2011).
+  70.  See Robert Richards, The Use of Non-MARC Metadata in AALL Libraries: A Baseline Study, 
+103 lAw libr. J. 631, 2011 lAw libr. J. 38 (discussing the use of metadata for digital projects in law 
+libraries).
+  71.  schemA.org, http://www.schema.org, archived at http://www.webcitation.org/67XgoUfJU. 
+Participants have been generating a list of potential schema.org vocabulary extensions and improve-
+ments.  See  Web  Schemas/SchemaDotOrg  Proposals, w3c,  http://www.w3.org/wiki/WebSchemas 
+/SchemaDotOrgProposals, archived at http://www.webcitation.org/67XgtQQJP.
+  72.  The Library of Congress recently issued A bibliogrAPhic frAmework for The DigiTAl Age, 
+http://www.loc.gov/marc/transition/pdf/bibframework-10312011.pdf,  archived  at  http://www.web 
+citation.org/681sHpwkI, which embodies principles of linked data. For the past couple of years, it has Vol. 104:3  [2012-28] HOW LIBRARIANS CAN HELP IMPROVE LAW JOURNAL PUBLISHING 399
+affect how journals would want to structure their web sites for maximum visibility 
+and discoverability. While it remains to be seen how these standards will be adopted 
+by web sites (and eventually incorporated into repositories), law libraries could be 
+more actively engaged in helping journals determine whether their web-based  
+content should be compliant with these new standards just as they have applied 
+other standards in traditional institutional repositories.73 Libraries could also be 
+more engaged in making journals aware of accessibility issues for visually impaired 
+users on the web.74 They might also want to make certain that journals are aware of 
+projects related to identifying scholarship associated with particular scholars and 
+whether their journals are included in such services. These services include Google 
+Scholar Citations, Microsoft Academic Search, and Open Researcher and Contribu-
+tor ID (ORCID).75
+¶43 Librarians, however, could also contribute more significantly to the devel-
+opment of underlying taxonomies and ontologies that could then be consistently 
+applied to enrich the metadata and make them more valuable. Since librarians 
+often review articles with students and generally know how researchers look for 
+information, they are in a unique position to contribute substantively to the terms 
+and language that ensure accessibility and discoverability for relevant user groups. 
+Some libraries use existing taxonomies provided by systems such as bepress’s Digi-
+tal Commons and add additional keywords provided by authors or informed by 
+some internal taxonomy used by the library. Academic law libraries could develop 
+taxonomies and ontologies that could be shared among law schools and scholars,76 
+also released its subject headings as linked data. Library of Congress Subject Headings, librAry of cong., 
+http://id.loc.gov/authorities/subjects.html, archived at http://www.webcitation.org/67Xh20oKz.
+  73.  “In the repository domain there are several standards that are widely implemented and 
+ensure interoperability, the most well known being Open Archives Initiative Protocol for Meta-
+data Harvesting (OAI-PMH) which is used as a common interface for harvesting metadata from 
+repositories.” OAI-PMH Harvesting, Jisc infoneT, http://www.jiscinfonet.ac.uk/infokits/repositories 
+/technical-framework/oai-pmh, archived at http://www.webcitation.org/68LHbjmXk.
+  74.  See John Gardner et al., Making Journals Accessible to the Visually Impaired: The Future Is Near, 
+22 leArneD Publ’g 314 (2009). The DAISY Consortium is an “international association that develops, 
+maintains and promotes international DAISY (Digital Accessible Information System) Standards.” 
+About Us, DAisy consorTium, http://www.daisy.org/about_us, archived at http://www.webcitation 
+.org/68J9cxn6W.
+  75.  Both Google Scholar Citations (http://scholar.google.com/citations) and Microsoft Academic 
+Search (http://academic.research.microsoft.com) have begun offering scholar profiles with prelimi-
+nary citations and data based on their search engines/sources. See Google Scholar Citations Open to All, 
+google scholAr blog (Nov. 16, 2011, 8:30 P.m.), http://googlescholar.blogspot.com/2011/11/google 
+-scholar-citations-open-to-all.html, archived at http://www.webcitation.org/67XhEnAIx. ORCID is 
+a collaborative project among academic publishers, repositories, and others to solve the problem of 
+author ambiguity by developing a central registry of unique identifiers for individual researchers and 
+linking them to other author identification schemes. Welcome to ORCID, orciD, http://about.orcid 
+.org, archived at http://www.webcitation.org/67XhJkNmH.
+  76.  Some repository systems, like bepress’s DigitalCommons, already offer set subject head-
+ings. Some may argue that additional efforts are unwarranted, as one could simply adopt preexist-
+ing, commonly used subjects such as the Library of Congress subject headings. But journals and 
+repository users do not consistently adopt these options. They are also often limited in their ability 
+to capture deep knowledge of a subject area and create connections between ideas. Other disciplines 
+have developed similar projects to make data discoverable. See, e.g., The NeuroCommons Project,  
+sciencecommons, http://neurocommons.org, archived at http://www.webcitation.org/67XhStkcn.400 LAW LIBRARY JOURNAL Vol. 104:3  [2012-28]
+built more in response to how scholars look for information.77 For example, some-
+thing as simple as geographic information included in the metadata could enable 
+consistent access to the growing amount of foreign and comparative law work 
+being done in U.S. law journals. A shared taxonomy/ontology emanating from the 
+legal academy could also be “mapped” to taxonomies/ontologies developed for 
+more practical or public uses such as projects in the open law movement78 or inter-
+nal governmental use.79 It would facilitate cross-searching metadata and connect-
+ing content between varied systems of legal knowledge. A variety of users could 
+potentially search across the same content (e.g., law reviews and primary law) from 
+their own situational perspective (e.g., pro se or academic).80 Authors could also be 
+encouraged  to  create  their  own  metadata  (and  apply  a  supplied  ontology/ 
+taxonomy) in the authoring process through tools like Microsoft Word add-ins.81 
+There is an enthusiastic legal informatics community that could potentially sup-
+port and mentor such efforts.
+¶44 Partnering with the open law movement and coordinating activities with 
+other journals would help create a larger system that could be truly open and 
+interoperable, providing a potentially valuable resource to all users. Most law jour-
+nals already practice consistent footnote formatting. Libraries could help law jour-
+nals develop consistent technical formatting of footnotes to facilitate linking to 
+open law sources and to each other through tools such as ParsIt or other parsers.82 
+  77.  The importance of understanding the research habits of our scholars is discussed in Stepha-
+nie Davidson, Way Beyond Legal Research: Understanding the Research Habits of Legal Scholars, 102 
+lAw libr. J. 561, 2010 lAw libr. J. 32.
+  78.  Projects focusing on open access to primary law include Law.gov (http://law.resource.org), 
+the Legal Information Institute (http://www.law.cornell.edu), Justia (http://www.justia.com), and the 
+Public Library of Law (http://www.plol.org). While open access to law and legal information projects 
+might focus more on access to information (and creation of semantic language and metadata) from 
+the perspective of the public or practitioners, academic law libraries could partner with these proj-
+ects to map ontologies created for practical or public use to a potential ontology that reflects more 
+academic approaches to law.
+Examples of ontologies related to law more generally can be found in Robert Richards, 
+Legal Information Systems & Legal Informatics Resources: Knowledge Representation: Legal (Selected), 
+http://www.personal.psu.edu/rcr5122/Ontologies.html,  archived  at  http://www.webcitation.org 
+/67XhYEUMx, and Robert Richards, Legal Information Systems & Legal Informatics Resources: 
+Knowledge Representation: General Resources with Application to Law (Selected), http://www.personal 
+.psu.edu/rcr5122/OntologiesGeneral.html,  archived  at  http://www.webcitation.org/67XhaBTGy. 
+Experiments like Jureeka (an add-on for the Firefox browser) permit searchers to find citations in 
+such projects, but marking up content appropriately could facilitate more direct connections between 
+the primary law and scholarship and annotations related to free sources of law.
+  79.  See Manjula Shenoy K et al., Interoperability Using Ontology Mapping, 5 J. comPuTer sci. & 
+engineering, Jan. 2011, https://sites.google.com/site/jcseuk/volume-5-issue-1-january-2011.
+  80.  James Milles has argued for law schools to devote more resources to developing materials 
+for practitioners. James G. Milles, Redefining Open Access for the Legal Information Market, 98 lAw 
+libr. J. 619, 2006 lAw libr. J. 37. At the very least, libraries could develop metadata for content that 
+is more accessible to public use and interoperable with systems committed to open access, primary 
+legal information.
+  81.  Ontology  Add-In  for Word,  microsofT  reseArch,  http://research.microsoft.com/en-us 
+/projects/ontology, archived at http://www.webcitation.org/67XhdNrHn.
+  82.  Citation parsers break document citations into fielded data. Qing Zhang et al., Parsing Cita-
+tions in Biomedical Articles Using Conditional Random Fields, 41 comPuTers biology & meD. 190 
+(2011). FreeCite, brown univ., http://freecite.library.brown.edu, archived at http://www.webcitation 
+.org/67XhhKLLH, and PArsciT, http://wing.comp.nus.edu.sg/parsCit, archived at http://www.web Vol. 104:3  [2012-28] HOW LIBRARIANS CAN HELP IMPROVE LAW JOURNAL PUBLISHING 401
+Such work could also facilitate valuable metrics among journals beyond citation 
+tools that are restricted to use in proprietary services (such as Web of Science, Sci-
+Verse, KeyCite, Shepard’s, and HeinOnline’s ScholarCheck), or contain unstable 
+metadata and source data like Google Scholar and Microsoft Academic Search.83
+¶45 In addition to helping journals develop content formatted to enable cita-
+tion extraction, libraries could help them develop ways to track statistics about 
+downloads of their content from their own interfaces, if they are not already using 
+a product that provides that functionality. A project called PIRUS2 has developed a 
+service to allow repositories and publishers to create standards for repository statis-
+tics.84 These are similar to the COUNTER standard developed for e-journal and 
+database vendors85 and could result in some “ubermetric” across repositories of 
+scholarly content. Libraries can also help journals learn about tools to measure use 
+of their web content, particularly if such advice is not available from a central IT 
+department hosting the page(s).86
+¶46 Librarians can educate online journals (or those that do not use commer-
+cial composition services) about the perils of stray metadata lurking in documents. 
+While there has been a great deal of discussion of this topic in the legal practice 
+arena,87 there has not been as much discussion in the areas of journal publishing 
+and repositories. In addition to consulting on the creation of descriptive metadata, 
+librarians could raise awareness of metadata that are sometimes unintentionally 
+included. Journals should understand that underlying metadata may be generated 
+in the production process, particularly for online-only journals that post PDFs to 
+their web sites without professional production or formatting. Journals that use a 
+citation.org/67XhjLufs, are examples of applications for parsing citations. Parsers may be used for 
+footnote/citation extraction. SSRN recently launched its CiteReader project, which extracts refer-
+ences automatically, after which they are manually proofread. Gregg Gordon, SSRN’s CiteReader 
+Project Update, ssrn: Tomorrow’s blog ToDAy, Apr. 26, 2011, http://ssrnblog.com/2011/04/26/ssrns 
+-citereader-project-update, archived at http://www.webcitation.org/68H7GQ5RN.
+  83.  As journals move to a web-publishing environment and standards improve for marking up 
+content for the web, mining and citation analysis might become more precise. See Kayvan Kousha & 
+Mike Thelwall, Google Scholar Citations and Google Web/URL Citations: A Multi-Discipline Exploratory 
+Analysis, 58 J. Am. soc’y info. sci. & Tech. 1055 (2007) (comparing citations in traditional citation 
+sources (Web of Science) to Google Scholar and to citations found via web searches). See also Fred R. 
+Shapiro & Michelle Pearse, The Most-Cited Law Review Articles of All Time, 102 mich. l. rev. 1483, 
+1508–20 (2012) (discussing new forms of citation metrics).
+  84.  The  Pirus2  ProJecT,  http://www.cranfieldlibrary.cranfield.ac.uk/pirus2/tiki-index.php, 
+archived at http://www.webcitation.org/67Xhq0EUP.
+  85.  counTer: counTing online usAge of neTworkeD elecTronic resources, http://www 
+.projectcounter.org (last visited May 29, 2012).
+  86.  Librarians can also make students mindful of the downside of using services like Google 
+Analytics, which exposes visitors’ data to Google for its own use.
+  87.  See, e.g., Emily N. Litzinger, The Ethical Dilemma of Scrubbing Metadata: The Pathway to a 
+Better Approach, 36 n. ky. l. rev. 611 (2009); Note, Adam K. Israel, To Scrub or Not to Scrub: The 
+Ethical Implications of Metadata and Electronic Data Creation, Exchange, and Discovery, 60 AlA. l. rev. 
+469 (2009); Metadata Ethics Opinions Around the U.S., http://www.americanbar.org/groups/depart 
+ments_offices/legal_technology_resources/resources/charts_fyis/metadatachart2.html,  archived  at 
+http://www.webcitation.org/68JCPvFcG; Jim Calloway, Metadata—What Is It and What Are My Ethi-
+cal Duties?, llrx.com, Jan. 5, 2009, http://www.llrx.com/features/metadata.htm, archived at http://
+www.webcitation.org/67Xi2KzCe.402 LAW LIBRARY JOURNAL Vol. 104:3  [2012-28]
+composition/production service such as Christensen most probably have metadata 
+scrubbed out during the formatting process.88 But journals that publish on their 
+own should know that metadata might remain in Word documents and ultimately 
+PDFs if not removed and that this information could ultimately be indexed and 
+accessible through search engines.
+Preservation of At-Risk Cited Sources
+¶47 In addition to helping journals address the risk level of their own content, 
+libraries should educate journals about the volatility of the web sites referenced in 
+the footnotes in their articles.89 There are various ways libraries could help journals 
+deal with this problem, depending on the resources available and scope of the 
+library’s activities.90 Libraries could suggest that journals investigate using a service 
+like WebCite, which journals (and authors) may use to ensure that a copy of a cited 
+web site remains accessible to users.91 Journals could also be encouraged to cite 
+stable URLs for documents92 contained in resources such as the Chesapeake Proj-
+ect93 or the Internet Archive.94 For items in the public domain (or to which the 
+copyright is owned), there is a tool called Zotero Commons with which users can 
+contribute documents to the Internet Archive.95 For certain types of resources that 
+fall within the scope of a library’s collection development policy, the library might 
+  88.  According to Gayle Smith of Joe Christensen, Inc, “If [we] perform[] the formatting of 
+journal text in our composition software, we extract from the journal file only the data we need in 
+order to put ink on paper.  Our internal working file will not contain any of the metadata from the 
+journal-submitted file.” E-mail from Gayle Smith to author Pearse (June 12, 2012, 5:30 P.m.) (on file 
+with author). The same may be true for other commercial journal publishers.
+  89.  See sources cited supra note 30.
+  90.  Libraries are also in a position to educate journals about the copyright complexities of pre-
+serving information on another web site.
+  91.  WebCite allows individual authors and journals to “freeze” web pages they use as references. 
+It takes a snapshot of a cited webpage and stores a copy of the html including images (or any other 
+files, for example pdf) on the webcitation server.
+The caching (archiving) process can be initiated prospectively (before publication) by the 
+author or the editor, copyeditor or publisher at the time he/she authors, edits, or publishes the 
+citing document.
+WebCite Consortium FAQ, webciTe, http://www.webcitation.org/faq (last visited May 28, 2012). Web-
+Cite also has the capacity to crawl and permit retrospective, postpublication archiving if an author 
+or journal submits an XML file of the published article. According to WebCite’s list of members, 
+only two law journals are members. WebCite Consortium Members, webciTe, http://www.webcitation 
+.org/members (last visited May 28, 2012). It is unclear how well this service works with dynamic web 
+pages and how stable the service is. Based on the experience of archiving web pages on WebCite for 
+this article, its replication accuracy is dependent on how the original web page is coded. If a web site 
+prohibits web crawlers, then WebCite will not archive the page.
+  92.  Services like Memento allow people to look for archived web pages in several sources. See 
+memenTo: ADDing Time To The web, http://www.mementoweb.org, archived at http://www.web 
+citation.org/67XiAN2SI.
+  93.  The Chesapeake Digital Preservation Group, legAl info. Archive, http://cdm16064.content 
+dm.oclc.org/cdm/ (last visited May 29, 2012).
+  94.  inTerneT Archive, http://archive.org (last visited May 29, 2012).
+  95.  Zotero Commons, zoTero, http://www.zotero.org/support/commons (last visited June 2, 
+2012).Vol. 104:3  [2012-28] HOW LIBRARIANS CAN HELP IMPROVE LAW JOURNAL PUBLISHING 403
+want to consider archiving the sources and adding them to its collection if it is 
+already providing web archiving services. Finally, librarians could work with editors 
+of the Bluebook to develop further guidance on Rule 18.2(h) (and Rule 18 gener-
+ally) for best practices.96
+Facilitating Journal Inclusion in Traditional  
+Bibliographic and Indexing Systems
+¶48 Law libraries could become more proactive in facilitating inclusion of their 
+journals in traditional indexes, full-text databases, and other traditional biblio-
+graphic tools used by libraries and researchers. Some journals do not have central 
+offices to help them manage administrative matters, and changes in the staffing 
+each year make protracted activities difficult to track. Libraries could help ensure 
+consistency and completion of such tasks. At present, there is often a delay in get-
+ting journals into such services, and policies about inclusion of online-only jour-
+nals (or web-only companion content for print journals) are sometimes inconsis-
+tent or unclear.97
+¶49 Law journals should be guided in registering copyright and registering for 
+an International Standard Serial Number (ISSN).98 For open access journals, the 
+journal should be encouraged to contribute its metadata and contents to the Direc-
+tory  of  Open Access  Journals  (DOAJ).99  Registering  existence  of  the  content 
+through a service beyond a general aggregator like HeinOnline can drive traffic to 
+the journal’s web site. With their extensive knowledge of research sources, librarians 
+are also well positioned to help identify both traditional legal and interdisciplinary 
+full-text and indexing/abstracting databases that might be interested in the jour-
+nal’s content.
+¶50 Inclusion in these systems facilitates inclusion in knowledge bases for  
+vendor-provided tools such as web scale discovery systems and open URL link 
+resolvers.100 Libraries could support use, reference, and promotion of journal con-
+  96.  Rule 18.2(h) encourages journals to print out copies of web sources, specifically noting that it 
+is not necessary to indicate the location of an archival copy in the citation. The bluebook: A uniform 
+sysTem of ciTATion, supra note 35, at R. 18.2(h). Some libraries keep these print files for the journals 
+at their institution. Libraries could work with editors of the new edition of the Bluebook to enumer-
+ate trusted repositories with stable DOIs for archived copies in lieu of printing copies. While the 
+Internet Archive’s URL is included in the Bluebook rule’s example, encouragement of the use of these 
+permanent URLs and links from trusted repositories could be included in the rule. See also Cheryl 
+Nyberg, Cite-Checking and Library Research, gAllAgher lAw librAry (Feb. 14, 2007), http://lib.law 
+.washington.edu/ref/citecheck.html, archived at http://www.webcitation.org/67XiEdXxz (raising the 
+issue of permanent URLs and commenting on a previous version of rule 18).
+  97.  See Xiaotian Chen, Web-Exclusive Articles in Traditionally Print Periodicals, 33 seriAls rev. 
+224 (2007); Edward T. Hart, Indexing Open Access Law Journals . . . or Maybe Not, 38 inT’l J. legAl 
+info. 19 (2010).
+  98.  Existence of an ISSN is important for inclusion in many bibliographic tools because it serves 
+as the journal’s primary identifier.
+  99.  About DOAJ, DirecTory of oPen Access JournAls, http://www.doaj.org/doaj?func=load 
+Templ&templ=faq, archived at http://www.webcitation.org/67XiMMiU1.
+  100.  See Sarah Glasser, Broken Links and Failed Access: How KBART, IOTA, and PIE-J Can 
+Help, 56 libr. res. & Tech. servs. 14 (2012). “An OpenURL link resolver accepts links from library 
+citation databases (sources) and returns to the user a menu of choices (targets) that include many 404 LAW LIBRARY JOURNAL Vol. 104:3  [2012-28]
+tent in other information areas. For example, they could work with vendors such 
+as Amazon, Bowker, and other bibliographic services to see if their journal’s book 
+reviews could be listed with information about the book. Libraries could also facili-
+tate swift cataloging in OCLC/WorldCat and help journals partner with OCLC and 
+table of contents services to include their content.101
+Distributing Content Through Social Media
+¶51 Many law journals have already experimented with social media, such as 
+blogs, Facebook, and Twitter. Participation in such channels is increasingly impor-
+tant as some argue that social media metrics may impact citation metrics.102 In 
+addition to supporting law journals’ attempts to create their own social media pres-
+ence, librarians are well situated to know which Web 2.0 channels are ideal venues 
+for marketing journals or individual articles. They can also encourage coverage of 
+online  companions  and  blogs  in  the  traditional  literature.103  Libraries  might 
+become partners in helping journals use these social media tools most effectively.
+Optimizing for Mobile-Friendly Web Sites and Mobile Applications
+¶52 As Internet users become increasingly mobile, journals are well advised to 
+publish their content in ways that make it consumable on mobile devices. Librar-
+ians can teach them how to use services such as Google Analytics to see what kinds 
+of mobile devices are being used to visit their sites. As libraries grapple with the 
+question of whether to develop a mobile web site or a “mobile app” for their own 
+content and deal with issues surrounding offering licensed content on mobile 
+links to full-text, the library catalog, and other related services . . . .” Cindi Trainor & Jason Price, 
+Rethinking Library Linking: Breathing New Life into OpenURL, libr. Tech. reP., Oct. 2010, at 6.
+  101.  For information on OCLC’s services, see Press Release, OCLC, More Databases and 
+Collections from Around the World Added to WorldCat Local (July 12, 2011), http://www.oclc.org 
+/news/releases/2011/201141.htm,  archived  at  http://www.webcitation.org/67XiQ9WEI.  Table  of 
+contents services that are potential partners for law journals include Ingentaconnect and the Current 
+Index to Legal Periodicals.
+  102.  See Shapiro & Pearse, supra note 83, at 1517–18. A recent editorial from the medi-
+cal research literature suggests that highly tweeted scholarship leads to increased citation. Gunther 
+Eysenbach, Can Tweets Predict Citations? Metrics of Social Impact Based on Twitter and Correlation 
+with Traditional Metrics of Scientific Impact, 13 J. meD. inTerneT res. e123 (2011), http://www.jmir 
+.org/2011/4/e123/, archived at http://www.webcitation.org/67XiUA9wa. But see Claire Bower, Twim-
+pact Factors: Can Tweets Really Predict Citations?, bmJ web DeveloPmenT blog (Jan. 6, 2012), http://
+blogs.bmj.com/bmj-journals-development-blog/2012/01/06/twimpact-factors-can-tweets-really 
+-predict-citations, archived at http://www.webcitation.org/67XiVjAUH (noting critiques of Eysen-
+bach’s article). In the sciences, a new project powered by Mendeley called “altmetrics” has evolved 
+for “the creation and study of new metrics based on the Social Web for analyzing and informing 
+scholarship.” About, AlTmeTrics, http://altmetrics.org/about, archived at http://www.webcitation 
+.org/681tyOmIT.
+  103.  For the past few years, the AALL Committee for Indexing of Periodical Literature has 
+been pursuing inclusion of such content in the LegalTrac database. See Am. Ass’n of lAw librAries, 
+inDexing of PerioDicAl liTerATure comm., AnnuAl rePorT 2010–2011, available at http://www 
+.aallnet.org/main-menu/Leadership-Governance/committee/cmte-annual-reports/2010-2011/c-ipl 
+.pdf, archived at http://www.webcitation.org/67XjJrPeF.Vol. 104:3  [2012-28] HOW LIBRARIANS CAN HELP IMPROVE LAW JOURNAL PUBLISHING 405
+devices, librarians can help journals make similar assessments about their own 
+content and figure out how best to optimize their web sites and content.
+¶53 As experts in new modes of publishing and purchasing content, librarians 
+should be able to provide advice to journals regarding what modes are most benefi-
+cial. If librarians are able to provide focus group services to traditional publishers, 
+they should be able to offer similar feedback to their own journals. Recently, an 
+open source project called Yāna was developed which allows any journal to make a 
+mobile-friendly version of its content.104 Some journals are also making their con-
+tent available as downloads on Amazon’s and Apple’s distribution platforms.105 
+While law school information technology and communications departments may 
+also provide expertise in these areas, libraries can offer insight on how researchers 
+use these options in their research or scholarship.
+Supporting Audiovisual Beyond Repository Hosting
+¶54  Journals  will  increasingly  be  offering  nontextual  content,  particularly 
+audiovisual content. As law continues to be influenced by other disciplines and new 
+students and scholars expect information to be available in a variety of formats, 
+authors, journals, and researchers will be looking for media-oriented formats.106 
+Many journals are already very active in hosting conferences for which they pro-
+duce audio and video. Libraries are well qualified to grapple with the special issues 
+involved in presenting and preserving video,107 but they could be more actively 
+involved in marking it up for the web to make it more discoverable and connected 
+with other content. Such services could include transcription and captioning ser-
+vices to help facilitate access.108 Many journals have already begun offering their 
+  104.  About  the  Project, yānA,  http://osc.hul.harvard.edu/yana,  archived  at  http://www.web 
+citation.org/67XjLcMe6.
+  105.  Alan Childress, Stanford Law Review Goes Ebook . . . in Kindle, Nook, and iPad Edi-
+tions,  legAl  Profession  blog  (Feb.  5,  2011),  http://lawprofessors.typepad.com/legal_profession 
+/2011/02/stanford-law-review-goes-ebookin-kindle-nook-and-ipad-editions.html, archived at http://
+www.webcitation.org/67XjQnJJk. The Harvard Law Review, the Yale Law Journal, and the Univer-
+sity of Chicago Law Review also have e-book editions, linked to from the journals’ web sites. hAr-
+vArD lAw review, http://www.harvardlawreview.org/index.php, archived at http://www.webcitation 
+.org/687xnLlJu; yAle lAw JournAl, http://yalelawjournal.org, archived at http://www.webcitation 
+.org/687xk4lJn; univ. of chicAgo lAw review, http://lawreview.uchicago.edu, archived at http://
+www.webcitation.org/687xhi8L2.
+  106.  For  an  example,  see  Yale Visual  Law  Project, yAle  lAw  school,  http://yalevisuallaw 
+project.org, archived at http://www.webcitation.org/67XjVIp3M. An example from the hard sciences 
+is the Journal of Visualized Experiments. Jove, http://www.jove.com, archived at http://www.web 
+citation.org/67XjWVovy.
+  107.  While it is possible to store video on repository systems, it is unclear how various 
+repositories are dealing with the longer term needs of preserving audiovisual material, which usu-
+ally requires some reformatting and migration to ensure accessibility. Plug-ins have been developed 
+for publishing platforms such as OJS to offer multimedia content. Kathie Gossett et al., Kairos-OJS 
+Plugin Project: Author, Editor, and Reader Tools for Scholarly Multimedia, PkP scholArly Publishing 
+conference 2011, http://pkp.sfu.ca/ocs/pkp/index.php/pkp2011/pkp2011/paper/view/287, archived 
+at http://www.webcitation.org/67XjaEGI6.
+  108.  For  example,  YouTube  offers  a  transcription  service.  See  Adding  and  Editing  Cap-
+tions/Subtitles, youTube, http://support.google.com/youtube/bin/answer.py?hl=en&answer=100077, 
+archived at http://www.webcitation.org/67XjcUUoK. There are also tools that can be used for creating 406 LAW LIBRARY JOURNAL Vol. 104:3  [2012-28]
+podcasts and videos through iTunes and YouTube (sometimes through the law 
+school’s account).109 As libraries find ways to distribute their own content through 
+these services, they could become more engaged in identifying these alternative 
+content outlets and advising journals on the best way to market their content. 
+Libraries are natural partners for law school media services and communications 
+departments that also grapple with the dissemination and stewarding of audiovi-
+sual material.
+Supporting “Futuristic” Thinking About the Law Journal/Article
+¶55 What we think of as the “journal” or “journal article” is continuing to 
+evolve and will probably be very different in years to come.110 Some libraries are 
+already engaged in advising on web site production for journals. Taking a cue from 
+the developments in other disciplines and in the e-book realm, journals will be 
+exploring dynamic and flexible ways for users to view and use their content.111 By 
+providing additional assistance in metadata creation and encouraging availability 
+of data sets, libraries could be more engaged in experimenting with journals on 
+innovative interfaces, such as visualizations of data and mashups.112 Libraries can 
+also encourage journals to publish in open formats that make them easy to harvest 
+and consume.113
+transcription files. See, e.g., Transcribing Speech in Video with Adobe Premiere and After Effects, reAl-
+eyes (Mar. 5, 2010, 5:14 P.m.), http://www.realeyes.com/blog/2010/03/05/caption/, archived at http://
+www.webcitation.org/681uQLZ0Q.
+  109.  Some examples of law schools with journals that offer podcasts and videos through 
+YouTube and iTunes include, on iTunes: DePaul College of Law, UC Davis Law, University of North 
+Carolina School of Law, and Northwestern University School of Law; on YouTube: University of 
+Virginia School of Law, Duke Law School, Wayne State University Law School, University of San 
+Francisco School of Law, and Stanford Law School.
+  110.  Nicholas W.  Jankowski  et  al.,  Enhancing  Scholarly  Publishing  in  the  Humanities  and 
+Social Sciences: Innovation Through Hybrid Forms of Publication, PkP scholArly Publishing confer-
+ence 2011, http://pkp.sfu.ca/ocs/pkp/index.php/pkp2011/pkp2011/paper/view/326/185, archived at 
+http://www.webcitation.org/681uaxXBD. Discussions of the Durham Statement also acknowledge 
+the changing nature of the journal and publication. Danner, Leong & Miller, supra note 9; Miller, 
+supra note 9.
+  111.  See  Jennifer  Howard,  New  Forms  of  Reading  and  Publishing  Take  Center  Stage  at 
+ITHAKA  Conference,  chron.  higher  eDuc.  (Sept.  21,  2011),  http://chronicle.com/article/New 
+-Forms-of-Reading-and/129104, archived at http://www.webcitation.org/67XjkXgFJ.
+  112.  Owen Stephens, Mashups and Open Data in Libraries, 24 seriAls 245 (2011). Libraries 
+could facilitate mashups of journal content with data, primary law, and other research sources. Book 
+review articles could be mashed up with content related to the reviewed books.
+  113.  See  Miller,  supra  note  9,  at  [2].  Libraries  and  law  journals  could  work  together  to 
+develop a unified search interface across journals, beyond what is offered by the American Bar Asso-
+ciation or Google. This search engine could facilitate production of table of contents services across 
+open access journals. With the proper support, hosting, and open source journal publishing options 
+like OJS and WordPress (especially with Annotum, a free platform using WordPress), libraries could 
+collaborate to offer a free publishing platform for law journals, particularly in institutions that are 
+not able to invest in repositories or that lack the technical staff to implement open source solutions 
+themselves. See AnnoTum, http://annotum.org, archived at http://www.webcitation.org/67XjrZq5B.Vol. 104:3  [2012-28] HOW LIBRARIANS CAN HELP IMPROVE LAW JOURNAL PUBLISHING 407
+¶56 The publisher Elsevier recently presented its Article of the Future project 
+for various disciplines.114 Librarians could help lead a similar project for law jour-
+nals (perhaps through AALL or participants in the Durham Statement). Students 
+and libraries could share innovative thoughts and best practices about producing 
+scholarship. While this type of information sharing happens at various meetings,115 
+consistent, coordinated efforts to discuss these issues would be very beneficial and 
+could provide support and inspiration for law journals that do not have substantial 
+technical and staffing resources.
+¶57 Libraries will have to help journals deal with the preservation issues inher-
+ent in these new dynamic formats.116 In contemplating future forms of legal schol-
+arship, libraries should also be forward-thinking about how to preserve new “con-
+tainers” for traditional article content and how to preserve dynamic new forms of 
+content. While  institutional  repositories  handle  traditional  article  format  and 
+content very well, they do not necessarily handle nontraditional content, nor do 
+they create alternative representations and incorporation of video or data, or facili-
+tate ways of rethinking how articles are presented beyond the current linear presen-
+tation in issues and volumes.117 Libraries have used web archiving tools to capture 
+“ancillary” content like blogs (often separately from traditional journal content), 
+but they also need to partner with journals to develop their ancillary and dynamic 
+content in ways that facilitate preservation, as opposed to trying to capture such 
+content after its publication.
+Conclusion
+¶58 Law libraries (and librarians) are uniquely situated to help academic law 
+journals evolve and flourish in a world where modes of publication are changing at 
+a rapid pace. If we broaden our roles as their partners in publishing and think cre-
+atively and futuristically about what a law journal is, we can help ensure the integ-
+rity, accessibility, and relevance of this important area of legal scholarship. We 
+should look to other disciplines (especially the sciences) and the university press–
+library partnership model for inspiration and explore concrete ways in which we 
+can realize these goals. Many law libraries have embraced repositories, but it is 
+questionable whether repository systems are presently fully equipped to deal with 
+the changing, dynamic needs of journals.118 While some law libraries have already 
+  114.  Article  of  the  Future,  elsevier,  http://www.articleofthefuture.com,  archived  at  http://
+www.webcitation.org/67Xju1jLp.
+  115.  See, e.g., Implementing the Durham Statement, supra note 9.
+  116.  See Michael Kelley, Potential Crisis May Be Brewing in Preservation of E-Journals, The 
+DigiTAl shifT (Feb. 23, 2012), http://www.thedigitalshift.com/2012/02/preservation/potential-crisis 
+-may-be-brewing-in-preservation-of-e-journals, archived at http://www.webcitation.org/681ugbOVM.
+  117.  See, e.g., Article of the Future, supra note 114.
+  118.  The LOCKSS (Lots of Copies Keep Stuff Safe) program recently received an Andrew 
+W. Mellon Foundation Grant to enable it to “develop new techniques for collecting dynamic digital 
+content from modern publishing platforms, and ensuring its long-term preservation.” Press Release, 
+LOCKSS, LOCKSS Program Receives Andrew W. Mellon Foundation Grant (Apr. 18, 2012), http://
+www.lockss.org/news-media/news/lockss-program-receives-andrew-w-mellon-foundation-grant, 
+archived at http://www.webcitation.org/67Xk33dwW.408 LAW LIBRARY JOURNAL Vol. 104:3  [2012-28]
+been experimenting with additional services and partnerships in publishing, there 
+is ample room for more libraries to expand their services and implement new ways 
+of facilitating and supporting forward-thinking publishing infrastructures for law 
+journals.Vol. 104:3  [2012-28] HOW LIBRARIANS CAN HELP IMPROVE LAW JOURNAL PUBLISHING 409
+Appendix
+Checklist for Librarians Working with Law Journals
+3Publication agreement
+Author retains copyright?
+Nonexclusive or temporary license?
+Allows authors to self-archive?
+Distribution rights/venues
+3Version reference
+Clear policy on article version/terminology
+Clear marking of own faculty members’ digital deposits
+ Collaborate on standards to be used by journals and law library    
+  community
+3Use of persistent identifiers/DOIs
+3Plagiarism (or duplicate publication) detection procedures and policies
+3Policies and procedures for empirical work
+ Review by peers or those knowledgeable about research methods/   
+  statistics
+Author submission/deposit of data for replication
+Repository service for storing data (e.g., Dataverse)
+Data markup/metadata
+Licensing/terms of data use
+Visualization/presentation options for data
+Data citation standards
+3Metadata for journal
+OAI-PMH compliant
+Standards for other web-based content
+Accessibility for visually impaired
+Taxonomies/ontologies
+Author add-in options/author-contributed metadata
+Technical formatting in footnoting/text for parsing
+Hidden metadata to be scrubbed
+Metrics/statistics
+RSS available?
+3Preservation of at-risk cited sources
+Service (e.g., WebCite)
+Proper web archiving by institution
+Consistent use of or reference to particular sources
+Collaboration with Bluebook on Rule 18
+3Coverage in traditional bibliographic/indexing systems
+International Standard Serial Number
+Directory of Open Access Journals
+Table of contents services
+Full-text and indexing/abstracting databases (HeinOnline, LexisNexis,   
+  Westlaw, Bloomberg Law, LegalTrac, Index to Legal Periodicals    
+  and Books, nonlegal databases, etc.)410 LAW LIBRARY JOURNAL Vol. 104:3  [2012-28]
+OCLC/WorldCat
+Coverage of book reviews
+Coverage of companion content
+3Social media presence
+3Optimized for mobile devices
+Apps?
+Visible on all devices?
+Kindle?, iTunes?
+3Audiovisual content
+Distribution channels (iTunes, YouTube, etc.)
+Metadata/markup
+Transcription/captioning
+Linked with text and other sources
+Partnering with media services and communications offices
+3Holistic preservation—Is there content not being captured?

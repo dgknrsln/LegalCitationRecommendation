@@ -1,0 +1,927 @@
+DRAFT 
+COMPUTER AS CONFIDANT:  
+DIGITAL INVESTMENT ADVICE AND THE FIDUCIARY STANDARD 
+ 
+Nicole G. Iannarone1 
+ 
+Automated  investment  advisers  permeate  the  investment  industry.2    Digital  investment 
+advisers are the fastest growing segment of financial technology (fintech) and are disrupting 
+traditional investment advisory delivery models.3 Proponents of digital investment advice, a 
+platform also known as “robo-advisers,” claim that they can provide fiduciary level investment 
+advisory services at a fraction of the cost of traditional human investment advisers.  Critics 
+disagree.  Nevertheless, by 2020, robo-advisers will digitally manage $2 trillion in assets, growing 
+over 3,000% from 2015.4  One industry observer predicts that in five years, “[r]obo-advisory 
+services will become mainstream.”5  Robo-advisers are becoming so ubiquitous that the Chartered 
+Financial Analyst (CFA) examination will, beginning in 2019, expand the examination areas to 
+include  questions  on  “artificial  intelligence,  automated  investment  services  and  mining 
+unconventional sources of data.”6  U.S. Securities and Exchange Commission (SEC) regulators 
+began examining digital investment advisers in 2017.7 
+The computer-led investment advisory service model may be growing particularly quickly due 
+to a confluence of social and political factors including an increased regulatory focus on the 
+different standards applicable to investment advice providers, a so-called retirement gap with a 
+                                                 
+1 Assistant Clinical Professor and Director, Investor Advocacy Clinic, Georgia State University College of Law.   
+2  Mary  Jo  White,  OPENING  REMARKS  AT  THE  FINTECH  FORUM  (Nov.  14,  2016), 
+https://www.sec.gov/news/statement/white-opening-remarks-fintech-forum.html ("The last few years have seen rapid 
+growth in the availability and popularity of automated investment advisory programs."). 
+3  PWC,  BLURRED  LINES:  HOW  FINTECH  IS  SHAPING  FINANCIAL  SERVICES  at  3  (2016), 
+https://www.pwc.com/il/en/home/assets/pwc_fintech_global_report.pdf  ("FinTech  is  a  dynamic  segment  at  the 
+intersection of the financial services and technology sectors where technology-focused start-ups and new market 
+entrants innovate the products and services currently provided by the traditional financial services industry."); CFA 
+INSTITUTE, FINTECH SURVEY REPORT at 16 (2016), https://www.cfainstitute.org/Survey/fintech_survey.PDF ("robo-
+advisers are still considered to be the technology that will have the greatest impact on financial services industry both 
+1 year and 5 years from now.").  
+4 Accenture, THE RISE OF ROBO-ADVICE at 2 (2015), https://www.accenture.com/_acnmedia/PDF-2/Accenture-
+Wealth-Management-Rise-of-Robo-Advice.pdf (projecting robo-advisers at end of 2015 to manage "between $55 
+billion and $60 billion”); A.T. KEARNEY, HYPE VS. REALITY: THE COMING WAVES OF “ROBO” ADOPTION at 26 (2015), 
+https://www.atkearney.com/documents/10192/7132014/Hype+vs.+Reality_The+Coming+Waves+of+Robo+Adopti
+on.pdf/9667a470-7ce9-4659-a104-375e4144421d (predicting $2 trillion under robo-adviser management by 2020); 
+U.S.  SECURITIES  &  EXCHANGE  COMMISSION,  TRANSCRIPT  OF  FINTECH  FORUM:  THE  EVOLVING  FINANCIAL 
+MARKETPLACE (hereinafter SEC FinTech Forum) at 21 (2016), www.sec.gov/spotlight/fintech/transcript-111416.pdf 
+(robo-adviser industry "could grow to as large as 2.2 trillion dollars in assets under management by the year 2020."). 
+5 A.T. Kearney, supra note 4 at 10. 
+6 Trevor Hunnicutt, CFA Exam to Add Artificial Intelligence, “Big Data” Questions, REUTERS NEWS, (May 23, 
+2017). 
+7  SEC  Office  of  Compliance  Inspections  and  Examinations,  EXAM  PRIORITIES  FOR  2017,  at  2, 
+https://www.sec.gov/about/offices/ocie/national-examination-program-priorities-2017.pdf  (describing  examination 
+of robo-advisers as priority); Mary Jo White, KEYNOTE ADDRESS AT THE SEC-ROCK CENTER ON CORPORATE 
+GOVERNANCE  SILICON  VALLEY  INITIATIVE  (2016),  https://www.sec.gov/news/speech/chair-white-silicon-valley-
+initiative-3-31-16.html ("As part of our effort to monitor emerging automated investment models, staff from our 
+National Exam Program are examining robo-advisors."). 2  Computer as Confidant  [16-Aug-17  DRAFT 
+  Comments welcome: niannarone@gsu.edu 
+ 
+lack of affordable investment advice, and an increasing comfort with digital platforms.8 This short 
+article begins by describing those factors in Part I before discussing, in Part II, the wide-ranging 
+definitions of robo-advisers and categories of distinction between them.  Part III shifts the focus 
+to the regulatory framework and standard of care owed by robo-advisers operating under the 
+Investment Advisers Act.  The essay concludes with a two-pronged recommendation for the 
+regulation of robo-advisers in the near term.  First, regulators should deploy existing regulatory 
+tools such as examination, enforcement, and disclosure to explore the sufficiency and malleability 
+of  their  current  parameters  before  constructing  any  new  regulatory  schemes.    Second,  the 
+disclosure  device  should  be  studied  to  determine  whether  the  intended  beneficiary  of  the 
+disclosure, retail consumers, comprehends the information being disclosed to them and whether 
+changes to the format, delivery, and/or content of disclosures would better protect consumer 
+investors. 
+ 
+I.  INVESTMENT ADVICE GOES ONLINE: THE BIRTH AND GROWTH OF ROBO-ADVISERS 
+The majority of the 140 robo-adviser platforms created since 2008 started in the past three 
+years.9  At the same time, Americans are not saving for retirement and exhibit overall low levels 
+of financial readiness.  The robo-advice industry’s growth tracks societal changes encouraging 
+investment in and use of increasingly better technological tools and seizes upon opportunities 
+presented by digital native investors who may be financially inexperienced and wary of high fees.  
+Moreover, increased governmental focus on advice standards has fueled robo-advisers’ growth. 
+   
+A.  American Investing Confidence, Competence, and Retirement Readiness 
+ 
+America may be in the midst of a retirement “crisis.”10  Americans lack a foundation in basic 
+financial and investing concepts and have “relatively low levels of financial literacy.”11  Over half 
+of Americans have made no attempt to determine their future retirement needs.12  Most American 
+workers are now responsible for their own retirement, with a precipitous drop in access to defined 
+benefit plans.13  Reviewing recent studies, the SEC’s Office of the Investor Advocate reported that 
+                                                 
+8 SIFMA, DIGITAL INVESTMENT ADVICE RESOURCE CENTER OVERVIEW, http://www.sifma.org/issues/legal,-
+compliance-and-administration/digitial-investment-advice/overview/ (listing factors tied to robo-advisers’ rapid rise). 
+9  BLACKROCK,  DIGITAL  INVESTMENT  ADVICE:  ROBO  ADVISORS  COME  OF  AGE  at  5  (2016), 
+https://www.blackrock.com/corporate/en-at/literature/whitepaper/viewpoint-digital-investment-advice-september-
+2016.pdf  ("Nearly 140 digital advisory companies have been founded since 2008, with over 80 of those founded in 
+the past two years."). 
+10 FINRA INVESTOR EDUCATION FOUNDATION, FINANCIAL CAPABILITY IN THE UNITED STATES 2016 at 16 (2016), 
+http://www.usfinancialcapability.org/downloads/NFCS_2015_Report_Natl_Findings.pdf (“studies have warned that 
+the U.S. faces a retirement savings crisis.”). 
+11 Id. at 28. 
+12 Id. at 15 (“Thirty-nine percent of respondents have tried to figure out how much they need to save for retirement, 
+while 56% have not.”). 
+13 Roberta S. Karmel, The Challenge of Fiduciary Regulation: The Investment Advisers Act After Seventy-Five 
+Years, 10 Brook. J. Corp. Fin. & Com. L. 405, 419-420 (2016) (describing steep decline in access to defined benefit 
+pension plans and increase of Americans participating in defined contribution plans); SEC FINTECH FORUM, supra 
+note 4 at 25 (“we have a generation of people who won’t have access to defined benefits quite the same way that past 16-Aug-17]  Chicago-Kent Law Review (forthcoming)  3  DRAFT 
+ 
+most households over the age of 55 “have no retirement savings in a defined contribution plan or 
+individual retirement account, and nearly 30 percent of households age 55-and-older have no 
+retirement savings and no defined benefit (e.g. pension) plan.”14 For those who do have retirement 
+savings, the median amount saved is $20,000 and most between the ages of 50 and 75 have 
+retirement savings below $25,000.15  In addition, the use of professional advisers to assist investors 
+in managing their assets is the exception rather than the rule, with less than one third of Americans 
+receiving investment advice.16  Yet professional advice may benefit investors.17   
+ 
+B.  Consumers’ Comfort with Computers Increases 
+ 
+FinTech, including robo-advisers, appeals most to younger investors.18  Experts predicted that 
+millennials  would  be  the  prototypical  robo-advisory  client  because  they  are  digital  natives 
+comfortable with online service delivery.19  While that initial predication was correct,20 later 
+studies showed that digital investment advisory services appeal to all generations.21 Robo-adviser 
+Betterment reports “the average age [of an investor customer] is around 35, which is on the cusp 
+                                                 
+generations have, where maybe Social Security Administration has told people not to depend on the full benefit 
+today”); Barbara Black, Are Retail Investors Better Off Today, 2 Brook. J. Corp. Fin. & Com. L. 303, 305 (2008) 
+(“Today’s reality is that investing is no more an optional activity for most American adults than is working.  American 
+workers are increasingly expected to assume responsibility for their financial security in retirement, and thus have no 
+choice but to invest in the markets.”). 
+14 SEC OFFICE OF THE INVESTOR ADVOCATE, PERSPECTIVES ON RETIREMENT READINESS IN THE UNITED STATES: 
+A  WHITE  PAPER  (2016),  https://www.sec.gov/advocate/staff-papers/white-papers/retirement-readiness-white-
+paper.pdf. 
+15 Id at 4. 
+16 BLACKROCK, supra note 10 at 3 ( "only 28% of individuals surveyed use a professional financial advisor."). 
+17 Bo Lu, CEO of FutureAdvisor, believes “many more people in the U.S. would benefit from advice than receive 
+it today or have ready access to it today.”  SEC FinTech Forum, supra note 4 at 24. 
+18  FINRA  INVESTOR  EDUCATION  FOUNDATION,  INVESTORS  IN  THE  UNITED  STATES  2016  at  8  (2016), 
+http://www.usfinancialcapability.org/downloads/NFCS_2015_Inv_Survey_Full_Report.pdf  ("Usage  of  'robo-
+advisors' is higher among younger investors and those who do not otherwise work with a financial advisor."); id. at 
+20 ("Younger investors are less likely to use professional advisors, more likely to use 'robo-advisors'"); Survey Finds 
+Affluent Millennials & Gen Xers Will Move More Assets to Advisors Over Next Decade, INVESTMENT WEEKLY 
+NEWS, May 27, 2017 (detailing survey finding that Gen X and Millennials expect financial advisers to leverage 
+technology while providing financial advisory services). 
+19 BLACKROCK, supra note 10 at 7 (“Digital advice can increase the likelihood that people will engage on financial 
+advice, particularly because younger generations may be more accustomed to electronic forms of communication.”). 
+20 Matt Egan, Robo Advisors: The Next Big Thing in Investing, CNN MONEY, June 18, 2015, 
+http://money.cnn.com/2015/06/18/investing/robo-advisor-millennials-wealthfront/index.html. (“Millennials, who 
+often don’t have enough money to qualify for traditional advisors, are big users for robo advisors.”); ACCENTURE, 
+supra note 3 at 7 ("Robo-advice fills a void for millennials"); PWC, supra note 2.   
+21 The Board of the International Organization of Securities Commissions, UPDATE ON THE REPORT ON THE 
+IOSCO AUTOMATED ADVICE TOOLS SURVEY at 9 (Dec. 2016) (“the primary market for automated advice is 
+millennials (born between 1980 and 2000), but that other age groups such as Generation X (born between 1965 and 
+1980), as well as subsequent generations are making use of these tools.”); Capital One Investing, RETIREMENT 
+CONFIDENCE  DIPS  IN  2017  (2017), 
+https://content.capitaloneinvesting.com/mgdcon/core/aboutus/press/20170310_Financial-Freedom-Survey.pdf 
+("Millennials also most value robo-advice, with 65 percent saying it can enhance financial peace of mind, compared 
+to 53 percent of Generation X and 31 percent of Baby Boomers."). 4  Computer as Confidant  [16-Aug-17  DRAFT 
+  Comments welcome: niannarone@gsu.edu 
+ 
+of millennial, but around 30 percent of our business comes from people over 50 years old.”22  
+Investors may prefer the lack of direct human-adviser control as well as the flexibility of accessing 
+information on their own and by themselves coupled with the learning opportunities that digital 
+investment services provide.23  A digital platform offered over a desktop or mobile device is not 
+constrained  by  a  human  adviser’s  office  hours,  allowing  investors  to  access  their  account 
+information at any time.24  Robo-advisers’ separation of investments, account information, and 
+investor education from a person, set hours, and an office also affords investors a measure of 
+privacy and control not necessarily available in a traditional advisory relationship.25  It is this 
+instant access to information that makes some robo-advisers believe that their services appeal to 
+both smaller investors and more sophisticated investors with higher account balances.26 
+ 
+C.  Legislation and Regulatory Activity Focuses Attention on Investment Advice 
+ 
+Recent legislative and regulatory activity have focused attention on robo-advisors.27  Although 
+beyond the scope of this essay to fully articulate the differences between investment advice 
+providers,  in  general,  only  investment  advisers,  those  required  to  register  under  the  1940 
+Investment Advisers Act (1940 Act) or a state equivalent, uniformly owe their clients a fiduciary 
+duty while other providers of investment advice, which can include broker-dealers, financial 
+planners, and insurance agents, do not uniformly owe fiduciary duties to their clients.28  The 
+disparate standards applicable to professionals nearly indistinguishable to the investing public has 
+                                                 
+22 SEC FinTech Forum, supra note 4 at __. 
+23 ACCENTURE, supra note 4 at 5 (“There are also elements of the robo-advice experience that clients prefer over 
+traditional models.  They like the privacy offered by a digital solution and the ability to learn, and to chart their own 
+path.”). 
+24 BLACKROCK, supra note 10 at 4 (benefits of robo-advisors include "the ability to interact with the tools 24/7."). 
+25  Falguni  Desai,  The  Great  FinTech  Robo  Advisor  Race,  FORBES,  July  31,  2016, 
+https://www.forbes.com/sites/falgunidesai/2016/07/31/the-great-fintech-robo-adviser-race/#57f979a94a6f. 
+26 U.S. SECURITIES & EXCHANGE COMMISSION, supra note 5. 
+27 BLACKROCK, supra note 10 at 3 8 (“recent changes to regulation…have resulted in a greater focus on digital 
+advice as a potential solution to provide low-cost investment advice with appropriately tailored outcomes to individual 
+investors at scale.”). 
+28 Only one category of individuals providing investment advice are uniformly fiduciaries: individuals who 
+qualified as investment advisers under the 1940 Investment Advisers Act or a similar state regulation.  Others who 
+may provide investment advice, including broker-dealers, insurance agents, and financial planners, were not, absent 
+some exceptions, required to provide fiduciary-level advice and are regulated, if at all, under different standards of 
+care.  Scholars have extensively detailed the differences between the standards governing investment advisers and 
+broker-dealers, with some recommending harmonization of those standards to a unitary fiduciary duty for all providers 
+of investment advice to eliminate consumer confusion.  See, generally, Arthur B. Laby, Fiduciary Obligations of 
+Broker-Dealers and Investment Advisers, 55 VILL. L. REV. 701 (2010) (describing differences between broker-dealer 
+and investment adviser regulation and application of fiduciary standard); Steven D. Irwin, et al., Wasn’t My Broker 
+Always Looking Out for my Best Interests? The Road to Become a Fiduciary, 12 DUQ. BUS. L. J. 41, 61 (2009) (“A 
+consistent fiduciary duty standard would likely help to increase investor trust.”); Barbara Black, How to Improve 
+Retail Investor Protection After the Dodd-Frank Wall Street Reform and Consumer Protection Act, 13 U. PA. J. BUS. 
+L. 59 (2010) (describing differences in regulation between broker-dealers and investment advisers and arguing for 
+professionalism as opposed to fiduciary standard).  C.f. Arthur B. Laby, SEC v. Capital Gains Research Bureau and 
+the Investment Advisers Act of 1940, 91 B.U. L. REV. 1051 (2011) (arguing that fiduciary duty now recognized as 
+arising out of the 1940 Act may be a faulty premise). 16-Aug-17]  Chicago-Kent Law Review (forthcoming)  5  DRAFT 
+ 
+led to calls to harmonize the treatment of all providers of investment advice.29 
+Significant attention to investment advice regulation began following the 2008 economic 
+crisis.  The 2010 Dodd-Frank Wall Street Reform and Consumer Protection Act directed the SEC 
+to study the differing standards of care that broker-dealers and investment advisers owe their 
+clients and to identify any regulatory gaps that should be closed to better protect retail consumers.30 
+While the SEC’s study has been completed and resulted in staff recommendations for a uniform 
+fiduciary standard,31 the SEC has not yet proposed any new regulation.  On April 6, 2016, the 
+Department of Labor (DOL) released its final version of a “fiduciary rule” that would require all 
+persons providing investment advice to tax qualified retirement accounts to adhere to a fiduciary 
+standard.32  Promulgated after significant study, debate, and a lengthy notice and comment period, 
+the fiduciary rule would result in a major shift in regulation of financial advice.33   
+Robo-advisers  received  significant  attention  during  the  DOL  fiduciary  rule  debate.  The 
+Financial Industry Regulatory Authority (FINRA), predicted that the fiduciary rule would lead its 
+broker-dealer  members  to  abandon  IRA  accounts  under  $25,000  due  to  prohibitively  high 
+compliance costs.34 Moreover, while acknowledging that robo-advice may benefit “some classes 
+of knowledgeable investors,” FINRA commented that for many others, “robo-advice is a poor 
+substitute for a financial adviser who understands the customer’s needs and guides the customer 
+through market turbulence or life events.”35  On the other hand, DOL leadership predicted that 
+robo-advisers could make it possible for ever more investors to receive fiduciary level investment 
+advice at lower costs.36 Robo-advisory firms claimed that they had already been providing advice 
+                                                 
+29 See, e.g., Christine Lazaro and Benjamin P. Edwards, The Fragmented Regulation of Investment Advice: A Call 
+for Harmonization, 4 MICH. BUS. & ENTREPRENEURIAL L. REV. 47 (2014); Ryan K. Bakhtiari, Katrina Boice, & 
+Jeffrey D. Majors, The Time for a Uniform Fiduciary Duty is Now, 87 ST. JOHN’S L. REV. 313 (2013).   
+30 See, Black,  supra note __ at 59-61; James S. Wrona, The Best of Both Worlds: A Fact-Based Analysis of the 
+Legal Obligations of Investment Advisers and Broker-Dealers and a Framework for Enhanced Investor Protection, 
+68 Bus. Law. 1, 5-7 (2012). 
+31 U.S. SECURITIES AND EXCHANGE COMMISSION, STUDY ON INVESTMENT ADVISERS AND BROKER DEALERS (Jan. 
+2011), available at https://www.sec.gov/news/studies/2011/913studyfinal.pdf.  
+32 Definition of the Term “Fiduciary”; Conflict of Interest Rule- Retirement Investment Advice; Best Interest 
+Contract Exemption (Prohibition Transaction Exemption 2016-01); Class Exemption for Principal Transactions in 
+Certain Assets Between Investment Advice Fiduciaries and Employee Benefit Plans and IRAs (prohibited Transaction 
+Exemption 2016-02); Prohibited and Transaction Exemptions 75-1, 77-4, 80-83, 83-1, 84-24 and 86-128 (Apr. 7, 
+2017).  By virtue of its oversight of ERISA, the Department of Labor issues rules concerning tax advantaged retirement 
+accounts such as individual retirement accounts and 401(k) accounts, among others.  See Roberta S. Karmel, The 
+Challenge of Fiduciary Regulation: The Investment Advisers Act After Seventy-Five Years, 10 Brook. J. Corp. Fin. & 
+Com. L. 405, 423-424 (2016) (describing obligations of fiduciaries under ERISA). 
+33 See, e.g., Roberta S. Karmel, The Challenge of Fiduciary Regulation: The Investment Advisers Act After 
+Seventy-Five Years, 10 Brook. J. Corp. Fin. & Com. L. 405, 424-425 (2016) (describing critiques of fiduciary rule). 
+34 Marcia E. Asquith, PROPOSED CONFLICT OF INTEREST RULE AND RELATED PROPOSALS, RIN-1210-AB32 at 5-
+6 (2015), http://www.finra.org/sites/default/files/FINRACommentLetter_DOL_07-17-15.pdf.  See also Paul R. Walsh 
+& David W. Johns, Can the Retail Investor Survive the Fiduciary Standard?, 87 St. John’s L. Rev. 437, 449 (2013) 
+(“the imposition of a fiduciary duty onto the broker or salesman will create a barrier to the availability of investment 
+advice to the small investor.”). 
+35 Asquith, supra note 34. 
+36 Testimony of Hon. Thomas E. Perez, Secretary, U.S. Depart. Of Labor, Hearing: Restricting Access to Financial 
+Advice: Evaluating the Costs and Consequences for Working Families and Retirees, at 102 (June 17, 2015) (describing 
+how robo-adviser Wealthfront may be able to provide fiduciary level service at lower cost through technology). 6  Computer as Confidant  [16-Aug-17  DRAFT 
+  Comments welcome: niannarone@gsu.edu 
+ 
+meeting a fiduciary standard as registered investment advisers under the 1940 Act.37 Scholars 
+likewise argued that the elimination of a commission-based fee structure “would likely accelerate 
+the growth of so-called robo-advisers.”38 
+President Trump executed a Presidential Memorandum on February 3, 2017 directing the DOL 
+“to examine the Fiduciary Duty Rule to determine whether it may adversely affect the ability of 
+Americans to gain access to retirement information and financial advice.”39   As a result, full 
+implementation has been delayed repeatedly and the fiduciary rule may ultimately be revised or 
+eliminated.40  Nevertheless, the DOL’s efforts to mandate that all providers of investment advice 
+meet a fiduciary standard focused moved the topic from the regulatory realm into popular culture.41  
+ 
+D.  The Promise of Robo-Advisers 
+ 
+Robo-advisers’ promise is tied to their potential to address these challenges while capitalizing 
+on opportunities technological growth creates.  Robo-advisory firms differ from traditional human 
+investment advisers because they generally do not have as high account minimums for advice and 
+charge fees that are substantially less than human investment advisers.42  The enthusiasm for robo-
+advisers comes from a belief that they are well-equipped to serve a previously underserved 
+population of investors that includes, but is not limited to millennials – investors with accounts 
+deemed too small for traditional investment advisers.43  Investment advisers typically charge at 
+                                                 
+37 See Jon Stein & Eli Broveman, Letter re: Conflict of Interest Rule, RIN 1210-AB32 (Sept. 24, 2015), available 
+at  https://www.dol.gov/sites/default/files/ebsa/laws-and-regulations/rules-and-regulations/public-comments/1210-
+AB32-2/03108.pdf. (“the rapidly growing category of automated investment advice is emerging as a clear rebuttal to 
+those who worry that small accounts will be left unserved.  Modern technology allows for fiduciary advice to be 
+delivered at unprecedented scale, with the expected quantum leap in affordability.  We believe that these services, 
+offering lower, transparent prices, fiduciary advice, and superior experiences, will prevail in the market against heavily 
+conflicted, legacy business models.”).   
+38 Benjamin P. Edwards, Conflicts and Capital Allocation, 78 OHIO ST. L.J. 181, 221 (2017). See also Ralph 
+Derbyshire and Jay Haines, Department of Labor Rule Shakes Up Retirement Industry, 61 BOSTON BAR J. 18, 19 
+(2017) (arguing that fiduciary rule should result in increase in accounts managed by robo-advisers). 
+39 Presidential Memorandum on Fiduciary Duty Rule, (February 3, 2017), https://www.whitehouse.gov/the-press-
+office/2017/02/03/presidential-memorandum-fiduciary-duty-rule.  
+40 See, e.g., Carmen Germaine, Further Delay Tees Up Fiduciary Rule for Major Changes, Law360 (Aug. 10, 
+2017) (describing Department of Labor plan to delay implementation of not-yet-in-place provisions of fiduciary rule 
+until July 2019). 
+41 As on example, comedian John Oliver made the DOL’s fiduciary rule the focus of his popular late night show, 
+“Last Week Tonight,” describing a rule that had, until then, “been considered too complicated or boring for the average 
+person  to  understand.”  Mark  Schoeff,  John  Oliver’s  Criticism  Helps  Fiduciary  Duty  Go  Prime  Time, 
+INVESTMENTNEWS,  June  19,  2016,  http://www.investmentnews.com/article/20160619/FREE/160619914/john-
+olivers-criticism-helps-fiduciary-duty-go-prime-time.  The segment has over 6.5 million views on YouTube since it 
+was  posted  on  June  12,  2016.    See  Retirement  Plans:  Last  Week  Tonight  with  John  Oliver  (HBO), 
+http://www.youtube.com/watch?v=gvZSpET11ZY.  
+42 White, supra note 9; U.S. SECURITIES & EXCHANGE COMMISSION, INVESTOR BULLETIN: ROBO-ADVISERS 
+(2017), https://www.sec.gov/oiea/investor-alerts-bulletins/ib_robo-advisers.html ("Robo-advisers often seek to offer 
+investment advice for lower costs and fees than traditional advisory programs, and in some cases require lower account 
+minimums than traditional investment advisers."). 
+43 ACCENTURE, supra note 3 at 2 (“full-service advisors are looking at robo-advice as a way to serve smaller 
+accounts and increase advisor productivity.”); id. at 7 (“"Part of the excitement surrounding robo-advice services is 16-Aug-17]  Chicago-Kent Law Review (forthcoming)  7  DRAFT 
+ 
+least 1% of assets under management as fee for their services.44  Robo-advisers, on the other hand, 
+charge much less, including fees starting as low as 15 basis points of assets under management.45   
+In addition to their purported ability to provide broader access to financial advice at a lower cost, 
+robo-advisers are heralded for another aspect of the fiduciary rule – the purported ability to provide 
+conflict-free advice at a fiduciary level.46  Robo-advisers’ promises about the services they can 
+provide are also met with significant questions, including questions about their limitations and the 
+humans who may potentially introduce flaws into them.47   
+ 
+II. ROBO-ADVISERS DEFINED 
+ 
+Establishing a single definition of “robo-adviser” presents a problem:  there is no universal 
+platform or design.48  “Robo-adviser” as colloquially used encompasses a wide spectrum of 
+services  and  business  models,  but  all  provide  investment  advice  in  a  digital  format  using 
+proprietary algorithms.49  Beyond this common trait, there is substantial variation between robo-
+advice platforms, with differences in (1) end user of the digital advice; (2) range of investment 
+advice and options provided; and (3) level of human investment adviser interaction.50 
+                                                 
+their appeal to non-traditional clients, especially younger clients with fewer assets to manage.”); BLACKROCK, supra 
+note 10, at 6 ("For a large segment of the investing public, digital advisory services have the potential to provide 
+affordable and accessible services."). 
+44 Desai, supra note 29. 
+45 Id (“Fees are competitive and range between 15 to 35 basis points of AUM.”); See also Benjamin P. Edwards, 
+Conflicts and Capital Allocation, 78 OHIO ST. L.J. 181, 221 (2017) (describing fee structure of one robo-adviser that 
+does not charge any fees for accounts under $10,000 and 0.25% of assets under management for accounts over 
+$10,000).   
+A recent study of robo-advisory platforms found that they “present[] investors with an interesting value 
+proposition – with a price reduction of as much as 70 percent for some services.” ACCENTURE, supra note 5 at 2.  See 
+also THE BOARD OF THE INTERNATIONAL ORGANIZATION OF SECURITIES COMMISSIONS, REPORT ON THE IOSCO 
+SOCIAL  MEDIA  AND  AUTOMATION  OF  ADVICE  TOOLS  SURVEYS  at  4  (2014), 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD445.pdf  (“From  an  intermediary’s  perspective,  providing 
+customers advice through an automated means presents an opportunity to formulate and deliver advice in a cost 
+effective way.”); CFA INSTITUTE, supra note 1 at 11 (“cost, access to advice, and product choice are all viewed as 
+more likely to have a positive impact on customers.”)  
+46 BLACKROCK, supra note 10 at 12 ("Digital advisory services have the potential to significantly mitigate 
+behavioral finance biases and provide customized investment tools to individual investors at a relatively low cost."). 
+47 Thus, while Professors Tom Baker and Benedict G.C. Dellaert argue that a well-designed robo-adviser has the 
+capacity to operate at a greater level than humans, because the humans who design robo-advisers are flawed, robo-
+advisers may exhibit those flaws.  Tom Baker & Benedict G.C. Dellaert, Regulating Robo Advice Across the Financial 
+Services Industry __ Iowa L. Rev. __, at 18-19 (forthcoming 2017) available at https://ssrn.com/abstract=2932189.  
+48 BLACKROCK, supra note 10 at 1 (“Digital advice is not all the same”). 
+49 Investor.gov, supra note 34. (“The term 'robo-adviser' generally refers to an automated digital investment 
+advisory  program.”);  SIFMA,  DIGITAL  INVESTMENT  ADVICE  RESOURCE  CENTER  OVERVIEW, 
+http://www.sifma.org/issues/legal,-compliance-and-administration/digitial-investment-advice/overview/  (describing 
+robo-advisers as “digital investment advisers”);  ACCENTURE, supra note 4 at 2 (robo-advice is "the use of  automated 
+and digital techniques to build and manage portfolios of exchange-traded funds (ETFs) and other instruments for 
+investors"); U.S. Securities and Exchange Commission, SEC STAFF ISSUES GUIDANCE UPDATE AND INVESTOR 
+BULLETIN  ON  ROBO-ADVISERS  (2017),  https://www.sec.gov/news/pressrelease/2017-52.html  (robo-advisers  are 
+"registered investment advisers that use computer algorithms to provide investment advisory services online with 
+often limited human interaction.").  
+50 Investor.gov, supra note 34; U.S. Securities & Exchange Commission, supra note 32; BLACKROCK, supra note 8  Computer as Confidant  [16-Aug-17  DRAFT 
+  Comments welcome: niannarone@gsu.edu 
+ 
+ 
+A.  End Users of Robo-Advisor Advice 
+ 
+Robo advisory platforms are both industry- and investor-facing, with users who include 
+financial advisers, investors working without financial advisors, and investors working with 
+financial advisers.51  The financial industry has used digital tools for many years, perhaps even 
+without  investors’  knowledge.  For  example,  the  International  Organization  of  Securities 
+Commissions (IOSCO) found that firms use digital tools to gather the information upon which 
+human advisers make investment recommendations.52  Bo Lu, CEO of robo-adviser FutureAdvisor 
+believes that robo-adviser technology assists human investment advisers in serving their clients 
+because “they can have the digital platform take the workload off them and focus on things where 
+they add the unique value, such as relationship-building, trust-building, and coaching with their 
+clients.”53  Indeed, some even argue that a human investment adviser must use the technology 
+available in digital advisory products to fully understand the client and provide the best services.54 
+Other platforms using robo-advice are designed with an investor end user in mind.  Though 
+serving the same end-user, these investor-facing robo-advisers comprise myriad tools with varying 
+functionality.55  On one end of the spectrum is an advisory firm that integrates robo-advice 
+capabilities with traditional, human investment advisers.  The most simplistic hybrid platforms 
+obtain information from an investor to develop the customer’s profile so that a human investment 
+adviser can provide some level of traditional, face-to-face advice to an investor.56 Others offer 
+clients full access to digital investment advisory tools along with human support.  Robo-advisory 
+services partnered with a human investment adviser are cited as an option for ensuring that investor 
+clients with less assets than traditionally managed by an investment adviser can obtain the full 
+service advice that they may need for their particular circumstances.57 
+On the other end of the spectrum are fully digital robo-advisers that use an algorithm to review 
+information  input  by  the  customer  to  recommend  services  from  “asset  allocation,  to  tax 
+                                                 
+10 at 4 (differences include “(i) customization, (ii) tax management, (iii) human intervention/oversight, and (iv) type 
+of entity providing digital advice.”).   
+51 FINRA, REPORT ON DIGITAL INVESTMENT ADVICE at 2 (2016), https://www.finra.org/sites/default/files/digital-
+investment-advice-report.pdf (digital investment tools “can be broken down into two groups: tools that financial 
+professionals use,, referred to here as ‘financial professional facing’ tools, and tools that clients use, referred to here 
+as ‘client-facing’ tools.”).  
+52 THE BOARD OF THE INTERNATIONAL ORGANIZATION OF SECURITIES COMMISSIONS, supra note 36 at __. 
+53 SEC FINTECH FORUM, supra note 4 at 38.  See also BLACKROCK, supra note 10 at 6 (“these services can be 
+advantageous for financial institutions, including traditional advisors, by automating routine aspects of the client 
+servicing process and providing advisors with greater channels of communications with clients."). 
+54 Id. at 55 (Personal Capital’s Mark Goines describing how digital technology improves investment advisers’ 
+advice to their clients). 
+55 FINRA, supra note 50. 
+56 Id. 
+57 PWC, supra note 2 at 13 (“Robo-advisors provide a viable solution for this segment and, if positioned correctly 
+as part of a full service offering, can serve as a segue to full service advice for clients with specific needs or higher 
+touch.”); ACCENTURE, supra note 4 at 11 ("robo-advice services can be a bet on the future - a way to get customers 
+and financial advisors acclimated to working with machines that can enhance and extend human performance."). 16-Aug-17]  Chicago-Kent Law Review (forthcoming)  9  DRAFT 
+ 
+management, to product selection and trade execution.”58 All provided tools are on a digital 
+platform and many of the provided services, such as rebalancing of accounts to meet a pre-
+determined asset allocation, are accomplished automatically.59  Robo-adviser service models may 
+include one, all, or several different pieces of the available customer-facing digital investment 
+tools.60   
+ 
+B.  Range of Advice Provided and Investment Choices Available 
+ 
+Another definitional challenge relates to the range of advice and investment choices robo-
+advisers provide.61 The most simplistic digital investment tools include financial planning targets 
+for different ages and risk profiles that an investor may find on an investment adviser or broker 
+dealer’s website.62  Some digital advice tools go a step further and “provide[] a list of securities, 
+investment funds or model portfolios that may be considered low, medium, or high risk for 
+investors to choose from based on the customer’s risk appetite but without detailed information 
+about the individual customer.”63   
+The platforms that better fit the name robo-adviser provide tailored financial advice by 
+applying algorithms that analyze and make decisions based on customer-provided information 
+relating to financial circumstances and goals.  A recent study summarizes the spectrum of advice 
+such providers give:  "Algorithms can range from a simple or pre-packaged algorithm that builds 
+a single portfolio to a complex multi-strategy algorithm that reviews thousands of instruments and 
+scenarios in order to construct an aggregate portfolio based on an individual's current holdings, 
+investment horizon, and risk tolerance."64  Nevertheless, even the most sophisticated robo-advisers 
+that provide fully personalized advice based on specific investor inputs typically offer their 
+investors a narrower range of investment choices than traditional investment advisers, often 
+limiting choices to low-cost exchange-traded funds (ETFs) and mutual funds.65   
+ 
+C.  Levels of Human Involvement 
+ 
+Robo-advisers may not provide a human touch that some believe essential to the investor 
+adviser/client  relationship:  the  ability  to  provide  in-person  support,  comfort,  and  advice  to 
+investors in times of market volatility.66  The traditional investment adviser’s “personal touch” is 
+                                                 
+58 BLACKROCK, supra note 10 at 1. 
+59 Desai, supra note 1 (Robo-advisers' "services include automated portfolio planning, automatic asset allocation, 
+online risk assessments, account rebalancing and other digital tools."). 
+60 FINRA, supra note 50. 
+61 BLACKROCK, supra note 10 at 3 (“Digital advisors have a number of different investment philosophies, 
+methods, and strategies.  The algorithms fueling digital advice very in terms of sophistication.”).   
+62 THE BOARD OF THE INTERNATIONAL ORGANIZATION OF SECURITIES COMMISSIONS, supra note 36. 
+63 Id at 7-8. 
+64 BLACKROCK, supra note 10 at 3.     
+65 ACCENTURE, supra note 4 at 2. See also THE BOARD OF THE INTERNATIONAL ORGANIZATION OF SECURITIES 
+COMMISSIONS, supra note 36 at 27 (investment choices include “collective investment schemes, mutual funds, ETFs 
+and equity classes are the most common.”); The Board of the International Organization of Securities Commissions, 
+UPDATE ON THE REPORT ON THE IOSCO AUTOMATED ADVICE TOOLS SURVEY at 9 (Dec. 2016).   
+66  SEC Investor Advocate Rick Fleming described the role of the investment adviser in working with clients 
+during rocky markets: “[T]here’s a lot of benefit that comes from the human touch and having somebody there that’s 10  Computer as Confidant  [16-Aug-17  DRAFT 
+  Comments welcome: niannarone@gsu.edu 
+ 
+why some predict that robo-advisers will never entirely replace the traditional, human investment 
+adviser.67  Financial industry-backed studies support this prediction, finding that 74 percent of 
+investors prefer receiving their investment advice from a human in a volatile market.68     
+This does not mean, however, that investors employing robo-advisers do not interact with 
+humans.  The term “robo-adviser” may thus be a misnomer as it may lead investors to believe that 
+financial advice provided through such a service comes without any human interaction.69  Mark 
+Goines, vice chair of digital wealth management firm Personal Capital, says that “we don’t like 
+the term ‘robo’” because “even robo-advisors aren’t really robo-advisors.”70   A human touch is 
+required for all robo-advisers,71 though that touch differs from that of a traditional human 
+investment adviser by design so that the cost of the ultimate advice may be lower.72  Each robo-
+adviser makes its own decision about the total level of human involvement, though there are some 
+common themes.73  Humans must be involved in the design of robo-advice platforms and the 
+proprietary algorithms that deliver advice to the investor.74 Other humans ensure that robo-advisers 
+comply with relevant rules and standards, both within the advisory firm and outside the firm at the 
+regulatory level.75  Finally, some robo-adviser platforms even permit their investor customers to 
+                                                 
+going to sort of calm the waters and, when the markets are going down, making sure that investors aren’t making 
+really bad decisions at the worst possible time.  And so, I think it, again, is one of those things that sort of remains to 
+be seen, is how well technology can sort of replicate that and put those protections into place.”  SEC Fintech Forum, 
+U.S. SECURITIES & EXCHANGE COMMISSION, supra note 5 at 244.  Asquith, supra note 35 (“for many customers robo-
+advice is a poor substitute for a financial adviser who understand the customer’s needs and guides the customer 
+through market turbulence or life events.”). 
+67 ACCENTURE, supra note 4 at 5; SEC Fintech Forum, U.S. SECURITIES & EXCHANGE COMMISSION, supra note 
+5 at 243 (attorney John Walsh describing challenges faced by robo-advisers: “We’re used to face to face human 
+interaction, and we have confidence in our ability to deal with other people, and that’s why I think, even though 
+Fintech is booming and growing, personal advice has a big future ahead of it...”).   
+68  Capital  One  Investing,  RETIREMENT  CONFIDENCE  DIPS  IN  2017  (2017), 
+https://content.capitaloneinvesting.com/mgdcon/core/aboutus/press/20170310_Financial-Freedom-Survey.pdf 
+("when markets are volatile, most (74 percent) investors would prefer engaging a financial advisor"). 
+69 Humans play a significant role in all aspects of fintech, and scholars predict that will continue even as financial 
+technology continues to grow and change.  See, e.g., Tom C.W. Lin, The New Financial Industry, 65 ALA. L. REV. 
+567, 580 (2014) (describing myriad and key roles of humans in financial technological changes). 
+70 U.S. SECURITIES & EXCHANGE COMMISSION, supra note 5 at 27-28. 
+71 BLACKROCK, supra note 10 at 4 ("digital advisors have a fundamental obligation to oversee their systems and 
+mitigate risks associated with digital processes."). 
+72 U.S. SECURITIES & EXCHANGE COMMISSION, supra note 32.   
+73 Only one regulatory scheme, that in place in Canada, currently requires that humans either gather initial 
+customer information or proactively contact an investor if the investor’s responses to an online questionnaire appears 
+incomplete or provides inconsistent information.  See The Board of the International Organization of Securities 
+Commissions, UPDATE ON THE REPORT ON THE IOSCO AUTOMATED ADVICE TOOLS SURVEY at 6 (Dec. 2016) 
+(describing Canada’s phone and no-phone rules and requirement for no-phone advisers that customers be contacted if 
+their responses to an initial questionnaire raise potential concerns). 
+74 For example, robo-adviser firm Personal Capital’s Mark Goines notes that robo-adviser “tasks are automated 
+by humans who figure out what algorithms are, assign strategies, interpret data from people.”  SEC FINTECH FORUM, 
+supra note 4 at 27-28.   
+75 See BLACKROCK, supra note 10 at 10 (“We emphasize the need for investment professionals to be closely 
+involved in the design and oversight of the financial advice tool to ensure that the algorithm delivers the expected 
+outcome.”). 16-Aug-17]  Chicago-Kent Law Review (forthcoming)  11  DRAFT 
+ 
+work with a live investment adviser as part of their service model.76 The availability of such 
+services may be dependent upon the provider, the amount of assets under management, or the 
+package elected by the investor.77  When human interaction is part of a robo-adviser’s offerings, 
+it does not necessarily mean an in-person discussion with a dedicated investment adviser but may 
+instead be a phone call or electronic access to a member of an advisory team.78  In addition to 
+variation across the method of contacting a human investment adviser, robo-adviser platforms vary 
+in the frequency with which an investor can reach out to a human adviser.79   
+ 
+D.  Gathering Information and Making Investment Recommendations 
+ 
+Robo-advisers operate through the information they receive from the end user, which is, in our 
+case, the investor customer.80  In this way, robo-advisers differ very little from traditional 
+investment advisers in that both are required to begin by collecting information from their 
+customer in order to provide investment advice tailored to the individual investor.81  Human 
+investment advisers typically obtain information to know their customer and provide suitable 
+advice from a questionnaire.82  Robo-advisers obtain the same categories of information from their 
+customers prior to providing investment advice, also using a form of questionnaire.83  In both 
+cases, the information comes from the investor, and, in the case when an investment adviser gives 
+an investor a paper questionnaire to fill out, both the human- and robo- adviser clients provide the 
+initial information on their own.  Both human-based and robo-adviser questionnaires have been 
+criticized for purported failures to obtain full information from which to provide suitable advice 
+to the customer.84  In addition, regulators warn consumers considering robo-advisers that it may 
+be up to them to update their profile and financial circumstances.85   
+                                                 
+76 U.S. SECURITIES & EXCHANGE COMMISSION, supra note 32.  One industry study indicated that investors appear 
+to value digital advisers coupled with traditional, human investment advisers over digital advice provided directly to 
+investors with little human interaction.  See Capital One Investing, supra note 20.   
+77 U.S. SECURITIES & EXCHANGE COMMISSION, supra note 32. (“a robo-adviser may offer access to a person only 
+for accounts that meet a certain minimum account size.”). 
+78 Id. (“If a robo-adviser does make an investment professional available to you, the format and amount of the 
+interaction also may vary.”); id. (“a person may be available by email but not by phone.”). 
+79 Id. (“a person may be available…only for a limited number of in-person meetings.”). 
+80 SIFMA, supra note 10 (robo-advisers “offer discretionary investment advice using algorithms and information 
+provided by the customer.”). 
+81 For example, securities intermediaries using digital methods for obtaining sufficient information upon which 
+to base a recommendation report (1) that their tools “cover the mandated regulatory requirements”; (2)  “their tools 
+will not permit recommendations to be made unless all necessary information is obtained;” and (3) they rely on firm 
+account opening policies irrespective of whether the account is opened on-line or in person.” THE BOARD OF THE 
+INTERNATIONAL ORGANIZATION OF SECURITIES COMMISSIONS, supra note 36. 
+82 Michael Tertilt and Peter Scholz, To Advise, or Not to Advise – How Robo-Advisors Evaluate the Risk 
+Preferences of Private Investors, 1 (June 12, 2017), available at SSRN: https://ssrn.com/abstract=2913178 (“Financial 
+advisors typically complete a questionnaire to evaluate the client’s risk tolerance.”). 
+83 See, e.g., U.S. SECURITIES & EXCHANGE COMMISSION, supra note 32 (robo-adviser information collection via 
+online questionnaire); Tertilt, et al., supra note __ at 6-11 (describing robo-adviser information collection). 
+84 Tertilt, et al., supra note __ at 3 (“human questionnaires commonly used by financial planners do not adhere 
+to psychometric standards; they are generally too brief (a reliability problem) and contain too many ‘bad’ questions 
+(a validity problem).”).  
+85 U.S. SECURITIES & EXCHANGE COMMISSION, supra note 32 ("the burden to update this information will fall on 12  Computer as Confidant  [16-Aug-17  DRAFT 
+  Comments welcome: niannarone@gsu.edu 
+ 
+Robo-advice employs computer algorithms to recommend portfolio choices based upon the 
+investor’s response to the initial questions posed concerning their background, risk tolerance, and 
+goals.86  While robo-adviser proponents argue that computer generated advice lacks the conflicts 
+of interest or behavioral biases of human advisers, others note that algorithms may be the greatest 
+risk associated with robo-advisers.87  Cautions concerning the use of robo-advisers focus on the 
+potentially limited information upon which algorithm relies.88 One recent study focusing on a 
+subset of international robo-advisers found that, on average, robo-advisers ask few questions and 
+only use responses from a small proportion of those questions to generate their advice.89 Industry 
+experts recommend robust due diligence into and supervision of algorithms.90  In the same way 
+that  a  traditional  investment  adviser  must  know  her  customer  and  obtain  a  wide  range  of 
+information in order to provide suitable advice, the means through which robo-advisers provide 
+their advice - proprietary algorithms -- require robust inputs and are only as good as the information 
+upon which they base their calculations and recommendations.91 
+Although the robo-adviser designation can describe multiple models, end users, and degrees 
+of human involvement, this essay will focus on robo-advisory platforms with the investor client as 
+the anticipated end user of a digital platform that predominately delivers investment advice via 
+proprietary algorithms, including models where the client has access to a human investment 
+adviser for additional support.   
+                                                 
+you."). 
+86 Algorithms are not new.  Financial intermediaries began using them decades ago to replace roles formerly 
+processed by humans.  See, e.g., Arthur B. Laby, Reforming the Regulation of Broker-Dealers and Investment 
+Advisers, 65 Bus La. 395, 403 (2009) (describing introduction of ECNs and use of algorithms in 1990s to automate 
+trade executions and replace human judgment). 
+87 CFA INSTITUTE, supra note 2 at 14 (“46% of respondents note that flaws in automated financial advice 
+algorithms could be the biggest risk introduced from automated financial advice tools, followed by mis-selling (30%) 
+and privacy and data protection concerns (12%).”).  See also Tom C.W. Lin, Compliance, Technology, and Modern 
+Finance, 11 BROOK. J. CORP. FIN. & COMM. L. 159, 180 (2016) (“Uncertainty and risk in finance can never be perfectly 
+modeled, reduced, or eliminated.  Despite all the advances in new financial technology and artificial intelligence, there 
+exists no machine so smart that it flawlessly forecasts financial futures and economic risks in a world filled with 
+flawed, whimsical, and random human actors.”). 
+88 U.S. SECURITIES & EXCHANGE COMMISSION, supra note 32; Horacio A. Valeiras, Expert’s Corner: Portfolio 
+Construction Highly Dependent on the Initial Conditions, 23 PIABA B.J. 75, 75-76 (2016) (“However, as with so 
+many so-called investment panaceas, many of the robo-adviser models can lead to flawed portfolio construction 
+decisions caused by poorly analyzed assumptions and historical data”).   
+89 Tertilt, et. al, supra note __ at 19 (“In our sample, the robo-advisors pose around ten questions, but only about 
+ca. 60% of questions actually have an impact on the risk categorization…The recommended portfolios derived from 
+robo-advice seem to be rather conservative.”). 
+90 BLACKROCK, supra note 10 at 10 (“A number of key questions to be asked when conducting due diligence on the 
+algorithm include: (i) whether the algorithm factors in transaction costs or termination fees, if any; (ii) whether the 
+algorithm factors in tax implications and, if so, does it have the cost basis of each asset; and (iii) whether the algorithm 
+factors in the level of risk that is appropriate for the consumer, especially if the consumer has limited financial 
+knowledge and experience.”).   
+91  BLACKROCK, supra note 10 at 9 (“Digital advisors, like traditional advisors, are dependent on client-provided 
+information to gauge suitability, which is typically obtained through questionnaires.  The information gathered from 
+these questionnaires should be used to make appropriate recommendations to clients.”); SEC FinTech Forum, supra 
+note 5 at 65 ("I think it's malpractice to not understand a client and make a recommendation to them, and algorithms 
+with minimal input run the risk of not fully understanding the client."). 16-Aug-17]  Chicago-Kent Law Review (forthcoming)  13  DRAFT 
+ 
+ 
+III. REGULATION OF ROBO-ADVISERS UNDER CURRENT SCHEME AND IN THE FUTURE 
+ 
+ Robo-advisers face a dual challenge and opportunity: can they provide investment advisory 
+services meeting a fiduciary standard under the 1940 Act?92  The 1940 Act was the final major 
+financial legislation arising out of the Great Depression and its focus was on a new breed of 
+professionals:  investment  advisers  who  received  compensation  from  clients  to  recommend 
+investment strategies.93  At that time, little was known about the investment adviser industry and 
+the 1940 Act was perceived as an opportunity to learn about the industry and collect the names of 
+all practicing in the new arena. 94  Though it is well known today that investment advisers subject 
+to the 1940 Act owe their clients a fiduciary duty, the 1940 Act was promulgated without the term 
+fiduciary within it.  It was not until twenty years later that duties owed by investment advisers to 
+their clients was first addressed by the U.S. Supreme Court in Capital Gains Research Bureau v. 
+SEC, after which full disclosure became a hallmark of the fiduciary standard owed from investment 
+advisers to their clients.95  In subsequent cases, courts continued to shape the contours of the duties 
+owed to investor advisers’ clients.96  Since then, the fiduciary duty owed under the 1940 Act has 
+been defined as requiring disclosure, avoiding conflicts of interest, and acting in the customer’s 
+best interest.97 
+Although lawyers representing both human and robo-advisers have weighed in on whether 
+robo-advisers can meet the requirements of the 1940 Act, there is little in legal scholarship 
+addressing  whether  robo-advisers  can  be  fiduciaries.98    Nevertheless,  robo-advisers  avail 
+                                                 
+92 White, supra note 9. (“So, in this area, the key questions are focused on whether and how a firm meets its 
+Advisers Act obligations, as well as its fiduciary duties, when it provides only or primarily automated advice.”).   
+While it is possible that some robo-advisers are operating as broker-dealers, most direct to customer platforms 
+appear to be operating as investment advisers.  Accordingly, the remainder of this essay will discuss the investment 
+adviser regulatory framework rather than the duties owed by broker-dealers 
+93 Karmel, supra note __ at 406 (“As the last of the New Deal securities laws that date between 1933 and 1940, 
+the Advisers Act was probably the least considered and the least important.  It was a weak statute, which accomplished 
+little more than creating a registration list of investment advisers.”). 
+94 Investment Advisers and Disclosure of an Intent to Trade, 71 YALE L.J. 1342, 1342 (1962) ( “relatively little 
+was known about the practices of investment advisers; in fact, the act was in large part designed to acquire information 
+about the industry.”).  See also Arthur B. Laby, Reforming the Regulation of Broker-Dealers and Investment Advisers, 
+65 BUS LAW. 395, 403 (2009) (“little was known about the number of investment advisers operating at the time or the 
+amount of assets they managed”); id. (1940 Act “little more than a ‘compulsory census.’”).   
+95 Dealing by Advisers in Recommended Securities, 78 HARV. L. REV. 292, 294 (1964) (“By interpreting the act 
+to require full disclosure in any situation in which there is a possibility of bias, the client himself may evaluate the 
+disinterestedness of the advice.”). 
+96 Karmel, supra note __ at 410-411 (2016) (describing development of fiduciary duty for investment advisers 
+through judicial decisions). 
+97 Irwin, et al., supra note __ at 59. 
+98 Representing the traditional advisory community, lawyer Melanie Fein argues that robo-advisers cannot meet 
+the  1940  Act’s  standards.  See  Melanie  L.  Fein,  Robo-Advisors:  A  Closer  Look  at  1,  available  at  SSRN: 
+https://ssrn.com/abstract=2658701 (June 30, 2015) (robo-advisors “are not designed for retirement accounts subject 
+to ERISA and should be approached with caution by retail and retirement investors looking for personal investment 
+advice.”); Melanie L. Fein, FINRA’s Report on Robo-Advisors: Fiduciary Implications at 8, available at SSRN: 
+https://ssrn.com/abstract=2768295 (Apr. 1, 2016) (questioning whether robo-advisers can meet fiduciary standard). 
+On the other hand, lawyers at a firm that represents robo-advisers argue that robo-advisers do meet the fiduciary 
+standard.  See Morgan Lewis, The Evolution of Advice: Digital Investment Advisers as Fiduciaries at 17, available at 14  Computer as Confidant  [16-Aug-17  DRAFT 
+  Comments welcome: niannarone@gsu.edu 
+ 
+themselves to that framework, assuming its applicability and their ability to live up to it.99  Federal 
+regulators believe robo-advisers are subject to the 1940 Act just as human advisers are.100  The 
+SEC thus holds robo-advisers to the fiduciary standard.101  SIFMA, a group representing the 
+securities industry, appears to agree, stating that it is possible for robo-advisers to meet the 
+fiduciary standard.102  Only Massachusetts regulators so far present a contrary opinion, writing in 
+a policy statement that they do not believe that one subset of robo-advisers, those that are fully 
+automated, can meet a fiduciary duty.103  The consensus appears to be that since robo-advisers are 
+availing themselves to the 1940 Act, it is up to them to ensure, and prove, that they can comply 
+                                                 
+https://www.morganlewis.com/-/media/files/publication/report/im-the-evolution-of-advice-digital-investment-
+advisers-as-fiduciaries-october-2016.ashx?la=en&hash=7A28D9586FD8ACADC9731733BFE4281F4E6FEB49 
+(2016) (“digital advisers are capable of fulfilling fiduciary standards that are consistent with the scope and nature of 
+the advisory services that they provide to clients.”).  With a view towards the greater financial services industry, two 
+scholars have proposed some guiding principles from which a robo regulatory scheme can be developed.  See Tom 
+Baker & Benedict G.C. Dellaert, Regulating Robo Advice Across the Financial Services Industry __ Iowa L. Rev. __, 
+at 20 (forthcoming 2017) available at https://ssrn.com/abstract=2932189 (“we propose a regulatory trajectory, rather 
+than a regulatory agenda, that starts by building the necessary human capital and only then will move to setting an 
+agenda.”). 
+99 See The Board of the International Organization of Securities Commissions, UPDATE ON THE REPORT ON THE 
+IOSCO AUTOMATED ADVICE TOOLS SURVEY at 4 (Dec. 2016) (finding in study of international securities regulators 
+that majority of regulatory frameworks “are technology neutral and do not differentiate between advice or portfolio 
+management delivered by a human and that delivered by a software package, possibly win a human interface overlay.”) 
+available at www.iosco.org/library/pubdocs/pdf/IOSCOPD552.pdf.; id. at 10 (reporting FINRA/SEC response to 
+survey that concerns related to robo-advisers “also apply in the context of more traditional advisors and are unique 
+only to the extent that robo advisors place greater emphasis on technology.”).   
+100 Earlier this year, the SEC stated that digital investment advice under the Investment Advisers Act is no different 
+than human-directed financial advice:  “Robo-advisers, as registered investment advisers, are subject to the substantive 
+and fiduciary obligations of the Advisers Act.” Id.  Similarly, IOSCO’s 2014 international study on digital investment 
+tools  reported  that  “[a]ll  but  one  regulator  responding  to  the  survey  stated  that  the  rules  governing 
+advice/recommendations apply irrespective of whether the advice/recommendations were made by automated tools 
+or otherwise.” THE BOARD OF THE INTERNATIONAL ORGANIZATION OF SECURITIES COMMISSIONS, supra note 36 at 24. 
+Further, IOSCO found that regulators’ guidance to firms “on areas such as disclosure, the provision of advice, 
+supervision, AML, advertising and assessment is technology neutral… [and] applies irrespective of whether the advice 
+is given by telephone, email, internet, face-to-face or by a combination of these or other ways.”  Id. at 22.  See also 
+U.S. Securities and Exchange Commission, supra note 32 (“Providing financial advisory services electronically is 
+different than the traditional adviser model, but in many respects our [the SEC’s] assessment of robo-advisors is no 
+different than for a human-based investment adviser.”). 
+101 SEC, IM Guidance Update No. 2017-02: Robo-Advisers (February 2017) (“Robo-advisers, like all registered 
+investment advisers, are subject to the substantive and fiduciary obligations of the Advisers’ Act.”) 
+102 SIFMA, supra note 10 (“Digital investment advisers can fulfill their fiduciary duties under the law so long as 
+they act in good faith, disclose the material facts, and use reasonable care not to mislead clients.”).   
+103 See Massachusetts Securities Division, Policy Statement: Robo-Advisers and State Investment Adviser 
+Registration at 1 (April 2016) (“it is the position of the Division that fully automated robo-advisers, as currently 
+structured, may be inherently unable to carry out the fiduciary obligations of a state-registered investment adviser.”); 
+id. at 3 (defining fully automated robo-adviser as including following criteria: “(1) do not meet with or conduct 
+significant (or any) due diligence on a client, (2) provide investment advice that is minimally personalized, (3) may 
+fail to meet the high standard of care that is imposed on the appropriateness of investment advisers’ investment 
+decision-making, and (4) specifically decline the obligation to act in a client’s best interests.”).  Massachusetts’ 
+Securities Division does nevertheless believe that “robo-advisers and traditional advisers shoulder the same fiduciary 
+duty.”  Id. at 4.   16-Aug-17]  Chicago-Kent Law Review (forthcoming)  15  DRAFT 
+ 
+with it.104   
+If the robo-adviser industry is voluntarily availing itself to the 1940 Act, regulators’ next step 
+should be to test whether robo-advisers are meeting the 1940 Act’s requirements.  Such an inquiry 
+should use the current regulatory toolkit of disclosure, investigation, and enforcement.105  The SEC 
+appears to be pursuing this approach.  For example, a February 2017 staff guidance update 
+concerning robo-advisers identified three areas that robo-advisers should ensure they are meeting 
+to be in compliance with the 1940 Act: (1) adequate and effective disclosure; (2) collection of 
+information to deliver suitable advice; and (3) effective compliance systems.106  Following up 
+through investigation and pursuing enforcement for additional information will provide regulators 
+with information that can guide their next steps, including whether the current regulatory regime 
+is sufficient or if new regulations are needed.  Indeed, due to President Trump’s moratorium on 
+new regulation unless two other regulations are discarded, such an approach may be preferable to 
+creating new regulation specifically to address robo-advisers.107  While it seems counterintuitive, 
+refraining from regulation until more information about the industry emerges is a commonly used 
+approach and recommended by some scholars as a means of evaluating technological innovation 
+in the financial industry.108 
+Thus, before proposing regulatory changes to address the proliferation of robo-advisers, 
+                                                 
+104 See, e.g., Iris H-Y Chiu, Fintech and Disruptive Business Models in Financial Products, Intermediation and 
+Markets – Policy Implications for Financial Regulators,  21 J. Tech. L. & Pol’y 55, 90 (2016) (“it is for the providers 
+of such automated portals to demonstrate that they meet the same standards of suitability as those imposed on 
+investment advisers generally.”); Morgan Lewis, The Evolution of Advice: Digital Investment Advisers as Fiduciaries 
+at 17 (2016) available at https://www.morganlewis.com/~/media/files/publication/report/im-the-evolution-of-advice-
+digital-investment-advisers-as-fiduciaries-october-2016.ashx?la=en (lawyers for robo-advisers arguing that robo-
+adviser platform “fits entirely within the existing regulatory framework governing investment advisers.”). 
+105 There may also be a role for the private bar to take in ensuring that robo-advisers operating under the 1940 
+Act live up to their fiduciary standards.  See, e.g., Diana Novak Jones, Morningstar, Prudential Face Class Action 
+Over Robo-Adviser, Law360 (Aug. 4, 2017) (describing putative class action alleging that investment advisers 
+conspired to develop a robo-adviser that directed clients to high fee investments for benefit of advisers). 
+106 SEC, IM Guidance Update 2017-02: Robo-Advisers at 2 (Feb. 2017). 
+107 Presidential Executive Order on Reducing Regulation and Controlling Regulatory Costs (Jan. 30, 2017) 
+(“Unless prohibited by law, whenever an executive department or agency (agency) publicly proposes for notice and 
+comment or otherwise promulgates a new regulation, it shall identify at least two existing regulations to be repealed.”), 
+available  at  https://www.whitehouse.gov/the-press-office/2017/01/30/presidential-executive-order-reducing-
+regulation-and-controlling.   
+108 See, e.g., Chiu, supra note __ at 63 (“the regulatory engagement with financial innovation has always been 
+one of relative passivity and catch-up.  Regulators, cautious of not impeding the development of competitive 
+innovation and choice for consumers, often dismantle regulatory barriers to support competition or refrain from adding 
+such barriers.  This is because much of financial innovation depends on low cost and flexible models, which would 
+be stifled by the high cost of regulation. Thus, regulators often take a ‘wait and see’ approach, preferring to monitor 
+developments regulating financial innovation.”); id. at 94 (“The judgment-based approach championed internationally 
+and in the United Kingdom can form the basis for a regulatory approach that adopts early monitoring and reflective 
+consideration of the key aspects of fintech innovation in terms of ‘change,’ ‘substitutive potential,’ and ‘structural 
+impact.’”).   
+This approach is not without its risks.  See, e.g., Lin, supra note __ at 166 (2016) (“financial innovation frequently 
+finds roots in attempts to evade or arbitrage new regulation.”).  Regulators could be perceived as not protecting the 
+investing public, and any scandal or crisis involving robo-advisers before regulators have crafted specific regulations 
+may then result in over-regulation.  See, e.g., id. at 166-168 (describing over-regulation after economic crises, followed 
+with cycle of deregulation in future years, which increase compliance costs). 16  Computer as Confidant  [16-Aug-17  DRAFT 
+  Comments welcome: niannarone@gsu.edu 
+ 
+regulators should reflect upon the evolution of the 1940 Act and similarities between that time and 
+today.  Like the then-new investment adviser category of professionals that Congress hoped to 
+learn about through the 1940 Act, robo-advisers are not an entirely well-known, uniform, or 
+understood entity.109 As it did in developing the contours of the 1940 Act, regulators should use 
+existing rules and regulatory tools to develop knowledge about how robo-advisers operate before 
+constructing new regulation.110  For example, the SEC’s can employ enforcement actions as it did 
+in the early decades of the 1940 Act to learn about the robo-adviser industry, test whether the 
+existing contours of the 1940 Act’s fiduciary standard apply to robo-advisers, and consider refining 
+or expanding those contours as has been done in the past when the industry changed.111  
+In particular, because disclosure is a “bedrock principle of federal securities law,”112 it should 
+remain a key focus of regulators as they determine what, if any, additional regulatory is necessary.  
+Disclosure is a crucial aspect of fiduciary relationships because it goes to the heart of trust, the 
+very relationship that some believe hardest for robo-advisers to achieve without a human touch.113  
+It is therefore not surprising that the robo-adviser industry and regulators alike recognize the 
+important role disclosures play in transparency relating to robo-advisers’ operations, algorithms, 
+limitations and assumptions.114  Regulators have already begun to focus on the quality and content 
+of robo-adviser disclosures to ensure their compliance with the 1940 Act, concerned that customers 
+will not fully understand what specifically the robo-adviser is providing to them.115  Scholars 
+                                                 
+109 See Arthur B. Laby, Models of Securities Regulation in the United States, 25 Ford. Int’l L. J. 20, 26 (1999) 
+(describing objections to regulation of investment advisers before promulgation of 1940 Act including “that the 
+profession was not yet mature enough to be regulated.”). 
+110 Internationally, regulators are already taking this approach.  IOSCO reports that eight regulators, including 
+FINRA and the SEC, “reported that their existing rules appear to be sufficient at the present time to cover automated 
+advice tools.” The Board of the International Organization of Securities Commissions, UPDATE ON THE REPORT ON 
+THE IOSCO AUTOMATED ADVICE TOOLS SURVEY at 13 (Dec. 2016). 
+111 See, e.g., Karmel, supra note __ at 407 (2016) (“As frequently occurs when the SEC is unable to engage in 
+rulemaking, it has attempted to impose its views concerning proper conduct upon investment managers through 
+enforcement actions.”).  Use of enforcement as an after-the-fact tool to regulate financial intermediaries is not without 
+criticism, with some arguing for regulation before enforcement.  See Onnig H. Dombalagian, Preserving Human 
+Agency in Automated Compliance, 11 Brook. J. Corp. Fin. & Comm L. 71, 81-83 (2016) (describing critiques of 
+enforcement as regulatory tool and shift towards prophylactic regulatory scheme). 
+112 Barbara Black, Are Retail Investors Better Off Today?, 2 BROOK. J. CORP. FIN. & COM. L. 303, 306-307 (2008). 
+113  SEC FINTECH FORUM, supra note __ at 18 ("the most interesting part of this sort of disruption is that the 
+paradigm of how we establish trust online is changing"). Others in the industry similarly believe that from an investor 
+protection standpoint, FinTech boils down to trust.  See, e.g., id. at 234 (“Are they [robo-advisers] trustworthy? And 
+it’s not just does it work or is the disclosure right, but what is it about it that will make it trustworthy…?”). 
+114 Both the industry and regulators seem to agree the complete and clear disclosure of key elements of robo-
+advisers is required.  See, e.g., BLACKROCK, supra note 10 at 10 (“digital advisors should disclose to clients the limits 
+of their services and their dependence on client-provided information”); id. at 9 (“It is important that digital advisors 
+reasonably design their algorithms based on their stated investment strategies and methods and make appropriate 
+disclosures to clients concerning such investment strategies and methods.”); SEC, IM Guidance Update 2017-02: 
+Robo-Advisers at 3-6 (Feb. 2017) (describing quality, quantity, and form of disclosure that robo-advisers may need to 
+meet requirements of 1940 Act); U.S. Securities & Exchange Commission, Investor Alert: Automated Investment 
+Tools,  available  at  https://www.sec.gov/oiea/investor-alerts-bulletins/autolistingtoolshtm.html  (May  8,  2015) 
+(advising investors to “[r]eview all relevant disclosures for an automated investment tool”). 
+115 See, e.g., SEC, IM Guidance Update 2017-02: Robo-Advisers at 3-6 (Feb. 2017) (describing special 
+considerations for disclosure that may apply to robo-advisers due to their unique features); The Board of the 16-Aug-17]  Chicago-Kent Law Review (forthcoming)  17  DRAFT 
+ 
+similarly argue that disclosure should be a key component of future regulation applicable to 
+artificial intelligence’s growth in the financial industry.116 
+Disclosure is not, however, a miracle cure that renders robo-advisers appropriate for every, or 
+even any, investor.117  Indeed, commentators criticize current robo-advisers operating under the 
+1940  Act  for  purportedly  using  their  disclosures  to  limit  the  scope  and  character  of  their 
+relationship with clients in an entirely permissible manner, but one that investors may not 
+understand.118  From the time of the Capital Gains definition of fiduciary responsibilities owed by 
+the investment adviser to the client, commentators suggested that disclosure may not be an 
+effective device.119  Investor uses of and actions after disclosure are sometimes unintended or 
+illogical.120  Disclosures to consumer investors in the mutual fund context, a type of investment 
+that appeals to the same retail investors as robo-advisers, have been criticized as too dense and 
+difficult to read, let alone understand, even before SEC plain English requirements.121  Regulators 
+should recommend robo-adviser disclosures that do not suffer from this critique.122   
+In addition to using current tools, it is imperative that, along a parallel track, the current 
+regulatory tools be studied to determine their efficacy in protecting consumers.  For example, 
+studying  retail  investor  understanding  of  robo-adviser  disclosures  will  provide  valuable 
+information from which to further evaluate this key tool.123  Thus, in addition to reviewing robo-
+                                                 
+International Organization of Securities Commissions, UPDATE ON THE REPORT ON THE IOSCO AUTOMATED ADVICE 
+TOOLS SURVEY at 11 (Dec. 2016) (describing regulator, including FINRA and SEC, “concerns about customers 
+lacking awareness of, or not understanding, the limitations of automated advice tools.  Clients may not understand the 
+service offered; for example that the automated advice tool may not consider their full financial and personal 
+circumstances.”); Massachusetts Securities Division, Policy Statement: State-Registered Investment Advisers’ Use of 
+Third-Party Robo-Advisers at 1 (listing six items as minimum required disclosure). 
+116 Tom C.W. Lin, The New Financial Industry, 65 ALA. L. REV. 567, 599-603 (2014) (arguing for enhanced 
+disclosure as component of multi-part framework for regulating “cy-fi.”).   
+117 See generally Tamar Frankel, The Failure of Investor Protection by Disclosure, 81 U. CIN. L. REV. 421 (2013). 
+118 Melanie L. Fein, Robo-Advisors: A Closer Look, available at SSRN: https://ssrn.com/abstract=2658701 (June 
+30, 2015); Melanie L. Fein, FINRA’s Report on Robo-Advisors: Fiduciary Implications, available at SSRN: 
+https://ssrn.com/abstract=2768295 (Apr. 1, 2016); But see Morgan Lewis, The Evolution of Advice: Digital Investment 
+Advisers as Fiduciaries, at 7 (2016), available at https://www.morganlewis.com/~/media/files/publication/report/im-
+the-evolution-of-advice-digital-investment-advisers-as-fiduciaries-october-2016.ashx?la=en (arguing that investment 
+advisers may limit the scope of their relationship with clients). 
+119 A case note describing the Capital Gains decision at the time of its issuance noted flaws inherent in disclosure.  
+Dealing by Advisers in Recommended Securities, 78 Harv. L. Rev. 292, 295 (1964) (“If the investing public is truly 
+naïve, disclosure does not provide a realistic method of protection.”). 
+120 See, e.g., Arthur B. Laby, Reforming the Regulation of Broker-Dealers and Investment Advisers, 65 Bus. Law. 
+395, 429-230 (2009) (describing concerns with disclosure of conflicts of interest as including lack of filtering of 
+information between conflicted principal and client, understanding the magnitude of bias the disclosed conflict creates, 
+and focus on investor and exclusion of how the disclosure impacts the disclosor’s actions); Troy A Paredes, Blinded 
+by the Light: Information Overload and its Consequences for Securities Regulation, 81 Wash. U. L.Q. 417, 441-443 
+(2003) (describing information overload and impact on decision making). 
+121 See, e.g., Barbara Black, Are Retail Investors Better Off Today?, 2 Brook. J. Corp. Fin & Comm. L. 303, 325-
+327 (2008) (describing mutual fund disclosures as “dismal,” too complicated, and difficult to digest). 
+122 See Benjamin P. Edwards, The Professional Prospectus: A Call for Effective Professional Disclosure, __ 
+Wash. & Lee L. Rev. __, 33 (forthcoming 2017) (arguing that disclosures for a  Professional Prospectus that would 
+allow consumers to have more information about professional service providers should presents “information in a 
+short, standardized, and clear format”). 
+123See Black, supra note __ at 333 (“To state the obvious, the purpose of disclosure should be to provide useful 
+information to investors.”); Paredes, supra note __ at 418 (describing two necessary components of disclosure’s 18  Computer as Confidant  [16-Aug-17  DRAFT 
+  Comments welcome: niannarone@gsu.edu 
+ 
+adviser disclosures for completeness and accuracy, outside studies should be conducted to evaluate 
+consumers’  comprehension  of  disclosures  being  made  to  them.124    These  studies  should 
+incorporate a focus beyond behavioral finance and cognitive biases and start with a threshold of 
+comprehension.  In particular, studies should incorporate experts in adult literacy to determine 
+whether and how much information in disclosures is being comprehended and to develop best 
+practices for crafting effective disclosures that will allow investors to truly understand the contours 
+of their relationship with their robo-adviser.125   
+Moreover, it is necessary to explore the means of disclosure in addition to retail investors’ base 
+comprehension of it.  Robo-advisers’ technological innovations may be effective in deploying 
+disclosures  to  retail  investors.126    Accordingly,  regulators  should  explore  robo-advisers’ 
+technological capacities to deliver disclosures in a fashion more relevant to today’s investors.127  
+While technology could address some of the critiques of information overload associated with 
+disclosures in investing, challenges nevertheless remain.128  Robo-advisers provide an interesting 
+opportunity to determine if, and how, their purportedly consumer-friendly technology can be 
+deployed to increase efficacy and consumer comprehension of disclosures.129  For example, 
+regulators and robo-advisers alike could explore robo-adviser capabilities to track whether and to 
+                                                 
+efficacy: that information is disclosed and that end users of the disclosure “use the disclosed information effectively.”). 
+124 See, e.g., Paredes, supra note __ at 420 (advocating “more empirical research to better understand how 
+investors process information and make investment decisions.”); id. (“the federal securities laws could be improved 
+by accounting for how investors actually process information and make decisions.”). 
+125 Black, supra note __ at 337 (“the likelihood that investors will be forced to participate in markets that they do 
+not understand and that they do not perceive as fair should drive current reform efforts.”); Paredes, supra note __ at 
+432 (“for our mandatory disclosure system to work, securities market participants must not only have access to 
+information, but must be able to search and process in an effective manner the information that is disclosed.”).   
+126 See, e.g., SEC, IM Guidance Update 2017-02: Robo-Advisers at 5-6 (Feb. 2017) (describing how consumer 
+engagement with robo-advisory platforms may require different format and character of disclosures involving 
+technological innovation).  In recent years, regulators have focused attention to the collection and dissemination of 
+data in formats that will permit regulators and scholars to interpret and use the data with the hope that retail investors 
+may also be able to benefit from the information.  See Onnig H. Dombalagian, Preserving Human Agency in 
+Automated Compliance, 11 BROOK. J. CORP. FIN. & COM. L. 71, 74-75 (2016) (describing regulatory efforts to 
+standardize and automate information relating to disclosures for more meaningful use); Paredes, supra note __ at 479-
+480 (advocating for investor education and training coupled with decision aids to encourage more effective investor 
+use of disclosure). 
+127 Investor Advocate Rick Fleming has argued that current disclosure regimes have not kept up with how 
+Americans access information and that “new technologies give us new opportunities to provide disclosure that is both 
+comprehensive and comprehensible.  Times have changed, and so should the delivery of information to investors.”  
+Rick  A.  Fleming,  Effective  Disclosure  for  the  21st  Century  Investor  (Feb.  20,  2015),  available  at 
+https://www.sec.gov/news/speech/022015-spchraf.html.  
+128 See, e.g., Erik F. Gerding, Disclosure 2.0: Can Technology Solve Overload, Complexity and Other Information 
+Failures?, 90 TULANE L. REV. 1143, 1167-1180 (2016) (discussing technology's  potential and challenges  in 
+addressing informational overload and complexity issues investors face in assessing securities and arguing for 
+evidence to inform disclosure initiatives); id. at 1146 ("Can new technologies help investors understand complex 
+firms, particularly financial institutions, as well as complex financial instruments and markets, while not overtaxing 
+the cognitive abilities of individuals? Investors need a rich set of information to value firms and securities, but the fear 
+is that they cannot process too much information or that too much information will exacerbate behavioral biases and 
+prompt cognitive errors."). 
+129 See Tom C.W. Lin, The New Financial Industry, 65 ALA. L. REV. 567, 601 (2014) (arguing that “policymakers 
+should examine new ways to leverage technology towards creating a better, more workable disclosure framework.”) 16-Aug-17]  Chicago-Kent Law Review (forthcoming)  19  DRAFT 
+ 
+what extent their customer users read and understand disclosures and follow up with those 
+consumers who may need additional attention to fully understand.130 
+ 
+CONCLUSION 
+Robo-advisory platforms, as newer entrants to an established advisory industry, challenge 
+convention and will disrupt the provision of financial advisory services in the future.  Though 
+“robo-adviser” is currently synonymous with innovation, the industry’s swift growth may render 
+the services it provides so ubiquitous that the term will fade away.131  Yet the means through which 
+advice is provided is not fully understood and will continue to evolve.132 Operating within an 
+existing framework, the robo-advisers now regulated under the 1940 Act will challenge regulators 
+to examine and articulate the parameters of the fiduciary duties they owe to the clients and how 
+those duties will be met.  However, just as with the promulgation of the 1940 Act, the application 
+of the current regulatory regime to a new breed of advisers will guide regulators and shape investor 
+protection policy after study and real-world experiences inform direction and identify needs and 
+gaps.  The new breed of investment advisers, robo-advisers, provide regulators with an opportunity 
+to refocus on the core principles of the 1940 Act and use their current tool kit to guide future 
+activity while evaluating whether the technology itself affords opportunities to better ensure that 
+the consumer protection aspect of disclosure actually results in fully informed consumers. 
+                                                 
+130 For example, Canadian regulators require robo-advisers to follow up with a telephone call to any investor 
+whose response to online initial information appears to be incorrect or inconsistent.  See The Board of the International 
+Organization of Securities Commissions, UPDATE ON THE REPORT ON THE IOSCO AUTOMATED ADVICE TOOLS 
+SURVEY at 6 (Dec. 2016).  Robo-advisers could develop algorithms to determine whether customers need additional 
+disclosure mechanisms if, for example, they have not spent a certain amount of time on a disclosure page before 
+acknowledging that they have read it. 
+131  In the SEC’s FinTech forum, robo-advisor Betterment’s CEO Ben Alden described how robo-advisers may 
+be subsumed into the lexicon of financial services as they continue to grow: “We don’t use “online brokerage” or 
+“discount brokerage” quite the way that it was in the, you know, ‘80s-‘90s, and I think, similarly, “robo-adviser” will 
+drop away.” SEC Fintech Forum, supra note __ at 71. 
+132 See, e.g., Lin, supra note __ at 163 (arguing that technology will continue to transform all aspects of financial 
+industry in future years). 

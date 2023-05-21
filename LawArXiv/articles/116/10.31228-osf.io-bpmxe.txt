@@ -1,0 +1,961 @@
+last revised 9/8/2017 
+District Court Opinions that Remain Hidden  
+Despite a Longstanding Congressional Mandate of Transparency –  
+The Result of Judicial Autonomy and Systemic Indifference* 
+Peter W. Martin** 
+The E-Government Act of 2002 directed the federal courts to provide access to all their written opinions, in text-
+searchable format, via a website.  Ten years later the Judicial Conference of the United States approved national 
+implementation of a comprehensive database of those opinions through a joint venture between the courts and the 
+Government Publishing Office (GPO).  Despite the promise implicit in these initiatives, public access to many 
+thousands of federal district court decisions each year remains blocked.  They are effectively hidden.  Many court 
+websites lack a clear link to opinions, only a bare majority of district courts transmit decisions to the GPO, and far 
+too many courts and judges fail to take the steps necessary for opinion distribution beyond the parties. 
+Using the large volume of district court Social Security litigation to measure and illustrate these failures, the article 
+examines their dimensions, consequences, and causes.  It concludes that the problem is a large one, that it poses a major 
+challenge to those carrying out empirical studies and judicial analytics, and that the courts' radical decentralization 
+combined with judicial autonomy will continue to frustrate goals of public access unless serious measures are taken at 
+the national level.  Finally, it argues that inclusion in the GPO database of federal judicial opinions should cease being 
+optional. 
+I. Introduction 
+In the course of a year, nearly 300,000 civil actions1 and more than 75,000 criminal proceedings2 are 
+begun in the U.S. District Courts, the federal judicial system’s general-purpose courts of first 
+instance.  In resolving those matters, district judges and magistrate judges write and file many 
+thousands of opinions.  They range from rulings on preliminary motions to final judgments.3   
+Throughout the era in which lawyers, judges, and others seeking relevant case law searched in and 
+read from print law reports, the federal government assumed no direct responsibility for the 
+selection, collection, or publication of these decisions.  Those tasks were performed in the private 
+sector, most comprehensively by a publisher that worked so closely with the courts and their judges 
+that many thought of its books as “official.”  In a functional, although not a legal, sense they were. 
+                                                 
+*© Peter W. Martin, 2017.  This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 
+3.0 License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/3.0/. 
+** Jane M.G. Foster Professor of Law, Emeritus, and cofounder, Legal Information Institute, Cornell Law School, 
+Ithaca, New York 
+1 Administrative Office of the U.S. Courts, U.S. District Courts - Civil Cases Filed, Terminated, and Pending, by 
+Jurisdiction, Table C-3 (June 30, 2016), http://www.uscourts.gov/report-names/statistical-tables-federal-judiciary.  
+2 Administrative Office of the U.S. Courts, U.S. District Courts - Criminal Defendants Filed, Terminated, and Pending 
+(Including Transfers), Table D (June 30, 2016), http://www.uscourts.gov/report-names/statistical-tables-federal-
+judiciary. 
+3 The FDsys database of “written opinions” currently includes 115,503 from U.S. District Courts for the year 2016.  As 
+will be explained shortly, that database is seriously incomplete. 
+Pa g e  | 1 During that period, publication was highly selective.  The volume of decisions and economics of 
+publication made that a necessity.  Moreover, unlike the decisions of the Supreme Court and Court 
+of Appeals, none of these constituted precedent, in the strict sense.  For any given district court 
+opinion to be available as a reference for lawyers, judges, and others beyond the parties, the 
+publisher had to view it as sufficiently important to warrant publication.  Some district judges sought 
+publication of their opinions.  Others were indifferent.4  Publishers of looseleaf services covering 
+particular areas of law in depth – environmental, intellectual property, or labor, for example – 
+routinely included district court decisions passed over by the editors of the general-purpose Federal 
+Supplement reporter.  Opinions disseminated in that fashion or even informally enjoyed no lesser 
+authority. 
+Once the production and release of court documents shifted to electronic means filtering became 
+logistically and economically unnecessary.  The publication of legacy print reports continued, 
+furnishing a familiar means of citation for those decisions appearing in their pages, but lawyers and 
+judges ceased using those reports directly and limiting their district court case law research to the 
+three thousand or so decisions put out in print each year.5 
+By the turn of the Twenty-First Century, the Internet had revealed itself to be a means of 
+disseminating government-generated documents of unprecedented effectiveness.  That led 
+Congress, for the first time, to place responsibility for opinion publication directly on the district 
+courts and all other federal courts.  A provision of the E-Government Act of 2002 required federal 
+courts to begin furnishing online access “to the substance of all written opinions . . ., regardless of 
+whether such opinions are to be published in the official court reporter.”6  It set a deadline of April 
+2005 and specified that these online opinions had to be in “text-searchable format.”7 
+At the time of the law’s enactment, many federal courts were already doing much if not all that it 
+required.  The Supreme Court had gone online in April 2000 with a site that provided access to its 
+decisions as released in slip opinion form, together with electronic replicas of 24 volumes of the U.S. 
+Reports.8  All the U.S. Courts of Appeals were, by then, placing their “published” or precedential 
+opinions at a web site.9  Although the district courts presented a more mixed picture, in late 2002 
+over half of them were providing online access to at least some decisions.10  The E-Government Act 
+                                                 
+4 See Ellen Platt, Unpublished vs. Unreported: What's the Difference?, PERSPECTIVES: TEACHING LEGAL RESEARCH AND 
+WRITING, Fall 1996, at 26, 27. 
+5 Federal Supplement, Third Series (F. Supp. 3d) published by Thomson Reuters includes only 2816 district court decisions 
+rendered during 2016.  The publisher’s companion Federal Rules Decisions (F.R.D.) contains an additional 22.  Those 
+counts are based on the Westlaw search “advanced: (judge) & CI(“F.Supp.3d”) %(“not reported”)” restricted to 
+opinions dated between 1/1/2016 and 12/31/2016 and an equivalent search for “CI(“F.R.D.”). 
+6 E-Government Act of 2002, 107 Pub.L. 347, § 205(a)(5). 
+7 Id. 
+8 See Supreme Court of the United States, http:// http://www.supremecourtus.gov/, as captured by the Internet 
+Archive WayBack Machine on June 20, 2000; The Public Information Office, Supreme Court of the United States, 
+Supreme Court to Implement Website (April 10, 2000), 
+http://quux.org:70/Government/USA/Supreme%20Court/scus/http/www.supremecourtus.gov_80/publicinfo/press
+/pr_04-10-00.html. 
+9 See Federal Law Materials – Judicial Opinions, http://www.law.cornell.edu:80/federal/opinions.html, as captured by 
+the Internet Archive WayBack Machine on Oct. 13, 2002, https://web.archive.org/. 
+10 See Federal Law Materials - District & Bankruptcy Courts, 
+http://www.law.cornell.edu:80/federal/districts.html, as captured by the Internet Archive WayBack Machine on Oct. 
+14, 2002, https://web.archive.org/. 
+Pa g e  | 2 gave federal courts that lagged in these developments over two years to catch up and set for all a 
+standard of comprehensiveness and usefulness, not satisfied by the release of only selected or 
+published or recent opinions or scanned images of paper documents. 
+Many, including some judges, imagined that act’s requirement would dramatically improve access to 
+the full range of federal decisions – for litigants, lawyers, and others.  While a judge on the U.S. 
+Court of Appeals for the Third Circuit, Supreme Court Justice Samuel A. Alito chaired the Advisory 
+Committee on the Federal Rules of Appellate Procedure.  In that capacity he led a lengthy study of 
+the diverse circuit court rules governing the withholding of vast numbers of “routine” opinions 
+from publication and limiting citation to such “unpublished” decisions.  (Also sitting as a member of 
+the same committee was a judge of the D.C. Circuit, now Chief Justice of the Supreme Court, John 
+G. Roberts, Jr.)  In the face of judicial resistance that ranged from mild to fierce, the committee 
+recommended a new rule overturning all past circuit policies that forbade the citation of 
+unpublished opinions.  With some revision by the Judicial Conference of the United States and 
+following a year’s delay, the committee’s recommendation was adopted as Rule 32.1 of the Federal 
+Rules of Appellate Procedure.  Responding to concerns about access to unpublished opinions, 
+especially on the part of those unable or unwilling to pay the high prices of Lexis or Westlaw, Justice 
+Alito’s committee pointed to the E-Government Act.  Said the report: “The disparity between 
+litigants who are wealthy and those who are not is an unfortunate reality.”  But, it continued: “[T]he 
+solution is found in measures such as the E-Government Act, which makes unpublished opinions 
+widely available at little or no cost.”11 
+Over a decade later, effective and comprehensive access to district court decisions remains an 
+elusive goal.12  Large numbers remain hidden from lawyers, academics, and the general public.  This 
+article explores the scope, consequences, and underlying causes of that largely unacknowledged 
+reality. 
+II. Consequences 
+What is at stake?  What is the harm if a good number, even thousands, of district court opinions 
+remain out of sight, failing to make it to the surface?  There are, after all, so many of them.  Few are 
+momentous.  During the print era publication was the exception. 
+Unlike the U.S. Courts of Appeals, with the exception of a few mavericks,13 district court judges 
+have never made a categorical distinction between their “published” and “unpublished” opinions.  
+While no district court opinion constitutes “precedent” in the strict sense of being binding on either 
+the deciding court or another court addressing the same question in a future case, all have the force 
+of their persuasive power.  That power is especially strong, it can be hoped, in similar cases coming 
+before the same judge or court.  In some fields, particularly those with few binding precedents 
+                                                 
+11 Memorandum from Hon. Samuel A. Alito to Hon. David F. Levy, at 6 (May 6, 2005), 
+http://www.uscourts.gov/sites/default/files/fr_import/AP5-2005.pdf. 
+12 While this article focuses on federal district court opinions, there is no reason to suppose that bankruptcy court 
+decisions present a different picture. 
+13 See, e.g., Davis v. U.S., 944 F.Supp.2d 36 (D.D.C. 2013) (as the citation reveals a decision published in the Thomson 
+Reuters Federal Supplement series despite being designated "not intended for publication").  For years many decisions 
+of the U.S. District Court for New Jersey have been labelled “Not for Publication.”  See, e.g., Kendrick v. Guanci, No. 15-
+8354 (CCC) (D.N.J. Feb. 1, 2017) (available from both Google Scholar and Lexis).  
+Pa g e  | 3 flowing down from court of appeals or Supreme Court decisions, individual district court decisions 
+can exert great influence.  In the current era, this can be so whether or not they were nominated by 
+their author and selected by the publisher for inclusion in the print Federal Supplement series.14  
+Beyond their weight as authority, it is possible for district court opinions to hold significant value 
+simply as tested templates for lines of legal argument. 
+Last and not least, opinions that resolve contested legal matters constitute data on judicial decision-
+making and lawyer effectiveness.  In June 2017, LexisNexis announced the acquisition of the San 
+Francisco start-up, Ravel Law.15  The transaction would, both parties declared, strengthen 
+LexisNexis through the integration of Ravel’s judicial analytics.  To state the obvious, judicial 
+opinions that are, as a practical matter, hidden from view cannot be analyzed for purposes of 
+prediction or strategic decision-making.16  They are equally unavailable to academics or public bodies 
+conducting empirical studies. 
+III. Illustrating the Problem – One District Court, One Type of Case 
+Each year the U.S. District Court for the Middle District of Florida receives approximately 850 civil 
+complaints challenging rulings on benefit eligibility or amount by the Social Security Administration 
+(SSA).  Nearly 150 of them are filed with the court’s Tampa division.  Each is handled by one of six 
+magistrate judges.  When both parties consent, the assigned magistrate judge handles the case 
+straight through to final judgment.  If consent is withheld, the magistrate judge prepares a report and 
+recommendation for the assigned district judge.  Either party can object to that proposed resolution, 
+but it is, more often than not, adopted in full.  During 2016 over fifty Social Security appeals 
+assigned to Magistrate Judge Anthony E. Porcelli were concluded.  One concerned the denial of 
+disability insurance benefits to James Thomas Ates.  On August 1, 2016, Judge Porcelli issued an 
+eight-page order in the Ates case, reversing the agency’s decision.17  His order remanded the case to 
+the Social Security Administration for further proceedings.  Ted Taylor, the lawyer handling the 
+appeal, was notified immediately by an email message generated by the court’s electronic case 
+management and filing system.  He in turn notified Mr. Ates.  It was good news for both.  Ates 
+                                                 
+14 Judged by citation count, notable examples include Almonte v. New York State Div. of Parole, No. 9:04-CV-484 (GLS) 
+(N.D.N.Y. Jan. 18, 2006) (which Shepard’s counts as being cited 397 times, 34 of them warranting the label “followed”) 
+and Marquez v. Colvin, No. 12 Civ. 6819 (PKC) (S.D.N.Y. Oct. 9, 2013) (cited 125 times according to Shepard’s, followed 
+14). 
+15 LexisNexis Announces Acquisition of Ravel Law (June 8, 2017), https://www.lexisnexis.com/en-us/about-
+us/media/press-release.page?id=1496247082681222.  For more about Ravel’s analytics, see Robert Ambrogi, Ravel Law 
+Launches Court Analytics for Federal and State Courts, Law Sites (Dec. 5, 2016), 
+http://www.lawsitesblog.com/2016/12/ravel-law-launches-court-analytics-federal-state-courts.html. 
+16 The Lex Machina “Legal Analytics” products, also acquired by LexisNexis, all rest on federal court data.  See Lex 
+Machina, https://lexmachina.com/.  Other vendors offering “legal analytics” services include Bloomberg Law.  See New 
+Bloomberg Law Litigation Analytics Solution Provides Insights into Judicial Behavior, Bloomberg BNA (Oct. 18, 2016), 
+https://www.bna.com/new-bloomberg-law-pr57982078782/. 
+17 Ates v. Comm’r of Soc. Sec., No. 8:15-cv-1014-AEP (M.D. Fla. Aug. 1, 2016), http://www.access-to-
+law.com/pacer/MDFla_15cv01014_08012016.pdf.  Writing on this subject requires citing opinions unavailable from the 
+standard online sources.  Judge Porcelli's opinion in Ates and most of the others falling into this category can be 
+retrieved by PACER subscribers at $.10 a page from that system via a direct link, in this instance: 
+https://ecf.flmd.uscourts.gov/doc1/047116358216.  But having already located and retrieved these decisions, in each 
+case incurring the fee, I have decided to place all of them online at an open site.  That site is the target of the prior link 
+and those provided for other “hidden opinions” throughout the article. 
+Pa g e  | 4 could look forward, upon remand, to better than even odds of receiving benefits.18  For his attorney 
+the decision opened the prospect of immediate compensation.  Taylor promptly moved for an 
+award of fees under the Equal Access to Justice Act.  In an opinion dated September 7, Judge 
+Porcelli ruled that the act’s terms were met and awarded Ates and, by assignment, Taylor 
+$4,365.90.19 
+Although both Ates opinions clearly fall under the E-Government Act’s access mandate, neither is 
+available via a written opinion retrieval from the court’s site.  As a consequence, those researching 
+Social Security cases on Lexis, Westlaw, Bloomberg Law, Casemaker, Fastcase, Google Scholar, and 
+the rest remain ignorant of them.  Such a database search does, however, retrieve a reversal and 
+remand opinion in another Social Security denied benefits appeal filed only days before by 
+Magistrate Judge Carol Mirando of the same court.20  What explains the difference?   
+Concededly, the commercial databases, Bloomberg, Lexis, Westlaw, and the rest, operate with 
+different collection policies and systems. They are not compelled to offer all district court rulings.  
+Of the major three, Westlaw has historically loaded fewer U.S. District Court opinions, a carryover 
+from the high degree of selectivity required by the publisher’s legacy print reporter.  In recent years, 
+though, competitive pressures have eroded that difference.  Today, all major services have 
+comparably extensive and, as this article will explain, comparably incomplete collections of Social 
+Security claims decisions from the Middle District of Florida, collections in which the decisions of 
+Magistrate Judge Porcelli are seriously underrepresented.21  The lack of access to his decisions in 
+Ates and similar cases is neither an anomaly nor the consequence of quality or brevity filters imposed 
+by online publishers.  Its source lies within the federal judiciary.  The problem is widespread. 
+Indeed, the situation is worse than the example of the Ates case suggests.  Having been informed of 
+the Ates decisions or having discovered them through laborious docket search, a researcher can 
+retrieve both from the court’s case management system.  Any similar attempt to obtain the judge’s 
+report and recommendation in the case of Robinson-Rollins v. Commissioner of Social Security dated June 
+15, 2016, and adopted in full by District Judge Charlene Honeywell encounters the message “You do 
+not have permission to view this document.”  Federal law is clearly to the contrary; but because 
+someone at the court failed to tag the computer file holding the document properly, remote public 
+access to it remains blocked.  Similar lapses lie at the heart of the pervasive, but little noticed, case 
+law access issue explored here. 
+                                                 
+18 In 2007, the GAO calculated the rate of success upon remand at 66%. U.S. Gov’t Accountability Office, Report to 
+Congressional Requesters, Disability Programs: SSA Has Taken Steps to Address Conflicting Court Decisions, But 
+Needs to Manage Data Better on the Increasing Number of Court Remands, April 2007, at 16. 
+19 Ates v. Comm’r of Soc. Sec., No. 8:15-cv-1014-AEP (M.D. Fla. Sept. 1, 2016), http://www.access-to-
+law.com/pacer/MDFla_15cv01014_09072016.pdf.  Should Ates succeed in obtaining past due benefits upon remand, 
+Taylor will be able to petition for a further award of up to 25% of total accrued past benefits minus the $4,365.90, 
+assuming that Taylor had a standard contingency fee agreement with Ates.  See, e.g., Pretto v. Astrue, No.: 3:08cv397-LAC-
+EMT (N.D. Fla. Jan. 4, 2011, Feb. 4, 2011), http://www.access-to-law.com/pacer/NDFla_08cv00397_020042011.pdf.  
+See generally  Gisbrecht v. Barnhart, 535 U.S. 789 (2002). 
+20 Watson v. Comm’r of Soc. Sec., No. 2:15-cv-185-FtM-CM (M.D. Fla. July 21, 2016),  
+http://www. access-to-law/pacer/MDFla_15cv00185_07212016.pdf. 
+21 Underrepresented but not totally absent.  See, e.g., Schiffer v. Comm’r of Soc. Sec., No. 8:14-cv-2804-EAK-AEP (M.D. Fla. 
+Feb. 11, 2016), http://www.access-to-law.com/pacer/MDFla_14cv02804_02112016.pdf. 
+Pa g e  | 5 A lawyer filing a Social Security appeal with the District Court for the Middle District of Florida 
+cannot know in advance to which magistrate judge the case will be assigned.  However, upon 
+learning to whom it has gone, that lawyer must decide whether to consent to having him or her 
+conduct all proceedings and render a final judgment. Practice before the Social Security 
+Administration might lead to an expectation that data bearing on the decision should be available.  
+That agency regularly posts outcome statistics for each member of its cadre of over 1,200 
+administrative law judges.22  Their award percentages vary enormously.  Those for the ALJs in the 
+Tampa office range from a low of 28% (ALJ Glen Watkins) to a high of 89% (ALJ Paul Johnston).23 
+According to the Social Security Administration’s internal data on judicial review of benefit denials 
+the district court remand rate for Fiscal Year 2016 was slightly over 50% nationwide.24  That number 
+includes roughly 15% remanded at the government’s request, the result of a determination by SSA’s 
+Office of General Counsel that the administrative determination or process was, indeed, flawed.25  
+In a few cases, but only a few (perhaps 2% of the overall total), the district court remand is coupled 
+with an outright reversal and simply directs the agency to calculate and pay benefits.26 
+A recent study by Harold Krent and Scott Morris concludes that in their rulings on Social Security 
+cases U.S. district and magistrate judges exhibit even greater variability around average national 
+figures than ALJs.  Krent and Morris found that twenty-five percent of magistrate judges had 
+remand rates below 22%; twenty-five percent, over 56%.27  The mean was 40%; the median, 50%; 
+the standard deviation, 21%.28 
+Whatever the national figures, an attorney with a case assigned to Judge Porcelli should want to 
+know where his rulings place him along the spectrum reported by Krent and Morris.  As noted 
+above, an early decision that attorney must make is whether to consent to having Porcelli conduct all 
+proceedings and render a final judgment.  Withholding consent will not remove the magistrate judge 
+from the case, but it will limit his role to producing a “report and recommendation” to which either 
+party can object thereby putting the matter before an Article III U.S. district judge.29  To the extent 
+that a full collection of a judge’s opinions is not available, strategic choices on questions like these 
+cannot be based on meaningful analytics. 
+                                                 
+22 See Social Security Administration, Hearings and Appeals, ALJ Disposition Data FY 2017, 
+https://www.ssa.gov/appeals/DataSets/03_ALJ_Disposition_Data.html. 
+23 Id. 
+24 See Social Security Administration, FY 2017 Congressional Justification, Table 3.34, at 169, 
+https://www.ssa.gov/budget/FY17Files/2017FCJ.pdf. 
+25 See Jonah Gelbach & David Marcus, A Study of Social Security Litigation in the Federal Courts, Administrative 
+Conference of the United States, Final Report, July 28, 2016, at 31 (hereinafter ACUS Study). 
+26 See Social Security Administration, supra note 24. 
+27 Harold J. Krent & Scott Morris, Inconsistency and Angst in District Court Resolution of Social Security Disability Appeals, 67 
+HASTINGS L.J. 367, 389 (2016).  In light of the current inquiry, the data source for these findings is noteworthy.  The 
+study relies on a data set consisting of all Social Security decisions held by Lexis rendered from 2010 through 2012 by 
+federal district courts.  The authors acknowledge that the total falls far short of the number of Social Security cases 
+resolved during that period, but write that they had “no reason to doubt that the 10,743 cases analyzed [were] 
+representative”.  Id. at 387-88.  The research reported here throws a shadow over that premise. 
+28 Id. at 389-91. 
+29 In fiscal year ending September 30, 2016 the magistrate judges of the Middle District of Florida issued 178 Reports 
+and Recommendations in Social Security cases. Table M-4B., U.S. District Courts—Reports and Recommendations 
+Issued by U.S. Magistrate Judges Under 28 U.S.C. 636(b) During the 12-Month Period Ending September 30, 2016, 
+http://www.uscourts.gov/data-table-topics/magistrate-judges. 
+Pa g e  | 6 In preparing the necessary memorandum arguing that the administrative law judge decision should 
+not be affirmed, access to Porcelli’s opinions in the Ates case and others would allow counsel to 
+argue for consistent treatment.  Did the ALJ’s decision in this later case fail to address the report of 
+an examining psychologist that detailed the claimant’s borderline IQ, limited ability to acquire new 
+skills, poor cognitive processing, and recurring depression?  If so, its facts would permit an argument 
+that the case is “on all fours” with Ates and should, therefore, be remanded. 
+Court of appeals case law would, in all likelihood, frame that argument, but these are matters on 
+which most U.S. Courts of Appeals provide only the most general guidance and little meaningful 
+oversight.  During the decade ending December 31, 2016 the 11th Circuit Court of Appeals (the 
+appellate court that hears appeals from the Middle District of Florida) issued only eight precedential 
+Social Security decisions; four of them affirmed the district court decision on appeal.30 
+There is an altogether different perspective on a magistrate judge’s performance in resolving Social 
+Security appeals and the other components of a full case load.  Magistrate judges serve for a term of 
+eight years.  A full portfolio of opinions would appear to be relevant to their potential 
+reappointment to a follow-on term or any subsequent nomination to some other public office. 
+Stepping back still further, academics and policy makers addressing such important and recurring 
+questions as “Could the current approach to providing judicial review of Social Security disability 
+determination be improved upon?”31 are severely handicapped so long as they lack access to 
+comprehensive data on the status quo.  
+IV. The Terms of the 2002 Transparency Mandate as Applied to the Courts 
+The E-Government Act’s opinion access requirement was one among a large and comprehensive set 
+of measures aimed at improving federal government transparency and performance.  The list of 
+stated purposes included:  
+•  providing increased opportunities for citizen participation, 
+•  reducing costs and burdens for businesses and other Government entities, 
+•  promoting better informed decision-making by policy makers, and   
+•  making the Federal Government more transparent and accountable.32 
+The legislation led off with a finding that “[m]ost Internet-based services of the Federal 
+Government are developed and presented separately, according to the jurisdictional boundaries of 
+an individual department or agency, rather than being integrated cooperatively according to function 
+or topic.”  For this reason, it required creation of and authorized appropriations for an integrated 
+online information system covering all federal administrative agencies.33 
+                                                 
+30 During the same period, the eleventh circuit decided another 400 or so Social Security disability cases, affirming the 
+district court opinion in 85% of them.  (Both tallies compiled by the author.)   
+31 See, e.g., Administrative Conference of the U.S., Special Procedural Rules for Social Security Litigation in District 
+Court, Recommendation 2016-3, https://www.acus.gov/recommendation/special-procedural-rules-social-security-
+litigation-district-court. 
+32 See E-Government Act of 2002, 107 Pub.L. 347, § 2.  
+33 See E-Government Act of 2002, 107 Pub.L. 347, § 204.  The model had already been established.  In 2000, a single-
+portal site for the federal government, FirstGov.gov, was opened by GSA. In 2007, it became USA.gov. 
+Pa g e  | 7 A. For the Judiciary, a Court by Court Rather Than a Consolidated Approach 
+In sharp contrast, the act’s section dealing with the judiciary left the federal courts as it found them 
+– each responsible for the design, content, and maintenance of its own web site.  The legislation 
+addressed the courts individually rather than collectively, simply calling upon the chief judge of each 
+and every one to bring the court’s site up to the statute’s minimum standards.  These included the 
+“[a]ccess to the substance of all written opinions” mandate.  With one Supreme Court, twelve 
+regional U.S. courts of appeals plus the federal circuit, ninety-four district courts, each with a 
+companion bankruptcy court, and a single Court of Federal Claims, this directive invited a wide 
+range of methods and degrees of compliance.  For anyone conducting case research extending 
+beyond a single circuit or district, the approach necessitated either: 1) resort to multiple sites, one 
+per court, with nothing ensuring consistent approaches to case retrieval and document format or 2) 
+reliance on a third-party service that had gathered and organized opinions from the many court sites.  
+This was not an inconvenience experienced by the judges themselves, their clerks, or many of the 
+lawyers appearing before them.  They were already accustomed to having their case law research 
+needs met by Westlaw and Lexis.  The legislation’s individual court site standards were for the 
+benefit of an amorphous public. 
+The most obvious (although not most serious) gap between the act’s explicit opinion-access 
+requirement and the federal judiciary’s indifferent performance is the absence of a well-marked link 
+to opinions at many district court web sites.  Figure 1 shows the home page of the Middle District of 
+Florida site.  Behind what door (tab or link) would a non-expert expect to find its opinions? 
+ 
+Figure 1 – Web Site of the U.S. District Court for the Middle District of Florida, 
+https://www.flmd.uscourts.gov/ 
+The page is typical in not having an “Opinions” link.  Only 37 out of 94 do.  Another 14 have a 
+choice with that label on a drop-down menu under a home page tab, one that may be denominated 
+Pa g e  | 8 “Judge’s Info”34 or “Case Info.”35  The Middle District of Florida site is far from alone in assuming 
+that anyone seeking the court’s opinions will know that the system named “PACER” is a means to 
+that end and have a PACER account.  (The court’s PACER link appears under “Attorney 
+Resources.”)  PACER, which stands for Public Access to Electronic Court Records, is the public 
+access face of the federal electronic filing and case management software (CM/ECF) now installed 
+in one version or another in all federal district courts.  Its presence throughout the federal judicial 
+system and accessibility from court web sites is, apparently, the ground on which the Administrative 
+Office of the U.S. Courts certified to Congress in 2009 that all federal courts had achieved full 
+compliance with the E-Government Act.36 
+That was just around the time that the inconsistency in design, functionality, and content of federal 
+court web sites and, in particular, the difficulty in finding district court opinions through them led 
+the Judicial Branch Committee of the Judicial Conference of the U.S. to commission the preparation 
+of a website template.  The resulting “District Court Website Toolbox” was distributed in early 
+2011.37  Use of the “toolbox” elements was totally elective.  They were described as a set of tools 
+“that courts may use when developing, enhancing, or updating their … websites.”38  The homepage 
+template included a prominent “Opinions” link, and distribution provided an occasion for 
+reminding all district courts of the content required by the E-Government Act and Judicial 
+Conference policy.39  As the data reported above reveal, the initiative’s impact was limited. 
+A number of districts still maintain their own online opinion collections, apart from PACER.  Some 
+of these offer important functionality that PACER does not, such as the ability to search by year, 
+judge, and words or phrases appearing in the text of an opinion (i.e. full-text search).40  Others 
+provide more limited retrieval options.41 
+Well before enactment of the E-Government Act, the inefficiency of having each district court build 
+and maintain its own opinion database had led the Administrative Office of the U.S. Courts to work 
+with the one of the nation’s busiest districts to establish a multi-court site it called CourtWeb.  
+CourtWeb, begun with decisions from the Southern District of New York and running on its server, 
+was designed to receive opinions from as many other district and bankruptcy courts as wished to 
+participate. By the end of 1998, the Northern District of Illinois had joined.  By the effective date of 
+the E-Government Act in 2005, nine district courts and one bankruptcy court were using the 
+                                                 
+34 U.S. District Court for the Northern District of Alabama, http://www.alnd.uscourts.gov/. 
+35 U.S. District Court for the Middle District of Georgia, http://www.gamd.uscourts.gov/. 
+36 See Administrative Office of the U.S. Courts, The Third Branch, May 2009, at 1, 
+http://www.hyperlaw.com/topics/2009/2009-05-Third-Branch--Courtwide-Compliance-with-E-Government-Act-
+Requirements.pdf. 
+37 Memoradum, From Judge. D. Brock Hornby, Chair, Committee on the Judicial Branch, & James C. Duff, Director, 
+Administrative Office of the U.S. Courts, Jan. 31, 2011, Re: District Court Website Toolbox (Information), 
+http://legaltimes.typepad.com/files/fedct-memo.pdf.  See Tony Mauro, Makeover Urged for Federal Court Sites, Law 
+Technology News, Feb. 11, 2011 (Lexis) 
+38 Id. 
+39 See id. 
+40 See, e.g., U.S. District Court for the District of Connecticut, https://ecf.ctd.uscourts.gov/cgi-bin/Opinions.pl: U.S. 
+District Court for the District of Kansas, https://ecf.ksd.uscourts.gov/cgi-bin/Opinions.pl. 
+41 See, e.g., U.S. District Court for the Southern District of Indiana, http://www.insd.uscourts.gov/court-opinions. 
+Pa g e  | 9 system.42  Five years later the original host district withdrew from participation, and the database 
+moved to the U.S. District Court for the Middle District of Pennsylvania.43  There it resides today, 
+holding some decisions from seventeen district and eleven bankruptcy courts.44  For those ten of 
+them that still actively use it, the site avoids the burden of maintaining a separate database.  For the 
+public, however, it offers neither a coherent collection of courts nor the assurance of completeness 
+and currency as to those it includes.  CourtWeb courts are scattered from Hawaii to Vermont, 
+Alaska to Alabama.  Sixteen appear to have ceased sending their opinions, although only one has 
+indicated that fact at the site.  Finally, reflecting the elective structure of the original design, its home 
+page warns users that “not all opinions and rulings, even by participating judges, are necessarily 
+posted to this [site].”  In its current form CourtWeb is more likely to be a source of confusion than 
+of assistance. 
+ 
+Figure 2 – FDsys, 
+https://www.gpo.gov/fdsys/browse/collection.action?collectionCode=USCOURTS 
+A more recently established, and potentially more promising, public database of opinions from 
+multiple district courts is now maintained by the Government Publishing Office (GPO).  (See Figure 
+2.)  As part of its Federal Digital System (FDsys) the GPO currently offers opinions from 51 federal 
+district courts, 48 bankruptcy courts, all 12 regional circuit courts of appeals, and the Court of 
+International Trade.  (The collection does not include decisions of either the U.S. Supreme Court or 
+the U.S. Court of Appeals for the Federal Circuit.  Fifteen of the participating district and 
+bankruptcy courts are or were users of CourtWeb.)  Begun in 2011 as a small pilot project with only 
+twelve participating courts,45 this joint venture was, a year later, approved for national 
+                                                 
+42 See Internet Archive: WayBack Machine, 
+https://web.archive.org/web/20050611025855/http://www.nysd.uscourts.gov:80/courtweb/public.htm. 
+43 See Internet Archive: WayBack Machine, 
+https://web.archive.org/web/20100303045457/http://www.nysd.uscourts.gov:80/courtweb. 
+44 CourtWEB, http://courtweb.pamd.uscourts.gov/. 
+45 See Internet for Lawyers, Federal Court Opinions to be Available from Administrative Office of the Courts (AOC) 
+and Government Printing Office (GPO) via FDSys, http://www.netforlawyers.com/content/free-searchable-federal-
+court-opinions-available-via-gpo-access-fdsys-0022 
+Pa g e  | 10 implementation by the Judicial Conference of the United States.46  “National implementation” 
+means only that all federal courts are invited to participate, and have formally been “encouraged” by 
+the Judicial Conference to do so.  It does not mean that there is any process or set of incentives in 
+place designed to obtain full participation.  The decision as to whether or not to participate, like the 
+responsibility for compliance with the E-Government Act’s requirements, lies with the chief judge 
+of each court.  As the prior numbers indicate, five years after “national implementation” 43 district 
+courts and 46 bankruptcy courts have not seen fit to join. 
+As the GPO receives opinions, it authenticates them, and loads the files into FDsys, along with their 
+accompanying docket entries, exactly as they have come from each court.  Unlike PACER, the 
+system includes full-text search capability.  However, the ability to retrieve opinions using full-text 
+search depends on judicial compliance with another E-Government Act provision – namely, the 
+requirement that opinions be provided in “text-searchable format.”  Astonishingly, twelve years after 
+the act’s effective date, some judges continue to have their decisions printed for review and 
+signature and then scanned into CM/ECF as PDF image files.47  According to a recent tally, six 
+percent of the judicial documents designated as “written opinions” in 2016 were, for this reason, not 
+“text-searchable.”48  Placed in FDsys as image files they remain utterly opaque to its search engine.  
+As with other key aspects of E-Government Act observance, courts and judges vary enormously on 
+this point.  Over the past decade, the percentage of written opinions filed in non-text-searchable 
+form has been more than cut in half, but during 2016 seven district courts had rates of non-
+searchable opinions in excess of one-in-five.49  With some judges, the practice appears quite 
+consistent.  One of them is Senior Judge Edward J. McManus of the U.S. District Court for the 
+Northern District of Iowa.  During 2016 he filed at least 25 opinions on Social Security appeals, 
+including one reversing and remanding a claim because of the Social Security Administration’s 
+failure to evaluate evidence of mental impairment submitted after the ALJ’s determination of 
+ineligibility but before a decision by the agency’s Appeals Council.50  While those decisions are held 
+in FDsys, none can be retrieved using an appropriately narrow word-search because all are scanned 
+image files.51   
+At present, the FDsys opinion database is troubled by one further flaw.  The regular transfer from 
+each participating court’s CM/ECF system is supposed to occur automatically.  Nonetheless, 
+interruptions can and do occur due to failure of the software designed to accomplish that, often the 
+consequence of an upgrade.  Such lapses can easily pass unnoticed at the court level as they have no 
+direct effect on court functioning.  Yet neither the Administrative Office nor the GPO has a system 
+                                                 
+46 See Report of the Proceedings of the Judicial Conference of the United States, Sept. 11, 2012, at 14, 
+http://www.uscourts.gov/sites/default/files/2012-09.pdf. 
+47 The memorandum from the Administrative Office of the U.S. Courts detailing the requirements of the E-
+Government Act for chief judges made it clear that “documents scanned into PDF” do not meet the Act's requirement 
+of text searchability.  See Memorandum from Leonidas Ralph Meacham to All Chief Judges, United States Courts, Nov. 
+10, 2004, Subject: Compliance with Website Requirements of the E-Government Act (INFORMATION). 
+48 Email from Michael Lissner, Exec. Dir., Free Law Project (Aug. 11, 2017) (on file with author). 
+49 Email from Michael Lissner, Exec. Dir., Free Law Project (Aug. 14, 2017) (on file with author). 
+50 Sabljakovic v. Colvin, No. 16-cv-2010 (N.D. Iowa Aug. 5, 2016), http://www.access-to-
+law.com/pacer/NDIowa_16cv02010_08052016.pdf. 
+51 The full set of decisions can be retrieved by party name, which in this instance includes the phrase “Social Security”, 
+and McManus’s name because both are included in the docket entries associated with the opinions.  While the opinions 
+are not text-searchable, the docket entries and metadata are. 
+Pa g e  | 11 in place to monitor opinion flow.  Both were unaware in May 2017 that the most recent opinion 
+from the Eastern District of Michigan in FDsys carried a 2013 date and that data transfers from a 
+number of other courts had also fallen behind, although less egregiously.  Those specific deficits 
+have since been addressed, but no measures are in place to detect future interruptions of this sort. 
+In sum, because of the federal judiciary’s radically decentralized approach to E-Government Act 
+compliance, a curious citizen, lawyer, journalist, or scholar seeking to gather and analyze: 1) opinions 
+on a particular issue, 2) opinions written by a specific judge, or 3) opinions written by a specific 
+judge on a particular issue, may or may not find a court-based database that makes that possible and 
+may or may not find the GPO’s database a useful tool.  Even where one of those options exists, the 
+path to it may not be clearly indicated on the relevant court’s web site. 
+B. PACER’s Queries and Reports as Compliance 
+Thirty-two district courts, including the Middle District of Florida, neither participate in the GPO 
+database nor offer their own searchable database of opinions.  Are those courts in compliance with 
+the E-Government Act?  As already noted the act does direct that each court’s opinions be made 
+available in “text searchable” format.  The phrase has, however, been interpreted by the Judicial 
+Conference as requiring only that opinions be released as text rather than scanned image files, not 
+that each court must assure access to its decisions via full-text search. 
+For federal courts that neither maintain nor cooperate with some other public database of their 
+opinions, the PACER system furnishes the sole means of E-Government Act compliance.  Yet 
+PACER has serious deficiencies.  Several are obvious.  Any user of the Internet can go to the GPO’s 
+FDsys collection of federal court decisions, perform a search, and download the documents that 
+meet its terms.  No login is required.  No fee is levied.  By contrast PACER is a subscription service 
+that runs on fees.  Opinions may be exempt from them, but to gain access to free opinions one must 
+subscribe.   
+ 
+Pa g e  | 12 Figure 3 – PACER (CM/ECF) Query form, U.S. District Court for the Middle District of 
+Florida, https://ecf.flmd.uscourts.gov/cgi-bin/iquery.pl 
+A member of the public, of whatever stripe (lawyer, journalist, academic, curious citizen, data 
+vendor), who has obtained a PACER account and logged in to the Middle District of Florida’s 
+CM/ECF system is delivered to a query form (Figure 3) that presents a warning and several 
+unexplained options. 
+The warning is a reminder that unless one has been granted an exemption from PACER fees, 
+searches and downloads carry a cost (currently $.10 per page).  If one is searching for the documents 
+pertaining to a single case, docket number, party names, and date can serve well.  Suppose instead 
+one is searching for Social Security disability decisions by Judge Porcelli.  Conspicuous by its 
+absence from PACER is any capacity to search by “name of judge.”  As recently as 2003 the Judicial 
+Conference of the U.S. reaffirmed a long-standing policy prohibiting “the Administrative Office 
+from releasing judge-identifying information from statistical databases.”52  In 2012, the suggestion 
+the next generation of CM/ECF (NextGen) should enable PACER users to access information by 
+judge was tabled by a Judicial Conference subcommittee “for further study.”53 
+Enticingly the form does offer “Nature of Suit” and “Cause of Action” choices.  The contents of 
+those fields depend on categories selected by the party filing the complaint that initiated the action.  
+The civil cover sheet contains a section in which the filer must mark off the single most appropriate 
+“nature of suit” box.  Those doing empirical work with federal case data have long commented on 
+the imprecision of these designations – especially with types of litigation that can plausibly be fit in 
+more than one of the available categories.54  The filer’s indication of category is not effectively 
+monitored by court staff and counts for nothing in the subsequent treatment of a case.  Social 
+Security appeals illustrate the difficulty.  The “nature of suit” options include multiple Social Security 
+categories.  A complaint seeking review of a denial of Disability Insurance should be designated 
+“863.”  However, mistakenly coding it as “865” will have no adverse effect on the case.  Claims for 
+Social Security Disability Insurance and Supplemental Security Income often overlap.  Where they 
+do either “863” or “864” would be an appropriate choice.  Both cannot be selected.  PACER 
+documentation treats these “Nature of Suit” and “Cause of Action” categories as self-explanatory.  
+The form available to the filers, who must afix them, does only a slightly better job.55 
+PACER predates the E-Government Act.  Even in April 2005, at the point the act took effect for 
+the judiciary, the electronic case management and case filing system (CM/ECF) to which PACER 
+                                                 
+52 See Report of the Proceedings of the Judicial Conference of the United States, March 18, 2003, at 20, 
+http://www.uscourts.gov/sites/default/files/2003-03.pdf.  Report of the Proceedings of the Judicial Conference of the 
+United States, March 14, 1995, at 21-22, http://www.uscourts.gov/sites/default/files/1995-03_0.pdf. 
+53 See Administrative Office of the U.S. Courts, Additional Stakeholders Functional Requirements Group Final Report, 
+Feb. 27, 2012, C-1. 
+54 See, e.g., Theodore Eisenberg & Stewart Schwab, The Reality of Constitutional Tort Litigation, 72 CORNELL L. REV. 641, 
+653-54 (1987); Margo Schlanger, Inmate Litigation, 116 HARV. L. REV. 1555, 1699-1700 (2003). 
+55 U.S. Courts, Civil Cover Sheet, June 1, 2017, http://www.uscourts.gov/forms/civil-forms/civil-cover-sheet.  One 
+unique feature of the incomplete FDsys database is that it preserves these “Nature of Suit” tags as metadata.  Since 
+FDsys also permits full-text search of opinions, it allows case retrieval based, in part, on these categories, without forcing 
+complete reliance on the accuracy of the filer’s application of them.  (None of the commercial research services retains 
+this information.) 
+Pa g e  | 13 provides access had not been installed in all federal courts.56  Where installed the system held and, 
+through PACER, furnished public access to all documents filled in a case, including those written by 
+the judge, however denominated.  A highly configurable platform, CM/ECF allows courts to alter 
+the names of events and document types to fit their distinctive terminology and procedures.  As one 
+judge, the chair of a committee charged with gathering the views of external users of this system, 
+wrote in that committee’s final report: 
+In fact, we are currently running some two hundred distinct case management 
+systems in the federal courts, with little consistency as to which release is employed, 
+which features are activated, and what naming conventions are used. The differences 
+are often not apparent and are ill-explained. Our current systems work remarkably 
+well when looked at through the lens of our individual courts; they are maddening to 
+those users who attempt to work in or retrieve information from multiple courts.57 
+In response to the E-Government Act, the Administrative Office of the U.S. Courts, operating 
+under Judicial Conference guidance, issued a new version of the CM/ECF software that, once 
+installed by a court, incorporated two changes that applied to all documents in its system tagged as a 
+“written opinion.”  The first exempted all documents so designated from PACER fees.  Then and 
+now access to the system still requires an account.  Running a query that identifies a case or group of 
+cases still gives rise to charges.  Retrieval of a docket sheet listing and linking to all documents filed 
+in a case does as well.  But, by virtue of this 2005 software modification, downloading any of those 
+documents tagged by the court as “written opinions” no longer does.58   
+Since the docket sheet itself does not show the designation, a second and more important change to 
+PACER was the addition of a “Written Opinions Report.”59  This operates only at the individual 
+court level.  To understand what that means, one must first understand that at bottom PACER is a 
+set of queries and report options that can be used to access the docketed events and filings in cases 
+held by any federal court’s electronic case management and filing (CM/ECF) database.  It is simply a 
+feature of that court’s distinctive CM/ECF installation. 
+The holder of a PACER account can go, one-by-one, to the CM/ECF systems of all 94 district 
+courts and search for an individual case or for a set of cases filed between certain dates.  The 
+“Written Opinions Report” option added as district courts installed the version of CM/ECF 
+released in 2005 allows retrieval of all documents designated as “written opinions” in cases meeting 
+                                                 
+56 In November 2004, only 56 district courts were using CM/ECF.  Memorandum from Leonidas Ralph Meacham to 
+All Chief Judges, United States Courts, Nov. 10, 2004, Subject: Compliance with Website Requirements of the E-
+Government Act (INFORMATION). 
+57 See Administrative Office of the U.S. Courts, Additional Stakeholders Functional Requirements Group Final Report, 
+Feb. 27, 2012 at iii. 
+58 See PACER Service Center, Announcements, July 2005, 
+https://www.pacer.gov/announcements/quarterly/qa200507.pdf; CM/ECF Release Notes, Release 2.4, 
+https://www.pacer.gov/documents/cmecf/relnotes/district_2.4.pdf; Electronic Public Access Fee Schedule, 
+https://www.pacer.gov/documents/epa_feesched.pdf (Dec. 1, 2013). 
+59 See PACER Service Center, Announcements, July 2005, 
+https://www.pacer.gov/announcements/quarterly/qa200507.pdf. 
+Pa g e  | 14 the researcher’s criteria.60  Use of that retrieval option as well as the downloading of any of the 
+documents listed on the resulting report is free.   
+PACER has a second access point that it leads only to cases and not directly to opinions.  The 
+Administrative Office of the U.S. Courts maintains a national index kept up to date through regular 
+take-offs from all individual court systems.61  Although this index permits searches across courts, it 
+holds none of the docket listings or documents of the cases to which it points.  Searches, other than 
+those for a specific case identified by some combination of party name, docket number, and range 
+of dates, are forced to rely on one or more of those elements, augmented, by one or more “Nature 
+of Suit” and “Cause of Action” codes.  Using that national index one can, for example, generate a 
+linked list of all 107 actions filed from June 5 to June 8, 2017 naming Nancy Berryhill, the acting 
+Commissioner of the Social Security Administration, as defendant or all 176 actions with one of the 
+three principal Social Security “nature of suit” codes terminated during the same period.  In either 
+case the charge is ten cents a page of search results, and following a link to determine more about or 
+search for documents filed in any of the listed cases takes the researcher to the PACER installation 
+of the court in which the action was filed. 
+A few federal court sites that do not offer a full-text searchable database of the court’s opinions 
+explain these PACER options.  Many more, including the site of the Middle District of Florida, do 
+not.  In any event, neither of PACER’s entry points offers the individual researcher a useful set of 
+tools for retrieving opinions addressing a specific issue or those written by a particular judge. 
+That reveals a fundamental truth about PACER.  All spin aside, PACER is not and never has been 
+designed for the ordinary citizen, scholar, or journalist wielding a web browser in pursuit of case 
+information.  The system’s principal customers have long been "major commercial enterprises, large 
+law firms, and financial institutions."62  It biggest single user is the U.S. Justice Department.63  Other 
+heavy users fall into one of two main categories – experienced professionals involved in litigation 
+with filings in the system64 and automated computer systems gathering documents and data, massive 
+amounts of it, on a regular and recurring basis.  Together, they are focused more on specific 
+unfolding litigation or on what court filings reveal about individuals and business entities than on 
+court opinions.  Patently, the system was designed for such users and, for the most part, satisfies 
+them.65  Thanks to these segments of the “public” PACER generates large sums that have been used 
+                                                 
+60 Currently all district court CM/ECF systems include this report option.  A handful of bankruptcy courts still do not. 
+61 PACER Case Locator, https://www.pacer.gov/findcase.html. 
+62 The quotation and the data appearing in this paragraph are drawn from a document entitled “Electronic Public Access 
+Program” distributed at the Feb. 14, 2017 hearing of the Subcommittee on Courts, Intellectual Property and the Internet 
+of the House Judiciary Committee by committee staff (copy on file with the author). 
+63 See Administrative Office of the U.S. Courts, Electronic Public Access Program Summary 5 (Dec. 2012), 
+https://www.pacer.gov/documents/epasum2012.pdf. 
+64 Litigants receive one free copy of all documents filed in their case through a link in the notice of filing generated by 
+CM/ECF, but lawyers who rely on CM/ECF as their own repository of events and documents in a case end up using 
+PACER and paying PACER fees. 
+65 Surveys of user satisfaction find these heavy users relatively pleased with PACER although eager for more consistent 
+configuration from court to court.  Least satisfied are users in educational and research institutions.  See Administrative 
+Office of the U.S. Courts, The Third Branch, May 2010, at 3, 
+https://issuu.com/uscourts/docs/usct7651_third_branchmay; Administrative Office of the U.S. Courts, PACER 
+Survey Shows Rise in User Satisfaction, June 25, 2013, http://www.uscourts.gov/news/2013/06/25/pacer-survey-
+shows-rise-user-satisfaction. 
+Pa g e  | 15 to support a range of court technology projects.  In recent years annual revenues have held steady at 
+around $145 million.  (Figure 4)  Close to 90% of the total comes from a tiny percentage of account 
+holders (2.7%).66 
+ 
+Figure 4 – Free Law Project, How Much Money Does PACER Make?, 
+https://free.law/2016/11/14/how-much-money-does-pacer-make/ 
+C. PACER as an Opinion-Collection Tool for Third-Party Database Proprietors and the 
+Data Feed for FDsys 
+The impact of PACER’s manifest indifference to citizen access has, in recent years, been alleviated 
+by developments that could not have been foreseen when the “Written Opinions Report” was 
+added in 2005.  The most significant of these was Google’s launch of a free and open, searchable, 
+case law database.67  Thanks to Google Scholar’s high profile entry into the legal information field in 
+November 2009, and a subsequent small swarm of start-ups pursuing a business strategy of opening 
+their primary law data to the public while providing premium services to subscribers, the access 
+environment has changed dramatically.  The inadequate and poorly documented search capabilities 
+offered by individual federal courts no longer pose a practical access barrier so long as the courts’ 
+opinions can be easily and reliably collected by these new, open-to-the-public, systems.  Using 
+Google Scholar or Casetext, a citizen can, without charge or subscription, retrieve Social Security 
+decisions of the Middle District of Florida, including, for example, Judge Porcelli’s Report and 
+Recommendation in Munger v. Colvin, No: 8:15-cv-2937-T-33AEP (M.D. Fla. Feb. 2, 2017).  How do 
+these free services and their fee-based competitors gather decisions from the federal district courts?  
+                                                 
+66 A class action challenging the extensive use of PACER revenues for non-PACER expenses was recently certified in 
+the D.C. District.  Since that district participates in FDsys, Judge Huvelle’s opinions in the case can be found there, not 
+to mention Google Scholar and the standard commercial services.  See National Veterans Legal Services Program v. United 
+States, No. 16-cv-00745-ESH (D.D.C. Jan. 24, 2017) (granting class certification), http://www.access-to-
+law.com/pacer/DDC_16cv00745_01242017.pdf; National Veterans Legal Services Program v. United States, No. 16-cv-00745-
+ESH (D.D.C. Dec. 5, 2016) (denying defendant’s motion for summary judgment), http://www.access-to-
+law.com/pacer/DDC_16cv00745_12052016.pdf. 
+67 See Google, Official Blog, Finding the laws that govern us, Nov. 17, 2009, 
+https://googleblog.blogspot.com/2009/11/finding-laws-that-govern-us.html. 
+Pa g e  | 16 PACER’s “Written Opinions Report” is reasonably suited to their needs.  Database proprietors have 
+only to deploy software scripts that routinely and systematically run that report on each of the 94 
+district court systems to retrieve all tagged opinions filed since their last harvest. 
+For FDsys the process is functionally equivalent.  The CM/ECF systems of participating courts 
+automatically transmit all judicially prepared documents that have been tagged as “written opinions” 
+to the GPO. 
+D. At the Root of PACER’s Failure – Courts and Judges that Do Not Take the Tagging 
+of Written Opinions Seriously 
+By this point it should be clear that it is not the lack of a searchable database of opinions on the 
+Middle District of Florida web site or the court’s failure to participate in FDsys that explains the 
+absence of the Ates opinions from Google Scholar and Lexis.  Both services hold reports and 
+recommendations their author has written in other Social Security appeals, including the Munger case 
+noted directly above.68 
+The Ates decisions and countless others remain hidden due to a lack of systematic attention to or 
+oversight of how courts, individual judges, and court staff have implemented the E-Government 
+Act’s “written opinion” requirement.  A large number of opinions issued by Judge Porcelli and other 
+Middle District of Florida judges are not retrieved by a PACER “Written Opinions Report” simply 
+because they have not been identified by the individual filing and docketing them as “written 
+opinions.” 
+The E-government Act places responsibility for compliance with its “written opinion” and other 
+court web site mandates on each court’s chief judge.  PACER’s implementation disperses it further 
+by leaving the ultimate decision as to whether a particular document qualifies with its author or the 
+court staff member docketing it using the “event” categories set up in his or her court’s CM/ECF 
+system. 
+Lurking behind that decision and the choice among available docketing categories is an obvious 
+definitional question: Which of the myriad rulings, orders, judgments, and reports written and filed 
+by judges are covered by the E-Government Act mandate?  A memorandum to chief judges from 
+the director of the Administrative Office of the U.S. Courts, dated Nov. 10, 2004,69 furnished 
+guidance on that point, approved by the executive committee of the Judicial Conference: 
+For the purposes of the E-Government Act of 2002, … [a] “written opinion” is 
+defined as, “any document issued by a judge or judges of the court, sitting in that 
+capacity, that sets forth a reasoned explanation for a court’s decision.”  This 
+definition is clarified by the following points: 
+                                                 
+68 See, e.g., Jasper v. Colvin, No. 8:16-cv-727-T-23AEP (Jan. 31, 2017), http://www.access-to-
+law.com/pacer/MDFla_16cv00727_01312017.pdf; Kuhl v. Berryhill, No. 8:17-cv-394-T-33AEP (March 6, 2017), 
+http://www.access-to-law.com/pacer/MDFla_17cv00394_03062017.pdf. 
+69 Memorandum from Leonidas Ralph Meacham to All Chief Judges, United States Courts, Nov. 10, 2004, Subject: 
+Compliance with Website Requirements of the E-Government Act (INFORMATION). 
+Pa g e  | 17 1.  The responsibility for determining which documents meet this definition rests 
+with the authoring judge, and the determination should be made at the time the 
+document is filed; 
+2.  The decision as to whether a document meets this definition is not the same as 
+the decision about whether an opinion is to be published; 
+3.  The definition is expressly intended to cover reports and recommendations 
+issued by magistrate judges at such time as any action is taken by a district judge 
+on a report and recommendations issued by a magistrate judge, and also includes 
+a summary order adopting such report and recommendations; 
+4.  The definition is not intended to include routine, non-substantive orders such as 
+scheduling orders or rulings on motions for extension of time ….”70 
+A subsequent memorandum to all district, bankruptcy, and magistrate judges, dated April 7, 2005, 
+announced the release of a new version of the CM/ECF software, incorporating two features 
+designed to facilitate compliance.  The first allowed the automatic tagging of specified categories of 
+judicially authored documents “such as Memorandum Opinions,” those categories to be set by each 
+court.  The second feature enabled a prompt querying the judge or “judicial assistant, law clerk, or 
+courtroom deputy” filing a document of some other type whether it met the definition of a “written 
+opinion.”  Both documents tagged automatically and those tagged as a result of an affirmative 
+answer to that prompt would then be listed on and retrievable at no charge by means of a Written 
+Opinions Report.71  The ultimate source of widespread E-Government Act non-compliance lies 
+right there.  
+For these two new features to achieve the intended result, the software (or software update for those 
+courts that already had CM/ECF installed) had to be configured by each court’s administrative staff 
+to correspond to local nomenclature and docketing procedures.  Document titles and docketing 
+terminology vary so widely from court to court that the standard settings in the software as released 
+were and still are a poor fit for many.  The category or categories resulting in automatic tagging have 
+to be ones regularly used by the court for rulings that meet the “written opinion” definition.  If not 
+the software’s “event dictionary” has to be adjusted to fit its practice.  Other types of orders that 
+may or may not qualify and therefore warrant a prompt asking whether the document being 
+docketed constitutes a “written opinion” have to be identified and coded.  Assuming appropriate 
+adjustments to the docketing system, some form of communication between the authoring judge 
+and members of court staff docketing a document that may be entitled “order,” “memorandum,” or 
+“judgment” is necessary.  The 2005 Administrative Office memorandum suggested several 
+approaches, but all of them necessitated changes in court practice, practice that before 2005 had no 
+compelling reason to single out this particular document category.  Unless a court’s docketing 
+practice already distinguished among different types of judicial writing in a way that could readily be 
+mapped onto categories warranting automatic or possible tagging as “written opinions” the new 
+                                                 
+70 Id.  A fifth clause, not quoted, applied only to the Courts of Appeals. 
+71 Memorandum from Leonidas Ralph Meacham to Judges, United States District Courts; Judges, United States 
+Bankruptcy Courts; United States Magistrate Judges, April 7, 2005, Subject: Compliance with the April 2005 E-
+Government Act Requirements Regarding Access to the Substance of All Written Opinions Via CM/ECF 
+(INFORMATION). 
+Pa g e  | 18 CM/ECF features provided no straightforward means of E-Government Act compliance.  Reports 
+and recommendations by magistrate judges posed a particular challenge.  Read narrowly the Judicial 
+Conference guidance called for them to be tagged not when filed but only upon their adoption in 
+whole or part.  To achieve that result, orders adopting such recommendations had to be docketed as 
+a separate category, with that event programmed to tag the corresponding magistrate judge’s opinion 
+retroactively.   
+The act placed no responsibility at the national level, and none has been assumed.  Among the many 
+reports issued by the Administrative Office of the U.S. Courts, none measures or can even be used 
+to infer degrees of compliance.  In the training and guidance furnished new judges and staff, there 
+appears to be little or no attention devoted to this significant detail – how to file a distinct category 
+of judicial writing, which may carry such diverse titles as “order,” “memorandum,” “judgment,” 
+“ruling,” or “report and recommendation.”72 
+V. Probing the Problem Further 
+A. One District Court, One Type of Case  
+District courts exhibit remarkably diverse interpretations and levels of internal compliance with the 
+injunction to tag all written opinions.  The range is suggested by their ratios of written opinions to 
+closed civil cases.73  In 2016 for the 94 district courts those ratios ranged from a high of 4.21 (i.e. an 
+average of over four opinions per civil case) for the Eastern District of California to a low of .03 for 
+the Southern District of Iowa (three opinions per one hundred cases), with a median of .69 (the 
+Eastern District of Wisconsin).  The Middle District of Florida fell below that mark with a ratio of 
+.50. 
+Some of the variance may be the result of differences in civil docket composition.  As a control 
+against that, one can compare courts and judges in terms of a specific type of case, ideally one with 
+significant volume, minimal procedural complexity, a relatively standard set of issues, and a 
+predictable number of opinions per case.  Social Security cases qualify on all counts.  They are filed 
+at a rate in excess of 18,000 a year.  Each comes to the district court as an appeal from an agency 
+adjudication.  The proceedings are limited to a review of the administrative record.  The issues are 
+limited to whether the Social Security Administration’s proceedings and determination involved legal 
+error or were not supported by substantial evidence.   
+Social Security cases have one additional attractive feature.  A single federal agency, the Social 
+Security Administration, participates in every such suit. As a result, there is a public data source 
+other than the courts that can be used to benchmark PACER opinion counts.  A recent study of 
+Social Security litigation, prepared for the Administrative Conference of the United States, has, in 
+fact, drawn upon data furnished by the Social Security Administration rather than the federal courts, 
+to calculate the remand rates for individual district courts over the years 2010-2013.  It found a 
+                                                 
+72 THE DESKBOOK FOR CHIEF JUDGES OF U.S. DISTRICT COURTS (4th ed. 2014), published by the Federal Judicial 
+Center, makes no mention of the E-Government Act’s requirements in its section on statutory requirements or 
+elsewhere. THE BENCHBOOK FOR U.S. DISTRICT COURT JUDGES (6th ed. 2013) is equally silent. 
+73 This study has looked only at civil cases.  An investigation of the tagging of opinions in district court criminal 
+proceedings would, in all likelihood, reveal a similar spread.  
+Pa g e  | 19 range spanning from a high of 76.6% in the Southern District of New York to a low of 20.8% in the 
+Eastern District of Arkansas.74 
+Situated precisely at the median, 41.4%, is the Middle District of Florida.75  According to the 
+authors, these differential rates persist over time.76  Applying the 41.4% rate to the Middle District 
+of Florida’s Social Security case volume for 2016, together with national data on dismissals and 
+voluntary remands sought by the government, produces an estimate of 348 remands (including 127 
+voluntary remands), 413 decisions upholding the agency decision, and 85 dismissals.  Judges of the 
+Middle District of Florida deal with voluntary remands and many dismissals without a level of 
+explanation meeting the Judicial Conference definition of “written opinion”.  Putting those cases to 
+one side, leaves a total of 637 Social Security cases in which one would expect there to be at least 
+one written opinion.  In many one would expect more.  Cases where the parties have not consented 
+to final disposition by the magistrate judge should have a minimum of two, a report and 
+recommendation and separate adopting order.  Successful appeals often bring a subsequent petition 
+for attorney fees under the Equal Access to Justice Act.  When that occurs the court must respond 
+with another opinion (two if there is a magistrate’s report and recommendation).  In fact, only 463 
+Middle District of Florida Social Security cases generated documents logged as “written opinions” in 
+the court’s CM/ECF system during 2016.  (The total number of those documents equaled 692.)  In 
+63 of those cases, the only document appearing in the Written Opinions Report is a form signed by 
+a deputy clerk noting the final judgment.  All 63 are cases in which the judge’s opinion or report and 
+recommendation supporting and directing the entry of that judgment was not tagged.  The totals 
+suggest that at an absolute minimum one-third of the written opinions in this district’s Social 
+Security cases were not designated as such.  They are, as a consequence, effectively hidden from 
+public view. 
+The district’s failures to tag do not distribute evenly across judges and divisions.  Only six of the 
+fifty-one closed cases that Judge Porcelli disposed of on the merits in 2016 appear in PACER’s 
+Written Opinions Report.  Those six dramatically underrepresent his propensity to affirm the agency 
+decision (84 %).77  Only three opinions by Magistrate Judge Thomas G. Wilson of the Tampa 
+division show up on the Written Opinions Report, two of them reversing and remanding the 
+administrative determination.  Unreported are his additional twelve reversals and fifteen affirmances.  
+Magistrate Judge Thomas B. McCoun III filed a total of twenty-nine opinions during 2016 that are 
+not shown on the report.  On the other hand, several magistrate judges from other divisions of the 
+court appear to be meticulous in designating their opinions with that title and seeing that they are 
+properly tagged.  These include Judges Douglas Frazier, Carol Mirando, and Mac McCoy of the Fort 
+Myer Division, and Judges James Klindt and Monte Richardson of the Jacksonville Division.  Their 
+practice remains consistent even when they are handling cases from another division.78 
+                                                 
+74 ACUS Study, supra note 25, at 83. 
+75 See id. at 84. 
+76 See id. at 85, 91, 94. 
+77 Those reported in full on the Written Opinions Report include four that affirm, two that reverse and remand.  Only 
+eight out the complete set of 51 reverse and remand. 
+78 Since Social Security appeals involve no hearings and usually no oral argument it is not difficult for magistrate judges 
+of one office to take on cases from another division of the same court. 
+Pa g e  | 20 B. Other Districts, Other Patterns 
+At least one district court has assured the tagging of qualifying opinions by designating nearly all 
+orders as opinions, even those that address routine procedural matters.  That is the reason the U.S. 
+District Court for the Eastern District of California has so high a ratio of opinions to closed civil 
+cases.  It designated 1985 documents as written opinions in the 435 Social Security cases it closed in 
+2016.  These included orders granting and denying motions to proceed in forma pauperis, granting 
+extensions of time to file briefs, and disposing of other seemingly routine matters in addition to 
+those addressing the substance of the plaintiffs’ appeals.  This approach leaves no substantive 
+opinions hidden, but it does shift the burden of separating wheat from chaff to the individual 
+researcher (All tagged documents are transmitted to FDsys.) or third-party database service.  In the 
+light of constantly improving search and filtering software this appears a relatively minor 
+inconvenience, far to be preferred to missing opinions.  
+The bottom of the 94-court opinion labeling curve is anchored by the U.S. District Court for the 
+Southern District of Iowa.  It closed 102 Social Security cases during 2016, of which only six had 
+tagged written opinions.  Those six opinions were all magistrate judge reports and 
+recommendations, three written by one judge, two by another, and one by a third.  The 
+corresponding adopting orders were not tagged nor were the vast majority of orders furnishing a 
+“reasoned explanation” for the resolution of individual Social Security appeals during 2016.79  These 
+include five opinions by a single senior judge published in the Thomson Reuters Federal Supplement 
+series, presumably having been transmitted directly by the judge’s chambers. 80  These do not show 
+up on the court’s written opinions report.  They are also missing from the small collection of 
+opinions at the court’s web site81 and from CourtWeb to which the district seems to have ceased 
+contributing in 2014.82 
+Lying between these extremes are districts in which the judges and court staff manage to apply the 
+“written opinion” definition carefully and consistently.  The U.S. District Court for the Middle 
+District of Alabama closed 87 Social Security cases in 2016.  All but six featured at least one tagged 
+written opinion.  Those six included three that were remanded upon the government’s unopposed 
+motion for the cases’ return to the agency, one in which the plaintiff moved for a voluntary 
+dismissal, one upon the case being transferred to another district, and the last a dismissal for the 
+plaintiff’s failure to file a brief.  All opinions by the district’s five magistrate judges that dealt with the 
+                                                 
+79 Those not tagged include Judge Charles Wolle’s two-page opinion explaining his affirmance of the denial of SSI 
+benefits to Adam Hessenflow.  Hessenflow v. Commissioner of Social Security, No. 3:2015-cv-00032 (S.D. Iowa Feb. 5, 2016), 
+http://www.access-to-law.com/pacer/SDIowa_15cv00032_02052016.pdf.  Another is Judge Stephanie Rose’s 26-page 
+opinion reversing and remanding the Social Security Administration’s decision denying Disability Insurance benefits to 
+Brenda Prevett.  Prevett v. Commissioner of Social Security, No. 4:2015-cv-00130 (S.D. Iowa April 5, 2016), 
+http://www.access-to-law.com/pacer/SDIowa_15cv00130_04052016.pdf. 
+80 Collis v. Colvin, 204 F. Supp. 3d 1046 (S.D. Iowa 2016); Hillygus v. Colvin, 159 F. Supp. 3d 936 (S.D. Iowa 2016); 
+Ossmann v. Colvin, 193 F. Supp. 3d 991 (S.D. Iowa 2016); Wakefield v. Colvin, 171 F. Supp. 3d 857 (S.D. Iowa 2016); 
+Wakefield v. Colvin, 185 F. Supp. 3d 1107 (S.D. Iowa 2016).  The pattern of securing Federal Supplement publication of 
+orders not tagged as written opinions is not limited to Social Security cases nor that one judge.  See, e.g., AG Spectrum Co. 
+v. Elder, 181 F. Supp. 3d 615 (S.D. Iowa 2016); Marlin v. BNSF Ry Co., 163 F.Supp.3d 576 (S.D. Iowa 2016).  It also 
+occurs in other districts with a poor record of tagging opinions.  See, e.g., Harding v. NCL (Bahamas) Ltd., 90 F.Supp.3d 
+1305 (S.D. Fla. 2015).   
+81 See Opinions, Southern District of Iowa, http://www.iasd.uscourts.gov/?q=judges-info/opinions/. 
+82 See CourtWEB, http://courtweb.pamd.uscourts.gov/. 
+Pa g e  | 21 merits of the district’s 2016 Social Security cases were properly tagged as “written opinions”.  They 
+can, therefore, be retrieved by PACER’s Written Opinions Report and are readily available to the 
+full range of case law database services, including the GPO’s FDsys in which the district participates.  
+The U.S. District Court for the District of Kansas closed 151 Social Security cases in 2016, 141 of 
+them were disposed of by tagged written opinions.  The remaining ten consisted of two dismissals 
+and eight voluntary remands.   
+What the judges of these two districts have in common is an established practice of employing 
+consistent terminology in the titling of opinions (“Opinion” in the case of the Middle District of 
+Alabama, “Memorandum and Order” in the case of the District of Kansas).  That facilitates 
+docketing using CM/ECF events that have been programmed to result in automatic tagging.  
+Similarly, judges of the U.S. District Court for the Eastern District of Missouri use the label 
+“Memorandum” to distinguish opinions that warrant tagging from routine orders.  As a 
+consequence, the practice recently adopted by one magistrate judge in the district has led to her 
+opinions not being tagged.  Her approach poses a novel question about the reach of the phrase 
+“written opinion.”  During 2016 Magistrate Judge Shirley P. Mensah disposed of ten Social Security 
+appeals by means of oral opinions, delivered to counsel following oral argument.  Transcriptions of 
+her opinions were filed in CM/ECF.83  These oral opinions refer with care to the parties’ arguments 
+and to the authorities they cite.  Transcribed, they run to as many as eleven pages of “reasoned 
+explanation.”  However, while the transcriptions, attached to final judgments, are available through 
+PACER, they are not docketed as memoranda and thus not tagged as “written opinions.”  A 2016 
+Written Opinions Report for the Eastern District of Missouri misses them and the judgments to 
+which they are attached, the majority of this one judge’s Social Security decisions for the year.  In all 
+other respects, that report shows another court in substantial compliance with the “written opinion” 
+requirement of the E-Government Act. 
+C. Are Social Security Cases Representative? 
+Correspondence between Hyperlaw’s Alan Sugarman and the Administrative Office of the U.S. 
+Courts dating back to 2008 documents a persistent opinion designation problem cutting across types 
+of district court litigation.84  A recent article by Elizabeth McCuskey reports the hidden opinion 
+phenomenon, which she terms “submerged precedent,” in federal-question removal decisions.  In a 
+sample drawn from two districts, she found that nearly 30% of the relevant “reasoned decisions” 
+were invisible to anyone relying on the commercial databases.  They were accessible through 
+PACER, but only to those who knew of their existence or were prepared to dig through docket 
+entries.85  In order of magnitude, her finding is comparable to this study’s estimate of the 
+“submerged” Social Security opinions rendered by judges of the Middle District of Florida.  Another 
+source reports a significant and continuing failure to tag opinions in EEOC litigation.86   
+                                                 
+83 See, e.g., Sanders v. Soc. Sec. Admin., No. 1:14-cv-00169-SPM (E.D. Mo. Mar. 1, 2016). http://www.access-to-
+law.com/pacer/EDMo_14cv00169_03012016.pdf; VanDeven v. Colvin, 1:15-cv-00094-SPM (E.D. Mo. July 20, 2016), 
+EDMo_14cv00094_07202016.pdf. 
+84 Letter from Alan D. Sugarman to James C. Duff, July 10, 2009 with attachments, 
+http://www.hyperlaw.com/topics/2009/2009-07-10-sugarman-to-ao-with-attachments.pdf. 
+85 Elizabeth Y. McCuskey, Submerged Precedent, 16 NEV. L.J. 515, 530-31 (2016). 
+86 E-mail from Nina Steinbrecker Jack, Fastcase, June 22, 2017 (copy on file with author). 
+Pa g e  | 22 The stakes are atypically high with Social Security cases due to Rule 5.2(c) of the Federal Rules of 
+Civil Procedure.  Privacy concerns prompted this provision, which limits remote electronic access 
+(i.e. PACER access) to the docket entries and documents in all “actions for benefits under the Social 
+Security Act.”  It also applies to a variety of immigration cases.  Exempt from the rule and therefore 
+open to remote access is the court’s “opinion, order, judgment, or other disposition” in cases that it 
+covers.  Because of Rule 5.2(c), unless the report and recommendation in a Social Security case is 
+tagged as a “written opinion” it will remain unavailable through PACER even though adopted in full 
+by a district judge order.  When that occurs the failure to tag properly results in online access being 
+blocked completely, rather than the imposition of a per page fee and omission from PACER’s 
+“Written Opinions Report.”  Thirteen instances of this extreme form of inaccessibility are to be 
+found in the 2016 Social Security cases disposed of by the Middle District of Florida.  
+VI. A Few Conclusions 
+A. This Is Not a Small Problem 
+During 2016, twenty-nine district courts had ratios of tagged opinions to closed civil cases below 
+that of the Middle District of Florida, a demonstrably low standard. Two-thirds of the districts had 
+ratios lower than 1.0, a plausible rough estimate of the average number of opinions across all types 
+of civil cases.  Applying that estimate to the courts falling below 1.0 yields an estimated annual total 
+of hidden opinions in civil cases greater than 130,000.  A more conservative ratio of .70 yields an 
+estimate still in excess of 66,000, nearly half the projected number of opinions issued by the courts 
+involved.  Even for those who know about individual untagged opinions, the failure to comply 
+carries a cost.  Their retrieval from PACER will not be free but result in a charge of $.10 per page.87 
+B. Hidden Opinions Pose a Serious Challenge to Those Carrying Out Empirical Studies 
+or Attempting to Use Judicial Analytics 
+The widespread failure to tag opinions of the U.S. district courts thoroughly and consistently 
+compromises empirical studies that focus on the work of these courts and emerging systems of data-
+informed prediction and planning.  That is true whether the immediate data source is a public one 
+(PACER, FDsys, an individual court database) or a commercial service.  All depend ultimately on 
+document designations applied by opinion authors and court staff.  At minimum, empirical work on 
+the federal district courts requires a careful look at the completeness of the data for the court and 
+even the judge in question.  As matters now stand, with the majority of districts that cannot be 
+accomplished without a laborious review of docket information.88 
+C. Addressing the Problem Will Require More Than Infrequent Appeals to Individual 
+Conscientiousness  
+Improving access to district court decisions will depend ultimately on the federal judiciary’s national 
+bodies – the Judicial Conference, the Administrative Office of the Courts and the Federal Judicial 
+                                                 
+87 A suit focusing on this aspect of the problem was filed against the federal government in November 2016.  D'Apuzzo 
+v. U.S., No. 16-cv-62769-RNS (S.D. Fla. filed Nov. 22, 2016). 
+88 Some scholars have argued that empirical studies of district court judge decision-making should not be limited to 
+written opinions, but involve docket analysis as well.  See Pauline T. Kim, Margo Schlanger, Christina L. Boyd and 
+Andrew D. Martin, Empirical Research on Decision-Making in the Federal Courts: How Should We Study District Judge Decision-
+Making?, 29 WASH. U. J.L. & POL'Y 83 (2009). 
+Pa g e  | 23 Center  – taking the matter seriously.  Taking it seriously should include periodic audits of individual 
+court compliance with the “written opinion” mandate and emphasis on this feature of the CM/ECF 
+system in training materials for both judges and court staff.  The CM/ECF software should be 
+configured in all districts so that the filing of an order adopting the report and recommendation of a 
+magistrate judge automatically tags both as written opinions.  The software should also be 
+configured to require a final review for opinions before a case is marked “closed” and to permit 
+retrospective tagging when omissions come to light.  Most effective would be a CM/ECF change 
+reversing the default designation for all judicially authored documents that rule on party motions.  
+Instead of requiring a special designation or some other affirmative step to indicate that a document 
+is an opinion, tagging should be automatic unless the filer affirmatively indicates by choice of 
+docketing event or response to a query that it contains a routine non-substantive order. 
+D. Participation in FDsys Should No Longer Be Elective 
+Now that all lower federal courts have fully operational CM/ECF systems, inclusion in the GPO’s 
+FDsys database ought to be system-wide.  So long as the opinion database is run on an “opt in” 
+basis it will remain incomplete.  Court participation in the national PACER index is not optional.  
+There is no sound reason for inclusion in FDsys to be.  For the broad public, as distinguished from 
+the legal professionals relying on PACER and large data brokers collecting and reselling data drawn 
+from it, completing the GPO database of decisions is the only way to realize the full value of this 
+public system.  It is also the best way to assure an enduring national archive.  That, combined with 
+consistent tagging of opinions, might finally fulfill the promise of the written opinion mandate of 
+the E-Government Act of 2002. 
+Pa g e  | 24 

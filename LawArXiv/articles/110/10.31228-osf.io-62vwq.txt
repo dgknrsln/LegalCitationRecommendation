@@ -1,0 +1,1523 @@
+Behavioral  Exploitation  Antitrust in  Consumer
+Subprime Mortgage  Lending
+Max Huffman* & Daniel B. Heidtke* *
+We  analyze  whether antitrust provides a favorable alternative and perhaps superior
+approach to regulating consumer subprime mortgage lending. Behavioral exploitation antitrust
+targets commercial conduct of the sort that was  observed in consumer subprime mortgage
+lending in the years leading up to 2007.  The negative effects to welfare of exploitation of the
+subprime mortgage market are easily observed. Antitrust-based regulation can mitigate those
+welfare  effects.  Regulation that does  exist,  which  operates at the  level  of the  individual
+transaction,m  ay be easily avoided, may be short-sighted,m  ay suffer from enforcement problems
+explained by public choice theory, and/or may overreach in its capacity to remove  consumer
+choice.  We  show  that antitrust enforcement under a rule of reason approach avoids those
+pitfalls. However, none of the three primary approaches to antitruste nforcement -prohibitions
+of anticompetitive conduct by  a dominantf irm, prohibitions of anticompetitive agreements, and
+prohibitions of mergers with incipient anticompetitive effects - in their current forms permit
+resort to  antitrust remedies in  the  consumer subprime  mortgage market.  We  argue that
+liberalized standardsf or antitrust enforcement under both Clayton Act section 7 (regulating
+mergers) and Sherman Act section ] (regulatingc oncerted conduct), perhaps restrictedn arrowly
+to this and closely analogous markets, would be appropriatet o gain the benefits of regulation
+through behaviorale xploitation antitrust.
+TABLE OF CONTENTS
+I.INTRODUCTION....................................................77
+II. WELFARE EFFECTS IN MORTGAGE MARKETS AND FAILURES  OF EXISTING
+REGULATION.......................................................80
+A. BEHAVIORAL EXPLOITATION IN SUBPRIME MORTGAGE LENDING...............  ........ 80
+B. THE PROBLEMS WITH THE REGULATORY STATUS Quo ANTE..........................86
+III. A ROLE FOR ANTITRUST  LAW........................................93
+A.  BEHAVIORAL EXPLOITATION As BAD ANTITRUST CONDUCT...............  ........... 93
+B.  ANTITRUST AVOIDS THE PROBLEMS WITH THE LEADING
+C.  APPROACHES TO CONSUMER MORTGAGE REGULATION..............................97
+D.  THE LIMITS OF BEHAVIORAL EXPLOITATION ANTITRUST....................  ........ 101
+IV. MOVING TO BEHAVIORAL EXPLOITATION ANTITRUST.  ................. 1 06
+V. CONCLUSION:  ...............................................  ..... 108
+I. INTRODUCTION
+The  grass  roots  of the  2007  financial  crisis  were  the  market  for  consumer  home
+mortgages.  This market  was rife  with  failures,  many  of which  occurred  because  consumers
+suffered well-understood  limitations on their abilities to maximize their own economic welfare,
+and lenders knew how to exploit those failures.  The market failures created substantial resource2012] BEHAVIORAL EXPLOITATION ANTITRUST 78
+misallocation:  more consumers borrowed more money on different terms than they would have
+in a market lacking  such behavioral  exploitation.  That resource misallocation took the form of
+an "asset bubble": more homes were built and sold than would have been in a market in which
+consumers acted with fuller information and greater ability to act on it.
+Regulators proved unable or disinclined to prevent the asset bubble.  Some combination
+of factors - a dereliction  of duty,  a  lack  of foresight,  a lack of economic  rationality,  and/or
+perverse incentives created by the political and regulatory structure - was at play.  We accept the
+proposition that regulator foresight was impossible.  On that basis, we seek a means to prevent
+future  crises  other  than  simply  more  regulation.  We  propose  that  behavioral  exploitation
+antitrust may prevent future such asset bubbles in consumer markets.  We go further and argue
+that US-style  antitrust law and policy is institutionally  superior to the modes of regulation that
+have been relied on to date.
+The  root  cause  of  the  asset  bubble  was  behavioral  exploitation,  whereby  lenders
+intentionally  exploited  consumers'  known  decision-making  biases,  creating  a  market  effect.
+That  conduct may give rise to antitrust liability.  Antitrust's remedial  scheme is more likely to
+forestall  future crises with roots in consumer markets  than are other  regulatory  schemes.  As
+Darren Bush observed in the wake of the financial crisis, "[a]ntitrust law is one of the ingredients
+which flavors our national economy and ought to be seriously reconsidered in light of its role in
+helping shape the current state of that economy."'  We extend the existing literature on consumer
+harm from behavioral  exploitation by showing that an antitrust remedy may be available, and is
+superior to other regulatory approaches to this conduct.
+Antitrust  law exists to protect  against the ravages  of private enterprise  that the  market
+cannot be relied on to avoid - market failures.2  There are two primary tools in the antitrust kit
+that  might  be  employed  to  prevent  financial  crises  caused  by  the  failure  of  systemically
+important firms or groups of firms.  First, antitrust has been used to prevent undue concentration
+by one firm or groups of firms in an industry.  At its most extreme and controversial, this market-
+structure-oriented approach to enforcement might encourage the forced dismantling of firms in a
+market  that  is  considered  unduly  concentrated.  Such  an  approach  harkens  to  the  Structure-
+Conduct-Performance  paradigm, a now disfavored - though in some circles resurgent - school of
+Associate Professor and Dean's Fellow, Indiana University Robert H. McKinney School of Law.  A draft of this
+* 
+paper accompanied a talk given at the Loyola Consumer Law Review Symposium, "The Continuing Effect of the
+Mortgage Crisis on Consumers," Loyola University Chicago, School of Law.  Thanks to participants at that
+symposium, participants in a workshop at the Indiana University Robert H. McKinney School of Law, Letha Flint,
+Matthew Olsen, and Michael Pitts for helpful comments.  Thanks also to the editorial staff at the William & Mary
+Policy Review and to our blind peer reviewer.
+Fellow, Institute for Consumer Antitrust Studies, Loyola University Chicago, School of Law.
+Darren Bush, Too Big to Bail: The Role ofAntitrust in DistressedI ndustries, 77 ANTITRUST L.J. 277, 312 (2010).
+2 Market failures might arise when one firm or a group of firms are able to prevent, or at least to delay, the market's
+correcting  functions.  "Market failure"  is a technical misnomer for a market response that  is simply too slow to
+protect against substantial short- and medium-term harm.  Thus, broad industry collapse might not represent market
+failure  at all, but a necessary adjunct to the establishing of a stronger industry, which will emerge after a period of
+shake-out.  Like Keynes, who famously observed that long-run solutions are of limited value  in the real world, we
+nonetheless consider such a delayed market response to be intolerable.  See JOHN MAYNARD KEYNES, A TRACT ON
+MONETARY REFORM  80 (reprinted, Prometheus Books 2000) ("The long run is a misleading guide to current affairs.
+In the long run we are all dead.").  (Keynes wrote of monetary policy, with specific reference to price inflation in the
+absence  of government regulation, and not of the microeconomic  conduct that we consider here.)  Antitrust has a
+place in such a non-failure circumstance as well.  It can hasten discipline that the market might provide after time,
+but that threatens to arrive too late to protect against substantial short- to medium-term harm.79 WILLIAM & MARY POLICY REVIEW [VOL. 4:77
+antitrust thought  from the  middle of the  last  century.3  Middle-ground  approaches,  including
+blocking mergers that would lead to unwieldy size and considering merging firms'  demonstrated
+propensity to engage in harmful conduct, remain vibrant and may serve  a remedial purpose  in
+consumer subprime markets.
+Antitrust's second tool is targeting bad conduct by firms that enables competitive  success
+on bases other than superior efficiency.  That bad conduct may lead to,  or help to preserve, the
+same unwieldy market structure that merger review exists to prevent.4  It is well understood that
+bad  conduct  that  leads  to  or  preserves  monopoly  power  may  also  bring  about  resource
+misallocation.  That resource misallocation occurs  in the case of behavioral  exploitation, when
+demand is stimulated to a level inconsistent with what consumers'  actual preferences would be in
+the absence of the conduct.
+We apply behavioral exploitation antitrust to conduct in the consumer subprime mortgage
+markets that underlay the 2007 financial crisis.  We adopt the commonly held understanding of
+the  root  cause  of  the  crisis:  the  sale  of millions  of  mortgage  products  to  consumers  in
+transactions that were either fraudulent or exploited those consumers'  inabilities to act in pursuit
+of their  own  economic  best  interest.6   The  conduct  produced  short-term  success  for  firms
+engaged  in it.  That  success  spurred  competition through  similar conduct,  leading to  an asset
+bubble.7  We will demonstrate here that an antitrust-based approach could prevent the grass-roots
+conduct  that  led  to  market  failure.  There  is  reason  to  hope  that  our  arguments  might  be
+3 See generally Darren Bush, Too Big to Bail:  The Role of Antitrust in DistressedI ndustries, 77 ANTITRUST L.J.
+277,  281-88  (2010) (describing  the  Structure-Conduct-Performance  paradigm  of antitrust enforcement).  Serious
+thought has  been given in very recent years to imposing structural limits in financial markets.  One author notes:
+"both  the Dodd-Frank Act and the [EU  Vickers Commission]  Report make some 'structural  reform'  proposals for
+solving the problem of too-big-to-fail."  Abel Mateus,  "Too Big to Fail": Banking Regulatory Reform and What
+Still Needs to be Done, 7 COMP. POL'Y INT'L 22, 23 (2011).  Under modern approaches, however, U.S.  antitrust law
+is limited to preventing mergers leading to unwieldy size, and has no tools for limiting or reducing firm size when
+growth is organic.  Others have proposed a role for antitrust in limiting firm size, with an eye toward the systematic
+problems of dominant firms' stumbling and failing; but those approaches require changes in enforcement philosophy
+by  both enforcement  agencies  and  courts.  See Jesse  W. Markham,  Jr.,  Lessons for Competition Law from the
+Economic Crisis:  The Prospectf or Antitrust Responses to the  "Too Big to Fail" Phenomenon, 16 FORDHAM J.
+CORP. & FIN.  L. 261,  262 (2011)  ("Antitrust law could make a greater contribution  in resolving this public-policy
+problem  if Congress  enacted  or the  judiciary  forged  more robust  rules preventing  and  dismantling  unwieldy
+corporate size in excess of any plausible scale efficiency justification.").
+4 See United  States v. Aluminum Co. of Am., 148  F.2d 416, 430-31 (1945)  (discussing  a firm's ability to acquire
+monopoly power through conduct).
+5 See Oren Bar-Gill, The Law, Economics and Psychology qf Subprime Mortgage Contracts, 94 CORNELL L. REV.
+1073, 1079-80 (2009)  (noting the "demand-side market failure" that occurs when borrowers are myopic, optimistic,
+and otherwise economically irrational, leading them to "'demand'  complex deferred-cost loans"); cf Roger D. Blair
+& Jeffrey  Harrison, Rethinking Antitrust Injury, 42  VAND.  L.  REV.  1539,  1561-65  (1989)  (predatory  pricing -
+another  species  of bad  antitrust  conduct  - causes  resource  misallocation  as  prices  are  dropped  below  their
+competitive levels).
+6 Oren Bar-Gill noted in 2009 the growth of the subprime mortgage market over the five years prior to 2007, with 3
+million subprime loans "originated" - sold - in 2006, and the total market value of all subprime loans exceeding one
+trillion dollars.  The Law, Economics, and Psychology of Subprime Mortgage Contracts, 94 CORNELL L. REv.  1073,
+1074 (2009).  See generally Andrew Ross Sorkin, Too Big to Fail (2010); National Commission on the Causes of
+the Financial and Economic Crisis in the United States, Final Report (2011).
+Cf Mark Zandi, "Fannie and Freddie don't deserve the blame for bubble," Jan. 24, 2011,  WASH. POST, available at
+http://www.washingtonpost.com/realestate/fannie-and-freddie-dont-deserve-blame-for-bubble/
+2012/01/23/gIQAn3LZMQprint.html  (visited  Jan.  24,  2011).  Zandi  noted  the  phenomenon  of "rapaciously
+expanding private lenders" offering "low rates and increasingly aggressive terms to borrowers.  In 2006, almost half
+the loans made by private lenders required no down payment and no documentation."  Id2012] BEHAVIORAL EXPLOITATION ANTITRUST 80
+extended,  and that antitrust enforcement  promises to be a  successful preventative  strategy for
+future asset bubbles that rely on consumer spending.8
+In Part II we first define behavioral  exploitation  and show how it occurred and caused
+harm in the consumer subprime mortgage  markets.  We then discuss the regulatory  protections
+that exist  and proved to  be ineffective  in preventing  the 2007  crisis.  We explain why  those
+leading approaches to consumer mortgage regulation proved insufficient to prevent the subprime
+mortgage lending that led to the crisis.  Part III discusses a behavioral exploitation antitrust claim
+for conduct in these markets.  Although the behavioral exploitation antitrust claim is a natural fit
+for  the  conduct  in  consumer  subprime  mortgage  markets,  we  conclude  the  claim  is  not
+achievable  under  the current  state of antitrust  law.  We thus devote  Part  IV to proposals  for
+changing the law, either through legislation, common-law interpretation, or regulation.
+II. WELFARE EFFECTS IN MORTGAGE MARKETS  AND FAILURES OF
+EXISTING REGULATION
+Behavioral  exploitation was common in consumer subprime  mortgage transactions prior
+to 2007.9  It caused harms to consumers,  which aggregated  to create market effects.  Resources
+were  misallocated  as  more  consumers  borrowed  more  money  to buy  more  houses than they
+would have  had they  followed utility  maximizing  strategies  in a  situation  lacking  behavioral
+exploitation.  And  the  regulatory  schemes  in  place  suffered  from  flaws,  including
+shortsightedness,  regulatory  capture,  easy  circumvention,  and  removal  of consumer  choice.
+Further, the body of statutory provisions regulating mortgage transactions has been the subject of
+seemingly steady  reform and amendment, requiring almost constant study to remain abreast of
+the current state of the law.'0  The primary response to the financial crisis, the Dodd-Frank Act,
+does not solve those problems.
+A. BEHAVIORAL EXPLOITATION IN SUBPRIME MORTGAGE LENDING
+Behavioral  exploitation  is  intentionally  exploiting  known  biases  in consumer decision-
+making."  The theory rests on an understanding of those consumer marketplaces, like those for
+subprime mortgages, as being characterized  by sophisticated repeat-player  merchant sellers and
+relatively naYve end-user purchasers.12  Consumer credit markets are understood to possess these
+Our argument relies on asymmetries  in either information or sophistication between two parties to an ostensibly
+consensual  transaction.  It is readily applicable  to consumer transactions that "are  characterized  by an asymmetry
+between the two parties: the seller of a good or the provider of a service  on the one hand and the consumer on the
+other.  One party  is usually a highly  sophisticated corporation,  the other - an  individual, prone to the behavioral
+flaws that make us human."  Oren Bar-Gill, Seduction by Plastic, 98 Nw. U.L. REv.  1373, 1373 (2004).  We do not
+in this paper extend the argument beyond consumer marketplaces.
+9 We do not study the market after the financial crisis.
+10 See generally, T. Thomas Cottingham,  III, Mortgage  and Asset Backed Securities Litigation  Handbook  § 5:1,
+detailing the amendments to TILA, including: HOEPA, and then a period of several months in which TILA and the
+HOEPA  amendments  were  amended  by  the Mortgage  Disclosure  Improvement  Act  of 2008 (MDIA),  and  the
+Emergency Economic Stabilization Act of 2008 (EESA), which further amended the MDIA's amendments to TILA.
+11 Max Huffman, Marrying Neo-Chicago with BehavioralA  ntitrust, 78 ANTITRUST L.J. 105,  128 (2012).  See also
+Matthew  A.  Edwards,  The Rebate Rip-off  New  York's Legislative Responses to  Common Consumer Rebate
+Complaints, 29 PACE L. REv. 471, 476 (2009) (referring to rebate programs as "behavioral exploitation," which take
+advantage  of consumers'  inertia, leading  to their failures to redeem);  Matthew  A.  Edwards,  The FTC and New
+Paternalism, 60 ADMIN.  L. REv. 323,  353 (2008) (giving examples of payday lending, inducement of supermarket
+impulse purchases, and mail-in rebates).
+12 Huffman, supra note 11,  draft at 38-40.81 WILLIAM & MARY POLICY REVIEW [VOL. 4:77
+characteristics.13   In particular,  consumer  subprime  mortgage  transactions  frequently  involve
+borrowers  with the dual characteristics of below-average  education and limited experience  with
+transactions in the market.14
+Those  exploitable biases,  sometimes called decision-making  heuristics, are mental short
+cuts that facilitate rapid decision-making,  but frequently  cause consumers to deviate from their
+utility  maximizing  decision  paths.'5   A  marriage  of  economics,  social  psychology,  and
+management  theory,  termed  behavioral  economics,  has  demonstrated  that  individuals
+systematically  deviate  from utility maximizing  conduct - sometimes  by  being more  altruistic
+than their  utility  functions  would predict,  sometimes  by  exhibiting  less  willpower  than their
+utility functions would predict, and sometimes by  exhibiting cognitive short-comings.16  Those
+three  deviations  from  utility-maximizing-conduct  have  been  called  bounds  on  consumer
+rationality.'7   They give  rise to a host of demonstrated  cognitive biases.1  Some  empirically
+observed  phenomena  are  highly relevant  to  consumer lending  markets,  including  "hyperbolic
+discounting"  or "myopia" - the tendency to ignore long-term costs and benefits so that decisions
+are made  on the basis of short-term  cost-benefit  analyses19  - and the "optimism  bias,"  which
+causes  a  consumer  to  discount  statistically  likely  future  harm  and  over-rely  on  statistically
+unlikely future benefits.20
+1. THE REALITY OF BEHAVIORAL EXPLOITATION
+Behavioral  economics  arrived  late  to  the party.  The  real-world  practice  of behavioral
+exploitation  stems from knowledge  gained over many decades of study that is well documented
+in the market literature.  Too few in the  fields of law and economics, and in particularly in the
+antitrust,  realms,  have  seen fit  to  study the  business  and  management  theory  literature  when
+developing legal rules.21
+13 See Oren Bar-Gill & Elizabeth  Warren, Making Credit Safer, 157 U. PA. L. REV.  101,  169 (1998);  see  also
+Edward  J. Janger & Susan Block-Lieb,  Consumer Credit and Competition:  The Puzzle qf Competitive Credit
+Markets, 6 EUR. COMP. J. 68, 70-71 (2010).
+14  See Laurie A. Burlingame,  A  Pro-Consumer Approach to Predatory Lending:  Enhanced Protection Through
+FederalL egislation and New Approaches to Education, 60 CONSUMER FIN. L.Q. 460, 462 (2006).
+15 See DANIEL KAHNEMAN,  THINKING FAST AND  SLOW 25 (2011)  (subconscious  "System 1" decisions are "usually
+accurate"  and are "swift and generally appropriate," but subject to "systematic errors").
+16S ee Christine Jolls et al., A BehavioralA  pproach to Law & Economics, 50 STAN. L. REV.  1471,  1476-79 (1998).
+" See id
+Empirical study has demonstrated myriad cognitive biases, many of which are closely related to long-established
+biases.  Wikipedia contains an impressive  list.  See List of Biases in Judgment and Decision Making, WIKIPEDIA,
+(February  9,  2012)  en.wikipedia.org/wiki/List  of cognitive  biases.  More  in-depth  discussion  can be  found  in
+sources including Daniel Kahneman, Thinking Fast and Slow (2011), and Dan Ariely, Predictably Irrational (2008).
+19 See Oren Bar-Gill, Seduction by Plastic,9 8 Nw. U. L. REv. 1373,  1396 (2004).
+20 See id
+21 Spencer  Waller has recognized this problem.  In 2001, Professor Waller noted the oddity that we relied so much
+on economic teaching rather than lessons from business and management theory.  Spencer W. Waller, The Language
+ofLaw and the Language ofBusiness, 52 CASE WESTERN RES. L. REv. 283, 283-85 (2001).  He was right to do so.
+As he  pointed out in 2001,  while economists  found themselves  hung up with theoretical  concerns over whether
+certain practices  could possibly cause harm, by, for example,  creating market power that enabled a firm to raise
+prices or decrease output or quality, business persons recognized that, in the real world, just that was going on.  See
+Spencer Weber Waller, The Language ofLaw and the Language of Business, 52 CASE W. RES. L. REv. 283, 316-28
+(2001).  It is an interesting aside that the expert regulators tend to come either from legal or economic backgrounds,
+but much less from business  backgrounds.  The  FTC has a bureau of economics,  populated with, according to a
+recent statistic, some 70 PhD economists, but no comparable bureau populated with MBAs.  See www.ftc.gov (last
+visited April 2, 2012).2012] BEHAVIORAL EXPLOITATION ANTITRUST 82
+Merchants have studied means to exploit hyperbolic discounting, the optimism bias, and
+other  cognitive  biases  when  contracting  with  consumers.  Another  demonstrated  bias  causes
+consumers  to  make  decisions  on  the  basis  of  salient,  noticeable  characteristics  over
+characteristics  that are  less  pronounced.  Consumers  may  borrow  money on the  basis  of the
+interest rate or down payment rather than penalties for non-repayment.  The endowment effect or
+ownership bias increases the value to us of what we have relative to what we do not have.  Taken
+together, a merchant might induce a soft (psychological) commitment to a transaction by quoting
+a low price before interposing other expenses.  This is drip pricing or shrouding,  a well-studied
+technique of exploiting cognitive bias to induce consumers to pay more for the product or service
+than they would if presented with all the costs up front.22  Hyperbolic discounting and optimism
+biases  come into play here as well.  If future costs are uncertain, consumers can be expected to
+envision best-case scenarios or ignore future costs altogether in their decision-making.
+Financial  transactions  demonstrate  the  behavioral  exploitation  problem  in  particularly
+stark fashion.  Financial transactions are much less likely (than, for example, the development,
+advertising  and marketing  of products  or services) to be characterized  by idiosyncratic goals on
+the parts of consumers.  Consumers are unlikely  to gain any utility from higher-than-necessary
+interest rates or fees.  A 2009 study of pricing practices concluded that drip pricing is one of two
+practices with the "greatest potential to cause harm" by inducing consumers to enter transactions
+they would not have  entered had the prices  been fully disclosed up front.23  Drip pricing  and
+price shrouding  succeed by  increasing willingness to pay, exploiting the endowment effect, and
+by obfuscating the actual price.  A consumer may learn about the actual price after the consumer
+is committed to the transaction, or may never learn the actual price.
+It  requires  little  extension  of these  studies  to  see their  impact  on consumer  subprime
+mortgage  transactions.  Scholars  have  identified  three  dominant  characteristics  of consumer
+subprime  mortgage  transactions.  According  to  Oren  Bar-Gill,  consumer  subprime  mortgage
+transactions  are characterized  by  supra-normal  cost deferral  and an "exceedingly  high level of
+complexity."  Neither can be explained at the level that they occur in subprime lending under an
+assumption that both parties act rationally to maximize their utility.24  Others have observed that
+subprime  borrowers  are,  on  average,  less  sophisticated,  in  terms  both  of  education  and
+experience in the market, than borrowers generally.25
+Supra-normal cost deferral is analogous to drip pricing techniques.  A lender can charge
+more  on a transaction  if the  up-front price  is low in the  form of a  low - even zero - down
+22  See Amanda Reeves  & Maurice  Stucke, Behavioral Antitrust, 86  IND.  L.J.  1527,  1541  (2011)  (defining  drip
+pricing).  Cf  ROBERT  B. CIALDINI,  INFLUENCE:  SCIENCE & PRACTICE 61-67  (4th  ed.  2001)  (describing  larger
+impacts  of inducing commitment  with regard to  small initial  decisions).  The United Kingdom's  Office  of Fair
+Trading has concluded that drip pricing is one of the two most pernicious pricing practices by causing purchasers to
+spend more than they wished (in the absence of the full pricing practice) to spend.  See UK Office of Fair Trading,
+"Advertising of Prices," available at oft.gov.uk/OFTwork/markets-work/current/advertising-prices/.
+23  U.K.  Office of Fair Trading, "Findings  and Outcomes,"  in Advertising of Prices (Oct.  15,  2009),  available at
+http://www.oft.gov.uk/OFTwork/markets-work/advertising-prices/.  Consumers  encounter  drip  pricing  on  a daily
+basis, in sales pitches as mundane as "would you like to add a cookie for only $0.99 more today?" and as frustrating
+as "that will be $60 for your two checked bags - how would you like to pay for that today?"  See, e.g., "Optional
+service  fees  &  government  taxes,"  U.S.  Airways.com,  available  at  usairways.com/en-
+US/traveltools/specialneeds/ticketingpolicies/taxesfees.html?c-hp  txt  01120 (last visited Feb. 9, 2012).
+24 Oren Bar-Gill, The Law, Economics and Psychology of Subprime Mortgage Contracts,9 4 CORNELL L. REV.  1073,
+1079 (2009).
+25  See,  e.g.,  Laurie  A.  Burlingame,  A Pro-Consumer Approach to Predatory Lending:  Enhancing Protection
+Through FederalL egislation and New Approaches to Education, 60 CONSUMER FIN. L.Q. REP. 460, 462 (2006).83 WILLIAM & MARY POLICY REVIEW [VOL. 4:77
+payment.  The supra-normal cost-deferral, whereby "in 2005, 2006, and the first half of 2007, the
+median subprime borrower put no money down, borrowing  100 percent of the purchase price of
+the house,"26 might produce both of the effects of drip pricing.  Before becoming  aware  of the
+reality  of their  obligations,  consumer  borrowers  can  become  psychologically  committed  to  a
+transaction  and thereby  willing  to incur greater expense  than they otherwise might have been
+willing to incur.  Cost deferral, like drip pricing, has obfuscating effects as well.  Because the
+real cost of a credit transaction depends  on time value  of money considerations,  the more costs
+are  deferred,  the  more  difficult  it  is  for  a  consumer  accurately  to  calculate  the  real  cost  of
+borrowing.
+The obfuscating effect is compounded by complex credit terms that prevail in consumer
+subprime mortgage transactions.  Those may include "multiple, indirectly defined interest rates...
+"further  complicated  by  maximum  adjustment caps."27  Steffen Huck  and Zidong Zhou have
+concluded  that this complexity  serves to hide from the  consumer the actual price of the credit.
+Markets  operate  more  efficiently  in the  presence  of information  and transparency.  A profit-
+maximizing  lender  that is able  to hide  real prices  in complex terms  will  charge higher prices
+because of the reduced risk that the borrower will shop around.28
+Finally,  the  consumer  subprime  borrower  is  characterized  by  limited  education  and
+experience,  rendering him or her susceptible  to exploitation.  Education and experience  render
+consumers  more  able to  protect themselves  against  the harms  from behavioral  exploitation.29
+The  lack  of those  advantages  leaves  the  consumer  relatively  more  susceptible.  Experience
+usually  will be limited because  home mortgage  transactions  are consummated  infrequently  in
+any  one  borrower's economic  lifetime,  so consumer borrowers  do not have the  opportunity to
+realize  their  errors  and act  differently  in future  transactions.30  As  lower  income  borrowers,
+subprime borrowers  may not have the experience  of frequent recourse to credit markets  in any
+form.  A related characteristic  of many  subprime borrowers is old age, 31  which some evidence
+indicates correlates with reduced cognitive abilities as regards financial transactions.32
+2. WELFARE EFFECTS. HARMS To CONSUMERS AND SUBOPTIMAL RESOURCE ALLOCATION
+Behavioral  exploitation  is  well  understood  to  cause  harm  by  undermining  efficient
+resource  allocation.  Consumers are induced to enter transactions they would eschew but for the
+exploitative  conduct,  or  to  enter  transaction  on  terms  that  they  would  otherwise  consider
+intolerable.  Resources  flow to  consumers'  ostensible,  rather  than actual, preferences.33  That
+creates  a market in which high dollar  subprime  mortgages  may crowd  out small  dollar prime
+26 Oren Bar-Gill, The Law, Economics and Psychology of Subprime Mortgage Contracts,9 4 CORNELL L. REV.  1073,
+1076 (2009).
+27 Id at 1078.
+28 Huck & Zhou argue: "The adverse effects of poor decisions with regards to search and quality can be made worse
+through  firms'  deliberate  attempts  to  make  price  comparisons  and  search  harder  - through  complex  pricing,
+shrouding, obfuscation and other means."  Huck & Zhou, Consumer Behavioral Biases in Competition:  A Survey,
+UK Office of Fair Trading, at 7 (2011).
+29  See Huck & Zhou, supra note 28, at  57-58  (learning and  cognitive ability lessen welfare  effects of cognitive
+biases).
+30 Huck and Zhou suggest that ex post detection and realization of errors offers "the biggest scope for alleviating
+market failures".  Huck & Zhou, supra note 28 at 8.
+31 See Burlingame, supra note 25 at 462.
+32 See Huck & Zhou, supra note 28 at 58.
+33 See Huck & Zhou, supra note 28 at 7 (warning of "overproduction of goods that in the end will be thrown away or
+suboptimal design of products that may have too much of one attribute and too little of another").2012] BEHAVIORAL EXPLOITATION ANTITRUST 84
+mortgages if consumers are induced to enter inappropriate  transactions.34  Aggregate welfare is
+thereby diminished.35
+This  effect  differs  from  demand-curve  shifting  that  underlies  dynamic  competition,
+whereby,  for example,  the  introduction  of the  iPad created  demand  for tablet  computers  that
+previously did not exist.36  Behavioral exploitation is not a question of introducing and marketing
+new products, changing  consumers'  utility  functions permanently  (or until the  next innovation
+comes along).37  Behavioral  exploitation is a question of a short-term shift in the demand curve,
+altering consumers'  understandings  of their own utility  functions long enough to bring about a
+transaction that cannot be reversed.
+Bar-Gill has recognized the welfare effects of the type of behavioral exploitation that we
+outline here.38  He explains how those welfare effects occur in subprime mortgage contracts that
+"share  two  suspect  features"  of cost  deferral  and  complexity  we  discuss  above.39   Bar-Gill
+identified  a "demand-side  market  failure"  that occurred  when imperfectly  rational  borrowers
+"'demanded'  complex deferred-cost  loans and lenders met this demand."40  That market failure
+produced  welfare  effects  in  four  ways:  complexity  hindered  competition  by  undermining
+comparison-shopping;  cost-deferral  led to  increased  rates  of default with consequent  harm  to
+borrowers  and third parties  (including  "the  economy  at  large");  subprime  contracts  suffered
+distributive consequences because poor borrowers were uniquely affected; and demand for home
+mortgage products was artificially inflated.41
+It is possible to theorize the size of the welfare effect in any individual transaction.  Any
+amount paid on an expected-value basis above the consumer's reservation price in the mortgage
+transaction  should be considered pure wealth transfer to the  lender.42  (Although it is possible
+that consumers  are willing to pay more in a transaction for the added value  of a trusted lender,
+34  For another concrete  example, behavioral  exploitation  may produce too much demand  for consumer subprime
+mortgage lending.  The supply response will reduce the supply of (for example) student loans and increase their cost
+relative to subprime mortgage loans.
+35 See Oren Bar-Gill, The Law, Economics, and Psychology of Subprime Mortgage Contracts, 94 CORNELL L. REV.
+1073,  1130 (2009) (noting "welfare cost in the form of allocation inefficiency:  borrowers are not matched with the
+most efficient lender."); Oren Bar-Gill, Competition and Consumer Protection: A Behavioral Economics Account,
+in Swedish Competition Authority,  The Pros and Cons of Consumer Protection (forthcoming),  manuscript at 1, 4
+(Dec. 2011), (noting that "perceived benefits" of a transaction may deviate from "actual benefits").
+36 See generally J. Gregory Sidak & David J. Teece, Dynamic Competition in Antitrust Law, 5 J. COMP. L. & ECON.
+581  (2009) (describing the role of dynamic competition in antitrust analysis and the importance  of Schumpeterian
+"product and process innovation").
+See Timothy J. Tardiff, Efficiency Metrics for Competition Policy in Network Industries, 6 J. COMP. L. & ECON.
+957, 962 (2010) (product improvements give rise to outward shift in the demand curve).
+38 Bar-Gill, Competition and Consumer Protection, supra note 35, at 13-16.  Scholars have for years observed the
+market  failures  associated  with  information  asymmetries,  which  are  closely  related  to  the  disparities  in
+sophistication  that underlie  merchants'  abilities to exploit naYve  consumers.  See, e.g.,  Richard  Craswell,  Tying
+Requirements in Competitive Markets: The Consumer ProtectionI ssues, 62 B.U. L. REv. 661, 671 (1982).  Craswell
+also noted the efficiency loss resulting from this exercise of power. Id. at 672.
+39 Oren Bar-Gill, The Law, Economics and Psychology of Subprime Mortgage Contracts,9 4 CORNELL L. REV.  1073,
+1076 (2009).
+40 Id. at 1080.
+41 Id. at 1083.
+42  This definition  of the transaction-level welfare  loss  accommodates  the possibility  that, but for the behavioral
+exploitation, the transaction  would not have occurred at all.  If a consumer borrower  is willing to pay  X but the
+lender is able to convince him or her to pay X+1 (not changing his or her mind, but undermining his or her ability to
+appreciate the actual cost), the consumer will have paid X+1  for a product he or she values at X and would gladly
+exchange for something valued at X+1.85 WILLIAM & MARY POLICY REVIEW [VOL. 4:77
+whether in exchange for avoided search costs or due to a perceived quality difference, that effect
+will be very  small.  It may also be possible to compare  amount paid to reservation  price  on a
+lender-by-lender basis, eliminating any effect from brand loyalty.)
+Determining  exactly  what  that  differential  is  in  a  particular  transaction  is  more
+challenging.  One could engage in exit polling-type surveys of consumer borrowers,  asking after
+the transaction was consummated  how much the consumer was willing to pay and comparing it
+to the actual transaction terms.  The advantage  of this approach is that any  such survey would
+account  for  factors  that  may  have  been  unforeseeable  prior  to  the  consumer's  actually
+consummating  the transaction, such as falling in love with a home that is more expensive than
+originally  anticipated.43   It  suffers  from  drawbacks  of administrative  difficulty  and  possible
+unreliability.
+A second approach would be to compare the loan terms of the consummated transaction
+against those of transactions that the consumer eschewed.  A consumer borrower who chooses an
+adjustable-rate  mortgage over a fixed-rate  mortgage that is less expensive on an expected value
+basis may have been behaviorally  exploited. This approach suffers two drawbacks.  First, many
+subprime borrowers fail to qualify for an array of lending options, eliminating alternatives before
+the  consumer  is able  to  choose.  Second,  there  are  a  variety  of factors  that might  explain a
+borrower's  choice  of loan terms, even under an assumption of rational choice.  For example,  a
+borrower with no money available for a down payment but who reasonably expects to come into
+money in the medium-term might purchase immediately  (to take advantage  of low prices, or so
+as  not to lose  a particularly  attractive  property)  on terms  that would be  unattractive  for most
+borrowers, but avoid the problems of the onerous loan terms by paying the loan off early.
+Welfare  effects  are  more  readily  determined  by  looking  across  the  market  than  by
+looking  at  any  one  transaction.  Determining  the  costs  of  particularly  pernicious  loan
+characteristics  gives  a  basis  for  approximating  market-wide  welfare  effects.  Eric  Stein
+conducted  an  early  study  that preceded  the  most  substantial  excesses  in  subprime  mortgage
+lending  over  the  past  decade.  His  report  estimated  "that  U.S.  borrowers  lose  $9.1  billion
+annually  to  predatory  lending  practices,"  employing  a  definition  of predatory  lending  that
+included conduct within the ambit of behavioral exploitation.44  Of the lending practices studied,
+"equity  stripping"  - the  charging  of  fees,  credit  insurance,  and  prepayment  penalties  -
+represented  2/3 of the annual  loss.  Stein's description  of these practices as  including fees that
+are  "painless  at  closing"  but  lasting  "forever"  invokes  the  salience  and  optimism biases  and
+hyperbolic  discounting,  as  well as the  drip pricing,  shrouding,  and obfuscation techniques  for
+exploiting them.
+3. DECEPTIONC  OMPARED
+Behavioral  exploitation  is  a  close  cousin  of  deception,  the  practice  of  inducing  a
+transaction  on  the  basis  of  material  misrepresentations  (or  omissions  that  operate  as
+misrepresentations)  that has long been regulated at common law and by both federal  and state
+statute.45  A  simple  example  illustrates  the  difference  between  the  two.  A  materially  false
+statement  of,  or  a  material  omission  to  state  (in  a  context  where  the  omission  creates  a
+43 This effect may itself be the result of behavioral exploitation by the seller of the home or a real estate agent.
+44  See Eric Stein, Quantifying the Economic Cost qf Predatory Lending, COALITION FOR RESPONSIBLE  LENDING
+REPORT 2 (Rev'd ed. Oct. 2001).
+45 See generally MICHAEL M. GREENFIELD, CONSUMER  TRANSACTIONS 6-183  (2009) (discussing federal and state
+regulation of deception)2012] BEHAVIORAL EXPLOITATION ANTITRUST 86
+misimpression),  a transaction term  is  deceptive.46  Thus, a deceptive  lender  might say "that's
+everything,"  but later include a fee that was not disclosed.  By contrast, an accurate statement of
+the  same  transaction  terms,  in  a  context  that renders  the  consumer  unable  to  appreciate  its
+importance,  is behavioral exploitation.  A behaviorally  exploitative lender might disclose the fee
+only at the very last minute, when the consumer is psychologically  and practically (having, for
+example, agreed to the underlying purchase transaction) committed to proceed.
+Deception  certainly took  place in the  market  for consumer subprime  home mortgages
+leading  up to the 2007  financial crisis.  The U.S.  Financial  Crisis Inquiry Commission report,
+among other examples, describes  occurrences of consumers who thought they agreed to one set
+of loan terms and signed papers reflecting other loan terms.47  This conduct creates harm in the
+same  way  as  behavioral  exploitation:  the  deceived  consumer  enters  a  transaction  he  or  she
+otherwise would not consummate, creating an economy-wide welfare loss.48
+B. THE PROBLEMS WITH THE REGULATORY STATUS Quo ANTE
+A hodge-podge of targeted, consumer-protection  based, regulation developed in the years
+leading  up  to  the  financial  crisis.  The  existing  consumer  protection  and remedial  structure
+remains  insufficient,  inefficient,  and  bewildering.  One  court  expressed  regret  evidencing
+insufficiency  of the current state of regulation of the mortgage lending industry:  "The power to
+curb predatory practices lies either in consumer education or with Congress; as a court of limited
+jurisdiction, I may only enforce the laws as written, not as I would wish they were written."49
+1.  EXISTING FEDERAL AND STATE MORTGAGE LENDING REGULATION
+In  broad  terms,  existing  mortgage  lending  regulation  may  be  placed  in  one  of the
+following  categories:  (1) federal  disclosure  statutes,  (2)  statutes regulating  unfair  or deceptive
+acts or practices, and (3) state law remedies.  First, federal regulation of grass-roots transactions
+primarily  revolves  around  two  statutes:  the  Truth  in  Lending  Act  (TILA),o  and  the  Home
+Ownership  and Equity Protection Act (HOEPA).51  The Federal Trade Commission Act, which
+regulates  "unfair  or deceptive  acts or practices,"  provides  another basis for protection against
+harmful lending practices.  Lastly, state law often provides a means through which to challenge
+unfair conduct, yet in a way that is frequently redundant to federal regulation.
+Although  the  failure  of  existing  mortgage  lending  regulation  alone  cannot  entirely
+account for the subprime mortgage meltdown, the existing regulations could not stem the tide of
+loosened lending practices, outright fraud, and behavioral  exploitation in the years preceding the
+financial  crisis. 52 For instance, TILA requires and regulates  lender disclosures at the time of a
+46 See supra Part 11.
+47 See Financial Crisis Inquiry Report at 7-8, 12; Bernstein Senate Testimony 3.
+48 Maurice E. Stucke, When a Monopolist Deceives, 76 ANTITRUST L.J. 823 (2010).
+49 Parker v. Long Beach Mort.,  534  F. Supp. 2d 528, 530 n.2  (E.D. Pa. 2008). See generally Bryce, Foreclosure
+Developments, Mortgage Fraud,C  ounterclaimsa nd Defenses, 64 CONSUMER FINANCE L.Q. RPT. 1 (Spring 2010).
+50 Truth in Lending Act ("TILA"), 15 U.S.C.A.  § 1601 et seq.
+51  Home Ownership  and Equity Protection Act of 1994 ("HOEPA"),  15  U.S.C.A.  §§  1602(aa),  1610,  1639,  and
+1640.
+52 Christopher E. Ware, Laura Gramling Perez, Main Street Meets Wall Street: The Mortgage Meltdown, 80-DEC
+Wis. Law. 8 (Dec. 2007)("Alone, increased demand for homes, low interest rates, risk-shifting investment vehicles,
+aggressive or fraudulent lending, creative financing, or lax oversight would not have caused the collapse.  Together,
+however, these factors shifted priorities in the mortgage market, and then cause the mortgage problems that are at
+the forefront of the news.").87 WILLIAM & MARY POLICY REVIEW [VOL. 4:77
+consumer loan application, including those for home mortgage loans.53  Indeed, the purpose of
+TILA  is to  "protect consumers  from  inaccurate  and unfair  credit  practices  and  . . . assure  a
+meaningful disclosure  of credit terms  ... [to]  avoid the uninformed use of credit."54  As noted
+above,  a behaviorally  exploitative  lender, unlike a deceptive  lender, would likely  comply with
+TILA by  disclosing certain fees or terms.  However, that lender will make required disclosures
+after  the  consumer  is  psychologically  and  practically  committed  to  proceed.  Thus,  TILA-
+required  disclosures would do little. TILA's purpose  would be defeated,  where a lender offers
+such terms in a context in which the consumer is unable to appreciate their importance.
+Another federal disclosure  statute, HOEPA, amended  TILA to respond more directly to
+so-called  predatory  lending  in  the  mortgage  market.5   Whether  a  mortgage  is  subject  to
+HOEPA's increased regulation  "is determined by triggers related to a loan's annual percentage
+rate  or its points and fees,  rather than any  definition of 'predatory  lending'."56  Those  triggers
+proved  easy  to  avoid,  permitting  creditors  to  escape  HOEPA's  increased  disclosure
+requirements.  "[L]enders  make loans very close to the triggering thresholds, but low enough to
+avoid the trigger,"  "offer open lines of credit as opposed to closed-end loans," and charge "junk
+fees"  for "services  that are  related to,  but technically  independent  of, the  mortgage."5   This
+ability  to  end-run  the  statutory  requirements  limits  HOEPA's  effectiveness  from a  consumer
+protection standpoint.
+The Federal Trade Commission Act is a third basis for protection against harmful lending
+practices.  The  FTC has authority  to challenge  "unfair  or deceptive  acts  or practices."5'  The
+FTC's unfairness authority generally has been applied in rulemaking, defining specific instances
+of conduct  that may be  enjoined  as  unfair.  Deception is defined  according  to precedent  and
+administrative guidance to include conduct that is likely to mislead a consumer acting reasonably
+under  the  circumstances.59   The  FTC  has  been  successful  in  reaching  settlements  including
+restitution in cases  of deception.  The FTC Act remedy promises only limited effectiveness for
+two reasons.  First, only the FTC has standing to enforce the FTC Act, precluding consumer and
+competitor  plaintiffs from suing.  Second, the  reasonableness element  of a deception claim is
+unlikely  to  be  made  in  a  case  of behavioral  exploitation,  which  by  definition  relies  on
+economically irrational - hence, "unreasonable" - conduct.60
+State law, another possible source  of consumer protection, is  frequently redundant  and
+often relies on duties imposed by federal statute.61  For example,  statutorily unfair or deceptive
+53  15  U.S.C.A.  § 1601  et seq.; see also Reg. Z § 226.19 (requiring lenders is to give early estimated disclosures at
+the time of the loan application).
+54  15  U.S.C.A.  § 1601(a).  See  Dee  Pridgen, Putting Some  Teeth  in  TILA:  From Disclosure to Substantive
+Regulation in the Mortgage Reform andAnti-PredatoryL ending Act of2010, 24 Loy. Cons. L. Rev. 615, 617 (2012)
+(TILA "took a pure disclosure approach").
+5 Home Ownership  and Equity Protection Act of 1994 ("HOEPA"),  15  U.S.C.A.  §§  1602(aa),  1610,  1639,  and
+1640.
+56  Letter  from  Edward M.  Gramlich,  Member  of the  Board, Federal  Reserve  to  The  Honorable  Phil  Gramm,
+Chairman  of Committee  on Banking,  Housing  and  Urban  Affairs,  United  States Senate,  dated  April 28,  2000;
+available at: http://banking.senate.gov/docs/reports/predlend/fed.htm.
+Burlingame, supra note 14 at 467; Nicholas Bagley, 79 N.Y.U. L. REv. 2274, 2282 (2004).
+15 U.S.C.  § 45(a)(1).
+59 In re InternationalH  arvester, 104 F.T.C. 949 (1984).
+6o It is not logically necessary that "economically irrational"  be equated to "unreasonable."  Proof that a consumer
+"acted in a way consistent with the broad range of ordinary or average people" would suffice to render that conduct
+reasonable under InternationalH  arvester. Id.
+61In re InternationalH  arvester, 104 F.T.C. 949 (1984).2012] BEHAVIORAL EXPLOITATION ANTITRUST 88
+acts  and practices  claims may  simply adopt the standards  established  by interpretations  of the
+Federal  Trade  Commission Act.62  Similarly,  some  states  provide that compliance  with TILA
+disclosures  is  an  affirmative  defense  to  liability  under  state  law.63   Yet,  commentators  do
+recognize some states'  proactive role in regulatin-g consumer-lending practi-ces.64
+State laws can provide broader protections than federal law in two primary ways.  First,
+state and local laws may increase restrictions on mortgage lenders and apply to a wider spectrum
+of  loans.65  Second,  state  claims  may  expand  the  nature  of the  right  of action  available.
+Consumers and state attorneys general  lack standing to sue for a violation of the Federal Trade
+Commission  (FTC)  Act,  but  will  frequently  be  granted  standing  for the  same  claim  brought
+under  state  law.  Finally,  state  claims  may  also  arise  under  the  common  law  of fraud  and
+misrepresentation.  Such claims  require proof of a misrepresentation  of fact by the  mortgagee
+and reasonable reliance by the consumer borrower.66
+In 2003,  however,  the  Office  of the  Comptroller of the  Currency,  a banking regulator,
+preempted  state  efforts  to  regulate  the  lending  practices  of national  banks.67   States  were
+prevented from outlawing loan terms such as balloon payments, negative amortization, late fees,
+and  prepayment  penalties,  all  of which  represent  the  dual  characteristics  of complexity  and
+deferred cost and capitalize  on consumer decision-making  biases.68  Thus, state laws suffer the
+same  shortcomings  as those federal  regulations to which they  are redundant,  and have largely
+been prevented from going much further.
+2.  PREDICTABLE LIMITATIONS
+Much  of  this  regulation  was  well-intentioned,  designed  to  accomplish  narrow  and
+legitimate  purposes,  and had been in place long before  the financial  crisis.  In fact, TILA was
+initially enacted in 1968.69  Nevertheless, the existing regulations were insufficient and unable to
+account  for  changing  market  conditions,  deregulation,  and ill-preparedness  on behalf of key
+policy makers.70
+62 See, e.g., Mass. Gen. Laws Ann. Ch. 93A, § 2 (outlawing unfair methods of competition and unfair or deceptive
+acts or practices and adopting FTC interpretations of FTC Act § 5 to assist in the interpretation of this section).
+63 See, e.g., Consumer Credit Protection Act, §102 et seq.,  15  U.S.C.A.  § 1601 et seq.; S.H.A.  815 ILCS 505/1  et
+seq.; see also MorEquity, Inc. v. Naeem, 118 F. Supp. 2d 885, 893 (N.D. Ill., Oct. 25, 2000) (citing Jackson v. South
+Holland Dodge, Inc., 312 111. App. 3d 158, 167, 244 Ill. Dec. 835,  726 N.E. 2d 1146 (1st Dist. 2000) (holding when
+a creditor is exempt from TILA liability, the creditor is also exempt from Consumer Fraud Act liability.).
+64 See Burlingame, supra note 14, at 468-69 (discussing the North Carolina's anti predatory-lending statute).
+65  Cottingham,  Mortgage  and  Asset Backed  Securities  Litigation  Handbook,  §5:8  (Nov.  2011).  Detailing,  for
+example, the Georgia Fair Lending Act (Ga. Code Ann. §§  7-6A-1,  et seq.), which initially sought to impose nearly
+unlimited liability on assignees of many Georgia mortgage loans.
+66  Martin  C. Bryce,  Jr.,  Foreclosure Developments, Mortgage Fraud, Counterclaims and Defenses, CONSUMER
+FINANCE LAW QUARTERLY  REPORT,  Spring 2010; Citing as examples:  Hunt v. U.S.  Tobacco Co.,  538 F.3d 217,
+224-26 (3d Cir. 2008) (Pennsylvania's  Unfair Trade Practices and Consumer Protection Law); Cattie v. Wal-Mart
+Stores, Inc., 504 F. Supp. 2d 939, 947 (S.D.  Cal. 2007) (California's Unfair Competition Law); Peltier Enter., Inc. v.
+Hilton, 51 S.W. 3d 616, 624 (Tex. App. 2000) (Texas'  Deceptive Trade Practices Act); Lidecker v. Kendall College,
+194 111. App. 3d 309, 314 (1990)(Illinois'  Consumer Fraud and Deceptive Business Practices Act); Zeeman v. Black,
+156 Ga. App.  82, 87 (1980)  (Georgia Fair Business Practices Act); Sanders v. Francis, 277 Or. 593, 561 P.2d 1003
+(1977)  (Oregon's Unlawful Trade Practices Act).
+See Arthur E.  Wilmarth,  Jr.,  The Financial Services Industry's Misguided Quest to  Undermine the Consumer
+FinancialP rotection Bureau, 31 REV. BANKING & FIN. L. 881, 931 (2012).
+6 See Burlingame, supra note 14, at 473.
+69 Title I of the Consumer Credit Protection Act, Pub. L. 90-321,  82 Stat. 146, enacted June 29, 1968.
+7o  Financial Crisis Inquiry Commission, Report on the Causes of the Financial Crisis (Jan. 27, 2011); available at:
+http://fcic-static.law.stanford.edu/cdn media/fcic-news/2011-0127-fcic-releases-report.pdf  ("The  Commission89 WILLIAM & MARY POLICY REVIEW [VOL. 4:77
+Although disclosure  statutes such as  TILA and HOEPA were designed to prevent "the
+uninformed use of credit,"7  and the FTC Act was designed to challenge "unfair or deceptive acts
+or practices," 72 the  existing regulation  gives rise to what  is best described  as "whack-a-mole"
+problems.  That  is,  the  existing  regulation  resolved  only  problems  that  were  known  or
+foreseeable  and  could  not  resolve  "unknown  unknowns."73  Indeed,  discussing  regulation
+targeting the  downstream  financial  industry, Darren Bush noted the  problem with reactionary,
+rather than anticipatory, regulation.  "[T]he  missing piece in this discussion of economic crises is
+an examination of the  ex-ante regulation of failed markets and the  economy as a whole."74  A
+regulatory  scheme that avoids this trap would enable a challenge to conduct that threatens harm,
+before that harm is realized.
+In  addition,  changing  market  conditions  likely  exposed  the  reactionary  nature  of the
+existing  regulations.  For instance,  rapidly  rising property  prices  (attributed  to  years  of low
+interest  rates)  increased  the  temptation  for borrowers  to  misrepresent  their  circumstances  on
+applications  in order to qualify for loans.75  On the other side, loan originators were encouraged
+to create more loans by the ability to retain little or no exposure on those loans by packaging and
+selling loans as investment devices.  The former aspect of the market would likely decrease the
+effectiveness  of disclosure  statutes.76  The latter, which has acquired the epithet, "originate-to-
+distribute,"7   switched the  focus to  the fees  from creating  and packaging  loans  as  investment
+devices, as opposed to focusing on the quality of the underlying loans.
+concluded that the crisis was avoidable and was caused by: Widespread failures in financial regulation, including the
+Federal  Reserve's  failure to  stem  the  tide  of toxic  mortgages;  Dramatic  breakdowns  in  corporate  governance
+including too many financial firms acting recklessly and taking on too much risk; An explosive mix of excessive
+borrowing  and risk by households and Wall Street that put the  financial system  on a collision course with crisis;
+Key policy makers ill prepared for the crisis, lacking a full understanding of the financial system they oversaw; And
+systemic breaches in accountability and ethics at all levels.").
+1 15 U.S.C.A.  § 1601(a).
+72 15 U.S.C.  § 45.
+73  See Darren Bush, Too Big to Bail:  The Role of Antitrust in DistressedI ndustries, 77 ANTITRUST  L.J. 277, 278
+(2010).  We  borrow  the  phrase  "unknown  unknowns"  from  then-Defense  Secretary  Donald  Rumsfeld's
+characterization  of threats from Iraq (another phenomenon that likely presents whack-a mole characteristics).  See
+Donald  H.  Rumsfeld,  DoD  News  Briefing,  Feb.  12,  2002,  http://www.defense.gov/transcripts/
+transcript.aspx?transcriptid=2636.
+74 Bush, Too Big to Bail, at 278.
+Andrew J. Ceresney, Gordon Eng, Sean R. Nuttall, Regulatory Investigations and the Credit Crisis: The Search
+for Villains, 46 AM. CRIM. L. REv. 225, 236-37 (2009).
+6 Designed to protect consumers, TILA aims to provide consumers with a "meaningful disclosure of credit terms,"
+but has no impact on consumers'  fraudulently filling out credit applications.
+n  See Peter H. Hamner, The Credit Crisis and Subprime Litigation: How Fraud Without Motive  "Makes Little
+Economic Sense",  1 U. PUERTO  RICO  Bus.  L.J.  103,  117  (2010)  (discussing  the  "originate-to-distribute"  and
+"subprime lawsuit narrative").
+8 Id (citing Frederic S. Mishkin, Governor of the Bd. Of Governors of the Federal Reserve System, Speech at the
+U.S. Monetary Policy Forum, New York: On "Leveraged Losses: Lessons from the Mortgage Meltdown" (Feb. 29,
+2008)  http://  www.federalreserve.gov/newsevents/speech/mishkin20080229a.htm  (last visited  Oct.  29,  2012)  (in
+which Frederic Mishkin discusses the misaligned  incentives of lenders));  see also Ben Bernanke, Chairman of the
+Bd.  Of Governors  of the  Federal Reserve  System,  Address  at the Federal Reserve  Bank  of Chicago's  Annual
+Conference on Bank Structure and Competition, Chicago, Illinois: Risk Management in FinancialI nstitutions (May
+15,  2008),  http:// www.federalreserve.gov/newsevents/speech/bernanke200805l5a.htm  (last visited Oct. 29, 2012)
+("[the revenues of the originators of subprime mortgages were often tied to loan volume rather than to the quality of
+the underlying credits, which induced some originators to focus on the quantity rather than the quality of the loans
+being passed up the chain.").2012] BEHAVIORAL EXPLOITATION ANTITRUST 90
+Regulators could not be expected to foresee problems that were deemed unlikely by even
+the most expert of observers.  Agency  capture problems arose  due, partly to powerful  political
+interests  supporting  the  regulated  entities  and,  partly  to  competition  for  fees  from  regulated
+entities.79  Thus,  in a general  sense,  consumers were  defeating  disclosure  statutes  designed to
+protect  them,  loan originators  were  faced  with  an incentive  to  loosen  lending  standards  and
+approve  more loans,  and regulators were unable to predict or correct the  growing problems in
+consumer lending.
+Further,  the  Gramm-Leach-Bliley  (GLB)  Act,80  also known  as  the  Financial  Services
+Modernization Act of 1999, rapidly changed market conditions in the mortgage lending industry.
+The  Gramm-Leach-Bliley  Act,  which  repealed  part  of Franklin  Roosevelt's  Banking  Act  of
+1933,  more commonly known as the Glass-Steagall  Act,82 was a very significant development
+in securities regulation.  Although commentators will differ on the role the GLB Act played with
+respect  to  the  financial  crisis,83  the  GLB  Act presented  a vastly  changed  marketplace  where
+"firewalls"  between financial institutions, in place for over sixty years, had been removed.
+Existing  consumer-protection  based  regulation  undermines  consumers'  incentives  to
+educate  themselves with regard to the transactions at issue.  Mark Armstrong recently observed
+the  concern  for moral  hazard  if transaction  terms  are  restricted  or  consumers  are  allowed  a
+remedy  for improvident transactions.84  This understanding  flows from the  "well understood"
+concern that "if someone is insured, she will take less  care protecting  her possessions.""  The
+insurance  in the consumer protection story is the regulatory scheme and the possessions are the
+consumer's  interests  in the transaction terms.  So "[t]he  victim  of a scam, or an unexpectedly
+high  credit  card penalty  charge,  will  usually be  more  vigilant  in the  future."86  Armstrong's
+moral hazard  argument relies on a rational choice model of consumer behavior.87  But it holds
+for  boundedly  rational  consumers  as  well.  Evidence  from  empirical  studies  of individuals'
+behavior demonstrates that education and experience reduces the effect of cognitive biases.88
+Lastly, consumer-protection-based  regulation is inherently  disempowering.  An approach
+that outlaws substantive transaction terms, which may be appropriate for a subset of consumers,
+limits those consumers'  abilities to choose from among the broadest possible array of available
+transactions.  As Neil Averitt and Robert Lande argue, consumer protection laws should preserve
+consumers'  abilities  to  exercise  choice,  while  antitrust  laws  should  preserve  the  existence  of
+79 See Rachel E. Barkow, InsulatingA  gencies: Avoiding Capture through InstitutionalD  esign, 89 TEX. L. REv.  15,
+44-45 (2010) (describing capture concerns for banking regulators based on "regulator shopping).
+80  Gramm-Leach-Bliley  Financial  Modernization  Act, PL  106-102,  Nov.  12,  1999,  113  Stat  1338 ("An Act To
+enhance  competition  in the financial  services  industry by  providing a prudential framework  for the  affiliation of
+banks, securities firms, insurance companies, and other financial services providers, and for other purposes.")
+8 12 U.S.C.  § 24; 12 U.S.C.  § 378(a)(1), 21(a)1.
+82 id
+83  See e.g., Eric Lipton & Stephen Labaton, A DeregulatorL ooks Back, Unswaved, N.Y. TIMES, Nov. 16, 2008, at
+Al.
+84  Mark Armstrong, Economic Models of Consumer Protection Policies, MPRA PAPER No.  34773,  at 2-3  (Nov.
+2011), availablea t mpra.ub.uni-muenchen.de/34773.
+8 Id. at 3; see also generally Steven Shavell, On Moral Hazard and Insurance, 93 Q. J. ECON. 541 (1979).
+8 Armstrong, supra note 84 at 4.
+8  Id. at 2.
+88 Cf  Gregory  Mitchell,  Why  Law  and Economics' Perfect Rationality Should Not  be Behavioral Law  and
+Economics'EqualI ncompetence, 91 Geo. L.J. 67, 87-94 (2002) (education mitigates the impact of cognitive bias).91 WILLIAM & MARY POLICY REVIEW [VOL. 4:77
+choice.89  The two schemes would work at cross-purposes if consumer protection regulation were
+permitted to remove consumer choice.
+3.  REFORMS TO MORTGAGE LENDING REGULATIONS
+Congress  responded  to  the perceived  weakness  in  existing  regulation  of the  financial
+industry with the Dodd-Frank Wall Street Reform and Consumer Protection Act ("Dodd-Frank"
+Act).90  The Dodd-Frank Act revised regulation of the mortgage lending industry  in the United
+States.91  According  to  Professor  Pridgen,  Dodd-Frank  "takes  a  much  more  substantive
+regulatory  approach than has been seen until recently in federal  credit regulation."92  Reforms
+include  new requirements that consumer borrowers'  have the abilities to make payments;  new
+limits on broker compensation models that preclude  one pernicious compensation device, yield-
+spread-premiums; and limits on prepayment penalties, among other reforms.93
+The Dodd-Frank Act has both expanded and restricted coverage of existing statutes and
+regulations in the mortgage lending industry.94  For instance, the Act established a new "duty of
+care" for residential mortgage originators.  However, the "duty of care" only requires a mortgage
+originator:  (1) to be licensed or registered as a loan originator if required by the SAFE Act95; and
+(2)  to include the unique identifier provided by the Nationwide Mortgage Licensing  System and
+Registry (NMLSR) on all loan documents.96
+Title  XIV  of the  Dodd-Frank  Act  enacted  several  new  requirements  for  mortgage
+originators.97  Under Title XIV a loan originator is required to make a good faith and reasonable
+effort based upon verified information that "at the time the loan is consummated, the consumer
+has a reasonable ability to repay the loan."  This provision may have been designed to respond to
+the above noted incentive for lenders to focus on the quantity of loans approved, as opposed to
+the  quality  of loans  approved.  However,  a "qualified  mortgage"  will be free  of many  of the
+restrictions  and limitations imposed by Title XIV on other mortgage loans, presenting the same
+concerns of easy avoidability that we encounter under HOEPA.98  Although the Dodd-Frank Act
+89 Neil W. Averitt & Robert Lande, Using the "Consumer Choice" Approach to Antitrust Law, 74 ANTITRUST L.J.
+175, 181 (2007).
+90 The Dodd-Frank Wall Street Reform and Consumer Protection Act, P.L. 111-203 July 21, 2010, 124 Stat. 1376.
+91 Robert A. Cook and Meghan Musselman, Summary of the Mortgage Lending Provisions in the Dodd-Frank Wall
+Street Reform and Consumer ProtectionA ct, 64 CONSUMER FIN. L.Q. REP. 231 (Summer/Fall, 2010).
+92 Dee Pridgen, Putting Some Teeth in TILA:  From Disclosure to Substantive Regulation in the Mortgage Reform
+andAnti-PredatoryL ending Act of2010, 24 LoY. CONS. L. REv. 615, 616 (2012).
+93 See id. at 627-28 (citing 15 U.S.C.  1639c).
+94 See id. for a greater discussion of the impact of the Dodd-Frank Act on mortgage lending regulation in which the
+authors detail Dodd-Frank's expanded HOEPA coverage, new mortgage originator rules, increased penalties,  new
+disclosure burdens, and new escrow and force-placed insurance rules, among other reforms.
+95 Secure and Fair Enforcement for Mortgage Licensing Act of 2008 ("SAFE Act"), 12 U.S.C.  § 5100, et seq.
+96 See, e.g., Cook and Musselman, supra note 91; the authors note, "By placing this duty in TILA, the Dodd-Frank
+Act allows the TILA penalties to be imposed on a mortgage originator for a failure to comply with these rules." See
+also id.
+97 Dodd- Frank Act, infra, note 98.
+98  Dodd-Frank  Act  § 1491;  A "qualified  mortgage"  is  defined  as a mortgage  loan  "(i)  that does  not allow  for
+negative  amortization and is not a balloon loan, (ii)  for which the creditor verifies and documents the borrower's
+income  and  assets,  (iii)  that  is  underwritten  using  a  fully-amortizing  payment  schedule  (for  an  ARM  loan,
+underwritten based on the maximum rate permitted during the first five years of the loan term) taking into account
+all applicable taxes, insurance and assessments, (iv) for which total points and fees do not exceed  3% of the total
+loan amount, and (v) that complies with debt-to-income ratios established by the Federal Reserve Board."  Dodd-
+Frank Act §  1411; see Robert M. Jaworski,  Jaworski on the Mortgage Reform and Anti-Predatory Lending Act,
+2010 LEXISNEXIS EMERGING ISSUES 5346 (Oct. 6, 2010).2012] BEHAVIORAL EXPLOITATION ANTITRUST 92
+provides  a  new  enforcement  role  for  the  FTC  with  respect  to  home  appraisals,99  and  has
+increased  penalties  for  violations  of  TILA,100  the  reforms  do  not  promise  to  negate  the
+justification for resort to antitrust law and policy into this area.
+Dodd-Frank's effectiveness has yet to be determined.  "The Dodd-Frank Act may have a
+significantly greater  [or lesser] effect depending on how the new Bureau of Consumer Financial
+Protection ["CFPB"] exercises its considerable powers."' 0  In late January 2013  the CFPB took
+a  substantial  step,  promulgating  seven  rules  pertaining  to  mortgage  lending.  The  new  rules
+impact statutes that are mainstays of mortgage regulation, such as TILA and RESPA.102  Many
+of these new rules will go into effect on June 1, 2013, and the last of the rules will go into effect
+in January 2014.103
+One  notable example  is  the agency's  ability  to repay ("ATR")  and qualified mortgage
+("QM") standards rule.  That requires "mortgage lenders to consider consumers'  ability to repay
+home  loans  before  extending  them credit."104  At  a minimum,  "creditors  will  be  required  to
+consider  eight  underwriting  factors:  (1) current  or reasonably  expected  income  or assets;  (2)
+current employment status; (3) the monthly payment on the covered transaction; (4) the monthly
+payment on any  simultaneous  loan; (5) the monthly payment for mortgage-related  obligations;
+(6)  current debt obligations, alimony, and child support; (7) the monthly debt-to-income  ratio or
+residual  income;  and  (8)  credit  history." 05   In  addition,  creditors  will  be  required  to  use
+"reasonably  reliable  third-party  records  to  verify  the  information  they  use  to  evaluate  the
+factors."106
+The  second  part of the  rule  deals  with  "qualified  mortgages."  The  Dodd-Frank  Act
+provides that a creditor that extends a "qualified mortgage" presumptively satisfied the ability-to-
+repay requirements.  Here, "[Lt]he  line the [CFPB] is drawing is one that has long been recognized
+as  a rule  of thumb  to  separate  prime  loans  from  subprime  loans." 07  In addition,  the  CFPB
+99 Dodd-Frank Act, supra note 98.
+100 "TILA penalties have been increased as follows: the class action liability cap is raised to $1,000,000;  mortgage
+originators are subject to TILA penalties for compensation and steering violations; the heaviest penalties (by far) are
+applied  to  violations  of the rules related  to  appraisal  independence;  and  state  attorney  general  enforcement  is
+expanded."  Id
+1o1 Cook & Musselman, supra note 91 at "Summary".
+102  TILA-related rules:  Loan  originator  compensation  requirements,  mortgage  servicing  requirements,  high-cost
+mortgage  and  homeownership  counseling  amendments,  escrow  requirements  for  higher-priced  mortgages,  and
+ability to repay and qualified mortgage standards; RESPA-related rules: homeownership counseling amendments,
+and mortgage  servicing requirements  (See Proposed Rules Bureau of Consumer FinancialP  rotection, High-Cost
+Mortgage  and  Homeownership  Counseling  Amendments  to  the  Truth  in  Lending  Act  (Regulation  Z)  and
+Homeownership  Counseling Amendments  to the  Real Estate  Settlement Procedures  Act (Regulation X),  78  FR
+6856-01  (Jan. 31,  2013)); ECOA-related  rules:  disclosure and delivery  requirements for copies of appraisals  and
+other written valuations (See Proposed Rules Bureau of Consumer FinancialP rotection, Disclosure and Delivery
+Requirements  for  Copies  of Appraisals  and Other  Written  Valuations  Under the Equal Credit  Opportunity  Act
+(Regulation B), 78 FR 7216-01 (Jan. 31, 2013).
+103 See  CFPB, Ability to Repay Summary, cfpb.com;  available at: http://www.consumerfinance.gov/regulations/
+ability-to-repay-and-qualified-mortgage-standards-under-the-truth-in-lending-act-regulation(-lza/s t accessed:  Feb.
+10, 2013).
+104 See id.
+105S ee id.
+106 See id.
+107 See  CFPB, Ability to Repay Summary, cfpb.com;  available at: http://www.consumerfinance.gov/regulations/
+ability-to-repay-and-qualified-mortgage-standards-under-the-truth-in-lending-act-regulation(-lza/s t accessed:  Feb.
+10, 2013).93 WILLIAM & MARY POLICY REVIEW [VOL. 4:77
+exempted  smaller  creditors  from  certain  provisions  because  "[lt]he  [CFPB]  believes  that the
+discipline  imposed when  small  creditors  make  loans that  they  will  hold  in their  portfolio  is
+sufficient to protect consumers' interests in this regard." 08
+III. A ROLE FOR ANTITRUST  LAW
+The  limitations  of targeted  regulation  in preventing  a harmful  spiral in which harmful
+conduct  leads to  market structure  characterized  by  dominance  or market leadership,  which in
+turn facilitates harmful conduct, suggests that legal protections must not rely on foresight on the
+part of regulators; must not rely on whack-a-mole responses to problems as they appear; must be
+structured to limit concerns  for agency capture  by  regulated entities;  must not  limit consumer
+choice; and must not present moral hazard concerns.109
+Antitrust  offers  a  quiver  of legal  protections  that  satisfy  those  requirements.  Broad
+private rights of action create  incentives  for consumers or competitors to bring suit, mitigating
+the problem  of limited regulator  foresight into the long-term consequences  of a course  of bad
+conduct.  Private plaintiffs are likely to be better informed about the actual or threatened market
+effects  of an  observed  course  of conduct  because  they themselves  participate  in  the  market.
+Private plaintiffs also have financial incentives to seek both injunctive and monetary relief before
+possible extra-market consequences of the conduct are realized.
+Second-order regulation, like antitrust, mitigates agency capture concerns.  The decision-
+makers - courts - are diffuse, unelected and life-tenured (in the federal  system), and subject to
+appellate  review.  Federal  enforcement  agencies  will not be  free from capture  concerns.  But
+those concerns are mitigated in antitrust because the agencies are themselves generalists; the two
+federal  agencies compete between themselves - and with state enforcers - in their enforcement
+programs; and private enforcement remains a check on public enforcers'  abdication of their role.
+A. BEHAVIORAL EXPLOITATION As BAD ANTITRUST CONDUCT
+The  antitrust  approach  to  behavioral  exploitation  operates  by  treating  behavioral
+exploitation as conduct of concern under the antitrust laws.  A plaintiff can challenge  behavioral
+exploitation  with  a  showing  of general  intent  and  a  market  effect,  giving  rise  to  antitrust
+remedies including injunctive relief and treble damages liability.  Our approach differs from too-
+big-to-fail approaches because we  do not advocate  challenges  on the basis of market structure,
+which can be achieved through innocent and even efficient conduct.  Our approach differs from
+the status quo of antitrust doctrine because we expand the class of conduct that will be seen to
+raise concerns.
+There are three broad categories  of antitrust analysis  under the modem state of doctrine.
+First is dominant firm conduct, whereby  a firm engages  in conduct  of concern and in doing so
+creates, threatens  to create,  or preserves a monopoly position.110  Remedies are available under
+Section  2  of the  Sherman  Act  on  a  showing  of both  market  power  (dominance)  and  bad
+conduct."  Second is concerted  conduct, whereby more than one firm agrees jointly to engage
+in a course  of conduct of concern.112  Remedies  are available under Section 1 on a showing of
+1os  Proposed Rules Bureau of Consumer Financial Protection, Ability  To  Repay  Standards  Under the  Truth  in
+Lending Act (Regulation Z), 78 FR 6622-01  (Jan. 30, 2013).
+109 See supra Part II.F (describing the failings of the regulatory status quo).
+See  Mark Anderson & Max  Huffman, 1qbal, Twombly, and the Expected Cost of False Positive Error, 20
+110 
+CORNELL J. L. & PUB. POL'Y 1, 41 (2010).
+n. 15 U.S.C.  § 2.
+112 See Anderson et al., supra note 110, at 29.2012] BEHAVIORAL EXPLOITATION ANTITRUST 94
+agreement and bad conduct.113  Third is merger review, whereby firms seek to combine to create
+a single firm, and after the combination the market structure will facilitate harmful conduct.114
+All  three  categories  of analysis  rely on a showing  of harmful  conduct.  It is  subject to
+interpretation  and common-law  what exactly constitutes  such harmful conduct."'  Liability for
+monopolistic activity requires proof of both market power and harmful conduct." 6  Liability for
+concerted  activity requires proof of agreement and harmful conduct."7  Merger review requires
+proof of actual or likely harmful effects from the merger, which turns on increased incentive and
+opportunity  to engage  in either unilateral  or concerted  harmful  conduct."8  A relatively  non-
+controversial definition of harmful conduct would require the threat of market-wide harm and the
+possibility of regulation without unduly restricting economically desirable activity.119
+Behavioral  exploitation  antitrust is  a new approach  that one  commentator  has recently
+described in detail 20 and other commentators are beginning to accept.  None of the examples of
+harmful  conduct  that  have  presented  bases  for  antitrust  liability  are  easily  analogous  to
+behavioral  exploitation.  The  most  likely  extension  of current  doctrine  would  be  a creative
+application  of the theory  of predatory  pricing.  Predatory  pricing occurs  when a firm prices its
+product or service below the firm's costs to provide the product or service.121  In understanding
+the subprime boom as a series of improvident loan transactions that were cheap relative to their
+risks (a component of lender cost structure), we might find an example of below-cost pricing.122
+Maurice  Stucke  has  suggested  a  comparable  expansion  of the  malleable  definition of
+harmful  antitrust  conduct  for  deception  that  brings  about  market  effects.  Recognizing  that
+deceptive  conduct  lacks any  redeeming  characteristics  and presents  real  competitive  dangers,
+Stucke  argued  for  application  of  antitrust's  "quick  look"  standard  to  reviewing  deceptive
+conduct,  shifting the  burden of proof to the defendant to demonstrate  a lack of harm  once the
+conduct  is proved.123  Behavioral  exploitation has a  stronger claim than deception to antitrust
+remedies.  Existing  regulation  at  both  the  federal  and  state  levels  prohibits  and  remedies
+deception,  including  in  consumer  subprime  mortgage  lending.124  In  contrast,  behavioral
+113 15 U.S.C.  § 1.
+114 15 U.S.C.  § 18(a).
+115 See, e.g., Competition and Monopoly:  Single Firm Conduct Under Section Two of the Sherman Act § 1 (2008)
+(report  withdrawn)  (noting that  bad conduct  for  Section 2 purposes  is  "willful  acquisition  or maintenance  of
+monopoly power" as opposed to "growth or development as a consequence of a superior product, business acumen,
+or historic accident") (quoting Grinnell).
+116 See Anderson et al., supra,n ote 110.
+1  See id. at 30.
+1  U.S. Dep't of Justice & Federal Trade Comm'n, Horizontal Merger Guidelines §§  6, 7 (2010).
+119 This first principles  understanding  of what constitutes  bad  conduct invokes the complex question of optimal
+deterrence.  See  generally Daniel A.  Crane,  The Economics of Antitrust Enforcement, in ANTITRUST  LAW  &
+ECONOMICS  1, 3-5 (Keith N. Hylton, ed., 2010).  Trusting that, as Crane observes id. at 4, there are ample forces at
+play seeking to undermine existing, and limit innovation in the development of, antitrust liability rules, we leave it to
+others to articulate the over deterrence argument.
+120 Huffman, supra note 11,  at 130-35.
+121B  rooke Group v. Brown & Williamson Tobacco Co., 509 U.S. 209 (1993).
+122 See id at 9-17, ("below an appropriate measure of cost").  Brooke Group also requires a dangerous probability of
+recoupment  of the losses incurred during the course of predation.  Recoupment  ordinarily  is found when  a firm
+achieves  a  durable  monopoly  position.  A  plaintiff might  be  able  to  establish  the  dangerous  probability  of
+recoupment over the course of a borrower's long-term relationship with the lender.  Scholarship does not discuss
+"below-cost lending," although the idea certainly emerges in the context of political benefits or kickbacks.
+123 See id. at 11,  13-19.
+124 See, e.g., Truth in Lending Act, 15 U.S.C.  1601 et seq.; Federal Trade Commission Act, 15 U.S.C. § 45.95 WILLIAM & MARY POLICY REVIEW [VOL. 4:77
+exploitation  is  regulated  only  at  the  margins.  Applying  an  antitrust  remedy  for  behavioral
+exploitation does not threaten the same level of redundancy.
+Applying  behavioral  exploitation  antitrust  to  the  consumer  subprime  mortgage
+marketplace, we propose that behavioral exploitation meets the conduct element of a claim under
+Sherman Act  section  1 or  2  or merger review  under  Clayton  Act  section  7.125  Considering
+briefly  the  state  of the  consumer  subprime  mortgage  marketplace  leading  up  to  2007,  we
+conclude that behavioral  exploitation  antitrust fits most naturally with merger review; might be
+(with some  doctrinal adjustment)  an appropriate  fit with a challenge to concerted  action under
+section 1;  and is unlikely  to inform  a challenge to dominant firm conduct under section 2.  We
+order the following sections in order of most to least appropriate fit.
+1. BEHA VIORAL EXPL OITA TION ANTITRUST IN MERGER REVIEW
+Injunctive  and damages remedies under Clayton Act, section 7,  and FTC Act, section 5,
+(injunction  only)  for  a  merger  that  "tends  to  create  a  monopoly"  arises  where  the  merger
+increases  the  incentive  and  opportunity  for a  firm to  engage  in  conduct  of concern.126  The
+merger theory will be the simplest application of behavioral  exploitation antitrust in an industry
+characterized by mergers with substantial increases in concentration.
+Merger enforcement under the Clayton Act does not require proof of harmful conduct, in
+contrast with the dominant firm conduct and concerted conduct we discuss above.  The recently
+revised Merger Guidelines recognize increased opportunity and incentive to raise prices to be an
+effect  that  provides  a  basis  for blocking  a  merger,127 although  raising  prices  in  isolation  is
+conduct  that  benefits  competition  by  incentivizing  market  entry.128  Similarly,  increased
+likelihood of tacit collusion provides a basis for blocking a merger,129 although the tacit collusion
+itself, under the current state of the law, is not illegal.130  In both cases the competitive harm is in
+the merger itself rather than in the conduct that it allows.
+A  successful  merger  challenge  usually  requires  proof of an  increase  in  concentration
+sufficient  to have  a  market effect.131  Merger review  in  a market  such  as  that for  consumer
+subprime  mortgage  lending  under  behavioral  exploitation  antitrust  would  not  change  that
+requirement.  A merger between two firms engaged in behavioral  exploitation,  or in which the
+acquiring  firm engages in behavioral  exploitation, can be expected to increase the incidence of
+that conduct in the market.  In either circumstance the merger limits competitive constraints that
+may exist on its continuing - i.e., there is one fewer firm that might find it advantageous to stop
+and to educate consumers as to the existence of the conduct.132
+Increased  concentration  also  increases  the  likelihood  of  tacitly  collusive  behavioral
+exploitation.  Tacit  collusion  occurs  when competitors  act  in coordinated  fashion rather  than
+competing,  but do  so without the agreement necessary  to bring about a section  1 violation for
+conspiring.  One market structure characteristic that increases the likelihood of tacit collusion is
+125  See  U.S.  Dep't of Justice & Fed. Trade Comm'n, Horizontal Merger Guidelines §§  6,  7 (2010) (discussing
+unilateral and coordinated effects in merger review) [hereinafter "Merger Guidelines"].
+126 See id. at § 1 (noting concerns for incipient price increases, output reductions, reductions in innovation,  or other
+"diminished competitive constraints or incentives").
+127 See Merger  Guidelines,  supra  note 125, at § 6.3.
+128 See Merger Guidelines,s upra note 125 at § 9.2.
+129 See Merger Guidelines,s upra note 125, at § 7.
+130 See supra, section II.B.1.
+131 Cf Merger Guidelines, supra note 125, at § 2.1.3 (increases in concentration "presumed to be likely to enhance
+market power").
+132 We discuss infra our view that this competitive effect is unlikely in any event.2012] BEHAVIORAL EXPLOITATION ANTITRUST 96
+concentration.  Where  a  merger  brings  about  increased  concentration,  which  increases  the
+likelihood of tacitly collusive behavioral exploitation, that merger creates an incipient harm that
+may be sufficient to permit antitrust remedies.
+2. BEHA VIORAL EXPL OITA TION ANTITRUST IN A CONCERTED ACTIoN CHALLENGE
+Sherman  Act  section  1 provides  a  basis  for  competitors,  government  enforcers  and
+consumers  to  challenge  groups  of firms who  act  by  agreement.  Concerted  conduct  requires
+proof  of two  elements:  agreement  and  conduct.  Under  behavioral  exploitation  antitrust,
+engaging  in behavioral  exploitation  with  general  intent, producing  a market effect,  meets  the
+conduct element.  Antitrust remedies should be available on proof of agreement.
+We do not know of evidence that mortgage lenders actually conspired, whether explicitly
+or  implicitly,  with  regard  to  transaction  terms  or  marketing  tactics  employed  in  consumer
+subprime  mortgage  lending  in the  years  leading to  the  financial  crisis.  Instead, the  market
+appears  to have  been  vigorously  competitive.  Proving  the  existence  of an agreement  would
+require  relying  on  evidence  of tacit collusion, by  which  lenders  achieved  de  facto  consensus
+through a course of interdependent  conduct.
+Faced  with behaviorally  exploitative  conduct by  a competitor, a firm  may compete  by
+itself, eschewing the conduct and advertising its knowledge of its competitor's actions.  The firm
+also  may  find it  profitable to  engage  in the  same conduct  itself.  Evidence  of industry-wide
+behavioral exploitation in consumer home mortgages suggests firms found the latter option more
+appealing.  The welfare effect is the same as if the competitors had colluded.  In the absence of a
+merger review proceeding, section 1 and FTC Act section 5 are the most frequently cited sources
+of authority for challenging tacitly collusive harmful conduct.
+The law is clear that tacit collusion based on interdependent conduct does not amount to
+an agreement cognizable under section 1.133  There have been calls to broaden the definition of
+agreement to include tacit collusion.  Richard Posner argued in  1969 that there  is no economic
+distinction between tacit and actual collusion.  Both present the same welfare effects and should
+be  outlawed.134   Some  have  suggested  a  middle  ground,  outlawing  tacit  collusion  under the
+broader language of FTC Act section 5 but not under section 1.135  The middle-ground  approach
+has  the  perceived  benefit  of preventing  excessive  litigation  by  private  plaintiffs,  who  have
+standing to enforce the Sherman Act but not the FTC Act.136
+We  advocate  an  expansive  enforcement  program  for  tacitly  collusive  behavioral
+exploitation in consumer subprime mortgage lending.  Consumer subprime mortgage lending has
+proved to be subject to enduring "lemons equilibria," where  sub-optimal transaction terms push
+out welfare maximizing terms.137  The benefits of antitrust enforcement  under section  1 or FTC
+133S ee Bell Atlantic Corp. v. Twombly, 550 U.S.  554 (2007); Max Huffman, The Necessity of PleadingE  lements in
+Private Antitrust Conspiracy Claims, 10 U. PA. J. Bus. & EMP. L. 627 (2008).
+134 Richard  Posner, Natural Monopoly  and its  Regulation, 21  STANFORD L. REv.  548 (1969);  see also POSNER,
+ANTITRUST LAW (2d ed. 2001).
+135 See Donald F. Turner, The Definition qfAgreement Under the Sherman Act:  Conscious Parallelism and Refusals
+to Deal, 76 Harv. L. Rev. 655, 682 (1962).
+136 See Thomas B. Leary, A Suggestion for the Revival of Section 5, Antitrust Source, Feb. 2009, at 1, 1-3.  But see
+William E. Kovacic & Mark Winerman, Competition Policy and the Application of Section 5 of the Federal Trade
+Commission Act, 76 ANTITRUST  L.J. 929, 939 & n.54, 948 & n.84 (2010) (noting that Section 5 standards may be
+used to interpret state laws that do allow for private enforcement, and that Section 5 holdings may serve as precedent
+in later private litigation).
+137 For an application of the theory of lemons equilibria to consumer home mortgage lending, see Janger & Block-
+Lieb, supra note 13.97 WILLIAM & MARY POLICY REVIEW [VOL. 4:77
+Act section 5 outweigh the harms from over-enforcement.  We believe it is possible to limit an
+expanded enforcement  program targeting tacit collusion to markets with characteristics  like that
+for consumer subprime mortgage lending.  Under our middle-ground  approach, tacitly collusive
+conduct in consumer lending would provide a basis for both private and public enforcers to sue
+seeking damages and injunctive relief.
+3. BEHAVIORAL EXPLOITATIONANTITRUST INA DOMINANT FIRM CONDUCT CHALLENGE
+Proof of dominant firm conduct in violation of Sherman Act section 2 requires proof of
+both monopoly power (or a dangerous probability  of achieving it) and bad conduct.  Section 2
+presents the simplest example of an enforcement theory relying on behavioral exploitation.  The
+claim works this way:  A plaintiff, probably a competitor, sues Countrywide  Financial in 2006.
+That competitor may be Wells Fargo, which testified to the Financial Crisis Inquiry Commission
+that it lost money by refusing  to engage in the most extreme  forms of subprime lending.  The
+plaintiff would argue that Countrywide was on its way to achieving market dominance because it
+acted with intent in exploiting consumer biases, inducing them to enter into transactions that are
+suboptimal.  The result is that the plaintiff is prevented from lending to those same consumers -
+presumably making smaller loans, but ones that are more consistent with the consumer's abilities
+to pay - the phenomenon of bad loans crowding out good loans or even wholly different types of
+lending  (e.g.,  student loans).  The competitor's  remedy would treble the hypothetical profit on
+the  loans that were  lost to the  competitor  plaintiff competitor,  as  well as  injunctive relief to
+prevent the defendant from engaging in the conduct in future transactions.
+Government  enforcers  might  also  bring  enforcement  actions  seeking  injunctive  relief
+against further behavioral exploitation.  In an extreme case, the government enforcer might seek
+a  structural  remedy  to  reduce  the  size  of the  dominant  firm.138  Consumer  enforcement  is
+hypothetically available, but is not realistic.  It is difficult to envision a basis for monetary relief
+to consumers, and consumers lack incentives to finance a lawsuit seeking injunctive relief.
+Available evidence does not suggest that any firm achieved sufficient market presence to
+meet the standards for dominance required by section 2.  In a nation- or world-wide market for
+financial products with ease of entry and exit into mortgage  lending,  it seems unlikely  market
+dominance  or the  dangerous  probability  of its occurring,  as  section  2 requires,  might ever be
+achieved.
+B. ANTITRUST  AVOIDS  THE PROBLEMS  WITH  THE  LEADING APPROACHES  TO  CONSUMER
+MORTGAGE REGULATION
+The problems with consumer-protection  style regulation that we detail in Part II, above,
+demonstrate the need for legal protections  (1) that do not depend on regulator foresight, (2) that
+do not present concerns  for agency capture, (3) are not whack-a-mole  in nature, and (4)  do not
+present  consumer  choice  or  moral  hazard  concerns.  Antitrust  enforcement  meets  those
+requirements.
+1.  COMPETITION FOR  ENFORCEMENT MITIGATES  PROBLEMS  OF No  FORESIGHT  AND
+AGENCY  CAPTURE
+U.S.  antitrust is known  for  its "decentralized  and  largely  uncoordinated"  enforcement
+mechanisms.139  Those include enforcement by two federal agencies - the Department of Justice
+and  the  Federal  Trade  Commission;140  federal  "sectoral"  regulators  with  public  interest
+138 Cf United States v. Microsoft, 87 F. Supp. 2d 30 (DDC 2000) (providing for a structural remedy).
+139 Crane, Economics ofEnforcement, supra note 119, at 1.
+140 See 15 U.S.C.  § 4 (DOJ); 15 U.S.C.  § 45 (FTC).2012]  BEHAVIORAL EXPLOITATION ANTITRUST  98
+mandates,  which  frequently  include  competition  policy  enforcement;141  enforcement  of both
+federal and state law by state attorneys general;142 and enforcement  by private plaintiffs.143  The
+procedural  mechanisms  and remedies available  to the various enforcers  differ as well, creating
+what one commentator calls a "crazy quilt of enforcement mechanisms." 144
+Antitrust does not rely on neutral  or foresighted regulators.  The competitive,  belts and
+suspenders  form  of antitrust enforcement  mitigates  both  of these  concerns.  One  result  of the
+diffuse  nature  of  U.S.  antitrust  enforcement  is  the  competition  for  enforcement  that  it
+produces.145  "As an independent agency, the FTC is perhaps less quickly responsive to external
+political  forces  than the  Antitrust  Division."146   Another  benefit  of overlapping  enforcement
+authority is that we have many sets of eyes on potential problems.  Where government enforcers
+are  blind  to  something,  consumers  and  competitors  may  see  them.  Where  consumers  and
+competitors know too little, government enforcers have enhanced fact-finding powers. 147  So it is
+less likely something slips by.
+The  role of state  attorney  general  and private  plaintiff enforcement  both in supporting
+federal government antitrust enforcement and in filling gaps left by federal government inactivity
+also has been recognized.148  A ready example  of state attorney general activity is the continued
+pursuit  of Microsoft  Corporation  by  state  enforcers  after  the  Justice  Department  settled  its
+claim. 149  A  similar  situation  occurred  when  state  enforcers  continued  to  challenge  the
+CNBC/Financial News Network merger in bankruptcy court in 1991.150
+141 See, e.g.,  Jonathan B. Baker, Sector Specific Competition Enforcement at the FCC 1 (Sept. 21,  2010) ("sector-
+specific  enforcement by the FCC complements generalist competition enforcement to the benefit of competition in
+the communications  industry"),  available at transition.fcc.gov/osp/projects/baker-enforcement-091210.pdf;  Henry
+L. Thaggert, Antitrust & Public Procurement, 7 COMP.  L. INT'L 82, 84 n.30 (2011)  (noting the role of the General
+Accounting Office in ensuring competitive conditions in government contracting).
+142 See  15  U.S.C.  § 15c (state enforcement  of federal law); see, e.g.,  N.Y. Gen. Bus. L.  § 340 et seq. (New York
+State antitrust law).
+143 15 U.S.C.  § 15.
+144 Crane, Economics ofEnforcement, supra note 119, at 1.
+145 See James J. Park, Rules, Principles,a nd the Competition to Enforce the Securities Laws, 100 CAL. L. REV.  115
+(2012) ("A number of commentators contend that decentralized enforcement leads to competition by enforcers that
+checks underenforcement.").  Id. at n.52  ("The idea that  enforcement  is optimized  through competition  between
+enforcers  has  been  made  in  other  contexts.  See,  e.g.,  Richard  S.  Higgins  et  al.,  Dual Enforcement  of
+the Antitrust Laws, in PUBLIC  CHOICE & REGULATION  154 (Robert  J. Mackay et al. eds.,  1987)  (concluding that
+competition  among  enforcers  leads  to  efficient  enforcement);  Gary  S.  Becker  &  George  S.  Stigler,  Law
+Enforcement,  Malfeasance,  and  Compensation  of Enforcers,  3 J. LEGAL  STUD.  1, 14  (1974)  (observing  that
+enforcers could compete);
+William E. Kovacic, ProcurementR eform and the Choice of Forum in Bid Protest Disputes, 9 ADMIN.  L.J. OF AM.
+U. 461, 493 (1995)  ("Federal antitrust enforcement  authority is shared by the Department of Justice and the Federal
+Trade  Commission  (FTC),  and  these two agencies compete to establish  preeminence  as  the  leading government
+bureau  for  the  scrutiny  of many  forms  of business  conduct,  including  mergers.").  Cf  Spencer  W.  Waller,
+Prosecution by Regulation:  The Changing Nature of Antitrust Enforcement, 77 OR. L. REV.  1383,  1418 (1998)
+(noting the competing agency phenomenon).
+146 Daniel A. Crane, Does Monopoly Broth Make Bad Soup?, 76 ANTITRUST L.J. 663 (2010).
+147 See, e.g.,  15 U.S.C. § 46 (FTC's general investigatory powers).
+148 DANIEL A. CRANE, THE INSTITUTIONAL STRUCTURE OF ANTITRUST ENFORCEMENT 145 (Oxford University Press
+2011)  (noting the "power of states to be more aggressive in antitrust enforcement than the federal government"); id.
+at 163 ("private enforcement of the antitrust laws vastly outstrips public enforcement").
+149 See New York v. Microsoft Corp., 297 F. Supp. 2d 15,  19-20 (D.D.C. 2003).
+150See PennsylvaniaA ttacks Award ofFNN to CNBC, 60 ANTITRUST & TRADE REG. REP. (BNA) 698, 699 (1991).99 WILLIAM & MARY POLICY REVIEW [VOL. 4:77
+Private  plaintiff enforcement  by  both consumers  and competitors  also complements  or
+replaces  federal government  enforcement.  For example, Bell Atlantic Corp. v.  Twombly was a
+private action brought by consumers after the Department of Justice closed its investigation and
+declined to pursue the alleged conduct.'5 Consumer plaintiffs sued over conduct conducted as
+1 
+part of a joint venture between Shell Oil Company and Texaco Inc. after the FTC had approved
+the joint venture.152  Competitor Sprint Corporation brought its own complaint  challenging the
+AT&T/T-Mobile  merger,  in  what  one  news  outlet  reported  as  a  supplement  to  the  Justice
+Department's suit.153
+Strong financial and/or competitive incentives exist for private plaintiffs to bring antitrust
+claims.154   Those  incentives  increase  the  likelihood  of  aggressive  regulation  by  antitrust
+enforcement,  which  promises  to  fill  the  gaps  in  regulation  in  the  pre-crisis  status quo.
+Importantly,  the  incentives  operate  independently  of foresight  about  extra-market,  economy-
+wide harms,  so private plaintiffs  can be relied on to use their antitrust enforcement  authority
+when extra-market harms  are not otherwise  observable. 5'5  Private  enforcement  offers another
+benefit.  Knowledgeable  consumers and competitors are the plaintiffs best situated to understand
+the potential harm from a course of behavioral exploitation.  They are likely to be more nimble in
+responding to the conduct than would be public enforcers.
+The  unique  structure of antitrust  enforcement  also  substantially  mitigates  concerns  for
+agency  capture.156   That  is  for  at  least  three  reasons:  First,  unlike  the  banking  regulators
+discussed  above, the antitrust enforcement  agencies  are not closely tied to any  one industry. 57
+Second, the FTC has a bipartisan structure,  which Rachel Barkow  notes offers the promise of
+unbiased decisions.  Third, competition  for enforcement  acts as a check on inactivity by any
+one  enforcing  entity.  Tim  Wu  observes  the  lesser  public  choice  concerns  with  antitrust
+enforcement  vis-A-vis  one  sectoral regulator (the FCC), noting that deferring to regulators over
+antitrust "ignores the public choice problems that can make alternatives to antitrust ineffective  ..
+A strong firm can overpower an agency, which is why I think the antitrust law must always be
+around as a backup." 59
+2. ANTITRUST'SRULE OFR  EASON A VOIDS WHACK-A-MOLE REGULATION
+The  story  of consumer protection-based  regulation  in the  consumer  mortgage  industry
+has not been a happy one.  The regulation is insufficient to cure all potential problems.  Congress
+151 See 550 U.S. 544 (2007).
+152 See Texaco Inc. v. Dagher, 547 U.S.  1 (2006).
+153 See Tom Schoenberg et al.,  Sprint Allowed to Pursue Legal Challenge to AT&T-T-Mobile  Deal, BLOOMBURG,
+Nov.  3, 2011,  available at bloomberg.com/news/2011-11-02/at-t-loses-bid-to-dismiss-sprint-s-antitrust-challenge-
+to-t-mobile-deal.html.
+154 See Max Huffman, A Standing Framework for Private ExtraterritorialA ntitrust Enforcement, 60 SMU L. REV.
+103, 114 (2007) (private plaintiffs are "motivated solely by their individual best interests").
+155 By contrast, prescient regulators  who sought to act during a time of economic  expansion risked  being labeled
+Henny Pennys.
+156  But  see  Daniel  Crane,  Rethinking  Merger  Efficiencies,  110  U.  MICH.  L.  REv.  347.  379  (2011)
+("Public choice literature suggests that antitrust enforcers are not merely detached public servants on a truth-seeking
+expedition.")  (citing THE CAUSES  AND  CONSEQUENCES  OF ANTITRUST:  THE PUBLIC CHOICE PERSPECTIVE  (Fred  S.
+McChesney  &  William  F.  Shughart  11  eds.,  1995)  (discussing  the  application  of public choice theory  to
+antitrust enforcement)).
+157 Commentators  note that overrepresentation  of any one  industry presents the greatest single basis  for capture
+concerns.  Rachel E. Barkow, InsulatingA  gencies: Avoiding Capture through InstitutionalD  esign, 89 TEX. L. REV.
+15, 22 (2010).
+151I d at 21.
+159Interview with Tim Wu, FTC Policy Advisor, 25 Antitrust 55, 57 (Summer 2011).2012] BEHAVIORAL EXPLOITATION ANTITRUST 100
+has tended to regulate  in reaction to perceived  existing problems,  rather than proactively ward
+off incipient  ones.  It  is also  subject to arbitrage,  opening  new opportunities  for deceptive  or
+behaviorally  exploitative  conduct.  Short of onerous regulation of substantive  transaction terms
+that would  have the  effect of foreclosing  access  to  the market  to both  marginal  lenders  and
+marginal borrowers, consumer protection regulation cannot escape the problems of narrowness,
+reactivity, and opportunity for arbitrage.
+Antitrust's rule of reason avoids whack a molel60 regulation.  The rule of reason is the
+regulatory version of a very large tent, directing courts to consider a "broad range of factors" in
+deciding  whether  conduct is harmful  (and therefore  an antitrust violation) or is not.161  It is a
+"fact-intensive"  inquiry. 162  Conduct with harmful welfare  effects that exceed the benefits by a
+sufficient margin to warrant the expense of investigation and prosecution potentially is subject to
+antitrust  challenge.  That  malleable  definition  is  broad  enough to  encompass  the  behavioral
+exploitation conduct that we discuss here.163
+3. CONSUMERS RETAIN CHOICE AND ARE NOT SUBJECT TO MORAL HAZARD CONCERNS
+Two  benefits  of  the  behavioral  exploitation  antitrust  approach  to  mortgage  lending
+regulation flow from the nature of the antitrust remedy.  Antitrust enforcement  targets market-
+wide conduct and effects rather than transaction-level  conduct  and effects, mitigating  concerns
+that  (1)  less-efficient  competitors  might  use  regulation  and  litigation  to  protect  themselves
+against  their  efficient  rivals,  and  (2)  consumers  use  regulation  and  litigation  to  avoid  the
+consequences of improvident decisions.
+A  major  failing  of  consumer-protection-based  regulatory  schemes  is  the  regulatory
+removal  of consumer  choice.164  In this  sense,  mortgage  lending  is  no  different  from  selling
+widgets:  regulation  that  prescribes  the  dimensions  of a  widget  prevents  a  consumer  from
+satisfying  a different  want or need  by purchasing  a widget  of a different  size.  If we assume
+nearly infinite variability in ideal transaction terms (not an extreme assumption in a market with
+millions of transactions entered yearly), regulation that prohibits or limits access to any contract
+terms necessarily prevents some would-be contracting parties from maximizing their utility.165
+The emphasis in the Dodd-Frank Act on protecting  consumers by limiting opportunities
+to engage in certain mortgage transactions raises the concern for limited choice.  Even the most
+potentially  abusive  of  transaction  terms  present  economically  rational  options  for  some
+customers.  For one  example,  an "option ARM"  is  a  form  of subprime  mortgage  transaction
+frequently touted as abusive because it couples a low introductory interest rate with interest-only
+160 Whack-a-mole is an arcade game in which the player's objective is to hit representations of moles with a padded
+mallet.  The moles re-emerge randomly from a set of holes, and the  game is designed  such that is impossible to
+suppress all of the moles for any period of time.  http://en.wikipedia.org/wiki/Whac-A-Mole.
+161 Edward D. Cavanagh,  The Rule of Reason Re-Examined, 67 Bus. LAW.  435, 435 (2012) (criticizing the open-
+ended and ambiguous nature of the rule of reason).
+162Id. at 436.
+163 The open-ended nature of the rule of reason inquiry has its down-sides as well.  See Cavanagh, supra note 161, at
+265 (Because the targeted regulatory alternative has been so demonstrably insufficient, we favor the open-ended and
+ambiguous rule of reason.).
+164 See Timothy J. Muris,  The Benefits, and Potential Costs, qf FTC-Style Regulation in Protecting Consumers, 8
+COMP.  L. INT'L 11,  14 (2012) (consumer protection programs  may limit sellers'  abilities to offer what consumers
+demand).
+165  Innovation  in mortgage  products  became  permissible  in the  1980s  when  federal  legislation  recognized  the
+problems of state laws that limited consumer choice by restricting consumers to narrow parameters for transaction
+terms.  See MCLEAN & NOCERA, ALL THE DEVILS ARE HERE: THE HIDDEN  HISTORY OF THE FINANCIAL CRISIS 29
+(discussing the Alternative Mortgage Transaction Parity Act of 1982).101 WILLIAM & MARY POLICY REVIEW [VOL. 4:77
+or  minimum  payment  requirements.166  Under  Dodd-Frank,  the  option  ARM  is  considered  a
+"non-qualified  mortgage,"167 a status that limits the ability of and incentives for brokers to make
+the  lending product  available  to consumers.  But it  is not  difficult to envision  an appropriate
+customer  for such a mortgage:  a borrower faced  with a known large  future income  stream -
+perhaps  a college football player who has been drafted in the first round, or a trust beneficiary
+who stands to access the corpus of the trust at a known point in time.
+Antitrust  enforcement  based  on behavioral  exploitation  does  not  suffer  the  failing  of
+limiting consumer choice.  As a second-order regulatory scheme, antitrust almost never prohibits
+conduct without demonstrated effects (only when rules of per se illegality apply).168  Behavioral
+exploitation offers a remedy only upon proof of a market effect.  Lenders retain broad discretion
+to negotiate transaction terms that meet consumer demand.  It is possible, of course, that lenders
+will  shy  away  from transaction  terms  that do  not represent  industry  standards  because  of a
+perceived  danger  of antitrust  liability,  creating  a  chilling  effect  on  innovation  in  mortgage
+markets.  We limit or eliminate that chilling effect with our requirement of a market effect for
+behavioral exploitation antitrust.  Antitrust remedies will be available only where that discretion
+is abused in a sufficiently broad range of cases to have a non de minimis market effect.
+Consumer protection  regulation  presents  moral  hazard  concerns  by  freeing  consumers
+from the consequences  of their decisions. 169  That  concern is not present  in the  application of
+behavioral  exploitation  antitrust to  consumer  subprime  mortgages  for two reasons.  First, the
+repeat player  circumstance  is infrequent  in the context  of mortgage  transactions,  and perhaps
+even  less  frequent  for  subprime  mortgages.  Consumers  do  not  complete  such  transactions
+frequently  enough to become  conditioned  by  over availability  of remedies.  Second, a  single
+consumer with buyer's remorse does not meet the requirement of a market effect.  Only across a
+large number of transactions, can the market effects be found.
+C. THE LIMITS OF BEHAVIORAL EXPLOITATION ANTITRUST
+We  are cognizant of the dominant modern view that innovation in theories  of antitrust
+harm, like the theory we propose, must be justified in terms of the cost of regulation balanced
+against  the  cost  of not  regulating.170  But  we  also  do  not  ignore  that  courts,  enforcers,  and
+commentators  have  largely  internalized  the  concern  regarding  over-enforcement,  or  false
+positives, that the dominant strain of antitrust thought succeeded in advancing in the  1970s and
+1980s.171  Behavioral  exploitation antitrust is an innovative theory of enforcement that promises
+to help to rein  in otherwise  difficult-to-regulate  conduct that is well understood to bring about
+negative  welfare  effects.  If applied in the  consumer  subprime  mortgage  industry,  behavioral
+exploitation antitrust promises to mitigate an under-enforcing  status quo.
+166  See  Option  Adjustable-rate  Mortgage  - Option  ARM,  INVESTOPEDIA,  (May  10,  2012)
+http://www.investopedia.com/terms/o/option  ARM.asp#axzzluUMXUubZ.
+167 See 15 U.S.C.  § 1639C(b)(2)(A)  (listing criteria for a mortgage loan to be a qualified mortgage).
+1s Per se illegality  is reserved  for  a narrow  class  of conduct  including price  fixing,  bid rigging,  and  market
+allocation, which  are deemed  always  to be  harmful and  to lack  serious  countervailing  benefits.  See generally
+Anderson et al., supra note 110.
+169 Armstrong, supra note 84 (Where exemplary damages might be available, the concern is even greater.)
+170 See Avishalom Tor, Unilateral,A nticompetitive Acquisitions of Dominance or Monopoly Power, 76 ANTITRUST
+L.J. 847, 852-53 (2010); see also Crane, supra note 119 at 3-4.
+171 Crane, supra note 119, at 4 ("courts tend to frame liability rules in a deliberately underinclusive manner ...  [T]he
+recent tendency in US antitrust law has been to tilt both the procedural rules and su[bstan]tive liability rules toward
+underinclusion").  See  also Huffman, supra note 11  (describing  the position of Chicago  School  adherents with
+regard to antitrust enforcement).2012] BEHAVIORAL EXPLOITATION ANTITRUST 102
+The  countervailing  concern regarding  over-enforcement,  from a behavioral  exploitation
+theory  of liability  standpoint,  is  the  chilling  effect  on  desirable  activity  - most  notably  in
+advertising  and related  communication  with  regard  to products  and services.  Advertising  is
+designed to accomplish the  same goals  as is behavioral  exploitation: to convince  consumers to
+purchase or borrow from the advertising seller/lender, whether by bringing a new consumer into
+the market or by  stealing a consumer from a competitor.  Agencies, judges and commentators
+have  noted the  competitive  concerns  that  flow  from advertising  restrictions.172  According  to
+then-FTC  Chairman  Robert Pitofsky  in  1995,  "Advertising  is a key  source of price  and other
+information and when competitors band together to restrict it, consumers lose."173  We recognize
+the concern that a theory of liability targeting behavioral  exploitation might be deployed against
+pro-competitive advertising conduct.  The response to this over-enforcement concern is two-fold.
+First, behavioral exploitation  is much more than advertising,  which communicates  and
+even  persuades  consumers  with  regard  to  the  merchant's  products.  Behavioral  exploitation
+targets established  cognitive biases  to induce decisions that consumers would not make but for
+the merchant's  conduct.  It describes a narrow class of conduct that has demonstrated effects on
+consumer  decision-making.  Second, the  antitrust theory of behavioral  exploitation  recognizes
+the potential for over-enforcement  concerns.  It addresses those concerns by narrowly  cabining
+the claim, including requiring proof of both general intent on the part of the defendant, and non-
+de minimis effects on the marketplace.174
+Behavioral exploitation antitrust is limited to protect against overreaching in enforcement
+and  the  consequent  dangers  of  false  positives  in  enforcement.  Criticisms  of  the  theory
+nonetheless  continue  to  exist.  These  include  the  limited ability  of behavioral  economics  to
+inform antitrust in general; de minimis impacts of transaction-level  conduct; and the possibility
+of consumer education to overcome the welfare effects of behavioral exploitation.  We explore
+below the protections against over-enforcement and responses to those criticisms.
+1. INTENT AND EFFECTS
+Behavioral  exploitation  as  a theory of antitrust  liability  relies on proof of:  (1) general
+intent on the part of the merchant seller, and (2) an effect on the market.'75  The required proof of
+general intent limits enforcement against innocent advertising conduct, mitigating chilling effect
+concerns from enforcement spillovers.  A merchant might be held to have had sufficient intent to
+exploit  a particular  decision-making  heuristic  if it  had  studied the heuristic  or paid for focus
+groups to learn the most effective way to increase consumer response.176  Proof that a merchant
+merely offered an array of products-though it might well nonetheless trigger the same heuristic
+and cause a market effect'77-would  be insufficient to meet the requirement of proving intent.
+172 See JOHN E. CALFEE, FEAR OF PERSUASION:  A NEW PERSPECTIVE ON ADVERTISING  AND REGULATION  17 (1997)
+(describing FTC positions on state-law limits on advertising); California Dental Ass'n v. FTC, 526 U.S.  756, 784-
+85  (1999)  (Breyer, J.,  dissenting)  (agreeing  with Federal  Trade Commission  and  Ninth Circuit that  advertising
+restrictions present competitive concerns).
+173  FTC Press Release,  "Auto Dealers  Association  Settles Charges  Over Alleged  Advertising Boycott,"  (Aug.  1,
+1995).
+5 4See Huffman, supra note 11, at 143.
+17 1d. at 143.
+176 General intent is consistent with other standards in civil antitrust claims.  See, e.g.,  United States v. Aluminum
+Co. of Am.,  148 F.2d 416, 432 (2d Cir. 1945); Ronald A. Cass & Keith N. Hylton, Antitrust Intent, 74  S. CAL.  L.
+REV.  657,  661  (2001).  A  merchant  has  this  mental  state  if it  acts  deliberately,  knowing  of the  probable
+consequences of its actions.
+17 See Huffman, supra note 11, at 129-30.103 WILLIAM & MARY POLICY REVIEW [VOL. 4:77
+For example,  sales manuals describing the benefits of opaque pricing strategies or setting
+out  scripts for sales pitches  might make  strong evidence.  Testimonial  evidence  by  current or
+former  employees may  be available.  One  leading  commentator  on behavioral  exploitation by
+merchants,  Robert  Cialdini,  supported  his  own  academic  research  with  "a  decidedly  more
+entertaining program of systematic immersion into the world of compliance professionals - sales
+operators,  fund-raisers,  recruiters,  advertisers,  and  others."  His  immersion  program  included
+observation, interviews, and review of written materials including sales manuals. 78
+The required proof of market effect serves to prevent overuse of behavioral  exploitation
+in  consumer,  competitor,  and  government  suits  based  on antitrust  laws.179  An effect  on the
+market requires a market failure that competition cannot be relied on to mitigate.  That will occur
+where,  for  example,  the  course  of behavioral  exploitation  assists  a  firm  in  establishing  or
+maintaining  a  monopoly  position.1so  Bar-Gill  notes,  "sellers  benefit  from  the  divergence
+between perceived and actual benefits and between perceived and actual prices. They will design
+their products and prices  to maximize  this divergence."' 8'  The  firm that is most  effective  at
+doing this will succeed and become dominant, unless other firms successfully imitate the strategy
+or  consumers  become  sufficiently  educated  about  the  firm's  conduct  that  it  ceases  to  be  a
+successful strategy.
+The behavioral exploitation  theory is not novel in requiring  a market effect.  A market
+effect requirement is nearly ubiquitous in antitrust, with the (increasingly narrow)  exception of
+conduct  held  to  be  illegal per se.182 Such  an  effect existed  in Eastman Kodak Co. v.  Image
+Technical Services Inc.183, where  on remand  from the  Supreme  Court's holding  that a lock-in
+sufficed to demonstrate market power, a jury concluded that Kodak did have a monopoly in the
+parts after-market  despite the  competitive market for its equipment.184  Proving that the effect
+flows  from  the  behavioral  exploitation,  rather  than  some  other  cause,  is  a  more  complex
+problem,  but no  more so than the causal  demonstration  required throughout antitrust litigation
+focusing on a defendant's conduct.  Private plaintiffs are saddled with a causation requirement as
+a matter of the antitrust standing doctrine, 85  and all plaintiffs, including public enforcers,  face
+functionally the same burden under the rule of reason.186
+17s Cialdini, Psychology ofPersuasion,s upra note 22, at xii-xiii.
+179 The danger to be avoided includes, for example, the threat of treble damages liability in a suit by a purchaser
+suffering buyer's remorse.  See Edwards, supra note 11,  at 360 ("Could a consumer who impulsively purchases a
+candy bar and a copy of a gossip magazine claim that he has suffered a cognizable injury under the FTC Act?").
+1so Establishing, maintaining, or creating a dangerous probability of establishing a monopoly through a course of bad
+conduct implicates Section 2 of the Sherman Act, 15 U.S.C.  § 2.
+181 Bar-Gill, Competition and Consumer Protection,s upra note 35, at 5. Bar-Gill works from the same assumption
+we do, that behavioral exploitation is a less expensive strategy than is product innovation.
+182 See Chicago Bd. of Trade v. United States, 246  U.S.  231,  238 (1918)  (defining the rule of reason to include
+examination of "the nature of the restraint and its effect, actual or probable"); Leegin Creative Leather Prods., Inc. v.
+PSKS,  Inc.,  551  U.S.  877,  886-87  (2007) (per se rules "eliminate[]  the need to  study the reasonableness  of an
+individual restraint in light of the real market forces at work").
+183 504 U.S. 451 (1992).
+184 See Image Technical Servs., Inc. v. Eastman Kodak Co.,  125 F.3d 1195, 1201 (9th Cir. 1997).
+See 15  U.S.C.  § 4 (harm must be "by reason of' a violation  of the antitrust laws); Palmyra Park Hosp., Inc. v.
+1s5 
+Phoebe Putney Mem'l Hosp., 604 F.3d 1291,  1299 (11th Cir. 2010) (holding that plaintiff s harm must be of the sort
+that makes the conduct illegal).
+1s6 See, e.g.,  Brooke  Grp., Inc. v. Brown  & Williamson Tobacco  Corp.,  509  U.S.  209,  225  (1993)  (requiring a
+showing of a causal connection between conduct and an increase in prices); Cal. Dental Ass'n v. FTC, 526 U.S. 756,
+774-77 (1999) (government enforcement action where Court required proof that the complained of conduct caused a
+harmful effect).2012] BEHAVIORAL EXPLOITATION ANTITRUST 104
+2. CRITICISMS AND RESPONSES
+Others who have recognized the reality of behavioral exploitation have not taken the next
+step  in  proposing  an  antitrust  remedy.  A  common  recommendation  is  improved  disclosure
+regulation, designed with a recognition of the realities of limited abilities to understand and use
+voluminous and complicated disclosures. 87
+a. The Limits ofBehavioral Antitrust
+Some criticize the entire practice of developing antitrust rules on the basis of behavioral
+law and economics teaching, arguing,  among other things, that behavioral economics  opens to
+door  to  undisciplined  analysis. 88   Some  may  see  behavioral  economics  as  "liberalism
+masquerading  as  economic  thinking."189  Among  the  critics  of behavioral  antitrust,  Joshua
+Wright  and Judd  Stone  most  directly  address  the  antitrust theory  of behavioral  exploitation.
+While acknowledging that behavioral economics offers interesting lessons in consumer behavior,
+and thus is, in theory, relevant for antitrust analysis, Wright and Stone contend that the methods
+of antitrust economics as currently practiced are sufficient to accommodate cognitive biases that
+influence  consumer  decisions.  They also argue that behavioral  economists  have not produced
+theories  that accommodate  the many,  sometimes conflicting,  proven cognitive biases.190  This
+argument  builds  on  Gregory  Mitchell's  argument  that  deviations  from  rational  choice
+assumptions are non-uniform, so fail to produce a workable alternative theory.191
+Those  challenges  might  together  be  summed  up  as  expressions  of doubt  as  to  the
+possibility  of articulating  a  general  theory  of antitrust  economics  on the  basis  of currently
+available  research.  Such criticisms  were more  compelling before  the  increasingly  substantial
+body of evidence supporting the existence  of cognitive biases and demonstrating their operation
+in real world transactions had been developed.  Empirical evidence is both more voluminous and
+more  directly  applicable  to  real-world  settings,  with  much  of it  derived  from  actual  market
+settings.192  Just as Posner once observed Chicago School antitrust economics began as isolated
+attacks on then-existing antitrust economics,193 behavioral antitrust is developing by starting with
+individual  instances of observed  deviations from rational choice theories.  Where those theories
+18  See James  M. Lacko  & Janis K.  Pappalardo,  Improving Consumer Mortgage Disclosures, FTC Bureau  of
+Economics Staff Report 121-28 (2007) ("Better disclosures are feasible").
+18  See Douglas Ginsburg & Joshua D. Wright, Antitrust Sanctions, 6 COMPETITION POLICY INT'L 3 (2010).
+189 Rosch speech (characterizing the views of critics).
+190 Others  go further to  question the  viability  of any  policy measures pursued  on the  basis  of the  lessons from
+behavioral economics research.  Gregory Mitchell was an early critic who argued in part that non-uniform deviations
+from  rationality  assumptions  suggested that reforms  on the basis of behavioral lessons  should  be modest.  See
+Gregory Mitchell,  Why  Law and Economics' Perfect Rationality Should Not Be Tradedf or Behavioral Law and
+Economics' Equal Incompetence, 91  GEO. L.  J. 67  (2002).  Richard  Epstein  argued  that  "notwithstanding  the
+potential resource  misallocations that may flow from these errors" in failing to optimize individual utility, the law
+should not remedy those misallocations outside of preventing  fraud.  Richard Epstein, Human Errors and Market
+Corrections, 73  U. CHI. L. REv.  111,  118-120  (2006).  Matthew Edwards  expressed concern with the necessarily
+paternalistic  nature  of policymaking  on  the basis  of observed  bounds  on  consumer rationality.  See  Matthew
+Edwards,  The FTC and New Paternalism, 60 ADMIN.  L. REv. 323,  333-36 (2008) (canvassing  critical reactions).
+Tom  Brown  and  Lacey  Plache  argued  that  empirical  evidence  is  insufficient  to  support  many  of the  policy
+recommendations  that have been advocated  on the basis of behavioral  economics research.  See Tom Brown  &
+Lacey Plache, Paying With Plastic: Maybe Not So Crazy, 73 U. CHI. L. REv. 63, 66 (2006).
+191 See Mitchell, supra note 190.
+192 See Reeves & Stucke, supra note 22, at 1538.
+193 Richard Posner, The ChicagoS chool ofAntitrust Analysis, 127 U. Pa. L. Rev. 925, 926 (1979).105 WILLIAM & MARY POLICY REVIEW [VOL. 4:77
+are  robust, they  should  influence  the  development  of legal rules,  such  as  the  creation  of the
+behavioral exploitation theory we advance here.
+b. BehavioralE  xploitation is De Minimis
+A second challenge to the expansion of antitrust liability to cover instances of behavioral
+exploitation  is that the harm in any  one instance  of behavioral exploitation  is transaction level
+harm, and its regulation is the stuff of the law of contract and consumer protection, vis-A-vis the
+market in which the  transaction occurs  the harm  frequently  will be de minimis, producing  no
+harm  to  "competition."  This  argument  has  been  leveled  against  efforts  to  regulate  tortious
+conduct through antitrustl94 and against efforts to regulate deception through antitrust.195  The de
+minimis  challenge  applies  equally  to  behavioral  exploitation,  where  harm  occurs  at  the
+transaction  level.  A  single  $250,000  mortgage  transaction  will  not  impact  competition  in  a
+market for home mortgage lending that in 2006 was worth $2.5 trillion. 196
+Arguments  that behavioral  exploitation  should be regulated  under the law of consumer
+protection  are  ultimately  unconvincing.  First,  comparisons  to  tort  law  and  deception  are
+misplaced.  Both of those  fields are well  regulated  under common  law  and federal  and  state
+statute.  Adding an antitrust remedy is at best redundant and possibly threatens inefficient over-
+enforcement.  Behavioral  exploitation  is  regulated  only marginally  under  common  law  and
+federal and state consumer protection laws.  In the 2002 study of the welfare effects of predatory
+lending that we discuss above,  Stein noted that the conduct causing welfare effects was entirely
+legal.197  An antitrust remedy targeting this conduct would not be redundant.  In its absence, we
+have a status quo characterized by inefficient under-enforcement.
+Second,  the  de  minimis argument  proves  both  too  much.  Nearly  all  of antitrust  is
+concerned  with  conduct  in  which  any  single  instance  would have  a  de  minimis impact  on
+competition.198  Consumer transactions,  in the ordinary  course,  must be aggregated  to produce
+the kind of market-wide  harm that supports antitrust treatment.199  Where  a course  of conduct
+impacts  a large enough number of individually de minimis transactions,  it will produce the kind
+of market effect that justifies antitrust intervention.200
+c. Consumer Education Is a Cure
+A third criticism is that competition  will lead to consumer education that will mitigate
+harms  from behavioral  exploitation.  Implicit  in this criticism  is the  concern  that providing  a
+remedy  removes  or  limits  consumers'  incentives  to  become  educated  with  regard  to  the
+transactions in which they are engaged.
+Consumer education relies on either third-party intervention; competitor intervention; or
+sufficient  repeat  interactions,  causing  consumers  to  self-educate.  Durable  goods  markets  or
+markets  for  long-term  financial  contracts  are  unlikely  to  permit  consumer  self-education.
+194 See Joshua D.  Wright, Antitrust Analysis of Category Management:  Conwood v.  U.S. Tobacco Co.,  17 S. CT.
+ECON. REv. 311, 332 & n.69 (2009) (analyzing antitrust claims based on vandalizing competitor retail equipment).
+195 See IIIB Herbert Hovenkamp, Antitrust Law T 782d (3d ed. 2006) (deceptive disparagement  of a rival has a de
+minimis competitive impact).
+196  Financial  Crisis  Inquiry  Report, supra note  70,  at  70  (noting  $600  billion  subprime  mortgage  originations
+representing 23.5% of the total mortgage originations in 2006).
+197 See Stein, supra note 44.
+198 The exception is merger review, in which the conduct of concern is two firms'  combining to create an unwieldy
+level of concentration.
+199 See Huffman, supra note 11, at 142 n.211 (single instance of price fixing is de minimis).
+200 Conversely, nobody seriously could argue that all conduct with a substantial competitive impact represents  an
+antitrust harm.  Blowing up a competitor's  factory or assassinating a competitor's chief executive would impact
+competition, but neither is believed to present antitrust harms.2012] BEHAVIORAL EXPLOITATION ANTITRUST 106
+Competitor education through advertising is a possibility, but where a firm achieves dominance
+through  behavioral  exploitation,  competitors  will  not  sufficiently  understand  the  dominant
+merchant's  marketing  strategy  to  create  effective  educational  advertising  and/or will  not have
+sufficient market presence for educational advertising to have an impact.  A small local lending
+institution would have found it impossible to achieve sufficient advertising distribution to make a
+campaign challenging conduct by a major national lender like Countrywide Financial worth the
+candle.
+Too, behavioral  exploitation, unlike its cousin, deception, is subtle.  If, for example, the
+product  in question  is a long-term  lending contract, and the merchant exploits  the consumer's
+tendency  to over-optimism  ("you are sure to  have earned  a raise  by the  time the interest rate
+adjusts"),  it is not clear what educational  advertising would undermine the merchant's conduct.
+The relevant information would be "you are not statistically likely to have earned that raise" -
+but any such statement is at best likely to be ineffective, and at worst may offend.
+Competitor  education is an unreliable  cure for the  market failure  behavioral  education
+causes  for another reason.  Competitors  are likely to find it a better  strategy to  imitate, rather
+than  to  undermine,  behavioral  education  by  a  merchant.  Richard  Posner  recognized  this
+phenomenon  in  the  context  of markets  for  harmful  products,  like  cigarettes.21  Bar-Gill
+demonstrated  that little  advantage  is to  be gained  by  a  competitor  from consumer  education,
+apart from the first-mover advantage of being the first firm fully to disclose product attributes or
+pricing.  Xavier  Gabaix  and  David  Laibson  go  further,  arguing  that,  "it  is  not  possible  to
+profitably lure . . .myopes .. .to non-exploitative firms."202  This demonstrates the second basis
+for  antitrust  concern - concerted  behavioral  exploitation,  which  can  occur  even  in a  market
+without  a dominant firm.203  Concerted  exploitation  can either be through actual agreement or
+consciously  parallel  conduct, although under the current  state of the law of concerted conduct,
+consciously parallel conduct does not establish that element of the offense.204
+We can therefore expect market failures caused by behavioral exploitation to be sustained
+over  a  sufficiently  large  time  horizon to  lead to  both  intra-market  and  external  harm.  With
+specific regard to the home mortgage marketplace, the targeted regulation that exists either has
+been  proved,  or can  be  expected  to be,  insufficient  to  prevent  or remedy  those  failures  and
+harms.
+IV. MOVING TO BEHAVIORAL EXPLOITATION ANTITRUST
+Antitrust exists to cure for market failures that arise where one firm, or a group of firms,
+is (are) able to profit at the expense of consumers by charging quality-adjusted prices exceeding
+what  the  consumers  would pay,  but  for the  conduct  on the  part  of the  firm(s).  Behavioral
+exploitation  antitrust operating  in the  consumer  subprime  mortgage  industry  would allow the
+application  of antitrust remedies  to transaction-level  conduct  in consumer  subprime  mortgage
+lending, if it is undertaken with general intent and on a broad enough scale to produce a market
+effect.  In this  final  Part  we  argue  antitrust  standards  should  be  relaxed to  permit  resort  to
+201 See Richard A. Posner, Regulation ofAdvertising by the FTC, Evaluative Studies, vol. 11, AM. ENTER. INST. FOR
+PUB. POLICY RESEARCH  (1972).
+202  Xavier  Gabaix & David Laibson, Shrouded Attributes, Consumer Myopia, and Information Suppression in
+Competitive Markets, MIT DEP'T OF ECON. WORKING PAPER (2005), available at papers.ssrn.com/abstract=728545.
+203 Concerted conduct potentially implicates Section 1 of the Sherman Act, 15 U.S.C.  § 1.
+204 See Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007).107 WILLIAM & MARY POLICY REVIEW [VOL. 4:77
+antitrust  review  and  remedies  in  the  market  for  consumer  subprime  mortgages  and  closely
+analogous marketplaces.
+Evidence regarding the consumer subprime mortgage industry prior to the 2007 financial
+crisis  suggests  that,  even  under  a  definition  of harmful  conduct  that  includes  behavioral
+exploitation,  antitrust remedies would be difficult to achieve under the current state of doctrine.
+The subprime mortgage market lacked sufficient concentration and sufficient barriers to entry to
+satisfy modem standards for challenging a merger as "tending to create  a monopoly."  A lack of
+evidence that market participants reached either express or implied agreement, rather than acting
+independently  or tacitly  colluding, undermines  efforts  to pursue remedies  under Sherman Act,
+section  1.  And insufficient market  share by even  Countrywide Financial,  the most substantial
+player  in the  consumer subprime  mortgage market, coupled  with insufficient barriers  to entry,
+makes enforcement against dominant firm conduct under Sherman Act, section 2, unlikely.205
+All  three  avenues  of analysis  should  remain  available  should  the  market  structure  or
+observed conduct change sufficiently to meet the existing requirements.  A course of mergers or
+failures  might well  render the  subprime  mortgage  market  sufficiently  concentrated  to present
+both dominant firm and monopolization by merger concerns,  and evidence  of actual agreement
+would  implicate  section  1.  Other  avenues  exist  to  a  closely  cabined  course  of  broader
+enforcement  intended  to  prevent  and  to  remedy  known  welfare  effects  in  this  and  similar
+industries.
+Standards for blocking and remedying harm caused by a merger might be broadened to
+encompass transactions not leading to a monopoly position, as traditionally defined.  There is an
+increasing understanding that market share is a highly imperfect proxy for the welfare harm from
+a merger.206  Such an understanding would permit courts to block a merger on a demonstration of
+actual  or  likely welfare  effects  through unilateral  or  coordinated  conduct.  This  approach  to
+merger review allows  a challenge that increases the likelihood  of harm regardless  of structural
+changes  in the market.  Under this approach, a relative lack of concentration and low barriers to
+entry would not hinder merger challenges claiming incipient behavioral exploitation.
+The  long-standing  rule  for  proving  agreement  under  section  1, which  excludes  tacit
+collusion, has been the subject of occasional challenge in the courts and frequent questioning by
+commentators.  It is well  understood  that tacitly collusive  conduct  presents the  same  welfare
+effects, as does agreement.  For that reason, noted judges and commentators have questioned a
+definition  of agreement that  is too narrow to encompass  such conduct.207  The law governing
+tacit collusion has been firmly  established and recently reaffirmed.208  It also rests on a sound
+basis:  imposing  liability  for profit-maximizing  interdependent  conduct  dampens incentives  for
+vigorous  competitive  activity.  Any relaxation  of the strict requirement  for proving agreement
+under  section  1 to  allow  challenges  to  tacit  collusion  should  be  narrowly  cabined  to  avoid
+overreaching in enforcement.  We believe a narrow rule permitting challenges to tacitly collusive
+behavioral  exploitation in markets that are shown to be subject to enduring "lemons  equilibria,"
+like  that  for  consumer  subprime  mortgage  lending,  serves  the  needs  of permitting  antitrust
+205 See supra notes 127-139 and accompanying text.
+206 For example, the revised Horizontal Merger Guidelines consider "market shares and concentration in conjunction
+with the reasonably available and reliable evidence for the ultimate purpose  of determining whether a merger may
+substantially lessen competition."  Merger Guidelines, supra note 125, at § 5.
+207 See Max Huffman, The Necessity of PleadingE  lements in PrivateA ntitrust Conspiracy Claims, 10 U. PA. J. Bus.
+& EMP. L. 627, 646-49 (2008) (discussing authorities).
+208  See Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007).2012] BEHAVIORAL EXPLOITATION ANTITRUST 108
+enforcement  where  other  regulatory  approaches  have  proved  ineffective  while  not
+inappropriately  chilling aggressive unilateral competitive conduct.
+The limited broadening of existing approaches to antitrust enforcement  discussed in the
+prior paragraphs  brings to bear  the benefits  of belts  and suspenders  enforcement,  competition
+among  enforcers,  and the unique  incentives  facing private plaintiffs, to  regulating  excesses  in
+consumer  subprime mortgage  markets like those that led to the  2007 financial crisis.  Another
+approach is to rely on broader language  in the Federal Trade Commission Act to base a broader
+theory of enforcement  against behavioral  exploitation antitrust.  Instead of enforcing  sections  1
+and 2 of the Sherman Act, the Federal Trade Commission enforces a broad prohibition of "unfair
+methods  of competition."  Although there is value  generally to  employing the  FTC Act to its
+fullest extent consistent with the efficiency principles underlying antitrust enforcement, the FTC
+Act lacks a private  right of action and a competitive enforcement  regime.  It offers few of the
+advantages of antitrust enforcement generally.
+V. CONCLUSION
+The  grass-roots  cause of the  2007  financial crisis  was the  market for consumer  home
+mortgages.  That market was rife with failures, including deception and behavioral exploitation.
+The  particular  nature  of mortgage  lending-in  the  words  of the  CEO  of  one  lender,  its
+"bewildering  array"  of terms  and  fees209 -created  a particularly  vulnerable  industry  in which
+behavioral  exploitation  could  flourish.  In  turn,  the  market  provided  substantial  short-term
+success  for  firms  engaged  in  conduct  with well-documented  welfare  effects.  The  regulatory
+status  quo  ante  consumer  subprime  mortgage  lending  was  inadequate.  Mortgage  lending
+regulation  is  concerned  with  conduct  at  the  transactional  level.  That  regulation  proved
+insufficient to remedy  effects that were felt market, and economy-wide.  Repeat-player  lenders
+could successfully avoid regulation by complying with the letter of the law while relying in large
+part on inexperienced consumers'  ability to understand complicated terms.
+Our  argument above operates under  several  premises.  Behavioral  exploitation disturbs
+efficient resource allocation, as consumers would otherwise act differently,  but for the conduct.
+Behavioral  exploitation  occurred  in  the  mortgage  lending  industry  leading  up  to  the  2007
+financial  market  crisis,  and  in the  absence  of regulation  realistically  designed  to  prevent  it,
+persists today.  The 2007 financial market crisis was caused, in large part, by failures-caused in
+part by  inefficient  resource  allocation-in  consumer home  mortgage  lending  firms.  Antitrust
+law exists to prevent market failures; thus, antitrust law could and should be used to prevent the
+pervasive type of market failures that led to the 2007 financial crisis.
+Ours is a far-reaching argument.  Many have recognized the welfare effects in behavioral
+exploitation, including in subprime lending.  A handful of writers seem to agree that transaction
+level harms  should give rise to antitrust remedies,  although that exceeds the bounds of antitrust
+doctrine  and the mainstream  of antitrust scholarship.  However,  the market failures caused by
+behavioral exploitation at the individual transactional level had broad welfare effects both in the
+market and external to it.  In the aggregate, those individual transactions presented  competitive
+harm raising antitrust concerns.  The impact of behavioral  exploitation in the mortgage lending
+industry was not and is not confined to individual transactional level  concerns. Rather, in order
+for firms undertaking to profit from the behavioral  exploitation of the type we suggest occurred
+209 Testimony of Scott Stern, CEO of Lenders One, United States Senate Banking, Housing and Finance Committee
+(April 10, 2008).109  WILLIAM & MARY POLICY REVIEW  [VOL. 4:77
+in mortgage  lending practices,  a firm must consistently  and systemically  engage in behavioral
+exploitation.
+Rather than the individual  transactional level focus of disclosure  statutes in place today,
+antitrust provides  an  avenue to  regulate the  mortgage  industry  at the  firm  level.  In turn, by
+regulating  firm-level conduct, antitrust regulation will remove incentives  for a particular firm to
+engage  in  "mortgage  malpractice,"  which  success  and  profits  require  more  than  just  one
+transaction.  Indeed, by removing incentives to engage in "bad" conduct at both transactional and
+firm levels, and even encouraging competitors  to monitor one another's conduct, antitrust may
+be  an  elegant  and  even  superior  solution  to  the  grass-roots  problems  that  ultimately  led  to
+massive economic dislocations that were exposed in the 2007 financial crisis.

@@ -1,0 +1,966 @@
+JournalofFinancialRegulation,2016,2,1–20
+doi:10.1093/jfr/fjw007
+AdvanceAccessPublicationDate:13April2016
+Article
+Systemically Significant Prices
+RobertC. Hockett* and SauleT. Omarova†
+ABSTRACT
+Somepricesandindicesindomesticorglobalmarketstakeonparticularmarket-wide
+importance. This can occur either because (i) they are associated with ubiquitous in-
+puts to production, (ii) they are associated with highly popular asset classes, (iii) by
+convention they tend to be used as benchmarks in determining other prices, or (iv)
+some combination of the above. Examples include prevailing wage and salary rates,
+certain energy and commodity prices, and such indices and borrowing rates as the
+Standard&Poor’s 500,theFederal FundsRate, andtheLiborandEuriborinterbank
+lendingratebenchmarks.
+We call such prices and indices ‘systemically important’ prices and indices, or
+‘SIPIs’. Over the long term, these prices and indices tend towards certain statistical
+mean values that reﬂect determinants that can plausibly be treated as ‘fundamentals’,
+bethesedemographic,technological,orglobal-quantity-rootedincharacter. Attimes,
+however,SIPIscanmoveoutofalignmentwithmeanvaluesandassociatedfundamen-
+tals owing to distortions stemming from missing information, recursive collective
+action problems (including ‘noise’ trading and ‘herd’ behaviour), or even deliberately
+manipulativebehaviouronthepartofinﬂuentialorcolludingmarketactors.
+We develop ageneral account of systemically important prices and indices as well
+asofthemarketvulnerabilitiestowhichtheycangiverise.Wethendevelopamenuof
+regulatory strategies for addressing these vulnerabilities in manners that protect mar-
+kets’ capacities to translate fundamental values into (more) accurate prices or indices
+whensuchpricesorindicesaresystemicallyimportant. Keytotheeffortisrecognizing
+thatwhatweproposeisinsomecaseswhatregulatorsarecommittedtodoingalready
+inmaintainingmarketintegrity,andinothercasesiswhatcentralbanksdoalreadyin
+determining appropriate money rental (‘interest‘) rates and securing them through
+openmarketoperations.
+INTRODUCTION
+Since the crisis of 2007–09, it has become something of a commonplace that finan-
+cialmarketsaremorethanmeresumsoftheirinstitutionalparts.1Ithasthuslikewise
+* Robert C. Hockett, Edward Cornell Professor of Law, Cornell Law School. Tel: 607.255.4539; Fax:
+607.255.7193;Email:Robert-Hockett@lawschool.cornell.edu.
+† SauleT.Omarova,ProfessorofLaw,CornellLawSchool.Tel:607.255.4539;Fax:607.255.7193;Email:
+Saule-Omarova@lawschool.cornell.edu.
+1 SeeegRobertHockett,‘TheMacroprudentialTurn:FromInstitutional“SafetyandSoundness”toSystemic
+“FinancialStability”inFinancialSupervision’(2014)15UVaLBusRev201(hereinafter‘Macroprudential
+Turn’),andsourcescitedtherein.
+VCTheAuthor2016.PublishedbyOxfordUniversityPress.Allrightsreserved.
+Forpermissions,pleaseemail:journals.permissions@oup.com
+(cid:2) 1
+Downloaded from https://academic.oup.com/jfr/article-abstract/2/1/1/2357884
+by Cornell University Library user
+on 04 January 20182 (cid:2) JournalofFinancialRegulation
+become commonplace that updated, macroprudential forms of market regulation
+must now complement the more traditional, firm-focused microprudential forms of
+regulation that prevailed before the crisis broke out.2 The ‘systemic stability’ of our
+financial markets, in other words, is now recognized to be irreducible to the mere
+‘safetyandsoundness’ofbanksandotherfinancialinstitutions,whileoldformsoffi-
+nancial regulation are thus recognized as being in need of supplementation, even
+thoughnotsimplesupplanting,bynewer,systemicallyfocusedforms.3
+Our regulatory regime’s newfound appreciation of systemic significance is re-
+flected not only much in post-crisis research and scholarship offered by academics,
+centralbankresearchers,andothers,butalsoinpost-crisislegislationandregulation.
+The Dodd–Frank Wall Street Reform and Consumer Protection Act in the US, for
+example, explicitly recognizes that some financial firms and market utilities are pos-
+sessed of systemic significance, and so establishes a regime of ‘enhanced prudential
+regulation’ towhichcertain ‘systemicallyimportant’firmsandutilities areto besub-
+jected.4 Much bickering and dickering in New York and Washington accordingly
+now concerns whether this or that firm or utility really ought to be designated sys-
+temically important, and in consequence saddled with the putative burdens of en-
+hancedregulation.5
+Thisarticletakesclaimsoftheneedforenhancedprudentialregulationofsystem-
+ically important firms and utilities at face value, but suggests there is at least one
+other systemically significant variable that is in need of special treatment. These are
+what we call ‘systemically important prices and indices,’ or ‘SIPIs.’ For a number of
+reasonsthatweshallelaborate,SIPIsrenderfinancialmarketsvulnerabletomanyof
+the same systemic dangers as do ‘SIFIs’ (systemically important financial institu-
+tions)—andthensome.Theyaccordinglycalloutforenhancedregulatorytreatment
+justasdoSIFIsandsystemicallyimportantmarketutilities.Insomecasestheymight
+evencalloutformore—moreeventhaneffortsnowunderwayinsomejurisdictions
+todealwith manipulation, perhaps themost salient of themultiplevulnerabilitiesto
+whichSIPIsgiverise.6
+2 ibid.
+3 ibid.
+4 SeeDodd–FrankWallStreetReformandConsumerProtectionActof2010,PubL111–203,H.R.4173,
+TitlesIandVIII(signedintolaw21July2010).
+5 See,e.g.,KatherineChiglinskyetal.,CourtHearsMetlife’sChallengeto‘TooBigToFail’Designation
+This Week, Insurance Journal (Feb. 9, 2016), available at <http://www.insurancejournal.com/news/
+national/2016/02/09/398082.htm>accessed24February2016.
+6 These are important efforts along one dimension of the several that we discuss in the comprehensive
+frameworkthatwedevelopinthisArticle.ConcernovermanipulationpervadesrecentEUeffortstoregu-
+latebenchmarks.SeedocumentlinksatEuropeanCommission,NewMeasurestoRestoreConfidencein
+BenchmarksFollowingLIBORandEURIBORScandals,18September2013<http://europa.eu/rapid/
+press-release_IP-13-841_en.htm?locale¼en> accessed 24 February 2016. It also prompted the British
+BankersAssociationtoyieldoversightofLIBORtoBritain’sFinancialServicesAuthority(FSA),nowthe
+Financial Conduct Authority (FCA). See Carla Main, ‘Libor Spurned, Credit Scores, German Audit:
+Compliance’BloombergBusiness(26September2012)<http://www.bloomberg.com/news/articles/2012-
+09-26/libor-spurned-credit-score-review-germany-s-audit-compliance>accessed24February2016.Ithas
+alsopromptedtheFinancialStabilityBoard(FSB)torecommendfar-reachingreformstotheprocesses
+pursuant to which certain foreign exchange and interest rate benchmarks are constructed. See eg FSB,
+Foreign Exchange Benchmarks: Final Report, 30 September 2014; FSB, Reforming Major Interest Rate
+Benchmarks,22July2014;andFSB,ProgressinReformingMajorInterestRateBenchmarks:InterimReporton
+Downloaded from https://academic.oup.com/jfr/article-abstract/2/1/1/2357884
+by Cornell University Library user
+on 04 January 2018SystemicallySignificantPrices (cid:2) 3
+Ourplanofattackisasfollows.Thesection‘DesignationCriteria’firstelaborates
+what we believe to render some prices and indices systemically significant, hence
+what we believe make up for appropriate criteria in designating some prices or indi-
+ces as SIPIs. We emphasize in particular (i) the ubiquity in production of that to
+whichapriceorindexpertains,(ii)theubiquityofinvestmentincertainassetclasses
+to which a price or index pertains, and (iii) the ubiquityof use of the price or index
+inquestionasa‘benchmark’inotherpricingdecisions.Eachofthesecriteriaandany
+combination thereof, we suggest, can render some prices or indices more systemi-
+callysignificant—andhenceregulatorilysalient—thanothers.Eachalsoisconsistent,
+we believe, with the criteria that Dodd–Frank elaborates as germane to the designa-
+tionofcertainfinancialinstitutionsandmarketutilitiesasSIFIs.
+Thesection‘SystemicVulnerabilities’turnstoelaboratingthesystemicvulnerabil-
+itiestowhichSIPIscansubjectourfinancialmarkets.Wetrackthesebyreferenceto
+specific characteristics of the processes pursuant to which the prices or indices in
+question are generated. In some cases these processes involve (i) informational ad-
+vantages or, relatedly, (ii) conflicts of interest, disproportionate market power, or
+manipulative collusion opportunities available to certain ‘large’ or ‘clubby’ market
+participants.7 In other cases, the price- or index-determinationprocesses in question
+involve (iii) recursive collective action problems that afflict decentralized market
+behaviour, depriving the markets in question of stable equilibria. Understanding the
+specific vulnerabilities to which SIPIs subject markets by reference to the mechanics
+of specific prices’ or indices’ determinations is critical, we argue, to the task of fram-
+ingeffectiveregulatoryresponsestoSIPI-associatedmarketrisks.
+Thesection‘EnhancedRegulation’turnstoregulatorystrategy.Hereweelaborate
+five broad, mutually complementary options available to regulators aiming to miti-
+gate or modulate the risks to which SIPIs expose our financial markets. All but one
+of these options is keyed to a particular dynamic of price- or index-determination.
+The first and most generally applicable option is enhanced surveillance, pursuant to
+which regulators pay special attention to the prices or indices in question and their
+modesofdeterminationinordertoascertainwhetherandwhenregulatoryinterven-
+tions are called for. The second option, responsive to asymmetric information, con-
+flicted interest, and associated manipulation or collusion opportunities, is licensure
+or pre-approval of the index or benchmark in question, with a view to ensuring that
+the arbitrage and rent-extraction opportunities that it presents do not outweigh the
+putative benefits that it offers. The third option, likewise responsive to asymmetric
+information, conflicted interest and collusion, and also to individual firms’ market
+power, is enhanced utility-style regulation—including in some cases participation by
+regulators in the very ‘clubs’ or coalitions that aggregate and publish benchmark
+Implementation of July 2014 FSB Recommendations, 9 July 2015 <http://www.fsb.org/wp-content/up
+loads/OSSG-interest-rate-benchmarks-progress-report-July-2015.pdf> accessed 24 February 2016. For a
+helpful summary of counterpart efforts in Asia, see Australian Securities & Investments Commission,
+FinancialBenchmarks,Report440,July2015<http://download.asic.gov.au/media/3285136/rep440-pub
+lished-8-july-2015.pdf?_ga¼1.46780900.273950129.1454539772.>accessed24February2016.
+7 Especiallyparticipantswhoeffectivelydetermineandpublicize,sometimeswithpublicblessing,theprices
+orindicesinquestion.
+Downloaded from https://academic.oup.com/jfr/article-abstract/2/1/1/2357884
+by Cornell University Library user
+on 04 January 20184 (cid:2) JournalofFinancialRegulation
+prices or indices. The fourth option, responsive more particularly to market power
+and potential collusion, is enhanced antitrust and anti-fraud regulation. Finally, the
+fifth option, responsive to the recursive collective action problems that beset some
+decentralized markets, is price maintenance—typically within some variably narrow-
+orbroadband—throughopenmarketoperations(OMO).
+Inboththe‘SystemicVulnerabilities’and‘EnhancedRegulation’sections,weaim
+toretaincoherencewiththeSIFIandTitleVIIImarketutilityregimesestablishedby
+Dodd–Frank for prices and indices over which the US has primary jurisdiction, and
+coherencewiththeglobalfinancial-regulatoryarchitectureforpricesandindicesover
+which the US lacks primary jurisdiction. Thus, we take the Financial Stability
+OversightCouncil(FSOC)tobetheappropriate‘decider’wheredomesticSIPIdes-
+ignation is concerned, then take the Federal Reserve Board (Fed) and at least one
+appropriate ‘functional’ regulator—eg the Securities and Exchange Commission
+(SEC) for certain securities prices, the Commodity Futures Trading Commission
+(CFTC) and Federal Energy Regulatory Commission (FERC) for fuel oils and en-
+ergy derivatives, etc—to be the appropriate developers of particular enhanced pru-
+dential standards forparticular SIPIs over which theUS has primaryjurisdiction. By
+the same token, we take international bodies such as the FSB, relevant European
+Union (EU) institutions, or other domestic regulators such as Britain’s FCA to be
+the appropriate designators and standards developers for SIPIs over which the US
+lacksprimaryjurisdiction.
+After discussing the transnational implications of our observations and tentative
+recommendations, we conclude. Before proceeding, we emphasize that this explora-
+toryarticledoesnotpurporttoofferafullyelaboratedandadoption-readyblueprint
+for regulatory action. We are well aware of the many challenges that will face any
+seriousefforttoinstituteacomprehensiveregimecoveringallsystemicallyimportant
+prices and indices used in contemporary financial markets. As noted above, more-
+over, there are already significant efforts underway in some jurisdictions, aimed at
+dealing with at least one SIPI-related vulnerability - manipulation. We do not aim
+here to critique or fundamentally shape these ongoing efforts. Our goal is both
+broaderinscopeandmoreconceptualincharacter:itistoidentifySIPIsasadistinct
+subject for academic and regulatory attention, and to develop a general framework
+foranalyzingtheiruniqueimportanceandpolicyimplications.
+DESIGNATION CRITERIA
+We begin with the fundamental question of what it is that renders a particular price
+‘special’andaccordinglyworthyofparticularattention.Notallpricesorindicesneed
+to bear systemic significance from a regulatory or public policy point of view. But
+someundeniablydo.Itseemstoustherearethreeprimarypathwaystosystemicsig-
+nificance. Each of them, moreover, is reminiscent of one or another criterion pre-
+scribed by Dodd–Frank as having some bearing upon the systemic significance or
+otherwiseofparticularfinancialinstitutionsandutilities.Wecharacterizethesepath-
+waysbyreferencetothesystemicsignificanceoftheunderlyingvaluewithwhichany
+particularpriceorindexisassociated.
+Downloaded from https://academic.oup.com/jfr/article-abstract/2/1/1/2357884
+by Cornell University Library user
+on 04 January 2018SystemicallySignificantPrices (cid:2) 5
+Ubiquityoftheunderlyingvalueasaproductiveinput
+Oneobviouspathwaytosystemicsignificanceistheubiquityoftheitemwithwhich
+aparticularpriceorindexofpricesisassociatedintheproductionofgoodsorprovi-
+sion of services in the ‘real’ economy. Prevailing money rental—ie ‘interest’—rates
+areaconspicuouscaseinpoint.Whereborrowingisanessentialmodeoffinancinga
+business and its productive activities, and where even other modes of finance—eg
+equityissuance—involvecoststothefirmthataredeterminedpartlybyreferenceto
+returns on debt instruments, interest rates represent pervasive economy-wide input
+costs.Theyaccordinglyaffectthepricesofmultiplegoodsandservicesadditionalto
+financing costs themselves. In fact, they affect so many such additional prices that
+they critically affect consumer price inflation as measured by the Consumer Price
+Index(CPI),nottomentionhousingandotherassetprices.8
+The pervasive price-level significance of borrowing costs is precisely why central
+banks in developed economies work directly to determine interest rates, or at any
+rate to contain them within narrow bands.9 In effect, the OMOs of central banks
+worldwide reflect broad recognition of the systemic significance of money rental
+prices.10 There are other productive inputs, however, that are nearly or just as ubiq-
+uitous as credit. Hence, there are other prices that are arguably nearly or just as sys-
+temically significant as interest rates. Energy—and the fuels used to generate it—is
+one obvious case in point.11 Labour is another.12 Certain foodstuffs, metals, and
+other natural resources count too, though here the degree of systemic significance
+will of course vary from resource to resource as a function of inter-substitutabilities
+in production.
+Itisinpartpreciselyinvirtueoftheirubiquityinproductionthatsomehavepro-
+posedvariationsonOMOtomodulatepricesinmarketsfortheseproductiveinputs
+much as is already done to modulate prices in markets for money rental. Thus
+Keynes,forexample,proposedaglobalcommoditystoretopurchaseandsellcritical
+commodities on world markets in order to maintain price stability with respect to
+the same.13 And thus others have proposed ‘employer of last resort’ (ELR) pro-
+grammes to keep wages and salaries within stable bands, while also of course
+8 Homepricesarewidelyobservedtobeparticularlysensitivetointerestrates.SeeegPlamenIossifovand
+others, ‘Interest Rate Elasticity of Residential Housing Prices’ (2008) IMF Research Paper 08/247
+<https://www.imf.org/external/pubs/ft/wp/2008/wp08247.pdf> accessed 24 February 2016. That in
+turnmeansthatthenowwidelyusedCase–Shillerindexofhousingpriceswillitselfbesensitivetointer-
+estrates.SeeS&P/Case–ShillerHomePriceIndices<http://us.spindices.com/index-family/real-estate/
+sp-case-shiller>accessed24February2016.FormoreontheCPIandhowitisdetermined,seeBureau
+ofLabourStatistics,ConsumerPriceIndex<http://www.bls.gov/cpi/>accessed24February2016.
+9 SeeegEduardoLevyYeyatiandFedericoSturzenegger,‘MonetaryandExchangeRatePolicies’inKenneth
+ArrowandMichaelIntriligator(eds),HandbookofDevelopmentEconomics(NorthHolland,2010).
+10 ibid.SeealsoFederalReserveOpenMarketCommittee,StatementonLonger-RunGoalsandMonetary
+Policy Strategy, 24 January 2012 <http://www.federalreserve.gov/monetarypolicy/files/FOMC_
+LongerRunGoals.pdf>accessed24February2016.
+11 SeeegBenSBernankeandothers,‘SystematicMonetaryPolicyandtheEffectsofOilPriceShocks’(1997)1
+BrookingsPapersonEconomicActivity1997.
+12 SeeegJMKeynes,TheGeneralTheoryofEmployment,Interest,andMoney(TheChoiceofUnits1936)ch4.
+13 SeeegJMKeynes,‘ThePolicyofGovernmentStorageofFoodstuffsandRawMaterials’(1938)48EconJ
+449;JMKeynes,‘TheObjectiveofInternationalPriceStability’(1943)53EconJ185;JMKeynes,‘The
+InternationalControlofRawMaterials’(1974)7JIntlEcon299.
+Downloaded from https://academic.oup.com/jfr/article-abstract/2/1/1/2357884
+by Cornell University Library user
+on 04 January 20186 (cid:2) JournalofFinancialRegulation
+maintainingfullemployment.14AndthushastheUSinthepastmadeoccasionaluse
+oftheStrategicPetroleumReserve(SPR)topushdownfuelpricesduringperiodsof
+unusuallyrapid,speculation-inducedrises.15Inallofthesecases,pricesareeffectively
+recognized as bearing systemic significance, and are accordingly acted upon with a
+view to protecting certain system values—eg those of price stability and, also in
+somecases,substantively‘reasonable’prices.
+Ubiquityoftheunderlyingvalueasaninvestmentasset
+The popularity of a particular value as an investment vehicle is another factor that
+canlendpricesassociatedwiththatvalue’ssystemicsignificance.Thereasonsarenot
+difficulttoappreciate.Foronething,iftheassetinquestionisitselftradedonfinan-
+cialmarkets,itsubiquityasaninvestmentvehicleisvirtuallybydefinitionsignificant
+to the financial markets. For another thing, if the asset is not itself traded on the fi-
+nancial markets, but is so important a part of people’s nonfinancial wealth that it
+tendstoaffectboththeirfinancialbehaviourandotherbehavioursbearingmacroeco-
+nomicsignificance,thenpricesofthisasset,too,willbearbothfinanciallyandmacro-
+economicallysystemicsignificance.
+This point is perhaps best illustrated by reference to homes and home prices in
+theUS, whichprovedduring both the2007–09 crisis andits aftermathto bear both
+financialmarketanddirectmacroeconomicsignificance.Tostartwiththeformer,as
+isnowwellknown,securitiesbackedbyhomemortgageloansbecameahighlypopu-
+lar financial asset during the lead-up to 2007.16 Residential mortgage-backed securi-
+ties (RMBS) markets came to be second only to the US Treasury market in
+capitalizationby2006.17Thisseemstohavestemmedpartlyfromspeculativemania,
+partly from favourable regulatory treatment, and partly from outright fraud on the
+part of loan-originators and -securitizers alike.18 Whatever the causes, however, the
+sheer ubiquity of RMBS as favoured investment vehicles by the early 2000s meant
+that home prices, to which RMBS values were of course closely correlated, became
+systemically significant to the financial markets. The performance of RMBS prices,
+hence the behaviour of RMBS market participants, rode crucially upon them from
+2006onward.19
+Housing prices bear not only indirect systemic significance to the financial mar-
+ketsviatheireffectsuponRMBSmarkets,butalsodirectsystemicsignificancetothe
+macroeconomy via their effects upon consumer behaviour. Here, we allude to the
+well-documented ‘wealth effect’ pursuant to which consumer expenditures generally
+ride upon consumers’ market-valued net worth.20 Since home prices are by far the
+14 SeeegLRandallWray,UnderstandingModernMoney(1998).AlsoMinsky’searlyarticlesposthumously
+collectedbyWrayinHymanMinsky,EndingPoverty:Jobs,NotWelfare(2013).
+15 SeeegRonScherer,‘UStoTapStrategicPetroleumReservetoDriveGasPricesDown’ChristianScience
+Monitor(NewYork,23June2011)<http://www.csmonitor.com/USA/2011/0623/US-to-tap-Strategic-
+Petroleum-Reserve-to-drive-gas-prices-down>accessed24February2016.
+16 See eg Gary Gorton, Slapped by the Invisible Hand (2011). Also Robert Hockett, ‘A Fixer-Upper for
+Finance’(2010)87WashULRev1213.
+17 ibid.
+18 ibid.
+19 Thespecificdynamics,moreonwhichbelow,informourrecommendedregulatoryresponse.
+20 SeeegMichaelDarby,‘TheWealthEffect’inTheNewPalgrave:DictionaryofEconomics(1987)883.
+Downloaded from https://academic.oup.com/jfr/article-abstract/2/1/1/2357884
+by Cornell University Library user
+on 04 January 2018SystemicallySignificantPrices (cid:2) 7
+primarydeterminantofmostAmericans’networth,andsinceconsumerexpenditure
+inturnisbyfartheprimarydeterminantofmacroeconomicgrowthandconsequent
+wageandemploymentgrowth,homepricesareprimarydeterminantsofthenation’s
+macroeconomic performance and consequent wage and employment rates as well.21
+Heretoowefindevidenceinrecentevents,thelengthyrecessionandtepidrecovery
+following the troubles of 2007–09 having been widely observed to be consequences
+of an ongoing debt-deflation following on housing price drops from mid-2006
+onwards.22
+Just as credit is far from the sole pervasive input to production, so are housing
+and associated RMBS far from the sole pervasively popular investment vehicles.
+Otherinvestmentstowhichfinancialmarketparticipantshave‘herded’ingreatnum-
+bersinrecentyearsinclude(i)collateralizeddebtobligations(CDOs)andthecredit
+default swaps (CDS) that made RMBS appear safer than they were in the early
+2000s, (ii) tech stocks and other corporate equities in the later 1990s, and (iii) so-
+called ‘junk bonds’ in the 1980s, to name but a few.23 In most of these cases, as in
+that of RMBS, combinations of speculative mania, favourable regulatory treatment,
+andoutrightfraudappeartohaveplayedimportantrolesindrawinginvestorstothe
+assets in question.24 Aging populations and associated pension fund growth played
+their parts too.25 Also as with RMBS, however, in the cases of these assets as well
+whatmattersforpresentpurposesisthattherewasnoherdingatall.Forwherethere
+isherding,theretendtocomesystemicallysignificantprices.
+Ubiquityofuseofthepriceorindexasabenchmark
+The third and final characteristic we think lends prices or indices systemic signifi-
+cance is their deliberate use as heuristics or ‘benchmarks’ in other pricing decisions.
+It is common, for example, for financial actors to set interest rates in credit transac-
+tions (including mortgage transactions), as well as the terms of derivative and other
+financial contracts, by reference to the London Interbank Offered Rate (LIBOR)—
+ietherateatwhichasmallcoterieoflargeglobalbankslendtooneanother.Thelat-
+ter accordingly functions in many transactions much as the Fed’s Federal Funds
+(FedFunds)Ratedoesinothertransactions.Itisarguablymoresystemicallysignifi-
+canteventhanthatrate,however,inasmuchastherearedistinctLIBORsforfivecur-
+rencies, with the number having been even larger until recently.26 Whoever sets
+LIBORas the Fed sets the Fed Funds Rate, then, exercises an influencecomparable
+tothatoftheworld’smostinfluentialcentralbank.27
+21 ibid.SeealsoDeanBaker,TheEndofLoserLiberalism:MakingMarketsProgressive(2011).
+22 See eg Paul Krugman, End This Depression Now! (2013); Daniel Alpert, Robert Hockett and Nouriel
+Roubini,‘TheWay Forward: Movingfrom the Post-Bubble, Post-BustEconomyto RenewedGrowth
+and Competitiveness, New America Foundation’ (2011) <https://static.newamerica.org/attachments/
+4272-the-way-forward/NAF--The_Way_Forward--Alpert_Hockett_Roubini.61586bd337b64202a9b0c86
+117bdfc98.pdf>accessed24February2016.
+23 Gorton(n16);Hockett(n16).
+24 ibid.
+25 Hockett(n16).
+26 SeeegDonaldMcKenzie,‘What’sinaNumber?’(2008)30LondonRevBooks11<http://www.lrb.co.
+uk/v30/n18/donald-mackenzie/whats-in-a-number>accessed24February2016.
+27 ibid.
+Downloaded from https://academic.oup.com/jfr/article-abstract/2/1/1/2357884
+by Cornell University Library user
+on 04 January 20188 (cid:2) JournalofFinancialRegulation
+Turning from borrowing rates to other prices, it is also common, for example,
+for petroleum prices to be priced relative to the so-called ‘Brent Crude’, ‘West
+Texas Intermediate’, or ‘Dubai Crude’ petroleum price benchmarks.28 These for
+their part are in most cases determined by small numbers of oil-producing firms
+or states much as LIBOR is determined by a small number of large-banking in-
+stitutions.29 They then determine in turn the prices asked for other fuel oils by
+other actors.30 Other prices—eg those for index fund shares and financial deriva-
+tives on the financial markets—are deliberately framed by reference to various
+indices commonly watched by financial market participants. Familiar examples in
+this case include the aforementioned Consumer Price Index, the Dow Jones
+Industrial Averages, the Standard & Poor’s 500 Index, and the Case–Shiller
+Housing Price Index, to name but a few.31 Finally, yet other important bench-
+mark-like prices are those of widely used currencies in relation to one another.
+The forex markets too, in other words, ride crucially on relative prices that func-
+tion as benchmarks.
+Thesensein whichbenchmarkpricesandindiceslikethesecanbecomesystemi-
+callysignificantwhenusedasdescribedshouldbeclear.Thesepricesareineffectin-
+puts to other prices, many such prices, and in this sense are much like inputs to
+production itself in their reach. They are pervasively influential.32 The stakes in-
+volved in their fluctuations can accordingly be high. Moreover, and as we elaborate
+below,themodesbywhichthesepricesaredeterminedareparticularlyvulnerableto
+manipulation by, or conflicts of interest among, privileged cliques who can be
+temptedbythegainsofferedbymanipulatingortradingonsuchpervasivelyinfluen-
+tialdeterminantsofpricesacrossmanymarkets.Thisissurelyonereasonthatsome
+of these benchmarks—the Fed Funds Rate, for example—are publicly determined.
+Butitisalsoareasontosubjectthemtoenhancedregulatoryscrutinywhentheyare
+not. Recent scandals involving LIBOR, EURIBOR, and foreign exchange markets—
+the latter itself also ‘made’ by a small number of institutions—in particular demon-
+stratetheconsequencesofnotdoingso.33
+28 Seeeg‘OilMarketsExplained’BBCNews(18October2007)<http://news.bbc.co.uk/2/hi/business/
+904748.stm>accessed24February2016.
+29 ibid.
+30 ibid.
+31 Seen8,forreminderonCase–ShillerandCPI.FormoreontheDowJonesandS&P500,SeeegN
+Amencandothers,AssessingtheQualityofStockMarketIndices(2006).
+32 For a thoughtful discussion of the economics of benchmarks, see Darrell Duffie & Jeremy C. Stein,
+ReformingLIBORandOtherFinancialMarketBenchmarks,29J.Econ.Persp.191,193–196(2015).
+DuffieandSteinhighlightimportantinformation-relatedbenefitsthatbenchmarkingoffers.Theseinclude
+lower search costs, better matching, and greater participation in markets even by less well informed
+agents.Onceabenchmarkisestablished,itcanbecomeapowerful‘basinofattraction’forrelatedtrades,
+therebyincreasingtradingvolumeandimprovingliquidity.Id.at195–96.
+33 SeeegHayleyRichardson,‘HSBCEmbroiledinNewPrice-FixingScandal’Newsweek(24February2015)
+<http://europe.newsweek.com/hsbc-embroiled-new-price-fixing-scandal-309156?rx¼us> accessed 24
+February 2016; TerrenceMcCoy, ‘Yessssss: The Brazen Messages Among Bankers that Produced a $4.3
+MillionFine’WashingtonPost(13November2014)<https://www.washingtonpost.com/news/morning-mix/
+wp/2014/11/13/the-gleeful-messages-exchanged-by-bankers-that-produced-a-4-3-billion-fine/> accessed 24
+February 2016; Jonathan Berr, ‘Banks Pay Fines, but Show Little Sign of Reform’ CBS MoneyWatch (12
+November 2014) <http://www.cbsnews.com/news/banks-pay-fines-but-show-little-sign-of-reform/>
+accessed24February2016.
+Downloaded from https://academic.oup.com/jfr/article-abstract/2/1/1/2357884
+by Cornell University Library user
+on 04 January 2018SystemicallySignificantPrices (cid:2) 9
+SYSTEMIC VULNERABILITIES
+Thecriteriaelaboratedabovefordeterminingwhetherparticularpricesorindicesare
+systemically important amount to reasons for caring, as a polity, about these prices
+or indices. They are characteristics that lend these prices or indices policy salience.
+Whenitcomestodetermininghowtoreacttothatsalience,however,onemustfirst
+understand the particular vulnerabilities to which the prices or indices in question,
+andhencethemarketstowhichtheyaresystemicallyimportant,aresubject.Inother
+words, the criteria elaborated above in the section ‘Designation Criteria’ tell us the
+senseinwhichpricesorindicescanbesystemicallyimportant,whilewhatremainsto
+beelaboratedispreciselyhowthesepricesorindicescanrenderourmarketssystem-
+icallyvulnerable.34
+Ausefulwaytoaddressthissecondquestionistoconcentrateonthemechanisms
+through which systemically significant prices and indices are generated or deter-
+mined. For it is from these mechanisms that the particular vulnerabilities, which
+these prices and indices can transmit to broader markets, originate. We will address
+thesemechanismsandthevulnerabilitiestowhichtheygiverisebyreferencetopar-
+ticular (i) information differentials and associated conflicts of interest, (ii) market
+powerdifferentialsandassociatedmanipulationdangers,and(iii)recursivecollective
+action problems that characterize some such mechanisms. The first two characteris-
+tics make it possible for prevailing prices to differ from ‘natural’ long-term equilib-
+riumprices.Thethirdmakesitpossiblefortheretobenostableequilibriumpriceat
+all.
+Informationdifferentialsandconflictsofinterest
+Asnotedabove,manySIPIsaredeterminedbycomparativelysmallnumbersofpersons
+orfirmsthatarethemselvesactorsinmarketsinwhichtheSIPIsaresystemicallyinflu-
+ential.AnobviouscaseinpointistheaforementionedLIBOR,theUSDollarrendition
+of which is determined by 18 large, globally active banking concerns.35 An institution
+thatplaysasignificantroleinsettingLIBORontheonehand,whiletakingpositionsin
+multiple markets in which other prices are determined by LIBOR on the other hand,
+clearlyisonmorethananequalfootingwithotheractorsinthoseothermarkets.Itsin-
+formationaladvantageisprofoundandpervasive,andlikelyovertimetoproduceprices
+in multiple products that vary from ‘natural’, long-term equilibrium prices of the kind
+thatweusuallydependuponmultiplearms-lengthtransactionstoproduce.
+Consider, for example, a derivative transaction through which a financial institu-
+tionseekstohedgeagainstfuturechangesinprevailinginterestrateswithinapartic-
+ular economy. Assume that this institution is not a member of the ‘club’ that sets
+LIBOR, while most institutions willing to enter into the contemplated derivative
+transactionaremembersofthatclub.Sincethepartiestoaderivativecontractarein
+34 Itshouldbenotedthatwesay‘vulnerable’ratherthan‘risky’here.Thereasonisthatwebelievevulnera-
+bilitytobeamorecapaciouscategorythanrisk,withthelatterconstitutingone,butonlyone,formof
+theformer.Webelievethatweshouldcareasapolityaboutallformsofvulnerabilitytowhichsystemi-
+callyimportantpricessubjectourmarkets.Weworry,however,thatoccurrenceoftheword‘systemically’
+inourphrase‘systemicallyimportantprices’mightmisleadsomeintothinkingouronlyconcernis‘sys-
+temicrisk’.Aswillbeclearinwhatfollows,itisnot.
+35 McKenzie(n26).
+Downloaded from https://academic.oup.com/jfr/article-abstract/2/1/1/2357884
+by Cornell University Library user
+on 04 January 201810 (cid:2) JournalofFinancialRegulation
+mostcaseseffectivelytakingopposedsidesofa‘bet’—inthiscase,abetonthefuture
+course of interest rates—the non-LIBOR-setting institution in the contemplated
+transaction is effectively betting against ‘the house’ on a prospect about which the
+house has much more information. Moreover, the same would be true were ‘the
+house’tohelpsetcurrencyexchangeratesontheonehand,while‘betting’onvalues
+derivedfromthoseratesontheother.36
+This asymmetry can yield any combination of three possible consequences. One
+is that non-club-member institutions, aware of their disadvantages relative to club-
+members, engage in fewer transactions of the contemplated type. Another is that
+such institutions do enter into such transactions, but on terms that do not produce
+fairequilibriumpricesofthekindthatarms-lengthtransactionsamongequalsareex-
+pected to produce.37 Finally, another is that such institutions, aware of the ‘rigged
+game’ nature of the markets, react in destabilizingly dramatic fashion when suspi-
+cions rooted in that awareness appear to be confirmed by particular transactions in
+which‘club’institutionsengage.38
+Inanyofthesethreecases,therelevantmarketfallspreytoasystemicharm.Itis
+incomplete,unfairlyfunctioning,pronetovolatility,orsomecombinationofthese.39
+One consequence is that the price system as operative within the relevant market is
+not reflecting underlying value or, therefore, facilitating our markets’ allocative effi-
+ciency.40Anotheristhatthepricesystemasoperativeintherelevantmarketisoper-
+ating as an instrument of injustice.41 And finally another is that the price system as
+operative in the relevant market can operate as a mediator of volatility and conse-
+quentmacroeconomicinstability.
+Marketpowerdifferentialsandmanipulationdangers
+The same harms just described can result not only from advantaged parties’ having
+better knowledge of future changes in particular market values, but also from their
+having greater capacity to determine such changes—the capacity conventionally re-
+ferred to as ‘market power.’42 Consider the LIBOR hypothetical just contemplated,
+for example. In this transaction the non-LIBOR-setting institution might effectively
+36 Scandalemergedalongpreciselysuchlinesinthespringof2015.Seen33.SeealsoKateGibson,‘In
+RareAdmissionofGuilt,WallStreetBanksSayTheyRiggedMarkets’CBSMoneyWatch(20May2015)
+<http://www.cbsnews.com/news/in-rare-admission-of-guilt-wall-st-banks-admit-they-rigged-markets/>
+accessed 24 February 2016; Jane Onyanga-Omara and Kevin McCoy, ‘Banks Fined $4.3 Billion in
+ForeignExchangeProbe’USAToday(12November2014)<http://www.usatoday.com/story/money/
+business/2014/11/12/forex-investigation-settlements-announced/18885767/> accessed 24 February
+2016.
+37 SeeRobertHockettandSauleOmarova,‘“Private”Meansto“Public”Ends:GovernmentsasMarketActors’
+(2014)15TheorInqL53.
+38 The‘cronycapitalism’diagnosisoftheAsianFinancialCrisisofthelate1990sappealstothisdynamic.
+SeeegHelenHughes,‘CronyCapitalismandtheEastAsianCurrencyFinancial“Crises,”’(Spring1999)
+Policy,1.SeealsoMichaelPettis,TheVolatilityMachine:EmergingEconomiesandtheThreatofFinancial
+Collapse(2001).
+39 HockettandOmarova(n37).Notealso,inthespiritofn34,thatthelistofsuchsystemicharmsincludes
+morethansimply‘systemicrisk’.
+40 ibid.
+41 ibid.
+42 ibid.
+Downloaded from https://academic.oup.com/jfr/article-abstract/2/1/1/2357884
+by Cornell University Library user
+on 04 January 2018SystemicallySignificantPrices (cid:2) 11
+bebettingagainsttheLIBOR-setting‘house’onaprospectnotonlyaboutwhichthe
+house simply has more information, but also which the house is able, in collusion
+withothers,actuallytoset.43
+Thedegreeofsuchmarketpowerenjoyedby‘thehouse’inanygivencasewillof
+course ride on the number of ‘club’ members and the cohesiveness of their collu-
+sion.44 But the potential is nevertheless ever-present where systemically significant
+pricesaresetbysmallcoalitionsofprivateactors—or,afortiori,byindividualparties
+acting alone.45 Insofar as this danger is present, the market in question is subject to
+the same forms of systemic vulnerability as those beset by the differential informa-
+tionproblemdiscussedjustabove.
+In short, then, once again we face the prospect of any combination of three
+possible upshots. One is that non-club-member institutions, aware of their disad-
+vantages relative to market-power-wielding club-members, engage in fewer transac-
+tions of the contemplated type. Another is that such institutions do enter into
+such transactions, but on terms that do not produce fair equilibrium prices of the
+kind that arms-length transactions among equals are expected to produce. And a
+third is that non-club-member institutions, aware of the ‘rigged game’ nature of
+the markets, react in destabilizingly dramatic fashion when suspicions rooted in
+that awareness appear to be confirmed by particular transactions in which the
+‘club’ institutions engage.
+In any of these three cases, again the relevant market is falling prey to a systemic
+harm.Itisincomplete,unfairlyfunctioning,pronetovolatility,orsomecombination
+of these.46 One consequence again is accordingly that the price system as operative
+withintherelevantmarketisnotreflectingunderlyingvalueor,therefore,facilitating
+ourmarkets’allocativeefficiency.Anotheristhatthepricesystemasoperativeinthe
+relevantmarket is operating as aninstrumentof injustice—now not merelyinciden-
+tal injustice, but intentional injustice done by colluders or manipulators.47 And,
+43 As Duffie and Stein persuasively argue, for example, the fact that the individual LIBOR-setting banks
+werealsomajorderivativesdealersunderwroteaparticularlyperniciousstructuralincentiveforLIBOR
+manipulation.GiventhesheersizeofderivativestradesindexedtotheLIBOR,evenasmallmovementin
+thebenchmarkratecouldtranslateintoenormousderivativesgainsfortheclub-memberbanksableto
+effectsuchmovements.Ineffect,largedealer-bankswereableto‘lever’theirabilitytoinfluenceLIBOR
+(i.e., their ‘club membership’) to gain significant illicit advantage in related derivatives markets. See,
+Duffie&Stein,supranote32,at200.
+44 See, generally, William J Baumol and others, Contestable Markets and the Theory of Industry Structure
+(1982).
+45 ThisformofabusewasatworkintheLIBORscandal,moreonwhichbelow,aswellasinother‘BOR’
+scandals,notablyEURIBOR. Seen33.SeealsoHayleyRichardson,‘UK’sSeriousFraudOfficeGrills
+TradersOverEurope-WideRateFixingScandal’Newsweek(9March2015)<http://europe.newsweek.
+com/uks-serious-fraud-office-grills-traders-over-europe-wide-rate-fixing-scandal-312369> accessed 24
+February2016.Thesameistrueofrecentpreciousmetalprice-fixingscandals.SeeegJeanEaglesham
+and Christopher Matthews, ‘Big Banks Face Scrutiny over Pricing of Metals’ Wall Street Journal (23
+February 2015) <http://europe.newsweek.com/uks-serious-fraud-office-grills-traders-over-europe-wide-
+rate-fixing-scandal-312369>accessed24February2016.
+46 Seen34,37,38.
+47 ibid. For thorough consideration of the dangers posed by benchmark manipulation in particular, see
+DuffieandStein,supra,note32;alsoAndrewVerstein,‘BenchmarkManipulation’(2015)56BosColL
+Rev215.
+Downloaded from https://academic.oup.com/jfr/article-abstract/2/1/1/2357884
+by Cornell University Library user
+on 04 January 201812 (cid:2) JournalofFinancialRegulation
+finally,anotheris thatthepricesystemasoperativeintherelevant marketcan oper-
+ateasamediatorofvolatilityandconsequentmacroeconomicinstability.
+Recursivecollectiveactionproblems
+Ironically,justastheconcentratedmarketpowerorinformationaladvantageenjoyed
+bysomeprivatesettersofSIPIscanproducesystemicvulnerabilities,socanthelack
+ofanysuchinstitutionorcoalitionofsuchinstitutionsinsomecases.Hereweallude
+totherecursivecollectiveactionchallengestowhichmanydecentralizedmarkets,es-
+peciallyfinancialandmoneymarkets,seemtobevulnerable.48
+The hallmark of a collective action problem, of course, is its aggregating multiple
+individually rational decisions into collectively irrational or calamitous outcomes.49
+Recursive problems are those in which the problematic outcome in question
+prompts a new round of decisions of the same type as produced the collectively
+problematic outcome at the outset, thereby producing a yet worse outcome, with
+more iterations following to the point of comprehensive catastrophe.50 Consumer
+price hyperinflations, debt deflations, bums’ rushes and arms races are classic cases.
+Soareassetpricebubbles,bankruns,andasset‘firesales.’51
+Thecaseoftheassetfiresaleis particularlysalientwhereSIPI-mediatedsystemic
+market fragilities are concerned. Consider the earlier-mentioned RMBS market, for
+example.Asnotedbefore,RMBSpricesfallsquarelywithinthedefinitionof‘SIPI’as
+wehaveelaboratedit.Yet,RMBSalsoweresubject—dramaticallysubject—toapar-
+ticularlypoignantrecursivecollectiveactionproblem(‘ReCAP’)inmonthsculminat-
+ingin2009.52
+When it became clear in 2007–08 that some RMBS were backed in significant
+measure by troubled ‘subprime’ mortgage loans and accordingly ‘toxic’, holders of
+these securities were faced with a quandary: while there was reasonably reliable
+knowledge in the markets that a specific percentage of all RMBS outstanding were
+‘toxic’, nobody knew precisely which RMBS were the toxic ones.53 Under such cir-
+cumstances it was rational for prudent investors to ‘bet cautiously’ and assume that
+they held disproportionate shares of the toxic RMBS. Everyone thinking this way,
+however, of course meant that investors in aggregate were undervaluing the market
+portfolio;theywereeffectivelyacting‘asif’theaggregateportionoftoxicRMBSwas
+much larger than they all knew it to be.54 When they acted accordingly and sold si-
+multaneously, they of course drove down the prices of RMBS further, which of
+coursetriggeredmoreroundsofmassselling,furtherpricedrops,andsoon—aclas-
+sic‘run’ontheassetinquestion.55
+Because the assets in question were RMBS, however, and because RMBS prices,
+asnotedabove,hadbecomesystemicallysignificantbytheearly2000s,thebehaviour
+48 See,generally,RobertHockett,‘RecursiveCollectiveActionProblems’(2016)3JFinPersp1.
+49 ibid.
+50 ibid.
+51 ibid.
+52 HockettandOmarova(n37).
+53 ibid.
+54 ibid.
+55 ibid.SeealsoHockett(n48).
+Downloaded from https://academic.oup.com/jfr/article-abstract/2/1/1/2357884
+by Cornell University Library user
+on 04 January 2018SystemicallySignificantPrices (cid:2) 13
+just recounted was no ordinary fire sale. It was a systemically catastrophic fire sale. It
+massivelydestroyedvalueincountlessportfolios,includingretirement portfolios,on
+which millions were reliant.56 It also drove housing prices—which we noted above
+alsotobesystemicallysignificant—yetlowerbyraisingthecostofmortgageandrefi-
+nance credit and thereby constricting housing demand and raising foreclosure
+rates.57 And finally, of course, it caused massive losses among those who had effec-
+tively ‘bet’ on RMBS performance, housing prices, or both via CDOs, CDS, and
+otherderivativeinstruments.58
+None of this would have had to happen, at least not with the magnitude that it
+did, had some collectiveagent beenable to act to ensure that the aggregate value of
+RMBS outstanding more closely reflected the ‘toxicity’ of the market portfolio of
+RMBS.59 This is in part what the Treasury’s Troubled Asset Relief Programme
+(TARP)andtheFed’sMaidenLaneFundsweremeanttoassistwith,thoughclarity
+aboutthemissionandhenceeffectivenessintheexecutionatfirstleftmuchtobede-
+sired.60 Happily, Maiden Lane in particular and, later, QE3 have done much better
+thanTARPatfirstdid,inthecomparativetranquilityofthepost-crisisyears.
+In any event, the message for present purposes is clear enough: the absence of
+concentrated informational advantage or marketpower can be as problematic as the
+presence of either where the transmission of systemic vulnerability to financial and
+broadermarkets via SIPIs is concerned. What, then,to do? Theanswer, wethink, is
+to opt in favour of concentrated informational advantage and market power, but to
+ensurethattheadvantageandpowerinquestionareheldorcontrolledbypublic,as
+distinguished from private, actors. This of course takes us to policy responses to
+SIPI-mediatedsystemicvulnerability.
+ENHANCED REGULATION
+Asnotedearlier,theDodd–FrankregimeputinplaceintheUSfollowingthe2007–
+09 troubles treats so-called SIFIs and systemically important market utilities as ‘spe-
+cial’ in viewof their systemic importance,and accordingly subjects them to enhance
+prudential regulatory standards. We believe that an analogous strategy would make
+foranintuitivelytractable,politicallyfeasible,andregulatorilypracticablefirststepin
+addressingthevulnerabilitiestowhichSIPIsgiverise.
+Like the Dodd–Frank regime, then, we would recommend first vesting authority
+inaregulatorybodyorsmallgroupofsuchbodiestodesignateparticularpricesand
+indices as SIPIs, then vesting authority in one or more regulatory bodies to develop
+enhanced prudential regulatory standards to which the derivation and maintenance
+ofdesignatedSIPIswillbesubject.Wediscussourproposedregimeinthatorder,in
+each case discussing both prospective SIPIs over which the US has primary jurisdic-
+tion,andprospectiveSIPIsoverwhichothernationsortransnationalregulatorybod-
+ieshaveprimaryorconcurrentjurisdiction.
+56 ibid.
+57 ibid.
+58 Gorton(n16).
+59 HockettandOmarova(n37).
+60 ibid.
+Downloaded from https://academic.oup.com/jfr/article-abstract/2/1/1/2357884
+by Cornell University Library user
+on 04 January 201814 (cid:2) JournalofFinancialRegulation
+SIPIdesignation
+The first task in developing a regime able to handle SIPI-associated market vulner-
+abilities is to determine who decides whether a particular price or index warrants
+SIPIstatus,andpursuanttowhatcriteria.Wehaveineffectalreadyaddressedthelat-
+ter, ‘what’ question in the section ‘Designation Criteria’, so will concentrate here on
+the‘who’question.
+Beginningwiththedomesticcase,wherethepriceorindexinquestionissubjectto
+primaryUSjurisdiction,theFSOCwouldseemthenaturalbodytodischargethistask.
+It is, after all, the body in which Dodd–Frank vests SIFI-designation authority, pre-
+ciselybecauseitisthebodythathasresponsibilityforoverseeingtheUSfinancialsys-
+tem as a whole—ie as a comprehensive and integrated system.61 As for the standards
+to be employed by the FSOC in making these determinations, again, we think those
+elaborated above in the section ‘Designation Criteria’ are well suited to the task. This
+isbothforthereasonsstatedthereandbecause,asnotedbefore,thesestandardsreso-
+natecloselywiththoselaidoutinTitleIofDodd–Frankitselfinaffordingguidanceto
+theFSOConthesubject.
+Where prospective SIPIs are not subject to primary US jurisdiction, we recom-
+mend that counterparts to FSOC make counterpart designation decisions, again on
+thebasisofcriteriareminiscentofthoseelaboratedaboveinthesection‘Designation
+Criteria’.For aprice or index overwhichthe UKhas primaryjurisdiction,for exam-
+ple,probablytheFCA,actinginconsultationwiththeBankofEngland(BoE)would
+be the appropriate designator. In the EU, the appropriate body is the European
+Commission, responsible for the EU’s new benchmark-regulatory reform developed
+inresponseto2012’sLIBOR-relatedscandal.62Forapriceorindexoverwhichmul-
+tiplenations’authoritieshavejurisdiction,ontheotherhand,itwouldseemtomake
+sensefortheFSBtodothedesignating;itis,afterall,theclosestglobalanalogthere
+istotheUSFSOC.63
+In these transnational cases the process of SIPI designation should resemble the
+process of transnational capital-regulatory convergence as pursued via the Basel
+Committee on Banking Supervision (BCBS): the world’s primary systemic financial
+regulators would first agree on particular SIPI designations, then implement these
+decisions through rulemakings or counterpart regulatory actions back home.64 We
+are uncertain whether there are too many procedural or substantive disagreements
+across jurisdictions for such a process to be practicable; but we doubt it, and in any
+event there is no way to find out with reasonable certainty whether such challenges
+confrontusuntilwecommencewiththeeffort.
+Intheworstcasescenarioofnon-agreement,moreover,thereseemsnoreasonto
+suppose that any particular jurisdiction—certainly the US—could not at least ad-
+dress domestically those risks that any prospective SIPI might raise in its own
+61 Dodd–FrankAct(n4),TitleI.
+62 Seen32.
+63 See Financial Stability Board, ‘About the FSB’ <http://www.financialstabilityboard.org/about/>
+accessed24February2016.
+64 SeeBankforInternationalSettlements,‘AboutBIS’<https://www.bis.org/about/index.htm>accessed
+24February2016.
+Downloaded from https://academic.oup.com/jfr/article-abstract/2/1/1/2357884
+by Cornell University Library user
+on 04 January 2018SystemicallySignificantPrices (cid:2) 15
+markets. All it would need to do is make its own SIPI determinations, then subject
+designatedSIPIstosubstantivestandardslikethosetowhichwenowturn.
+SubstantiveSIPI-regulatorystandards
+The second task in developing a regime able to handle SIPI-associated market vul-
+nerabilitiesistodevelopsubstantiveregulatorystandardstowhichSIPIs,oncedesig-
+nated as such, will be held subject. This task, like the designation task, likewise
+implicates both ‘who’ and ‘what’ questions, neither of which we have yet addressed.
+We,accordingly,addressbothhereinthatorder.
+Who
+Wherethe ‘who’-related questionis concerned, wemust once againconfrontvaria-
+tion rooted in jurisdictional differences with respect to various prospective SIPIs. If
+thepriceorindexinquestionissubjecttoprimaryUSjurisdiction,theFed,actingin
+collaboration with appropriate ‘functional’ regulators in some cases, would seem the
+natural ‘who’ to discharge the substantive regulatory task. The Fed is, after all, the
+body in which Title I of Dodd–Frank vests SIFI-regulatory authority, even while di-
+rectingtheFedtoactinconsultationwithfunctionalregulatorswherenon-banksre-
+ceive SIFI designations.65 There seems no reason not to follow the same pattern
+withrespecttoSIPIregulation.
+Were theCase–ShillerHousingPrice Indexto bedesignated aSIPI, forexample,
+itwouldseemtomakesensetochargetheFed,theFederalHousingAgency(FHA),
+and the Federal Housing Finance Agency (FHFA) with the task of developing en-
+hancedregulatorystandardstowhichthisindex’sconstructionandusewouldbesub-
+ject. Were the West Texas Intermediate Crude oil benchmark to be designated a
+SIPI,ontheotherhand,orwerethepriceofawidelytradedpetroleumpricederiva-
+tive to be likewise designated, it would seem sensible to charge the Fed, the CFTC,
+andtheFERCwiththetask.
+Where prospective SIPIs are not subject to primary US jurisdiction, counterparts
+to the Fed and the US functional regulators should probably develop the enhanced
+regulatory standards. For a price or index over which the UK has primary jurisdic-
+tion,forexample,presumablytheBoEandFCAwouldbetheappropriatestandards
+developers. For a price or index over which multiple nations’ authorities have juris-
+diction,ontheotherhand,itwouldseemtomakesensefortheBCBS(includingas
+it does the world’s central bank chairs and finance ministers) and the appropriate
+transnational functional regulatory forum (eg the International Organization of
+Securities Commissions (IOSCO)) to do the standard developing. It is worth once
+again noting in this connection that the European Commission has developed a
+comprehensivenewEU-widebenchmarkregulatoryframework,while otherjurisdic-
+tionsareworkingquicklytofollowsuit.66
+65 Dodd–FrankAct(n4),TitleI.
+66 Seen32,andaccompanyingtext.Verstein(n47)thinkstheEUapproachtoregulatingagainstbench-
+markfraudwrongheaded,particularlyinitsapproachestomandatorydisclosureandgovernance.Because
+ourpurposeinthisarticleistodevelopageneralframeworkforunderstandingandregulatingallformsof
+systemicallyimportantpricesorindices,wetakenopositionhereonthedetailedsubstanceoftheEU’s
+newapproachtoregulatingagainstbenchmarkfraud.
+Downloaded from https://academic.oup.com/jfr/article-abstract/2/1/1/2357884
+by Cornell University Library user
+on 04 January 201816 (cid:2) JournalofFinancialRegulation
+Generally,incasesrequiringtransnationalcooperation,againwethinktheprocess
+wouldbeststartbyemulatingthatpursuanttowhichtheBCBSitselffacilitatestrans-
+national capital-regulatory convergence. National regulators would first seek agree-
+ment upon substantive regulatory standards, then implement those standards back
+homethroughrulemakingsorcounterpartregulatoryactions.
+What
+TurningfromwhowilldevelopenhancedSIPI-regulatorystandardstowhatthecon-
+tentofsuchstandardsshouldbe,asnotedabovewebelievethatoneormoreoffive
+regulatorystrategies will prove helpfulfor mostpurposes. Weelaborate these strate-
+gies, also as noted above, by reference to the particular vulnerabilities to which the
+processesofparticularSIPIs’generationordeterminationaresubject.
+Enhanced oversight. The first regulatory option, which we think well advised for all
+SIPIs,isenhancedoversight.Theideahereisfortheappropriateregulatororregula-
+tors,asdeterminedaccordingtocriteriaelaboratedimmediatelyaboveinthesubsec-
+tion ‘Ubiquity of the Underlying Value as a Productive Input’, simply to supervise
+the construction and/or administration of the SIPI in question. They would attend
+inparticularbothtohowtheSIPIisbeinggeneratedordetermined,andtohowitis
+being used. In so doing, they would be on the lookout for evidence either that pri-
+vate parties who jointly or severally generate or determine the SIPI in question are
+systematically using informational advantages or market power in transactions with
+others, or that rapid movements in the SIPI in question are attributable to recursive
+collectiveactionchallenges—iearebubble-orbust-related.Theregulatorsmustalso,
+of course, have all information-gathering authority, including subpoena power that
+might be necessary in adequately discharging the enhanced oversight function. The
+UK has responded to the LIBOR scandals of 2012 with a strategy of this general
+kind.67
+Licensure/pre-approval. The second regulatory option, responsive to informational
+advantage, conflicted interest, and associated manipulation or collusion opportuni-
+ties, is to require licensure or pre-approval of private institutions that establish or
+maintain widely used benchmarks which receive SIPI designation.68 The basic idea
+here is to ensure that those who develop, provide, or maintain benchmark indices
+not employ their roles vis-(cid:2)a-vis these indices to extract rents from others who lack
+suchroles.69
+Requiring licensure can be helpful in realizing this desideratum in several
+ways. First, it puts parties on notice that the privileged role that they play with re-
+spect to their indices both carries special responsibilities and is contingent on their
+fulfilling these responsibilities. The situation here is reminiscent of that faced by
+67 Main(n32).
+68 TheEUbenchmark-regulationinitiativeemploysastrategyofthiskind.Seen32.
+69 Foranearlyproposalofsucharegimeforthepreapprovalofcomplexfinancialproducts,seeSauleT
+Omarova, ‘License to Deal: Mandatory Approval of Complex Financial Products’ (2012) 90 Wash U L
+Rev63.
+Downloaded from https://academic.oup.com/jfr/article-abstract/2/1/1/2357884
+by Cornell University Library user
+on 04 January 2018SystemicallySignificantPrices (cid:2) 17
+‘market-making’ US broker-dealers (‘B-Ds’) on the securities markets, who in their
+market-making capacities are held to higher standards of disclosure and fair dealing
+thanbroker-dealersactingintheirmoreordinarycapacities.
+Secondly,requiringlicensureoffersameansofscreeninglikelymalefactorsoutof
+SIPI-determiningrolesbeforetheytakethemon.Apersonorinstitutionwithapoor
+track record of regulatory compliance in one or more markets, for example, can be
+disqualified in advance, under a licensing regime, from taking part in the determina-
+tionofpricesorindicesthataredesignatedasSIPIs.
+Finally and relatedly, a licensing regime offers the opportunity of regularly re-ex-
+amining those who determine designated SIPIs, with a view to their ongoing habits
+of compliance—at least if the license has to be regularly renewed. A useful model
+heremightbetheB-Dregistrationregime,pursuanttowhichB-Dsmusttakeregular
+examinations, at gradually lengthening intervals, for a period of years before finally
+beingrebuttablypresumedtobeabove-board.Operatinginthisway,theappropriate
+SIPIregulatorwillberegularlyoverseeingthosewhodetermineSIPIsevenasitcon-
+tinuallyoverseesmovementsintheparticularSIPIitself.
+Utility-style regulation.The third regulatory option, againresponsive to informational
+advantage, conflicted interest, and associated manipulation or collusion opportuni-
+ties,aswellastomarketpower,istodeveloparegimeofenhancedutility-styleregu-
+lation—including in some cases participation by regulators in the very ‘clubs’ or
+coalitions that aggregate and publish ‘benchmark’ prices or indices. Here the idea is
+torecognizeforthrightlythatthedevelopmentandmaintenanceofsomeSIPIsmight
+be in the nature of a ‘natural monopoly’ function, at least if (i) scale economies or
+networkeffects renderconcentrationin some industriesstructurallylikely,while (ii)
+consequently large firms in those industries then come naturally to wield dispropor-
+tionate influence on prices simply by acting, as ‘big’ actors, in markets that generate
+thoseprices.70
+There is reason to think, for example, that certain kinds of insurance might give
+rise to natural monopolies or, at any rate, oligopolies within associated insurance
+markets.71 If that is so, and were insurance companies in such markets to develop
+andmaintainsomepriceindexorbenchmarkthatcametofunctionasaSIPI,thenit
+wouldstandtoreasonthatthemaintenanceofthatindexorbenchmarkitselfwasef-
+fectively a monopoly or oligopoly function. Were that to be the case, in turn, then
+one time-honoured regulatory response would be in effect partly to ‘socialize’ the
+firm or firms in question, rather as we do with natural monopolies in many markets
+nowsuggestivelylabelled‘publicutilities’markets.72
+Utilityregulationofthiskindtakesseveralforms,mostinvolvingsomeformofdi-
+rect rate regulation.73 In some cases, public officials sit on the boards of otherwise
+privately owned utilities firms.74 In other cases, the firms’ boards are private, but
+must seek permission to raise rates from plenary ‘public utilities boards’ that review
+70 SeeHockettandOmarova(n37)formoreonthisprospect.
+71 SeeegRobertHockett,‘Making(Some)SenseoftheHealthCareReformDebate’(2010)53Challenge28.
+72 ibid.
+73 SeeegRichardMusgrave,TheTheoryofPublicFinance(1960).
+74 ibid.
+Downloaded from https://academic.oup.com/jfr/article-abstract/2/1/1/2357884
+by Cornell University Library user
+on 04 January 201818 (cid:2) JournalofFinancialRegulation
+all such requests made by all designated utilities firms.75 We suggest that options
+analogous to these would likewise be possible where SIPI determination is
+concerned.
+One model would be for a ‘SIPI Rates Board’ to be authorized to oversee all
+SIPIs determined by naturally monopolistic or oligopolistic firms and require, any
+time that a movement in a SIPI did not appear readily explicable by reference to
+competitivemarketbehaviour,thatthefirmor‘club’responsiblefortheSIPIinques-
+tionexplainthemovement.Lackofanexplanationmightthenbetreatedasgrounds
+for a more intrusive inquest or regulatory sanction of one kind or another. Another
+possiblemodelwouldbeforanappropriateregulatortoparticipateintheverycoali-
+tionor‘club’ofpersonswhosetbenchmarksorderiveindicesthatcometobedesig-
+nated as SIPIs in the first place. Such a regime would bear obvious similarities to
+‘goldenshare’mechanismspursuanttowhichpublicofficialssitontheboardsofcer-
+tainsystemicallysignificantorotherwisepoliticallysalientbusinessfirms,forthrightly
+representingthepublicinterestthereon.76
+There are, again, many possibilities here—too many to vet comprehensively in
+thisarticle.Wethinktheprocessofthinking-upandthinking-throughsuchpossibili-
+ties,however,worthcommencingatonce.
+Enhanced antitrust and anti-fraud regulation. The fourth option we envisage, now re-
+sponsivemoreparticularlytomarketpowerandpotentialcollusion,isenhancedanti-
+trust and anti-fraud regulation. The idea in this case is simple and familiar. If a
+particularpriceorindexthathasbeendesignatedaSIPIisemployedormanipulated
+inarent-seekingmannerbyanyinstitutionorinstitutionswithmarketpowerinrela-
+tion to that SIPI, this would presumptively constitute a straightforward violation of
+the norms that our antitrust and anti-fraud regimes are meant to vindicate. It would
+also seem to constitute a straightforward violation of the anti-fraud norms that find
+expression in various parts of the bank-, securities-, and other finance-regulatory
+laws. In all such cases, moreover, the stakes and likely consequences of such viola-
+tionsareparticularlydramatic,invirtueoftheveryfeaturesthatrenderthepricesor
+indicesinquestion‘systemicallyimportant’.
+Itwouldseemtomakesense,then,eitherorboth(i)toestablishanofficewithin
+theAntitrustDivisionoftheUSDepartmentofJustice(DOJ)—andanycounterpart
+non-US regulator—tasked specifically with monitoring possible anticompetitive
+behaviour with respect to SIPIs, and (ii) to develop enhanced penalties for fraudu-
+lent or manipulative practices with respect to SIPIs.77 This strategy would not only
+bringregulatoryandcriminallawenforcementregimesintosyncwiththespecialvul-
+nerabilities and high stakes associated with SIPIs, but also offers the advantage of
+75 ibid.
+76 See egRobertHockettandSauleOmarova,‘PublicActors in PrivateMarkets:Towarda Developmental
+FinanceState’(2015,forthcoming)93WashULRev.
+77 Verstein(n47)helpfullysuggeststhatnarrowpleadingstandardsofthekindgenerallyassociatedwith
+conventionalfraudareunreasonablewherebenchmarkfraudisconcerned,andthatasomewhatmorere-
+laxedstandard,particularlyinrespectofthemisrepresentationandrelianceelementsoftheoffense,might
+beinorderinviewofthewaysbenchmarksoperate.Achangeofthissortwouldbeconsistentwithwhat
+wearecalling‘enhanced’anti-fraudprotection.
+Downloaded from https://academic.oup.com/jfr/article-abstract/2/1/1/2357884
+by Cornell University Library user
+on 04 January 2018SystemicallySignificantPrices (cid:2) 19
+incrementalism: it is a straightforward ‘tweaking’ of regimes that have long been in
+place.
+A related strategy, operating from the front-end, would be to mandate the use of
+larger sample sets in constructing an index or benchmark.78 In effect, this would
+amounttobroadeningthesizeoftheanticompetitive‘club’whoseoligopolisticmar-
+ket power occasions the dangers we face in the first place. This strategy would also,
+in virtue of its ex ante character, be cross-cutting inasmuch as it could be made part
+of a licensure or utility-style regime, as discussed just above, as readily as part of an
+antitrust-styleregime.
+Extended OMOs. The fifth and final regulatory option we think worth considering is
+this one responsive to the recursive collective action problems that beset some
+decentralized markets in which SIPIs are operative, is price maintenance—typically
+within some band—through OMOs. The idea here is to take seriously one of the
+many lessons thrown up by the experience of 2007–09. This is the lesson that in
+some cases, market decentralization itself can work systematically disastrous effects
+via the medium of some systemically significant price like that of RMBS. As noted
+above, RMBS were systematically undervalued by markets during the panic, such
+that only a ‘large’ actor capable of in effect ‘buying the market’ or a significant por-
+tionthereofwouldhavebeenabletokeeppricesinlinewithlesspanic-wrought,lon-
+ger term mean values. Any private actor that large, however, would have possessed
+‘marketpower’withwhichfewwouldbecomfortable,atleastwerethatprivateactor
+tobepursuingaprivateagenda.79
+The obvious solution in such case is to empower a large public actor pursuing a
+public agenda. This is effectively the form of response to which the US groped via
+theTARPandMaidenLaneprogrammesmentionedabove,aswellasviaQE3asan-
+nounced by the Fed in the autumn of 2012.80 It is also, more permanently, the way
+in which the US handles systemically important interest rates in Fed OMOs, and in
+some circumstances the way in which it handles price spikes in petroleum markets
+viatheSPR.81
+A finalregulatory optionwe mightwishtoconsiderwithrespect to at least some
+SIPIs,then,isOMOsinmarkets additionalto moneyrental,RMBS,andpetroleum.
+Thisisanoptionwehavecountenancedelsewhereundertherubricsof‘OpenLabor
+Market Operations’, ‘Open Commodity Market Operations’, and, more generally
+‘OMOPlus’.82TheideaherewouldbefortheFedoritscounterpartsinotherjuris-
+dictions, perhaps in conjunction with other, functional regulators depending on the
+particular SIPI in question, to buy and sell in markets additional to sovereign debt
+withaviewtokeepingparticularSIPIswithinparticularbandsthoughtnecessaryfor
+thepurposesofmaintainingsystemicstability.83
+78 Thisapproachisrecommended,egbyDuffieandStein(n47),aswellasbytheFSB(n6).
+79 HockettandOmarova(n37).
+80 ibid.
+81 ibid.
+82 HockettandOmarova(n76).
+83 ibid.
+Downloaded from https://academic.oup.com/jfr/article-abstract/2/1/1/2357884
+by Cornell University Library user
+on 04 January 201820 (cid:2) JournalofFinancialRegulation
+VariouscandidateSIPIsherecometomind.TheS&P500orWilshire5000mar-
+ket indices constitute one class of candidates, in view of their relation to the perfor-
+manceofthesecuritiesmarkets(andconsequent‘wealtheffects’economy-wide)asa
+whole. Certain sensitive commodity prices—those for widely used fuels, foodstuffs,
+and some other raw materials, for example—constitute another class of candidates.
+Finally, wage or salary indices constitute yet another class of candidates. In all of
+these cases, there is at least some reason—most such reasons sounding in (i) the
+samefactorsasrendertheindiceshereSIPIsinthefirstplace,and(ii)theassociated
+markets’ vulnerability to recursive collective action problems—for the public qua
+public to play a role in price stability maintenance. As we have written elsewhere,in
+somecases—egcommodities—itisrelativelyeasytodesignOMO-analoguesforthe
+markets in question.84 In other cases—eg wages or salaries—it is more compli-
+cated.85Weleavethesematterstoourearlierworkforpresentpurposes.
+Eitherway,itseemstousthatthetimehascometorecognizethattherearemore
+SIPIs than interest rates alone, and that thereare morepossible renditions of OMO
+than that now conducted by the Fed in relation to those rates alone. The only real
+question is where we should do best to consider extending current OMO practice,
+andthecircumstancesunderwhichwemightwishtodoso.
+CONCLUSION
+We have had to cover a fair bit of territory in this article, hence have done so in a
+necessarily preliminary way in view of space constraints. We think the inquiry well-
+defined and contained, however, and well worth more fully developed pursuit. The
+reasons for deemingsome financial institutions and marketutilities ‘systemically im-
+portant’, we think, are both compelling and now widely recognized. The Dodd–
+Frank Act in the US accordingly did well to recognize this new category of institu-
+tion and market utility in the wake of the crisis of 2007–09, and also did reasonably
+wellindevelopingaspecificregimeablebothtoidentifyanddesignate,andthenspe-
+ciallytoregulate,suchinstitutionsandutilitiesincurrentmarkets.
+Thesameconsiderationsaswarrantidentificationandenhancedregulationofso-
+called‘SIFIs’, however,seem tousalso towarrant identificationandenhancedregu-
+lation of what we here have dubbed ‘SIPIs’. Such prices and indices are at least as
+pervasively influential on financial market performance and macroeconomic conse-
+quence as are SIFIs, and can be readily identified by reference to similar criteria.
+They also lend themselves, we have argued, to similar—or at any rate already
+familiar—formsof enhancedregulation,as recentEUandother jurisdictions’efforts
+atleast withrespecttobenchmarkspost-LIBORsuggestothersappreciate.Givenall
+ofthis,itseemswellworththeefforttocommenceaseriousscholarlyandregulatory
+dialogue on what now to do about SIPIs more comprehensively. This article is sim-
+plyanopeninggambitinwhatweanticipatewillbealengthyandlivelydiscussion.
+84 ibid.
+85 ibid.
+Downloaded from https://academic.oup.com/jfr/article-abstract/2/1/1/2357884
+by Cornell University Library user
+on 04 January 2018

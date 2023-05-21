@@ -1,0 +1,2489 @@
+CONTESTED VISIONS: 
+  THE VALUE OF SYSTEMS THEORY FOR CORPORATE LAW 
+By Tamara Belinfanti and Lynn Stout 
+(forthcoming U. Pa. L. Rev. 2017) 
+Despite the dominant role corporations play in our economy, culture, 
+and  politics,  the  nature  and  purpose  of  corporations  remains  hotly 
+contested.  This conflict was brought to the fore in the recent Supreme 
+Court  opinions  in  Citizens  United  and  Hobby  Lobby.  Although  the 
+prevailing narrative for the past quarter-century has been that corporations 
+“belong” to shareholders and should pursue “shareholder value,” support 
+for this approach, which has been justified as essential for managerial 
+accountability, is eroding. It persists today primarily in the form of the 
+argument that corporations should seek “long-term” shareholder value. 
+Yet, as this Article shows, when shareholder value is interpreted to mean 
+“long-term”  shareholder  value,  it  no  longer  offers  the  sought-after 
+managerial accountability. 
+What can? This Article argues that systems theory offers an answer. 
+Systems  theory  is  a  well-developed  design  and  performance  measuring 
+methodology  routinely  applied  in  fields  such  as  engineering,  biology, 
+computer science, and environmental science. It provides an approach to 
+understanding the nature and purpose of corporate entities that is not only 
+consistent with elements of the many otherwise-conflicting visions of the 
+corporation  that  have  been  developed,  but  also  with  important  and 
+otherwise  difficult-to-explain  features  of  corporate  law  and  practice.  It 
+offers proven methods for measuring corporate performance that recognize 
+the possibility of multiple goals and the importance of sustainability. And it 
+cautions that, by ignoring the lessons of systems theory, shareholder value 
+thinking  may  have  encouraged  regulatory  and  policy  interventions  into 
+corporate governance that are not only ineffective, but destructive. 
+                                                           
+ Professor of Law, New York Law School. 
+ Distinguished Professor of Corporate and Business Law, Cornell Law School. The authors would 
+like to thank Margaret Blair, David Ciepley, John Coffee, Einer Elhauge, Lisa Fairfax, Joseph 
+Grundfest, Henry Hansmann, Lynn LoPucki, Dana Radcliffe, Roberta Romano, and Robert 
+Thompson for their comments and suggestions, along with participants at workshops on and 
+presentations of this paper given at Cornell Law School, the University of Chicago Law School, the 
+University of Arizona Law School, the Annual Meeting of the American Association of Law Schools 
+Business Associations Section, and the Annual Meeting of the Law and Society Association. CONTESTED VISIONS: 
+  THE VALUE OF SYSTEMS THEORY FOR CORPORATE LAW 
+ 
+Table of Contents 
+Introduction .............................................................................................................. 3 
+PART I. CONTESTED VISIONS AND THE ROLE OF SHAREHOLDER VALUE THEORY.. 8 
+A. CONTESTED VISIONS ............................................................................... 8 
+B. THE RISE AND EVOLUTION OF SHAREHOLDER VALUE THEORY .. 11 
+C. WHY LONG-TERM SHAREHOLDER VALUE CANNOT BE USED TO 
+HOLD MANAGERS ACCOUNTABLE: THE PROBLEM OF 
+UNCERTAINTY ......................................................................................... 17 
+PART II. THE SYSTEMS ALTERNATIVE ................................................................... 20 
+A.  WHAT IS SYSTEMS THEORY? ................................................................ 20 
+B.  SYSTEMS THEORY AND THE NATURE OF THE CORPORATION ...... 23 
+C.  SYSTEMS THEORY AND THE QUESTION OF CORPORATE PURPOSE
+ ................................................................................................................... 28 
+D.  SYSTEMS THEORY AND THE PROBLEM OF MEASURING 
+CORPORATE PERFORMANCE ............................................................... 34 
+PART III. SYSTEMS THINKING IN CORPORATE PRACTICE AND CORPORATE LAW . 41 
+A.  SYSTEMS THINKING IN CORPORATE MANAGEMENT ...................... 41 
+B.  SYSTEMS THINKING IN CORPORATE LAW ......................................... 43 
+C.   ON THE RISKS OF IGNORING SYSTEMS ............................................. 47 
+CONCLUSION ........................................................................................................... 52 
+ CONTESTED VISIONS: 
+  THE VALUE OF SYSTEMS THEORY FOR CORPORATE LAW 
+ 
+INTRODUCTION 
+Any  attempt to  answer the question  “what  is  a corporation?” is  an 
+exercise in negotiating contested visions of the nature and purpose of the 
+corporate form. Some experts say the corporation is a grantee of the state 
+and should serve a public purpose (concession theory). Others describe the 
+1
+corporation as a separate legal entity with the ability to hold property and 
+enter  contracts  in  its  own  name  (entity  theory).  Still  others  argue  the 
+2
+corporation  is  not  “real”  but  rather  is  a  nexus  of  privately-negotiated 
+contracts (nexus of contract theory). Or perhaps a corporation should be 
+3
+viewed as an aggregation of natural persons (aggregate theory) or relatedly, 
+4
+an aggregation of shareholder property (property theory) or specific assets 
+5
+(team production)?  
+6
+The recent twin U.S. Supreme Court cases of Citizens United v. FEC 
+7
+and Burwell v. Hobby Lobby Stores, Inc. bring these contested visions of 
+8
+the nature and purpose of corporations into sharp focus. In Citizens United, 
+Justice  Kennedy’s  opinion  for  the  majority  described  corporations  as 
+“associations  of  citizens,  while  Justice  Steven’s  dissent  insisted  that 
+9
+corporations are not associations of people but legal entities that “have no 
+consciences, no beliefs, no feelings, no thoughts, no desires.”  Stevens also 
+10
+observed there are multiple “recognized model[s]” of the corporate entity, 
+including  the  state  grantee,  nexus  of  contracts,  and  team  production 
+models.   In  Hobby  Lobby,  Justice  Alito  repeatedly  described  a 
+11
+corporation’s shareholders as its “owners,”  implying that a corporation is 
+12
+its shareholders’ property, while Justice Ginsberg’s dissent maintained that 
+                                                           
+1 See supra text accompanying note 41. 
+2 See supra text accompanying notes 34-36. 
+3 See supra text accompanying notes 39-40. 
+4 See supra text accompanying notes 36-37. 
+5 See supra text accompanying notes 52-58. 
+6 See supra text accompanying notes 42-45. 
+7 558 U.S. 310 (2010). 
+8 134 S.Ct. 2751 (2014) 
+9 558 U.S. at 354 
+10 Id. at 466 
+11 Id. at 465 n.72. 
+12 134 S.Ct. at 2767, 2771, 2774, 2775.  
+corporations were “artificial persons” separate from any individual  and 
+13
+further  noted  that  not  only  shareholders  but  also  workers  “sustain  the 
+operations of” corporations.  In Citizens United, Justice Steven’s dissent 
+14
+spoke of corporate purpose in terms of “maximiz[ing] shareholder value”  
+15
+and “maximiz[ing] the returns on…shareholders’ investments.”  In Hobby 
+16
+Lobby,  Justice  Alito  expressed  a  different  view,  noting  that  “modern 
+corporation law does not require for profit companies to maximize profits at 
+the expense of everything else, and many do not do so.”  
+17
+This  judicial  disagreement  illustrates  the  clashes  perceived  to  exist 
+among the various “recognized models” of the corporation that have been 
+developed.  In  particular,  Anglo-American  corporate  scholarship  and 
+corporate governance practice have been dominated for most of the past 
+three  decades  by  a  “standard”  economic  account  that  assumes  that 
+shareholders  own  and  ultimately  ought  to  control  corporations;  that 
+shareholders’ principal interest is increasing their wealth; that the interests 
+of other corporate constituencies, like employees and customers, should be 
+protected primarily by contract and regulation; and that the market price of 
+a  public  company’s  shares  is  the  principal  measure  of  shareholders’ 
+wealth.   The  result  has  been  widespread  embrace  of  the  notion  that 
+18
+corporate  managers  should  seek  first  and  foremost  to  “maximize 
+shareholder value,” a philosophy of corporate purpose that might be dubbed 
+shareholder  value  theory.   As  the  Citizens  United  and  Hobby  Lobby 
+19
+opinions illustrate, however, this consensus seems to be falling apart as both 
+the  standard  model  and  shareholder  value  theory  have  been  subject  to 
+escalating  criticism.   Commentators  have  pointed  out  that  the  standard 
+20
+                                                           
+13 Id.. at 2794. 
+14 Id.at 2794. 
+15 558 U.S. 64. 
+16 Id. at  75. 
+17 573 U.S. at 2771. 
+18 A classic statement of the standard model can be found in Henry Hansmann & Reinier Kraakman, 
+The End of History For Corporate Law, 89 GEO. L.J. 439, 447 (2000–2001)(standard model holds 
+that “ultimate control of the corporation should rest with the shareholder class; the managers of the 
+corporation should be charged with the obligation to manage the corporation in the interests of its 
+shareholders; other corporate constituencies, such as creditors, employees, suppliers, and customers, 
+should have their interests protected by contractual and regulatory means rather than through 
+participation in corporate governance; … and the market value of the publicly traded corporation’s 
+shares is the principal measure of the shareholders’ interests.”)  In other work, Hansmann has 
+explored alternative theories of corporate purpose.  See, e.g., The Evolution of Shareholder Voting 
+Rights: Separation of Ownership and Consumption, 123 Yale L. J. 948 (2014).  
+19 See infra text accompanying notes 46-48 (discussing shareholder value theory).  
+20 See generally Statement on Company Law: Summary: Fundamental Rules of Corporate Law, THE 
+MODERN CORPORATION, https://themoderncorporation.wordpress.com/company-law-memo/ (last 
+4 
+  
+Anglo-American  model  ignores  the  significance  of  corporate  legal 
+personhood;   that  it  does  not  fit  with  the  very  limited  control  granted 
+21
+shareholders under actual corporate law;  that the standard model leads to 
+22
+social inefficiency when, as may often be the case, contracts are incomplete 
+and regulation is  imperfect;  and that stock market  prices often  fail to 
+23
+capture  long-term  economic  value.   Moreover,  commentators  have 
+24
+associated  shareholder  value  theory  with  a  number  of  recent  corporate 
+scandals and business failures, including the 2008 financial crisis.  In this 
+25
+Article,  we  shed  light  on  and  resolve  much  of  the  ongoing  debate  by 
+suggesting  a  new  and  more  unifying  approach  to  understanding 
+corporations – that of systems thinking. 
+Systems  theory  is  a  design  and  assessment  methodology  routinely 
+employed  in  a  wide  variety  of  fields,  including  computer  science, 
+engineering, biology, and environmental science. It can be applied to any 
+process (system) in which multiple elements interact with each other, over 
+time,  to  achieve  certain  purposes  or  functions.  We  argue  that  public 
+companies  in  particular  can  be  viewed  as  complex  systems  in  which 
+multiple  elements  (e.g.,  financial  capital,  physical  capital,  and  human 
+capital) interact with each other to perform a variety of useful and desirable 
+functions (e.g., providing goods and services, employment opportunities, 
+investor returns, and tax revenues) under uncertain  conditions and over 
+time. We articulate a vision of the corporation that allows for a better 
+understanding of the interaction between an artificial legal entity and its 
+human actors/agents; allows room to consider the role of the state, without 
+which legal entity status could not be conferred; offers new strategies and 
+                                                                                                                                                   
+visited Feb. 17, 2017) (memorandum signed by nearly 50 legal experts noting that “certain beliefs 
+about corporations and corporate law are widely held and relied upon by business experts, the 
+financial press, and economists who study the firm.  Unfortunately, some of these widely held beliefs 
+are mistaken”). 
+21 See, e.g., William T. Allen, Our Schizophrenic Conception of the Business Corporation, 14 
+Cardozo L. Rev. 261, 268-71 (1992); Margaret M. Blair & Lynn A. Stout, A Team Production 
+Theory of Corporate Law, 85 Va. L. Rev. 248, 292 (1999); Jean-Phillipe Robe, The Legal Structure 
+of the Firm, 1 Accounting, Economics, and Law (January 31, 2011).  
+22 See infra Part I.C; Blair & Stout, supra note 21, at 290-308; Daniel J.H. Greenwood, Fictional 
+Shareholders: For Whom Are Corporate Managers Trustees, Revisited, 69 S. Cal. L. Rev. 1021, 
+1038-43 (1995-96). 
+23 See, e.g., JOEL BAKAN, THE CORPORATION: THE PATHOLOGICAL PURSUIT OF PROFIT AND POWER 
+(2005); Blair & Stout, supra note 21; Einer Elhauge, Sacrificing Corporate Profits in the Public 
+Interest, 80 N.Y.U. L. Rev. 733, 776-817 (2005). 
+24 See, e.g., Lynn A. Stout, The Mechanisms of Market Inefficiency: An Introduction to the New 
+Finance, 2003 J. Corp. L. 636; JOHN QUIGGEN, ZOMBIE ECONOMICS: HOW DEAD IDEAS STILL WALK 
+AMONG US (2010).  
+25 See sources cited infra notes 70-76 (discussing destructive effects of shareholder value thinking).  
+5 
+  
+methodologies for ensuring managerial accountability; and helps us better 
+understand the relationships between and among stockholders, directors, 
+creditors, employees, and the corporate person itself. Thus we demonstrate 
+how  systems  theory  offers  many  useful  lessons  about  the  nature  and 
+purpose of corporations and the best way to assess their performance—and, 
+in the process, helps to integrate many apparently-conflicting elements of 
+the various contesting visions of the firm.  
+26
+In Part I of the Article, we provide a  brief summary of competing 
+theories  of  the  corporation.   We  pay  particularly  close  attention  to  the 
+27
+dominant  shareholder  value  theory  and  provide  an  overview  of  its 
+traditional and current justifications.  We show how, while shareholder 
+value theory initially was justified by the factual claims that shareholders 
+own corporations and that shareholders are the sole residual claimants of 
+corporations, today these empirical claims increasingly are being called into 
+question.  Instead,  supporters  of  shareholder  value  theory  now  typically 
+argue that corporations  ought  to  be run to  maximize shareholder value 
+because  only  shareholder  value  offers  the  single,  quantifiable  metric 
+supposedly needed to constrain agency costs and hold corporate directors 
+and officers accountable. Yet this new justification is also being challenged 
+on several grounds, especially the critique that when shareholder value is 
+equated  to  stock  price  or  current  accounting  profits,  shareholder  value 
+thinking  encourages  short-sighted  business  decisions.  Thus  shareholder 
+value  thinking  has  been  associated  with  excessive  risk  taking,  reduced 
+investment  and  innovation,  and  diminished  long-term  business 
+performance.  In light of these criticisms, many contemporary shareholder 
+28
+                                                           
+26 More specifically, in this Article we apply systems theory to business firms organized as 
+corporations. Strictly speaking, a “firm” is not the same thing as a “corporation.” Robe, supra note 
+21. However, we employ the common practice of using the words as synonyms to describe large 
+firms organized as incorporated legal entities.  The corporate form can be thought of as the legal 
+armature or framework upon which many firms are built. Incorporation as a “legal person” allows 
+firms to hold assets and incur liabilities in their own names and to operate in perpetuity.  See 
+generally Lynn A. Stout, On the Nature of Corporations, 2005 U. ILL. L. REV. 253 (2005); Andrew 
+A. Schwartz, The Perpetual Corporation, 80 GEO. WASH. L. REV. 764 (2012). 
+27 See infra Part I.  
+28 THE ASPEN INSTITUTE BUSINESS AND SOCIETY PROGRAM, OVERCOMING SHORT-TERMISM: A CALL 
+FOR A MORE RESPONSIBLE APPROACH TO INVESTMENT (2009), 
+https://www.aspeninstitute.org/sites/default/files/content/docs/pubs/overcome_short_state0909_0.pdf;  
+CFA INSTITUTE, Shareholder Value Maximization: The World’s Dumbest Idea? (October 23, 2014), 
+https://eic:cfainstitute.org/2014/10/23/shareholder-value-maximization-the-dumbest-idea-in-the-
+world/; THE CONFERENCE BOARD, Is Short-Term Behavior Jeopardizing the Future Prosperity of 
+Business?  (2015), 
+www.wlrk.com/docs/IsShortTermBehaviorJeopardizingTheFutureProsperityOfBusiness_CEOStrateg
+icImplications.pdf; THE ROOSEVELT INSTITUTE, FINANCIALIZATION PROJECT, Understanding Short-
+6 
+  
+value supporters have “doubled down” and reframed their message and 
+justification: they now speak in terms of maximizing “long-term” value 
+rather than immediate profit or share price appreciation. While reorienting 
+towards long-term value is arguably an improvement over an exclusively 
+short-term focus, especially in light of the possibly perpetual nature of the 
+corporate entity, we show how a shift to a long-term value focus actually 
+reduces  shareholder  value  theory’s  ability  to  ensure  its  stated  goal  of 
+accountability. We conclude Part I by suggesting that there may be a better 
+approach  for  measuring  corporate  performance  and  achieving  true 
+managerial accountability, while honoring the complexity and diversity of 
+the corporate form: systems thinking. 
+In Part II, we introduce systems thinking and the idea of the corporation 
+as a system.  We survey the basic principles of systems theory and consider 
+29
+what they teach about the nature of corporations; their purpose; and how to 
+best  measure  the  performance  of  a  corporate  system  in  order  to  hold 
+managers accountable. In particular, we show how systems thinking teaches 
+that corporations may serve multiple purposes, and indeed one’s view of 
+corporate purpose may depend on one’s perspective.  Nevertheless, systems 
+30
+theory  has  developed  a  variety  of  methodologies  and  mathematical 
+techniques that can be used to measure managerial performance (including 
+especially  assessing  sustainability)  so  as  to  determine,  if  not  whether 
+managers are doing the best possible job, at least whether they are doing a 
+better, or a worse one. Thus the systems approach offers well-developed 
+tools and methodologies for promoting managerial accountability. 
+In Part III,  we turn our attention to some practical and theoretical 
+31
+implications  of  such  an  approach.  We  show  how  systems  thinking  is 
+embedded in the way managers of many successful corporations talk about 
+what they do, as well as the strategies they choose and the performance 
+                                                                                                                                                   
+Termism:  Questions and Consequences  (2015), http://rooseveltinstityte.org/wp-
+content/uploads/2015/11/Understanding-Short-Termism.pdf; 
+William Lazonick, Profits Without Prosperity, HARV. BUS. REV. (September 2014),  
+https://hbr.org/2014/09/profits-without-prosperity/ar/1; and Roger Martin, Yes, Short-Termism Really 
+is a Problem, HARV. BUS. REV. (October 9, 2015),  https://hbr.org/2015/10/yes-short-termism-really-
+is-a-problem. 
+29 See infra Part II.  
+30 Systems thinking treats corporate purpose as complex, fluid, and to some degree subjective.  This 
+approach can explain important elements of corporate reality that shareholder value thinking cannot 
+explain, just as the theory of relativity (which treats physical reality as complex, fluid, and to some 
+degree subjective) explains important physical phenomenon better than Newtonian physics does. See 
+Infra Part II.C (discussing corporate purpose under the systems approach). 
+31 See infra Part III.  
+7 
+  
+assessment methods they employ. We also show how, in comparison to 
+many other models of the corporation, systems theory fits better with state 
+corporate codes, the holdings of corporate cases, and the “internal” law of 
+corporate charters and bylaws. We point out that while public corporations 
+have become more shareholder-centric in recent years, the shift has been 
+driven primarily by federal regulations and other external interventions that 
+bear the hallmarks of rent-seeking and that have been associated with a 
+variety of undesirable outcomes. 
+We  conclude  that,  especially  in  light  of  the  close  correspondence 
+between  systems  thinking  and  traditional  corporate  law  and  practice, 
+systems theory offers an intriguing and indeed compelling approach for 
+understanding the nature of corporations, their proper purpose, and the best 
+way to hold their managers accountable. In the process, it offers to integrate 
+and sometimes reconcile the many competing visions of the corporation 
+being debated today. 
+ 
+PART I. CONTESTED VISIONS AND THE ROLE OF SHAREHOLDER 
+VALUE THEORY  
+ 
+A.  CONTESTED VISIONS 
+Scholars, judges, regulators, and practitioners have long debated the 
+questions of what corporations are and what their purpose should be. The 
+literature  is  replete  with  different  theories  or  models,  each  of  which  
+attempts to reduce the pattern of legal rights, responsibilities, duties and 
+privileges  typically  found  in  corporations  into  a  single  readily-
+understandable description.  Thus the corporation has been described as: (1) 
+32
+an  entity;  (2)  an  aggregate  of  people;  (3)  a  web  of  contracts;  (4)  a 
+government  concession  or  “franchise  government”;  (5)  a  collection  of 
+specific investments and (6) the property of its shareholders.  Each model 
+33
+offers its own particular vision of how best to describe the corporation, 
+given  its  semiautonomous,  perpetual  nature,  legal  personhood,  and  the 
+interwoven web of human relationships and interactions that often present 
+in the corporate form. 
+                                                           
+32 See generally, David Millon, Theories of the Corporation, 2 DUKE L. J. 201 (1990); Allen, supra 
+note 21; Lynn Stout, The Economic Nature of the Corporation, in OXFORD HANDBOOK OF LAW AND 
+ECONOMICS VOLUME II: PRIVATE AND COMMERCIAL LAW, (Francesco Parisi, ed., forthcoming 2017). 
+33 See infra text accompanying notes 36-60. 
+8 
+  
+The  entity  theory  is  perhaps  best  encapsulated  in  Chief  Justice 
+Marshall’s famous statement in the 1819 case of Trustees of Dartmouth 
+College v. Woodward that the corporation is “an artificial being, invisible, 
+intangible, and existing only in contemplation of law.”  In the 1933 case of 
+34
+Liggett  Co.  v.  Lee,  Justice  Louis  Brandeis  expressed  a  similar  view, 
+describing the corporation as a “Frankenstein monster which States have 
+created  by  their  corporation  laws.”   Entity  theory  captures  certain  core 
+35
+characteristics of the corporate form, particularly its status as a legal person 
+entitled to exercise certain rights (e.g., to own property, enter contracts, and 
+incur liabilities) in its own name. Entity theory also is consistent with the 
+corporation’s ability to exist into perpetuity. However, entity theory has 
+been critiqued on the grounds that the corporate entity is “not real.”  It is 
+36
+not tangible. It is mere artifice. 
+In juxtaposition to entity theory, which treats the corporation as its own 
+legal person, aggregate theory views the corporation as an aggregation of 
+natural persons. Aggregate theory was perhaps at play in Justice Kennedy’s 
+description of corporations in Citizens United as “associations of citizens.”   
+37
+Aggregate theory captures the reality that corporations must act and make 
+decisions through their human agents. However, the aggregate approach 
+raises several challenging questions, such as which human agents/natural 
+persons  should  we  aggregate?  Everyone  involved  in  the  corporate 
+enterprise? Or perhaps only the board, executives, and shareholders? And if 
+so, today’s shareholders, or the company’s original shareholders? As this 
+last question suggests,  the notion of perpetual  corporate life is  hard to 
+reconcile with an aggregation theory. 38 
+The nexus of contract theory views the corporation as a “nexus” or web 
+of contracts, both explicit and implicit, between and among various parties 
+                                                           
+34 17 U.S.518, 636 (1819). 
+35 288 U.S.517, 568 (1933). 
+36 See Frank H. Easterbrook & Daniel R. Fischel, Limited Liability and the Corporation, 52 U.CHI.L. 
+REV.  89 (1985) (“The corporation is not real.  It is no more than a name for a complex set of 
+contracts among managers, workers, and contributors of capital.”) See also Michael C. Jensen and 
+William H. Meckling, Theory of the Firm: Managerial Behavior, Agency Costs, and Ownership 
+Structure, 3 J. FIN. ECON.   305, 310-11 (1976)(describing corporation as “legal fiction.”). 
+37 558 U.S. at 354 
+38 The Delaware Supreme Court recently upheld a decision to require TransPerfect’s founders and 
+100 percent shareholders to collectively sell their shares in the company, on the theory that their 
+dysfunctional relationship was damaging to the corporation and “its constituencies,” see Shawe v. 
+Elting, No. 423 (Del., Feb. 13, 2017), at 22, 25, 
+http://www.courts.delaware.gov/Opinions/Download.aspx?id=252550).  This holding is inconsistent 
+with any claim that a corporation is comprised only of its current and/or original shareholders. 
+9 
+  
+associated  with  the  corporation,  such  as  the  board,  the  shareholders, 
+creditors, and employees.  Like the aggregate theory, the nexus of contracts 
+39
+theory does not  recognize the corporation as its own separate and real 
+entity.  It  emphasizes  instead  the  voluntary  nature  of  most  human 
+participation  in  creating  and  pursuing  corporate  endeavors,  and 
+acknowledges the generally enabling nature of corporate law (which allows 
+significant latitude to corporate participants to engage in private bargaining 
+and  contracting  around  various  default  rules).  However,  the  nexus  of 
+contracts theory can be critiqued as failing to acknowledge the corporation’s 
+legal personhood, and also as failing to emphasize the crucial role played by 
+the state in creating the corporation.  
+40
+The  state  concession  theory  of  the  corporation  and  its  modern 
+descendant, the political franchise theory,  recognizes the role of the state in 
+41
+granting  a  corporation  legal  personhood  and  acknowledges  that  a 
+corporation’s  internal  governance  structures  in  many  ways  mirror 
+governance  structures  of  a  political  state.  It  also  highlights  how  early 
+corporations were granted corporate personhood by the state for expressly 
+public purposes and not merely as a means for garnering private profits. A 
+main  limitation  of  the  political  franchise  theory  is  that  the  model  is 
+primarily focused on the relationship between the corporate entity and the 
+governing state, but provides less guidance on which internal governance 
+structures are most desirable for corporations. 
+The team production model addresses internal governance structure by 
+hypothesizing that, at least in public corporations, the firm is governed by a 
+relatively  independent  board  of  directors  that  serves  as  a  “mediating 
+hierarch” to protect the specific investments not only of shareholders but 
+also  employees,  creditors,  customers,  and  other  important  stakeholders 
+whose interests in their relationship with the business cannot be completely 
+protected by explicit contracts or regulation.  This protection encourages 
+42
+collective  specific  investment  in  “team  production”  projects  (especially 
+                                                           
+39 See generally Easterbrook & Fischel supra note 36; Melvin A. Eisenberg, The Conception that the 
+Corporation is a Nexus of Contracts and the Dual Nature of the Firm, 24 J. CORP. L. 819 (1998). 
+40 See Henry Hansmann, Reinier H. Kraakman, and Richard Squire, Law and the Rise of the Firm, 
+119 HARV. L. REV. 1335 (2006)(emphasizing the importance of legal personhood in ensuring that 
+shareholders’ creditors cannot reach corporate assets, and arguing that private contract alone cannot 
+create legal persons).  
+41 See David Ciepley, Beyond Public and Private: Toward a Political Theory of the Corporation, 107 
+AM. POL. SCI. REV. 139 (2013) (describing corporate entities as “franchise governments” created and 
+authorized by the state). 
+42 See Blair & Stout, supra note 21. 
+10 
+  
+long  term,  large  scale,  uncertain  projects)  that  can  generate  significant 
+social  wealth.  The  team  production  model  explains  many  aspects  of 
+corporate law and structure, including the wide discretion granted directors 
+under  the  business  judgment  rule. .  It  has  been  critiqued,  however,  as 
+43
+applying  mainly  to  public  corporations   and  also  as  undermining 
+44
+managerial accountability.   
+45
+While the entity, aggregation, nexus of contract, political franchise, and 
+team  production  theories  each  have  influential  supporters  and  each 
+contribute  to  our  understanding  of  the  corporate  form,  in  recent  years 
+Anglo-American  corporate  law  scholarship  and  policy  discussions  have 
+been dominated by yet another theory that might be called the “shareholder 
+value” theory. Given this context, the balance of Part I will focus on the 
+achievements and critiques of shareholder value theory. 
+ 
+B.  THE  RISE  AND  EVOLUTION  OF  SHAREHOLDER  VALUE 
+THEORY 
+For the past quarter-century, the dominant albeit not exclusive narrative 
+of corporate purpose in the Anglo-American world has been that business 
+corporations  have  but  one  goal:  to  maximize  shareholder  wealth  or 
+“shareholder value.”   It is difficult to overstate just how much shareholder 
+46
+value theory has influenced contemporary corporate governance, especially 
+in the United States.  This influence is reflected in law review articles; in 
+47
+the dicta of judicial opinions; in policy reports; and in Federal securities 
+regulation.  
+48
+                                                           
+43 See infra text accompanying notes 182-189. 
+44 See John C. Coates IV, Measuring the Domain of Mediating Hierarchy: How Contestable are U.S. 
+Corporations, 24 J. CORP. L. 837 (1999). 
+45 See Alan J. Meese, The Team Production Theory of Corporate Law: A Critical Assessment, 43 
+WILLIAM & MARY L. REV. 1629 (2002).  
+46 Hansmann & Kraakman, supra note 18; Stephen Bainbridge, Director Primacy: The Means and 
+Ends of Corporate Governance, 97 NORTHWESTERN U. L. REV. 547 (2003). 
+47 LYNN STOUT, THE SHAREHOLDER VALUE MYTH: HOW PUTTING SHAREHOLDERS FIRST HARMS 
+INVESTORS, CORPORATIONS, AND THE PUBLIC, Ch. 3 (2012); Edward D. Rock, Adapting to the New 
+Shareholder-Centric Reality, 161 U. PA. L. REV. 1907 (2013); DARRELL WEST, BROOKINGS 
+INSTITUTION, THE PURPOSE OF THE CORPORATION IN BUSINESS AND LAW SCHOOL CURRICULA 17–18, 
+(2012), www.brookings.edu/~/media/Files/rc/papers/2011/0719_corporation_west.pdf. For a history 
+of shareholder value thinking’s rise to dominance, see STOUT, supra at ch. 3. 
+48 Thus law professor Jeffrey Gordon has written that “by the end of the 1990s, the triumph of the 
+shareholder value criterion was nearly complete.” Jeffrey N. Gordon, The Rise of Independent 
+Directors in the United States, 1950–2005: Of Shareholder Value and Stock Market Prices, 59 STAN. 
+11 
+  
+Yet it is only relatively recently that the idea that public corporations 
+exist to maximize shareholder wealth has acquired such power.  Why did 
+49
+this occur?  In part, shareholder value theory  gained traction because it 
+served the purposes of powerful interest groups, including newly-emerging 
+“activist”  investors   and  executives  whose  compensation,  due  to  1993 
+50
+changes  in  the  tax  code,  increasingly  was  based  on  share  price.   But 
+51
+shareholder  value  theory  has  also  been  embraced  because  it  has  been 
+perceived as intellectually justified. In particular, shareholder value theory 
+has been justified by an evolution of three claims: first, that shareholders 
+own corporations; second, that shareholders are the residual claimants in 
+corporations;  and  third,  that  shareholder  value  provides  the  single 
+quantifiable  metric  that  is  essential  to  constrain  agency  costs  and  hold 
+corporate directors and executives accountable.  
+It  is  increasingly  recognized  now  that  the  first  two  claims  are 
+demonstrably incorrect. The notion that shareholders “own” corporations is 
+often associated with Nobel-prize winning economist Milton Friedman’s 
+famous 1976 article in the New York Times Magazine, in which he argued 
+that because shareholders own corporations, the only “social responsibility 
+of business is to increase its profits.”  While this idea that shareholders own 
+52
+                                                                                                                                                   
+L. REV. 1465, 1530 (2007). Justice Steven’s dissent in Citizens United assumed a shareholder value 
+framework, see infra text accompanying note 15, and Delaware Chancellor William  
+Chandler opined in In Re Ebay Domestic Holdings, Inc.  v. Newmark that corporate directors 
+decisions should “ultimately promote shareholder value,” 16 A.3d 1, 33 (Del. Ch. 2010).  A report 
+from the National Association of Corporate Directors concluded that “[t]he primary objective of the 
+corporation is to conduct business activities with a view to enhancing profit and shareholder gain,” 
+NATIONAL ASSOCIATION OF CORPORATE DIRECTORS, REPORT OF THE NACD BLUE RIBBON 
+COMMISSION ON DIRECTOR COMPENSATION: PURPOSES, PRINCIPLES, AND BEST PRACTICES 1 (1995). 
+(Interestingly, and consistent with systems thinking, the report does note that “long-term shareholder 
+gain” [depends] on “fair treatment” of non-shareholder constituents.)  At the level of Federal 
+regulation, the U.S. Securities Exchange Commission (SEC) recently decided that public companies 
+should provide enhanced graphic disclosure of how executive pay relates to a corporation’s financial 
+performance, and defined financial “performance” in terms of share price appreciation and dividends 
+paid to shareholders (total shareholder return or TSR),17 C.F.R. § 229.402 (c) (2016). 
+49 During most of the 20th century and well into the 1980s, corporate directors and executives 
+embraced a vision of corporate purpose called managerial capitalism or simply managerialism. 
+GERALD DAVIS, MANAGED BY THE MARKETS: HOW FINANCE RESHAPED AMERICA 71 (2009). 
+According to the managerialist philosophy, business corporations were important social institutions 
+that ought to serve not only shareholders but also employees, customers, suppliers, communities, and 
+the nation as a whole, while managers were not shareholders’ agents but stewards or trustees with 
+fiduciary duties to these institutions. The managerialist philosophy thus arguably included elements 
+of entity theory, state concession theory, and stakeholder and team production theory. 
+50 Rock, supra note 47. 
+51 STOUT, supra note 47, at 19–20. 
+52 Milton Friedman, The Social Responsibility of Business is to Increase its Profits, N. Y. TIMES 
+MAGAZINE, Sept. 13, 1970, at 32 . 
+12 
+  
+corporations retains emotional power among laypersons and many business 
+journalists,  legal experts widely recognize it to be empirically incorrect.  
+53 54
+One of the hallmarks of the corporate form is that corporations are legal 
+persons with rights, including the right to hold property in their own names. 
+This means that, just as a natural person cannot be owned by another, a 
+corporation cannot be owned by its shareholders.  What shareholders do 
+55
+own  are  shares.  Shares  can  be  viewed  as  a  kind  of  contract  between 
+shareholders and the corporate entity, just as an employment agreement or 
+bond can be viewed as a contract between the corporate entity and an 
+employee or bondholder. The shareholders’ contract, moreover, typically 
+gives shareholders only very limited rights. One such right is the right to 
+elect and remove directors. But, as has been recognized since at least the 
+days of Berle and Means,  this right carries almost no real influence in the 
+56
+context  of  a  public  corporation  with  dispersed  share  ownership.  
+57
+Contemporary experts accordingly are often  careful to  avoid  describing 
+corporations as “owned” by shareholders.    
+58
+What  about  the  second  claim:  that  shareholders  are  the  residual 
+claimants entitled to  all profits left over after  the business  has met its 
+contractual and legal obligations (e.g., interest due creditors, wages due 
+employees,  and  taxes  due  governments)?     Again,  experts  increasingly 
+59
+recognize that, for several reasons, shareholders are not the sole residual 
+claimants  of  corporations—at  least  not  of  operating  companies.   First, 
+60
+                                                           
+53 See, e.g., Gretchen Morgenson, Whole Foods’ High Hurdle for Investors, N.Y.TIMES, Jan. 5, 2015, 
+at B1 (stating without authority that “shareholders own the companies they invest in.”) 
+54 Statement on Company Law, supra note 20. 
+55 Id.; Robé, supra note 21.  
+56 ADOLF A. BERLE AND GARDINER MEANS, THE MODERN CORPORATION AND PRIVATE PROPERTY 
+(1932). 
+57 It might be forgivable to describe a corporation with a single individual shareholder as “owned” by 
+that individual, on the theory that, despite formal limitations on shareholder power, as a practical 
+matter a sole shareholder has both the economic interest and the managerial power of a proprietor.  
+This is clearly not the case for shareholders in a public company. See Lucian A. Bebchuk, The Myth 
+of the Shareholder Franchise, 93 VA. L. REV. 675 (2007).   
+58 See, e.g., ALAN PALMITER & FRANK PARTNOY, CORPORATIONS: A CONTEMPORARY APPROACH 434 
+(2d ed. 2014) (“shareholders do not “own” the corporation in the same way the proprietor owns her 
+own business”). 
+59 See, e.g., FRANK H. EASTERBROOK AND DANIEL R. FISCHEL, THE ECONOMIC STRUCTURE OF 
+CORPORATE LAW 36-37 (1991); Eugene F. Fama and Michael C. Jensen, Organizational Forms and 
+Investment Decisions, 14 J.  FIN. ECON. 101, 102-03 (1985). 
+60 It may be reasonable to describe shareholders as sole residual claimants when a company is being 
+liquidated, although even in the bankruptcy context Professor LoPucki has shown that courts often 
+require creditors to share in stockholders’ losses to some extent.  Lynn M LoPucki, The Myth of the 
+Residual Owner: An Empirical Study, 2004 WASH. U. L. Q. 1341 (2004).  However, companies in 
+13 
+  
+corporations,  as  legal  persons,  are  their  own  residual  claimants.  The 
+corporation’s profits are the property of the corporate entity and not the 
+property of its shareholders.  Second, modern options theory teaches that 
+61
+once a corporation has issued debt, its debtholders also have a residual 
+interest  in  how  the  company  is  run.   Third,  when  important  corporate 
+62
+“stakeholders”  make  specific  investments  in  a  corporation’s  continued 
+operation (for example, when employees acquire skills uniquely valuable to 
+the  company  as  an  employer,  or  customers  become  dependent  on  its 
+products),  these  stakeholders  also  acquire  a  residual  interest  in  the 
+company’s operations.  Fourth, if social norms and government regulation 
+63
+cannot perfectly control corporate behavior—a likely scenario—directors’ 
+and  executives’  managerial  decisions  can  generate  external  costs  and 
+benefits for third parties. These externalities give third parties an interest in 
+how the company is managed.  
+64
+These  flaws  in  the  first  two  claims  traditionally  used  to  defend 
+shareholder value theory have led contemporary commentators to rely ever 
+more heavily on a third justification: that shareholder value is necessary to 
+ensure managerial accountability.  According to this third view, the only 
+65
+way to ensure managerial accountability is to hold managers’ collective feet 
+to the fire by demanding they maximize a single quantifiable metric. As 
+influential economist Michael Jensen has put it, “telling the manager to 
+maximize current profits, market share, future growth profits, and anything 
+else one pleases will leave the manager with no way to make a reasoned 
+                                                                                                                                                   
+liquidation are subject to different legal rules than operating companies. STOUT, supra note 49, at 39-
+40. 
+61 STOUT, supra note 47 at 39-41.  See also Harbor Finance Partners v. Huizenga, 751 A.2d 879 
+(Del. Ch. 1999) (“…property of the corporation is not typically thought of as personal property of the 
+stockholders…”). 
+62 If a corporation issues debt as well as equity, it is just as correct to say that the debtholder has the 
+right to the corporation’s profits but has sold a call option to the shareholders, as it is correct to say 
+the shareholders have the right to the profits but have sold a put option to the debtholder.  Fischer 
+Black &  Myron Scholes, The Pricing of Options and Corporate Liabilities, 81 J. POL. ECON.  637 
+(1973). 
+63 Blair & Stout, supra note 21, at 1205. 
+64 BAKAN, supra note 23; EDWARD FREEMAN, STRATEGIC MANAGEMENT: A STAKEHOLDER APPROACH 
+(2010).  
+65 One of the central problems of corporate law is the problem of ensuring that directors and 
+executives do not abuse their corporate powers and employ those powers to serve themselves.  In the 
+parlance of economics, this is the problem of “agency costs.”  Jensen & Meckling, supra note 36. 
+Whether corporate directors and executives are viewed as agents of the corporation itself, as agents of 
+the corporation’s shareholders, or agents of some combination of the two, the basic problem remains 
+the same. How do we keep corporate managers from shirking, stealing and running amok?  
+14 
+  
+decision.    In  effect  it  leaves  the  manager  with  no  objective.”   Jensen 
+66
+concluded  that  a  “true  (single  dimensional)  score”  was  essential.  
+67
+According to shareholder value theorists, financial returns to shareholders 
+provide that single metric. For example, law professor Stephen Bainbridge 
+has written that “absent the shareholder wealth maximization norm…the 
+board  would  lack  a  determinant  metric  for  assessing  options.”   This, 
+68
+Bainbridge  fretted,  would  allow  directors  “to  pursue  their  own  self-
+interest… Directors who are responsible to everyone are accountable to no 
+one.”  
+69
+Thus  managerial  accountability  has  emerged  as  the  supposed  chief 
+advantage of shareholder value theory relative to other competing models of 
+the corporation. Yet even this justification has become subject to critical 
+scrutiny in recent years. In the past decade, a host of research institutes, 
+business leaders, and prominent commentators have protested that when 
+shareholder value is defined in terms of share price or other immediately 
+quantifiable metrics,  asking managers to maximize “shareholder value” 
+70
+                                                           
+66 Michael C. Jensen, Value Maximization, Stakeholder Theory and the Corporate Objective 
+Function, 12 BUS. ETHICS Q.  235, 238 (2002). 
+67 Id. at 235. See also Oliver Hart, An Economist’s View of Fiduciary Duty, 43 U.  TORONTO L. J. 299, 
+303 (1993) (a prescription for management to take account of the interests of multiple corporate 
+constituencies “is essentially vacuous, because it allows management to justify almost any action on 
+the grounds that it benefits some group”). 
+68 Stephen Bainbridge, A Duty to Shareholder Value, N. Y. TIMES, Apr. 16, 2015, , 
+http://www.nytimes.com/roomfordebate/2015/04/16/what-are-corporations-obligations-to-
+shareholders/a-duty-to-shareholder-value. Mark Roe has similarly written that allowing managers to 
+consider non-shareholder interests could “leave managers so much discretion that managers could 
+easily pursue their own agenda, one that might maximize neither shareholder, employee, consumer, 
+nor national wealth, but only their own.”  Mark J. Roe, The Shareholder Wealth Maximization Norm 
+and Industrial Organization, 149 U. PA. L. REV. 2063, 2065 (2001). 
+69 Id.  
+70 The idea of “shareholder value” raises the obvious problem of how that value is to be measured.  
+One possible candidate is share price.  Indeed, based on the theoretical notion of a “fundamental 
+value efficient” stock market that perfectly captures the future economic gains from holding shares,  
+see generally Ronald J. Gilson & Reinier H. Kraakman, The Mechanisms Of Market Efficiency, 70 
+VA. L. REV. 549 (1984), Daniel Fischel and Frank (now Judge) Easterbrook famously argued in 1981 
+that directors destroy shareholder value whenever they reject a takeover bid at a premium price. 
+Frank H. Easterbrook & Daniel R. Fischel, The Proper Role of a Target’s Management in 
+Responding to a Tender Offer, 94 HARV. L. REV. 1161 (1981).  By the close of the 20th century, 
+however, the idea that stock market prices always capture fundamental value had been largely 
+abandoned by sophisticated commentators in the face of an enormous and growing empirical and 
+theoretical literature demonstrating this often was not true. See Stout, supra note 24.  Today, experts 
+typically describe market efficiency in terms only of “informational efficiency,” meaning the speed 
+with which prices adjust to new information. See, e.g., Burton G. Malkiel, “Efficient Market 
+Hypothesis”, THE NEW PALGRAVE: A DICTIONARY OF ECONOMICS (John Eatwell, Murray Milgate & 
+Peter Newman eds. 1987); see also QUIGGEN, supra note 24 (describing the idea of an efficient 
+market as a dead “zombie” idea that survives today only in greatly diminished  form.) 
+15 
+  
+generates a host of corporate pathologies, including excessive risk-taking, 
+underinvestment,  reduced  innovation,  increasing  disparities  between 
+executive and rank-and-file pay, and a general focus on short term results at 
+the expense of long-term performance.  An unhealthy managerial focus on 
+71
+immediate results has been accused of driving companies like Motorola  
+72
+and  Hewlett-Packard   to  sacrifice  their  resilience  and  long-term 
+73
+performance  by  restructuring,  selling  assets,  and  cutting  “expenses”  for 
+marketing, R&D, and employee development in order to boost the bottom 
+line. It was suspected of encouraging companies like BP  and Volkswagen  
+74 75
+                                                                                                                                                   
+  Another possibility is to interpret shareholder value not in terms of share price per se but in terms of 
+current shareholders’ satisfaction with that price, as reflected in their willingness to defer to the 
+judgment of the corporation’s board.  Thus Lucian Bebchuk has argued in several articles that it is 
+desirable to give shareholders greater power over boards, so that directors have greater incentive to 
+keep current shareholders happy.  See, e.g., Lucien Ayre Bebchuk, The Case for Increasing 
+Shareholder Power, 118 HARV. L. REV. 833 (2005); Lucien Ayre Bebchuk, The Case for Shareholder 
+Access to the Ballot, 59 BUS. LAW 43 (2003). This view remains controversial (it has even been 
+described as “radical.” see  David Millon, Radical Shareholder Primacy, 10 U. St. Thomas L. J. 1013 
+(2013)), as many of the shareholders whom Bebchuk would empower are hedge funds and actively-
+managed mutual funds that typically hold positions for only a year or two. Indeed, although 
+corporations are perpetual entities, the average holding period for U.S. stocks may be as low as four 
+months. STOUT, supra note 47, at 66. 
+71 See sources cited supra note 28. 
+72 In 2013, Motorola set a goal of cutting $200 billion in expenses by the end of the year, a figure 
+raised to $300 billion by 2014 by selling its corporate campus. John Pletz, Motorola Solutions to 
+shrink—again, CRAIN’S CHI. BUS., Aug. 5, 2014, 
+http://www.chicagobusiness.com/article/20140805/BLOGS11/140809915/motorola-solutions-to-
+shrink-again.  In 2015, Motorola then announced plans to cut 25% of its 2000 Chicago employees as 
+part of an “overall restructuring.” Motorola Mobility Cutting 500 Jobs in Chicago, NBC CHI. Aug. 
+13, 2015,, http://www.nbcchicago.com/blogs/inc-well/Motorola-Mobility-Cutting-500-Jobs-in-
+Chicago-321796502.html. 
+73 Like Motorola, HP cut 30,000 jobs to reduce expenses, then laid off another 55,000 workers as part 
+of a restructuring, producing a short term increase in share price.  Michael Liedtke, Hewlett-Packard 
+to cut up to 30,000 jobs in effort to shave expenses, GLOBAL NEWS, Sept. 16, 2015, 
+http://globalnews.ca/news/2223329/hewlett-packard-to-cut-up-to-30000-jobs-in-effort-to-shave-
+expenses/; Sue Chang, H-P shares rally after company announces big job cuts, MARKET PULSE Sept. 
+16, 2015, , http://www.marketwatch.com/story/h-p-shares-rally-after-company-announces-big-job-
+cuts-2015-09-16.  HP stock is now down 30% despite the layoffs of the past three years, ibid.  It 
+continues to cut jobs in “an effort to reduce costs and protect the bottom line for shareholders,” 
+Richard Milam, Hewlett-Packard and Others Reduce Labor Costs by Restructuring Workload, US 
+DAILY REV., Sept. 30, 2015, http://usdailyreview.com/hewlett-packard-and-others-reduce-labor-costs-
+by-restructuring-workload/. 
+74 David Brodwin, The Costs of Corporate Corner-Cutting: Energy disasters are a reminder of why 
+good regulations are so important, US NEWS, Sept. 5, 2014, , 
+http://www.usnews.com/opinion/economic-intelligence/2014/09/05/bp-and-pacific-gas-and-electric-
+show-corner-cutting-causes-disaster;  John M. Broder, BP Shortcuts Led to Gulf Oil Spill, Report 
+Says, THE N. Y. TIMES, Sept. 14, 2011, 
+http://www.nytimes.com/2011/09/15/science/earth/15spill.html; Steve Tobak, BP’s Gulf Oil Spill: 
+The Perils of Cutting Corners, CBS NEWS, June 1, 2010, , http://www.cbsnews.com/news/bps-gulf-
+oil-spill-the-perils-of-cutting-corners/. 
+16 
+  
+to cut safety and regulatory corners. It has also been identified as a root 
+cause  of  the  2008  financial  crisis,  when  it  drove  banks  to  make  risky 
+mortgage loans and to leverage themselves to the brink of insolvency and 
+beyond.  
+76
+In response, many supporters of shareholder value have adjusted their 
+stance yet again. They now emphasize that what they mean is “long-term 
+shareholder  value.”  For  example,  in  a  2015  opinion  piece  Steven 
+Bainbridge wrote that “the law requires corporate directors and managers to 
+pursue long-term, sustainable shareholder wealth maximization.”  In the 
+77
+2009 case of In Re Citigroup Inc. Shareholder Derivative Litigation, which 
+arose  from  the  2008  financial  crisis,  Delaware  Chancellor  William  B. 
+Chandler  opined  that  “[u]ltimately,  the  discretion  granted  directors  and 
+managers allows them to maximize shareholder value in the long term.”  
+78
+Delaware  Supreme  Court  Chief  Justice  Leo  Strine  similarly  described 
+shareholder welfare in a recent law review article as served by “that course 
+of action [that] will best advance the interests of stockholders in the long 
+run.”   The  balance  of  Part  I  examines  this  argument—that  long  term 
+79
+shareholder  value  provides  the  single  quantifiable  metric  needed  to 
+constrain agency costs and hold corporate managers accountable—because 
+it  now  stands  as  the  principal  remaining  intellectual  foundation  for 
+shareholder value theory today. 
+ 
+C.  WHY  LONG-TERM  SHAREHOLDER  VALUE  CANNOT  BE 
+USED  TO  HOLD  MANAGERS  ACCOUNTABLE:  THE 
+PROBLEM OF UNCERTAINTY 
+On first inspection, the idea of defining “shareholder value” in terms of 
+the  long  term  seems  eminently  sensible.  Corporations,  after  all,  are 
+                                                                                                                                                   
+75 Volkswagen makes a monumental blunder, FT VIEW Sept. 21, 2015, , 
+http://www.ft.com/intl/cms/s/0/5828e3c6-6051-11e5-9846-de406ccb37f2.html#axzz3qfZHsOlm. 
+76 THE FINANCIAL CRISIS INQUIRY COMMISSION, THE FINANCIAL CRISIS INQUIRY REPORT: FINAL 
+REPORT OF THE NATIONAL COMMISSION ON THE CAUSES OF THE FINANCIAL AND ECONOMIC CRISIS IN 
+THE UNITED STATES, SECURITIES AND EXCHANGE COMMISSION (2011), 
+https://www.gpo.gov/fdsys/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf.  
+77 Stephen Bainbridge, supra note 68 (emphasis added). 
+78 In Re Citigroup Inc. Shareholder Derivative Litigation, 964 A.2d 106, 139 (Del. Ch.  2009). 
+79 Leo E. Strine, Jr., The Dangers of Denial: The Need For A Clear-eyed Understanding of the Power 
+and Accountability Structure Established by the Delaware General Corporation Law, WAKE FOREST 
+L. REV. 761, 764 (2015)(emphasis added). See also Millon, supra note 70, at 1018 (describing 
+“traditional” shareholder primacy that focuses on long-term performance); Schwartz, supra note 26 
+(describing corporation’s purpose as long-run value creation). 
+17 
+  
+perpetual entities, capable of earning profits and paying dividends into an 
+indefinite future.  Throughout history they have pursued projects that lasted 
+80
+years, decades, or even centuries. In the Middle Ages, corporate entities 
+constructed  monasteries,  cathedrals  and  universities.  In  the  seventeenth 
+century they opened continents for trade. In the eighteenth, nineteenth, and 
+twentieth centuries they built canals, railroads, and electrical grids. Today 
+they are developing self-driving cars and commercial space transport.  
+81
+Yet once we shift from defining “shareholder value” in terms of stock 
+price or similar short term metrics, to an amorphous concept like long term 
+shareholder value, the claim that shareholder value theory offers a superior 
+way to hold managers accountable begins to collapse. This is because, once 
+we  abandon  the  fundamental-efficient-markets  presumption  that  today’s 
+stock  price  perfectly  captures  intrinsic  value,   the  corporate  entity’s 
+82
+perpetual nature raises insoluble barriers to objectively quantifying “long-
+term  value.”  Over  time,  a  successful  business  corporation  provides 
+shareholders  with  a  stream  of  financial  returns  in  the  form  of  share 
+appreciation  and  dividends  paid.  Shareholder  value  theory  blithely 
+presumes this stream of future returns can be observed, neatly summed up, 
+and  discounted  to  present  value,  so  as  to  reach  a  single  agreed-upon 
+number.   This  presumption  unrealistically  assumes  away  one  of  the 
+83
+business world’s most endemic challenges: the problem of uncertainty. 
+The  concept  of  uncertainty  is  key  to  understanding  why  long-term 
+shareholder value is a vague and indeterminate goal that cannot be used to 
+hold  managers  accountable.  Although  laypersons  often  use  “risk”  and 
+“uncertainty”  as  synonyms,  finance  economists  view  them  as  different 
+                                                           
+80 Schwartz, supra note 26 at 773. 
+81 See generally Lynn A. Stout, The Corporation as Time Machine: Intergenerational Equity, 
+Intergenerational Efficiency, and the Corporate Form, 38 SEATTLE U. L. REV. 685, 696-98 (2015). 
+82 See supra note 70 (discussing decline of fundamental value efficiency idea). 
+83 Discounted cash flow (DCF) is an example of this valuation technique. Finance theory teaches that 
+the further into the future a payment is received, the more it should be discounted.  On this basis 
+some might argue that it is efficient for managers to focus on short-term results.  Yet corporations are 
+perpetuities; short-term strategies that harm long-term results reduce not just one future payment, but 
+an infinite stream of future payments.  This makes long-term results more significant. For example, 
+assuming a 5% annual discount rate, a company with annual profits of $1,000 has a present value of 
+$20,000.  A corporate investment that doubles future profits to $2,000 annually increases the 
+company’s present value to $40,000--a 100% increase in value that is largely attributable to increased 
+profits received five or more years out.  Andrew Schwartz provides an extensive discussion of 
+additional reasons why we should apply a lower discount rate to future corporate profits than we 
+would apply to future payments received by an individual.  Schwartz, supra note 26, at 786-791. 
+18 
+  
+concepts.  Risk refers to variation in future outcomes where the nature of 
+84
+the  possible  outcomes  and  their  statistical  probabilities  are  both  fully 
+known. A coin toss is merely risky: although we do not know if the result 
+will be heads or tails, it must be one or the other, and  we know with 
+certainty the probability of each is 50 percent. Uncertainty, in contrast, 
+describes  situations  where  either  the  possible  future  outcomes,  the 
+probabilities of those outcomes, or both, remain to some extent unknown. 
+Whether Apple will thrive without former CEO Steve Jobs, and whether 
+Google  will  profit  from  developing  self-driving  vehicles,  are  questions 
+involving not only risk but uncertainty.  
+85
+Investors, analysts, and finance professors  can employ a number of 
+comfortably familiar mathematical techniques to value economic ventures 
+that are merely risky. But they have not yet figured out how to deal with 
+uncertainty.  Uncertainty allows subjective disagreement. Rational people 
+86
+cannot disagree on the probable results of a coin toss, but they can disagree 
+about whether Apple will thrive or fail without Steve Jobs.  Uncertainty and 
+87
+disagreement  make  the  task  of  valuing  an  ongoing  business  venture 
+notoriously difficult and subjective. This is evidenced by the variety of 
+different and competing valuation techniques–book value, discounted cash 
+flow, earnings multiples, etc.–described in finance texts.  Each technique, 
+88
+moreover,  requires  the  person  doing  the  valuing  to  make  numerous 
+assumptions. Are earnings better described by  EBIT or EBITDA? Will 
+profits increase, decrease, or remain steady? What discount rate should be 
+applied? Uncertainty allows even experts to disagree in their answers.  And 
+the further they try to look into the future, the murkier the future becomes. 
+The  reality  of  uncertainty  undermines  the  claim  that  demanding 
+corporate directors and executives to maximize long-term shareholder value 
+somehow adds clarity or rigor to the messy business of gauging whether 
+managers are doing a good job. Once we attempt to attach any number other 
+than today’s market  price to  a company’s shares, the number becomes 
+subject  to  disagreement and manipulation.  The CEO claims her chosen 
+                                                           
+84 The distinction is often attributed to economist Frank Knight.  See FRANK F. KNIGHT, RISK, 
+UNCERTAINTY, AND PROFIT (1921). 
+85 See generally Edward R. Miller, Risk, Uncertainty, and Divergence of Opinion, 32 J. Fin. 1151 
+(1977). 
+86 See generally NASSIM N. TALEB, THE BLACK SWAN: THE IMPACT OF THE HIGHLY IMPROBABLE (2d 
+ed., 2010).  
+87 See generally Miller, supra note 85; Lynn A. Stout, Are Stock Markets Costly Casinos: 
+Disagreement, Market Failure, and Securities Regulation 81 VA. L. REV. 613 (1995). 
+88 SIMON Z. BENNINGA & ODED SARIG, CORPORATE FINANCE: A VALUATION APPROACH (1997).  
+19 
+  
+business strategy will maximize shareholder value “in the long run;” the 
+activist hedge fund manager argues his proposed restructuring will better 
+“unlock shareholder value.” There is no way to prove who is correct. Both 
+claims are unfalsifiable until the future arrives. 
+This means that, far from supplying an objective metric for holding 
+corporate  managers  accountable,  “long-term  shareholder  value”  may 
+provide no observable metric at all. The concept simply cannot perform the 
+function that supposedly justifies it as a theory of corporate purpose. It 
+cannot provide a way to objectively assess managerial performance. Which 
+raises the question: what is left of the case for shareholder value theory? 
+A diehard defender of shareholder value as the corporate maximand 
+might  reply  that,  whatever  its  weaknesses,  long-term  shareholder  value 
+remains the best possible corporate objective because it is better to use an 
+imperfect  tool  than  no  tool  at  all.     This  argument  presupposes  that 
+89
+shareholder  value  theory  is,  in  fact,  the  only  tool  available  to  monitor 
+corporate performance and hold managers accountable. In the next section 
+we challenge this presupposition. We argue that  an alternative tool  for 
+assessing  corporate  performance—one  that  honors  the  complexities  of 
+corporations and board decisionmaking, and allows for better managerial 
+accountability  and  monitoring—is  indeed  available.  That  alternative  is 
+systems thinking. 
+ 
+PART II. THE SYSTEMS ALTERNATIVE 
+ 
+A.  WHAT IS SYSTEMS THEORY? 
+Systems theory is a design and performance assessment methodology 
+routinely used in many fields, including engineering, biology, computer 
+science,  and  (significantly)  management  science.   Some  readers  may 
+90
+                                                           
+89 It is worth noting that, as a matter of logic, this is incorrect.  It is better to use no tool to remedy a 
+headache, than to apply the chainsaw that might be the only tool at hand. 
+90 See, e.g., F.  CAPRA & P. L. LUISI, THE SYSTEMS VIEW OF LIFE: A UNIFYING VISION (2014); DRAPER 
+L. KAUFFMANN, JR., SYSTEMS ONE: AN INTRODUCTION TO SYSTEMS THINKING 1 (1981); J. 
+GHARAJEDAGHI, SYSTEMS THINKING: MANAGING TO CHAOS AND COMPLEXITY (1999); D. K. 
+HITCHENS, ADVANCED SYSTEMS THINKING (2003); DONELLA H.  MEADOWS, THINKING IN SYSTEMS: A 
+PRIMER (Diana Wright ed., 2008). See also Lynn M. LoPucki, Systems Approach to Law, 80 
+CORNELL L. REV. 479 (1997) (applying systems analysis to legal systems). 
+20 
+  
+nevertheless find the term esoteric, in part because experts in each of these 
+areas  often  apply  systems  thinking  without  explicating  its  general 
+principles,  and  also  tend  to  employ  their  own  unique  vocabulary.   For 
+91
+example,  systems  theory  goes  by  the  name  of  cybernetics  in  controls 
+engineering;  systems  analysis  in  computer  programming;  medicine  in 
+human biology; and operations analysis in management research. Moreover, 
+few  texts  describe  basic  principles  outside  of  some  highly  specialized 
+context (e.g., safety engineering or evolutionary biology).  Nevertheless, 
+92
+whatever the field, certain basic principles are employed to design, assess, 
+and improve the performance of any system. 
+What, then, is a “system”? A system has been defined as any set of 
+distinct but interconnected elements or parts that operate as a unified whole 
+to serve a function or purpose.  Consider, for example, the humble coffee 
+93
+machine. Its different parts—filter, water reservoir, heating element, coffee 
+pot—are distinct, but operate together for the purpose of brewing coffee. 
+The human body also is a system. Its elements include lungs, circulatory 
+system, musculature, skeletal frame, etc. Each is distinct, but the elements 
+interact  with  each other to  function as a unified organism.  In  contrast, 
+pebbles randomly scattered along the street do not constitute a system. They 
+are not interconnected, nor do they form a cohesive whole that serves a 
+particular function or purpose. 94   
+Systems accordingly have certain core characteristics: (1) they consist 
+of distinct elements;  (2) these elements are coordinated and interconnected; 
+95
+and (3) the elements operate as a unified whole to serve a given function or 
+purpose. In addition, a fourth core characteristic of systems implicit in the 
+literature,  and  of  critical  importance  for  our  discussion,  is  (4)  systems 
+perform their  function  or purpose  over time.  The coffee machine, it is 
+                                                           
+91 KAUFFMANN, supra note 90, at 1 (systems theory “has revolutionized many fields of science and 
+has had an enormous impact on all our lives, even though most people have never heard of it.”) 
+92 An exception can be found in an accessible guide written by biochemist Donella Meadows, 
+MEADOWS, supra note 90. Meadows was a MacArthur Foundation genius award recipient and lead 
+author of the bestseller Limits to Growth. DONELLA MEADOWS ET AL., THE LIMITS TO GROWTH 
+(1972). Another useful introductory text is KAUFFMANN, supra note 90. 
+93 MEADOWS, supra note 90, at 11.  See also KAUFFMANN, supra note 90, at 1 (“A system is a 
+collection of parts which interact with each other to function as a whole”). 
+94 Following Meadow’s convention, we will generally use the word “function” to refer to nonhuman, 
+evolved systems and the word “purpose” to refer to designed systems. As Meadows notes, and as is 
+arguably the case with corporations, “many systems have both human and nonhuman elements.” 
+MEADOWS, supra note 90, at 15. 
+95 Elements can be tangible or intangible. MEADOWS, supra note 90 at 13.  For example, a senior 
+executive’s knowledge and experience may be an important element of a corporate system. 
+21 
+  
+hoped, will brew coffee not only today, but tomorrow.  
+96
+Systems take many forms. Some systems, such as the coffee machine, 
+are designed. Other systems, like organisms, evolve. Still other systems are 
+hybrids that are both designed and evolved. Examples of hybrid systems 
+include “artificial life” computer programs  and (as we explore in greater 
+97
+detail below) many business corporations.  
+98
+For, while systems theory currently is not a staple of contemporary 
+corporate law and governance discussions, we believe it is especially well-
+suited to the tasks of designing, assessing, and improving the performance 
+of business  firms,  especially those structured  as corporations.  Just as a 
+coffee machine can be viewed as a system, so too can a company. Business 
+corporations  consist  of  separate  yet  interconnected  elements,  including 
+human capital (employees, executives, directors), financial capital (funds 
+raised from operations and from equity and debt investors), and physical 
+capital (plant and equipment, inventory). Each element is distinct and serves 
+a distinct purpose. For example, directors and officers supply managerial 
+expertise; employees supply labor; the physical plant produces goods for 
+sale; and financial capital purchases the labor and raw materials needed to 
+produce more goods. These elements do not exist in isolation vis-à-vis each 
+other. They are interconnected, influencing each other in ways that allow 
+them to operate as a unified whole, separate and apart from their individual 
+selves. This unified whole performs several useful functions: generating 
+goods  and  services,  investment  returns,  and  tax  revenues.  Finally,  it 
+performs these functions over time. Indeed, an incorporated entity in theory 
+can operate in perpetuity.  
+99
+Accordingly, thinking of a company as a system can help us better 
+understand the nature of corporations, their purpose, and the best way to 
+measure and improve their performance. We explore how below. We start 
+by identifying some basic principles of systems theory and examining what 
+                                                           
+96 Meadows offers the following approach for differentiating between systems and things that are (in 
+Meadows’ words) “a bunch of stuff”: First, determine whether one can identify the parts. If yes, then 
+determine whether the parts affect each other.  Third, determine whether “the parts together produce 
+an effect that is different from the effect of each part on its own.” We would add a fourth step; 
+consider whether the effect produced persists “over time…in a variety of circumstances.” Id. at 12,15. 
+97 CHRISTOPHER G.  LANGTON, ARTIFICIAL LIFE: AN OVERVIEW (1995). 
+98 See infra Part II.B (discussing hybrid nature of corporations). 
+99 See, e.g., DEL. CODE ANN. tit. 8, § 102(b)(5) (giving perpetual existence to a corporation); N.Y. 
+BUS. CORP. § 402(a)(9) (McKinney 2013) (the certificate of incorporation shall include “[t]he 
+duration of the corporation if other than perpetual”). 
+22 
+  
+those principles teach about the nature of firms. We then consider what 
+systems theory tells us about the question of corporate purpose. Finally, we 
+discuss what can be learned from systems theory about ways to measure 
+and  improve  corporate  performance  and  to  hold  corporate  managers 
+accountable.  
+ 
+B.  SYSTEMS THEORY AND THE NATURE OF THE CORPORATION 
+Perhaps the first and most fundamental principle in systems theory is 
+that systems are more than the sum of their parts. The individual pieces of a 
+coffee machine, left lying about, do nothing. It is only when these pieces are 
+connected and fitted together properly, and interact with and affect each 
+other, that the machine can brew coffee. 
+This principle applies straightforwardly to business corporations. The 
+individual  elements  that  comprise  the  corporation—physical  assets, 
+intellectual  capital,  financial  resources,  labor—perform  quite  differently 
+when disconnected and disaggregated from each other, than when they are 
+coordinated with each other through the corporate entity. A pile of money, 
+sitting alone, does nothing. It is only when investors’ money is combined 
+and  coordinated  with  intellectual  capital,  physical  capital,  and  human 
+capital, that the money can generate additional wealth for investors (along 
+with goods, services, employment opportunities, and innovations).  The 
+100
+firm, like the coffee machine and other systems, operates as an integrated 
+whole  to  perform  functions  that  its  individual  parts  cannot  perform  in 
+isolation.  
+101
+A second fundamental principle of systems thinking is that systems are 
+fractal, in the sense that it is useful to think of systems as comprised of 
+subsystems, which in turn are comprised of other subsystems, and so on, ad 
+infinitum.   Conversely  a  system  typically  can  also  be  described  as  a 
+102
+subsystem of another larger system. Thus a human being is comprised of 
+organs,  which  are  comprised  of  cells,  which  are  comprised  of  protein 
+                                                           
+100 This is why corporate production often presents what economists call a “team production” 
+scenario. Blair & Stout, supra note 21. 
+101 See MEADOWS, supra note 90, at 12 (“there is an integrity or wholeness about a system and an 
+active set of mechanisms to maintain that integrity. Systems can change, adapt, respond to events, 
+seek goals, mend injuries, and attend to their own survival in lifelike ways, although they may 
+contain or consist of nonliving things. Systems can be self-organizing, and often are self-repairing 
+over at least some range of disruptions. They are resilient, and many of them are evolutionary.”) 
+102 KAUFFMANN, supra note 90, at 2.  
+23 
+  
+molecules, etc. At the same time, an individual can be viewed as part of a 
+family, which is part of a community, which is part of a nation, and so forth.  
+To  keep  the  amount  of  information  needed  to  make  decisions  within 
+manageable  bounds,   systems  thinkers  typically  order  systems  into 
+103
+hierarchies. Any system can be broken down into component subsystems, 
+or  viewed  as  a  subsystem  of  a  larger  system.  A  corollary  is  that  it is 
+essential when applying the systems approach to identify which level of 
+hierarchy is most suitable for analyzing the problem at hand.    
+104
+Again, this lesson applies to corporations. A corporation can be viewed 
+as comprised of a number of different subsystems, such as its managerial 
+team;  its  production  process  and  facilities;  its  marketing  team;  and  its 
+financial operations. Each subsystem is comprised of elements that interact 
+with  each  other  to  perform  some  subpurpose  (raising  financing, 
+manufacturing products, generating sales). Conversely, a corporation can be 
+viewed as part of a larger system (e.g., a corporate conglomerate, or a 
+nation’s economy). For present purposes—that is, for analyzing the nature, 
+purpose,  and  best  way  of  monitoring  the  performance  of  business 
+corporations—we treat the corporate entity as the system of interest and the 
+appropriate level of analysis.  
+105
+A third general principle of systems theory that flows from the first and 
+second principles is that the overall health and continued functioning of a 
+system depends on the continued health and functioning of each of its 
+essential subsystems. Each subsystem must work for the whole system to 
+work properly, and changes in the elements or relationships of a subsystem 
+can affect the system as a whole. If a coffee machine’s heating element 
+breaks, for example, the coffee machine can no longer brew coffee. 
+                                                           
+103 As Meadows explains it, although the boundaries between systems are not real, it is acceptable to 
+simplify analysis this way because “relationships within [systems] are denser and stronger than 
+relationships between [systems]” and “[w]hen hierarchies break down, they usually split along their 
+subsystem boundaries.  Much can be learned by taking apart systems…and studying them 
+separately.” MEADOWS, supra note 90, at 83. 
+104 Id., at 84 (“if you have a liver disease, for example, a doctor usually can treat it without paying 
+much attention to your heart or your tonsils (to stay on the same hierarchical level) … or the DNA in 
+the nuclei of the liver cells (to move down several levels)”). 
+105 An unwillingness to confine analysis to a manageable level may have contributed to the decline of 
+interest in “structural functionalism” in sociology.  Structural functionalism, associated with theorists 
+like Talcott Parsons and Robert K. Merton, attempted to apply systems thinking to understanding 
+entire societies. LopuckI, supra note 90 at 483-85. It thus fell into what Meadows has described as the 
+“trap” of “making [systems] boundaries too large… result[ing] in enormously complicated analyses, 
+which produce piles of information that may only serve to obscure the answers to the questions at 
+hand.” MEADOWS, supra note 90, at 98. 
+24 
+  
+Corporations similarly depend on all their subsystems to function.  If 
+equity or debt investors refuse to supply funds; if employees stop manning 
+the production facilities; if executives mismanage; the entire corporation 
+may soon cease to function. As we discuss in greater detail in Part II.D, this 
+insight from systems thinking has important implications for how we should 
+go about the business of measuring corporate performance.  
+106
+Finally, a fourth important lesson from systems theory is that, to fulfill 
+its  purpose  or  function,  a  system  must  survive.  Recall  that  a  basic 
+characteristic of systems is that they perform purposes or functions over 
+time. The time period necessary to fulfill the system’s purpose or function 
+may be quite short (consider the fruit fly or the hand grenade). But it may 
+also be quite long. This is especially likely to be true in the case of business 
+firms organized as perpetual corporate entities. For example, the Hudson 
+Bay  Company  has  been  operating  continuously  since  1670;   General 
+107
+Electric (a corporate adolescent by comparison) was founded in 1892.  
+108
+When systems must operate over long periods of time to perform their 
+functions or purposes, system survivability—or, to use a more common 
+label, sustainability—becomes a desideratum. 
+Systems thinkers accordingly devote considerable attention to questions 
+of sustainability. This focus is apparent in the systems literature, which 
+identifies multiple strategies to improve the odds a system will survive long 
+enough to achieve its intended purpose. Because sustainability may be a 
+particularly desirable attribute for perpetual entities like corporations, we 
+conclude this section by exploring some common sustainability strategies in 
+greater detail. 
+One straightforward sustainability mechanism found in many systems is 
+redundancy—that  is,  devoting  more  resources  to  some  purpose  than 
+necessary under current conditions.  Redundancy is often seen, for example, 
+in engineering, where it is common practice to employ backup systems, or 
+make structures stronger than they need to be. Redundancy is inefficient in 
+a narrow sense, as redundant resources seem “wasted” as long as conditions 
+remain stable. In an uncertain world, however, conditions may change, and 
+redundant resources prove essential for the system’s survival. This explains 
+                                                           
+106 See infra Part II.D. 
+107 Our History, HUDSON BAY COMPANY, https://www2.hbc.com/hbc/history/ (last visited Jan. 18, 
+2016).  
+108 Our Company History, GENERAL ELECTRIC, https://www.ge.com/about-us/history/1878-1904 (last 
+visited Jan. 18, 2016).  
+25 
+  
+why redundancy is often seen in organisms. (If efficiency were all evolution 
+cared about, people would not become overweight, or have two kidneys.)  
+109
+A  second  sustainability  mechanism  found  in  many  systems  is 
+homeostasis—that is, information and control feedback loops that allow the 
+system to adjust to disturbances in its external environment, and stay within 
+the  parameters  necessary  for  continued  functioning.   For  example,  the 
+110
+dihedral (“V”-shaped) wings of aircraft provide homeostasis. When a wing 
+dips in flight, it tends to rebound. Organisms similarly use feedback loops 
+to achieve homeostasis; hunger is a feedback mechanism that prompts an 
+organism to eat when running short on calories. Systems theorists have 
+something of an obsession with feedback loops, which can be stabilizing or 
+destabilizing  (“runaway”  feedback  loops),  and  may  have  limits  or 
+breakdown points.  (Dihedral wings alone are unlikely to save an aircraft 
+111
+turned upside down.) 
+Finally, a third sustainability mechanism found in some systems is the 
+capacity for self-organization—the ability for the system itself to change 
+(“to learn, diversify, complexify, evolve”)  in response to shifts in the 
+112
+external  environment  that  might  otherwise  overwhelm  the  system’s 
+feedback loops, and threaten the system’s survival. For example, birds are 
+warm-blooded, but many species do not rely only on homeostasis to avoid 
+freezing; they have also evolved the ability to fly south for winter.  
+Business firms can, and often do, exhibit redundancy, homeostasis, and 
+self-organization. For example, it is common for corporations to employ 
+redundancy by maintaining an “equity cushion” (holding more assets than 
+necessary  to  meet  liabilities).  Financial  controls  that  document  rising 
+                                                           
+109 Put differently, redundancy appears inefficient in a static analysis that presumes conditions cannot 
+change.  A dynamic analysis that acknowledges uncertainty and the possibility of change makes 
+redundancy look more efficient. Moreover, although it might be argued that in perfectly competitive 
+markets companies might find it difficult to invest in redundancy just as they might find it difficult to 
+invest in innovation, see WILLIAM J. BAUMOL & ALAN S. BLINDER, ECONOMICS: PRINCIPLES AND 
+POLICY 607 (4th ed. 1988) (discussing argument that perfect competition can make innovation 
+difficult), economists recognize that many business firms operate in markets that are not perfectly 
+competitive, id. at 611 (“Most productive activity in the United States, as in any advanced industrial 
+society, can be found between the two theoretical poles [of] perfect competition and pure 
+monopoly”). 
+110 See KAUFFMANN, supra note 90, at 4-12. 
+111 MEADOWS, supra note 90, at 40 (“Every balancing feedback loop has its breakdown point, where 
+other loops pulled the stock away from its goal more strongly than it can pull back”); see also 
+KAUFFMANN, supra note 90, at 13 (“there are limits to the amount and kind of change which any 
+active system can deal with”). 
+112 MEADOWS, supra note 90, at 79. 
+26 
+  
+inventories or declining sales figures are homeostatic information feedback 
+loops that alert companies when they must reduce production to remain 
+profitable. Finally, firms can self-organize by merging, moving to other 
+jurisdictions, or amending bylaws and charters to evolve new governance 
+structures (e.g., adopting a classified board or a dual class share structure) in 
+response to changes in the regulatory or market environment.  In effect, 
+113
+their legal form “evolves.” 
+Companies  that  embrace  these  sorts  of  sustainability  mechanisms 
+exhibit  resilience:  the  ability  to  recover  and  continue  functioning  after 
+encountering a destabilizing and potentially destructive force.  Citibank, 
+114
+BP, and JPMorgan were each able to recover after unforeseen destabilizing 
+events—the subprime mortgage crisis, Gulf oil spill, and “London whale” 
+fiasco, respectively.  Enron and Lehman Brothers proved too fragile for the 
+115
+shocks  they  encountered.  We  discuss  the  implications  of  resiliency  for 
+corporate performance in greater detail in Part II.D. 
+In sum,  at  least  four basic principles from  systems theory apply to 
+corporate entities if we think of them as systems: (1) the whole of the 
+corporate system is more than the sum of its parts; (2) the corporate system 
+can be viewed as composed of subsystems and also as part of a larger 
+system, making it essential to choose the appropriate level of analysis in 
+decisionmaking;  (3)  the  health  of  the  corporate  system  depends  on  the 
+                                                           
+113 See infra text accompanying note 193-195 (discussing how the corporate sector is self-organizing 
+in response to the rise of shareholder value theory by adopting internal governance rules that insulate 
+corporate entities from shareholder demands, e.g. share classes); Lynn A. Stout, On the Rise of 
+Shareholder Primacy, Signs of its Fall, and the Return of Managerialism (In the Closet) 36 SEATTLE 
+U. L. REV. 1169 (2013) (discussing how public companies are reorganizing in response to appearance 
+and empowerment of activist investors).. Self-organization allows systems to change, evolve, and 
+sometimes to create whole new structures, responding in diverse and complex ways to meet the 
+changing needs of their environments and constituents. Innovation, entrepreneurship, and 
+intrapreneurship are all examples of firm self-organization. See Tamara C. Belinfanti, Contemplating 
+the Gap-Filling Role of Social Intrapreneurship, 94 OREGON L. REV. 67 (2015). 
+114 MEADOWS, supra note 90 at 78 (“Systems need to be managed not only for productivity or 
+stability, they also need to be managed for resilience—the ability to recover from perturbation, the 
+ability to restore or repair themselves”). 
+115 Jonathan Berr, $7B Penalty Doesn’t End Citigroup’s Legal Woes (July 14, 2014, 1:49 PM), 
+http://www.cbsnews.com/news/citigroups-7-billion-penalty-doesnt-end-banks-legal-woes/; Miyoko 
+Sakshita, Four Years After Gulf Oil Spill, BP is Recovering Faster Than Environment, 
+HUFFINGTONPOST (Mar. 26, 2014, 4:50 PM), http://www.huffingtonpost.com/miyoko-sakashita/gulf-
+oil-spill_b_5036370.html; Mary Bottari, JP Morgan Gets an Award for London Whale Fiasco, Will 
+Schneiderman Harpoon the Corruption?, THE CENTER FOR MEDIA AND DEMOCRACY (Mar. 26, 2013, 
+7:34 AM), http://www.prwatch.org/news/2013/03/12033/jp-morgan-gets-award-london-whale-fiasco-
+will-schneiderman-harpoon-corruption (JPMorgan Chase employee accepted a “best crisis 
+management” award by an investor relations magazine). 
+27 
+  
+health of each of its critical subsystems; and (4) to perform over time, the 
+corporate system must be sustainable. 
+ 
+C.  SYSTEMS THEORY AND THE QUESTION OF CORPORATE 
+PURPOSE 
+As we have described, systems theory offers a variety of insights to 
+benefit our understanding of the nature of corporate entities. But some of 
+the most valuable lessons systems thinking offers corporate law scholarship 
+lies in what it teaches about how we might think about corporate purpose. 
+As discussed in Part I, for most of the past three decades, experts in the 
+Anglo-American world have embraced the notion that business corporations 
+have but one goal: to maximize shareholder value.  Systems thinking, in 
+116
+contrast, offers a very different perspective—one that offers support for 
+some of the competing models of the corporation surveyed in Part I.A. For 
+systems theory teaches, first and foremost, that systems not only can but 
+typically do serve more than one purpose. 
+Consider again the coffee machine. One purpose of a coffee machine is, 
+obviously, to brew coffee. But anyone designing a coffee machine is likely 
+to have other goals in mind as well. In addition to being able to brew coffee, 
+the coffee machine also should be energy efficient; have a beautiful design; 
+not be too expensive; and not occupy too much counter space. Finally but 
+fundamentally, the machine should be durable. (As Meadows puts it, “[a]n 
+important  function  of  almost  every  system  is  to  ensure  its  own 
+perpetuation.”)   
+117
+Multiple purposes are the rule, not the exception, in systems.  Indeed, it 
+is hard to think of any designed system whose designer would not have had 
+more than one goal in mind. This naturally raises the question: if even a 
+simple coffee machine has multiple purposes, is it not reasonable to believe 
+that a system as complex as a corporation also might serve more than one 
+purpose?  
+Corporations provide investment returns to shareholders.  They also 
+make interest payments to debtholders; pay salaries to employees; provide 
+revenues to suppliers; pay taxes to governments; provide goods and services 
+                                                           
+116 See supra Part I.A. 
+117 MEADOWS, supra note 90 at 15. 
+28 
+  
+to consumers; and make technological breakthroughs that benefit future 
+generations. These are all legitimate and beneficial outcomes of corporate 
+activity.   There  is  no  logical  reason  (apart  from  the  accountability 
+118
+argument discussed in Part I.C) to choose only one beneficial outcome as 
+important, and demote all others.  Systems theory accordingly challenges 
+119
+shareholder value theory’s fundamental assumption of a singular, uniform 
+corporate goal, and instead supports the view that corporate purpose need 
+not be homogenous.  
+120
+At the same time, it inevitably raises the question: how, then, should we 
+determine a corporate entity’s purpose? One obvious way to think about the 
+purposes of a designed system is in terms of the intentions of the person or 
+persons  who  designed  it.  The  coffee  machine,  for  example  might  be 
+designed to brew coffee quickly and efficiently while looking attractive and 
+occupying minimal counter space. The intentions of the coffee machine’s 
+designer delineate its purposes. 
+Who “designs” corporations? Perhaps most fundamentally, corporate 
+entities  are  designed  and  created  by  the  states  whose  laws  make 
+incorporation  possible.   In  this  sense  systems  thinking  reinforces  the 
+121
+concession/state franchise model of the corporation.  Beyond the state, 
+122
+however, one might also say the corporation is designed by the entrepreneur 
+who drafts and files the corporate charter (often with the aid of lawyers who 
+help select the charter’s terms).  In addition, one could say the corporation 
+123
+is  designed by the individuals who serve  as its board of directors  and 
+executive team. Finally, creating a business corporation usually requires 
+investment capital, which comes from equity and debt investors. To the 
+                                                           
+118 Moreover, to ensure the company will continue to provide these benefits, durability or 
+sustainability may itself be a desirable goal for some corporate entities.  We explore this possibility in 
+greater detail infra text accompanying note 138–40. 
+119 Systems theory accordingly lends credibility to alternative models of corporate purpose, like 
+stakeholder models or team production models that allow for the possibility that corporations might 
+serve multiple constituencies.  See, e.g., Blair & Stout, supra note 21 (team production model); 
+Edward R. Freeman, Stockholders and Stakeholders: A New Perspective on Corporate Governance, 
+25 CAL. MGMT. REV. 88 (1993)(stakeholder model). 
+120 See EASTERBROOK &  FISCHEL, supra note 59. See generally Michael Klausner, The Contractarian 
+Theory of Corporate Law: A Generation Later, 31 J. Corp. L.  779 (2006). 
+121 See Ciepley, supra note 41 (describing corporate entities as “franchise governments” designed by 
+the state); Henry Hansmann & Reinier Kraakman, The Essential Role of Organizational Law, 110 
+YALE. L.J.387 (2000) (describing how corporate entities need state law to exist and cannot be formed 
+by private contracting). 
+122 See supra text accompanying note 41. 
+123 See John C. Coates IV, Explaining Variation in Takeover Defenses: Blame the Lawyers, 89 CAL. 
+L. REV. 1301 (2001) (describing the role played by lawyers in setting the terms of corporate charters). 
+29 
+  
+extent  the  corporation  is  organized  to  appeal  to  potential  creditors  and 
+shareholders, both debt and equity investors might be said to participate in 
+its design. It should be apparent at this point that the shareholder class is 
+only one, and not necessarily the most important, of the many different  
+groups that “design” a corporation and participate in it on a voluntary basis; 
+each of which has its own objectives in mind.  The systems approach 
+124
+consequently echoes many elements of the nexus of contracts model of the 
+firm.  
+125
+But  inquiring  into  designers’  intentions  may  not  be  the  end  of  the 
+inquiry into a designed system’s purpose. A third lesson of systems thinking 
+is that even a designed system may surprise us by exhibiting behaviors and 
+performing functions that were not intended or anticipated by its designers; 
+automobiles are designed for transportation, but also prove unfortunately 
+effective  at  causing  injury.  Moreover,  if  a  designed  system  has  self-
+organizing  features,  its  functions  may  change  as  it  evolves.  Even  in 
+designed systems, “[s]ystem purposes need not be human purposes and are 
+not necessarily those intended by any single actor within the system.”  
+126
+When we observe a system, we may find the functions it actually performs 
+to be quite different from what its designers intended.  
+127
+This insight is consonant with the entity approach to thinking about 
+                                                           
+124 A shareholder value theorist might argue shareholders play the major role because companies need 
+to raise funds by selling equity.  But as forms of team production, companies also need to attract 
+funds from creditors, human capital from executives, employees, etc.  Blair & Stout, supra note 21. 
+125 See supra text accompanying notes 39-40.  Because corporations have many designers, their 
+intended purpose may vary depending on the intentions of the particular designer in question.  As a 
+normative matter, when the objectives of different designers clash, which designer’s goals should 
+prevail? Like most corporate governance scholarship, this Article adopts the public policy approach 
+of focusing on overall social welfare. See Hansmann & Kraakman, supra note 18, at 444-49 
+(suggesting that “all thoughtful people” believe corporations ought to be run in the interests of society 
+as a whole). From this perspective it makes little sense to define corporate purpose only in terms of 
+the intentions of the entrepreneurs who start companies, or the executives who run them, or the equity 
+and debt investors who finance them.  Our concern is with social welfare writ large. This perspective 
+suggests that the corporate designers whose goals matter most may be the political states whose laws 
+create and regulate corporate entities. Elsewhere, one of the authors has argued that a social welfare 
+analysis of corporate purpose should also take into account the welfare of future generations. Stout, 
+supra note 81 at 84-85 
+126 MEADOWS, supra note 90 at 15. 
+127 This is not always a bad thing.  Systems can surprise us in good ways.  For example, Cynthia 
+Estlund has argued that large corporations, by bringing together employees from a wide range of 
+backgrounds, break down racial, ethnic, and religious barriers and promote greater social integration.  
+CYNTHIA ESTLUND, WORKING TOGETHER: HOW WORKPLACE BONDS STRENGTHEN A DIVERSE 
+DEMOCRACY (2003). 
+30 
+  
+corporations.   It  also  has  interesting  implications  for  identifying  the 
+128
+functions of corporations, which are hybrid systems with both designed and 
+self-evolved  characteristics.   It  recommends  that  we  look  at  what 
+129
+corporations do, not only at what academics, judges, or executives say they 
+do  or  ought  to  do.  The  rhetoric  of  shareholder  value  peppers  the 
+contemporary scholarly literature, and can also be found in policy reports 
+and  the  dicta  of  some  judicial  opinions.   Yet  business  corporations 
+130
+continue to pursue strategies that seem clearly inconsistent with maximizing 
+accounting profits or share price: rejecting premium takeover bids, adopting 
+poison pills and dual class share structures, resisting activist shareholders’ 
+demands.   Some defenders of shareholder value try to resolve the tension 
+131
+between shareholder value theory and corporate behavior by speculating 
+that such strategies must maximize shareholder wealth in the (conveniently 
+unobservable) “long run.”  Others acknowledge the gap between theory 
+132
+and practice by asserting that managers are running amok, and corporate 
+law must be reformed to constrain them.  Systems theory does not directly 
+133
+answer the question of whether the gap between shareholder value theory 
+and actual corporate behavior is a good thing or bad thing. It does, however, 
+caution us to pay close attention to the difference.   
+Finally, systems theory teaches that what we observe about a system’s 
+apparent purpose will depend on our level of analysis—what level in the 
+system hierarchy are we looking at? Systems are made up of subsystems, 
+and subsystems have subpurposes that can be at odds with the system’s 
+overall purpose. The purpose of the human circulatory system is to move 
+blood; the purpose of the human skin is to contain the other organs of the 
+body.  If the skin is breached and the circulatory system continues to move 
+blood,  you  might  bleed  to  death.  It  is  important  not  to  focus  only  on 
+                                                           
+128 See supra text accompanying notes 34-36. Recall Justice Brandeis’ description of the corporation 
+as a “Frankenstein monster,” id. 
+129 See STOUT, supra note 47, at 23-24.  
+130 See supra text accompanying notes 47-48. 
+131 See infra,  text accompanying notes 191-199. 
+132 Millon, supra note 70, at 1013. See, e.g., Steven Greenhouse, How Costco Became the Anti-Wal-
+Mart, N. Y. TIMES, July 17, 2005 (Costco’s CEO states “On Wall Street, they’re in the business of 
+making money between now and next Thursday . . . we can’t take that view. We want to build a 
+company that will still be here 50 and 60 years from now.”); James B. Stewart, Amazon Says Long 
+Term and Means It, NEW YORK TIMES (Sep. 16, 2011) (Amazon CEO issued a manifesto stating “It’s 
+all about the long term,” explaining why Amazon is spending profits on long-term growth and 
+customer support). 
+133 See Bebchuk, The Case for Increasing Shareholder Power and Bebchuk, The Case for 
+Shareholder Access to the Ballot, supra note 72; Lucien Arye Bebchuk, The Myth that Insulating 
+Boards Serves Long-Term Value, 113 COLUMBIA L. REV. 1637 (2013). 
+31 
+  
+promoting  the  purpose  of  a  single  subsystem,  if  we  care  about  the 
+functioning of the system as a whole.  When a single subsystem’s goals 
+134
+dominate, overall system function can suffer. 
+Thus a  fourth and, we believe, critical lesson that systems thinking 
+offers  on  corporate  purpose  is  that  the  overall  purpose  or  goal  of  the 
+corporate system should not be subordinated to the goals of one of its 
+subsystems. This observation cautions against placing exclusive emphasis 
+on the goals of shareholders, as shareholder value theory recommends.  
+135
+Issuing  equity  shares  allows  corporations  to  obtain  financial  capital  at 
+certain points in time (although debt and retained profits often are more 
+important sources of funding).  Shareholders may perform other useful 
+136
+functions  as  well,  including  serving  as  a  check  on  agency  costs.  It  is 
+important to remember, however, that the share ownership system is only 
+part of the larger corporate system. There are other corporate subsystems 
+that matter, including the subsystems that produce the goods and services 
+the corporation sells, the subsystems that market these goods and services to 
+customers, the subsystems that manage the corporation’s employees, and so 
+forth.  The  goals  of  the  shareownership  system  and  the  goals  of  the 
+company’s current shareholders—many of whom expect to hold their shares 
+for  only  a  short  period  of  time—are  not  necessarily  the  goals  of  the 
+corporate entity as a whole.  And for the systems thinker, “[k]eeping sub-
+purposes and overall system purposes in harmony is an essential function of 
+successful systems.”  
+137
+In exploring systems theory’s implications, we do not claim to offer a 
+definitive answer to the difficult question of corporate purpose.  Indeed, one 
+of the primary insights of systems thinking is that the purpose and functions 
+of a system can be the “least obvious part of the system,”  especially to 
+138
+outsider observers who pay attention to only a few events or to “rhetoric or 
+stated goals.”  Different corporations can have different sets of purposes, 
+139
+and perceptions of purpose can vary depending on the perspective of the 
+                                                           
+134 MEADOWS, supra note 90 at 84-85. 
+135 See supra Part II.B. 
+136 JEFFREY D. BAUMAN & RUSSELL B. STEVENSON, JR., CORPORATIONS LAW AND POLICY 30–31 (8th 
+ed., 2007). 
+137 MEADOWS, supra note 90, at 16. 
+138 Id. at 16–17. 
+139 Id.  See infra text accompanying notes 161-163 (describing advantages insiders enjoy in assessing 
+corporate performance). 
+32 
+  
+participant in the system and on the level of analysis.  In other words, 
+140
+systems theory treats system purpose as complex, fluid, and to some degree 
+dependent  on  the  observer’s  perspective.  In  this  regard  it  resembles 
+relativity  theory,  which  treats  physical  reality  as  complex,  fluid,  and 
+dependent on the observer’s perspective. The analogy may be instructive. 
+For just as in physics it is sometimes necessary to take relativity theory into 
+account to avoid costly mistakes,  it can be necessary to use systems theory 
+141
+to avoid costly mistakes about corporate purpose. 
+Systems  theory  accordingly  carries  several  obvious  and  important 
+implications  for  contemporary  corporate  governance  scholarship.  First, 
+shareholder value theory demands corporations pursue a single, uniform 
+objective. Systems thinking embraces the possibility of multiple objectives. 
+Second, shareholder value theory presumes the desires of the corporation’s 
+current shareholders should determine what corporations are designed to 
+do.  Systems theory acknowledges that corporate purpose can be viewed 
+142
+from different perspectives, including the desires of the state whose laws 
+made incorporation possible in  the first  place. Third, shareholder value 
+theory conflicts with much observed corporate behavior. Systems thinking 
+explains why companies often eschew opportunities to “maximize” current 
+profits or share price. Finally, shareholder value theory focuses obsessively 
+on promoting the goals of the shareholding subsystem, while ignoring the 
+goals of the corporate system as a whole. As we explore in greater detail in 
+Part  III,  systems  theory  explains  why  this  approach—which  in  recent 
+decades  has  encouraged  numerous  federal  regulatory  interventions  into 
+traditional state corporate law—has proven not only ineffective, but very 
+possibly destructive.   
+143
+                                                           
+140 See EASTERBROOK & FISCHEL, supra note 59, at 35-36 (“An approach that emphasizes the 
+contractual nature of a corporation removes from the field of interesting questions one that has 
+plagued many writers: what is the goal of the corporation?  Is it profit, and for whom?  Social welfare 
+more broadly defined?  Is there anything wrong with corporate charity?  Should corporations try to 
+maximize profit over the long run or the short run?  Our response to such questions is: who cares?...  
+The role of corporate law here, as elsewhere, is to adopt a background term that prevails unless varied 
+by contract”). 
+141 For example, the global positioning system (GPS) must take account of the theory of relativity 
+because atomic clocks on satellites in orbit experience time more slowly relative to clocks on the 
+surface of the earth.  Neil Ashby, Relativity and the Global Positioning System, PHYSICS TODAY, May 
+2002, 41. https://www.uam.es/personal_pdi/ciencias/jcuevas/Teaching/GPS_relativity.pdf  
+142 It also assumes that equity investors’ sole interest is in making as much money as possible, without 
+regard for ethics or for impact on stakeholders and third parties.  This is a questionable assumption in 
+many cases. Andrew A. Schwartz, Corporate Legacy, 5 HARV. BUS. L. REV. 237 (2015); STOUT, 
+supra note 47, at Ch. 8. 
+143 See infra Part II.C. 
+33 
+  
+D.    SYSTEMS  THEORY  AND  THE  PROBLEM  OF  MEASURING 
+CORPORATE PERFORMANCE 
+In Part I, we discussed the competing models of the corporate form and 
+the  rise  of  shareholder  value  theory  as  the  dominant  Anglo-American 
+narrative. We then showed how intellectual justifications for shareholder 
+value theory have shifted over the decades. Today, the theory is grounded 
+primarily on the idea that shareholder value provides a single, quantifiable 
+metric that can be used to hold directors and executives accountable. As we 
+also showed in Part I, however, when shareholder value is gauged only by 
+short-term financial metrics, it can produce pathological results, and when it 
+is interpreted to mean long-term shareholder value, it no longer offers that 
+desired accountability. What, then, can?  
+Systems thinking may offer a more promising solution to the problem of 
+measuring corporate performance. This idea may seem counterintuitive, for 
+systems theory acknowledges that corporate purpose need not be monolithic 
+and that different companies may have different purposes. Yet as we will 
+show, this fundamentally contractarian approach does not equate to a move 
+toward chaos.  Rather, it is a move toward reality, and an embrace of the 
+utility of the corporate form. Uncertainty makes it impossible to measure a 
+company’s future performance perfectly. However, systems thinking allows 
+us to gauge current performance and sustainability reasonably well, without 
+risking  the  damage  that  can  follow  from  emphasizing  share  price  or 
+accounting profits to the exclusion of all other corporate concerns. 
+Let us return to the concept of multiple purposes. Modern shareholder 
+value  theory  teaches  that  companies  should  “maximize”  one  particular 
+purpose (shareholder returns) to the exclusion of others. Yet business firms 
+provide  a  wide  range  of  social  benefits:  useful  goods  and  services, 
+employment  opportunities,  tax  revenues,  and  technological  innovations, 
+along  with  investment  returns  not  only  to  shareholders  but  also  to 
+bondholders and other creditors. There are many possible different mixes of 
+benefits  any  particular  company  might  produce,  and  no  obvious  policy 
+reason (beyond broader social welfare concerns)  to prefer one mix over 
+144
+another. Moreover, systems theory underscores how a business corporation 
+can have many “designers” whose contributions can be essential to the 
+enterprise’s  success,  including  the  company’s  founders;  its  directors, 
+                                                           
+144 For example, in times of high unemployment we might want companies to focus on providing 
+jobs; in times of slow growth, to emphasize investment and research.  During World War Two, 
+corporate resources were redirected to providing military goods and services. 
+34 
+  
+executives, employees, shareholders and lenders; and the state whose law 
+makes  incorporation  possible.   Each  has  unique  goals  and  interests. 
+145
+Systems thinking accordingly supports a contractarian approach that treats 
+corporate purpose as flexible, multifaceted, and driven by the purposes of 
+those who create and participate in the enterprise. 
+It also strongly cautions outside observers, like courts and government 
+agencies, to exercise restraint in drawing conclusions about whether or not a 
+particular company is performing well. One cannot simply assume what 
+goal  or  business  strategy  is  “best”  for  any  particular  company.  The 
+company’s purpose depends to some extent on the observer: shareholders 
+might think the company should pay more dividends; creditors might think 
+the company should build more equity to reduce risk; executives might 
+think the company should invest more in developing new products; the state 
+might think the business should pay more taxes. When different groups hold 
+different  views  of  company  purpose,  there  is  room  for  subjective 
+disagreement about how well the company is being managed.  Systems 
+thinking accepts this disagreement, counseling against a rigid, “top-down” 
+strategy  that  attempts  to  impose  a  single  objective  on  all  business 
+corporations.    Like  the  nexus  of  contract  approach,  it  rejects  central 
+planning in favor of diversity and self-organization. 
+As  we  discuss  in  Part  III.B,  below,  this  approach  is  remarkably 
+consistent with traditional state corporate law, which allows corporations to 
+be formed for any lawful purpose and which protects director discretion to 
+set  corporate  goals  through  the  business  judgment  rule.   As  we  also 
+146
+explore, it is inconsistent with many recent federal interventions.  Yet it 
+147
+raises a question: if outside regulators like courts and agencies are not well-
+positioned to gauge whether companies are performing well, then who or 
+what can hold managers accountable? 
+In  part,  the  answer  lies  in  recognizing  that  like  many  systems, 
+companies have homeostatic feedback loops that provide managers with 
+information and incentive to keep the firm and its essential subsystems 
+operating  within  the  parameters  necessary  to  ensure  continued 
+functioning.  To survive, a business firm must be able to please customers 
+148
+                                                           
+145 See supra text accompanying notes 121-124 (discussing who designs companies). 
+146 See infra text accompanying notes 182. 
+147 See infra Part III.C. 
+148 Firm survival is likely to be an objective for many of those who manage firms, including directors 
+(who presumably want to keep their positions), Blair & Stout, supra note 21, at 315. 
+35 
+  
+well enough to keep sales stable or growing; satisfy employees enough to 
+keep turnover within reasonable bounds; satisfy debt and equity investors 
+enough to raise financing at a reasonable cost when needed; satisfy talented 
+executives  enough  to  retain  them;  and  satisfy  taxing  authorities  and 
+regulators enough to avoid costly sanctions. And, of course, it must make 
+sufficient profits to do all these things and stay in business. 
+For  it  seems  reasonable  to  believe  perpetuation—the  ability  to 
+successfully perform desired functions on an ongoing basis—is likely to be 
+an  important,  if  not  necessarily  exclusive,  objective  for  business  firms 
+incorporated as perpetual entities.  A corollary is that those who create, 
+149
+manage, and participate in companies view resilience (a firm’s ability to 
+survive and continue functioning in the face of change) as an important, if 
+often implicit, firm goal.  Sometimes it is an explicit goal. Even diehard 
+150
+defenders of shareholder value theory concede banks should be not only 
+profitable, but stable and sound.  
+151
+So, where does this leave us? How would a systems thinker address the 
+problem of measuring firm performance? 
+First, it is important to recognize that companies typically generate a 
+wealth of potentially useful feedback information: sales trends, employee 
+                                                                                                                                                   
+and executives and employees (who may have invested significantly in firm-specific human capital, 
+id. at 276 n.61; EASTERBROOK & FISCHEL, supra note 59, at 37). 
+149 At some point, risk of failure may be acceptable if it helps the system achieve other desirable 
+goals. For example, an engineer might want to design a reliable car, but recognize that if the car has 
+too many backup systems it might become unaffordable.  Moreover, because the future is uncertain, 
+it may be impossible to anticipate all the shocks the system could encounter.  (Even the most reliable 
+car might fail if struck by an asteroid.) Thus, while survival is a likely corporate objective, it is 
+probably not the only objective.  
+150 Thus systems theory teaches that a manager concerned about firm survival should look to see 
+whether the company has sustainability strategies in place (e.g., redundancy, homeostasis, self-
+organization, see supra text accompanying notes 109-117) and assess whether they are sufficient to 
+ensure firm survival in the face of likely future events. This might involve identifying sustainability 
+mechanisms; establishing their limits or constraints (the points at which they might be overwhelmed 
+and cease to protect the system’s functioning); and attempting to identify the sorts of future shocks 
+the system might encounter. 
+151 See, e.g,, Lucian A. Bebchuk and Holger Spamann, Regulating Bankers’ Pay, 98 GEO. L. J. 247 
+(2009)(arguing that corporate governance “reforms” that empower shareholders cannot prevent 
+excessive bank risk-taking). Systems thinking is implicit in the work of financial authorities like the 
+Financial Stability Oversight Council (FSOC), which seeks to ensure that financial institutions 
+remain stable and sound.  It is standard practice for these authorities to refer to the banking sector as 
+“the financial system” and to use “stress testing” (scenario analysis, see infra note 155) to assess the 
+sustainability of large financial companies.  MARIO QUAGLIARELLO, STRESS TESTING THE BANKING 
+SYSTEM: METHODOLOGIES AND APPLICATIONS (2009). 
+36 
+  
+turnover, investment expenditures, borrowing costs, inventory changes, and 
+customer satisfaction surveys, along with accounting profits and (for public 
+companies) stock price. As we explore below, system theory offers a suite 
+of methodologies and techniques for using such data to assess and improve 
+a company’s progress towards multiple goals. The process goes by different 
+labels depending on the field in which it is applied (e.g., system analysis in 
+computer  science,  operations  analysis  in  engineering,  finance,  and 
+management).  Whatever  the  field,  systems  thinkers  tend  to  assess 
+performance in ways that are similar, and that can be easily adapted to the 
+problem of assessing a company’s overall performance. 
+Second,  when  perpetuation  is  an  important  system  goal,  systems 
+theorists  pay  close  attention  to  what  they  call  “constraints:”  the  limits 
+beyond which the system’s sustainability mechanisms can no longer protect 
+the system.  Typically this involves identifying the parameters that the 
+152
+system  and  its  essential  subsystems  must  stay  within  to  function.  For 
+example,  a  coffee  machine’s  heating  element  must  receive  a  certain 
+minimum  amount  of  electrical  current  but  not  excessive  voltage;  its 
+reservoir system must be supplied with a certain amount of water, but not 
+too much; it must be subject to the normal force of gravity, but not ten g’s 
+of gravitational force. This approach is quite different  from  selecting a 
+single  variable  and  attempting  to  “maximize”  it.   Yet  it  can  be 
+153
+straightforwardly applied to companies. Just like other systems, firms must 
+operate within constraints to survive: to remain functioning, the typical 
+company must retain a certain number of employees, must invest a certain 
+amount  in  marketing  and  developing  new  products,  and  must  provide 
+returns to debt and equity investors sufficient to keep them happy without 
+disgorging so much cash that it cannot pay its employees or develop new 
+products.  Sustainability  requires  that  the  company  stay  within  these 
+constraints, even if the external environment changes.  
+154
+                                                           
+152 See supra text accompanying notes 109-117 (discussing sustainability mechanisms). 
+153 Among other things, it requires systems thinkers to recognize and address the critical elements of 
+time and uncertainty. They have developed a number of techniques to do this. Time graphs, for 
+example, extrapolate system behavior over time given certain assumptions about initial conditions. 
+MEADOWS, supra note 90 at 20. Another common methodology often used by engineers, military 
+analysts, and financial regulators is scenario analysis, which models the likely effects of alternative 
+future events on the system with the goal of identifying circumstances that might cause the system to 
+fail. JEROME BRACKEN & GARTH P. MCCORMICK, RESEARCH ANALYSIS CORPORATION, SELECTED 
+APPLICATIONS OF NONLINEAR PROGRAMMING 16-19 (1968). 
+154 As this discussion suggests, systems thinking is congruent with the managerial principle of 
+“satisficing” developed by Nobel-prize winning economist Herbert Simon. See Herbert A. Simon, 
+Rationality as Process and as Product of Thought, 68 AM. ECON. REV. 1 (1978). 
+37 
+  
+Third, systems thinkers have devised a wide range of analytical and 
+mathematical  techniques  to  try  to  identify  ways  to  improve  system 
+performance while keeping the system within its constraints.   This process 
+155
+is sometimes called “optimization,” a phrase that accepts the possibility of 
+multiple objectives in a way that “maximization” cannot.  For example, 
+156
+nonlinear programming is a staple of systems analysis that acknowledges 
+the  importance  of  protecting  resilience  by  keeping  the  system  within 
+relevant constraints. The use of multiobjective functions is also common.  
+157
+Such techniques can be combined with scenario analysis, queuing theory, 
+stochastic  analysis,  network  analysis,  time  graphs,  and  other  arcana  of 
+operational research to identify ways to measure and improve a company’s 
+ability to achieve its intended objectives while preserving sustainability.  
+158
+And in fact, corporate managers routinely apply these techniques when 
+making  decisions  about  financing,  manufacturing,  and  supply  chain 
+management.  
+159
+Understanding  how  systems  theorists  measure  and  improve  the 
+performance  of  complex  systems  with  multiple  objectives  (machines, 
+production processes, software programs) accordingly offers at least two 
+insights into how to go about measuring overall corporate performance. 
+First  and  perhaps  most  obviously,  systems  thinking  counsels  against 
+focusing on any single metric. Raising next quarter’s profits by cutting 
+valuable employees or eliminating customer support can lead to long-term 
+disaster. Profits are not so much an objective as a constraint the firm must 
+meet to stay in business. In this sense, systems theory incorporates elements 
+of  shareholder  value  theory  by  recognizing  profitability  as  an  essential 
+                                                           
+155 See generally Cornell Engineering Operations Research and Information Engineering,“What is 
+Operations Research?,” https://orie.cornell.edu/about/whatis.cfm;  SYSTEM THEORY: MODELING, 
+ANALYSIS, AND CONTROL (Theodore E. Djaferis & Irvin C. Schick, eds., 2000). 
+156 See, e.g., V. Bhaskar et al., Applications of Multiobjective Optimization in Chemical Engineering, 
+16 REVIEWS IN CHEMICAL ENGINEERING 1 (2011). 
+157  Id. A typical example of a multiobjective function might be a weighted average of desired goals.  
+For example, corporate managers might be asked to optimize a weighted average of profits, revenue 
+growth, consumer satisfaction, and R&D spending.  It is important to bear in mind that optimization 
+typically takes place within constraints—that is, within the limits identified as necessary to keep the 
+system functioning.  Trying to increase the weighted average through strategies that threaten the 
+system’s long-term survival is to be avoided.  Moreover, the weights assigned to the different 
+objectives are, to at least some extent, subjective. 
+158 See Princeton University Operations Research and Financial Engineering, Academics Overview, 
+http://orfe.princeton.edu/academics (describing operational research methods). 
+159 See, e.g., Operations Research: The Science of Better, www.scienceofbetter.org (describing 
+management uses). Similarly, financial regulators use “stress testing” to assess the stability and 
+sustainability of large financial companies.  See also QUAGLIARELLO, supra note 151 (discussing 
+bank regulators’ use of operations research techniques in bank stress testing). 
+38 
+  
+constraint  to  be  considered  in  corporate  decisionmaking.  In  contrast  to 
+shareholder value theory, however, the systems approach does not focus on 
+profits alone, and does not direct managers to try to maximize them. Indeed, 
+as  we  demonstrated  in  Part  I.C  it  makes  no  sense  to  talk  about 
+“maximizing” such a number when the corporation is intended to operate 
+into  an  indefinite  future,  and  the  sum  of  its  profits  over  time  is 
+unobservable.   Metrics  like  profits,  employee  turnover,  customer 
+160
+satisfaction surveys, supplier costs, research budgets, and so forth are not 
+ends in themselves. Rather, they are sources of information about whether 
+the company is healthy and resilient, and likely to continue to generate 
+multiple benefits into the future. It is to this goal, first and foremost, we 
+may wish to hold managers “accountable.” 
+A second important lesson from systems thinking is that, given multiple 
+purposes  and  the  complexity  inherent  in  systems  analysis,  courts  and 
+regulators will rarely be well-positioned to judge whether a company is 
+performing well or poorly. It is those involved in the business, such as 
+customers, employees, investors, and executives, who are in the far better 
+position  to  make  such  an  assessment,  and  whose  behavior  is  likely  to 
+provide the most useful feedback.  This observation provides additional 
+161
+support  for  a  contractarian  approach  to  corporate  governance  and  state 
+corporate law’s business judgement doctrine.  It also suggests that it will 
+162
+be difficult for academics, lawmakers, or corporate governance advisors to 
+identify  reforms  that  can  reliably  improve  the  performance  of  all 
+companies.  Attempts to impose generic silver-bullet solutions are more 
+likely to result in what Roberta Romano has pithily described as “quack 
+corporate governance” that does more harm than good.  
+163
+In Part III.C we explore how recent federal regulatory interventions into 
+state corporate law may be inflicting just such harm: reducing the numbers 
+of public companies, decreasing corporate life expectancy, and eroding the 
+returns from holding public equity.  These interventions, many of which 
+164
+were designed to encourage managers of public companies to focus more on 
+                                                           
+160 See supra Part I.C (discussing unobservability of “long term shareholder value”). 
+161 The temptation for outside observers to claim significant and perhaps superior ability to judge 
+corporate performance may explain why some lawmakers and corporate governance advisors have 
+embraced shareholder value thinking despite its obvious limitations. STOUT, supra note 47, at 19. 
+162 See supra text accompanying notes 39-41 (contractarianism) and infra text accompanying notes 
+181-188 (discussing business judgment rule). 
+163 Roberta Romano, The Sarbanes Oxley Act and the Making of Quack Corporate Governance, 114 
+Yale L. J. 1521 (2005). 
+164 See supra text accompanying notes 216-218. 
+39 
+  
+increasing  shareholder  returns,  fall  into  what  systems  guru  Donella 
+Meadows  has  called  the  “systems  trap”  of  misidentifying  the  system’s 
+desired purpose or goal.  Supposed reforms driven by shareholder value 
+165
+thinking privilege the goals of the corporation’s shareholding subsystem 
+over the goals of other important subsystems and the company as a whole. 
+In  doing  so,  they  may  threaten  the  public  corporation’s  health  and 
+sustainability. 
+Systems  theory  counsels  that  to  remain  resilient,  companies  must 
+maintain harmony between overarching system goals and subsystem goals. 
+There  is  danger  in  focusing  too  much  on  improving  one  subsystem’s 
+performance at the expense of another’s. Maximizing a coffee machine’s 
+output leads to system failure if it causes the machine to overheat and break 
+down, while maximizing the machine’s energy efficiency by turning off the 
+heating element leads to system failure in the form of cold, weak coffee. 
+Similarly, maximizing a company’s current profits by cutting research and 
+development expenditures can eventually cause the firm to fail for lack of 
+new products, just as maximizing R&D expenditures at the expense of 
+profitability can lead to a different kind of failure. Systems theory treats the 
+health  and  functioning  of  a  system’s  essential  subsystems’  elements  as 
+incommensurables.  Constraints  must  be  respected  if  the  system  is  to 
+survive. 
+At the same time, it should be acknowledged that systems techniques 
+rarely  allow  us  to  gauge  whether  a  company  is  being  run  perfectly. 
+Embracing multiple objectives can give managers “wriggle room” to claim 
+they are performing well overall, even when some performance measure 
+like quarterly profits is in decline. Their wriggle room is limited, however.  
+Whatever mix of functions we believe a company should perform, it can 
+only perform those functions while it survives. When relevant metrics stray 
+too far outside the parameters necessary for corporate sustainability—when 
+profits  become  losses—it  becomes  apparent  that  something  is  amiss. 
+Accordingly,  while  a  systems  approach  does  not  necessarily  allow 
+observers to determine whether a company is performing at its best, it does 
+often allow them to gauge whether managers are doing a better job or a 
+                                                           
+165 MEADOWS, supra note 90 at 138-41 (“if the goal is defined badly, if it doesn’t measure what it’s 
+supposed to measure, if it doesn’t reflect the real welfare of the system, then the system can’t 
+possibly produce a desirable result.  Systems, like the three wishes in the traditional fairy tale, have a 
+terrible tendency to produce exactly and only what you ask them to produce.  Be careful …  If the 
+desired system state is national security, and that is defined as the amount of money spent on the 
+military, the system will produce military spending …”). 
+40 
+  
+worse one.  It thus offers a better methodology for promoting managerial 
+accountability  than  the  subjective,  unobservable  criterion  of  “long-term 
+shareholder value.” The strategy is hardly perfect.  But when it comes to 
+assessing performance, the illusory perfection of shareholder value may be 
+the enemy of the good of thriving, socially-beneficial corporations. 
+ 
+PART III. SYSTEMS THINKING IN CORPORATE PRACTICE AND 
+CORPORATE LAW 
+ 
+A.  SYSTEMS THINKING IN CORPORATE MANAGEMENT 
+We  have  argued  in  this  Article  that  systems  theory  provides  an 
+intriguing alternative approach to thinking about the nature and purpose of 
+corporate entities, an approach that  integrates  elements  of many  of the 
+competing models of the corporation that have been proposed. Systems 
+thinking  also  offers  methods  for  measuring  corporate  performance—
+methods with arguably more rigor, and greater potential for truly holding 
+managers  accountable,  than  the  much-lauded  but  essentially  subjective 
+mirage of “long-term shareholder value.” Because systems theory views 
+corporations from a fundamentally different perspective than shareholder 
+value  theory  (or  any  of  the  other  theories  of  the  corporation),  space 
+constraints prevent us from exploring more than a few of its implications 
+here. Further work is  more than worthwhile, however. For the systems 
+approach  fits  comfortably  with,  and  indeed  explains,  key  aspects  of 
+corporate  practice  and  corporate  law  that  are  in  obvious  tension  with 
+conventional shareholder value thinking. 
+This tension can easily be heard, for example, in the way founders, 
+directors and executives of successful corporations talk about their business 
+objectives. Given the intellectual dominance of the standard model, it is 
+hardly  surprising  to  find  managers  of  public  companies  sometimes 
+referencing shareholder value (especially “long-term shareholder value”) as 
+a corporate goal. Yet when companies publish statements describing their 
+purpose or mission, they typically describe it far more broadly, often in 
+terms of providing quality goods or services, or serving multiple corporate 
+41 
+  
+stakeholders.  (The Johnson & Johnson credo begins “We believe our first 
+166
+responsibility is to the doctors, nurses, and patients, to mothers and fathers 
+and  all  others  who  use  our  products  and  services…”)   A  survey  of 
+167
+corporate directors similarly found that a majority viewed themselves as 
+having  obligations  not  only  to  shareholders  but  also  to  employees, 
+customers, and the larger society.  This embrace of multiple objectives is 
+168
+far more consistent with the systems approach, than with shareholder value 
+thinking. 
+Moreover, even executives who publicly espouse shareholder value as 
+their ultimate objective—and notably, many do not —still emphasize that 
+169
+the best way to achieve that objective is not to focus directly on trying to 
+“maximize” profits or share price, but instead to pay close attention to the 
+company’s sales trends, employee morale,  customer satisfaction, supply 
+chain, and reinvestment initiatives.  In line with systems thinking, they 
+intuitively recognize that the best strategy for enhancing future performance 
+in the face of uncertainty is to ensure that each of the company’s essential 
+subsystems remains healthy and resilient.  This philosophy was captured in 
+a 2009 Financial Times interview with iconic CEO Jack Welch, a leading 
+champion of the shareholder value theory of corporate purpose. According 
+to Welch, “on the face of it, shareholder value was the dumbest idea in the 
+world.  Shareholder  value  is  a  result,  not  a  strategy...Your  main 
+constituencies are your employees, your customers, and your products.”  A 
+170
+2012 article in the Harvard Business Review similarly noted: 
+                                                           
+166 See Graham Kenny, Your Company’s Purpose is Not Its Vision, Mission, or Values, HARV. BUS. 
+REV., Sept. 3, 2014, https://hbr.org/2014/09/your-companys-purpose-is-not-its-vision-mission-or-
+values (describing various corporate purpose statements). 
+167 JOHNSON & JOHNSON credo, www.jnj.com/sites/default/files/pdf/jnj_ourcredo. Management guru 
+Peter Drucker famously held that the purpose of business is to create and keep a customer. PETER 
+DRUCKER, THE PRACTICE OF MANAGEMENT 37 (1954). 
+168 JAY LORSCH & ELIZABETH MACIVER, PAWNS OR POTENTATES: THE REALITY OF AMERICAN 
+CORPORATE Boards 39-43 (1989). 
+169 See, e.g., BUSINESS IS ABOUT MORE THAN MAKING MONEY, DIRECTORS & BOARDS ANNUAL 
+REPORT 6, 8 (2015) (quoting Jim Senegal, founder and former chief executive of Costco, that 
+“business was about more than making money.  Business had a responsibility.  Business had a social 
+contract to the communities where they did business”); Geoff Colvin, Indra Nooyi’s  Pepsi 
+Challenge, FORTUNE (May 29, 2012)(PepsiCo CEO Indra Nooyi publicly embraced shifting away 
+from products that promote the obesity because it is “the right thing” to do);  Kerry A. Dolan, 
+Starbucks’ Howard Schultz Wants to Redefine the Role of Business and Society, FORBES, Oct. 17, 
+2012 (quoting Starbucks CEO Howard Schultz that “it is no longer enough to serve customers, 
+employees, and shareholders.  As corporate citizens of the world, it is our responsibility —our duty—
+to serve the communities where we do business”). 
+170 Francensco Guerrera, Welch Slams the Obsession With Shareholder Value as a “Dumb Idea,” FIN. 
+TIMES 1, March 13, 2009. 
+42 
+  
+There’s a growing body of evidence…that the companies 
+that  are  most  successful  at  maximizing  shareholder  value 
+over  time  are  those  that  aim  toward  goals  other  than 
+maximizing  shareholder  value.  Employees  and  customers 
+often  know  more  about  and  have  more  of  a  long-term 
+commitment to a company than shareholders do.  
+171
+In accord with this philosophy, we see systems thinking reflected not 
+only in what successful managers say, but also what they do. For example, 
+it is commonplace for companies to employ operations analysts to internally 
+assess  corporate  performance  using  system  theory  tools  like  network 
+analysis, queuing theory, scenario analysis, multiobjective functions, and 
+nonlinear  computer  programs  for  optimizing  within  constraints.   These 
+172
+techniques  are  also  taught  to  students  studying  management  science,  a 
+systems-oriented discipline commonly taught at many undergraduate and 
+graduate business schools.  
+173
+B.  SYSTEMS THINKING IN CORPORATE LAW 
+The consonance between the principles of systems thinking, and the 
+ways successful corporate managers talk about and do their jobs, provides 
+compelling  evidence  of  the  relevance  of  systems  thinking  to  business 
+corporations.  Still  more  evidence  can  be  seen  in  the  striking  way  the 
+systems approach fits with traditional state corporate law. 
+Corporate law typically is found in three places; corporate codes; case 
+law; and the “internal” law of corporate articles and bylaws.  None of the 
+three  meshes  well  with  shareholder  value  thinking.  Starting  with  state 
+corporate  codes,  these  notably  do  not  require  corporations  to  pursue 
+shareholder value.  To the contrary, it is standard practice for states to allow 
+corporations to be formed to do anything that is legal.  The Delaware 
+174
+General Corporate Law provides, for example, that “[a] corporation may be 
+incorporated or organized under this chapter to conduct or promote any 
+                                                           
+171 Justin Fox & Jay W. Lorsch, What Good Are Shareholders?, HARV. BUS. REV., July–Aug. 2012. 
+172 See, e.g., COLLEGEGRAD, Operations Research Analysts: Career, Salary and Education 
+Information, https://collegegrad.com/careers/operations-research-analysts (describing growing 
+corporate demand for operations research analysts). 
+173 See, e.g., Harvard Business School, Doctoral Programs: Management, 
+www.hbs.edu/doctoral/areas-of-study/management/pages/default.aspx; MIT Sloan School of 
+Management, Master of Science in Management Studies, http://mitsloan.mit.edu/msms . 
+174 STOUT, supra note 47, at 28. 
+43 
+  
+lawful  business  or  purpose[s].”   This  enabling  language  implicitly 
+175
+contradicts  the  notion  that  corporations  must  adopt  shareholder  wealth 
+maximization (or anything else) as their singular goal. Instead, it seems to 
+reflect a contractarian perspective that presumes that, absent external costs 
+to third parties, social welfare is best served by granting those who form 
+enterprises the freedom to structure their affairs as they wish and to pursue 
+the goals they desire.   
+176
+Indeed,  the  majority  of  states  go  even  further  than  Delaware,  and 
+explicitly reject shareholder value theory in their codes by providing that 
+directors  may  serve  the  interests  not  only  of  shareholders  but  other 
+constituencies like employees, customers, suppliers, and the community as 
+a whole.  Moreover, state codes also allow corporations to customize their 
+177
+articles and by-laws by adopting governance rules that modify or restrict 
+shareholders’ default rights, for example by staggering director elections or 
+issuing  shares  with  limited  voting  rights.   This  statutory  embrace  of 
+178
+complexity, diversity, self-organization, and multiple and varied purposes, 
+is far more consistent with the systems approach than the idea of a single 
+“standard” model. 
+Turning to case law, some opinions at first glance seem to provide 
+support for shareholder value theory. Closer inspection reveals, however, 
+the support is more apparent than real. As shareholder value thinking has 
+gained  intellectual  dominance,  we  occasionally  see  judicial  opinions 
+offhandedly  suggest  that  managers  ought  to  be  maximizing  “long-term 
+shareholder value.”  Yet we also see opinions suggesting the opposite: 
+179
+recall Justice Alito’s 2014 opinion for the majority in Burwell v. Hobby 
+Lobby Stores, Inc., declaring that “modern corporate law does not require 
+for-profit corporations to pursue profit at the expense of everything else, 
+                                                           
+175 DEL. CODE. ANN. tit. 8, § 101(b) (2015).  
+176 The language might reflect a state purpose of promoting social welfare by reducing the 
+transactions costs associated with mutually voluntary exchanges between and among stockholders, 
+creditors, managers, employees, and so forth, on the theory that, as a general rule, social welfare is 
+improved by lawful exchange. EASTERBROOK & FISCHEL, supra note 59, at 6-7. See Robert B. 
+Thompson, Anti-Primacy: Sharing Power in American Corporations, 71 BUS. LAWYER 381, 384 
+(2016) (positing that “[c]orporate law’s purpose is to provide a structure for private ordering within 
+which the broad group of participants can contract for exchange and have available a government 
+structure to fill gaps”). 
+177 Guhan Subramanian, The Influence of Antitakeover Statutes on Incorporation Choice: Evidence on 
+the “Race” Debate and Antitakeover Overreaching, 150 U. PA. L. REV. 1795, 1827 (2004) (by 2004, 
+31 states had “other constituency” statutes). 
+178 See, e.g., DEL. CODE. ANN. tit. 8, §§ 102 (b), 228 (2015).  
+179 See, e.g., supra text accompanying notes 48, 78. 
+44 
+  
+and many do not do so.”  It is critical to note, however, that both types of 
+180
+statements appear only in dicta (as lawyers put it, “mere” dicta). If we 
+refuse to be distracted by dicta and focus on holdings, we see that courts 
+give corporate managers remarkable freedom to choose company objectives 
+under  the  fundamental  corporate  law  doctrine  known  as  the  business 
+judgment rule.  
+181
+The business  judgment rule holds that, as long as directors are not 
+tainted by conflicts of interest and make reasonable efforts to be informed, 
+judges will not second-guess a board’s decision about what is best for the 
+company—even when the board embraces strategies that foreseeably reduce 
+profits or share price. For example, in the 2011 case of Air Products and 
+Chemicals, Inc. v. Air Gas, Inc., Delaware Chancellor William B. Chandler 
+invoked the business judgment rule to uphold a board decision to reject a 
+merger offer at a premium price, noting that the board was “not under any 
+per se duty to maximize shareholder value in the short term, even in the 
+context of a takeover.”   
+182
+Air Products v. Air Gas illustrates how, when push comes to shove, 
+courts routinely refuse to impose on boards any duty to maximize profits or 
+share price. The very few cases cited in support of such a supposed duty—
+typically Dodge v. Ford Motor Co.  and Revlon, Inc. v. MacAndrews & 
+183
+Forbes Holdings, Inc. —are inapposite. The first deals not with the duties 
+184
+of independent directors, but the duties of a majority shareholder towards 
+minority shareholders.  The second concerns a public company board’s 
+185
+voluntary  decision  to  “go  private”  through  a  merger  in  which  public 
+shareholders  would  be  forced  out  in  favor  of  a  new,  controlling 
+shareholder.   (In  this  unusual  situation,  public  shareholders  need 
+186
+heightened protection because directors have  incentive to sacrifice their 
+interests by approving a sale at an unfairly low price in order to serve the 
+                                                           
+180 573 U.S. 2751, 2771 (2014). 
+181 Elhauge, supra note 21; STOUT, supra note 47, at 29-31. See Lyman Johnson & Robert Ricca, The 
+Dwindling of Revlon, 71 WASH. LEE. L. REV.  167, 170 (2014)(“[there is] broad language in Delaware 
+decisions suggesting [a] duty to maximize shareholder value in the no-deal context, but as of yet there 
+is no clear-cut holding on this basic issue”). 
+182 No. 5249CC (Del. Ch., Feb. 15, 2011) at 92, citing Paramount Communications, Inc. v. Time, Inc., 
+571 A.2d 173 (Del. 1990). 
+183  170 N.W. 668 (Mich. 1919).  See generally Lynn A. Stout, Why We Should Stop Teaching Dodge 
+v. Ford, 3 VA. L. & BUS. REV.  163 (2008).   
+184 506 A.2d 173 (Del. 1986). 
+185 Id.  The same is true of a modern case sometimes cited in support of shareholder value theory, 
+eBay Domestic Holdings v. Newmark, 16 A.3d 1 (2010). 
+186 Johnson & Ricca, supra note 181. 
+45 
+  
+new,  controlling  shareholder.)   Neither  case  applies  to  independent 
+187
+directors  of  public  companies  planning  to  stay  public,  for  whom  the 
+business judgment rule prevails.  
+188
+Finally,  let  us  consider  the  internal  law  of  corporate  charters  and 
+bylaws. Here, the conflict between shareholder value theory and corporate 
+law reality becomes still more evident. As noted, state corporate codes are 
+enabling on the subject of purpose. Anything  lawful is  permitted. This 
+means corporations have the option to choose to limit themselves to a single 
+purpose: a charter could easily specify that a corporation’s purpose was 
+maximizing shareholder value. Yet the overwhelming majority of charters 
+describe the corporation’s purpose in the same flexible terms as corporate 
+codes, as “anything lawful.”  
+189
+This is telling. If a shareholder value maximand were such a superior 
+business strategy, and so important to attract equity investors, we should 
+expect to see companies trumpet shareholder value as their purpose in their 
+charters, both at formation and when going public. They do not.  
+190
+Indeed, corporations are taking advantage of the enabling nature of state 
+codes to evolve in the opposite direction. As we explore in greater detail 
+below, the rise of “activist” hedge funds and the seeping of shareholder 
+value thinking into federal securities and tax rules have put pressure on 
+public companies to embrace profits and share price as their only goal.  
+191
+Many are responding by going public with staggered boards and classified 
+share structures that deliberately insulate managers from such demands.  
+192
+(Snap Inc., which sells the app Snapchat, recently filed documents revealing 
+                                                           
+187 STOUT, supra note 47, at 30. Notably, public company boards have no obligation to put the 
+corporation into “Revlon mode.” See Thompson, supra note 176, at 7 (noting that directors of target 
+companies can “turn off or on” Revlon duties, and that “shareholder primacy at the option of directors 
+hardly seems to qualify for the name”). 
+188 Outside the public company context, both the business judgment rule and the question of corporate 
+purpose are much less likely to be contested; there is seldom a reason for a controlling shareholder to 
+challenge the decisions of the board that shareholder controls. 
+189 STOUT, supra note 47, at 28. 
+190 Although it is impossible to prove a negative, the authors have never seen such a charter nor any 
+source citing to such a charter. 
+191 See supra text accompanying notes 199-208. 
+192 See Richard J. Sandler & Joseph A. Hall, Corporate Governance Practices in IPOs, CORPORATE 
+GOVERNANCE ADVISER, July/August 2014 (summarizing studies showing that, that despite growing 
+pressure on public companies to avoid these practices, 70% of the large public IPOs examined 
+involved corporations that had staggered boards; more than 90% retained plurality voting for 
+uncontested director elections; and the percentage of companies going public with dual or multi-class 
+share structures rose from 8% in 2007-08, to 28% in 2011-13). 
+46 
+  
+a plan to go public by offering common shares with no voting rights at 
+all.)  More are refusing to go public in the first place: the number of 
+193
+publicly-listed companies in the U.S. has declined nearly 50% over the past 
+decade, from about 8,000 to about 4,000, with most of the decrease due to 
+new companies choosing not to list.  Systems thinking, which emphasizes 
+194
+the  importance  of  observing  and  acknowledging  the  system’s  behavior, 
+suggests these trends are significant.  As we explore further below, they 
+may indicate that the external pressures currently driving public companies 
+to focus increasingly on observable metrics like current profits and share 
+price are often dysfunctional, and the corporate sector is using the flexibility 
+provided by traditional state corporate law to self-organize in response. 
+C.   ON THE RISKS OF IGNORING SYSTEMS 
+We  have  shown  that  systems  theory  offers  a  coherent  alternative 
+approach for understanding corporate purpose and performance. We have 
+also shown that systems thinking fits more comfortably with traditional 
+corporate  law,  common  business  practices,  and  many  elements  of 
+competing corporate models, than shareholder value theory does. These 
+observations raise an important question. Could policy interventions driven 
+by the dominant vision of shareholder value thinking—interventions that 
+often ignore, or even contradict, the lessons of systems theory—do more 
+harm than good? 
+The question is not merely academic. As a number of recent law review 
+articles have observed, over the past three decades the Anglo-American 
+corporate landscape has shifted significantly.  Public companies today face 
+195
+increasing pressure to become more “shareholder-centric,” and to focus on 
+raising share price or reported earnings per share in the near future through 
+strategies like leveraging; repurchasing shares; selling off assets; or cutting 
+                                                           
+193 Steven Davidoff, Snap’s Plan is Most Unfriendly to Outsiders, N.Y. TIMES, Feb. 3, 2017, at B1 
+(“Snap Inc. is aiming to adopt the most shareholder-unfriendly governance in an initial public 
+offering, ever”). 
+194 GERALD F. DAVIS, THE VANISHING AMERICAN CORPORATION:  NAVIGATING THE HAZARDS OF A 
+NEW ECONOMY 15-17 and Figure 1.4 (2016)(number of domestic companies listed on U.S. exchanges 
+declined from more than 8000 in 1996 to just over 4000 in 2012); Bob Bryan,  There are Nowhere 
+Near as Many Public Companies in the U.S. as There Should Be, BUS. INSIDER, July 5, 2015, 
+www.businessinsider.com/us-has-too-few-publicly-listed-companies-2015-6 (citing study concluding 
+that U.S. listings were declining while listings elsewhere were increasing, and that more than half of 
+the “listing gap” was attributable to new companies declining to list). 
+195 See, e.g., DAVIS, supra note 194 at 53-79; Rock, supra note 47; Lynn A. Stout, The Toxic Side 
+Effects of Shareholder Primacy, 161 U. PA. L. REV. 2003 (2013); see also Thompson, supra note 176, 
+at 384 (noting “increased space for power to be exercised by shareholders”). 
+47 
+  
+accounting  expenses  for  payroll,  customer  support,  and  research  and 
+development.   Importantly, this pressure has not come from  traditional 
+196
+state corporate law, which still grants corporations the flexibility to pursue 
+any lawful purpose and to adopt different governance structures, and still 
+protects director discretion under the business judgment rule.  Nor has the 
+197
+pressure come from inside corporations themselves—that is, from boards of 
+directors, or the demands of the employees, customers, creditors, or the 
+initial  equity  investors  who  contract  directly  with  corporate  entities  by 
+seeking employment with them, buying their products, lending money to 
+them, or buying their shares in the primary market.  
+198
+Instead, the trend has been driven largely by external forces. These 
+include innumerable federal regulatory initiatives, especially changes in tax 
+rules, securities law, and Department of Labor regulations.  To give only a 
+199
+few  examples,  with  the  passage  of  the  Employee  Retirement  Income 
+Security Act (ERISA) in 1974,  federal rules encouraged the growth of 
+200
+institutional investors (tax-favored pension and mutual funds) which now 
+collectively control nearly half of all shares traded on U.S. exchanges.  
+201
+Other federal interventions around the same time dramatically reduced the 
+transactions  costs  associated  with  trading  stock,  with  the  unintended 
+consequence that many institutions now typically hold shares for 24 months 
+or  less.   These  new,  relatively  short-term  institutional  investors  gained 
+202
+power when the SEC amended its proxy rules in 1992 to encourage them to 
+                                                           
+196 See supra note 28 (publications by experts and research foundations expressing concerns over such 
+short-term strategies). 
+197 See supra text accompanying notes 175-182. 
+198 Equity investors who purchase shares in the primary market contract directly with corporate 
+entities and can be an important source of capital for them.  In contrast, investors who purchase 
+shares in the secondary market do not provide capital or any other direct benefit to companies.  
+Statement of Company Law, supra note 20. 
+199 Rock, supra note 47 at 1922; Stout, supra note 195 at 2008-10; Thompson, supra note 176 at 384 
+(shift has not come from “changes in Delaware law but from market changes in makeup of the 
+shareholder population and a nudge from federal regulations”). 
+200 29 U.S.C.A. § 1001 (1974). 
+201 From 1990 through 2010, the value of public equities held by U.S. retirement and mutual funds 
+increased from about $1.1 trillion to more than $9.8 trillion, while household sector holdings 
+increased only from about $2 trillion to $8.5 trillion. STATISTICAL ABSTRACT OF THE UNITED STATES, 
+Table 1201, “Equities, Corporate Bonds, and Treasury Securities—Holdings and Net Purchases by 
+Type of Investor,” 
+http://www2.census.gov/library/publications/2011/compendia/statab/131ed/tables/12s120 1. 
+202 The elimination of fixed brokerage commissions in 1975 dramatically reduced trading costs and 
+holding periods, which now average months instead of years.  See Stout, supra note 79 at 618 
+(elimination of fixed brokerage commissions and transaction taxes); STOUT, supra note 47, at 66 
+(average holding period on NYSE has fallen from eight years in 1960, to an implied average of four 
+months in 2010). 
+48 
+  
+play a more active role in corporate governance, including mounting proxy 
+contests to challenge directors.  1993 saw another critical change when 
+203
+Congress amended the tax code to require public companies to tie executive 
+pay to “objective performance metrics,” driving companies to compensate 
+executives in ways that encouraged a laser-like focus on measures like share 
+price appreciation or total shareholder return (TSR).  Then the SEC in 
+204
+2003 furthered the shift to a shareholder-centric model by adopting rules 
+requiring  exchange-listed  companies  to  have  a  majority  of  independent 
+directors  on  their  boards  (independent  directors  are  more  responsive  to 
+shareholder demands than “inside” directors who are also employees)  and 
+205
+requiring mutual funds to publicly disclose how they vote shares held in 
+their portfolios.  This last rule change spurred the growth of the remarkably 
+206
+powerful—and  remarkably  unaccountable—“proxy  advisory”  service 
+known  as  Institutional  Shareholder  Services  (ISS),   which  has  added 
+207
+substantially to the pressure public companies feel to pursue shareholder 
+value as their dominant objective. 208 
+There  is  theoretical  reason  to  question  whether  policy  interventions 
+springing from such sources are always, or even often, wise or efficient.  
+State corporate law is mostly common law or derived from common law 
+principles; as a number of scholars have noted, the common law tends to 
+evolve  to  favor  efficient  rules.   In  contrast,  federal  legislation  and 
+209
+administrative  rulemaking  are  notoriously  vulnerable  to  interest  group 
+lobbying and rent-seeking.  Moreover, state corporate law is contractarian. 
+210
+It permits individuals forming corporations to choose from among a variety 
+of possible governance patterns (single versus multiple classes of shares, 
+unitary  versus  classified  board  structures,  and  so  forth).  It  also  grants 
+shareholders, bondholders, executives, and employees alike the freedom to 
+decline to do business with corporations that adopt inefficient or exploitive 
+governance rules, thus encouraging incorporators to adopt rules that serve 
+                                                           
+203 Stout, supra note 195 at 2009. 
+204Id. 
+205 Id. 
+206 Id. 
+207 Lynn A. Stout, Why Should ISS be the New Master of the Corporate Governance Universe?  
+DOWJONES CORPORATE GOVERNANCE, Guest Column 14-15, Jan. 4, 2006. 
+208 Tamara Belinfanti, The Proxy Advisory and Corporate Governance Industry: The Case for 
+Increased Oversight and Control, 14 STAN. J. L. BUS. & FIN. 384 (2009).  Meanwhile, the ideology of 
+shareholder value has been taught to a generation of graduates from the nation’s leading business 
+schools, law schools, and economics departments. West, supra note 47. 
+209 DAVID A. BARNES & LYNN A. STOUT, CASES AND MATERIALS ON LAW AND ECONOMICS 285 -308 
+(1992) 
+210 Id. at 476-487. 
+49 
+  
+all corporate participants.  In contrast, federal regulation tends toward a 
+211
+rigid, “one-size-fits-all” approach that threatens the resilience of companies 
+by  limiting  their  ability  to  self-organize  in  response  to  changes  in  the 
+market environment,  and that insulates incorporators from the competitive 
+212
+pressures that otherwise might  encourage them to  select  efficient  rules.  
+Finally, a major consequence of federal regulatory interventions has been to 
+empower private institutions whose interests, there is reason to suspect, are 
+not aligned with the survival and functioning of the corporation as a system. 
+For example, activist hedge funds can profit from buying shares in the 
+secondary market, pushing for changes in corporate charters and by-laws  
+213
+or in federal regulation  (thus “changing the rules in the middle of the 
+214
+game,”  possibly  at  the  expense  of  other  players  like  employees  or 
+bondholders), and selling soon after. The powerful proxy advisory service 
+ISS is notoriously even less accountable.  
+215
+All this is theory, of course. But several empirical observations give 
+further reason to question whether the federally-driven push to make public 
+corporations more shareholder-focused has overshot the mark, privileging 
+the goals of the shareholding subsystem to the exclusion and at the expense 
+of  the  corporate  system  as  a  whole.  In  particular,  the  standard  model 
+predicts  that  the  shift  should  have  produced  more  and  stronger  public 
+corporations that provide higher returns to equity investors. This prediction 
+has not been realized.  To the contrary, as noted earlier, over the past decade 
+                                                           
+211 EASTERBROOK & FISCHEL, supra note 59 at 4-7.  
+212 See also MEADOWS, supra note 90, at 76-79, 80 (system resilience and capacity to self-organize 
+are often sacrificed for purposes of short term productivity or efficiency; self-organization “requires 
+freedom and experimentation, and a certain amount of disorder”). 
+213 For example, in recent years activist shareholder pressure has led hundreds of large public 
+companies to “declassify” their board structures, making it easier for activists to remove incumbent 
+directors. Daniel M. Gallagher & Joseph A. Grundfest, Did Harvard Violate Federal Securities Law?  
+The Campaign against Classified Boards of Directors 3 (2014), 
+http://papers.ssrn.com/sol3/papers.cfm?  abstract_id= 2536586.  These activist campaigns have been 
+led by shareholders who purchased in the secondary market.  In contrast to the hostility to classified 
+boards seen among secondary market investors, equity investors in the primary market have 
+continued to show a notable willingness to purchase shares of companies with classified board 
+structures. Id. at 2-3 (more than 70% of companies going public from 2007 to 2013 had classified 
+boards). 
+214 In 2010, the SEC unsuccessfully sought to adopt a “proxy access” rule that would allow activist 
+shareholders to use corporate resources to mount proxy contests in director elections.  SIDLEY 
+CORPORATE GOVERNANCE REPORT, PROXY ACCESS MOMENTUM IN 2016, 3 (2016).  Although the 
+SEC’s rule was vacated by the U.S. Court of Appeals for the District of Columbia, an SEC 
+amendment to Exchange Act Rule 14a-8(i)(8) allowing shareholders to bring proposals seeking proxy 
+access became effective, and has since been used by institutional investors to obtain proxy access in 
+approximately 40% of the companies in the S&P 500. Id. at 1, 3. 
+215 Belinfanti, supra note 208, at 407-08. 
+50 
+  
+the number of public companies listed on U.S. exchanges has been cut in 
+half.  Corporate life expectancy has declined even further: where in the 
+216
+1960s the average Fortune 500 company could expect to remain on that list 
+for 60 years or more, today the figure is 15 years.  Optimists might dismiss 
+217
+such numbers as evidence of “creative destruction.” But if the destruction 
+were creative, we should see increased returns from holding stock in these 
+fewer, more short-lived companies.  This has not happened. Although some 
+activist investors have earned above-market returns, the shift toward more 
+shareholder-centric  corporations  has  not  benefited  long-term,  diversified 
+investors. Indeed, average returns from holding public equity may have 
+declined.  There is reason to question whether the embrace of shareholder 
+218
+value theory has created greater shareholder value.   
+Given such trends, it is unsurprising to hear a growing chorus of voices 
+question  the  wisdom  of  requiring  companies  to  privilege  immediate 
+shareholder returns over other possible corporate goals and objectives.  Yet 
+219
+many governance experts and business leaders continue to presume that 
+maximizing “long-term” shareholder value is the only proper objective of 
+the corporation, primarily because they see no attractive alternative for 
+holding managers accountable.  System theory provides that alternative. In 
+220
+the  process,  it  supports  and  explains  important  elements  of  corporate 
+practice, corporate law, and competing models of the corporation.  
+                                                           
+216 See supra text accompanying note 181 (number of U.S. public companies has declined from about 
+8,000 to about 4,000); see generally DAVIS, supra note 194. Meanwhile, the number of private 
+companies has been increasing, Stout, supra note 195 at 2020-21. These trends suggest that at the 
+level of the corporate sector as a whole, the system seems to be self-organizing by shifting from 
+public companies to private ones. It can be argued that this is a second-best solution that deprives 
+average investors of the opportunity to participate in the wealth generation made possible by the 
+corporate form, unless they invest through layers of expensive intermediaries like mutual funds, 
+hedge funds, and private equity funds. 
+217 Stout, supra note 195, at 2021. See also RICHARD N. FOSTER & SARAH KAPLAN, CREATIVE 
+DESTRUCTION (2001) www.mckinsey.com/functions/strategy-and-corporate-finance/our-
+insights/creative-destruction 
+(companies on the original S&P Index were on list for 65 years; by 1998, average tenure on list was 
+10 years). 
+218 ROGER MARTIN, FIXING THE GAME: BUBBLES, CRASHES, AND WHAT CAPITALISM CAN LEARN FROM 
+THE NFL 63 (2011); James Montier, GMO White Paper: The World’s Dumbest Idea, Dec. 2014, 
+https://www.gmo.com/docs/default-source/research-and-commentary/strategies/asset-allocation/the-
+world’s-dumbest-idea.pdf 
+219 See sources cited supra note 28. 
+220 See supra text accompanying notes 65-79. 
+51 
+  
+CONCLUSION 
+Despite the dominant role corporations play in our economy, culture, 
+and politics, the nature and purpose of corporations remains hotly contested.  
+This conflict was brought to the fore in the recent Supreme Court opinions 
+in Citizens United and Hobby Lobby. Although the dominant narrative for 
+the past quarter-century has been that corporations belong to shareholders 
+and should pursue shareholder value, support for this approach, which has 
+been justified as assuring managerial accountability, is eroding.  It persists 
+today primarily in the form of the argument that corporations should seek 
+“long-term”  shareholder  value.  Yet,  as  this  Article  has  shown,  when 
+shareholder value is interpreted to mean “long-term” shareholder value, it 
+no longer offers that desired managerial accountability. 
+What can?  Systems theory offers an answer. It provides an approach to 
+understanding the nature and purpose of corporate entities that is not only 
+consistent with elements of many otherwise-conflicting visions of the firm, 
+but also with important features of corporate law and practice. It offers 
+proven methods for measuring corporate performance that recognize the 
+possibility of multiple goals and the importance of sustainability. And it 
+cautions that, by ignoring the lessons of systems theory, shareholder value 
+thinking  may  have  encouraged  regulatory  and  policy  interventions  into 
+corporate governance that are not only ineffective, but destructive. 
+In exploring the lessons of systems thinking, and particularly why it 
+might not always (or even often) be desirable to demand that managers 
+“maximize shareholder value,” we do not mean to suggest that shareholder 
+returns and managerial accountability are unimportant corporate objectives. 
+The  shareholding  system  is  an  important  subsystem  of  any  public 
+corporation; to thrive, public companies must offer returns that attract and 
+keep  equity  investors.  Moreover,  shareholder  governance  rights,  and 
+compensation practices that pay attention to accounting profits and other 
+financial  metrics,  can  help  police  against  managerial  shirking  and  self-
+dealing.  Finally, there may be particular businesses or industries in which a 
+singular focus on short-term financial results is more appropriate.  
+221
+But  systems  theory  warns  against  always  defining  and  measuring  a 
+corporate  enterprise  solely  in  terms  of  shareholder-centric  goals  and 
+                                                           
+221 For example, a greater focus on shareholder returns may be more appropriate in investment 
+companies, where shareholders are also the customers. 
+52 
+  
+metrics, as this allows the goals of the shareholding subsystem to eclipse the 
+goals of the corporate system as a whole. For the most part, states have 
+managed to resist the pressure to change their laws to support shareholder 
+value theory. However, it has stealthily crept into federal law, especially tax 
+code rules that tie executive pay to objective performance metrics, and SEC 
+rules that empower short-term investors and measure corporate performance 
+by shareholder near-term returns. Activist investors have used the rhetoric 
+of shareholder value as a cudgel to browbeat boards into selling assets, 
+repurchasing shares, and cutting payroll and research and development to 
+achieve short term share price increases. Finally, shareholder value theory 
+has been taught as gospel to a generation of policymakers and business 
+leaders.  Over  the  past  quarter-century,  these  developments  have 
+significantly  influenced  business  behavior,  especially  in  publicly-listed 
+companies. They have been accompanied by declining corporate numbers, 
+decreasing corporate life expectancy, and reduced shareholder returns. 
+Corporations are perpetual entities designed to operate into an uncertain 
+future. They are comprised of elements and subsystems, each of which has 
+an  individual  purpose  that  may  at  times  come  into  conflict  with  the 
+overarching purpose of the corporation. Systems thinking accepts, rather 
+than dismisses, these realities. It honors the corporation as its own separate 
+legal entity, while recognizing the state’s part in its creation. It respects the 
+important roles played by shareholders and other stakeholders, while also 
+explaining the board’s function in mediating among these interests to keep 
+the system in check. It acknowledges that the corporate system exists as part 
+of  a  larger  system,  which  we  can  broadly  call  community  or  society.  
+Finally, it reveals how the quest to find a single quantifiable metric to 
+ensure managerial accountability is a quixotic venture that offers at most an 
+illusion of objectivity and certainty. Systems theory provides an alternative 
+that offers both  greater managerial  accountability and fewer destructive 
+consequences. 
+ 
+53 
+ 

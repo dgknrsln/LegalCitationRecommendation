@@ -1,0 +1,2001 @@
+ASSESSING ONLINE LEARNING IN LAW SCHOOLS: 
+STUDENTS SAY ONLINE CLASSES DELIVER 
+YVONNE M. DUTTON,† MARGARET RYZNAR†† & KAYLEIGH LONG†††* 
+ABSTRACT 
+This Article provides empirical data on the effectiveness of distance 
+education in law schools following the American Bar Association’s deci-
+sion to increase the number of permitted online course credits from fifteen 
+to thirty. Our data, composed of law student surveys and focus groups, 
+reveals not only the success of distance education in legal education, but 
+also the online teaching methods that are most effective for students. 
+TABLE OF CONTENTS  
+INTRODUCTION ...................................................................................... 494 
+I. THE ABA AND ONLINE LEARNING IN LAW SCHOOLS ....................... 498 
+II. TYPES OF ONLINE COURSE OFFERINGS ............................................ 502 
+A. Massive Open Online Courses (MOOCs) .................................... 503 
+B. Blended/Hybrid Courses, Including Flipped Classrooms ........... 506 
+C. Non-MOOCs Fully Online Courses ............................................ 510 
+1. Synchronous Courses ............................................................. 510 
+2. Asynchronous Courses ........................................................... 512 
+III. RESEARCH DESIGN: THE IU MCKINNEY STUDY ASSESSING 
+ASYNCHRONOUS ONLINE PROGRAMMING ..................................... 515 
+A. Anonymous Student Surveys ........................................................ 515 
+B. Focus Groups ............................................................................... 517 
+IV. STUDY RESULTS AND DISCUSSION .................................................. 519 
+A. Anonymous Survey Results .......................................................... 521 
+B. Focus Group Results .................................................................... 522 
+1. Student Engagement and Learning: Online Versus Live ........ 522 
+2. Components of a Quality Online Course ................................ 525 
+CONCLUSION ......................................................................................... 530 
+APPENDIX A ........................................................................................... 532 
+ 
+   
+  †  Professor of Law, Indiana University Robert H. McKinney School of Law. 
+  ††  Professor of Law, Indiana University Robert H. McKinney School of Law. 
+  †††  J.D. 2018, Indiana University Robert H. McKinney School of Law. 
+  *  Thanks to Max Huffman for his support as Director of IU McKinney Law Online. Thanks 
+also to colleagues and the administration of Indiana University McKinney School of Law, including 
+Andy Klein, Mike Pitts, and Antony Page. For course design work and guidance, we are grateful to 
+Zach Carnagey, Anna Lynch, Julia Sanders, as well as the Indiana University-Purdue University In-
+dianapolis (IUPUI) Center for Teaching and Learning and eLearning Design & Services, University 
+Information Technology Services (UITS). Special thanks to Douglas Jerolimov for advising on and 
+running our focus groups, as well as David Paul and Christina Fisher for supporting our data collection. 
+ 
+493 494  DENVER LAW REVIEW  [Vol. 96:3  
+INTRODUCTION 
+Law schools in the United States are increasingly embracing the ben-
+efits of new technology and meeting student demand for increased flexi-
+bility by investing in online education.1 As of July 2018, a review of law 
+school websites reveals that at least thirty of the top one hundred schools 
+offer online courses as part of their law school curriculum.2 Furthermore, 
+law schools have adopted varying approaches to the incorporation of 
+online learning, offering everything from a fully online law degree3 to a 
+handful of online courses. Some schools have created hybrid programs in 
+which coursework is completed online as well as in the classroom.4 Sev-
+eral of these hybrid programs have even replaced existing evening juris 
+doctor programs (J.D.).5 The Authors’ law school, Indiana University 
+   
+  1.  Flexibility is only one of the benefits to online learning that we discuss below. Flexibility 
+is an important benefit, especially as it can help attract and retain nontraditional students who have 
+family and work demands on their time that might otherwise preclude them from attaining a law de-
+gree. See, e.g., Steven C. Bennett, Distance Learning in Law, 38 SETON HALL LEGIS. J. 1, 6–7 (2013) 
+(explaining that distance learning can provide flexibility to students who are pursuing a second career 
+and, therefore, have family and work obligations that make a typical legal degree education difficult 
+to pursue). 
+  2.  In July 2018, a research assistant searched and examined the website of each of the top 100 
+law schools ranked by U.S. News and World Report. This covered ranks 1 to 99, including ties. The 
+assistant looked for information on online or hybrid offerings in course listings and program descrip-
+tions. A limitation of this approach is that not all law schools may mention their online offerings on 
+their websites, and newly approved or planned online courses may not yet have been added to the 
+websites. 
+  3.  For example, Concord Law School has offered a completely online J.D. program since 
+1999. See Online Juris Doctor Program, CONCORD L. SCH., https://www.concordlawschool.edu/aca-
+demic-programs/juris-doctor [https://perma.cc/LL74-CVZ7] (last visited Feb. 27, 2019). Other 
+schools, too, offer completely online law degrees. See Distance Learning, AM. HERITAGE U. SCH. L., 
+http://ahulaw.com/distance_learning.php  [https://perma.cc/3JF6-XR2X] (last visited Feb. 27, 2019); 
+Introduction  to  the  Juris  Doctor  (JD  Degree),  CAL.  SOUTHERN  U.,  https://www.calsouth-
+ern.edu/online-law-degrees/jd-degree [https://perma.cc/8CXP-X6JJ] (last visited Feb. 27, 2019); Juris 
+Doctor Degree Program, ST. FRANCIS SCH. L., https://stfrancislaw.com/academics/juris-doctor 
+[https://perma.cc/R8PK-WNDU] (last visited Feb. 27, 2019); Juris Doctor Online Law School, 
+ABRAHAM LINCOLN U., https://www.alu.edu/academics/juris-doctor [https://perma.cc/UM9U-JNVB] 
+(last  visited  Feb.  27,  2019);  Part  Time  Courses,  CAL.  SCH.  L.,  https://californiaschool-
+oflaw.com/courses [https://perma.cc/L3KB-4NH3] (last visited Feb. 27, 2019). Although such online 
+law schools exist, the ABA has not accredited any of them. Distance Education, A.B.A. (June 19, 
+2018),  https://www.americanbar.org/groups/legal_education/resources/distance_education.html 
+[https://perma.cc/C8UU-SWRT]. 
+  4.  For example, Loyola University Chicago School of Law’s Weekend J.D. program takes a 
+hybrid format where face-to-face instruction occurs only over fourteen weekends in a school year. 
+Weekend  JD,  LOY.  U.  CHI.,  https://www.luc.edu/law/degrees/jurisdoctor-part-time 
+[https://perma.cc/UA6F-7MQV] (last visited Feb. 27, 2019). Touro College Law Center has a Flex-
+Time J.D. program that also uses a hybrid format with a mixture of online and “on-campus classes 
+every other Sunday during the first two years” and then “students will be able to take many courses 
+entirely online during the third and final years.” Juris Doctor, TOURO C.: JACOB D. FUCHSBERG L. 
+CTR., https://www.tourolaw.edu/Admissions/juris-doctor [https://perma.cc/YVT8-M94W] (last vis-
+ited Feb. 27, 2019). In January 2019, Syracuse University College of Law launched ABA-approved 
+JDinteractive, a program with at least 50%  synchronous online instruction and the remainder asyn-
+chronous online instruction, combined with some face-to-face courses. JDinteractive: Online J.D. 
+Program,  SYRACUSE  U.C.L.,  http://law.syr.edu/admissions/online-jd-program 
+[https://perma.cc/UA6F-7MQV] (last visited Feb. 27, 2019). 
+  5.  Paul Caron, Denver Is the Eighth Law School to Offer a Hybrid J.D., TAXPROF BLOG (Aug. 
+23, 2018), http://taxprof.typepad.com/taxprof_blog/2018/08/denver-is-eighth-law-school-to-offer-hy-
+brid-jd.html [https://perma.cc/2VDJ-XH4U]. 
+ 2019]  ASSESSING ONLINE LEARNING IN LAW SCHOOLS  495 
+Robert H. McKinney School of Law (IU McKinney), is among those em-
+bracing online teaching and learning.6 As of 2019, IU McKinney offers 
+approximately two-dozen online courses, most created and run by its ten-
+ured faculty.7  
+The American Bar Association (ABA) has slowly and steadily shown 
+support for the online movement, proposing in early 2018 to expand the 
+amount of online instruction permitted in law school J.D. programs.8 Spe-
+cifically, based on its “belief that legal education instruction can be deliv-
+ered as effectively by distance education as by instruction in the traditional 
+manner,”9 the ABA proposed: (1) increasing the total number of credits 
+that law students could earn through asynchronous online classes from fif-
+teen to thirty; and (2) for the first time ever, permitting students to take ten 
+of those credits during their first year of law school.10 The ABA adopted 
+this proposal in August 2018,11 thus allowing law schools to offer their 
+students the option of taking more online classes in satisfaction of their 
+law degrees.12 
+Despite this trend toward increasing online offerings for law students, 
+few articles assess the effectiveness of teaching and learning in asynchro-
+nous courses in the law school environment.13 Furthermore, these articles 
+   
+  6.  See  Online  Courses,  IND.  U.  ROBERT  H.  MCKINNEY  SCH.  L.,  https://mckin-
+neylaw.iu.edu/courses/online.cfm [https://perma.cc/CF7T-QN2J] (last visited Feb. 27, 2019). 
+  7.  Id. 
+  8.  Accredited J.D. programs must abide by ABA standards regarding course content and de-
+livery, including in their delivery of any online or hybrid course offerings. STANDARDS & RULES OF 
+PROCEDURE FOR APPROVAL OF LAW SCHOOLS Standard  306 (AM. BAR ASS’N  2017–2018), 
+https://www.americanbar.org/content/dam/aba/publications/misc/legal_education/Standards/2017-
+2018ABAStandardsforApprovalofLawSchools/2017_2018_aba_standards_rules_ap-
+proval_law_schools_final.authcheckdam.pdf [https://perma.cc/9G3V-7FFF]. 
+  9.  Memorandum from Pamela Lysaght, Chair, Am. Bar Ass’n Section of Legal Educ. & Ad-
+missions to the Bar Standards Review Comm., to Maureen O’Rourke, Chair, Council of the Am. Bar 
+Ass’n Section of Legal Educ. & Admissions to the Bar 4 (Oct. 12, 2017), https://www.ameri-
+canbar.org/content/dam/aba/administrative/legal_education_and_admissions_to_the_bar/council_re-
+ports_and_resolutions/November2017CouncilOpenSession/2017_nov_memo_re_pro-
+posed_changes_to_standards.authcheckdam.pdf [https://perma.cc/PU3K-JU5A]. 
+  10.  Memorandum from Maureen A. O’Rourke, Chair, Council of the Am. Bar Ass’n Section 
+of Legal Educ. & Admissions to the Bar & Barry A. Currier, Managing Dir. of Accreditation & Legal 
+Educ., Am. Bar Ass’n, to Interested Persons & Entities (Feb. 22, 2018), https://www.ameri-
+canbar.org/content/dam/aba/administrative/legal_education_and_admissions_to_the_bar/council_re-
+ports_and_resolutions/20180222_notice_and_comment.authcheckdam.pdf  [https://perma.cc/5SUD-
+GTB9]. 
+  11.  AM. BAR ASS’N SECTION OF LEGAL EDUC. & ADMISSIONS TO THE BAR, REPORT TO THE 
+HOUSE OF DELEGATES: RESOLUTION 111E, at 5–6 (2018) [hereinafter ABA RESOLUTION 111E]. 
+  12.  See, e.g., David Frakt & Carolyn Gachet, Distance Learning: The Future of Legal Educa-
+tion? Part I, FAC. LOUNGE (Apr. 10, 2018), http://www.thefacultylounge.org/2018/04/distance-learn-
+ing-the-future-of-legal-education.html [https://perma.cc/4JVK-S923] (noting that “it seems inevitable 
+that the ability of law schools to use distance learning will be significantly expanded in the near fu-
+ture”); Karen Sloan, ABA Set to Loosen Restrictions on Online Law Classes, NAT’L L.J. (Feb. 13, 
+2018,  2:27  PM),  https://www.law.com/nationallawjournal/sites/almstaff/2018/02/13/aba-set-to-
+loosen-restrictions-on-online-law-classes [https://perma.cc/3224-ZPR5] (noting that the ABA has pro-
+gressively relaxed limits on online credits in the past decade). 
+  13.  “Asynchronous” course offerings are distinguished from those that are offered “synchro-
+nously” online. In the asynchronous course, learning is time-shifted, such that the professor and stu-
+dent need not interact online at the same time. In synchronous courses, the professor and student will 
+ 496  DENVER LAW REVIEW  [Vol. 96:3  
+tend to be “case studies” in which the authors describe their online courses 
+and then make observations and conclusions about the efficacy of online 
+teaching in the law school environment.14 These articles generally con-
+clude that online courses have a place in the law school curriculum be-
+cause they can offer a quality learning experience.15 
+The current literature is only starting to address how students feel 
+about asynchronous online courses.16 Do they believe such courses pro-
+vide a quality learning experience—one that is comparable to quality live 
+classroom learning experiences? What do students conclude constitutes a 
+quality online learning environment where they can master course material 
+as well as the practice skills they will need when they become lawyers? In 
+light of the ABA’s new standards regarding online learning, law schools 
+may begin allocating more resources to increase their online offerings, in-
+creasing the importance of examining the student experience in these pro-
+grams.17  
+We do not mean to suggest that law schools should only consider 
+students’ opinions when deciding whether to offer online courses or how 
+to design those courses. However, law schools seek student input on other 
+important aspects of the curriculum, including through course evalua-
+tions.18 Furthermore, especially in the online setting, student preferences 
+should contribute to course design because students are responsible for 
+   
+meet online through a platform such as Skype or Zoom for class meetings. See Henry H. Perritt, Jr., 
+The Internet Is Changing the Face of American Law Schools, 33 IND. L. REV. 253, 269 (1999) (defining 
+“asynchronous” as “time shift[ed]” and “synchronous” as “simultaneous”); see also infra Section II.C. 
+  14.  See, e.g., Max Huffman, Online Learning Grows Up—and Heads to Law School, 49 IND. 
+L. REV. 57, 76–84 (2015) (describing his asynchronous online Comparative and International Compe-
+tition Law course and its use of a course paper and online quizzes, followed by a discussion of common 
+mistakes, as an effective way to ensure comprehension); Susan D. Landrum, Drawing Inspiration from 
+the Flipped Classroom Model: An Integrated Approach to Academic Support for the Academically 
+Underprepared Law Student, 53 DUQ. L. REV. 245, 272–75 (2015) (explaining the creation of an online 
+academic support program for first-year law students through the use of online modules supplemented 
+with live workshops); Kenneth R. Swift, The Seven Principles for Good Practice in [Asynchronous 
+Online] Legal Education, 44 MITCHELL HAMLINE L. REV. 105, 111–13, 161 (2018) (describing his 
+asynchronous online Employment Law and Transactional Drafting courses and the ability to more 
+effectively engage in active and cooperative learning and assessment in the online context). 
+  15.  See Huffman, supra note 14, at 84 (describing that online courses can deliver content while 
+meeting both student and ABA demands); Landrum, supra note 14, at 276–78 (noting the ability to 
+reach first-year students before they become at risk and the online platform’s ability to reuse resources 
+once created); Swift, supra note 14, at 161–62 (explaining the inevitable growth of online legal edu-
+cation and ways to ensure its quality). 
+  16.  See Victoria Sutton, Asynchronous, E-Learning in Legal Education: A Comparative Study 
+6–12  (Aug.  6,  2016)  (unpublished  manuscript),  https://papers.ssrn.com/sol3/papers.cfm?ab-
+stract_id=2819034 (analyzing student responses to an online law course); see also JENNIFER CAMERO, 
+TEACHING LAW ONLINE 11–21 (2015) (describing how to design an online law course); WORKING 
+GRP. ON DISTANCE LEARNING IN LEGAL EDUC., DISTANCE LEARNING IN LEGAL EDUCATION: DESIGN, 
+DELIVERY AND RECOMMENDED PRACTICES 11, 20, 32 (2015) (compiling best practices on online 
+course design). 
+  17.  See supra Introduction. 
+  18.  See Arthur Best, Student Evaluations of Law Teaching Work Well: Strongly Agree, Agree, 
+Neutral, Disagree, Strongly Disagree, 38 SW. L. REV. 1, 1 (2008) (“American law students spend 
+more than 30,000 hours each academic year providing evaluations of their courses.”). 
+ 2019]  ASSESSING ONLINE LEARNING IN LAW SCHOOLS  497 
+their own learning in an autonomous setting such as an online classroom.19 
+Yet, there is a paucity of literature comprehensively assessing students’ 
+perceptions of online learning in the law school context.  
+At this important juncture, where the trend is toward increasing 
+online offerings in law schools, this Article fills an important void—shar-
+ing the results of a study that assesses the quality of asynchronous online 
+teaching and learning in the law school context using student perceptions. 
+Our data, gathered from students who have taken online courses at IU 
+McKinney, supports the conclusion that students not only want more 
+online offerings, but also that online classes can deliver the same quality 
+learning experience as live classes. Specifically, the data reveals several 
+key conclusions. First, students appreciate an online course that is orga-
+nized in the way it presents material and assignments. Second, students 
+equate a quality course with one that engages students with course con-
+tent—for example, through short, focused, and interesting lectures, or 
+through YouTube videos and other media that relate to course content. 
+Third, students associate quality courses with those that involve regular 
+assessment (especially practice-ready assignments) and professor feed-
+back. 
+We do not mean to suggest that all law students will perceive all 
+online courses as comparable to their live courses in delivering a quality 
+teaching and learning experience. That conclusion is overly broad. First, 
+some students simply may not enjoy learning through an online platform 
+or interacting with technology in this setting.20 Second, some online 
+courses may not appeal to students who are generally receptive to the 
+online learning environment.21 Finally, some self-disciplined students who 
+have well-developed time-management skills may self-select into online 
+courses, thus increasing the likelihood that feedback regarding online 
+courses will be positive.22  
+The online teaching and learning environment is a unique one, requir-
+ing the professor to capture students’ attention remotely. This fact alone 
+   
+  19.  Cassandra L. Hill, The Elephant in the Law School Assessment Room: The Role of Student 
+Responsibility and Motivating Our Students to Learn, 56 HOW. L.J. 447, 450–51 (2013). 
+  20.  See infra Part IV. 
+  21.  See infra Part IV. 
+  22.  Much literature suggests that students with high levels of self-regulation and discipline are 
+most likely to succeed in the online environment, where they must self-direct their learning process. 
+See Anthony R. Artino Jr. & Jason M. Stephens, Academic Motivation and Self-Regulation: A Com-
+parative Analysis of Undergraduate and Graduate Students Learning Online, 12 INTERNET & HIGHER 
+EDUC. 146, 149 (2009) (finding that graduate students were less likely to procrastinate in online 
+courses, a characteristic of self-regulation); Lucy Barnard et al., Online Self-Regulatory Learning Be-
+haviors as a Mediator in the Relationship Between Online Course Perceptions with Achievement, 
+INT’L REV. RES. OPEN & DISTANCE LEARNING, June 2008, at 8 (explaining that self-regulation ac-
+counts for a “positive relationship between student perceptions of online course communication and 
+collaboration with academic achievement”); Richard Lynch & Myron Dembo, The Relationship Be-
+tween Self-Regulation and Online Learning in a Blended Learning Context, INT’L REV. RES. OPEN & 
+DISTANCE LEARNING, August 2004, at 10–12 (conducting a study that found a positive relationship 
+“between self-efficacy and performance in online education”). 
+ 498  DENVER LAW REVIEW  [Vol. 96:3  
+means that professors must use unique teaching tools. The data shows that 
+students value an online course that takes this reality into account.23 For 
+an online course to succeed in delivering a quality teaching and learning 
+experience, the professor must also create an online course that is orga-
+nized, engaging, and provides opportunities for students to receive feed-
+back on activities that allow them to assess their learning of the material 
+and practice real-world skills. 
+As we predict that law schools will offer increased opportunities for 
+online learning, we anticipate that administrations and faculty will be in-
+terested in what students say makes an online legal course beneficial both 
+academically and practically. Accordingly, Part I of this Article begins by 
+detailing the evolution of online learning in law schools, focusing espe-
+cially on the role that the ABA plays in regulating the delivery of online 
+course content to law students. Part II continues by explaining the different 
+types of online classes and discussing some of the perceived advantages 
+or disadvantages of each type in terms of student engagement and learning. 
+This Part explains the different types so that readers are able to understand 
+the nature of an asynchronous course in the context of the other types of 
+online course offerings. From this Part, readers will also be able to com-
+pare the advantages and disadvantages of asynchronous courses to the 
+other types of online offerings. In Part III, we explain our research design. 
+In Part IV, we discuss the results of our study that include data from anon-
+ymous student surveys and focus group sessions. As noted above, the find-
+ings show that students in our study value online courses, want more of 
+them, and point to many features of online courses that make them com-
+parable to live classes in terms of delivering a quality learning experi-
+ence.24 We conclude by providing observations about our findings and 
+suggestions for law school professors and administrators as they consider 
+increasing their online academic presence. 
+I. THE ABA AND ONLINE LEARNING IN LAW SCHOOLS 
+Law schools have been slower than their undergraduate and graduate 
+counterparts to incorporate online education into their J.D. academic pro-
+grams.25 Two overarching reasons explain this phenomenon. First, law 
+schools have operated according to one model for more than a century: the 
+face-to-face course where “students prepare for class by reading assigned 
+   
+  23.  See infra Part IV. 
+  24.  See infra Part IV. 
+  25.  Linda Harasim, Shift Happens: Online Education as a New Paradigm in Learning, 3 
+INTERNET & HIGHER EDUC. 41, 43 (2000) (stating that the first online undergraduate courses were 
+offered through the program Virtual Classroom in 1984, and the first online graduate courses were 
+offered through Nova Southeastern University, Connect-Ed, and the University of Toronto in 1985). 
+The first online law school courses were offered in the 1997–1998 school year after the ABA’s Ac-
+creditation Committee passed the Temporary Guidelines on Distance Learning, which first allowed 
+law schools to offer online courses. See Laura N. Gasaway, Distance Learning Survey, SYLLABUS, 
+Summer 1998, at 16, 16. 
+ 2019]  ASSESSING ONLINE LEARNING IN LAW SCHOOLS  499 
+texts or completing other assignments, then attend class where the teacher 
+leads a Socratic dialogue, facilitates a discussion, or presents a lecture.”26 
+Like all institutions that have a traditional way of doing things, law schools 
+are resistant to change.27 Thus, this adherence to the traditional law school 
+curriculum has stymied the incorporation of online learning in law schools. 
+Second, accredited law schools must abide by the standards advanced by 
+their governing body, the ABA.28 Given that the ABA wants to ensure that 
+law schools produce well-trained lawyers, it has necessarily taken a cau-
+tious approach toward introducing online teaching and learning into the 
+law school curriculum.29 
+However, the ABA has started to accept the idea of online course 
+offerings. In 1997, the ABA made its first move toward allowing online 
+education by approving temporary guidelines that allowed law schools to 
+include online courses in their J.D. programs.30 The allowed programming 
+was limited and excluded asynchronous course offerings.31 In 1999, com-
+mentators at the Distance Education Conference expressed concerns about 
+online law school courses, questioning the number of distance courses that 
+schools could offer and whether courses should be synchronous or asyn-
+chronous.32 
+   
+  26.  Gerald F. Hess, Blended Courses in Law School: The Best of Online and Face-to-Face 
+Learning?, 45 MCGEORGE L. REV. 51, 52 (2013). 
+  27.  See Bennett, supra note 1, at 2–3 (noting that law schools and the ABA have been commit-
+ted to the Socratic method at the expense of adopting distance learning); Abigail Cahak, Beyond Brick-
+and-Mortar: How (Cautiously) Embracing Internet Law Schools Can Help Bridge the Legal Access 
+Gap, 2012 U. ILL. J.L. TECH. & POL’Y 495, 497, 507–09 (2012) (explaining that the ABA appears to 
+believe that online law schools cannot provide a satisfactory education); Huffman, supra note 14, at 
+57 (stating that the ABA has remained committed to the traditional Socratic classroom and has there-
+fore limited law schools’ ability to offer online courses and degrees). 
+  28.  About  Us,  A.B.A.,  https://www.americanbar.org/groups/legal_education/about_us.html 
+[https://perma.cc/WDV4-S2RZ] (last visited Feb. 27, 2019) (stating that the ABA’s Section of Legal 
+Education and Admissions to the Bar is responsible for the national accreditation of schools with J.D. 
+programs and all fifty states permit graduates of ABA-accredited law schools to sit for their bar ex-
+aminations). 
+  29.  Am. Bar Ass’n Section of Legal Educ. & Admissions to the Bar, Temporary Distance Ed-
+ucation Guidelines, SYLLABUS, Fall 1997, at 12, 12 [hereinafter ABA Temporary Distance Guidelines] 
+(noting that law schools must be ready to implement new technologies, but also cautioning that 
+“[e]ducating a student for a Juris Doctor degree is professional education of a most distinct variety”); 
+Gasaway, supra note 25 (noting law school concerns that online courses preserve quality, pedagogical 
+soundness, and faculty–student interaction); Randall T. Shepard, From the Chair: Our Evolving Policy 
+on Distance Learning, SYLLABUS, Winter 1999, at 5, 5 (noting that the ABA’s policy at the time 
+affirmed “that the term distance learning is not a talisman in the presence of which everyone may stop 
+thinking about the caliber of the education being provided”). 
+  30.  ABA Temporary Distance Guidelines, supra note 29, at 12–13. 
+  31.  Id. at 13 (stating that “delivery to a site that merely has technical personnel to operate and 
+maintain educational or transmission equipment, but does not have a law faculty, is not in compliance 
+with the above principles”). 
+  32.  Am. Bar Ass’n Section of Legal Educ. & Admissions to the Bar, Distance Education Con-
+ference, SYLLABUS, Fall 1999, at 1, 1, 5. 
+ 500  DENVER LAW REVIEW  [Vol. 96:3  
+By 2002, the ABA proposed permanent regulations regarding online 
+education in the form of Standard 306 in the ABA’s Standards for Ap-
+proval of Law Schools.33 In issuing Standard 306, the ABA emphasized 
+that legal education “can include a healthy dose of distance education at 
+schools that are willing to invest the time, talent, and resources to make it 
+work well.”34 As originally adopted, the Standard allowed for synchronous 
+and asynchronous courses, but limited law students to taking no more than 
+four online credits in one term and no more than twelve credits throughout 
+their enrollment.35 Furthermore, this Standard only allowed students to 
+take distance education courses after they had completed twenty-eight 
+credits, which equates to the first year of law school.36 The ABA also made 
+clear that not all online course offerings would satisfy Standard 306.37 To 
+meet this Standard, both synchronous and asynchronous courses had to 
+give students “opportunities to interact with instructors that equal or ex-
+ceed the opportunities for such interaction with instructors in a traditional 
+classroom setting.”38 The ABA did not define the term “interaction,” but 
+did make clear that law schools would have to be rigorous in delivering an 
+interactive environment.39 
+As technology continued to develop, and as more law professors de-
+livered courses via online platforms, legal educators began to accept that 
+students could receive quality legal education through distance courses.40 
+By 2010, thirty-seven law schools offered synchronous courses, and forty 
+law schools offered asynchronous courses.41 In 2014, the ABA updated 
+Standard 306 to allow J.D. students to take up to fifteen credit hours of 
+online courses during their enrollment,42 but gave no explanation for why 
+the ABA thought an increase was necessary or permissible.43 However, 
+   
+  33.  Am. Bar Ass’n Section of Legal Educ. & Admissions to the Bar, Proposed Revisions to 
+Standards 304 and 305 and a Proposed New Standard Regarding Distance Education, SYLLABUS, 
+Feb. 2002, at 7, 7 [hereinafter ABA Proposed Revisions to 304 and 305]. The proposed revisions were 
+approved by the Council of the Section on Legal Education and Admissions to the Bar. Am. Bar Ass’n 
+Section of Legal Educ. & Admissions to the Bar, Revisions to the Standards and Interpretations Ap-
+proved by the Council of the Section: June 2002, A.B.A. J., Aug. 2002, at 77, 77. 
+  34.  ABA Proposed Revisions to 304 and 305, supra note 33. 
+  35.  Id. at 10. 
+  36.  Id. 
+  37.  See id. 
+  38.  Id. at 11. 
+  39.  See Interpretation 306-4 in ABA Proposed Revisions to 304 and 305, supra note 33, at 11, 
+which dictates the cited interaction standard but does not explain exactly what that interaction should 
+be. The other Interpretations listed for Standard 306 do not provide clarification. See id. at 10–11. 
+  40.  William R. Rakes, From the Chairperson: Distance Education, SYLLABUS, Winter 2007, 
+at 2, 2–3 (quoting the then-Dean of Nova Southeastern University, Joseph Harbaugh, as stating that 
+law school professors had “concluded that they c[ould] achieve virtually all of the pedagogical goals 
+of a face-to-face classroom using [distance education] technology”). 
+  41.  Hess, supra note 26, at 53–54. 
+  42.  AM. BAR ASS’N SECTION OF LEGAL EDUC. & ADMISSIONS TO THE BAR, REPORT TO THE 
+HOUSE OF DELEGATES: RESOLUTION 103A: REVISED STANDARDS FOR APPROVAL OF LAW SCHOOLS 
+30–31 (2014) [hereinafter ABA RESOLUTION 103A]. 
+  43.  Am. Bar Ass’n Section of Legal Educ. and Admissions to the Bar, Chapter 3: Explanation 
+of Changes, in COMPREHENSIVE REVIEW OF THE ABA STANDARDS FOR APPROVAL OF LAW SCHOOL 
+ 2019]  ASSESSING ONLINE LEARNING IN LAW SCHOOLS  501 
+under this new standard, the ABA still prohibited students from taking 
+online  courses  until  they  had  completed  at  least  twenty-eight  credit 
+hours.44 
+Most recently, in October 2017, the ABA announced a proposal to 
+expand the amount of online instruction permitted in law schools based on 
+its “belief that legal education instruction can be delivered as effectively 
+by distance education as by instruction in the traditional manner.”45 It ac-
+companied this proposed expansion with a call for a “measured transition” 
+that would permit “continued evaluation of the effectiveness of distance 
+education in the legal education context and developing confidence in the 
+effectiveness of distance education by bar admissions authorities.”46 In 
+early 2018, the ABA made its proposed amendment to Standard 306 avail-
+able for comment.47  
+Under the new standard, students could earn up to one-third of their 
+total J.D. credit hours online, and ten of those credits could be earned dur-
+ing the first year.48 The ABA defines an online course as “one in which 
+students are separated from the faculty member or each other for more 
+than one-third of the instruction and the instruction involves the use of 
+technology to support regular and substantive interaction among students 
+and between the students and the faculty member, either synchronously or 
+asynchronously.”49  
+The amended Standard 306 would place limits on the amount of 
+online credit hours J.D. students could accrue. Furthermore, under the 
+amended Standard 306, an online course must be “approved as part of the 
+school’s regular curriculum approval process” with “opportunity for reg-
+ular and substantive interaction between [the] faculty member and student 
+and among students; [and] . . . regular monitoring of student effort by the 
+faculty member and opportunity for communication about that effort.”50 
+Finally, the course must comply with Standard 306’s learning outcomes 
+requirements, which emphasize competency in areas such as knowledge 
+   
+MATTERS FOR NOTICE AND COMMENT (2013), https://www.americanbar.org/content/dam/aba/admin-
+istrative/legal_education_and_admissions_to_the_bar/council_reports_and_resolu-
+tions/20130906_notice_comment_chs_1_3_4_s203b_s603d.authcheckdam.pdf 
+[https://perma.cc/BR22-3PV7]. 
+  44.  ABA RESOLUTION 103A, supra note 42, at 31. 
+  45.  Lysaght, supra note 9. 
+  46.  Id. 
+  47.  Notices of Proposed Standards Changes and Responses to Proposed Standards Changes: 
+Notice and Comment, A.B.A. (June 19, 2018), https://www.americanbar.org/groups/legal_educa-
+tion/resources/notice_and_comment [https://perma.cc/2S5S-DBR3] (last visited Feb. 27, 2019). 
+  48.  O’Rourke & Currier, supra note 10. 
+  49.  STANDARDS & RULES OF PROCEDURE FOR APPROVAL OF LAW SCHOOLS Standard 306 (AM. 
+BAR ASS’N 2017–2018), https://www.americanbar.org/content/dam/aba/publications/misc/legal_edu-
+cation/Standards/2017-2018ABAStandardsforApprovalofLawSchools/2017_2018_aba_stand-
+ards_rules_approval_law_schools_final.authcheckdam.pdf [https://perma.cc/9G3V-7FFF]. 
+  50.  Id. 
+ 502  DENVER LAW REVIEW  [Vol. 96:3  
+of the law, legal analysis and reasoning, professional responsibility, and 
+other legal skills the law school may find appropriate.51 
+The Standard 306 proposal received one comment, from Vermont 
+Law School, which supported the increase in permissible online credit 
+hours and noted that the increase would “attract more non-traditional stu-
+dents who otherwise could not commit to three years of study away from 
+family, community, or other professional obligations.”52 On May 11, 
+2018, the ABA’s Standards Review Committee gave no further recom-
+mendations on the proposals to update Standard 306.53 In August 2018, 
+the ABA adopted the proposal to allow law students to take the equivalent 
+of a full year of classes online.54 
+In sum, over the past twenty years, there has been a significant change 
+in the acceptability of online learning in law schools. As of 2018, the ABA 
+is much more comfortable with online legal education because of law 
+school experimentation with online teaching and learning, which delivered 
+positive results. This overall shift, combined with the prospect that even 
+more law schools will be offering online courses after the ABA’s passage 
+of the 2018 Standard, makes studies like the one presented in this Article 
+more relevant than ever. Law schools and law professors need to ensure 
+that they are delivering quality online courses that engage students and 
+encourage them to master the course content and the skills that they need 
+to practice law.55  
+II. TYPES OF ONLINE COURSE OFFERINGS 
+Universities and law schools have traditionally delivered classes to 
+their students through the face-to-face classroom setting.56 Yet, distance 
+education has a long history. The University of Chicago first pioneered 
+distance education in 1892, almost a century before the Internet became 
+publicly available, by mailing course materials to students and employing 
+   
+  51.  Id. 
+  52.  Letter from Thomas McHenry, President & Dean, Vt. Law Sch., to Maureen A. O’Rourke, 
+Chair, Council of the Am. Bar Ass’n Section of Legal Educ. & Admissions to the Bar 1–2 (Mar. 27, 
+2018),  https://www.americanbar.org/content/dam/aba/administrative/legal_education_and_admis-
+sions_to_the_bar/council_reports_and_resolutions/comments/20180327_comment_s306_ver-
+mont_law_school.authcheckdam.pdf [https://perma.cc/3KZA-HZ8H]. 
+  53.  AM. BAR ASS’N SECTION OF LEGAL EDUC. AND ADMISSIONS TO THE BAR, COUNCIL 
+MEETING, OPEN SESSION 2–3 (May 11, 2018), https://www.americanbar.org/content/dam/aba/admin-
+istrative/legal_education_and_admissions_to_the_bar/council_reports_and_resolutions/Au-
+gust2018OpenSessionMaterials/18_may_council_open_session_minutes.authcheckdam.pdf 
+[https://perma.cc/7Q9S-BVRY]. 
+  54.  ABA RESOLUTION 111E, supra note 11. 
+  55.  See Huffman, supra note 14, at 66; see also supra note 33 and accompanying text. 
+  56.  Alex Berrio Matamoros, Answering the Call: Flipping the Classroom to Prepare Practice-
+Ready Attorneys, 43 CAP. U. L. REV. 113, 116 (2015) (“Until the advent of online learning, the lecture, 
+discussion, and coaching components all required face-to-face interactions between [law] students and 
+instructors, usually during class time or office hours.”); Andrea L. Porter et al., Comparison of Online 
+Versus Classroom Delivery of an Immunization Elective Course, 78 AM. J. PHARMACEUTICAL EDUC., 
+Article 96, at 1 (2014) (“[T]he classroom has been the standard venue for delivering information to 
+students.”). 
+ 2019]  ASSESSING ONLINE LEARNING IN LAW SCHOOLS  503 
+traveling lecturers.57 The reasons that motivated the University of Chicago 
+to incorporate distance learning into its curriculum, such as a desire to in-
+crease access to education, withstood the passage of time and fueled mod-
+ern-day distance education.58 Since that time, online courses have devel-
+oped in various forms as computer and Internet technology has evolved.59  
+As defined by the ABA, online classes are those that are distance60 
+for more than one-third of the instruction time.61 Hybrid classes are those 
+that are distance for one-third or less of total instruction time.62 Online and 
+hybrid classes can further be defined by their method of content delivery, 
+such as whether content is provided via asynchronous or synchronous 
+means.63  
+This Part discusses how each type of nontraditional course is admin-
+istered, including the role of the professor and students, the types of as-
+sessments administered, and the level of interaction between instructor and 
+student. This Part also discusses the benefits and detriments of each form 
+of online course—from the perspective of both the student and the profes-
+sor. Finally, this Part examines the different methods that online courses 
+use to deliver content, either synchronously or asynchronously. 
+A.  Massive Open Online Courses (MOOCs) 
+Although no law school currently offers credit for this type of course, 
+massive open online courses (MOOCs) constitute a form of a fully online 
+curriculum that is “built around pre-recorded video presentations, often by 
+   
+  57.  Breakthroughs:  1890s,  U.  CHI.,  https://www.uchicago.edu/breakthroughs/1890s 
+[https://perma.cc/H69L-FFAU] (last visited Feb. 27, 2019); see also Jenna Hentoff, Compulsory Li-
+censing of Musical Works in the Digital Age: Why the Current Process Is Ineffective & How Congress 
+Is Attempting to Fix It, 8 J. HIGH TECH. L. 113, 120–21 (2008) (noting that the Internet became publicly 
+available in the early 1990s). 
+  58.  Breakthroughs: 1890s, supra note 57. 
+  59.  See, e.g., David Ferrer, History of Online Education, QUAD, https://thebestschools.org/mag-
+azine/online-education-history [https://perma.cc/4RMG-HYZB] (last visited Feb. 27, 2019); see also 
+Harasim, supra note 25, at 44–45 (describing the technological advances beginning in the 1970s that 
+make online education in general possible, including educational use of computer networking begin-
+ning in the 1970s, the first online courses and the increased access to computers and networks in the 
+1980s, and the rise of national educational networking programs in the 1990s). 
+  60.  STANDARDS & RULES OF PROCEDURE FOR APPROVAL OF LAW SCHOOLS Standard 306 (AM. 
+BAR ASS’N 2017–2018), https://www.americanbar.org/content/dam/aba/publications/misc/legal_edu-
+cation/Standards/2017-2018ABAStandardsforApprovalofLawSchools/2017_2018_aba_stand-
+ards_rules_approval_law_schools_final.authcheckdam.pdf [https://perma.cc/9G3V-7FFF] (“A dis-
+tance education course is one in which students are separated from the faculty member or each 
+other . . . .”). 
+  61.  Huffman, supra note 14, at 66. 
+  62.  Id. at 66 n.71. 
+  63.  Id. at 58–59. 
+ 504  DENVER LAW REVIEW  [Vol. 96:3  
+professors who are famous in their fields, which may incorporate still im-
+ages, audio recordings, or other videos.”64Any person with an Internet con-
+nection can access most MOOCs without cost.65 However, some MOOCs 
+do require payment and, in exchange, the participant can receive a certifi-
+cate of completion.66 In all MOOCs, enrollment is essentially unlimited.67  
+Although the term MOOCs was coined in 2008,68 this course format 
+did not gain prominence until 2012, when two Stanford University com-
+puter science professors launched the for-profit company Coursera.69 Most 
+MOOC offerings were initially limited to the science and technology 
+fields;70 however, MOOC courses now offer instruction in additional 
+fields, including art, design, food and nutrition, history, law, and philoso-
+phy.71 At the end of 2012, there were over two million registrations on 
+Coursera, and “[b]y May 2013, Coursera was offering 370 different 
+courses, and it had signed partnership agreements with thirty-three univer-
+sities, including Princeton, Brown, and Columbia.”72 Coursera now touts 
+thirty-three million enrollments, partnerships with over 150 universities, 
+over 2,700 courses, and at least 4 degree programs.73 Expanding the mar-
+ket,  Massachusetts  Institute  of  Technology  and  Harvard  University 
+launched the nonprofit platform edX.74 EdX currently partners with over 
+120 institutions75 and offers over 2,100 courses.76  
+MOOCs have “a syllabus, and course content typically consists of 
+readings, assignments, and lectures, which are often short (6–12 minutes) 
+‘microlectures.’”77 Many professors post online the same content that they 
+   
+  64.  Philip G. Schrag, MOOCs and Legal Education: Valuable Innovation or Looming Disas-
+ter?, 59 VILL. L. REV. 83, 85 (2014). 
+  65.  MITx on edX (MOOCs), MIT OPEN LEARNING, https://openlearning.mit.edu/beyond-cam-
+pus/mitx-edx-moocs [https://perma.cc/5ZUU-YC7] (last visited Apr. 10, 2019). 
+  66.  Id. 
+  67.  Laura Pappano, The Year of the MOOC, N.Y. TIMES (Nov. 2, 2012), https://www.ny-
+times.com/2012/11/04/education/edlife/massive-open-online-courses-are-multiplying-at-a-rapid-
+pace.html [https://perma.cc/5JD8-2GS9]. 
+  68.  I. ELAINE ALLEN & JEFF SEAMAN, CHANGING COURSE: TEN YEARS OF TRACKING ONLINE 
+EDUCATION IN THE UNITED STATES 8 (2013); see also Jeffrey A. Van Detta, The Law School of the 
+Future: How the Synergies of Convergence Will Transform the Very Notion of “Law Schools” During 
+the 21st Century from “Places” to “Platforms,” 37 U. LA VERNE L. REV. 103, 118 (2015) (“MOOCs 
+started in 2008.”). 
+  69.  Schrag, supra note 64, at 85–86. 
+  70.  Id. at 88. 
+  71.  Courses,  EDX,  https://www.edx.org/course?course=all  [https://perma.cc/9NRS-X6XR] 
+(last visited Feb. 27, 2019). 
+  72.  Schrag, supra note 64, at 87. 
+  73.  About, COURSERA, https://about.coursera.org [https://perma.cc/SZ3Z-6RMN] (last visited 
+Feb. 27, 2019). 
+  74.  About edX, EDX, https://www.edx.org/about-us [https://perma.cc/2ZLK-Y9NH] (last vis-
+ited Feb. 27, 2019). 
+  75.  Id. 
+  76.  See, e.g., Courses, supra note 71. 
+  77.  MOOCS II, EDUCAUSE, 7 THINGS YOU SHOULD KNOW ABOUT . . . (June 2013), https://li-
+brary.educause.edu/-/media/files/library/2013/6/eli7097-pdf.pdf [https://perma.cc/DA4W-S46B]. 
+ 2019]  ASSESSING ONLINE LEARNING IN LAW SCHOOLS  505 
+are presenting live at their home universities, so their initial burden in cre-
+ating a MOOC is relatively small.78 Students then follow the dictates of 
+the syllabus, which involves reading class materials, watching lectures, 
+“participat[ing] in online discussions and forums, and complet[ing] quiz-
+zes and tests on the course material.”79 However, professors in MOOCs 
+face a large burden in terms of student interaction and grading.80 It is dif-
+ficult for them to provide students with direct feedback given the poten-
+tially thousands of students participating in the course.81 Thus, professors 
+may opt to have teaching assistants monitor student work and respond to 
+student questions on discussion boards.82 If an assignment or exam cannot 
+be graded automatically through a computer, the professor may also rely 
+on peer grading with several students grading the same assignment.83 
+MOOCs are beneficial for students because prerecorded lectures pro-
+vide students access to course content anywhere and at anytime.84 Addi-
+tionally, because many MOOCs are free or low cost, they attract students 
+with a wide array of interests, from “informal learning, competency in a 
+particular area . . . , and, in some cases, credit toward a formal degree or 
+certification program.”85 Finally, if assignments are computer graded, stu-
+dents can get their results and feedback instantaneously.86 For professors, 
+MOOCs can be beneficial because they “encourage institutions to seek 
+partnerships and collaborations” and have become “a kind of workspace 
+or lab for innovation, helping uncover new best practices that can be used 
+in other online, blended, or face-to-face settings.”87  
+While the low-to-no cost, unlimited-enrollment online model makes 
+higher education more accessible to all, it also contributes to the inherent 
+disadvantages of MOOCs. As described above, while launching MOOCs 
+might be relatively easy for professors, difficulties arise when they must 
+interact with, and grade the work of, potentially thousands of enrollees. 
+Students may not receive adequate, or any, interaction with the professors. 
+Instead, students must seek out peer-to-peer interaction, and might have 
+varying degrees of success.88 For example, differences in students’ interest 
+   
+  78.  Pappano, supra note 67. 
+  79.  MOOCS II, supra note 77. 
+  80.  Pappano, supra note 67. 
+  81.  Id. 
+  82.  Id. 
+  83.  Id. 
+  84.  Id. 
+  85.  MOOCS II, supra note 77. 
+  86.  Celeste  Hammond  et  al.,  Online  Learning  and  Transactional  Skills  Courses,  18 
+TRANSACTIONS TENN. J. BUS. L. 521, 524 (2016). 
+  87.  MOOCS II, supra note 77. 
+  88.  See, e.g., Pappano, supra note 67 (comparing a MOOC student who arranged a meet up 
+with other MOOC students and no one showed up against another MOOC student who met up weekly 
+with a study group and who noted that she had only completed MOOCs in which she had a study 
+group). 
+ 506  DENVER LAW REVIEW  [Vol. 96:3  
+and motivation determine the value and accuracy of their feedback to 
+peers.89  
+Further, MOOCs are known for their staggeringly low completion 
+rates.90 For example, free MOOCs at edX averaged less than 10% comple-
+tion rates in 2016.91 In comparison, edX’s 2016 completion rates were 
+much higher for courses requiring a fee.92 This suggests that low comple-
+tion rates can be attributed to the lack of financial investment from stu-
+dents, which allows them to drop the course without any adverse monetary 
+consequences.93 
+B. Blended/Hybrid Courses, Including Flipped Classrooms 
+Blended, or hybrid, learning combines elements of the traditional 
+face-to-face and online classrooms.94 It includes moving some, but not all, 
+of the instruction to the online format and supplementing classroom in-
+struction with online activities.95  
+The blended class structure can take many forms,96 including the 
+flipped classroom structure discussed more fully below.97 In some forms, 
+the online component is used to replace some traditional face-to-face class 
+time,98 while in others, it may not replace much face-to-face class time at 
+all.99 For example, a professor could decide to have one-third of the class 
+online with the other two-thirds in the classroom, while another could de-
+cide to have face-to-face class meetings at the beginning and end of the 
+semester with the rest of the class conducted online.100 
+Because hybrid courses can take many forms, the roles of the profes-
+sor and students vary depending on what the professor decides to place 
+online. The professor may only post a lecture online for a student to watch 
+before the next face-to-face class session,101 or the professor might require 
+students to complete an activity, such as take an online quiz, participate in 
+   
+  89.  See MOOCS II, supra note 77. 
+  90.  MOOCS II, supra note 77 (noting that completion rates are “often less than 10%”). 
+  91.  Doug Lederman, Why MOOCs Didn’t Work, in 3 Data Points, INSIDE HIGHER ED (January 
+16,  2019),  https://www.insidehighered.com/digital-learning/article/2019/01/16/study-offers-data-
+show-moocs-didnt-achieve-their-goals [https://perma.cc/MM7A-8N7S]. 
+  92.  Id. 
+  93.  Id. 
+  94.  Huffman, supra note 14, at 59. 
+  95.  Jennifer Shea et al., Hybrid Course Design: Promoting Student Engagement and Success, 
+21 J. PUB. AFF. EDUC. 539, 539 (2015). 
+  96.  See Huffman, supra note 14, at 58–59. 
+  97.  See infra notes 117–30 and accompanying text. 
+  98.  Hess, supra note 26, at 56. 
+  99.  Hermann Kurthen & Glenn G. Smith, Hybrid Online Face-to-Face Teaching: When Is It 
+an Efficient Learning Tool?, 12 INT’L J. LEARNING 237, 237–38 (2005/2006). 
+  100.  Hess, supra note 26, at 57–58. 
+  101.  See infra text accompanying note 118. 
+ 2019]  ASSESSING ONLINE LEARNING IN LAW SCHOOLS  507 
+a real-time online chat room, post on a discussion board,102 or respond to 
+questions about the reading assignment.103 
+While some university officials “have reservations about the relative 
+quality of online learning,” they are most enthusiastic about blended/hy-
+brid courses and “consistently rate the promise of blended . . . courses as 
+superior to that of fully online courses.”104 Additionally, they “rate the 
+learning outcomes for blended instruction as superior to traditional face-
+to-face instruction.”105 These beliefs about blended/hybrid learning may 
+have some support. According to a 2010 U.S. Department of Education 
+meta-analysis of online education studies,106 there was “an average of 35 
+percent stronger learning outcomes for students taught in a blended format, 
+as opposed to just face-to-face teaching.”107  
+Blended learning can be advantageous because online material can 
+supplement in-class instruction, allowing professors to spend more class 
+time addressing misunderstandings and having the students apply the ma-
+terial.108 For example, if the professor assigned a quiz for students to com-
+plete online prior to class, the professor could look at the results and tailor 
+a short in-class lecture to reteach the misunderstood material. If the pro-
+fessor instead assigned the students a reading assignment and lecture out-
+side of class, the students could bring their misunderstandings to the pro-
+fessor’s attention in class. Blended learning also allows students to learn 
+the content on their own schedule, revisit online material as much as they 
+want, and control the pace at which they receive the information within 
+the confines of due dates provided by the professor.109  
+Students  participating  in  studies  have  commented  that  blended 
+courses provide “opportunities for collaboration in online activities, in-
+creased opportunities for students to receive feedback, and a different way 
+   
+  102.  Kurthen & Smith, supra note 99, at 237. 
+  103.  Hess, supra note 26, at 58. 
+  104.  I. ELAINE ALLEN & JEFF SEAMAN WITH RUSSELL POULIN & TERRI TAYLOR STRAUT, 
+ONLINE REPORT CARD: TRACKING ONLINE EDUCATION IN THE UNITED STATES 31 (2016). 
+  105.  Id. at 32. 
+  106.  BARBARA MEANS ET AL., U.S. DEP’T OF EDUC., EVALUATION OF EVIDENCE-BASED 
+PRACTICES IN ONLINE LEARNING: A META-ANALYSIS AND REVIEW OF ONLINE LEARNING STUDIES 
+19 (2009). 
+  107.  William R. Slomanson, Blended Learning: A Flipped Classroom Experiment, 64 J. LEGAL 
+EDUC. 93, 95 (2014). 
+  108.  Hess, supra note 26, at 59. 
+  109.  See Landrum, supra note 14, at 270 (“The flexibility of video access allows students to 
+‘choose exactly when they wish to learn.’ Students can watch the videos repeatedly if they are having 
+a hard time understanding concepts or wish to review material.” (footnote omitted) (quoting Peter 
+Sankoff, Taking the Instruction of Law Outside the Lecture Hall: How the Flipped Classroom Can 
+Make Learning More Productive and Enjoyable (for Professors and Students), 51 ALBERTA L. REV. 
+891, 902 (2014)); Peter Sankoff & Craig Forcese, The Flipped Law Classroom: Retooling the Class-
+room to Support Active Teaching and Learning, 2015 CAN. LEGAL EDUC. ANN. REV. 119, 130 (2015) 
+(“[Students] listen . . . on their own time outside of the class.”); Vicki Simpson & Elizabeth Richards, 
+Flipping the Classroom to Teach Population Health: Increasing the Relevance, 15 NURSE EDUC. 
+PRAC. 162, 165 (2015) (“The new course design allowed them greater flexibility and the ability to 
+control the pace of learning.”). 
+ 508  DENVER LAW REVIEW  [Vol. 96:3  
+for students to participate in class discussions.”110 Furthermore, they note 
+that they have better interactions with professors in blended courses than 
+in pure classroom settings, citing the combination of “face-to-face com-
+munication in class, frequent email exchanges, and frequent postings to 
+the course discussion board.”111 Professors have noted that the format of 
+blended courses (1) provides them with better access to students who have 
+other obligations, like work and family; and (2) increases student engage-
+ment because students have time to reflect more deeply on what they have 
+learned before responding on a discussion board or submitting an assign-
+ment.112 
+However, blended learning does have its drawbacks. Blended learn-
+ing requires substantial work on the front-end for professors in terms of 
+planning which classes will be presented online, developing lectures, and 
+creating as well as coordinating assignments for the online and in-class 
+components.113 Students have noted that blended courses can be problem-
+atic when there are technical difficulties on the course website, a professor 
+is not quick to respond electronically to a student, or when fellow students 
+working in a group fail to meet a deadline.114 Furthermore, because a 
+blended course is not entirely online, students are still required to come to 
+campus, removing some of the flexibility of fully online classes.115 Finally, 
+some professors may simply “add online activities to an existing face-to-
+face course” without decreasing the face-to-face classroom time, “result-
+ing in an excessive workload that overwhelms students.”116  
+Flipped classrooms are a type of blended, or hybrid, teaching model 
+where the professor literally flips the activities that students do in the class-
+room and at home: students receive instructional lectures online and com-
+plete activities in the classroom to apply their knowledge.117 The professor 
+may require that the students complete a reading assignment and watch a 
+prerecorded lecture online that explains the material more in-depth before 
+the classroom meeting.118 Instead of being used for a lecture, class time is 
+then spent on student engagement with active learning activities, such as 
+in-class quizzes and group problem-solving activities.119 For example, 
+   
+  110.  Hess, supra note 26, at 59. 
+  111.  Id. at 61. 
+  112.  Id. at 62–63. 
+  113.  Id. at 64. 
+  114.  Id. at 62. 
+  115.  Bassou El Mansour & Davison M. Mupinga, Students’ Positive and Negative Experiences 
+in Hybrid and Online Classes, 41 C. STUDENT J. 242, 247 (2007). 
+  116.  Hess, supra note 26, at 80. 
+  117.  Simpson & Richards, supra note 109, at 163. 
+  118.  Sankoff & Forcese, supra note 109, at 132–33. 
+  119.  Id. at 121. 
+ 2019]  ASSESSING ONLINE LEARNING IN LAW SCHOOLS  509 
+criminal law students could be required to provide a sentencing or charg-
+ing recommendation.120  
+In the context of law schools, one professor observed that “[a]dopting 
+a flipped classroom approach allows lawyering skills faculty to maximize 
+the degree of in-depth instruction, the amount of practice students do under 
+the instructor’s guidance, and the number of opportunities for students to 
+engage in learning activities in the classroom.”121 Another professor re-
+marked that the thoughtful infusion of online components into instruction 
+can increase student engagement and enthusiasm both inside and outside 
+the classroom,122 while yet another found the process of flipping a law 
+classroom forces professors back into the shoes of students, allowing for 
+more appropriate scaffolding.123 
+Despite these benefits, there are also some downsides to the flip. Fac-
+ulty who flipped their classrooms found they spent more time on class 
+preparation because of the need to generate and upload online content, as 
+well as to coordinate it with in-class activities.124 Initial work included 
+“identify[ing] the topic of each module, plan[ning] how the module inte-
+grates with what will happen during class, draft[ing] a script or de-
+velop[ing] other materials for the module, develop[ing] competency in us-
+ing the technology needed to create the video, and creating and editing the 
+video.”125 However, some faculty who have used the flipped classroom 
+approach, such as Dr. Landrum, see the initial time commitment as a “one-
+time investment[]” because “[o]nce resources have been created, they can 
+be used over and over again with little to no modification.”126 Others, 
+though, may not see the benefits of the flipped classroom if students “do 
+not put in the time required outside of class to be prepared for in-class 
+activities.”127 
+Some students find the flip helps them take more responsibility for 
+their learning and increases their understanding because they have more 
+access to the professor in the classroom, who is not using up all of the class 
+time lecturing. Furthermore, students state that they are able to work with 
+other students in groups during class time, and can rewatch video lectures 
+   
+  120.  See Shawn Marie Boyne, Giving Students a Seat at the Table: Using Team-Based Learning 
+in Criminal Law, 51 IND. L. REV. 440, 441, 444 (2018). 
+  121.  Matamoros, supra note 56, at 116–17. 
+  122.  Landrum, supra note 14, at 259. 
+  123.  Sankoff & Forcese, supra note 109, at 139. 
+  124.  Landrum, supra note 14, at 271; see also Simpson & Richards, supra note 109, at 166 
+(commenting that professors may spend more time developing in-class activities using the flipped 
+approach). 
+  125.  Landrum, supra note 14, at 271. 
+  126.  Id. at 277. 
+  127.  Simpson & Richards, supra note 109, at 166. 
+ 510  DENVER LAW REVIEW  [Vol. 96:3  
+to better enhance their knowledge.128 Other students, though, find the tran-
+sition to a flipped classroom difficult due to the greater responsibility and 
+workload outside of the classroom compared to the traditional class set-
+ting.129 For example, one law school professor at IU McKinney who used 
+Team-Based Learning, a form of a flip, in a first-year class encountered 
+some student resistance because it was the only first-year class not using 
+the Socratic method and did not include PowerPoint slides like the other 
+courses.130  
+In short, the evidence suggests that whether a blended or hybrid 
+teaching model, including a flipped classroom, is successful depends sig-
+nificantly on the professor teaching the course. The strengths of this class 
+format can be lost due to problems such as poor planning and organization 
+by professors, and technical problems with the online component.131 For 
+example, professors who have not taken the time to provide sufficient clar-
+ity on assignments leave their students feeling frustrated,132 whereas 
+“[s]tudents who have a clear sense of what the course plan is will be more 
+likely to actively and positively engage in learning activities.”133  
+C. Non-MOOCs Fully Online Courses 
+Outside of MOOCs, universities may choose to provide two other 
+types of completely online courses: synchronous online courses and asyn-
+chronous online courses. Fully online and blended or hybrid online courses 
+can be offered synchronously or asynchronously.134  
+1. Synchronous Courses 
+Synchronous online courses “occur on set schedules and time frames. 
+Students and professors are online at the same time . . . [and] lectures, dis-
+cussions, and presentations take place at specific hours. All students must 
+be online at that same exact time to participate in the class.”135 Professors 
+can broadcast lectures and run all other aspects of the course through 
+online platforms such as “Adobe Connect, Blackboard Collaborate, We-
+bEx, and Saba Centra.”136 These platforms offer file sharing among users, 
+electronic whiteboards that both professors and students can use and view, 
+   
+  128.  Matamoros, supra note 56, at 125–26; see also Boyne, supra note 120, at 443 (expressing 
+the view of a student who stated, “The [in-class] quizzes forced me to stay on top of the reading.”). 
+  129.  Simpson & Richards, supra note 109, at 165–66; see also Matamoros, supra note 56, at 126 
+(explaining that some students felt that the “course took up considerably more time than if it were 
+taught in a traditional manner, possibly to the detriment of their performance in other courses”). 
+  130.  See Boyne, supra note 120, at 445. 
+  131.  Shea et al., supra note 95, at 542; see also Kurthen & Smith, supra note 99, at 242. 
+  132.  Hess, supra note 26, at 81. 
+  133.  Id. at 79. 
+  134.  Synchronous vs Asynchronous Learning, ELEARNERS, https://www.elearners.com/educa-
+tion-resources/degrees-and-programs/synchronous-vs-asynchronous-classes/ [https://perma.cc/3H7F-
+P7KF] (last visited Feb. 28, 2019). 
+  135.  Id. 
+  136.  Florence Martin & Michele A. Parker, Use of Synchronous Virtual Classrooms: Why, Who, 
+and How?, 10 J. ONLINE LEARNING & TEACHING 192, 193 (2014). 
+ 2019]  ASSESSING ONLINE LEARNING IN LAW SCHOOLS  511 
+chat features that allow for conversations between groups or individual 
+users, computer microphones that permit discussions between the profes-
+sor and a student, webcams, and the ability to save sessions for later view-
+ing.137 These features mimic those of a traditional course but “from any-
+where, without having to physically travel to a traditional classroom.”138 
+Given the features available in online platforms, the professor in a 
+synchronous online course can deliver a live lecture and call on a student 
+like in a traditional classroom, and the students can interact with the pro-
+fessor and each other through audio or chat features during the lecture.139 
+The professor can also assess students’ through quizzes and written ex-
+ams.140 Using an online platform, a professor can create an electronic quiz, 
+proctor the quiz via webcams, and set an electronic due date.141 The pro-
+fessor can use a similar structure for the submission of written exams, cre-
+ating an electronic exam and requiring students to use webcams so that 
+they can be monitored through the testing periods.142 Students can respond 
+to the exam questions using a word processor program on their own com-
+puter or a similar function in the online platform.143 
+The benefits of synchronous online courses include the ability of pro-
+fessors or students to participate in a course long-distance, and the oppor-
+tunity for programs across multiple schools to jointly participate in a 
+course.144 Given the online platform’s tools promoting communication, 
+these courses can “provid[e] immediate feedback” similar to a traditional 
+classroom. Students may enjoy this environment more than an asynchro-
+nous course (discussed below) because of the “increased opportunity to 
+interact with faculty and other students.”145 Students can also pose ques-
+tions to the professor during a lecture using a chat feature instead of the 
+   
+  137.  Id. 
+  138.  Id. 
+  139.  Synchronous vs Asynchronous Learning, supra note 134. 
+  140.  Nian-Shing Chen et al., Design and Implementation of Synchronous Cyber Assessment and 
+Its Potential Issues, in PROCEEDINGS OF THE 17TH INTERNATIONAL CONFERENCE ON COMPUTERS IN 
+EDUCATION [CDROM] 905, 906 (Kong, S.C. et al. eds., 2009). 
+  141.  Id. 
+  142.  Id. 
+  143.  Id. 
+  144.  See, e.g., Ellen S. Podgor, Teaching a Live Synchronous Distance Learning Course: A Stu-
+dent Focused Approach, 2006 U. ILL. J.L. TECH. & POL’Y 263, 263 (2006) (detailing the author’s 
+experience teaching a synchronous international criminal law course through Georgia State University 
+College of Law, with Georgia State law students participating along with Brandeis School of Law 
+students in Louisville, Kentucky). 
+  145.  Devon Haynie, Decide Between Live, Self-Paced Online Classes, U.S. NEWS & WORLD 
+REP. (Jan.  5,  2015,  9:30  AM),  https://www.usnews.com/education/online-education/arti-
+cles/2015/01/09/decide-between-live-self-paced-online-classes (noting that synchronous classes al-
+low a student to “feel like being in a regular classroom”); Martin & Parker, supra note 136; see also 
+Synchronous vs Asynchronous Learning, supra note 134 (noting that students want to “feel involved, 
+in real-time, with the class experience. They might find it rewarding to ask a question or offer a com-
+ment, and to receive instant feedback.”). 
+ 512  DENVER LAW REVIEW  [Vol. 96:3  
+microphone, allowing the professor to remain uninterrupted while every-
+one can see the question.146 Finally, saved recorded sessions of a synchro-
+nous online class allow students to later review and enhance their under-
+standing of the material.147  
+However, these courses also present challenges for the professor, in-
+cluding the unlimited accessibility provided by online platform features. 
+For example, the chat feature enables students to submit potentially un-
+limited questions during a lecture, requiring the professor to multitask be-
+tween delivering instruction and monitoring a growing chat feed.148 Fur-
+thermore, the use of a webcam does not allow the professor to simply point 
+to call on a student, which requires a shift from a traditional classroom 
+practice. There may be so many students participating in the course it 
+could be difficult to see and track all of the students on the professor’s 
+screen.149 There is also the possibility of technical issues for both the pro-
+fessor and the students, so a professor should consider the type of institu-
+tion or online platform support available to address those issues should 
+they arise.150 Finally, the “work involved in teaching this type of class [can 
+be] significantly greater than when teaching a live class.”151  
+For the student, a major disadvantage is that synchronous online 
+courses provide less flexibility for those with family or work obligations 
+because there is a set schedule of when and how long lectures and other 
+required log-in times will last.152 Yet, flexibility is what many students 
+seek from an online course.153  
+2. Asynchronous Courses 
+Technological developments now allow schools to offer fully online 
+asynchronous courses.154 The ABA has approved them, but has required 
+that such courses include interaction that is similar in kind and quality to 
+   
+  146.  Martin & Parker, supra note 136, at 194. 
+  147.  Id. at 202. 
+  148.  Id. at 194. 
+  149.  Podgor, supra note 144, at 270. 
+  150.  Id. at 267–68. 
+  151.  See id. at 271 (describing her experience of teaching a synchronous course to her home 
+institution in Georgia and to another institution in Kentucky, and noting that she would do it again 
+with modifications, such as having better technical assistance available and limiting student enrollment 
+so that she could more easily see all students on her screen). 
+  152.  Synchronous vs Asynchronous Learning, supra note 134. 
+  153.  Hammond et al., supra note 86, at 528. 
+  154.  Harasim, supra note 25, at 44–45 (describing the technological advances beginning in the 
+1970s that make online education in general possible, including educational use of computer network-
+ing beginning in the 1970s, the first online courses and the increased access to computers and networks 
+in the 1980s, and the rise of national educational networking programs in the 1990s). 
+ 2019]  ASSESSING ONLINE LEARNING IN LAW SCHOOLS  513 
+that offered in live law classes.155 Asynchronous courses are the subject of 
+our study.156  
+Asynchronous online courses are “time-shifted” and consist of “read-
+ings, recorded lectures, and student activities posted for students to ac-
+cess.”157 In these courses, the students and professor do not meet in real 
+time—online or otherwise.158 Rather, in an asychronous class, teaching and 
+learning is conducted through an online platform (at IU McKinney, it is 
+“Canvas”), with lessons organized by “modules” containing recorded 
+lectures by the professor, readings, supplemental videos (such as portions 
+of a documentary or videos from institutions like the United Nations), and 
+student  activities.159  The  professor  assesses  student  learning  through 
+regular student activities, which may consist of quizzes, discussion board 
+posts,  research  assignments,  or  short  papers.160  The  professor  then 
+provides feedback on those assignments through communication tools 
+available on the online platform. While students must submit activities by 
+a specific date, they can choose the exact day or time within the week to 
+watch lectures, complete readings, and work on activites without attending 
+a live classroom session.161 
+Asynchronous courses are desirable because they provide flexibility 
+to evening students with daytime commitments and to all students with 
+packed schedules.162 As Professor Max Huffman explains, asynchronous 
+courses allow students increased flexibility to, for example, finish their 
+final semester in law school while also pursuing an externship in Brussels 
+or Washington, D.C.—putting them at a competitive advantage in the 
+   
+  155.  STANDARDS & RULES OF PROCEDURE FOR APPROVAL OF LAW SCHOOLS Standard 306 (AM. 
+BAR ASS’N 2017–2018), https://www.americanbar.org/content/dam/aba/publications/misc/legal_edu-
+cation/Standards/2017-2018ABAStandardsforApprovalofLawSchools/2017_2018_aba_stand-
+ards_rules_approval_law_schools_final.authcheckdam.pdf [https://perma.cc/9G3V-7FFF]. 
+  156.  See infra Part III. 
+  157.  Huffman, supra note 14, at 58–59. 
+  158.  See Haynie, supra note 145 (stating that asynchronous courses let students “sign on and 
+view course readings or videos when they please”); Synchronous vs Asynchronous Learning, supra 
+note 134 (describing asynchronous courses as allowing students to “complete their work on their own 
+time”). 
+  159.  See Synchronous vs Asynchronous Learning, supra note 134 (explaining the supplemental 
+digital materials in asynchronous courses, such as PowerPoints, documents, podcasts, and videos). 
+  160.  Huffman, supra note 14, at 77 (using “quizzes, writing assignments, [and] discussion 
+boards” in his asynchronous online Comparative and International Competition Law course); Swift, 
+supra note 14, at 112 (explaining various assignments assigned in his asynchronous Employment Law 
+and Transactional Drafting courses, such as questions about the reading, short answer questions to 
+apply knowledge, group discussion questions, researching applicable law, and drafting assignments). 
+  161.  Haynie, supra note 145 (stating that these courses allow students to “sign on and view 
+course readings or videos when they please, meeting deadlines while studying at their own pace”); 
+Synchronous vs Asynchronous Learning, supra note 134 (explaining that “[s]tudents are given a 
+timeframe—it’s usually a one-week window—during which they need to connect to their class at least 
+once or twice”). 
+  162.  Cahak, supra note 27, at 527–28 (arguing that online distance courses make law school 
+accessible to older students with family and work responsibilities); Haynie, supra note 145 (“Many 
+online students are juggling work and family commitments, and they don’t always have time to log in 
+at a certain hour.”); Synchronous vs Asynchronous Learning, supra note 134 (stating that asynchro-
+nous courses allow class schedules to “bend to accommodate your real life”). 
+ 514  DENVER LAW REVIEW  [Vol. 96:3  
+employment market.163 Asynchronous courses can also benefit students 
+who are more comfortable writing than speaking because they have ex-
+tended time to think before responding.164 Regular online assignments al-
+low students multiple points of feedback, a rarity in law school where a 
+student often only receives feedback from a final exam.165 Fully online 
+asynchronous programs can also lower the costs of law school and permit 
+more graduating students to pursue lower paying jobs in government or 
+public service.166 Finally, the flexibility of asynchronous courses allows 
+law schools to diversify their student bodies and recruit nontraditional stu-
+dents, such as adult learners with careers and families,167 students with 
+disabilities,168 and students from low socioeconomic backgrounds.169 
+However, not all professors and students are sold on the concept of 
+asynchronous course delivery in the law school context. Some students 
+miss the live interaction and engagement of traditional or synchronous 
+classes.170 Others in the legal field are dissatisfied with the fact that asyn-
+chronous courses do not allow professors to teach using the Socratic 
+method, which proponents consider an effective active learning teaching 
+methodology.171 Critics of asynchronous courses also argue that the law 
+school market is already saturated, and that fully online law schools are 
+run by for-profit institutions seeking money instead of attempting to pro-
+vide students with an education.172 Finally, an asynchronous course may 
+not match everyone’s learning style.173  
+Critics are right that the professor will not be able to use the Socratic 
+method  in  an  asynchronous  class.  However,  employing  the  Socratic 
+method is only one active-learning method that a professor can use to en-
+gage students and encourage learning. There are many reasons to believe 
+   
+  163.  Huffman, supra note 14, at 67. 
+  164.  Haynie, supra note 145; Swift, supra note 14, at 136 (observing more extensive responses 
+in his asynchronous online course, likely because “students in the online format have the opportunity 
+to really digest what the other students have written and then spend ten to fifteen minutes responding 
+to the posts”). 
+  165.  Swift, supra note 14, at 141–43, 145–47. 
+  166.  Bennett, supra note 1, at 5–6. 
+  167.  Swift, supra note 14, at 157–58 (explaining that asynchronous courses allow nontraditional 
+students to attend courses less frequently during the week and control when they will engage with the 
+material). 
+  168.  Id. at 158–60 (noting that online platforms could allow students with attention deficit dis-
+order to break up a lecture into chunks, and closed captioning could benefit students who speak English 
+as a second language). 
+  169.  Cahak, supra note 27, at 521–22. 
+  170.  Haynie, supra note 145. 
+  171.  Huffman, supra note 14, at 61 (explaining that some law professors reject the online expe-
+rience because they believe it “undermines the [in-person] Socratic dialogue”); see also Swift, supra 
+note 14, at 116–17 (noting that detractors of the Socratic method believe it provides an active learning 
+experience only for the student being questioned and a passive learning experience for the rest of the 
+students listening). 
+  172.  Cahak, supra note 27, at 520–23. 
+  173.  Mansour & Mupinga, supra note 115, at 246–47. 
+ 2019]  ASSESSING ONLINE LEARNING IN LAW SCHOOLS  515 
+that a professor or law school can use developing technology to deliver 
+quality teaching and learning asynchronously in law school courses.174  
+Studies show that the professor plays a large role in whether an online 
+course delivers quality instruction to the student. In fact, a 2005 U.S. De-
+partment of Education meta-analysis of online education studies found 
+professor involvement in online courses to be the determinative factor in 
+whether the online course was just as effective, if not more so, than the 
+traditional face-to-face setting.175 It found that “[w]hen instructor involve-
+ment was ranked as low, such as courses where students interact with the 
+computer alone, face-to-face instruction was significantly more effective 
+than distance instruction. Conversely, when instructor involvement was 
+rated as medium or high, distance education was significantly more effec-
+tive.”176 These findings should not be surprising because a successful live 
+classroom experience also depends on a professor’s level of preparation 
+for class and ability to manage the classroom environment in a way that 
+encourages student learning and interest.  
+III. RESEARCH DESIGN: THE IU MCKINNEY STUDY ASSESSING 
+ASYNCHRONOUS ONLINE PROGRAMMING 
+To assess the effectiveness of asynchronous online classes, this study 
+draws on evidence from (1) anonymous student survey responses; and (2) 
+focus groups with students. In both cases, the students responding were 
+currently enrolled law students at IU McKinney.  
+A.  Anonymous Student Surveys 
+In terms of the survey responses, we collected data over a two-year 
+period from more than 300 students in different sections of two different 
+fully asynchronous online classes: Online Trusts and Estates and Online 
+Comparative Law.177 A total of 283 of 316 students responded to the sur-
+vey in Online Trusts and Estates during the Spring 2015, Spring 2016, and 
+Fall 2016 semesters. A total of 43 of 64 students responded to surveys 
+administered in Online Comparative Law during the Spring and Fall 2016 
+semesters. Professor Ryznar taught all of the Online Trusts and Estates 
+classes, and Professor Dutton taught all of the Online Comparative Law 
+classes. Both classes were organized into modules and included short rec-
+   
+  174.  See supra notes 56–173 and accompanying text; infra Part IV. 
+  175.  Hess, supra note 26, at 82. 
+  176.  Id.; see also Kurthen & Smith, supra note 99, at 239 (“How much and how quickly the 
+instructor responds is a major factor in student satisfaction.”). 
+  177.  Survey by Yvonne Dutton, Professor of Law, Ind. Univ. Robert H. McKinney Sch. of Law 
+(Spring 2016) (on file with authors); Survey by Margaret Ryznar, Professor of Law, Ind. Univ. Robert 
+H. McKinney Sch. of Law (Spring 2015) (on file with authors); Survey by Margaret Ryznar, Professor 
+of Law, Ind. Univ. Robert H. McKinney Sch. of Law [hereinafter Fall 2016 Dutton Survey] (Fall 
+2016) (on file with authors); Survey by Margaret Ryznar, Professor of Law, Ind. Univ. Robert H. 
+McKinney Sch. of Law (Spring 2016) (on file with authors). The 85% response rate results from com-
+bining all responsive students regardless of the course. 
+ 516  DENVER LAW REVIEW  [Vol. 96:3  
+orded lectures by the professor and various activities to assess student un-
+derstanding of the material. Some of those activities were similar—for ex-
+ample, both Professors Dutton and Ryznar required students to complete 
+quizzes.178 Some assignments, however, were only appropriate for certain 
+types of classes. For example, in Professor Dutton’s course, students were 
+required to write comparative analysis memos.  
+The surveys to which students responded were “unofficial” mid-se-
+mester surveys that were administered in an effort to receive anonymous 
+feedback from students about the class in time for the professor to adjust 
+the delivery and content if necessary. In contrast, the end-of-semester of-
+ficial surveys were administered too late to allow such adjustments in re-
+sponse to student feedback. Students were not required to fill out these 
+mid-semester surveys; however, 85% of students did.179 
+The surveys included a number of questions seeking student input 
+about what was or was not working in the class generally. One question 
+was specifically designed to learn the students’ overall impression of their 
+online experience—it asked students: Would you take another “online” 
+class in the future? Why or why not? This Article presents the data from 
+student responses to that question below, exploring not only data on the 
+percentage of students who responded positively or negatively to that 
+question, but also why students reached their conclusions.  
+The data received in response to this survey question reflects the per-
+ception of IU McKinney students about online courses more generally for 
+several reasons. First, more than 300 students responded to the survey 
+questions about their online course experience. Second, the data was col-
+lected over several different semesters, allowing for examination of stu-
+dent perception over a period of time. Third, this study includes variation 
+across courses and professors, allowing some conclusions about whether 
+certain findings persist across that variation. For example, this study in-
+cludes two different types of courses taught by different professors—
+   
+  178.  Quizzes are but one type of structured interim assessment that professors can use in their 
+online courses. Quizzes can include various types of questions, such as multiple choice, true/false, fill-
+in-the blank, and even short essay. See, e.g., Margaret Ryznar, Assessing Law Students, 51 IND. L. 
+REV. 447, 450 (2018) (“The online learning platform is often able to grade objective quizzes such as 
+multiple choice, and can even offer students immediate feedback by revealing the correct answers and 
+explanations upon a student’s submission of the quiz. The professor, meanwhile, receives a computer-
+generated report on student performance on that quiz once it closes,” allowing the professor to monitor 
+students’ efforts at mastering course material). 
+  179.  See supra note 177. 
+ 2019]  ASSESSING ONLINE LEARNING IN LAW SCHOOLS  517 
+Trusts and Estates is a “black letter law”180 course, while Comparative 
+Law is a seminar-style course.181  
+B.  Focus Groups 
+To supplement and add depth to the data obtained from the anony-
+mous surveys, this Article also includes data from focus group sessions 
+designed to learn more about student perceptions of IU McKinney’s online 
+programming that consists of online courses beyond Trusts and Estates 
+and Comparative Law. The data reveals what online learning methods stu-
+dents believe do and do not facilitate engagement and learning, and how 
+they compare their online experiences to their live classroom experiences 
+at the law school.182 In the focus group sessions, students were encouraged 
+to interact with each other and discuss their experiences in online classes, 
+with the goal being a much richer and detailed narrative than could obtain 
+through the mid-semester surveys.183  
+This study targeted for participation graduating students who had 
+taken at least one asynchronous online course at IU McKinney because 
+graduating students likely would be most willing to speak freely during 
+the focus group sessions about their experiences in online classes. This 
+group had little reason to be concerned about negative repercussions to 
+their responses because their remaining exams would be graded anony-
+mously and they were only a month from graduation.184  
+Beyond targeting only graduating students, this study incorporated 
+other measures to encourage students to speak frankly during the focus 
+group sessions. First, students were told that while Professors Dutton and 
+Ryznar were conducting the study, neither would be privy to the identity 
+of students participating in the focus groups. Students were recruited for 
+the focus groups by graduating student and author, Kayleigh Long. The 
+focus groups were facilitated by Douglas Jerolimov from Indiana Univer-
+   
+  180.  “Basic standard rules that are generally known and free from doubt. The black letter law on 
+any subject consists of rules that can be applied in a very mechanical way without moral qualms or 
+other  considerations.”  Black  Letter  Law,  CORNELL  L.  SCH.:  WEX,  https://www.law.cor-
+nell.edu/wex/black_letter_law [https://perma.cc/A9YR-UUQV] (last visited Feb. 28, 2019). 
+  181.  “A class at university in which a topic is discussed by a teacher and a small group of stu-
+dents.” Seminar, OXFORD LIVING DICTIONARY, https://en.oxforddictionaries.com/definition/seminar 
+[https://perma.cc/ZAK9-4PUE] (last visited Feb. 28, 2019). 
+  182.  Focus groups consist of groups of individuals who are assembled to discuss, based on their 
+personal experience, the topic that is the subject of the research. Dominic Sagoe, Precincts and Pro-
+spects in the Use of Focus Groups in Social and Behavioral Science Research, 17 QUALITATIVE REP., 
+Article 29, at 1 (2012). 
+  183.  See, e.g., Ivana Acocella, The Focus Groups in Social Research: Advantages and Disad-
+vantages, 46 QUALITY & QUANTITY 1125, 1129 (2012) (noting that focus group researchers encourage 
+participants to talk, debate, and interact with one another). 
+  184.  For most courses at the IU McKinney School of Law and other law schools, much or all of 
+the grading is done anonymously, with professors only receiving exams with randomly assigned stu-
+dent identification numbers, rather than student names. Names are only revealed to professors after 
+the grades have been given to the administration. 
+ 518  DENVER LAW REVIEW  [Vol. 96:3  
+sity-Purdue University Indianapolis’s Center for Teaching and Learn-
+ing.185 Dr. Jerolimov scrubbed the transcripts of the focus groups of any 
+identifying student information before providing those transcripts to Pro-
+fessors Dutton and Ryznar. In addition, Dr. Jerolimov, who is trained and 
+experienced in facilitating focus groups, advised students that they should 
+keep confidential the identity of focus group participants and the infor-
+mation shared by those participants. Finally, Dr. Jerolimov told focus 
+group participants that, to the extent they had any concerns about confi-
+dentiality, they need not mention professors or courses by name when 
+commenting during the sessions. Students were free to avoid answering 
+any particular question or to leave the focus group entirely at any time. 
+We held three different focus groups in April 2018, with four to eight 
+students in each. The first was on April 11 at 3:00 p.m. (Focus Group 1) 
+with six students, the second was on April 12 at 12:45 p.m. (Focus Group 
+2) with eight students, and the third was on April 12 at 4:30 p.m. (Focus 
+Group 3) with four students. Each session took place in a conference room 
+at the law school and lasted between one and one and a half hours. Dr. 
+Jerolimov videotaped each session, and the sessions were transcribed by 
+an outside service.186 Students were offered no incentive to participate in 
+the study, other than the opportunity to share their views about the current 
+online programming and any suggestions for improvement. To help stu-
+dents save time and to recognize their contribution to the project, each stu-
+dent participant was offered a sandwich and beverage during the sessions.  
+During the focus group sessions, Dr. Jerolimov used a script contain-
+ing suggested questions designed to learn more about student perceptions 
+of online classes at IU McKinney. Those questions specifically asked stu-
+dents to compare their experiences in online classes with their experiences 
+in live classes. For example, one question stated: “How do you compare 
+the online experience to the live experience in terms of student engage-
+ment—being engaged in learning the course material?” Another asked: 
+“How do you compare the online experience to the live experience in 
+terms of student learning—actually learning the course material? Do you 
+feel students learn more or less in one environment or the other? Be spe-
+cific about what learning was (or was not) improved, and why you think it 
+was (or was not) improved.”187  
+Additional questions were similarly focused on assessing the quality 
+of online teaching and learning. Students were asked, among other things, 
+what kinds of students they thought benefited most from online courses; 
+   
+  185.  Douglas Jerolimov, PhD, is an instructional consultant at the Center for Teaching and 
+Learning at Indiana University-Purdue University Indianapolis (IUPUI). He has conducted numerous 
+focus group discussions for program evaluation and development efforts, as well as student focus 
+groups for mid-term course evaluations. Dr. Jerolimov also serves as an IUPUI Campus Coordinator 
+for the Quality Matters organization, a quality assurance organization for online teaching and learning. 
+  186.  The outside transcription service was Rev, available at https://www.rev.com. 
+  187.  See infra Appendix A. 2019]  ASSESSING ONLINE LEARNING IN LAW SCHOOLS  519 
+whether they believed students would benefit from more online program-
+ming; and what advice they would offer to improve the school’s online 
+programming. A copy of the entire script Dr. Jerolimov used for the focus 
+groups is attached as Appendix A. 
+The next Part presents and discusses the data obtained from the anon-
+ymous surveys and focus groups as it relates to: (1) student interest in 
+asynchronous online programming; and (2) student evaluations of online 
+programming, especially as compared to live classroom courses. 
+IV. STUDY RESULTS AND DISCUSSION 
+The extant studies assessing student perceptions of online courses do 
+not point unequivocally to a conclusion that students view both online and 
+live courses as delivering the same quality learning experience.188 Some 
+studies on online instruction in the undergraduate and graduate contexts 
+show students performing better in or preferring the online format.189 
+Other studies show students performing better in or preferring the tradi-
+tional classroom.190 For example, in one article, the authors report that un-
+dergraduate student surveys conducted during 2012 and 2013 showed that 
+   
+  188.  As one author puts it, “Most of the studies have mixed results: on some of the measures, 
+the students in the online or hybrid format did better, but on others they did worse, relative to students 
+in the face-to-face format—or else, on some measures the online- or hybrid-format students did sig-
+nificantly better or worse than the students in the face-to-face format, but on other measures there was 
+no significant difference between the two groups.” KELLY A. LACK, CURRENT STATUS OF RESEARCH 
+ON ONLINE LEARNING IN POSTSECONDARY EDUCATION 11 (2013). 
+  189.  See, e.g., Durant Frantzen, Is Technology a One-Size-Fits-All Solution to Improving Student 
+Performance? A Comparison of Online, Hybrid and Face-to-Face Courses, 20 J. PUB. AFF. EDUC. 
+565, 565, 574 (2014) (examining student performance in online, hybrid, and face-to-face courses in an 
+undergraduate criminology program and finding that student performance significantly improved in 
+the online course compared to the hybrid and face-to-face courses); Porter et al., supra note 56, at 8 
+(examining student performance and perceptions in an online and face-to-face undergraduate immun-
+ization course and finding no difference in student performance, but noting that “[t]hree times as many 
+students in the online section preferred an online delivery method at the end of the semester compared 
+to the beginning, whereas fewer students in the classroom section preferred taking a classroom 
+course”); Linda Wiechowski & Terri L. Washburn, Online Finance and Economics Courses: A Com-
+parative Study of Course Satisfaction and Outcomes Across Learning Models, 7 AM. J. BUS. EDUC. 
+37, 41, 45 (2014) (examining student performance and perceptions in online, blended, and face-to-
+face undergraduate and graduate finance and economics courses and finding that “[s]tudents taking 
+online and blended courses were more satisfied with their courses than were those who opted for the 
+face-to-face learning model” but finding no difference in student outcomes). 
+  190.  See, e.g., Kelly Bergstrand & Scott V. Savage, The Chalkboard Versus the Avatar: Com-
+paring the Effectiveness of Online and In-Class Courses, 41 TEACHING SOC. 294, 294, 302 (2013) 
+(examining student perceptions of online and face-to-face undergraduate sociology classes and finding 
+that “[o]nline courses receive lower overall course ratings, and students state that they learn less in 
+online courses”); D. Kevin O’Neill & Tzy Horng Sai, Why Not? Examining College Students’ Reasons 
+for Avoiding an Online Course, 68 HIGHER EDUC. 1, 4, 10 (2014) (examining undergraduate online 
+and face-to-face educational psychology courses and find that “students’ beliefs about the best condi-
+tions to support their learning appeared to play a large role in their decision. They proved willing to 
+invest quite a bit of time and endure substantial inconvenience in order to secure those conditions.”); 
+Jeremy I. Tutty & James D. Klein, Computer-Mediated Instruction: A Comparison of Online and 
+Face-to-Face Collaboration, 56 EDUC. TECH. RES. & DEV. 101, 105, 118, 120 (2008) (examining 
+collaborative learning in undergraduate online and face-to-face computer literacy courses and finding 
+that students in the face-to-face course “performed significantly better on the individual posttest than 
+those in the virtual online condition” and that “students in the virtual condition were significantly less 
+ 520  DENVER LAW REVIEW  [Vol. 96:3  
+the majority of students prefer live classes to online classes.191 Those au-
+thors further reported that 32% of students in 2013, and 43% in 2012, felt 
+that they learned less in online classes than in live classes.192 The authors’ 
+conclusion, based on their survey results, is that “if given a choice [stu-
+dents] would prefer the traditional classroom experience.”193  
+That these studies do not unequivocally demonstrate the benefits of 
+online teaching and learning, however, does not mean that we should dis-
+miss online classes. As mentioned above, we do not expect that every stu-
+dent will feel comfortable in the online environment. Also, some of the 
+studies were conducted several years ago.194 Online classes are improving 
+over time with technological developments that make the online learning 
+platform more robust and user-friendly.195 Professors are also learning 
+how to make their courses more engaging for students from their own trial 
+and error—and from reading the pedagogical literature on online teach-
+ing.196  
+In short, we urge an open mind as to the future of online teaching and 
+learning in the law school environment. Our own data suggests that online 
+classes have a place in the law school curriculum, as the vast majority of 
+students would take another asynchronous online class. Students also gen-
+erally expressed the view that at least some of the online classes they have 
+taken deliver a learning experience that is equal to or better than the learn-
+ing experience they had in some traditional live law classes.  
+Why do the students express this view? After reviewing the data, we 
+conclude that quality matters in online teaching, just as it does in live 
+teaching. In particular, the data shows that there are several key compo-
+nents to the learning experience that will make students appreciate their 
+online course. If professors design and deliver their online courses taking 
+these factors into account, this Article predicts that students will perceive 
+the courses as delivering a learning experience similar to the quality live 
+courses they have taken.  
+   
+positive than students in the face-to-face condition toward the delivery system, the topic, and collab-
+orative work”). 
+  191.  Holly J. Seirup et al., Online Education: Panacea or Plateau, J. FOR LEADERSHIP & 
+INSTRUCTION, Spring 2016, at 5, 7. 
+  192.  Id. at 6. 
+  193.  Id. at 8; see also Bergstrand & Savage, supra note 190, at 302 (noting a negative perception 
+of online sociology courses among undergraduate students); O’Neill & Sai, supra note 190, at 10 
+(finding undergraduate students self-selecting into a face-to-face course instead of taking the same 
+course online because of “the greater risk of failure or dropout associated with an online course”). 
+  194.  See supra note 190 and accompanying text. 
+  195.  Michele Pistone, Law Schools and Technology: Where We Are and Where We Are Heading, 
+64 J. LEGAL EDUC. 586, 596 (2015). 
+  196.  Id. at 601–02. 2019]  ASSESSING ONLINE LEARNING IN LAW SCHOOLS  521 
+A.  Anonymous Survey Results 
+The vast majority of students responding to the anonymous surveys 
+indicated that they would take another asynchronous online class. For Pro-
+fessor Dutton’s Online Comparative Law classes, of the forty-one students 
+who responded to the question about taking another online class, 85% an-
+swered that they would. Arguably, this percentage does not fully capture 
+students’ preference for online programming because some students were 
+coded as nonresponsive to the question because they answered, in effect, 
+“No, because I am graduating.” To the extent that students elaborated on 
+their reasons for wanting to take another online class, they referenced the 
+flexibility that the online course offered to them by allowing them to work, 
+care for their family, and save time commuting while still learning and 
+completing course work whenever and wherever they wanted.  
+Of the 278 students responding to this same question in Professor 
+Ryznar’s Online Trusts and Estates course, 74% said they would take an-
+other online course. As with Professor Dutton’s class, this percentage does 
+not fully capture students’ preference for online programming because 
+some students simply responded, “No, because I am graduating,” and other 
+students had more equivocal responses that they would take another online 
+course depending on the type of course, the professor teaching the course, 
+and the structure or layout of the online course. Responses indicated that 
+students wanted to take more online courses so that they could learn at 
+their own pace, access resources that they may not have in a traditional 
+face-to-face class, have flexibility in scheduling (especially helpful for 
+evening students and those with families), and forgo commuting to cam-
+pus. 
+That the vast majority of our respondents would take another online 
+class should be encouraging to law schools considering investing in online 
+programming. One can also conclude from the data that students respond-
+ing to these survey questions believed that they had participated in a qual-
+ity teaching and learning experience. Students did reference flexibility as 
+a reason that they would be persuaded to take another online course, but 
+they also mentioned that they would take another course depending on the 
+professor teaching the course, the course’s organization, and the type of 
+course being offered online. We also expect that law school students 
+would not take a class simply because it allowed them some flexibility in 
+their schedule. In fact, at least nineteen students, across both courses, vol-
+unteered that they felt they learned just as much, if not more, than what 
+they would have learned in a traditional classroom—and students were not 
+asked this question in the anonymous survey.  
+It is no surprise that students would identify the flexibility of online 
+programming as important in their decision to take a class online. The lit-
+erature on online programming highlights flexibility as a key advantage to 522  DENVER LAW REVIEW  [Vol. 96:3  
+asynchronous online classes.197 Nor should one be surprised that law stu-
+dents who work full-time or have families would appreciate the ability to 
+complete lectures and activities when they can.198  
+B.  Focus Group Results 
+The focus group results are consistent with, and further elaborate 
+upon, the mid-semester survey data. Students like the IU McKinney online 
+programming, which goes beyond Online Trusts and Estates and Online 
+Comparative Law, and would like more of it. This Section presents the 
+focus group responses by theme and analyzes them accordingly. 
+1. Student Engagement and Learning: Online Versus Live 
+As to student engagement and learning, the most common student 
+comment was that online and live classes both could offer more or less 
+student engagement and learning depending on the topic being taught, the 
+type of course, and the professor.199 In other words, students did not sug-
+gest that online courses on the whole offered any less of an opportunity 
+for student engagement and learning than did live classes. Several com-
+ments help illustrate this point. One student stated: “I thought there was a 
+lot of engagement in certain classes, and then in other classes there 
+weren’t. Same thing with online.”200 The same student said that he or she 
+has gotten a lot out of both in-person and live classes.201 Another student 
+commented: “The more a teacher pulls me into it, the better. Some profes-
+sors just haven’t done that. Same with the live courses as well.”202  
+Many students highlighted the importance of quality teaching in their 
+comments about online teaching and learning. For example, one student 
+stated that “[t]he professor really is the key to any class, an in-person or 
+an online. The professor’s knowledge of whatever the subject material is 
+and the professor’s pedagogical style is really important.”203 Another also 
+said that the professor teaching the online course played a large role in 
+   
+  197.  See, e.g., Bennett, supra note 1 (examining the flexibility of asynchronous online courses). 
+  198.  Joseph A. Rosenberg, Confronting Clichés in Online Instruction: Using a Hybrid Model to 
+Teach Lawyering Skills, 12 SMU SCI. & TECH. L. REV. 19, 44–45 (2008) (explaining that “[s]chedules 
+are a key factor in how students perceive and experience the value and convenience of online activi-
+ties”); Marilyn Odendahl, ABA Proposal Would Allow Law Schools to Offer More Classes Online, 
+THEINDIANALAWYER.COM (Apr. 4, 2018), https://www.theindianalawyer.com/articles/46586-aba-
+proposal-would-allow-law-schools-to-offer-more-classes-online  [https://perma.cc/BQ5W-N9R2] 
+(referencing an IU McKinney evening law student’s impromptu poll that found many of her classmates 
+saw online courses as appealing and wanted more of them). 
+  199.  As one student put it, the amount of work in the class and the level of engagement “just 
+depends on what the class is, who the professor is, and how the class is taught.” Yvonne M. Dutton & 
+Margaret Ryznar, Focus Group 3, at 6–7 (Apr. 12, 2018, 4:30 PM) [hereinafter Focus Group 3] (un-
+published transcript) (on file with authors) (Student 1). 
+  200.  Yvonne M. Dutton & Margaret Ryznar, Focus Group 1, at 2 (Apr. 11, 2018, 3:00 PM) 
+[hereinafter Focus Group 1] (unpublished transcript) (on file with authors) (Student 5). 
+  201.  Id. 
+  202.  Id. at 3 (Student 1). 
+  203.  Id. at 24 (Student 4). 
+ 2019]  ASSESSING ONLINE LEARNING IN LAW SCHOOLS  523 
+whether the student viewed the course as a good learning experience.204 
+This focus on the professor’s role is one that has also been highlighted in 
+the literature.205 While Bergstrand and Savage found students preferred a 
+traditional face-to-face sociology course over the same online course, they 
+also found that,  
+[T]he effectiveness of online courses depends on the instructor teach-
+ing the course. It makes sense that the amount of time and energy put 
+into an online course by an instructor . . . will impact the effectiveness 
+of Web-delivered courses. Our research also suggests that the skill sets 
+and traits of instructors could make some individuals better suited to 
+teach online courses.206 
+As to the relevant traits that may make a professor more successful, 
+the authors mentioned the professor’s general public speaking abilities and 
+specific ability to engage students.207 
+Students in our focus groups also noted that the student plays a role 
+in ensuring that the online environment is one in which he or she learns 
+course material. In short, as long as the student is willing to do the work 
+required by the professor, he or she can be engaged and learning in the 
+online environment.208 One student noted that if the student did all of the 
+work in the online class as required, “you’re getting either equal or greater 
+amount of information versus if you were in an in-class setting.”209 An-
+other student said,  
+It would be hard for me not to recommend an online course to anyone 
+because I feel like I’ve learned so much in the online courses. Again, 
+it goes to the type of student that you are. If you’re somebody that 
+you’re going to schedule out the time, you’re going to do the work, 
+you’re going to make the effort, then . . . I’ve gotten out of each of my 
+classes, I feel like, what I’ve put in.210  
+A different student pointed out that if he or she was “doing all the 
+reading and doing all the work assigned and showing up to all the classes 
+   
+  204.  See, e.g., Yvonne M. Dutton & Margaret Ryznar, Focus Group 2, at 13 (Apr. 12, 2018, 
+12:45 PM) [hereinafter Focus Group 2] (unpublished transcript) (on file with authors) (Student 1: “It 
+just all goes back to who is teaching the course, and how they structure it online.”). 
+  205.  Bergstrand & Savage, supra note 190, at 303. 
+  206.  Id. 
+  207.  Id. 
+  208.  Some students did note that different online courses had different levels of work required 
+of them. By way of example, one student said that in a one-credit online course, he or she had more 
+weekly assignments than he or she had in a three-credit online course. Focus Group 3, supra note 199, 
+at 6 (Student 4). Another student said that he or she has been in online courses that were extremely 
+difficult in terms of rigor and the amount of work required of the student, and some that required very 
+little additional work from the student. Id. at 9 (Student 1). While we can consider ways to even out 
+the amount of “rigor” in online classes, it is worth noting that live classes are not all the same in terms 
+of rigor either. Students, in fact, made this point. See, e.g., id. (Student 3: “Just like all live classes are 
+not the same, not every online class is the same either.”). 
+  209.  Focus Group 1, supra note 200, at 14 (Student 3). 
+  210.  Id. at 16 (Student 5). 
+ 524  DENVER LAW REVIEW  [Vol. 96:3  
+or watching all the videos that are available, I’m learning. If I’m not, I’m 
+not learning.”211 On the other hand, a couple of students noted that they 
+could get away with doing less in an online environment than in a live 
+environment because they did not have the possibility of being called on 
+by the professor.212  
+A number of students, in fact, highlighted some benefits to the online 
+course format as it relates to engagement and learning, and as it compares 
+to live classroom learning. One student stated,  
+For me, what I have enjoyed about online classes is that most of them 
+have some sort of application portion for each lesson. I learn well from 
+that, as opposed to reading, Socratic method, and then putting it all 
+together whenever you have a minute to outline. The online classes for 
+me I think have been more conducive to my learning.213  
+Another similarly commented that the online classes tended to offer 
+more “activities where you could actually apply what you’re reading or 
+learning [to what] the lecture is on [which] really helps you learn.”214 An-
+other pointed out that in contrast to live classes where “if you know you’re 
+not going to be on call, [you can] go to class unprepared [and] sit back,” 
+with an “online class, I think every time you do something with the class, 
+you’re engaged.”215 One student suggested that he or she found little value 
+in live classroom learning, stating that in live classes, “you show up for 
+class, 10% of your grade is if you happen to be paying attention the day 
+that you get called on, and then the rest is based off your final exam, but 
+that’s it.”216  
+Although many students highlighted how online classes offered them 
+the opportunity to engage with the material because they had to complete 
+regular assessments, some students did note that an aspect of live classes 
+that they missed was the spontaneous interaction with the students and the 
+professor—interaction that could contribute to learning. Along these lines, 
+one student stated, “I think there is value to having the classroom experi-
+ence, not only of having the professor be able to lecture to you on his or 
+   
+  211.  Id. at 4 (Student 2). Other students made similar comments about the student’s role in en-
+suring he or she was engaged and learning. See, e.g., Focus Group 2, supra note 204, at 6 (Student 6: 
+“I really just think it depends, and I don’t think my learning has been adversely affected by taking 
+online classes versus in-person ones or vice versa. I think I just view the same thing regardless.”); 
+Focus Group 3, supra note 199, at 3 (Student 4: “I think engagement depends on kind of with what 
+effort you put into it and also the structure of the course itself.”). 
+  212.  See, e.g., Focus Group 3, supra note 199, at 2 (Student 1, stating that he or she could put 
+the lectures on a fast speed to watch them and could even answer some discussion questions and quiz 
+questions without doing the reading); id. at 2 (Student 2: “Engaged in the process of doing posts and 
+quizzes and things like that, but as for actual engagement in learning the material, like getting cold-
+called in class or having to defend your position, kind of less engaged.”). 
+  213.  Focus Group 1, supra note 200 (Student 2). 
+  214.  Id. at 4 (Student 1). 
+  215.  Id. at 3 (Student 6). 
+  216.  Focus Group 2, supra note 204, at 5 (Student 7). 
+ 2019]  ASSESSING ONLINE LEARNING IN LAW SCHOOLS  525 
+her expertise but also in being required to engage with other students in 
+that setting.”217 Another noted,  
+The couple of online classes I’ve taken, I’ve watched the lectures, I’ve 
+done the readings, but for me, it’s not the same as when I can go and 
+ask professors questions in an in-person setting. An online class, I 
+might’ve done the reading about a particular case or statute, and then 
+the professor will lecture over video. I don’t have the opportunity dur-
+ing that video, when the professor is taking time to explain it, to actu-
+ally ask more overarching or more nuanced questions.218  
+Another said that he or she really felt more comfortable in the live 
+setting, noting that,  
+[E]ven if a professor’s lecturing, and not asking questions, I’m still 
+kind of in a sense thinking questions I could be asking or asking ques-
+tions myself. And I guess that process for me is how I learn, so even 
+though online I can maybe email a question,219 it just feels like, just 
+because I guess the device is there that it’s cut off, and it kind of throws 
+me out of what I’m used to in terms of the Socratic kind of education 
+and learning process it is that I kind of picked up through my school-
+ing.220  
+One student suggested that certain kinds of classes might be better in 
+a traditional classroom because they require more in-person discussion to 
+facilitate learning.221 
+2. Components of a Quality Online Course 
+According to the focus group students, the components of a quality 
+online course included (1) organization, (2) engaging presentation of 
+course content, and (3) opportunities for assessment and professor feed-
+back. This Section elaborates on each of these components below, sharing 
+not only student quotes but also the reasons why students identified these 
+   
+  217.  Focus Group 1, supra note 200, at 19–20 (Student 4). The student elaborated that he or she 
+appreciated one professor in a 1L class who was really great at posing hypotheticals to “draw out 
+obscure doctrines that you’re dealing with.” Id. That interaction with the professor, the student stated, 
+helped him or her apply the subject matter and get live in-person feedback. Id. 
+  218.  Id. at 3 (Student 4); see also Focus Group 3, supra note 199, at 4 (Student 1, stating that in 
+online classes, you could not raise your hand to ask a question of the professor and that you “are just 
+kind of stuck with what’s on that paper or what’s in that video”). 
+  219.  Consistent with the student’s point that he or she could email the professor in an online 
+course with questions, another focus group student mentioned that the professors he or she had for 
+online classes offered opportunities for the students to ask questions of the professor either via discus-
+sion posts or through virtual office hours. Focus Group 2, supra note 204, at 5 (Student 7). 
+  220.  Id. at 6 (Student 4). 
+  221.  The student said, “But I’ve also had classes that were more issues-based, I would say, where 
+a lot of the learning process was in the discussion, and in the conversations back and forth, and I think 
+it’s possible to have those in the online classes. I’ve had that in online classes. I don’t think it’s par-
+ticularly effective, and I don’t think it’s particularly conducive to learning.” Id. at 7 (Student 8). 
+ 526  DENVER LAW REVIEW  [Vol. 96:3  
+components as being crucial for a course to engage them in the learning 
+process. 
+Students stated that while organization was also important in live 
+classes, an organized course presentation and clear signaling about expec-
+tations were critical to their ability to learn well in the online setting. One 
+student said,  
+For me personally, like how much I’ve liked an online depends on how 
+it was structured, because there’s then some classes where sometimes 
+I have two quizzes, sometimes I have four quizzes a week, sometimes 
+I have a discussion, sometimes I don’t, and then when you’re notified 
+of that really makes difference, so I think structure is a huge influ-
+ence.222  
+Another echoed that thought, stating,  
+I think a lot depends, as far as learning goes, depends on how the 
+course is structured. Like, the first course I took, I put a lot of effort on 
+my own part into it, but I also thought it was really well-structured as 
+far as what was required each week and their explanations of what their 
+expectations were for the assignments each week, and then their feed-
+back for what you did.223 
+In terms of engaging presentation of course material, students high-
+lighted the benefit of short videos that were focused on a particular 
+topic.224 One student explained it this way,  
+But from what we know about the brain and the attention span, I think 
+that those videos are particularly good for me because it was sort of a 
+bite-size snapshot of this is what you can take in at this point in time. 
+So, as opposed to a full two- or three-hour lecture, which is certainly 
+hard to sit through. And, I think we drift in and out of that some-
+times.225 
+Students consistently mentioned that long and uninspired lectures did 
+not enhance their learning experience in the online environment.226 One 
+student explained why shorter lectures were more helpful. Specifically, the 
+student could “watch a 20 minute one, one day, and then a 30 minute one 
+the next, and then maybe [he or she will] sit for 15 or whatever” for the 
+   
+  222.  Id. at 13 (Student 5). 
+  223.  Focus Group 3, supra note 199, at 5 (Student 4). 
+  224.  See, e.g., Focus Group 1, supra note 200, at 6 (Student 1, stating that he or she found helpful 
+“the short, very specific videos that either had supplemental material or a formative assessment that 
+was directly on that”). 
+  225.  Focus Group 3, supra note 199, at 5 (Student 3). 
+  226.  See, e.g., Focus Group 1, supra note 200, at 5 (Student 4: “One of the other classes that I 
+felt I didn’t learn the material as well was where the professor lectured for two and a half hours during 
+the week in an online setting, and then had one of the formative assessments.”); id. at 5 (Student 1, 
+stating that the student just gave up and got the worst grade in his or her law school career in an online 
+class where the professor “literally read from the textbook for two hours”). 
+ 2019]  ASSESSING ONLINE LEARNING IN LAW SCHOOLS  527 
+next video.227 In other words, “chunking” the videos makes it easier for 
+students to do their work—they can watch short, focused videos on spe-
+cific topics.228  
+In addition, students pointed to formative assessments as a feature of 
+a quality online learning experience, noting how they provided them an 
+opportunity for a weekly check-in on the learning process.229 Comments 
+showed a particular fondness for regular quizzes to help students assess 
+whether they were on track learning course material.230 As one student put 
+it, “I would much prefer the online, ungraded weekly quizzes. Give me a 
+20 question quiz that I can just do to check to make sure that I’m under-
+standing things.”231  
+Students also emphasized how the professor’s use of practice-ready 
+assignments in the online setting aided them in learning course material 
+and helped them master practical skills. For example, one mentioned that 
+online classes provided the opportunity to complete assignments similar 
+to “an exam style question and doing substantive analysis work that in a 
+live class, you might not do until you take the final.”232 Another com-
+mented similarly, stating that in one online class, he or she had a “deliver-
+able [that] could range to anything from a contract . . . to an email sent to 
+a client.”233 The student emphasized how he or she appreciated this prac-
+tice and how it differed from many live classes where the student only had 
+the opportunity to read and answer a final exam question.234 The same stu-
+dent explained that practical assignments, such as writing a memo, helped 
+with engagement and learning. This is because those types of assignments 
+required the student to learn something and “then . . . apply it to something 
+that you will actually use or do in real life versus something that is all 
+   
+  227.  Focus Group 2, supra note 204, at 14 (Student 6). 
+  228.  Another feature of engaging course content that students mentioned was supplementary 
+learning material, such as the posting of relevant YouTube videos relating to course content. See, e.g., 
+Focus Group 1, supra note 200, at 6 (Student 5, stating that he or she finds it helpful when professors 
+put links to “[m]aybe a YouTube video or some sort of a clip” that helps drive home course content 
+but that is “[not] necessarily from law school per se”); Focus Group 3, supra note 199, at 21 (Student 
+4: “But like if they find something on YouTube that they want us to look at. Yeah, just any kind of 
+video is always good I feel like.”). 
+  229.  See, e.g., Focus Group 1, supra note 200, at 4–5 (Student 4: “Those weekly check-ins I felt 
+really helped me learn the material in the same way that people have talked about.”). 
+  230.  See, e.g., id. at 6, 17 (Student 2, stating that “the weekly quizzes that I have had in some 
+courses have forced me to pay more attention to the reading than I otherwise might, which is something 
+you don’t get in a live class” and that he or she “especially like[s] the quizzes that give you the answers 
+as soon as you’ve submitted the quiz” because “you can also use that as learning material”); id. at 6 
+(Student 3, stating that he or she “always found [quizzes in online classes] helpful as far as making 
+sure that I learned what I needed to learn”). 
+  231.  Focus Group 2, supra note 204, at 16 (Student 6). 
+  232.  Focus Group 1, supra note 200, at 6 (Student 2). That same student also said that “in the 
+online classes, professors are able to find more ways to assign practical assignments, like client emails 
+or drafting of a court document or something like that.” Id. at 9–10. 
+  233.  Id. at 6 (Student 3). 
+  234.  Id. 
+ 528  DENVER LAW REVIEW  [Vol. 96:3  
+based on theory.”235 Another said, “I think my personal growth and devel-
+opment in a lot of these online classes have been so much more substantial, 
+just because of that time, being able to be spent doing practical [assign-
+ments].”236  
+Moreover, students commented that having to do regular formative 
+assessments made their online classes more valuable than many of their 
+live courses in terms of their professional development. For example, one 
+student said that having the regular assessments and “getting that feedback 
+throughout the semester is something you don’t get in 95% of the in-class 
+courses here, and I think for me it has helped my learning and has solidi-
+fied my understanding of the material in these classes, because I’m check-
+ing myself along the way.”237 Another said that he or she finds live classes 
+“to be a real waste of time, but in the online courses, it’s a little different, 
+because you have a lot of practice assignments or discussion boards or a 
+vast amount of resources at your disposal.”238 According to the student, 
+these “practical” assignments in online classes “are so much more worth-
+while than my ability to take a final exam [in a live class].”239 A different 
+student made a similar comment, stating that he or she has really enjoyed 
+the weekly assignments in online classes, 
+[B]ecause typically in a live course, you don’t have graded assign-
+ments on a regular basis. You have one final at the end of the semester. 
+The ungraded weekly assignments in some of these online courses are 
+a really great way to test your knowledge of the material and identify 
+weak points.240  
+Other students made similar comments about the value of the regular 
+assessments and feedback available to them in online classes as compared 
+to some of the live classes they had taken in law school.241 
+Overall, students generally indicated that they would like to see more 
+online programming.242 One student, in fact, stated that he or she would 
+   
+  235.  Id. at 17. 
+  236.  Focus Group 2, supra note 204, at 22 (Student 7). 
+  237.  Id. at 5 (Student 1). 
+  238.  Id. (Student 7). 
+  239.  Id. 
+  240.  Id. at 14 (Student 1). 
+  241.  See, e.g., id. at 6 (Student 5: “I feel like the online classes you have a better opportunity to 
+apply the material you’re learning throughout the semester, so it just gives you more of a chance to 
+better learn it, and I feel more prepared for the final by the end.”); id. at 21 (Student 8: “I think some 
+people really do benefit from that kind of more constant feedback [in the online classes]. I know that 
+that’s something that they’re trying to integrate into some of the live classes.”). 
+  242.  Students also generally stated that they believed they had taken quality online courses at the 
+law school. See, e.g., Focus Group 3, supra note 199, at 27 (Student 1: “Yeah, I think they’re good. I 
+mean there’s definitely some variation, but I think that overall, they’re good.”); id. (Student 2: “With 
+just like anything, there are areas that could be improved, but nothing’s broken right now.”); id. (Stu-
+dent 3, comparing the online experience in a Master’s program to the IU McKinney online classes and 
+stating, “I felt like ours were much more structured over here in McKinney, than I’ve seen in other 
+formats.”). 
+ 2019]  ASSESSING ONLINE LEARNING IN LAW SCHOOLS  529 
+have been willing to take half of his or her classes online. The student 
+stated, “I think I would’ve learned just as well, but I wouldn’t have been 
+as stressed out because of the flexibility.”243 Others echoed that they would 
+have taken more online classes had they been offered.244 Another student 
+came back to the role that the professor plays in the online classroom set-
+ting, stating that if the same professor was offering the same class live and 
+online, the student would prefer to take the online class because it would 
+allow the student to work or do internships.245 However, the student would 
+not choose an online class solely for the flexibility it offered.246 Students 
+did note that they did not think the law school environment would benefit 
+from having all classes online because students liked the opportunity to 
+engage with both fellow students and professors in the law school build-
+ing.247 
+Thus, the data from the focus groups is consistent with the results of 
+some other studies on online learning in both the undergraduate or gradu-
+ate setting. Elements of online instruction that students appreciate include 
+respectful faculty,248 substantial interpersonal communications,249 an abil-
+ity to easily share information250 and ask questions,251 flexibility in learn-
+ing the material,252 and a course design that keeps students from falling 
+behind.253 Most importantly, the value of an online course, and how it is 
+perceived by students, depends on the professor’s ability to engage with 
+the students over the Internet while remaining physically separated from 
+the students. For example, Professor Lynn Clouder et al. found that when 
+group interactions shifted from a face-to-face setting to an asynchronous 
+online setting, the role of the online facilitator “cannot be underestimated” 
+and that the professor serves “as a central feature of the model and a link 
+from one context to the other.”254 
+   
+  243.  Focus Group 1, supra note 200, at 19 (Student 2). 
+  244.  See, e.g., Focus Group 2, supra note 204, at 20 (Student 5: “I think just having more online 
+classes would be really helpful.”); id. (Student 6: “I would’ve taken more, had I been able to.”). 
+  245.  Focus Group 3, supra note 199, at 16–17 (Student 1). 
+  246.  Id. (Student 1: “If I’m choosing between the same . . . professor, same class? I would do 
+online.”). 
+  247.  See, e.g., id. at 23 (Student 1: “I think that if we put too much online, we’re kind of elimi-
+nating some of those opportunities that could present themselves just [by] physically, not paying at-
+tention, but just by physically being in class at all.”); id. (Student 2: “Maybe it’s just the socializing 
+thing, but I think that’s important. And putting too many classes online I think could jeopardize the 
+environment we’re trying to keep up.”). 
+  248.  Bergstrand & Savage, supra note 190, at 294. 
+  249.  Id. at 296. 
+  250.  Tutty & Klein, supra note 190, at 118. 
+  251.  Porter et al., supra note 56, at 8. 
+  252.  Id. 
+  253.  Id. 
+  254.  Lynn Clouder et al., Electronic [Re]constitution of Groups: Group Dynamics from Face-
+to-Face to an Online Setting, 1 INT’L J. COMPUTER-SUPPORTED COLLABORATIVE LEARNING 467, 479 
+(2006). 
+ 530  DENVER LAW REVIEW  [Vol. 96:3  
+CONCLUSION 
+The research data from the IU McKinney study shows that law stu-
+dents can be just as engaged and learn just as much, if not more, in an 
+online course as a traditional classroom. The data shows that for these re-
+sults to be possible, an online course and the professor running it must be 
+organized, offer engaging content and lectures, and provide multiple op-
+portunities for course assessment and professor feedback.255 While the stu-
+dents in our surveys and focus groups are generally positively inclined to-
+ward online teaching and learning, this does not mean that every graduate 
+or undergraduate student will embrace the online environment. 
+First, the students in the focus groups consistently stated that they 
+believed that the students who do best in the online environment are those 
+who are self-disciplined and focused on learning.256 This conclusion by the 
+student participants is consistent with the literature that shows that ma-
+turity and self-regulation play a role in whether one is motivated in the 
+online environment.257 Much of the literature suggests that students with 
+high levels of self-regulation and discipline are most likely to succeed in 
+the online environment, where they must self-direct their learning pro-
+cess.258 One study shows that students believe that to succeed in online 
+courses, they must have high levels of personal responsibility and good 
+   
+  255.  See supra Part IV. 
+  256.  See, e.g., Focus Group 1, supra note 200, at 12 (Student 1: “I think if you’re self-disciplined, 
+online classes are really good for you. You’re very good at making yourself do the work and every-
+thing. Even if there’s not a professor there watching or calling you out, if you’re self-disciplined 
+enough to do everything you’re supposed to, then yeah. I think online classes is an easier choice for 
+you.”); id. at 15 (Student 3, stating that he or she would tell self-disciplined students to take online 
+classes because “[t]hey will probably get more out of it versus in an in-classroom setting. They’re 
+learning more than what you would normally learn in the classroom versus somebody that’s not dis-
+ciplined.”); Focus Group 2, supra note 204, at 10 (Student 7, stating that to succeed in an online class, 
+“it kind of takes somebody that kind of stays on top of things to really be able to get involved and 
+engaged and stay on top of it”); Focus Group 3, supra note 199, at 10 (Student 1, stating that for online 
+classes, students need to “be really focused” and admitting that he or she is “not the most focused 
+person on this planet or in this room”). 
+  257.  See Di Xu & Shanna S. Jaggars, Performance Gaps Between Online and Face-to-Face 
+Courses: Differences Across Types of Students and Academic Subject Areas, 85 J. HIGHER EDUC. 633, 
+634 (2014) (stating that students at all levels who are successful in self-regulation and self-discipline 
+are also more likely to be successful in an online course). 
+  258.  See Roger Azevedo et al., Does Adaptive Scaffolding Facilitate Students’ Ability to Regu-
+late Their Learning with Hypermedia?, 29 CONTEMP. EDUC. PSYCHOL. 344, 362 (2004) (finding that 
+students who engaged in self-regulating processes and strategies in a hypermedia environment per-
+formed better than those who used less or no self-regulation); Lynch & Dembo, supra note 22, at 10 
+(finding that “there is a significant and positive relationship . . . between self-efficacy and performance 
+in online education”); Cherng-Jyh Yen & Simon Liu, Learner Autonomy as a Predictor of Course 
+Success and Final Grades in Community College Online Courses, 41 J. EDUC. COMPUTING RES. 347, 
+356 (2009) (finding that “[s]tudents with higher learner autonomy are more likely to complete a com-
+munity college online course with higher final grades”); cf. Barnard et al., supra note 22 (finding that 
+“[o]nline self-regulatory learning behaviors were only weakly associated with better academic 
+achievement by themselves” and self-regulation works best when combined with online communica-
+tion and collaboration). 
+ 2019]  ASSESSING ONLINE LEARNING IN LAW SCHOOLS  531 
+time-management skills.259 One might expect that, on the whole, law stu-
+dents and other graduate students are more likely than undergraduate stu-
+dents to be self-disciplined.260 Research also indicates that while the mo-
+tivations for positive self-regulation may differ from student to student, it 
+is important that professors who have positively self-regulated students 
+provide an environment and activities that do not defeat that self-regula-
+tion.261 
+However, the research data also shows that even the students who 
+prefer online courses for any number of reasons, and would self-select into 
+an online course over a traditional face-to-face course, want those online 
+courses to meet or exceed a traditional classroom’s quality.262 Some best 
+practices for online teaching that those students are looking for include an 
+organized structure and content flow, engaging lectures, materials that 
+connect the content to the “real world,” and assignments that allow stu-
+dents to check their understanding of the material and that are practical for 
+when they graduate law school.263 Furthermore, they are looking for 
+courses where the professor is not compensating for the lack of direct con-
+tact by assigning work above and beyond what would be required in a 
+similar credit hour traditional classroom.264 Instead, they want a realistic 
+amount of work and the professor to engage them through lectures and 
+other content, including useful practice-ready assignments on which they 
+can receive feedback.265  
+The ABA’s slow acceptance of online courses in law schools means 
+that online teaching for many law professors is a new experience and a 
+difficult balancing act, requiring them to abide by the ABA’s mandate that 
+   
+  259.  Rachel Hare Bork & Zawadi Rucks-Ahidiana, Role Ambiguity in Online Courses: An Anal-
+ysis of Student and Instructor Expectations 1, 11 (Cmty. Coll. Research Ctr., Working Paper No. 64, 
+2013) (reporting that students “stressed the idea that responsibility and motivation are essential driving 
+forces behind successful online course outcomes”). 
+  260.  Artino & Stephens, supra note 22 (stating that “graduate students . . . were more likely to 
+report lower levels of procrastination”); Shea et al., supra note 95, at 541 (noting that “[a]dult graduate 
+students, compared to undergraduates and younger students, possess different learning approaches, 
+take greater ownership over their learning, and possess a bigger cache of experience that they bring to 
+the educational setting”); cf. William Y. Lan, The Effects of Self-Monitoring on Students’ Course Per-
+formance, Use of Learning Strategies, Attitude, Self-Judgment Ability, and Knowledge Representa-
+tion, 64 J. EXPERIMENTAL EDUC. 101, 113 (1996) (stating that “even graduate students, the experi-
+enced veterans of higher education, need assistance in engaging self-monitoring processes to improve 
+their learning”); Peter E. Williams & Chan M. Hellman, Differences in Self-Regulation for Online 
+Learning Between First- and Second-Generation College Students, 45 RES. HIGHER EDUC. 71, 77–78 
+(2004) (stating that first-generation college students are more likely to be less self-regulated in the 
+online environment and those students are “more likely to be older [and] to be married with depend-
+ents”). 
+  261.  Scott G. Paris & Alison H. Paris, Classroom Applications of Research on Self-Regulated 
+Learning, 36 EDUC. PSYCHOLOGIST 89, 98 (2001) (providing the example that “if a student has failed 
+high-stakes multiple-choice tests for several years, he or she might feel pessimistic, helpless, or angry 
+when given another such test” and might act deliberately “[t]o avoid another threat to self-esteem or 
+potential confirmation of low ability” by missing class or not putting forth 100% effort). 
+  262.  See supra Part IV. 
+  263.  See supra Part IV. 
+  264.  See supra Part IV. 
+  265.  See supra Part IV. 532  DENVER LAW REVIEW  [Vol. 96:3  
+interactions be similar to those of a traditional classroom while also meet-
+ing student expectations of quality course. As more law professors and 
+administrations expand their online course catalogs, the student perception 
+data in this Article can be a helpful guide on how to structure these online 
+courses to ensure that students are both engaged and learning in the asyn-
+chronous online environment. 
+APPENDIX A 
+FOCUS GROUP GUIDE: ASSESSING STUDENT ENGAGEMENT AND 
+LEARNING IN LAW SCHOOL ONLINE COURSES 
+A.  Preliminary Comments 
+Mr. Jerolimov will introduce himself and Ms. Long. He will provide 
+potential subjects with the informed consent document. He will provide 
+time to read the document and ask questions. He will answer any ques-
+tions. He will collect all signed consent forms before beginning the FG 
+session. Any student not wishing to participate after reading the consent 
+form will be excused. 
+After consent forms have been collected and any potential subjects 
+excused, Mr. Jerolimov will briefly explain the mechanics of the FG ses-
+sion. Namely, he will serve as the moderator posing questions that should 
+be used to prompt conversation among the FG participants. This is not an 
+interview; the goal is to stimulate interaction and thinking among the par-
+ticipants.  
+Mr. Jerolimov will also remind participants that he and Ms. Long will 
+keep their identities and comments during the session confidential. He will 
+also ask that participants not share information that occurred during the 
+session with others so that everyone can feel confident in speaking freely.  
+B.  Introductions of FG Participants 
+Mr. Jerolimov will explain that participants will not be identified in 
+any publications based on this research, nor be identified to Professors 
+Dutton and Ryznar. Nevertheless, Mr. Jerolimov will ask participants to 
+identify themselves by name so that Mr. Jerolimov and Ms. Long may 
+keep records of the session. To ensure that participants meet the criteria 
+for the study, he will also ask participants to state how many online courses 
+they have taken at IU McKinney and when they took those courses.  
+1.  What is your name?  
+2.  How many online courses have you taken at IU McKinney?  
+3.  During what year or years did you take online courses at IU 
+McKinney?  2019]  ASSESSING ONLINE LEARNING IN LAW SCHOOLS  533 
+C.  Online Versus Live for Student Engagement and Learning: Launch 
+Questions to Stimulate Conversation and Interaction 
+Before posing specific questions, Mr. Jerolimov will remind partici-
+pants that the research does not require them to name particular professors 
+and courses and that their comments can be more general in nature.  
+He will also inform participants that their responses are neither right 
+nor wrong; participants can also disagree with views expressed by other 
+participants. 
+1.  You have all taken at least one online class at IU McKinney and 
+many live classes. How do you compare the online experience to 
+the live experience in terms of student engagement—being en-
+gaged in learning the course material? Be specific. (Again, there 
+is no need to mention names or courses. You could mention types 
+of activities in online or live classes that you feel do or do not 
+enhance student engagement with the material instead.) 
+2.  You have all taken at least one online class at IU McKinney and 
+many live classes. How do you compare the online experience to 
+the live experience in terms of student learning—actually learn-
+ing the course material? Do you feel students learn more or less 
+in one environment or the other? Be specific about what learning 
+was (or was not) improved, and why you think it was (or was not) 
+improved. (Again, there is no need to mention names or courses. 
+You could mention types of activities in online or live classes that 
+you feel do or do not enhance student engagement with the ma-
+terial instead.) 
+3.  As students who have taken one or more online classes at IU 
+McKinney, do you have any views about whether the school’s 
+online classes are more or less rigorous (however you wish to 
+define that term) than the live classes at IU McKinney? 
+4.  As students who have taken one or more online classes at IU 
+McKinney, do you have any views about whether particular types 
+of students benefit more or less from online or live classes in 
+terms of student engagement or learning?  
+D.  Online Programming Generally: Launch Questions to Stimulate 
+Conversation and Interaction 
+1.  As students who have taken one or more online classes at IU 
+McKinney, do you have views as to the primary reasons why law 
+students at this school may wish to take a class online—as op-
+posed to live?  
+2.  As students who have taken one or more online classes at IU 
+McKinney, would you recommend that students take online clas-
+ses at the law school? Why or why not? Be specific.  534  DENVER LAW REVIEW  [Vol. 96:3  
+E.  Strengthening Online Programming Generally: Launch Questions to 
+Stimulate Conversation and Interaction 
+1.  As students who have taken one or more online classes at IU 
+McKinney, what advice would you share to help make that pro-
+gramming as strong as possible in terms of engaging students and 
+enhancing student learning of material? In particular, are there 
+any specific activities or teaching methods that you believe are 
+particularly helpful to student engagement and learning in the 
+online learning environment?  
+2.  As students who have taken one or more online classes at IU 
+McKinney, do you believe law students could benefit from more 
+online programming? Why or why not? Be specific.  
+3.  Students in online courses do the work on their own time. As stu-
+dents who have taken one or more online classes, how were you 
+motivated to do the work? Were you self-motivated? Or did the 
+course structure or activities motivate you to do the work and 
+learn the course material?  
+F.  Overall Conclusion About IU McKinney Online Programming: 
+Launch Questions to Stimulate Conversation and Interaction 
+1.  Overall, what is your assessment of the quality of IU McKinney’s 
+online programming? Give reasons why you conclude as you do.  
+G.  Open-Ended 
+1.  Anything else you would like to share about IU McKinney’s 
+online programming as regards student engagement and learn-
+ing?  
+2.  Any other recommendations about the online programming at IU 
+McKinney? (E.g., more courses online? More of some types of 
+courses online? More courses during the summer or not? Why?) 
+ 
