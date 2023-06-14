@@ -1,0 +1,957 @@
+This is an Accepted Manuscript of an article published by Taylor & Francis in Legal Reference Services 
+Quarterly on May 16, 2016, available online: https://doi.org/10.1080/0270319X.2016.1177422. 
+ 
+Preparing Law Students for Information 
+Governance 
+ 
+SUSAN DAVID DEMAINE 
+Ruth Lilly Law Library, Indiana University Robert H. McKinney School of Law, Indianapolis, Indiana, USA 
+ 
+Information governance is a holistic business approach to managing and using 
+information that recognizes information as an asset as well as a potential source of 
+risk. Law librarians and legal information professionals are well situated to take 
+leadership roles in information governance efforts, including instructing law students 
+in  information  governance  principles  and  practices.  This  article  traces  the 
+development of information governance and its importance to the legal profession, 
+offers a primer on information governance principles and implementation, and 
+discusses  how  academic  law  librarians  and  other  legal  educators  can  teach 
+information governance to law students using problem-based learning or similar 
+pedagogical methods. 
+KEYWORDS  information  governance,  e-discovery,  law  school  curriculum,  practice-ready, 
+instruction, law librarian, legal education, information management, data, problem-based learning 
+ 
+In a world in which information is increasingly seen as a top-level asset, the safeguarding and management of 
+information is of concern to everyone.1 
+I.  WHAT IS INFORMATION GOVERNANCE? 
+                                                 
+© Susan David deMaine 
+The author would like to offer many thanks to the members of the 2015 Boulder Conference on Legal 
+Information for their input and many improvements to this article, particularly Maria Protti, Benjamin J. Keele, and 
+Catherine A. Lemmer. Special thanks also to Marguerite Most for her careful consideration and editorial input.  
+Address correspondence to Susan deMaine, Ruth Lilly Law Library, Indiana University Robert H. McKinney 
+School of Law, 530 West New York Street, Indianapolis, IN 46202, USA, E-mail: sdemaine@iupui.edu 
+1  ALAN MACCLELLAN, INFORMATION GOVERNANCE AND ASSURANCE: REDUCING RISK, PROMOTING POLICY 
+1 (2014). 
+1 
+ Information governance is a holistic business approach to information developed in response to the 
+demands of electronic discovery in litigation, technological developments, exponential increases in data, 
+privacy concerns, and the importance of information in business decisions. The essential idea of information 
+governance is that information is an asset that, if managed wisely, has great value, but if managed poorly 
+(or not at all), opens an organization up to serious risks.2 In its Commentary on Information Governance, 
+the  Sedona  Conference 3  defines  information  governance  as  an  organization’s  “coordinated, 
+interdisciplinary approach to satisfying information compliance requirements and managing information 
+risks while optimizing information value.”4 
+Soon after the well-known Zubulake decisions by Judge Scheindlin in the Southern District of New 
+York in the early 2000s marked a seismic shift in the discovery of electronic information for litigation,5 the 
+experts of the Sedona Conference recognized that e-discovery was only part of the challenge. E-discovery 
+could not be fully addressed without discussing the larger information environment.6  
+Since then, new knowledge, practices, and technologies have developed; so have expectations and 
+demands. The fact that “the world contains an unimaginably vast amount of digital information which is 
+getting ever vaster ever more rapidly”7 means the goalposts are always moving ahead. In addition, 
+regulation of information has escalated in response to rising privacy, security, and financial stability 
+concerns,  and  has  created  additional  obligations  for  companies  and  the  lawyers  who  advise  them. 
+Information governance is designed to anticipate and prepare for these data challenges so that crises can be 
+avoided when possible, responses can be appropriate, efficient, and effective, and better business decisions 
+can be made. Now, information governance is a matter of necessity for the firms and organizations in which 
+lawyers work and, perhaps more importantly, for the clients that lawyers advise. Information governance 
+                                                 
+2   The risks reduced by information governance are more than just legal or security risks. They also include 
+enterprise risks such as lost business opportunities or unforeseen changes in an organization’s market.  
+3   The Sedona Conference is a nonprofit institute “dedicated to the advanced study of law and policy in the areas 
+of antitrust law, complex litigation, and intellectual property rights. The mission of [the Sedona Conference] is to drive the 
+reasoned and just advancement of law and policy by stimulating ongoing dialogue amongst leaders of the bench and bar 
+to  achieve  consensus  on  tipping  point  issues.”  About  Us,  SEDONA  CONFERENCE, 
+https://thesedonaconference.org/aboutus [http://perma.cc/DW8K-NF5C]. It is well-known for its work on e-discovery 
+best practices, among other things.  
+4   SEDONA CONFERENCE, COMMENTARY ON INFORMATION GOVERNANCE 4 (Dec. 2013), 
+https://thesedonaconference.org/publication/The%20Sedona%20Conference%C2%AE%20Commentary%20on%20I
+nformation%20Governance [http://perma.cc/ZP7P-KH9M].  
+5   The decisions in Zubulake v. USB Warburg in the early 2000s shifted some of the costs of retrieving 
+electronically stored information (ESI) to the requesting party but left 75% of the costs to be borne by the responder 
+and imposed heavy sanctions for the loss of such information. See Zubulake v. UBS Warburg LLC, 217 F.R.D. 309 
+(S.D.N.Y. 2003) (Zubulake I); Zubulake v. UBS Warburg LLC, 216 F.R.D. 280 (S.D.N.Y. 2003) (Zubulake III); Zubulake v. 
+UBS Warburg LLC, 220 F.R.D. 212 (S.D.N.Y. 2003) (Zubulake V).  
+6   SEDONA CONFERENCE, supra note 4, at 4.  
+7   Data, data everywhere, ECONOMIST, Feb. 25, 2010, at 71, available at http://www.economist.com/node/15557443 
+[http://perma.cc/LMW2-E6C5]. 
+2 
+ has become “table stakes,” essential not only to e-discovery and compliance but also to business success 
+and security.  
+Law librarians and legal information professionals are positioned at the crossroads of information 
+science, law, business, and education, and thus we are uniquely situated to make significant contributions 
+to information governance. 8 This article explores how academic law librarians can seize opportunities to 
+help prepare law students for information governance. Many law schools have responded to the rapid 
+development of e-discovery by offering specialized courses,9 but only a few address the larger topic of 
+information governance. Information governance’s relationship to e-discovery and other legal concerns 
+such as regulatory obligations and business practices makes familiarity with information governance vital 
+for lawyers advising clients in these areas. Although there is little room in most law school curricula for 
+extensive study of business management trends, lawyers should understand what the business community 
+is doing and be able to talk knowledgably on the subject.  
+This article offers a primer on information governance for law librarians and other legal educators who 
+want to understand the rising importance of information governance (Parts II through V). It then discusses 
+the importance of and methods for teaching law students about information governance (Parts VI and VII).  
+II.  WHY INFORMATION GOVERNANCE NOW? 
+The concept of information governance has been around since businesses began using computers for 
+everyday activities,10 but it has become a pressing issue in the last several years thanks to a convergence of 
+events. The first is e-discovery. Over the last two decades, discovery has shifted from production of mostly 
+paper documents to production of vast quantities of electronic information (referred to in the field as ESI, 
+or electronically stored information). ESI can include emails, texts or other instant messages, calendars, 
+documents, spreadsheets, databases, presentations, research data compilations, and so on. Responding to e-
+discovery requests for all this data can be disruptive, difficult, and expensive. A large portion of the 
+disruption and expense can be chalked up to two main factors: dealing with information that was 
+unnecessarily retained, and accessing information that was not well-preserved. Furthermore, even “deleted” 
+ESI can sometimes be recovered and its production required in the discovery process.  
+E-discovery was in its nascent stages in 2003 when Judge Scheindlin of the U.S. District Court for the 
+Southern District of New York issued several pre-trial decisions in Zubulake v. UBS Warburg, a case 
+                                                 
+8   In an email to an American Association of Law Librarians (AALL) discussion group, Jean O’Grady asserted that 
+it is time for law librarians “to claim leadership of the broader universe of legal information….” We need to be “identified 
+with the broader executive leadership functions related to information and knowledge strategy” if we want to stop the 
+trend that “[l]aw firms seek professionals from other disciplines to lead knowledge strategy.” E-mail from Jean O’Grady, 
+Dir. Research Serv. and Lib., DLA Piper, to AALL Association for Legal Information Discussion List (Jan. 11, 2016) (on 
+file with author).  
+9   Michele Lange, Back to (Law) School: Ediscovery Education by the Numbers, EDISCOVERY BLOG (Sept. 3, 2014), 
+http://www.theediscoveryblog.com/2014/09/03/back-law-school-ediscovery-education-numbers/ 
+[http://perma.cc/2J6U-93PZ]. Kroll’s research found that 69 law schools were offering some level of instruction on e-
+discovery outside the typical Civil Procedure class. Unfortunately, the flip side of this number means that 124 schools 
+are not offering stand-alone e-discovery instruction.  
+10   Some would posit that it has been around as long as filing cabinets and libraries. 
+3 
+ involving a workplace sex discrimination and retaliation claim. In a string of landmark opinions, Judge 
+Scheindlin tackled e-discovery issues of first impression. In Zubulake I11 and III,12 she crafted and applied 
+a new test for cost-shifting when ESI is deemed “inaccessible.” Judge Scheindlin’s approach required 
+extensive and accurate information about the responding party’s computer systems and data storage. In the 
+end the responding party undertook extensive data recovery efforts to produce the “inaccessible” data and 
+bore 75% of the related costs. In Zubulake V13, Judge Scheindlin found that the defendant, its in-house 
+counsel, and its outside counsel all failed in their duties to preserve relevant evidence once litigation was 
+reasonably anticipated. She sanctioned them all, including the lawyers.14  
+These decisions and other developments in e-discovery had an impact on the 2006 amendments to the 
+Federal Rules of Civil Procedure.15 The amendments specifically included ESI as discoverable, increased 
+involvement  by  the  courts  in the  discovery  process,  and  added to  early  disclosure  and  discussion 
+requirements. They also provided a safe harbor when spoliation was truly inadvertent and offered some 
+protection against inadvertent disclosure of privileged materials.16 
+More than a decade after the Zubulake decisions and a decade after the 2006 amendments to the Federal 
+Rules of Civil Procedure, many attorneys still do not understand the nuts and bolts of e-discovery and its 
+implications.17 Predictive coding, in which a sample of hand-picked relevant documents are used to “teach” 
+computer software to identify other potentially relevant documents, is seldom understood or used despite 
+evidence that it is more effective and less costly than other search methods. With phenomena such as cloud 
+storage, bring-your-own-device policies, and social media, the challenges involved in e-discovery are 
+growing considerably faster than the knowledge of many attorneys.18  Lack of knowledge can be costly. 
+Failing to preserve data and to collect potentially relevant ESI can result in sanctions (monetary penalties 
+and/or adverse rulings) for both client and counsel.  
+The  complexities  of  e-discovery  are  not  the  only  catalyst  driving  information  governance.  E-
+discovery’s breakout converged with increased regulation and data collection in several key areas. First, 
+                                                 
+11   Zubulake v. UBS Warburg LLC, 217 F.R.D. 309 (S.D.N.Y. 2003) (Zubulake I).  
+12   Zubulake v. UBS Warburg LLC, 216 F.R.D. 280 (S.D.N.Y. 2003) (Zubulake III). 
+13   Zubulake v. UBS Warburg LLC, 220 F.R.D. 212 (S.D.N.Y. 2003) (Zubulake V). 
+14   See id.  
+15   Judge Scheindlin was a member of the Judicial Conference of the United States Advisory Committee on the 
+Federal Rules of Civil Procedure from 1998 to 2005, when the committee was drafting the 2006 amendments to the 
+Federal Rules of Civil Procedure.  
+16   See Fed. R. Civ. P. Rules 16, 26, 33, 34, 37, and 45 (as amended 2006). See also Carl G. Roberts, The 2006 
+Discovery Amendments to the Federal Rules of Civil Procedure, LAW PRAC. TODAY (Aug. 2006), 
+http://apps.americanbar.org/lpm/lpt/articles/tch08061.shtml [http://perma.cc/3MT3-27SA]. 
+17   Ed Silverstein, Survey: Attorneys Don’t Know Enough E-Discovery, LEGALTECH NEWS (Feb. 17, 2015), 
+http://www.legaltechnews.com/home/id=1202718079925/Survey-Attorneys-Dont-Know-Enough-EDiscovery 
+[http://perma.cc/3MT3-27SA]. 
+18   Id.  
+4 
+ the passage of the USA PATRIOT Act19 in the wake of the 9/11 terrorist attacks greatly increased the 
+collection of data by the government. Accounting scandals at Enron and Worldcom prompted passage of 
+the Sarbanes-Oxley Act of 2002,20 which created new record-keeping and reporting compliance measures. 
+The financial crisis of 2008 led to the Dodd-Frank Wall Street Reform and Consumer Protection Act21 
+under which financial institutions are subject to more data collection, retention, and reporting requirements. 
+Regulations protecting consumer privacy such as the Federal Trade Commission’s Safeguards Rule22 in 
+2002 and Red Flags Rule23 in 2007 have also caused proper data collection, handling, and storage to become 
+issues of utmost importance. It is estimated that “[i]n the U.S. alone,…there are more than 20,000 laws that 
+deal with how long data is kept and what form it is in.”24  
+Complicating matters is the fact that data crosses national boundaries without pause or notice. With 
+internet connectivity and cloud computing, data can travel the globe instantaneously, touching servers in 
+many different jurisdictions. People also travel, of course, and it is not always clear whether they carry the 
+protections of their home country with them or are subject to the protections of the host country. The 
+European Union, for example, has extensive laws governing data, especially personal data,25 as do many 
+other countries.26 But many do not. The complexities are staggering.  
+The sheer amount of data being generated as the digital age continues to unfold is another complication. 
+Governments,  businesses,  organizations,  and  individuals  are  producing,  using,  and  collecting  ever 
+                                                 
+19   Pub. L. 107-56, 115 Stat. 272 (Oct. 26, 2001).  
+20   Pub. L. 107-204, 116 Stat. 745 (July 30, 2002), codified at 15 U.S. Code § 7201 et seq.  
+21   Pub. L. 111-203, 124 Stat. 1376 (July 21, 2010), codified at 12 U.S. Code § 5301 et seq.  
+22   16 C.F.R. 314.1-314.5 (2015). This rule requires financial institutions subject to the jurisdiction of the Federal 
+Trade Commission to establish data security protocols and systems to protect consumer data. These financial institutions 
+must also ensure that their affiliates and service providers keep consumer data secure.  
+23   16 C.F.R. 681.1 (2015). This rule requires many businesses to establish and implement a written identity theft 
+prevention program to help detect warnings of a data security breach and theft of identity information.  
+24   Rebekah Mintzer, Build a Better Information Governance Program, LEGALTECH NEWS (Feb. 5, 2015), 
+http://www.legaltechnews.com/id=1202717053709 [http://perma.cc/55Y2-L8LY].  
+25   See generally, DOROTHEE HEISENBERG, NEGOTIATING PRIVACY: THE EUROPEAN UNION, THE UNITED 
+STATES, AND PERSONAL DATA PROTECTION (2005); Julia M. Fromholz, The European Union Data Privacy Directive, 15 
+BERK. TECH. L.J. 461 (2000); Christopher Kruner, The European Union and the Search for an International Data Protection 
+Framework, 2 GRONINGEN J. INT’L L. 55 (2014) (discussing the EU’s interest in promoting its own data protection laws 
+as well as data protection on a global scale).  
+26   See Charles R. Ragan, Information Governance: It’s a Duty and It’s Smart Business, 19 RICH. J.L. & TECH. 12, ¶11-15 
+(2013) (citing Gail Lasprogata et al., Regulation of Electronic Employee Monitoring: Identifying Fundamental Principles of Employee 
+Privacy through a Comparative Study of Data Privacy Legislation in the European Union, United States and Canada, 2004 STAN. 
+TECH L. REV. 4, ¶ 14 (2004); ERIKA MCCALLISTER ET AL., GUIDE TO PROTECTING THE CONFIDENTIALITY OF 
+PERSONALLY IDENTIFIABLE INFORMATION § 2-2 (2010); Matthew Glynn, Australia: Data Privacy Compliance in Asia Pacific, 
+MONDAQ (Nov. 17, 2012), 
+http://www.mondaq.com/australia/x/206518/data+protection/data+privacy+compliance+in+asia+pacific 
+[http://perma.cc/P3Y7-D5L5]; and Aldo M. Leiva, Data Protection Law in Spain and Latin America: Survey of Legal 
+Approaches, 41 INT'L L. NEWS, Fall 2012, at 1. 
+5 
+ increasing amounts of information. Big data27—immense amounts of data being created very rapidly and 
+in all sorts of formats28—has entered the scene. With tremendous growth in online shopping, social media, 
+mobile devices, and the “internet of things,” we are experiencing an explosion of digital data with no end 
+in sight.29 Research conducted by IBM indicates that by the end of 2011, “everyday consumers [were] 
+creating 2.5 quintillion bytes [2.5 billion gigabytes] of data.”30 Of course, that figure is now several years 
+out of date, and it is estimated that the amount of digital information increases tenfold every five years.31  
+The effects of the interwoven and immense growth in data, laws, and e-discovery expectations have 
+been exacerbated by corporate data breaches such as those experienced by Anthem, Target, and Sony 
+Pictures.32 Other data scandals such as Hilary Clinton’s use of a personal email server when she served as 
+Secretary of State have added to an atmosphere of fear regarding out-of-control data.33 These events 
+highlight the need for consistent information governance policies. 
+The current interest in information governance in the corporate world and legal profession results from 
+this convergence of massive increases in the amount of data with more obligations to track and protect data, 
+more need to pluck data from the haystacks when necessary, and more push to make data-driven business 
+                                                 
+27   Big data is regularly identified as big in three dimensions: volume, velocity, and variety. Doug Laney, 3-D Data 
+Management: Controlling Data Volume, Velocity and Variety, GARTNER (Feb. 6, 2001), http://blogs.gartner.com/doug-
+laney/files/2012/01/ad949-3D-Data-Management-Controlling-Data-Volume-Velocity-and-Variety.pdf 
+[http://perma.cc/5UQZ-US9K]. See also Doug Laney, Deja VVVu: Others Claiming Gartner’s Construct for Big Data, 
+GARTNER (Jan. 14, 2012), http://blogs.gartner.com/doug-laney/deja-vvvue-others-claiming-gartners-volume-velocity-
+variety-construct-for-big-data/ [http://blogs.gartner.com/doug-laney/deja-vvvue-others-claiming-gartners-volume-
+velocity-variety-construct-for-big-data/]. To get an idea of what big data refers to, consider all clicks Amazon’s 
+computers record every day, all the tweets that are sent, the pings from all the smartphones, and a day’s worth of data 
+produced by the Large Hadron Collider. A car manufacturer might have big data in the data recorded by all its testing 
+equipment or data sent in from vehicles on the road, while a city might have big data in its traffic camera records. “Data 
+mining” means finding ways to extract useful information out of the billions of data points being collected.  
+28   Data scientists distinguish between structured data and unstructured data. Classic databases offer structured 
+data, with row and header columns, formulae, labels, and meticulous metadata. The data gathered from email, social 
+media, the internet of things, and elsewhere varies so widely in format and content that it is simply called unstructured 
+data.  
+29   Data, data everywhere, supra note 7. 
+30   IBM Study Reveal Challenges Midmarket CMOs Face to Sustain Brand Loyalty with Today’s Social Consumer, IBM NEWS 
+RELEASES (Nov. 16, 2011), http://www-03.ibm.com/press/us/en/pressrelease/35999.wss [http://perma.cc/ALT3-
+3QWG].  
+31   Id.  
+32   Erin E. Harrison, InfoGov: Not Just Another Pretty Buzzword, LEGALTECH NEWS (June 1, 2015), 
+http://www.legaltechnews.com/id=1202727858316 [http://perma.cc/JP2X-MLVE]. See also SEDONA CONFERENCE, 
+supra note 4, at 2.  
+33   Michael S. Schmidt, Hillary Clinton Used Personal Email Account at State Dept., Possibly Breaking Rules, N.Y. TIMES 
+(March 2, 2015), http://www.nytimes.com/2015/03/03/us/politics/hillary-clintons-use-of-private-email-at-state-
+department-raises-flags.html [http://perma.cc/ZUE8-J8M9 ]. A version of this article also appeared in print at Michael 
+S. Schmidt, Clinton Used Personal Email at State Dept., N.Y. TIMES, March 3, 2015, at A1.  
+6 
+ decisions. This is evidenced in guidelines coming from records management associations,34 e-discovery 
+vendors and advisors,35 information technology consultants,36 and those who specialize in law and 
+technology.37 
+III. WHAT DOES INFORMATION GOVERNANCE DO? 
+It would be hard to overstate the importance of information and the knowledge we can derive from it, 
+but understanding, protecting, and making the most of the vast quantities of information we are producing 
+takes  planning  and  strategic  thinking.  Management  of  information  has  typically  been  siloed  into 
+departments such as IT (hardware and  software,  storage,  security), records  (regulatory  compliance, 
+retention),  marketing  (customer  data),  library  (research,  external  information  sources,  knowledge 
+databases), and legal (litigation holds, e-discovery). Information governance cuts across these siloes and 
+sees information first and foremost as a business asset. To derive the most value from this asset, the 
+resources and processes needed to create, use, and protect the information must be understood and 
+appropriately designed. These two foci—(1) business value and (2) resources and processes—present no 
+small task. The necessary resources and processes are numerous and complex. Understanding the business 
+value of information requires simultaneous consideration of opportunity and risk, both of which can be 
+difficult to identify and measure.38  
+To be successful, information governance must address data through its entire lifecycle–from creation, 
+use, retention, and destruction–before they arise. Unlike information management strategies of the past, no 
+single silo is the focus. Instead, overall productivity and value are the goals.39 Information governance 
+envisions  an  entire  framework  of  policies,  procedures,  technologies,  organizational  systems  and 
+enforcement mechanisms that bring about reliable compliance by all participants in the enterprise.40 This 
+framework can be built from the answers to the following questions as applied to all sorts of different 
+information: 
+1.  Use: What is the information for? What information is required? Is this the right information for 
+the task?  
+2.  Flow: Where is information coming from and where is it going? 
+3.  Timing: When is the information needed? 
+                                                 
+34   See, e.g., ARMA International, http://www.arma.org/ [http://perma.cc/4HXR-S2PU]. 
+35   See, e.g., The Sedona Conference, https://thesedonaconference.org/ [http://perma.cc/DW8K-NF5C]. 
+36   See, e.g., Gartner Inc., http://www.gartner.com/technology/home.jsp [http://perma.cc/ACE5-DY7E].  
+37   See, e.g., Legaltech News, which frequently publishes articles on information governance at its website. 
+Information governance is also being covered at legal technology conferences. See, e.g., Ed Silverstein, Legaltech West Panel 
+to Ready Organizations for Infogov Explosion, LEGALTECH NEWS (May 21, 2015), http://www.legaltechnews.com/latest-
+news/id=1202727128163/Legaltech-West-Panel-to-Ready-Organizations-for-Infogov-Explosion 
+[http://perma.cc/9SX9-9NGG]. 
+38   Id.  
+39   Vasant Raval and Greg Dyche, Seven Myths of Information Governance, 4 ISACA J., Aug. 2012, at 26. 
+40   See AMELIA PHILLIPS ET AL., E-DISCOVERY: AN INTRODUCTION TO DIGITAL EVIDENCE 41-42, 175-77 (2014); 
+LINDA VOLONINO AND IAN REDPATH, E-DISCOVERY FOR DUMMIES 240-49 (2010). 
+7 
+ 4.  Access: Who can and should be using the information and for what purpose? 
+5.  Interaction: How do users manipulate/interact with the information?  
+6.  Compliance: What social and legal obligations are attached to the information? 
+7.  Risk: What happens if this information is leaked or stolen or misused? 
+8.  Retention/destruction: What is the useful life of the information?  
+9.  Responsibility: Who is/should be accountable for the information?41 
+The result is a system that distinguishes between different kinds of information based on importance 
+to the business, usefulness, obligations, and longevity, and provides for the storage and use of that 
+information. The information governance system can then anticipate e-discovery and be prepared for 
+litigation holds. It also ensures that there are destruction policies and technologies in place so that 
+information can be deleted once its useful lifespan is over. It incorporates compliance, privacy, and 
+security considerations. Finally, an effective information governance system provides for information 
+recovery in the wake of disaster by backing up essential data. By viewing the many facets of information 
+as a whole, planning for the total life of the information is more effective and valuable than if planning is 
+done piecemeal. 
+To appreciate the effects of information governance, consider more closely the matter of e-discovery. 
+As discussed above,42 information governance owes its development, in part, to the explosive growth in e-
+discovery and therefore is designed in part to address complexities of e-discovery.43 The overarching 
+importance of information governance relative to e-discovery is explained by Linda Luperchio, Director of 
+Information Lifecycle Governance and E-discovery at The Hanover Insurance Group:  
+[Information] governance expertise is as critical, if not more critical, than e-discovery 
+expertise. If you don’t approach…governance in the right way, the volume of work 
+regarding e-discovery is going to go off the charts. Data grows at an alarming rate, so you 
+have to get a handle on it as early as possible.44 
+Information governance helps with many of the tasks involved in e-discovery. For example, a data map 
+is a useful tool for creating a shared understanding of data types and locations e-discovery. A data map can 
+identify all the IT systems (including legacy systems45) and what they hold, back-up and retention policies, 
+                                                 
+41   The questions are derived from Christian P. Walker, Principles of Holistic Information Governance, The Info Gov 
+Guerrilla (Apr. 1, 2013), https://christianpwalker.wordpress.com/2013/04/01/principles-of-holistic-information-
+governance/ [http://perma.cc/4WYF-GVC7]. 
+42   See supra Part II.      
+43   It has also been posited that techniques used in e-discovery, such as predictive coding, can inform information 
+governance—and be a valuable part of the expertise lawyers provide for their clients. See Bennett B. Borden and Jason R. 
+Baron, Finding the Signal in the Noise: Information Governance, Analytics, and the Future of Legal Practice, 20 RICH. J.L. & TECH. 7 
+(2014).  
+44   Chris DiMarco, Strong Info Governance Policies Can Drive Down E-Discovery Expenditure, LEGALTECH NEWS (March 
+9, 2015), http://www.legaltechnews.com/id=1202720029692/Strong-Info-Governance-Policies-Can-Drive-Down-
+EDiscovery-Expenditure [http://perma.cc/F3CT-G8HF].  
+45   “Legacy systems” are technologies that are no longer used (e.g. floppy disks or an old email server). Even 
+though no longer used, the outdated technology may contain data relevant to current business activities or litigation.  
+8 
+ and who is responsible for these systems and policies.46 A data map is much easier to create – and hopefully 
+already exists – if information governance is in place. Because information governance provides for all 
+aspects of the information lifecycle, including discovery in litigation, an information governance plan will 
+also ease the implementation of litigation holds, data collection, winnowing for relevance, review for 
+privilege, and then production. Finally, information governance helps defend the destruction of data through 
+the routine application of standard policies.  
+The role of e-discovery and other information functions in the larger information governance picture is 
+illustrated by the Information Governance Reference Model (IGRM). The IGRM was developed by EDRM, 
+a group of electronic discovery experts who originally created the well-known Electronic Discovery 
+Reference  Model.47 The  IGRM  is  intended  to  illustrate  and  inform  the  discussion  of  information 
+governance and continues to be tweaked as insights arise. The IGRM serves as a visual means of 
+understanding what people mean when they talk about information governance. It is not intended to be 
+prescriptive  but  rather  “to  provide  a  reference  that  will  promote  cross-functional  dialogue  and 
+collaboration.”48 
+                                                 
+46   For more on data maps and IG, see Information Maps: A Multi-Disciplinary Must, IRON MOUNTAIN, 
+http://www.ironmountain.com/~/media/Files/Iron%20Mountain/Knowledge%20Center/Reference%20Library/Whi
+te%20Paper/I/Information%20Maps%20%20A%20Multi%20Disciplinary%20Must.pdf?dmc=1&ts=20150611T09522
+27325 [http://perma.cc/QN2F-FMLQ] (last visited June 11, 2015).  
+47   The Electronic Discovery Reference Model (EDRM) is a conceptual portrayal of the iterative stages of the e-
+discovery process. These stages include information governance, identification, preservation, collection, processing, 
+review, analysis, production, and presentation. See EDRM Stages, EDRM, http://www.edrm.net/resources/edrm-stages-
+explained [https://perma.cc/U6BV-NWF4]. 
+48   Information Governance Reference Model, EDRM, http://www.edrm.net/projects/igrm [http://perma.cc/X43M-
+UNPK].  
+9 
+  
+Fig. 1: The IGRM Model. Used with persmission. 
+The outer ring of the IGRM shows the entities within an organization that have responsibility for and 
+interest in information at some point during the information’s lifecycle. Briefly, Business is concerned with 
+the development and application of information. Legal and Records/Information Management (RIM) are 
+concerned  with  identifying,  organizing,  and  retaining  information  for  compliance  purposes,  legal 
+protections of value, and responses to litigation. IT is concerned with implementing and maintaining access, 
+storage, and retrieval systems. Closely related to IT is Privacy/ Security, which is concerned with protecting 
+information from theft and corruption. Together, IT and Privacy/Security likely bear responsibility for 
+disaster recovery as well.49 Depending on the nature and size of the organization, boundaries between these 
+                                                 
+49   Recovering from a natural disaster or something similarly devastating is typically the impetus behind the 
+planning, but a security breach is actually more likely. A recovery plan should be part of information governance 
+structure. In another example, banks and financial institutions are expected to have recovery plans to restore their 
+10 
+ entities may be blurred or even nonexistent, and distinctions may arise more from how information is 
+viewed than from which department is doing the viewing.  
+The center of the diagram illustrates the basic lifecycle of information as it moves from creation and 
+use in the business sector of the model through retention to eventual disposal. Notice that during the middle 
+stage, the need for litigation holds and discovery falls in the purview of the legal sector while storage and 
+security are handled at the intersection of the IT and privacy/security sectors. Disposal falls into the RIM 
+and IT sectors as it is often RIM that identifies information that is no longer needed and IT ensures proper 
+disposal.  
+The inner and outer circular arrows of the diagram emphasize that information governance is holistic, 
+ongoing, and unified—an approach to information that requires integration of policies and transparency of 
+process throughout the governance structure.  
+IV. HOW DOES INFORMATION GOVERNANCE RELATE TO AND DIFFER FROM 
+OTHER INFORMATION MANAGEMENT SCHEMES? 
+Organizational and information experts employ a slew of acronyms and terms to talk about coping with 
+information. In addition to information governance, these include governance of information technology 
+(IT governance), information management, records (and information) management (RIM), knowledge 
+management (KM), enterprise content management (ECM), and big data analytics. The distinctions 
+between information governance and other information management models are an important part of the 
+shared vocabulary that contributes to information governance’s success.  50 Without this background 
+knowledge, people may well resist the idea of information governance and see it as duplicative of other 
+systems or just another trend. Communicating that information governance is an overarching, systemic goal 
+different from other schemes is vital.  
+Because it is intended to cover the entire lifecycle of information in all parts of the organization, 
+information governance is generally viewed as the most expansive of the information management 
+schemes. The focus is on enterprise-wide strategy and policy covering everything from incoming data and 
+analytics to storage and search, security and privacy, retention and deletion. A few voices maintain that 
+information governance is actually narrower than it claims to be because it insists on “governing” and 
+categorizing information, more like the compliance- and control-focused records management systems. 51 
+According to one e-discovery attorney, this characterization of information governance is especially true 
+now with the seas of information so vast—and expanding exponentially—that governing it is infeasible. 52  
+                                                 
+financial soundness and business operations in the event of financial disaster. See Luca Amorello and Sacha Huber, 
+Recovery Planning: A New Valuable Corporate Governance Framework for Credit Institutions, 3 L. & ECON. YEARLY REV. 296 
+(2014), available at http://ssrn.com/abstract=2577760 [http://perma.cc/6UVW-ZXPV].  
+50   On the importance of shared vocabulary, see Mintzer, supra note 24. 
+51   See, e.g., Ralph Losey, Information Governance v. Search: The Battle Lines Are Redrawn, E-DISCOVERY TEAM (Feb. 8, 
+2015), http://e-discoveryteam.com/2015/02/08/information-governance-v-search-the-battle-lines-are-redrawn/ 
+[http://perma.cc/9JPS-RVKW]. 
+52   Id. 
+11 
+ To understand the extent of information governance, it helps to contrast it with the other schemes for 
+managing information. While it may seem like little more than semantics, “information management” 
+generally refers to an approach that emphasizes tactics and targeted procedures rather than information 
+governance’s enterprise-wide strategy and focus on information as an array of assets. Likewise, “enterprise 
+content management” sounds like it has the scope of information governance, but pundits describe ECM as 
+concentrating on documents rather than data. ECM views documents as having a defined purpose according 
+to content rather than multi-faceted expressions of data with untapped potential value.53 ECM has also been 
+described as a noun rather than a verb, the implication being that it is a static event and not an ongoing 
+process that changes as technologies and information change.54  
+“Records management” concentrates on the organization and retention of information required for 
+internal functions or by external bodies. This covers areas such as human resources, financial records and 
+filings, product testing, supply chains certifications, and the like. Records management tends to focus on 
+strict organizational systems, retention schedules, and destruction of material no longer needed.  
+“Knowledge management” focuses on the capture and sharing of work products, innovative ideas, 
+insights, and lessons learned from experience. Knowledge management is concerned with collecting and 
+curating information with high business utility. As defined early on in the KM movement, “[k]nowledge 
+management is the process of capturing, distributing, and effectively using knowledge.”55 The emphasis is 
+on sharing information in order to make better business decisions, streamline an organization’s production, 
+and avoid re-inventing the wheel. Examples include building databases of work products, identifying and 
+developing experts, and creating communities of practice.56 Typically, knowledge management does not 
+relate to  e-discovery  (either  in its anticipation  or  implementation),  management  of information for 
+compliance purposes, or enterprise-wide retention, destruction, privacy, and security issues. 
+“Big data” is data that is too large and diverse to handle on ordinary computing platforms with the usual 
+business software. Gartner, the technology research and advising company, coined the often used 3Vs 
+definition: data that is huge along three metrics—volume, velocity, and variety.57 In other words, big data 
+is generated at unprecedented speeds and in numerous formats from multiple sources. Big data analytics 
+are the methods and tools used to extract useful information from the enormous pools of data that are 
+developing as digital technology becomes more ubiquitous. An attraction of big data analytics is the idea 
+that information does not have to be well-organized to be workable; tools can be developed to mine vast 
+                                                 
+53   Dave Hunt, Where Worlds Collide – Why Enterprise Content Management is not Information Governance, BARRACUDA 
+(Feb. 2, 2015), https://blog.barracuda.com/2015/02/02/where-worlds-collide-why-enterprise-content-management-is-
+not-information-governance/ [http://perma.cc/XL85-CB3R]. 
+54   John Mancini, Content Management 2020: Thinking Beyond ECM (2015), available at http://info.aiim.org/cm2020 
+[http://perma.cc/2BY7-RL7U]. 
+55   Thomas H. Davenport, Saving IT's Soul: Human Centered Information Management, HARV. BUS. REV., Mar.-Apr. 
+1994, at 119. 
+56   Michael E. D. Koenig, What is KM? Knowledge Management Explained, KM WORLD (May 4, 2012), 
+http://www.kmworld.com/Articles/Editorial/What-Is-.../What-is-KM-Knowledge-Management-Explained-82405.aspx 
+[http://perma.cc/B74Q-KNYM]. 
+57   Laney, Deja VVVu, supra note 27.  
+12 
+ and heterogeneous pools of data and still come up with useful results.58 It has been suggested that perhaps 
+big  data  analytics  will  render  moot  the  notion  of  proportionality  in  discovery. 59 The  notion  of 
+proportionality is currently intended to limit the scope and volume of document review in order to keep the 
+cost of discovery from exceeding the value of the claim. Big data tools such as predictive coding are making 
+massive searches much more feasible.60  
+It is impossible to know exactly how big data analytics will evolve, but it is not the same as information 
+governance. Where information governance is a strategic approach to and understanding of all information 
+needs and uses in the enterprise, big data analytics is a category of tools that can be used within the 
+information governance structure to improve the use of information assets.  
+The term “data governance” is also evident in the literature. Sometimes this term is used to mean 
+essentially the same thing as information governance.61 At other times, the term is used more narrowly, 
+focusing on the nature and integrity of the data artifacts themselves rather than the knowledge they 
+represent.   
+Information governance and IT governance are also different concepts. Technology is key to all 
+information management systems. It is both the cause of and cure for the data explosion. With so many 
+applications, so many devices, and so many heterogeneous data environments, information technology 
+departments can feel overwhelmed. As IT expert Chris Curran writes, “IT is stressing under the weight of 
+applications, emerging tech, vendors and systems and sans the support of a seamless, flexible and sturdy 
+integrated infrastructure.”62 IT governance focuses on managing hardware and software resources to help 
+alleviate the stress. Information governance includes IT governance but at the same time looks beyond the 
+                                                 
+58   Despite the excitement surrounding big data, the analytics have limitations that are sometimes unrecognized. 
+Economist Tim Harford points out that a statistical problem such as a sampling error or a sampling bias is not resolved 
+by big data but rather magnified. As an example, consider all the data produced by Twitter users. It is a remarkably large 
+data pool, and would thereby suggest greater statistical accuracy by virtue of the large sample size. The problem is that 
+Twitter users are not representative of the population as a whole; the sample is not random. Similarly, very large data sets 
+can make flukes seem more prominent than they really are. Statisticians and computer scientists are working on new 
+techniques to address some of the issues with big data. Tim Harford, Big data: Are we making a big mistake?, FIN. TIMES 
+(Mar. 28, 2014), http://www.ft.com/cms/s/2/21a6e7d8-b479-11e3-a09a-00144feabdc0.html [http://perma.cc/2J97-
+5RYD]. 
+59   James Shook, Vendor Voice: Will Big Data Eat Proportionality?, LEGALTECH NEWS (Jan. 22, 2015), 
+http://www.legaltechnews.com/id=1202715843471/Vendor-Voice-Will-Big-Data-Eat-Proportionality? 
+[http://perma.cc/6QHP-U6XU].  
+60   See generally Borden and Baron, supra note 43.  
+61   See generally Kristin Weber et al., One Size Does Not Fit All--A Contingency Approach to Data Governance, 1 ACM J. 
+DATA & INFO. QUAL., June 2009, Art. 4, http://dx.doi.org/10.1145/1515693.1515696.  
+62   Chris Curran, Understanding IT Complexity, CIO DASHBOARD (June 2, 2015), http://www.ciodashboard.com/it-
+strategy/understanding-it-complexity/ [http://perma.cc/MBY4-2U5S]. 
+13 
+ hardware and software to the content of the data and the information that can be pulled from it to determine 
+its use and handling.63   
+V.  HOW DO BUSINESSES MAKE INFORMATION GOVERNANCE HAPPEN? 
+As noted above, the IGRM is primarily a tool to help people talk about information governance. 
+Building a shared understanding about information’s value, use, and risk is vital because organizations can 
+be overwhelmed by the idea of establishing information governance. They are paralyzed by the quantities 
+of unmanaged information that can cost them dearly. To counter this paralysis, it is important to understand 
+that information governance is an ongoing journey, not a destination. Policies, procedures, and decisions 
+will need regular monitoring, further development, and tweaking.64  
+It is also important to understand what may help or hinder information governance. Paul Tallon, a 
+professor of information systems, has identified organizational factors that enable or inhibit information 
+governance. Factors that enable information governance include:   
+1.  An organizational strategy that focuses on customers and innovations; 
+2.  Technology strategies that align with customer/innovation focus and call for specific behaviors; 
+3.  A centralized organization with centralized IT; 
+4.  Standardization and integration of IT systems; 
+5.  A culture that promotes strategic use of information; 
+6.  Being subject to regulations that specify requirements for collection/retention; and  
+7.  An awareness of accelerating data growth. 
+Factors that inhibit information governance include:  
+1.  Product complexity and a broad product mix;  
+2.  Outdated departmental silos (IT and others) and low process integration; 
+3.  Pack-rat mentality in the organizational culture; and  
+4.  Decentralization.65  
+To see these factors in action, consider two examples. First, take a large university comprised of many 
+separate schools—everything from the fine arts to medicine. This organization must cope with a vast range 
+of information: grades, class schedules, websites, personal and medical data, parking systems, payroll and 
+benefits, financial data, library systems, research data of all sorts, and, last but not least, email. Traditionally, 
+universities are relatively siloed organizations—the School of Liberal Arts needs one system while the 
+School of Engineering needs another. Faculty members have a sense of independence unique to academia, 
+and students come and go. There may be a culture that promotes hanging on to data forever (albeit 
+sometimes for good reason). At the same time, however, IT is likely to be largely centralized, and the 
+university culture is likely to support innovation as well as strategic uses of information. In addition, a fair 
+portion of the data held by universities is subject to regulation. These latter factors—centralization of IT, 
+                                                 
+63   Paul P. Tallon et al. The Information Artifact in IT Governance: Toward a Theory of Information Governance, 30 J. MGMT. 
+INFO. SYS., Winter 2013-14, at 141. 
+64   Vasant Raval and Greg Dyche, Seven Myths of Information Governance, 4 ISACA J. 1 (2012). 
+65   Tallon, supra note 63.  
+14 
+ interest in innovation, information subject to regulation—may help information governance, but all told, a 
+university is likely to face significant challenges in implementing information governance.  
+Second, consider an architectural and civil engineering firm with 100 employees. This firm is highly 
+focused on customer satisfaction and innovation. Its IT is centralized and standardized. The firm is small 
+enough that there are few silos, although the human resources and finance departments each have their own 
+ways of doing things. Services offered by the firm are not particularly diverse even though they handle 
+projects of varying size. Most employees are aware of data growth issues and value a streamlined 
+organization, but they also know it is important to keep records to document safety measures and design 
+decisions. Compared to the university, the engineering firm is nimble and organized around a single 
+purpose. It will face fewer challenges in implementing information governance.  
+Experts largely agree that information governance requires buy-in, and preferably direction, from the 
+top of the organization. Information governance does not directly generate revenue; funding will need to 
+be thoroughly justified and understood by the very highest echelons of an organization.66 In addition, 
+information governance—in both implementation and continual application—must be independent of any 
+one unit and cut across boundaries within an organization. Information decisions must be made with the 
+organization’s best interests in mind rather than the interests of individuals or departments within the 
+organization.67  
+A top-down approach to information governance brings together a team of leaders from key areas such 
+as compliance, legal, IT, marketing, and operations. Together, these stakeholders and stewards work “to 
+understand how each of them attaches value to their information, as well as understanding the life cycle of 
+that information. …By building consensus and understanding, stakeholders will appreciate how their own 
+specific needs impact each of the other groups and influence the overall information governance strategy.”68 
+Top-down implementation of information governance is particularly effective at taking the holistic view of 
+information that lies at the heart of information governance. Top-down approaches make the most cost-
+effective use of outside consultants, happen more quickly, and leave fewer areas of duplication and 
+overlapping effort.69  
+On the other hand, the top-down approach to information governance may contribute to “analysis 
+paralysis”—so much to do that no one knows where or how to start. The size and complexity of an 
+enterprise-wide project may be overwhelming and a bottom-up approach may be more feasible.70 Small 
+projects can be undertaken and then expanded to create the larger framework that will eventually support 
+                                                 
+66   Mintzer, supra note 24. 
+67   SEDONA CONFERENCE, supra note 4, at 8. 
+68   Peter Mullens, Information Governance – The top-down approach, BARRACUDA (Nov. 5, 2014), 
+https://blog.barracuda.com/2014/11/05/information-governance-the-top-down-approach/ [http://perma.cc/AAD2-
+9XXD].  
+69   Id.  
+70   Raval and Dyche, supra note 64.  
+15 
+ an enterprise-wide system.71 For example, Joe Garber, Vice-President of Information Governance for HP, 
+writes that in cleaning up legacy data 
+[o]rganizations can start small, focusing on a specific repository, department, or geography. 
+This allows them to clean up legacy information quickly and without having to go through 
+the hassle of getting everyone from every department or business unit to agree on policies 
+and procedure. Perhaps more important, it allows them to realize tangible savings quickly, 
+so they can make a business case for future projects based on facts. In short, information 
+governance is no longer a “boil the ocean” proposition.72 
+Christian P. Walker, an information systems consultant, writes about using guerilla tactics to introduce 
+information governance into clients’ projects. With one client, he established good information governance 
+practices within individual projects. These practices included sending links to documents rather than 
+attachments, using versioning instead of iterative copies, labeling work consistently, applying retention and 
+deletion schedules, and securing content.73 The organization’s vice-president of IT noticed, and asked how 
+to implement information governance across the enterprise.74 Reflecting on this experience, Walker 
+explained that “[s]ometimes you’ve just got to sneak IG into your client’s projects the same way you sneak 
+veggies into a recalcitrant child’s diet.”75 
+A bottom-up, small project approach to information governance may also result in fewer disruptions of 
+current practices and deal more immediately with real problems.76 It may also avoid misunderstandings, 
+unsuitable policies, and resistance that may follow when information governance is handed down from on 
+high.  For  information  governance  to  work,  policies  must  suit  needs,  and  everyone  must  accept 
+accountability for governance over the long haul and bear responsibility.77 Information governance is a 
+shared undertaking, and involving data stakeholders is key. The CIO of University of Washington Medical 
+Center puts it well:  
+We have a master data map that looks at our six major areas of data…. We have a data 
+management committee whose members are the owners of these six areas. They set the 
+policies and decide what is core and peripheral…consult with administrators as to how 
+                                                 
+71   Id.  
+72   Joe Garber, It will cost you if you don’t have an information governance strategy, 21 LEGALTECH NEWS, June 2015, at 41, 
+42. 
+73   Christian P. Walker, Guerrilla Tactics – IG whether they want it or not, INFO GOV GUERRILLA (Sept. 29, 2014), 
+https://christianpwalker.wordpress.com/2014/09/29/ig-guerrilla-tactics/ [http://perma.cc/ND96-T4WR]. 
+74   Id.  
+75   Id.  
+76   Peter Mullens, Information Governance – the bottom-up approach, BARRACUDA (Nov. 19, 2014), 
+https://blog.barracuda.com/2014/11/19/information-governance-the-bottom-up-approach/ [http://perma.cc/ZT2W-
+87NU].  
+77   Debra Logan, What Is Information Governance? And Why Is It So Hard?, GARTNER (Jan. 11, 2010), 
+http://blogs.gartner.com/debra_logan/2010/01/11/what-is-information-governance-and-why-is-it-so-hard/ 
+[http://perma.cc/D9ND-3XFU].  
+16 
+ information is used. We also have a policy document that sets out roles for data custodians, 
+stewards, and owners. Even if I’m the CIO, I don’t own the institution’s data….But being 
+responsible for data integrity, storage, and security, I have a role as the main data steward. 
+My job is executing policy.78 
+This statement highlights not only user involvement in policy-setting but also shared oversight and the 
+creation  of  ownership/stewardship  rights  and  responsibilities.  Tallon  refers  to  these  as  “structural 
+practices.”79 In addition to these structural practices, successful information governance requires significant 
+“relational practices” such as instruction, communication regarding user needs, and feedback on the 
+effectiveness of policies and procedures.80  
+This idea that both structural and relational practices are necessary highlights the fact that, in the end, 
+comprehensive information governance requires both top-down and bottom-up input and commitment. 
+Those with enterprise-wide accountability can provide big-picture analysis, insight into organizational 
+goals, and leverage to see that goals are actually achieved. Those with hands-on experience with and 
+responsibility for the various kinds of information bring detailed knowledge about data content and use 
+along with the ability to actually execute procedures to the table. If either the top-down or bottom-up 
+trajectory is missing, information governance will be more difficult to achieve. 
+VI. THE IMPORTANCE OF INFORMATION GOVERNANCE INSTRUCTION 
+Although there are still knowledge and skills gaps among attorneys regarding e-discovery,81 some 
+lawyers have developed considerable expertise and others are beginning to get up to speed. Law firms are 
+starting to offer more e-discovery services in-house and investing more money and expertise in e-discovery 
+technology. According to the Law Firm e-Discovery Strategy Survey published in April 2015 by HBR 
+Consulting, “[a] law firm’s capability to provide e-discovery services has gone from a novelty to a business 
+necessity.”82 This is echoed in a 2015 advisory opinion from the California State Bar’s Standing Committee 
+on Professional Responsibility and Conduct stating that the professional obligation of competency requires 
+facility with e-discovery for any attorney dealing with litigation.83  
+                                                 
+78   Tallon, supra note 63.  
+79   Id.  
+80   Id.  
+81   See supra text accompanying notes 17-18.   
+82   HBR CONSULTING, LAW FIRM E-DISCOVERY STRATEGY SURVEY (2015), available at 
+http://www.hbrconsulting.com/downloads/HBR_LDC_Law%20Firm_EDiscovery_EXECUTIVE%20SUMMARY_S
+urvey_Results_May_2015.pdf [http://perma.cc/2DGR-67JY]; HBR Releases Results of Law Firm e-Discovery Strategy Survey, 
+BUSINESSWIRE (May 27, 2015, 12:36 PM EDT), 
+http://www.businesswire.com/news/home/20150527006283/en/HBR-Releases-Results-Law-Firm-e-Discovery-
+Strategy#.VXIInNJVhHw [http://perma.cc/4NXN-J6VZ]. 
+83   State Bar of Cal. Standing Comm. on Prof’l Responsibility & Conduct, Formal Op. No. 2015-193 (2015) 
+(“Attorneys attorney handling e-discovery should be able to perform (either by themselves or in association with 
+competent co-counsel or expert consultants) the following: 
+• initially assess e-discovery needs and issues, if any;  
+17 
+ As the preceding sections explain, e-discovery cannot be dealt with in a vacuum.84 The Law Firm e-
+Discovery Strategy Survey states that “assisting clients with Information Governance challenges” is an area 
+where law firms can expand service offerings. Basri and Mack point out that counsel with expertise will be 
+well-positioned to manage not only e-discovery but also “broader information governance activities for the 
+corporation.”85  
+Education is key to creating this competence. In their treatise eDiscovery for Corporate Counsel, Carole 
+Basri and Mary Mack assert that “this means formal law school training for law students. …[T]he demand 
+for lawyers who understand the law and technology…will outstrip the supply of qualified professionals.”86 
+In a similar vein, Chris Gallagher, an expert on the e-discovery industry and an adjunct professor at Touro 
+College of Law, writes that “eDiscovery and [other information technology-based] usable skills will ensure 
+that recent law school graduates will be an immediate value to their clients, saving them both time and 
+money.”87  
+It is likely that demands for lawyers with information governance expertise will only increase as 
+corporations  face  greater  information  obligations.  Charles  Ragan,  a  commercial  litigator,  draws  a 
+                                                 
+• implement/cause to implement appropriate ESI preservation procedures; 
+• analyze and understand a client’s ESI systems and storage; 
+• advise the client on available options for collection and preservation of ESI; 
+• identify custodians of potentially relevant ESI; 
+• engage in competent and meaningful meet and confer with opposing counsel concerning an e-discovery 
+plan; 
+• perform data searches; 
+• collect responsive ESI in a manner that preserves the integrity of that ESI; and 
+• produce responsive non-privileged ESI in a recognized and appropriate manner.”). 
+84   See supra Parts II through V.  
+85   CAROLE BASRI AND MARY MACK, EDISCOVERY FOR CORPORATE COUNSEL § 28:4 (2014-15).  
+86   Id.  
+87   Chris Gallagher, eDiscovery: The Crucial Next Step in Law School Curriculum, BLOOMBERGBNA LEGAL 
+COMMUNITIES: BIG LAW BUSINESS (June 5, 2015), https://bol.bna.com/ediscovery-the-crucial-next-step-in-law-school-
+curriculum/ [http://perma.cc/U3UV-8JNE]. Many commentators in the legal blogosphere have echoed the need for 
+instruction in e-discovery and other information technology related skills in the law school curriculum (and elsewhere) as 
+well. See, e.g., Shannon Capone Kirk and Kristin G. Ali, “Teach Your Children Well” – A Case for Teaching E-Discovery in Law 
+Schools, E-DISCOVERY TEAM, http://e-discoveryteam.com/school/%E2%80%9Cteach-your-children-
+well%E2%80%9D-a-case-for-teaching-e-discovery-in-law-schools/ [http://perma.cc/9BKU-SHGV] (last visited June 5, 
+2015); Hilary Daninhirsch, E-discovery training crucial to a full legal education, INSIDE COUNSEL (June 16, 2014), 
+http://www.insidecounsel.com/2014/06/16/e-discovery-training-crucial-to-a-full-legal-educa [http://perma.cc/4EML-
+J6SC]; Michael Fitzgerald, 14 Reasons Law Schools Must Teach Tech, INFO. WEEK, (July 9, 2013), 
+http://www.informationweek.com/mobile/mobile-devices/14-reasons-law-schools-must-teach-tech/d/d-id/1110682? 
+[http://perma.cc/NH5A-2ASD]. See also Richard Granat and Marc Lauritsen, Teaching the Technology of Practice: The Top 10 
+Schools, 40 LAW PRAC., July-Aug. 2014, at 44, available at 
+http://www.americanbar.org/publications/law_practice_magazine/2014/july-august/teaching-the-technology-of-
+practice-the-10-top-schools.html [http://perma.cc/KTE3-A9GW]. 
+18 
+ connection  between  the  Delaware  Chancery  Court’s  opinion  in  In  re  Caremark  International, Inc. 
+Derivative Litigation,88 which expanded the oversight duty of a corporate board of directors to include 
+ensuring compliant management of records to prevent corporate losses, and the need for information 
+governance.89 In light of data security breaches and the rising costs of e-discovery, Ragan’s point adds 
+considerable weight to the argument that law students need instruction in information governance.  
+Similarly, law firms are under pressure from clients to demonstrate that they “maintain[] high quality 
+internal information governance...strategies and practices.”90 Clients want assurances that law firms are 
+equipped to address data security and privacy concerns. Lawyers need to be able to discuss information 
+governance knowledgeably and to show that their own practice is engaged in rigorous information 
+governance.  
+A few schools are already including information governance in their e-discovery or “technology of 
+law” curricula.91 Gallagher notes that  
+[c]lasses that follow the Electronic Discovery Reference Model (EDRM)92 beginning with 
+Information Governance would give students real world understanding of the flow of data. 
+Corporations are working harder than ever to balance legal and regulatory obligations with 
+business efficiency and a goal of reducing the cost of electronically stored information 
+(ESI), limiting liability, and increasing process efficiency.93 
+Nonetheless, the vast majority of schools are not teaching information governance, even at a time when 
+students are searching for ways to differentiate themselves in a tight job market.94 To ameliorate this 
+situation,  more  law  librarians and  other  legal  educators  need  not  only  the basic  knowledge  about 
+information governance provided in the previous sections but also ideas about how it can be taught.  
+VII.  TEACHING INFORMATION GOVERNANCE 
+                                                 
+88   In re Caremark Int’l Inc. Derivative Litigation, 698 A.2d 959 (Del. Ch. 1996)  
+89   Ragan, supra note 26, at ¶11-15.  
+90   Erin E. Harrison, The Firm of the Future: Utilizing IG Assessments to Meet Clients' Needs, LEGALTECH NEWS (Aug. 
+31, 2015), http://www.legaltechnews.com/id=1202736089998 [http://perma.cc/L6P3-5NAY]. 
+91   The University of Minnesota Law School offers a seminar in information governance taught by Charles Ragan. 
+Course Details, UNIVERSITY OF MINNESOTA LAW SCHOOL, https://www.law.umn.edu/current/alphabetical-course-
+list/details.html?courseNumber=6705 [http://perma.cc/7NJF-TWHJ]. The Cardozo School of Law is offering a 
+program called the Cardozo Data Law Initiative that includes information governance in its curriculum. Cardozo Data 
+Law Initiative, CARDOZO LAW, http://www.cardozo.yu.edu/CDLI [http://perma.cc/7KU8-7LT6]. Similarly, Vanderbilt 
+Law School offers a course entitled Electronic Discovery and Information Governance. Course Information: Electronic 
+Discovery and Information Governance, VANDERBILT LAW SCHOOL, https://law.vanderbilt.edu/courses/304 
+[http://perma.cc/3F96-PN2X].  
+92   See EDRM, supra note 47.  
+93   See Gallagher, supra note 86.  
+94   See id.  
+19 
+ Information governance has a unique manifestation in every enterprise, and, to an extent, teaching 
+information governance is about communicating a mindset and a deep understanding of information and 
+its uses. It is not about a specific set of skills or knowledge. This makes the topic ill-suited for the lecture- 
+and question-based approaches typical of law school classrooms. Instead, it invites a hands-on, active 
+learning pedagogy such as problem-based learning or the case-study method. These approaches fit well 
+with the American Bar Association’s accreditation requirement for experiential learning instituted in the 
+2014-15 standards.95   
+Problem-based learning (PBL) inverts the traditional approach of providing substantive material to 
+students and posing questions to test their comprehension and retention. In PBL, the teacher presents 
+students with a problem, a real-life (or close to) situation. The problem should be somewhat messy—“ill-
+structured” as the pedagogical literature terms it.96 The problem should not have one pat answer but rather 
+pose decision points with multiple possible answers. PBL lets students explore and learn from realistic 
+complexities.97  
+Students, typically working in small groups, chart their own course of learning as they investigate the 
+problem. The teacher engages with the students in the role of tutor and facilitator. Once the students reach 
+solutions, their groups spend time reflecting on their efforts. They consider what they have learned, how 
+they learned it, and what they might have done differently. They consider how to apply what they learned 
+in one situation to other situations. In short, problem-based learning offers students the opportunity to learn 
+substantive material, its application to real problems, and problem-solving skills all at the same time while 
+maintaining ownership over their own learning process.98   
+                                                 
+95   See Standards 303(a)(3) (Curriculum) and 304 (Simulation Courses and Law Clinics). American Bar Association, 
+ABA Standards and Rules of Procedure for Approval of Law Schools (2014-2015).  
+96   David H. Jonassen and Woei Hung, All Problems are Not Equal: Implications for Problem-Based Learning, in 
+ESSENTIAL READINGS IN PROBLEM-BASED LEARNING: EXPLORING AND EXTENDING THE LEGACY OF HOWARD S. 
+BARROWS 17, 21-15 (Andrew Walker et al. eds., 2015). 
+97   Id.  
+98   See, e.g., John R. Savery, Overview of Problem-Based Learning: Definitions and Distinctions, in ESSENTIAL READINGS IN 
+PROBLEM-BASED LEARNING: EXPLORING AND EXTENDING THE LEGACY OF HOWARD S. BARROWS 5 (Andrew Walker 
+et al. eds., 2015). PBL’s development and success in medical schools and wider adoption in other disciplines at all levels, 
+including law, has been thoroughly documented elsewhere. See generally ESSENTIAL READINGS IN PROBLEM-BASED 
+LEARNING: EXPLORING AND EXTENDING THE LEGACY OF HOWARD S. BARROWS (Andrew Walker et al. eds., 2015); 
+JOSÉ A. AMADOR ET AL., THE PRACTICE OF PROBLEM-BASED LEARNING: A GUIDE TO IMPLEMENTING PBL IN THE 
+COLLEGE CLASSROOM (2006); THE POWER OF PROBLEM-BASED LEARNING (Barbara J. Duch et al. eds., 2001); 
+Christine Ver Ploeg and Jim Hilbert, Project-Based Learning and ADR Education: One Model for Teaching ADR Students to 
+Problem Solve for Real, 11 APPALACHIAN L.J. 157 (2011-12); Keith H. Hirokawa, Critical Enculturation: Using Problems to Teach 
+Law, 2 DREXEL L. REV. 1 (2009-10); Shirley Lung, The Problem Method: No Simple Solution, 45 WILLAMETTE L. REV. 723 
+(2008-09); Cath Sylvester et al., Problem-based learning and clinical legal education: What can clinical educators learn from PBL?, 4 
+INT’L J. CLINICAL LEGAL EDUC. 39 (2004); Fiona Martin, Using a Modified Problem Based Learning Approach to Motivate and 
+Enhance Student Learning of Taxation Law, 37 LAW TEACHER 55 (2003). Given the wide availability of information on 
+problem-based learning, the focus here need only be on designing a PBL unit on information governance.  
+20 
+ One drawback of using problem-based learning to teach information governance is that PBL, at least 
+in theory, embraces an open inquiry model in which students decide what the questions are and how to seek 
+answers.99 Conceivably, students could pursue avenues that do not help them learn about information 
+governance.  
+The case-study method100  provides a more structured and guided inquiry than PBL and may be more 
+appropriate depending on learning objectives and time considerations.101 The case-study method referred 
+to here is not the use of appellate cases to discern legal principles as in the typical law school course. Instead 
+it is the business school approach in which students are presented business situations and dilemmas based 
+on real companies and background materials to help them understand these dilemmas. Students take on the 
+role of decision-makers and explore through discussion, debate, and analysis what could or should be done 
+and what the consequences might be. Students then examine what decisions were actually made and how 
+those decisions played out.102  
+An information governance project lends itself well to either of these active learning approaches.103 
+Applicable learning objectives might include: 
+•  Describe complexity of information assets and systems in today’s businesses. 
+•  Articulate the purpose and benefits of information governance. 
+•  Explain how information governance can work. 
+•  Identify and analyze specific risk areas and areas for improvement in business under study. 
+•  Develop recommendations for implementation of information governance with emphasis on risk 
+areas.  
+                                                 
+99   It should also be noted that PBL purists urge that this pedagogical method should not be used piecemeal but 
+rather only across entire courses or even curricula. See Savery, supra note 97. Nonetheless, instructors have documented 
+success with smaller PBL units. See, e.g., Amador, supra note 97.  
+100   It is also called simply the “case method” but this creates even more opportunity for confusion with the typical 
+law school classroom approach.  
+101   See M. Srinivasan et al., Comparing problem-based learning with case-based learning: Effects of a major curricular shift at two 
+institutions, 82 ACADEMIC MEDICINE, Jan. 2007, at 74.  
+102   For more detailed information on the business school case study method and its use in legal education, see 
+Michelle M. Harner and Robert J. Rhee, Deal Deconstructions, Case Studies, and Case Simulations: Toward Practice Readiness with 
+New Pedagogies in Teaching Business and Transactional Law, 3 AM. U. BUS. L. REV. 81 (2014); Michelle M. Harner and Robert 
+J. Rhee, Innovation in Teaching LLC: Teaching LLCs Through a Problem-Based Approach, 71 WASH. & LEE L. REV. 489 (2014); 
+Judy Gedge, Should Deficiency Judgments be Banned? Teaching Materials Designed to Promote an Informed Student Debate, 19 J.L. 
+BUS. & ETHICS. 65 (2013); Celeste M. Hammond, Borrowing from the B Schools: The Legal Case Study as Course Materials for 
+Transaction Oriented Elective Courses: A Response to the Challenges of the MacCrate Report and the Carnegie Foundation for 
+Advancement of Teaching Report on Legal Education, 11 TRANSACTIONS 9 (2009); Todd D. Rakoff and Martha Minow, A Case 
+for Another Case Method, 60 VAND. L. REV. 597 (2007); Bradley T. Borden, Using the Client-File Method to Teach Transactional 
+Law, 17 CHAP. L. REV. 101 (2013). 
+103   Active learning is a broad term referring to activities that demand more of learners than merely listening to 
+someone speak and taking notes. The purpose of active learning is to provide opportunities for learners to become 
+engaged in the material and take responsibility for their own learning.  
+21 
+ •  Prepare and give a presentation (or prepare written report) explaining information governance, its 
+importance to the business, and recommended implementation to corporate officers.  
+With these objectives in mind, the instructor can craft a problem scenario in which a business has a 
+variety of information assets in various forms and locations with different purposes and stewards. Consider 
+the example above of the architectural firm. A scenario could be crafted in which this architectural firm is 
+sued for failure to use low-e glass in the windows of an apartment building, making the apartments 
+inefficient in warm weather.104 In the course of discovery, the lawyers (students) identify issues with the 
+firm’s use of data. Some possible issues include: employees who sometimes use personal computers for 
+work;  computers that  have  been  wiped  without  appropriate  backup and analysis  of their  contents; 
+employees who have left the firm and taken their laptops with them; backup systems that are not always 
+run on schedule; records retention schedules that are nonexistent or not followed; data stuck in legacy 
+systems; a lack of guidelines for email storage and retention; no system for preserving work-related text 
+messages; and scattered responsibility for regulatory compliance. This “ill-structured” problem becomes 
+the basis for the students’ research into information governance and development of a client proposal that 
+identifies problem areas, and recommends and explains implementation of information governance.  
+In a PBL approach, the groups of students can be expected to conduct their own research and learn   
+how to look beyond the legal sources such as cases and statutes with which they are familiar. This may 
+prove too time-intensive, though, due to the large number of articles and business blog posts on information 
+governance. Using a more guided-inquiry approach, the instructor can create an electronic library or 
+bibliography for students to draw on.105 Students would still have to analyze and sift the materials but will 
+be prevented from going too far astray.  
+For the case-study approach, the instructor can select a real-world information governance problem in 
+which the company's actual solutions are documented. For example, in the last decade, Intel revised its 
+management of information from simple protection of data to a “protect-to-enable” governance approach. 
+Both the before and after governance structures and the issues addressed are discussed in a 2013 article in 
+MIS Quarterly Executive.106 An instructor could assign the first half of the article to set the scene and 
+establish the problems. Students can then use information governance materials, and perhaps more 
+information about Intel, to discuss solutions. The second half of the article can then be used to illustrate 
+what decisions were actually made and prompt discussion of how those decisions have played out.   
+With either problem-based learning or a case-study approach, students will be immersed in realistic 
+issues, and expected to explore information governance literature and propose solutions—all designed to 
+simulate a real-world situation arising out of the e-discovery context. 
+                                                 
+104   See Fred A. Berstein, Lawsuit Suggests New Liability for Architects, ARCHITECTURAL RECORD (Aug. 20, 2014), 
+http://archrecord.construction.com/news/2014/08/140820-Lawsuit-Suggests-New-Liability-for-Architects.asp 
+[http://perma.cc/EAL3-BVVV]. 
+105   See Appendix A for a list of suggested materials.  
+106   Paul P. Tallon et al. The Evolution of Information Governance at Intel, 12 MIS QUARTERLY EXECUTIVE, Dec. 2013, at 
+189.  
+22 
+ VIII. CONCLUSION 
+Implementing information governance is difficult, especially given the exponential growth trajectory 
+of information, but the effort pays off. Information governance leads to reductions in risks, errors, costs, 
+and lawsuits and improves decision-making, customer satisfaction, and effective use of data.107 In its 
+Commentary on Information Governance, published in December 2013, the Sedona Conference provides 
+telling examples of how information governance can benefit different types of organizations in different 
+ways.108 A business such as Wal-Mart that focuses on efficiency and cost control may benefit from 
+information governance because it helps streamline information flows and reduces unnecessary data 
+storage. An organization in a highly regulated field such as health insurance or finance may benefit from 
+the assurance of compliance supplied by information governance. An organization that depends on 
+creativity such as a graphic design firm or a marketing firm may find that information governance 
+maximizes the accessibility and usability of its information assets.109 For an organization of any kind, it is 
+also the new reality that people outside the organization—judges, regulators, insurers, suppliers, customers, 
+clients, and future hires—may expect information governance.110   
+Trends in business management come and go, and information governance has its detractors who claim 
+it is already passé thanks to cheap storage and powerful search algorithms.111 Nonetheless, the purposes 
+and principles of information governance—regardless of what it is called or exactly how it is defined—are 
+both timeless and timely. As Joe Garber, Vice-President of Information Governance for HP, explains, “With 
+growing enterprise data posing so many challenges—and perhaps holding so much untapped value—
+organizations simply can’t wait any longer…. The time to act is now….”112 The time for law schools to 
+prepare students for this demand is now as well.  
+   
+                                                 
+107   Id. Tallon cautions that the positive effects of information governance were easier to see in mid-level results 
+than at the firm-level, e.g., it is easier to see fewer errors than to correlate information governance to greater profitability. 
+108   SEDONA CONFERENCE, supra note 4, at 5-6. 
+109   Id.  
+110   See BARCLAY T. BLAIR, MAKING THE CASE FOR INFORMATION GOVERNANCE: 10 REASONS WHY 
+INFORMATION GOVERNANCE MAKES SENSE 5-10 (2011), http://barclaytblair.com/2011/08/22/making-the-case-for-
+ig-ebook/. 
+111   See, e.g., Losey, supra note 51.  
+112   Garber, supra note 72, at 41.  
+ 
+23 
+ APPENDIX A:  
+MATERIALS ON INFORMATION GOVERNANCE FOR STUDENT PROJECT 
+1.  SEDONA CONFERENCE, COMMENTARY ON INFORMATION GOVERNANCE (2013), available at 
+https://thesedonaconference.org/publication/The%20Sedona%20Conference%C2%AE%20Com
+mentary%20on%20Information%20Governance (providing a comprehensive but manageable 
+explanation of information governance with strong connections drawn to the legal 
+considerations). 
+2.  ALAN MACCLELLAN, INFORMATION GOVERNANCE AND ASSURANCE: REDUCING RISK, 
+PROMOTING POLICY (2014) (discussing the essential information knowledge and skills necessary 
+in information governance). 
+3.  ROBERT F. SMALLWOOD, INFORMATION GOVERNANCE: CONCEPTS, STRATEGIES, AND BEST 
+PRACTICES (2014) (covering all aspects of information governance from big picture to best 
+practices).  
+4.  BARCLAY T. BLAIR, MAKING THE CASE FOR INFORMATION GOVERNANCE:10 REASONS WHY IG 
+MAKES SENSE (2010), http://barclaytblair.files.wordpress.com/2011/08/making-the-case-for-
+information-governance-barclay-t-blair.pdf [http://perma.cc/J3AN-BFHX] (presenting the 
+necessity of information governance) 
+5.  Charles R. Ragan, Information Governance: It’s a Duty and It’s Smart Business, 19 RICHMOND J. 
+L. & TECH. 12 (2013) (explaining information governance and its importance).  
+6.  Bennett B. Borden and Jason R. Baron, Finding the Signal in the Noise: Information Governance, 
+Analytics, and the Future of Legal Practice, 20 RICHMOND J. L. & TECH. 7 (2014) (discussing the 
+value of information governance in making information more usable in legal contexts).  
+7.  How the Information Governance Reference Model (IGRM) Complements ARMA International’s 
+Generally Accepted Recordkeeping Principles (GARP®), EDRM (Dec. 2011), 
+http://www.edrm.net/resources/edrm-white-paper-series/igrm-garp [http://perma.cc/599W-REU6] 
+(detailing the relationship between the IGRM and GARP with a focus on assessing the maturity 
+level of an organization’s information governance). 
+8.  Paul P. Tallon et al. The Evolution of Information Governance at Intel, 12 MIS QUARTERLY 
+EXECUTIVE, Dec. 2013, at 189 (discussing implementation of information governance at Intel, 
+moving the company from a "protect" mindset to a "protect-to-enable" mindset with regard to its 
+data). 
+9.  Kristin Weber et al., One Size Does Not Fit All—A Contingency Approach to Data Governance, 1 
+ACM J. DATA & INFO. QUALITY, June 2009, at Art. 4 (applies concepts from IT governance to 
+data or information governance).  
+10. Harry Pugh, Information Governance: A Practical Approach for the Dodd-Frank Era, 29 WALL 
+STREET &TECH., Feb. 2011 (focusing on the need for information governance in financial 
+institutions, emphasizing defensible disposal and records management).  
+24 
+ 11. Mario Silic and Andrea Beck, Factors Impacting Information Governance in the Mobile Device 
+Dual-Use Context, 23 RECORDS MGMT. J. 73 (2013) (focusing on issues arising from mobile 
+technologies and bring-your-own-device policies). 
+12. Juerg Hagmann, Information Governance--Beyond the Buzz, 23 RECORDS MGMT. J. 228 (2013) 
+(investigating information governance from the perspective of someone familiar with records 
+management practices, and emphasizing information governance's broader holistic perspective).  
+13. Deborah H. Juhnke, Four Steps for Conquering Information Chaos, INFO. MGMT., Mar./Apr. 
+2013, at 35 (focusing on accountability, assessment, analysis, action, and audit to achieve 
+information governance). 
+14. Sam McCollum, A Roadmap for Effective Information Governance, INFO. MGMT., Jan./Feb. 
+2013, at 27 (discussing thirteen steps in developing a "strategic information management" plan 
+and roadmap in the context of information governance). 
+15. Debra Logan, What is Information Governance? And why is it so hard?, GARTNER (Jan. 11, 
+2010), http://blogs.gartner.com/debra_logan/2010/01/11/what-is-information-governance-and-
+why-is-it-so-hard/ [http://perma.cc/D9ND-3XFU] (offering a quick read on information 
+governance basics). 
+16. Debra Logan, How Can Governance Succeed?, GARTNER (Jan. 25, 2010), 
+http://blogs.gartner.com/debra_logan/2010/01/25/how-can-governance-succeed/ 
+[http://perma.cc/2BBA-9JPP] (following up on Logan’s earlier post with a more in-depth look at 
+what is required for information governance to be successful). 
+17. Christian P. Walker, Principles of Holistic Information Governance, INFO GOV GUERRILLA (Apr. 
+1, 2013), https://christianpwalker.wordpress.com/2013/04/01/principles-of-holistic-information-
+governance/ [http://perma.cc/4WYF-GVC7] (providing a quick checklist of considerations when 
+undertaking information governance).  
+ 
+ 
+25 
+ 

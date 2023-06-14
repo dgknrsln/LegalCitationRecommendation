@@ -1,0 +1,769 @@
+Estimating Time to Clear Pendency of Cases in
+High Courts in India using Linear Regression
+Kshitiz Verma , Anshu Musaddi†, Ansh Mittal†, Anshul Jain†
+∗
+kshitiz.verma@jklu.edu.in, 17ucs185, 17ucs028, 17ucs029 @lnmiit.ac.in
+{ }
+JK Lakshmipat University, Jaipur, India
+∗
+† The LNM Institute of Information Technology, Jaipur, India
+Abstract—IndianJudiciaryissufferingfromburdenofmillions 2) Delay: Acase thathas beenin the court/judicialsystem
+of cases that are lying pending in its courts at all the levels. The for longer than the normal time that it should take for
+High Court National Judicial Data Grid (HC-NJDG) indexes
+a case of that type to be disposed of.
+all the cases pending in the high courts and publishes the data
+3) Nullifying pendency: To make pendency equal to zero.
+publicly.Inthispaper,weanalyzethedatathatwehavecollected
+fromtheHC-NJDGportalon229randomlychosendaysbetween Note that in our deﬁnition of pendency, even if a case was
+August 31, 2017 to March 22, 2020, including these dates. Thus, instituted just one day ago, it still counts as pendency. Hence,
+the data analyzed in the paper spans a period of more than two it is a very strict way of computing judicial backlogs. We will
+and a half years. We show that:
+use this meaning of pendency throughout the paper.
+the pending cases in most of the high courts is increasing In the year 2009, it was accepted by the Prime Minister of
+•
+linearly with time.
+India that the pendency in Indian courts is the maximum in
+the case load on judges in various high courts is very
+• the world [5]. India does very poorly compared to the other
+unevenly distributed, making judges of some high courts
+hundred times more loaded than others. majordemocraciesoftheworld[6].AsofOctober,2020more
+for some high courts it may take even a hundred years to than 34 million cases were pending in all the levels in Indian
+•
+clear the pendency cases if proper measures are not taken. courts[7].Asubstantialpercentageofthemhavebeenaround
+We also suggest some policy changes that may help clear the for more than ten, twenty or even thirty years [7] [8]. Indian
+pendencywithinaﬁxedtimeofeitherﬁveorﬁfteenyears.Finally,
+Judiciary has started digitization of courts, on the initiatives
+we ﬁnd that the rate of institution of cases in high courts can
+of Supreme Court of India, through e-Courts project to take
+be easily handled by the current sanctioned strength. However,
+extra judges are needed only to clear earlier backlogs. help of the Information and Communications Technologies
+(ICT)inthejudicialsectorthroughitse-Committee[9][10].A
+I. INTRODUCTION great leap in providing free access to the judicial information
+was provided by the implementation of the National Judicial
+Justice delayed is justice denied. Delays in a justice system
+Data Grid (NJDG) [7], an important outcome of the e-Courts
+don’t just violate the fundamental, constitutional and human
+projects, has data of more than 34 million cases pending in
+rights of a victim but they also have an adverse effects on
+Indiancourtsatallthelevels.Thedataisopenandisavailable
+the rights of the accused as well as those who are convicted.
+publicly.
+Recently, Supreme Court of India acquitted two persons,
+Many attempts have been made to estimate the number of
+accusedofagangrapeafter28yearsoftheincident[1].Inan
+years required to clear the pendency of the cases. According
+anothercase,alitiganthadtoﬁghtformorethanfourdecades
+to Justice V. V. Rao, a prediction made in 2010 [11], it
+to retrieve possession [2]. Such unfortunate examples are not
+would take 320 years to clear the pendency. A report of Delhi
+exceptions in India. They contribute towards the disrepute of
+High Court stated that it would require 466 years to clear
+the judicial system, lower the faith of the people in judiciary
+all the pendency in Delhi Courts [12]. On the other hand,
+and also impact the economic growth. The judicial delays
+a commitment to clear all the pending cases in ﬁve years
+may potentially translate to a loss of 0.48% of the national
+was made by the then Union Law Minister in 2011 [13]
+Domestic Gross Product (GDP) of India [3]. Hence, the
+and later by the then CJI Justice H.L. Dattu in 2015 [14].
+government has all reasons to implement policies that help
+Yet another commitment was made to make average disposal
+removingthependency.Wedeﬁnependencyanddelayasthey
+of cases as three years rather than then 15 years [15]. Law
+are deﬁned in The Report No. 245 of Law Commission of
+CommissionofIndiapublishedareportdiscussingdelaysand
+India [4]:
+pendencyinJuly2014[4].However,theyprimarilyaddressed
+1) Pendency: All cases instituted but not disposed of, re- the issue in lower judiciary. Moreover, the statistics and the
+gardless of when the case was instituted. situation has changed drastically in last six years as even
+thoughthenumberofjudgeshaveincreased,thependencyhas
+Note:AsofJanuary01,2019,thereare25highcourtsinIndia,however, not decreased. National Judicial Data Grid for High Courts
+for consistency with the earlier data, we have merged the High Court of
+(HC-NJDG) [16], provides data on pending cases in High
+AndhraPradeshandtheHighCourtofTelanganaasTelanganaandAndhra
+HighCourt. Courts and was visioned to be a game changer [17].All High Courts Number of Judges as per Department of Justice
+5.0 NJDG 160 Sanctioned Strength
+Best Fit Average Working Strength
+140
+Cases (Million)44..05 er of Judges11802000
+ng  mb 60
+ndi Nu
+Pe3.5 40
+al 
+Tot 20
+3.0 0
+2017-2A0u1g72-0O1ct7-2D0e1c8-2F0e1b8-2A0p1r82-J0u1n8-2A0u1g82-0O1ct8-2D0e1c9-2F0e1b9-2A0p1r92-J0u1n9-2A0u1g92-0O1ct9-2D0e2c0-2F0e2b0-Apr AllahabaBdombaP yand HMadrCasalcKutatranatakTa and ADelhiPatna MPGujaRrajatasthanKeralaOrJihssarakhanGdCahuhhaatttiisgarJh anHdi KmUtatcahraalkhanMdaniMpeugrhalayaTripuraSikkim
+Date High Court
+(a) Evolution of pending cases in all the High Courts of India. (b) Sanctioned and average working strength of High Courts.
+Fig. 1: The number of cases in the high courts are rising pretty fast and the number of judges in the high courts is really low.
+Inthispaper,weexclusivelystudydatafromHC-NJDGand the number of pending cases only once.
+reportresultsrelatedtoHighCourtsonly.AsofOctober2020,
+A. Results in the paper
+there were more than 5 million cases pending in the High
+Courts of India [18]. We have chosen to study pendency in Our work revolves around answering one central question.
+highcourtsonlybecausetheyaregenerallywellequippedwith How long will it take to clear all the pending cases in the
+resources to implement the suggested measures effectively. High Courts? We summarize some of our results below:
+Also, since the number of high courts is only 25 (the 25th a) Increasing pendency: Pending cases are increasing
+started on January 1, 2019), analysis and results are easy to in most of the high courts rather than decreasing (Fig. 1a,
+interpret. 2, 3). Hence, in the absence of clear policies and their
+The launching of NJDG also caused a sudden jump in implementation, pendency can never be cleared in most of
+India’s rank in the Ease of Doing Business Report by the the high courts.
+World Bank. It led to an improvement of 30 ranks in the b) Load on judges in different high courts: There is a
+year 2017 compared to the year 2016 [19]. However, it is huge difference in terms of average load of cases on judges
+not yet time to celebrate its success. This effort can be called of different high courts (Fig. 4). For example, a judge of
+successful only after all the stakeholders (e.g. the judges, Rajasthan High Court has almost 250 times more load than a
+court staff, advocates and litigants) ﬁnd it useful in reducing judge in Sikkim High Court.
+their burden and NJDG helps improving the efﬁciency of the c) Years to clear the pendency: Assuming a linear in-
+whole judicial system. It is still very far from that stage. Note crease in the number of cases as well as in the number of
+that the success of portals like NJDG depends immensely on judges so that the high courts operate at their sanctioned
+individual high courts updating their data regularly on the strength of judges, then for most of the high courts pendency
+portal.WehaveseenpositivesignsandarehopefulthatNJDG can be nulliﬁed (Fig. 8, 9a). However, the number of years
+is indeed making progress towards an improvement that can required to do so may vary signiﬁcantly.
+make difference. d) Proposed policies for clearing the pendency: Fig. 9b
+This study, to the best of our knowledge, is the ﬁrst one to andFig.9cmayhelpthegovernmentofIndiatotakeinformed
+analyze NJDG data over such a long period of time. Most of decisions on the number of judges that need to be increased.
+the existing studies consider the data from only one day on Weﬁndthatthecurrentsanctionedstrengthofthehighcourts
+NJDG. Hence, we differ from the other studies in this basic is adequate to take care of the newly instituted cases. They
+premisesitself.Wealsoalsotrytoanswerthequestion,”How are, however, insufﬁcient for clearing the previous backlog
+reliable is single day analysis of NJDG?”. We answer this as of cases. Hence, the government may enact legislation to
+negative,i.e.,theNJDGdatacollectedonjustonedaymaynot create some temporary positions in high courts, just to clear
+be taken as reliable for any reasonable analysis. There have the pendency, without changing the actual current sanctioned
+been instances when the data on NJDG was very erroneous strength.
+andsuchdaysarenotrare.Forexample,arecentarticleonthe
+B. Organization of the paper
+pendency statistics of Bombay High Court claimed that 4.64
+lakhcasesarepending[20].Ourﬁndingisthatthroughoutthe The rest of the paper is organized as follows: Section II
+data collection period, the Bombay High Court has updated encompasses the scope of the work and the related studies.
+2Section III discusses data collection and explains the graphs high courts. Moreover, the pendency ﬁgures have more than
+used in the paper. Section IV elaborates on pending cases in doubled now compared to 2012. Hence an understanding of
+thehighcourts.SectionVishometothemostimportantresult the rate of increase of cases is crucial in studying pendency.
+of the paper in which we estimate the time required to nullify We make a clear distinction from the report by exclusively
+thependencyinthehighcourts.SectionVIfocusesonforming studing the high court data, collecting data over 229 days,
+policies to ensure that the pendency decreases. Section VII and counting the contribution of each and every data point by
+concludes the paper. using linear regression for the analysis.
+Other relevant related work in this area is the Daksh report
+II. SCOPEANDRELATEDWORK on the state of the Indian Judiciary [3]. Their approach,
+Before we proceed any further to discuss the technical however, is very different from ours. They have conducted a
+ﬁndings of the paper, we ﬁrst understand the scope and the groundlevelresearchbysurveyingandobtainingtheﬁrsthand
+limitations of our work. There have been many news reports, experience of the litigants and other stake holders. Our work,
+articlesandstudiesonpendencyinIndiancourts[21][22][23] on the other hand, relies completely on the data provided by
+[24]. In this paper, instead of studying the pending cases in the National Judicial Data Grid for High Courts (HC-NJDG).
+all the courts of India, we decided to limit ourselves to only Hence, a lot of studies agree that the judicial throughput
+the high courts. This limits the number of court complexes has to be increased. Either the number of vacations may be
+in our study to just 39 without decreasing the complexity reduced or the number of judges may be increased.
+of the problem as the high courts are more clogged with The issue has been of utmost importance to all the Chief
+cases than subordinate courts. Moreover, the improvements Justices of India [32] [33]. Hence, a lot of research needs to
+suggested in this paper are relatively easier to implement in be conducted in the area so as to help solve a crucial problem
+highcourtsthaninlowercourtsbecauseofbetterinfrastructure faced by Indian Judiciary.
+and budget available. Thus, we would concretely know where
+III. HC-NJDGDATACOLLECTION
+thingscanbeimproved.Hence,throughoutthispaper,wehave
+concentrated on the pendency in high courts rather than the High Court National Judicial Data Grid (HC-NJDG) was
+subordinate courts. launched in July 2017 [16], [17]. We started collecting data
+In our study, we have not taken input from any real person. from the portal on August 31, 2017. The last data used in this
+No judge, advocate, litigant or court staff was interviewed. paper was collected on March 22, 2020. We have collected
+Thismayhavebothpositiveandnegativeimpact.Intervention dataon229randomlychosendates,spanningaperiodofmore
+of court staff and those who are involved in updating NJDG than two and a half years.
+may have provided more insights to interpret our results. On To provide a glimpse of the data, some of the statistics,
+the other side of it, their views might have biased our results. as collected on August 20, 2018, are provided in Table I.
+So we decided to leave it for future because we wanted our The portal has more statistics available but we have chosen
+assessmenttobepurelytechnicalandstatisticalbasedonlyon to present only the ones that are relevant for this paper. The
+the observations made from the data that we have collected data related to the number of pending cases in all the high
+from NJDG. courts in India is shown. The table also presents data on the
+number of monthly disposed and ﬁled cases.
+A study by Alok Prasanna Kumar has used number of the
+District and Magistrate courts, collected from the National
+Title Civil Criminal Writs Total
+JudicialDataGridasof18March,2016[25].Therearestudies PendingCases 1506780 769754 1114448 3390982
+advocatingtodecreasetheholidaysavailableinjudiciary[26]. CasedFiled(monthly) 27663 42404 32009 102063
+There are studies conducted by the Department of Justice CasedDisposed(monthly) 28080 47368 36548 111996
+as well [27]. While this study is very comprehensive, the TABLE I: Some of the statistics available on the HC-NJDG
+results reported are different from ours and the parameters portal [16].
+consideredforevaluationaredifferentaswell.Variousstudies
+including [28], have conducted research on e-Court policies. Four high courts, namely, Allahabad High Court, Gauhati
+Theimportanceofdataanalysisofjudicialdataandtheroleof High Court, High Court of Jammu and Kashmir and High
+computerscienceisalsosuggestedin[29].TheDepartmentof Court of Madhya Pradesh have joined HC-NJDG after we
+Justicealsoencouragesresearchconductedonjudicialreforms started collecting the data. Hence, they appear fewer number
+by means of funding [30]. Another rich source of information of times. However, majority of the high courts – 20 to be
+on pending cases are the annual reports published by the precise – had their presence on HC-NJDG when we started
+Supreme Court of India [31]. collecting the data, i.e., on August 31, 2017.
+The most relevant work that can be compared with our The 25th High Court for the state of Telangana was formed
+work is Law Commission of India report of July 2014 [4]. on January 01, 2019. For consistency with the previous data,
+The availability of data was a major concern for the authors we have continuted to consider Telangana and Andhra High
+of the report. They studied data on pendency at the end of Court as one in our analysis. For this reason, only 24 high
+years from 2002 to 2012. However, the primary focus of their courts appear in our study. Note that the last day for data
+analysisisthecourtsthataresubordinatetothejurisdictionof collection for this paper was March 22, 2020, just before the
+3nation-wide lockdown was announced in India due to Covid- reddashedline)toestimatethetrendsinpendencyratherthan
+19 pandemic. We hypothesize that data pre-lockdown and dependingonjustonedayofdata.Thedifferencebetweenthe
+during the lockdown would be very different and hence not two ﬁgures is that Fig. 2 plots the data collected during the
+comparable for our work. wholedurationandFig.3showsthedatasinceOctober2019.
+We have plotted many graphs in the paper. In order to Barring a few High Courts, Fig. 3 is much better in terms of
+maintain coherence and simplicity, and to have a reach to regular updates than Fig. 2. In both the plots, the high courts
+wideraudience,wehaverestrictedourselvestoonlytwokinds appear in the lexicographic order of their names.
+of graphs, as explained below. In Fig. 2, the graph of Allahabad High Court depicts a
+a) Temporal data graphs (Dates on horizontal axis): decent update culture. There is not much diversion from the
+The horizontal axis (also referred to as X-axis in the paper), best ﬁt line (using linear regression) either. It can be seen that
+consistsofdatesbeginningAugust31,2017toMarch22,2020 the number of pending cases in Allahabad High Court has
+fromlefttoright.Thetitleofeachgraphispresentonthetop been increasing linearly with time.
+stating the name of the high court that plot corresponds to. If Be it Fig. 2 or Fig. 3 Bombay High Court has the poorest
+on some date data was not collected, then data is not shown recordofdataupdateonHC-NJDGamongallthehighcourts.
+against that date but the date is still present on the X-axis in Inthewholedatacollection period, thedatahasbeenupdated
+the all cases. Fig. 1a is an example of this kind of graph. only once. Due to this reason nothing can be said about
+b) Spatialdatagraphs(HighCourtsonhorizontalaxis): Bombay High Court reliably. A similar case is with Calcutta
+In these graphs, the data from the high courts is plotted. The High Court. Even though the updates have been frequent,
+horizontalaxis,orX-axis,inthesegraphshave24points,each wrong data was uploaded on the portal. The total number
+representing one of the 24 high courts. Y-axis plots the value of pending cases in Calcutta High Court is more than 250
+of the considered parameter. If a high court does not have a thousand but the graph shows a different number. Hence,
+valid data for that parameter, its name still appears on the X- nothing can be said reliably about Calcutta High Court either.
+axis but have no value on the Y-axis. The title of the graph is For Calcutta High Court, the subsequent analysis is done
+presentatthetop.Fig.1bisanexampleofthiskindofgraph. based on the data available from Calcutta High Court website
+[35]. For Bombay High Court, the data is not available on
+IV. PENDINGCASESINHIGHCOURTS its website either, so we had to resort to the Supreme Court
+As discussed before, pendency in high courts is more than annualreports[31].Thesearetheonlytwohighcourtswhose
+10% of the total pendency in India. Hence, concentrating on data is not taken from HC-NJDG.
+high courts capture the problem of pendency really well and InFig.2,datafromChhattisgarhHighCourtfollowsanice
+offer much better quality data that can be studied to deduce update trend and the best ﬁt straight line looks representative
+meaningful conclusions. of the increase. Hence, it can be deduced that the number of
+Fig. 1a shows the aggregate number of pending cases in pendingcasesinChhattisgarhHighCourthasbeenincreasing
+all the high courts of India. We have plotted the total number linearly. The Delhi High Court also has a nice update culture
+of pending cases in the high courts in India as obtained from almostthroughoutthedatacollectionperiodandthependency
+the HC-NJDG portal in our data set. The blue dots are the is increasing linearly for this high court too. The updates
+data collected from the HC-NJDG and the dashed red line in Gujarat High Court were not frequent until August 2018.
+is the best ﬁt straight line to the data minimizing the mean However, after that, the number of cases have been increasing
+squared error cost function. It can be clearly seen that the linearly. We consider the best ﬁt line drawn in the ﬁgures as
+datahasfewcontinuousclustersandfewsuddenjumps.While representing the rate of increase from this graph. Himachal
+initialsuddenjumpscanbeexplainedbythefactthatfewhigh Pradesh High Court data has seen a surge in the number of
+courts have joined NJDG late and they may be taking time to cases from October 2019 to March 2020, the best ﬁt line, is
+converge to report stable number, the overall graph does not with positive slope and hence, the number of pending cases
+represent a healthy update culture until around March 2019. are increasing with time for Himachal Pradesh High Court as
+However, since April 2019 the updates have been smooth and well.
+barring a few outliers, the updates have been consistent. This In Fig. 3 represents much better updates of NJDG in the
+is already a good news. This means that commendable efforts Common High Court for the UT of Jammu & Kashmir and
+have been made to make data on HC-NJDG more reliable. UT of Ladhakh as well as for Jharkhand High Court. Initial
+Fig.1bcomparestheworkingstrengthofthehighcourtsin updates of the HC-NJDG data seem erroneous and hence we
+comparisonwiththesanctionedstrength.Theaverageworking use Fig. 3 for these high courts. The number of cases in the
+strengthhasbeencomputedfortheperiodJune2018toMarch Common High Court for the UT of Jammu & Kashmir and
+2020, i.e., 22 months. The data is collected from the vacancy UTofLadhakhfollowalinearincreasewhereasthenumberof
+documentavailableonthewebsiteoftheDepartmentofJustice pendingcasesinJharkhandHighCourtaredecreasinglinearly.
+[34]. We see that on an average, around 38% seats of judges In Fig. 3, barring a few erroneous updates, Karnataka High
+in high courts remain vacant. Court and Kerala High Court have regularly updated data on
+Fig. 2 and Fig. 3 show the pendency data for the individual HC-NJDG.Again,thebestﬁtstraightlineslooksquiteagood
+high courts. We also plot a linear regression best ﬁt line (the representative of the increase. The pendency for both these
+4Allahabad High Court Bombay High Court Calcutta High Court Chhattisgarh High Court
+735000 NBeJDsGt Fit 500000 NBeJDsGt Fit 250000 NBeJDsGt Fit 70000 NBeJDsGt Fit
+730000
+Total Pending Cases777122505000000000 Total Pending Cases344505000000000000 Total Pending Cases112050000000000000 Total Pending Cases66662468000000000000
+710000 300000 50000
+60000
+705000
+250000 0 58000
+2017-2A0u1g72-0O1ct7-2D0e1c8-2F0e1b8-2A0p1r82-J0u1n8-2A0u1g82-0O1ct8-2D0e1c9-2F0e1b9-2A0p1r92-J0u1n9-2A0u1g92-0O1ct9-2D0e2c0-2F0e2b0-Apr 2017-2A0u1g72-0O1ct7-2D0e1c8-2F0e1b8-2A0p1r82-J0u1n8-2A0u1g82-0O1ct8-2D0e1c9-2F0e1b9-2A0p1r92-J0u1n9-2A0u1g92-0O1ct9-2D0e2c0-2F0e2b0-Apr 2017-2A0u1g72-0O1ct7-2D0e1c8-2F0e1b8-2A0p1r82-J0u1n8-2A0u1g82-0O1ct8-2D0e1c9-2F0e1b9-2A0p1r92-J0u1n9-2A0u1g92-0O1ct9-2D0e2c0-2F0e2b0-Apr 2017-2A0u1g72-0O1ct7-2D0e1c8-2F0e1b8-2A0p1r82-J0u1n8-2A0u1g82-0O1ct8-2D0e1c9-2F0e1b9-2A0p1r92-J0u1n9-2A0u1g92-0O1ct9-2D0e2c0-2F0e2b0-Apr
+Date Date Date Date
+82000 NJDG Delhi High Court 90000 Gauhati High Court NJDG 135000 NJDG Gujarat High Court NJDG Himachal High Court
+80000 Best Fit 80000 Best Fit 130000 Best Fit 60000 Best Fit
+Total Pending Cases77772468000000000000 Total Pending Cases45670000000000000000 Total Pending Cases111122505000000000 Total Pending Cases4500000000
+70000 30000 110000 30000
+68000 20000 105000
+2017-2A0u1g72-0O1ct7-2D0e1c8-2F0e1b8-2A0p1r82-J0u1n8-2A0u1g82-0O1ct8-2D0e1c9-2F0e1b9-2A0p1r92-J0u1n9-2A0u1g92-0O1ct9-2D0e2c0-2F0e2b0-Apr 2017-2A0u1g72-0O1ct7-2D0e1c8-2F0e1b8-2A0p1r82-J0u1n8-2A0u1g82-0O1ct8-2D0e1c9-2F0e1b9-2A0p1r92-J0u1n9-2A0u1g92-0O1ct9-2D0e2c0-2F0e2b0-Apr 2017-2A0u1g72-0O1ct7-2D0e1c8-2F0e1b8-2A0p1r82-J0u1n8-2A0u1g82-0O1ct8-2D0e1c9-2F0e1b9-2A0p1r92-J0u1n9-2A0u1g92-0O1ct9-2D0e2c0-2F0e2b0-Apr 2017-2A0u1g72-0O1ct7-2D0e1c8-2F0e1b8-2A0p1r82-J0u1n8-2A0u1g82-0O1ct8-2D0e1c9-2F0e1b9-2A0p1r92-J0u1n9-2A0u1g92-0O1ct9-2D0e2c0-2F0e2b0-Apr
+Date Date Date Date
+J and K High Court Jharkhand High Court Karnataka High Court Kerala High Court
+90000 NBeJDsGt Fit 90000 NBeJDsGt Fit 250000 NBeJDsGt Fit 200000 NBeJDsGt Fit
+85000
+Total Pending Cases678000000000000 Total Pending Cases67785050000000000000 Total Pending Cases112050000000000000 Total Pending Cases111899505000000000
+50000 60000 50000 180000
+2017-2A0u1g72-0O1ct7-2D0e1c8-2F0e1b8-2A0p1r82-J0u1n8-2A0u1g82-0O1ct8-2D0e1c9-2F0e1b9-2A0p1r92-J0u1n9-2A0u1g92-0O1ct9-2D0e2c0-2F0e2b0-Apr 52500107-02A0u1g72-0O1ct7-2D0e1c8-2F0e1b8-2A0p1r82-J0u1n8-2A0u1g82-0O1ct8-2D0e1c9-2F0e1b9-2A0p1r92-J0u1n9-2A0u1g92-0O1ct9-2D0e2c0-2F0e2b0-Apr 2017-2A0u1g72-0O1ct7-2D0e1c8-2F0e1b8-2A0p1r82-J0u1n8-2A0u1g82-0O1ct8-2D0e1c9-2F0e1b9-2A0p1r92-J0u1n9-2A0u1g92-0O1ct9-2D0e2c0-2F0e2b0-Apr 2017-2A0u1g72-0O1ct7-2D0e1c8-2F0e1b8-2A0p1r82-J0u1n8-2A0u1g82-0O1ct8-2D0e1c9-2F0e1b9-2A0p1r92-J0u1n9-2A0u1g92-0O1ct9-2D0e2c0-2F0e2b0-Apr
+Date Date Date Date
+MP High Court Madras High Court Manipur High Court 1200 Meghalaya High Court
+360000 NBeJDsGt Fit 400000 NBeJDsGt Fit 17500 NBeJDsGt Fit NBeJDsGt Fit
+350000 1150
+Total Pending Cases333323450000000000000000 Total Pending Cases122350500000000000000000 Total Pending Cases1117025505000000000 Total Pending Cases111001050000
+310000 100000 5000 950
+300000 50000 2500
+2017-2A0u1g72-0O1ct7-2D0e1c8-2F0e1b8-2A0p1r82-J0u1n8-2A0u1g82-0O1ct8-2D0e1c9-2F0e1b9-2A0p1r92-J0u1n9-2A0u1g92-0O1ct9-2D0e2c0-2F0e2b0-Apr 2017-2A0u1g72-0O1ct7-2D0e1c8-2F0e1b8-2A0p1r82-J0u1n8-2A0u1g82-0O1ct8-2D0e1c9-2F0e1b9-2A0p1r92-J0u1n9-2A0u1g92-0O1ct9-2D0e2c0-2F0e2b0-Apr 2017-2A0u1g72-0O1ct7-2D0e1c8-2F0e1b8-2A0p1r82-J0u1n8-2A0u1g82-0O1ct8-2D0e1c9-2F0e1b9-2A0p1r92-J0u1n9-2A0u1g92-0O1ct9-2D0e2c0-2F0e2b0-Apr 2017-2A0u1g72-0O1ct7-2D0e1c8-2F0e1b8-2A0p1r82-J0u1n8-2A0u1g82-0O1ct8-2D0e1c9-2F0e1b9-2A0p1r92-J0u1n9-2A0u1g92-0O1ct9-2D0e2c0-2F0e2b0-Apr
+Date Date Date Date
+Orissa High Court 180000 Patna High Court P and H High Court Rajasthan High Court
+NJDG NJDG NJDG NJDG
+170000 Best Fit 175000 Best Fit 550000 Best Fit 700000 Best Fit
+170000
+Total Pending Cases111566505000000000 Total Pending Cases111155660505000000000000 Total Pending Cases445050000000000000 Total Pending Cases456000000000000000
+145000
+150000 140000 350000 300000
+2017-2A0u1g72-0O1ct7-2D0e1c8-2F0e1b8-2A0p1r82-J0u1n8-2A0u1g82-0O1ct8-2D0e1c9-2F0e1b9-2A0p1r92-J0u1n9-2A0u1g92-0O1ct9-2D0e2c0-2F0e2b0-Apr 2017-2A0u1g72-0O1ct7-2D0e1c8-2F0e1b8-2A0p1r82-J0u1n8-2A0u1g82-0O1ct8-2D0e1c9-2F0e1b9-2A0p1r92-J0u1n9-2A0u1g92-0O1ct9-2D0e2c0-2F0e2b0-Apr 2017-2A0u1g72-0O1ct7-2D0e1c8-2F0e1b8-2A0p1r82-J0u1n8-2A0u1g82-0O1ct8-2D0e1c9-2F0e1b9-2A0p1r92-J0u1n9-2A0u1g92-0O1ct9-2D0e2c0-2F0e2b0-Apr 2017-2A0u1g72-0O1ct7-2D0e1c8-2F0e1b8-2A0p1r82-J0u1n8-2A0u1g82-0O1ct8-2D0e1c9-2F0e1b9-2A0p1r92-J0u1n9-2A0u1g92-0O1ct9-2D0e2c0-2F0e2b0-Apr
+Date Date Date Date
+Sikkim High Court T and A High Court Tripura High Court Uttarakhand High Court
+NJDG NJDG NJDG NJDG
+260 Best Fit 400000 Best Fit 3000 Best Fit 55000 Best Fit
+Total Pending Cases222400 Total Pending Cases330500000000 Total Pending Cases222468000000 Total Pending Cases4550000000
+200 250000 2200 40000
+2000
+180 200000 35000
+2017-2A0u1g72-0O1ct7-2D0e1c8-2F0e1b8-2A0p1r82-J0u1n8-2A0u1g82-0O1ct8-2D0e1c9-2F0e1b9-2A0p1r92-J0u1n9-2A0u1g92-0O1ct9-2D0e2c0-2F0e2b0-Apr 2017-2A0u1g72-0O1ct7-2D0e1c8-2F0e1b8-2A0p1r82-J0u1n8-2A0u1g82-0O1ct8-2D0e1c9-2F0e1b9-2A0p1r92-J0u1n9-2A0u1g92-0O1ct9-2D0e2c0-2F0e2b0-Apr 2017-2A0u1g72-0O1ct7-2D0e1c8-2F0e1b8-2A0p1r82-J0u1n8-2A0u1g82-0O1ct8-2D0e1c9-2F0e1b9-2A0p1r92-J0u1n9-2A0u1g92-0O1ct9-2D0e2c0-2F0e2b0-Apr 2017-2A0u1g72-0O1ct7-2D0e1c8-2F0e1b8-2A0p1r82-J0u1n8-2A0u1g82-0O1ct8-2D0e1c9-2F0e1b9-2A0p1r92-J0u1n9-2A0u1g92-0O1ct9-2D0e2c0-2F0e2b0-Apr
+Date Date Date Date
+Fig. 2: Pending cases for individual high courts as plotted for the whole data collection duration, i.e., from August 31, 2017 to
+March 22, 2020. Dotted red line is the best ﬁt straight line according to the least squares loss. For most of the high courts we
+use this ﬁgure to compute the rate of increase pendency, to be precise, such high courts are: Allahabad, Chhattisgarh, Delhi,
+Gauhati, Gujarat, Himachal Pradesh, Karnataka, Kerala, Madhya Pradesh, Madras, Meghalaya, Patna, Punjab and Haryana,
+Rajasthan and Telangana and Andhra. To emphasize, the frames of the plot of all these high courts have been made thicker
+compared to the frames of the high courts whose rate of increase of pendency is taken from other sources.
+5735000 Allahabad High Court Bombay High Court Calcutta High Court Chhattisgarh High Court
+734000 NBeJDsGt Fit 280000 NBeJDsGt Fit 22400 NBeJDsGt Fit 71000 NBeJDsGt Fit
+275000 22300
+Total Pending Cases777333123000000000 Total Pending Cases226750000000 Total Pending Cases222222012000000 Total Pending Cases6790000000
+730000 260000 21900 68000
+729000 255000 21800 67000
+2019-Oct 2019-Nov 2019-Dec 2020-Jan 2020-Feb 2020-Mar 2020-Apr 2019-Oct 2019-Nov 2019-Dec 2020-Jan 2020-Feb 2020-Mar 2020-Apr 2019-Oct 2019-Nov 2019-Dec 2020-Jan 2020-Feb 2020-Mar 2020-Apr 2019-Oct 2019-Nov 2019-Dec 2020-Jan 2020-Feb 2020-Mar 2020-Apr
+Date Date Date Date
+NJDG Delhi High Court 50000 NJDG Gauhati High Court 134000 NJDG Gujarat High Court NJDG Himachal High Court
+81750 Best Fit 45000 Best Fit Best Fit 65000 Best Fit
+81500 132000
+Total Pending Cases8888800011257025050500000 Total Pending Cases23345050000000000000 Total Pending Cases111223680000000000 Total Pending Cases45565050000000000000
+80000 20000 124000 40000
+2019-Oct 2019-Nov 2019-Dec 2020-Jan 2020-Feb 2020-Mar 2020-Apr 2019-Oct 2019-Nov 2019-Dec 2020-Jan 2020-Feb 2020-Mar 2020-Apr 2019-Oct 2019-Nov 2019-Dec 2020-Jan 2020-Feb 2020-Mar 2020-Apr 2019-Oct 2019-Nov 2019-Dec 2020-Jan 2020-Feb 2020-Mar 2020-Apr
+Date Date Date Date
+76000 NJDG J and K High Court 85500 Jharkhand High Court NJDG NJDG Karnataka High Court NJDG Kerala High Court
+75800 Best Fit 85000 Best Fit 248500 Best Fit 200000 Best Fit
+75600 248000
+Total Pending Cases77774555802400000000 Total Pending Cases888344505000000 Total Pending Cases222244446677050500000000 Total Pending Cases111999789000000000
+74600 83000 245500 196000
+74400 245000
+2019-Oct 2019-Nov 2019-Dec 2020-Jan 2020-Feb 2020-Mar 2020-Apr 2019-Oct 2019-Nov 2019-Dec 2020-Jan 2020-Feb 2020-Mar 2020-Apr 2019-Oct 2019-Nov 2019-Dec 2020-Jan 2020-Feb 2020-Mar 2020-Apr 2019-Oct 2019-Nov 2019-Dec 2020-Jan 2020-Feb 2020-Mar 2020-Apr
+Date Date Date Date
+MP High Court Madras High Court 3875 Manipur High Court Meghalaya High Court
+366000 NJDG 400000 NJDG 1160 NJDG
+Best Fit 3850 Best Fit Best Fit
+364000 350000 1140
+Total Pending Cases333566802000000000 Total Pending Cases122350500000000000000000 Total Pending Cases3333778857020505 Total Pending Cases1111001168020000
+356000 3725 1040
+354000 15000000000 NBeJDsGt Fit 3700 1020
+2019-Oct 2019-Nov 2019-Dec 2020-Jan 2020-Feb 2020-Mar 2020-Apr 2019-Oct 2019-Nov 2019-Dec 2020-Jan 2020-Feb 2020-Mar 2020-Apr 2019-Oct 2019-Nov 2019-Dec 2020-Jan 2020-Feb 2020-Mar 2020-Apr 2019-Oct 2019-Nov 2019-Dec 2020-Jan 2020-Feb 2020-Mar 2020-Apr
+Date Date Date Date
+Orissa High Court Patna High Court P and H High Court Rajasthan High Court
+156000 NBeJDsGt Fit 178000 NBeJDsGt Fit 560000 NBeJDsGt Fit 480000 NBeJDsGt Fit
+155000
+176000 550000 475000
+Total Pending Cases111115555501234000000000000000 Total Pending Cases111167778024000000000000 Total Pending Cases555512340000000000000000 Total Pending Cases444456675050000000000000
+149000 116646000000 500000 450000
+2019-Oct 2019-Nov 2019-Dec 2020-Jan 2020-Feb 2020-Mar 2020-Apr 2019-Oct 2019-Nov 2019-Dec 2020-Jan 2020-Feb 2020-Mar 2020-Apr 2019-Oct 2019-Nov 2019-Dec 2020-Jan 2020-Feb 2020-Mar 2020-Apr 2019-Oct 2019-Nov 2019-Dec 2020-Jan 2020-Feb 2020-Mar 2020-Apr
+Date Date Date Date
+255 Sikkim High Court NJDG 422000 NJDG T and A High Court Tripura High Court NJDG NJDG Uttarakhand High Court
+250 Best Fit 420000 Best Fit 2800 Best Fit 40000 Best Fit
+Total Pending Cases222344505 Total Pending Cases444441111102468000000000000000 Total Pending Cases222246000000 Total Pending Cases333899505000000
+38000
+230 408000 2000
+2019-Oct 2019-Nov 2019-Dec 2020-Jan 2020-Feb 2020-Mar 2020-Apr 402600190-0Oct 2019-Nov 2019-Dec 2020-Jan 2020-Feb 2020-Mar 2020-Apr 2019-Oct 2019-Nov 2019-Dec 2020-Jan 2020-Feb 2020-Mar 2020-Apr 32705109-0Oct 2019-Nov 2019-Dec 2020-Jan 2020-Feb 2020-Mar 2020-Apr
+Date Date Date Date
+Fig. 3: Pending cases for individual high courts as plotted from October 2019 to March 2020. Dotted red line is the best ﬁt
+straight line according to least squares loss. The updates on HC-NJDG have improved a lot during the above chosen period
+compared to the full duration of data collection. For many high courts we had to do discard the data collected during the
+whole duration and resort to the recently collected data. Such high courts include: Jammu and Kashmir, Jharkhand, Manipur,
+Orissa, Sikkim, Tripura and Uttarakhand. To emphasize, the frames of the plot of all these high courts have been made thicker
+compared to the frames of the high courts whose rate of increase of pendency is taken from other sources.
+6high courts is increasing too. Fig. 2 depicts that the champion
+Pending-Cases per Judge per High Court
+ofupdatingdataonHC-NJDGisMadhyaPradeshHighCourt. 20000
+Ratio for Working Strength of Judges
+Not even a single outlier. The best ﬁt straight line almost
+17500 National Average (6,908)
+coincides with the data. The number of pending cases at this
+15000
+highcourtisincreasingaswell.ThenextcomesMadrasHigh
+Court, which, doesn’t seem to have a good update culture. 12500
+o
+However, it is good enough to be consistent and is increasing ati10000
+R
+whichisthecurrentexpectedtrendinmostofthehighcourts.
+7500
+Manipur High Court seems to have reconciled data and
+5000
+hence, we do not consider the data for the whole data
+collection period but only for the last six months as presented 2500
+inFig.3.Thetrendofincreasingpendency,howeverlittle,can 0
+binecIrsneeaeFsniingfg.or2r,aMtMeaneoigfphuparelanHydiaignhHgCicgoahuserCts.oausTrhwteealldls.aotasepeominststomhaayvelooakn RajasthaT nand A MPOrissP aand J HanKad rKnataHikamacAllhaalhabadMadrasUtPtaatrnaakhanCadlcuttCaKhehraatltaisgarGhujJahraartkhanBdombaGyauhatiDelMhianipurTriMpeurgahalayaSikkim
+erroneousontheﬁrstlook,however,thereisavariationofjust High Court
+250casesonthewholescale.Sosuchupdatesarerealistically
+Fig. 4: Ratio of pending cases to the judges in High Courts,
+possible.
+i.e., the average number of pending cases per judge per high
+Some kinds of reconciliation seems to have taken place for
+court.
+Orissa High Court as well. Hence, we take the trend from
+Fig. 3, which again shows an increasing trend in pendency.
+TheupdatesforPatnaHighCourt,PunjabandHaryanaHigh
+by taking the pendency on the last day of data collected.
+Court and Rajasthan High Court look reasonable and the best
+The number of judges, however, are taken from Fig. 1b. The
+ﬁt seems to be representative of the trend that the pendency
+results are plotted in the descending order of the ratio so
+is increasing. We take the rate of increase from Fig. 2.
+calculated. This graph provides the distribution of workload
+Sikkim High Court has very low number of pending cases.
+oneachhighcourtandjudgesthereof.Thebluedotsshowthe
+So taking last six months of trend may be more beneﬁcial.
+ratiopendingcases/workingstrengthofjudgesfortheaverage
+We see that the pendency is decreasing. So we use Fig. 3 for
+working strength of each high court. For example, Rajasthan
+computing the best ﬁt line, which shows a decrease in the
+High Court has the maximum value of 19,374 pending cases
+number of pending cases.
+for each judge whereas Sikkim High Court has the minimum
+In Fig. 2, for the hypothetical aggregate of Telangana and
+ratio which is 78. Hence, statistically we can say that a judge
+Andhra High Court the trend is again a linear increase in the
+in Rajasthan High Court has almost 250 times more load than
+pendency.
+ajudgeinSikkimHighCourt.Itcanbeseenthatthesituation
+TripuraHighCourthasdoneverywellsinceOctober2019.
+issimilarformostofthehighcourts.Themeanofthisratiois
+There is a close to perfect linear decrease in the number of
+6908,i.e.,thenationalaverageofthenumberofpendingcases
+pendingcasesFig.3.ForUttarakhandHighCourt,weconsider
+per judge. It signiﬁes that on an average each sitting judge of
+the best ﬁt line for computing the increase in pendency from
+thehigh courtsinIndia needsto dispose6908cases toreduce
+Fig. 3. The ﬁgure for Uttarakhand High Court in Fig. 2 is
+pendency to zero, provided no more cases are ﬁled. It also
+quite unreliable.
+means that the judges in some of the high courts are insanely
+Hence, from the above analysis, we can deduce that we
+overburdened. In the interest of justice, urgent appointments
+have enough data for computing the rate of increase of pen-
+are required so that the case load may be shared. Hence, the
+dency reliably for 21 high courts, as well as the hypothetical
+number of pending cases per judge is huge and the numbers
+aggregateofTelanganaandAndhraHighCourt.However,the
+are so high that it would not be unfair to state that they are
+updatesfortwohighcourts,viz.,BombayandCalcuttaaretoo
+simply beyond the capacity of the current number of working
+unreliable on HC-NJDG to be able to make any conclusions
+judges.
+about their pendency statistics. Other sources have been used
+for inferring their data.
+V. ESTIMATINGTIMEREQUIREDTOCOMBATPENDENCY
+A. Ratio of Pendency to Judges
+The total pendency, in itself, does not provide any informa- Havingdiscussedthetrendofpendingcasesandthenumber
+tion until the number of judges in the respective high court is ofcasesperjudgesinthehighcourts,weturnourattentionto
+also taken into account. This subsection considers the ratio of computingthetimerequiredtoclearthependencyofthecases
+pending cases/number of judges as a parameter for each high in high courts of India. Our attempt is the ﬁrst – to the best
+court. of our knowledge – to be based on extremely rich statistical
+Fig. 4 plots the ratio pending cases/number of judges for data to answer the question, “How long will it take to reduce
+each high court. The number of pending cases is calculated the pendency in the high courts to zero?”.
+7Rate of Increasing Pendency in each High Court Disposal Rate per Judge in High Courts
+g.)16 Average for HC
+400 Av Weighted Average
+y 14
+ail
+ases300 dge (D1102
+Total Pending C120000 ases Disposed per Ju2468
+C
+0
+0P and TH and AKaMrPnatakaGujaratPatnBaomAbllaayhabHiadmacRhajalasthanKeralaChDhealthtiisgarGhauhatJi Uattnadr aKkhandOrissCaalcMuettgahalayaSikkiMmanipurTripuraMaJdhraarskhand OriRsasjaasthanPatna MPMadrHiasCmhachhatatlisgarhGujaAlrlaathaJbhaardkhandKeralTa Hanid gBAoUhtmtba raCaykohKaaunrdnrattakaTripuraDelhGiauhatJi and PK and MHanipCuralcMutetgahalayaSikkim
+Fig. 6: Average case disposed per day per judge in High
+High Court
+Courts. The average number of cases disposed across all the
+Fig.5:Averagerateofdailyincreaseinthenumberofpending high courts is 5.93, i.e., around 6.
+cases for each high court.
+casesdisposedbyeachhighcourtjudgeinaday.Weusethese
+A. Rate of increase of pendency
+results to estimate the time required to nullify the pendency
+Fig. 1a presents increase in the number of total pending in different high courts in India.
+cases from August 31, 2017 to March 22, 2020. We have enough information to compute the time required
+We observe that the number of pending cases in the high to nullify the pendency in high courts. We are assuming that
+courts in India is increasing at a rate of approximately 1135 the number of judges increase linearly every year. We deﬁne
+cases per day. It is basically the slope of the best ﬁt line in the following variables:
+Fig. 1a. We have plotted a similar best ﬁt line for all the high
+1) Assumedtobeconstant,disposalrateperjudgeperyear,
+courts in Fig. 2 and Fig. 3. The slope for various high courts
+denotedasd,ofahighcourt(extrapolatedfromFig.6),
+is taken as rate of increase of pendency. For most of the high
+2) Pendency p at the start of any given year t in a high
+t
+courts it means that the pendency will never get over rather
+court,
+increase with time.
+3) Working strength w of a high court during any given
+t
+Fig. 5 shows the rate of increasing pendency for each high year t,
+courtascomputedfromtheslopesofthebestﬁtlinesinFig.2 4) Yearly rate of increase (r) of pendency for a high court
+t
+and Fig. 3. It is quite expected that Rajasthan High Court, when average working strength is w (extrapolated from
+t
+whose ratio of pending cases to judges is very high, has the
+Fig. 5),
+highest rate of increase of pendency. A similar observation
+Then the following holds:
+may be made for several other high courts whose ratio of
+pending cases to judges is very high. p =p +r (1)
+t t 1 t 1
+− −
+B. Towards Computing Time to Combat Pendency r =r d (w w ) (2)
+t t 1 t t 1
+− − · − −
+We use our analysis of NJDG data to ﬁnd out answers to
+where p and r are taken as the values of pendency on the
+0 0
+the following questions:
+lastdayofourdatacollectionandfromFig.5respectively.The
+1) What is the rate of disposal of cases per day per judge later values are updated according to Eq. 1 and 2 to compute
+in high courts? (Fig. 6) t for which p 0.
+t
+≤
+2) If the number of judges in high courts increase linearly Fig. 7 shows how the pendency may be decreasing. If we
+and reach their sanctioned strength in ten or twenty begin from p at the rate r , then we reach at pendency p
+0 0 1
+years from now, and the average disposal rate used for at the end of the ﬁrst year. Since the number of judges will
+a judge is as provided in Fig. 6, then how many years increase at the end of the year, more number of cases will
+are required to reduce the pendency of cases to zero? be disposed and the rate of increase of the cases will be
+(Fig. 8) lesser than the previous rate. This will continue until the rate
+Disposal related statistics are provided on NJDG portal on of increase becomes zero and eventually becomes negative
+a monthly basis. Thus, we have divided the number by 30 to making pendency to hit 0 at some point in time.
+get the daily ﬁgure. In Fig. 6, we plot the number of cases Fig. 8 shows the number of years required to nullify
+disposed per judge per day for each high court. The national pendency in the high courts. It presents results assuming that
+average is 5.93. This ﬁgure provides the average number of thesanctionedstrengthofhighcourtsarereachedintenyears
+8Years to combat pendency
+10 years to reach sanctioned strength
+140 Average for 10 years (For 23 HCs: 25.48 Years)
+r
+p0 0 120 20 years to reach sanctioned strength
+Average for 20 years (For 23 HCs: 34.65 Years)
+ses uired100
+Ca s req 80
+g ar 60
+n Ye
+di
+n 40
+e
+P 20
+p 0 0
+Fig.7:AvisualrepreTseinmtaetio(innoyfehaorws)eventuallythepte≤ndency SikkiHimmUattcahraalkhanGdauhatTi and BAombaJy and CKalcuttaKerKaalranatakaChhaMtPtisgarhMadArllaashabadGujaratDRelajhiasthanPJathnarakhandOriMsesgahalayMaanipurTripurPa and H
+High Court
+may be reduced to zero with the help of Eq 1 and 2. Initially,
+the rate of increasing pendency is high. As we increase the Fig. 8: Years required to nullify pendency if the working
+number of judges, the efﬁciency increases and the rate of strength of each high court is assumed to reach its sanctioned
+increasing pendency decreases, soon to become negative. strength in ten and twenty years. The rate of disposal of cases
+per day per judge for each high court is taken as reported in
+Fig. 6.
+and twenty years respectively. We also assume that the rate
+of increase of the judges in both the cases is linear. We can
+VI. POLICYTOIMPROVEACCESSTOJUSTICE
+see that there is a huge gap between the years taken to clear
+In this section, we comment on some of the required
+the pendency in the two cases. If we assume that the vacancy
+fundamental changes in various customs and enactment of
+of judges in the high courts is to be ﬁlled in twenty years,
+laws to increase the number of judges in the high courts.
+then Himachal High Court and Madras High Court may take
+In order to reduce pendency in the future, many policy level
+150 and 113 years respectively. However, if we assume that
+changes have been proposed by various studies. We focus on
+the working strength of the high courts reach their sanctioned
+thenumberofjudgesrequiredinthehighcourts.Weadvocate
+strength in ten years then the numbers for both the high
+ﬁlling of the vacancy of judges in the high courts [36] [37]
+courts mentioned above are 102 and 83 respectively, i.e., an
+andwhileﬁllingthevacancies,ageshouldbeconsidered[38].
+improvement of 48 and 30 years respectively. On the other
+Young judges should be elevated so that the retirement rate of
+side of the spectrum we see Tripura High Court and Sikkim
+the judges in a high court decrease. We:
+High Court that will take 2 years and 6 years respectively,
+irrespective of whether it takes ten or twenty years to ﬁll the 1) arguetheimpactofincreasingtheefﬁciencyofjudgeson
+vacancy in these high courts. Thanks to the number of the pendency in high courts Fig. 9a. This may be increased
+pending cases, rate of decrease of pendency and the sufﬁcient by providing more staff and ICT infrastructure.
+number of judges to handle that. Another extreme case is the 2) reason for the proposed sanctioned number of judges
+Punjab and Haryana High Court. There is no plot against that in high courts depending on the targets set to reduce
+high court in either case because the sanctioned strength, no pendency to zero.
+matter whether reached in ten or twenty years, the rate of Fig. 9a presents the number of years to nullify pendency if
+increaseofpendencywillstillbepositiveratherthannegative. the disposal rate of those high courts is increased to 5.93 for
+We also see that the majority of the high courts will take which it is lesser than that. In other words, we hypothetically
+morethantwentyyearsifthesanctionedstrengthisreachedin increase the number of cases disposed per judge per day
+twentyyearsandmorethan14yearsifthesanctionedstrength to 5.93, if it is lesser than that, unchanged otherwise. This
+isreachedintenyears.Hence,ifonlytenyearsaretakentoﬁll ﬁgure represents the number of years corresponding to a very
+the vacancy in high courts then substantially lesser number of ambitious case in which we assume the minimum disposal
+years are required to clear the pendency. This is also reﬂected of cases per high court judge per day. We see that there is
+in the average number of years taken. For ten years to ﬁll a signiﬁcant improvement in the average number of years
+vacancy, on an average, it will take 25.3 years and for twenty required to nullify the pendency. The average has come down
+years to ﬁll vacancy, on an average it will take 35.35 years from 25.3 years to 20.61 years if it takes ten years to reach to
+to clear the pendency. Hence, ﬁlling the vacancies in the high the sanctioned strength and from 35.35 years to 29.48 years
+courts is a key to clearing the pendency. More details on the if it takes twenty years to reach the sanctioned strength. In
+numbers used to plot Fig. 8 is provided in Table II in the this work, we have not tried to estimate the optimal number
+Appendix. of cases a judge may dispose on an average in a day, without
+9Years to combat pendency Number of judges required to end pendency in specific time Make Rate of Increase of Pendency Zero
+10 Years is taken to fill the pendency 5 Years to end pendency Required
+140 Average for 10 years (For 23 HCs: 16.35 Years) 700 15 Years to end pendency 150 Vacancies
+Years required114680200000 2Av0e Yreaagres  fios rt a2k0e yne taor sfi l(lF tohre 2 p3e HnCdes:n 2cy3.35 Years) Number of Judges234560000000000 Current Working Strength mber of Judges Required1157020505
+20 100 Nu25
+0 0 0
+HimUattcahraalkhanTd and AMPKeralGaauhaBtiomKbaarynatakaMCahdhraatstisgAallrahhabaJd and KGujaRraajtastJhhaarnkhandPatnCaalcuttaDelhiOrissMaaniMpeugrhalayaSikkimTripurPa and H P anAldl aHhabCaadlcuttBaombaT yanKda rAnatakaMadrasMPKeralaDRelajhiasthaGnujaratPatnJ aand GCKahuhhaatttiisJghaarrhkhaHindmachalUOtrtiasrsaakhandSikkiMmanipuTrriMpeurgahalaya P and TH anKda rAnatakBaombayAllMaPhabadGujaratDelChialcuttaPatnaKeralJa and GKauhHiatimacRhajalCashthhaattniUsttgaarrahkhandOriMsesgahalayaSikkimMaJdhraarskhanMdanipurTripura
+High Court High Court High Court
+(a) Years required if the minimum rate of(b) Number of judges required in each high(c) Number of judges required to make the
+disposal of cases per day per judge is ﬁxedcourt to clear the pending cases in ﬁve andrate of increase of pendency to zero, i.e., the
+at a minimum of 5.93 in each high court. ﬁfteen years respectively. pendency neither increases nor decreases.
+Fig. 9: Some insights to drive policies to improve access to justice in the high courts in India.
+compromising on the quality of justice. However, if we are handling the volume of fresh cases that are instituted in the
+given such a number then we are in a position to deduce its high courts. A similar ﬁnding is also reported in [39].
+impact on the pendency of cases in the high courts. From the above discussion, we can see that the the gov-
+Fig.9bshowsthenumberofjudgesrequiredifthependency ernment will have to be a bit innovative to be able to
+inhighcourtsistobenulliﬁedinﬁveorﬁfteenyears.Wealso aggressively clear the pendency. So without increasing the
+assume that the number of judges as well as the pendency sanctionedstrengthofthepermanentjudgesinthehighcourts,
+increase linearly in high courts and that the proposed sanc- government may, through appropriate legislation, increase the
+tioned strength reaches in ﬁve or ﬁfteen years. To provide a numberofjudgesinhighcourtsbyelevatingjudgespurelyfor
+comparison,wehavealsoplottedthecurrentworkingstrength clearing the pendency. Once pendency is cleared, the current
+of judges in the high court. Thus, we insist that the only sanctionedstrengthofthehighcourtsissufﬁcienttotakecare
+way to substantially reduce the pendency in the high courts of the newly instituted cases.
+is to increase the number of judges. All the other factors like A due analysis of the cost and the infrastructure required
+introduction of technology, etc will have a role to play but hastobedonewhichisbeyondthescopeofthecurrentpaper.
+the scarcity of the judges and supporting staff is the primary
+reason for pendency. The numbers are very high compared to
+VII. CONCLUSION
+the current working strength of the high courts and it is in
+sharp contrast with the fact that the number of judges have TheproblemofpendingcasesinIndiahastakenanunimag-
+not changed much during the data collection period. The rate inable form. In high courts alone, close to 4.5 million cases
+of appointment of judges is roughly canceled by the rate of are pending of which around 20% are pending for more than
+retirement,leavingtheaveragenumberofjudgesunchangedin 10 years. We use the data collected from HC-NJDG portal
+the high courts. Elevation of younger judges may help solve for a period of more than two and a half years to study the
+this problem. Since the number of judges required is very trends in the pendency in the high courts. We realize that
+high compared to the current working strength of judges, the the pending cases are increasing for almost every high court.
+whole purpose of this graph is to provide an estimate on how We use linear regression to capture the rate of increase of
+aggressively the judges should be elevated to the high courts. pendency in the high courts. We also make use of the data
+However, such large number of judges may not be required on disposed cases from the HC-NJDG portal to compute the
+once the pendency is cleared. For completeness, we have also numberofcasesdisposedbyeachhighcourtjudgeperdayand
+provided the details about the numbers in this ﬁgure in Table usethesestatisticstoestimatethenumberofyearsrequiredto
+III in the Appendix. clear the pendency in the high courts. The number of pending
+Fig.9cprovidesaninsightonthenumberofjudgesrequired cases is well beyond the capacity of the number of judges
+iftherateofincreaseofpendencyistobemadezero,i.e.,the currently working in the high courts. Hence, the number of
+pendingnumberofcasesshouldneitherincreasenordecrease. judges should be increased by taking necessary legislative
+This provides a good sign for most of the high courts as measures.
+the number of judges required to make the rate of increase The energy and efforts put in e-Courts project, NJDG in
+equal to zero is less than the vacancy in that particular high particular, must continue for few more years, if not decades,
+court according to the current sanctioned strength. Note that to see the real impact. Hence, more aid of ICT in judiciary
+onlyPunjabandHaryanaHighCourthastherequirednumber must be sought to reduce the pendency of millions of cases
+greater than the vacancy. This means that once the pendency and the use of artiﬁcial intelligence should be more than just
+is taken care of, the current sanctioned strength is capable of welcome.
+10REFERENCES [26] “The fundamental reason why Indian courts have a huge back-
+logofcases,”https://www.cnbctv18.com/legal/the-fundamental-reason-
+why-indian-courts-have-a-huge-backlog-of-cases-5045901.htm.
+[1] “After 28 years, Supreme Court acquits 2 of gang rape,”
+[27] “Evaluation study of e-courts integrated mission mode project,” http:
+https://timesoﬁndia.indiatimes.com/india/after-28-years-supreme-
+//doj.gov.in/sites/default/ﬁles/Report-of-Evaluation-eCourts.pdf.
+court-acquits-2-of-gang-rape/articleshow/65615121.cms.
+[28] S. C. Shalini Seetharam, “e-Courts in India: From Policy Formula-
+[2] “Unfortunate That Landlord Had To Litigate For Over Four Decades
+tiontoImplementation,”https://vidhilegalpolicy.in/wp-content/uploads/
+To Retrieve Possession,” https://www.livelaw.in/unfortunate-landlord-
+2019/05/eCourtsinIndia Vidhi.pdf.
+litigate-four-decades-retrieve-possession-sc-read-judgment/.
+[29] Can Big Data & Analytics clean up India’s Judicial Mess?
+[3] “State of the Indian Judiciary - a Report by Daksh,” http://
+[Online]. Available: https://swarajyamag.com/analysis/can-big-data-
+dakshindia.org/state-of-the-judiciary-report/. analytics-clean-up-indias-judicial-mess
+[4] “Arrears and Backlog: Creating Additional Judicial (wo)manpower,” [30] “GuidelinesoftheSchemeforActionResearchandStudiesonJudicial
+http://lawcommissionoﬁndia.nic.in/reports/Report No.245.pdf. Reforms,”http://doj.gov.in/sites/default/ﬁles/Action%20Research.pdf.
+[5] “India has world’s largest backlog of court cases: PM,” [31] “SupremeCourtAnnualReports,”https://main.sci.gov.in/publication.
+https://www.ndtv.com/india-news/india-has-worlds-largest-backlog-of- [32] “CJI-designate Ranjan Gogoi says he has a plan to tackle judicial
+court-cases-pm-399857. backlog,” https://www.hindustantimes.com/india-news/cji-designate-
+[6] “Analysis of causes for pendency in high courts and subordi- ranjan-gogoi-says-he-has-a-plan-to-tackle-judicial-backlog/story-
+natecourtsinmaharashtra,”https://doj.gov.in/sites/default/ﬁles/ASCI% PRqWd4J7mxUjRbZ8BFFatI.html.
+20Final%20Report%20Page%20641%20to%20822.pdf. [33] “CJI Bobde calls for speedy resolution of cases,” https:
+[7] “TheNationalJudicialDataGrid,”https://njdg.ecourts.gov.in/njdgnew/. //www.thehindu.com/news/national/cji-bobde-calls-for-speedy-
+[8] “94,000 cases pending for more than 20 years,” https: resolution-of-cases/article30646807.ece.
+//timesoﬁndia.indiatimes.com/india/why-cases-are-pending-for-more- [34] “Vacancy in High Courts in India,” http://doj.gov.in/appointment-of-
+than-20-years-in-high-courts/articleshow/71911562.cms. judges/vacancy-positions.
+[9] “National Policy and Action Plan for Implementation of Informaiton [35] “Calcutta high court: Pendency statistics,” https://
+and Communication Technology in the Indian Judiciary,” https:// www.calcuttahighcourt.gov.in/page/Pendency-of-Cases.
+main.sci.gov.in/pdf/ecommittee/action-plan-ecourt.pdf. [36] “Appointment of Judges and Judicial Reforms: Need of the hour,”
+[10] “Policy and Action Plan Document Phase-II of the e-Courts https://www.theleaﬂet.in/appointment-of-judges-and-judicial-reforms-
+Project,” https://ecourts.gov.in/ecourts home/static/manuals/ need-of-the-hour/.
+PolicyActionPlanDocument-PhaseII-approved-08012014-indexed [37] “Judicial manpower,” https://doj.gov.in/sites/default/ﬁles/Judicial-
+Sign.pdf. manpower.pdf.
+[11] “Courts Will Take 320 Years to Clear Backlog Cases: Justice Rao,” [38] “MoP: Age criterion for elevation to High Courts from Bar?
+http://timesoﬁndia.indiatimes.com/india/Courts-will-take-320-years-to- Collegium says 45 to 55,” https://www.barandbench.com/news/age-
+clear-backlog-cases-Justice-Rao/articleshow/5651782.cms. criterion-elevation-high-court-bar.
+[12] “Delhi HC to take 466 years to clear all criminal cases,” [39] “Judicial backlogs can become history,” https://www.theleaﬂet.in/
+https://www.news18.com/news/india/delhi-hc-to-take-466-years-to- judicial-backlogs-can-become-history/.
+clear-all-criminal-cases-308458.html.
+VIII. APPENDIX
+[13] “Judicial delay may become a thing of the past,” https:
+//www.thehindu.com/opinion/lead/Judicial-delay-may-become-a- We present Fig. 8 and Fig. 9b in the form of tables.
+thing-of-the-past/article13556341.ece.
+[14] “Judiciary alone can’t tackle pendency: HL Dattu,” https: HighCourt 10Years 20Years
+//www.hindustantimes.com/india/judiciary-alone-can-t-tackle- 1 Himachal 102 150
+pendency-hl-dattu/story-oXHQ7wCdJDBVbJjMrNyeNJ.html. 2 Madras 83 113
+[15] “Reforms could see disposal of cases in three years,” 3 Uttarakhand 64 81
+https://www.thehindu.com/news/national/reforms-could-see-disposal- 4 Rajasthan 39 59
+of-cases-in-three-years/article2129739.ece. 5 Gauhati 38 53
+[16] “The National Judicial Data Grid for High Courts,” 6 TandA 27 39
+http://njdg.ecourts.gov.in/hcnjdg public/main.php. 7 JandK 24 32
+[17] “”NJDG for High Courts is Going to be a Game Changer”, Jus- 8 Bombay 23 31
+tice Madan Lokur,” https://barandbench.com/njdg-high-courts-game- 9 Calcutta 22 27
+changer-justice-madan-lokur/. 10 Kerala 19 26
+[18] “What does data on pendency of cases in Indian courts tell us?” 11 Karnataka 19 28
+https://www.theleaﬂet.in/what-does-data-on-pendency-of-cases-in- 12 MP 18 26
+indian-courts-tell-us/.
+13 Chhattisgarh 14 21
+[19] World Bank Lauds National Judicial Data Grid In Ease Of Doing
+14 Manipur 14 22
+Business Report. [Online]. Available: http://www.livelaw.in/world-
+15 Allahabad 13 18
+bank-lauds-national-judicial-data-grid-ease-business-report/
+16 Delhi 11 17
+[20] “In Bombay High Court, 4.64 lakh cases pending,”
+17 Gujarat 10 14
+https://indianexpress.com/article/india/in-bombay-high-court-4-64-
+18 Orissa 9 14
+lakh-cases-pending-5380496/.
+19 Patna 9 13
+[21] “Arrears,ArrearsEverywhere:HowCasePendencyContinuestoPlague
+20 Jharkhand 9 11
+Indian Judiciary,” https://www.news18.com/news/india/arrears-arrears-
+21 Meghalaya 7 10
+everywhere-how-case-pendency-continues-to-plague-indian-judiciary-
+22 Sikkim 6 6
+1622129.html.
+23 Tripura 2 2
+[22] “Lower courts have over 22 lakh cases pending for over 10 years:
+24 PandH - -
+Report,” https://www.ndtv.com/india-news/lower-courts-have-over-22-
+lakh-cases-pending-for-over-10-years-report-1918439. TABLEII:UsedtocreateFig.8.Thenumberofyearsrequired
+[23] “Pending cases in J&K courts pile up to 147000,” https:
+to clear the backlog if the sanctioned strength of the high
+//www.greaterkashmir.com/news/kashmir/pending-cases-in-j-k-courts-
+pile-up-to-147000/297359.html. courtsisreachedintenandtwentyyears.NotethatforPunjab
+[24] K.Verma,“e-CourtsProject:AGiantLeapbyIndianJudiciary,”Journal and Haryana High Court, the backlog can never be cleared if
+ofOpenAccesstoLaw,vol.6,no.1,2018.
+the sanctioned strength is not increased.
+[25] A. P. Kumar, “A comparative analysis of courts across India,” http://
+www.commoncause.in/publication details.php?id=450.
+11HighCourt 5Years 15Years Sanctioned Working
+1 PandH 549 310 85 52
+2 Allahabad 277 161 160 102
+3 Calcutta 273 111 72 39
+4 Bombay 197 119 94 69
+5 TandA 169 96 61 27
+6 Madras 160 107 75 58
+7 Karnataka 138 81 62 33
+8 Rajasthan 124 80 50 25
+9 MP 106 65 53 33
+10 Kerala 92 56 47 34
+11 Delhi 82 60 60 37
+12 Gujarat 64 52 52 28
+13 Patna 61 53 53 29
+14 JandK 51 26 17 9
+15 Gauhati 46 31 24 19
+16 Chhattisgarh 35 23 22 15
+17 Orissa 33 27 27 14
+18 Jharkhand 32 25 25 19
+19 Himachal 29 20 13 9
+20 Uttarakhand 25 15 11 9
+21 Manipur 7 5 5 4
+22 Meghalaya 4 4 4 2
+23 Tripura 4 4 4 3
+24 Sikkim 3 3 3 3
+25 Total 2561 1534 1079 672
+TABLE III: Used to create Fig. 9b. The number of judges
+required in each high court to clear the backlog in ﬁve or
+ﬁfteen years. The third column is the current sanctioned
+strength of the high courts and the last column shows the
+average number of working judges in the high courts for 22
+months starting June 2018 to March 2020.
+12

@@ -1,0 +1,1164 @@
+1 
+Legal Obligation & its Limits 
+Emad H Atiq* 
+Abstract. Judges decide cases by appeal to rules of general application they deem to be law. If a candidate 
+rule resolves the case and is, ex ante and independently of the judge’s judgment, the law, then the judge has a 
+legal obligation to declare it as such and follow it. That, at any rate, is conventional wisdom. Yet the principle 
+is false—a rule’s being law or the judge’s believing it to be law is neither necessary nor even sufficient for a 
+judge being legally obliged to follow it. The principle’s falsity is especially apparent in so-called hard cases, 
+where the line between legal and non-legal rules is obscure. Moreover, judges have authority to disregard law 
+in hard cases not because moral (or non-legal) obligations trump legal obligations. Rather, the law itself 
+circumscribes its own authority. The implications for legal philosophy are significant; for one, a theory of 
+juridical norms can be developed independently of the precise boundaries of legality.  
+Keywords: Legality, Judicial Obligations, Hard Cases, Positivism, Anti-positivism, Epistemic Indeterminacy 
+*Assistant Professor of Law & Philosophy, Cornell University Law School & Sage School of Philosophy. 232 
+Hughes Hall, Ithaca NY, 14853. Email: eha47@cornell.edu. Many thanks to Gideon Rosen, Philip Pettit, 
+Sarah McGrath, Joseph Raz, and Nat Tabris for their comments on the paper. Thanks also to Erin Miller, 
+Scott Altman, Sam Preston, Alisabeth Ayars, H. Scott Hestevold, Michael Smith, Ahson Azmat, Kevin 
+Clermont, two anonymous referees for Law & Philosophy, and the philosophy department at the University of 
+Alabama, where I presented an earlier version of the paper 2 
+Introduction 
+Suppose a judge were to become persuaded that the central debate within analytic jurisprudence—the debate 
+between positivists and anti-positivists about the nature of law—should be decided in favor of the positivist 
+(the choice of theory is irrelevant). Should this make any difference to how she should rule in legal cases? It is 
+tempting to think so based on the following sort of argument. Positivists and anti-positivists disagree about 
+how to draw the line that separates legal from non-legal rules and there are cases where their competing 
+theories come apart. As between two incompatible rules that a judge might rely on to decide a case, say one 
+that prohibits capital punishment as cruel and unusual and another that permits it, which rule happens to be 
+law independently of the judge’s judgment turns on whether the positivist or anti-positivist is right. It is 
+platitudinous that judges have at least a professional duty (a duty deriving from what the law requires of 
+judges) to remain faithful to the law—that is, to follow a rule and declare it to be law if it is in fact law.1 
+Accordingly, what judges legally ought to do turns on the resolution of the philosophical debate. 
+This quick argument and others like it often crop up in legal theorizing, but they rest on a 
+fundamental misunderstanding of judicial duty.2 That judges have a duty to remain faithful to the law is 
+1 HLA Hart, Essays on Bentham: Studies in Jurisprudence and Political Theory (Clarendon Press, 1982) 158–59: 
+When a judge of an established legal system takes up his office he finds that though much is left to his 
+discretion there is also a firmly settled practice of adjudication, according to which any judge of the system is 
+required to apply in the decision of cases the laws identified by specific criteria or sources. This settled practice 
+is acknowledged as determining the central duties of the office of a judge and not to follow the practice would 
+be regarded as a breach of duty one not only warranting criticism but counter-action where possible by 
+correction in a higher court of appeal. 
+2 Lon Fuller finds common ground with Hart in thinking that it is the province of general jurisprudence to clarify what 
+‘fidelity to law’ amounts to with a precise characterization of law’s nature: ‘if we do not mend our ways of thinking and 
+talking [about the nature of law] we may lose a “precious moral ideal,” that of fidelity to law. … one of the chief issues is 
+how we can best define and serve the ideal of fidelity to law.’ LL Fuller, ‘Positivism and Fidelity to Law: A Reply to 3 
+ 
+indeed platitudinous, but the platitude has been misinterpreted. Judges are not obliged to follow the law in all 
+cases, even if there is a fact of the matter about what the law is ex ante. While it is a familiar enough notion 
+that judges may have authority to create new law in cases where the law is undetermined (in other words, a 
+rule’s being law, ex ante, may not be a necessary condition for its being declared as such by a judge), the claim 
+that judges have legal authority to ignore determinate law or rules they believe to be law in individual cases 
+rings of heresy.3 Nevertheless, it is true that judges have such authority precisely in the sort of cases where 
+competing philosophical theories of law come apart. Moreover, judges have this authority not because, as 
+some have suggested, moral obligations (or some other non-legal species of obligations) trump legal 
+obligations. Rather, the law itself circumscribes its own authority.4 In the relevant class of cases, how a judge 
+should rule simply does not turn on what the law is. The implications for legal philosophy are significant; for 
+                                                      
+Professor Hart’ (1958) 71 Harvard Law Review 630, 630–32. It is easy to multiply examples of this common sentiment. 
+See discussion in section III. Our principle question is whether perfect fidelity to law could even be a legal ideal, let alone a 
+precious moral one. As it turns out, fidelity to law is not the kind of legal (or moral) ideal that is best served by 
+demarcating the precise boundaries of legality. 
+3 That judges have authority to make new law where there are ‘gaps’ in the law is a popular notion amongst legal 
+positivists. See, e.g., J Raz, ‘Legal Principles and the Limits of Law’ (1972) 81 Yale Law Journal 823, 847–48. Timothy 
+Endicott has argued that when the law runs out, judges are legally authorized to decide the case (and plug gaps in the 
+law) by appeal to extra-legal, moral considerations. See T Endicott, ‘Raz on Gaps – The Surprising Part,’ in LH Meyer, 
+SL Paulson, and TW Pogge (eds), Rights, Culture and Law (OUP 2003). The claim defended here goes further and should 
+prove more controversial: in cases where there is no gap in the law but the law is uncertain given the evidence, judges can 
+lawfully ignore what they deem to be law. 
+4 The argument relies on what should be uncontroversial assumptions about the nature of distinctively legal obligation. 
+See discussion in fn. 60. Roughly, if an agent, A, is legally obliged to perform action-type φ in circumstance C, then (at 
+the very least) there is a rule with the property of being law that obliges A to φ in C.  4 
+ 
+one, a theory of judicial obligation can and should be developed independently of the precise boundaries of 
+legality.5  
+  The dispute within analytic jurisprudence is an example of one where rival theories of law conflict in 
+just the range of cases where legality’s normative significance for judges is slim to non-existent. But there are 
+other, more parochial disputes that similarly involve competing claims about what the law is in cases where 
+legality is not what matters—for instance, the dispute over the precise legal significance of original intent in 
+American constitutional jurisprudence.6 My argument generalizes to these other disputes: their resolution 
+does not bear on how a judge legally ought to rule.7 I explore the generalized version of the argument in other 
+work. The present focus is on showing that the debate between positivists and anti-positivists, on its own 
+terms, entails the untethering of judicial duty from legality.8 
+                                                      
+5 The argument relies on the idea that the legal concept is vague at the margins for epistemic reasons, even if it has 
+precise applications conditions as theorists standardly assume. On epistemic theories of vagueness, see T Williamson, 
+Vagueness (Routledge 1994); R Sorensen, Vagueness and Contradiction (Oxford University Press 2001). 
+6 Compare S Scalia, ‘Originalism: The Lesser Evil’ (1989) 57 Cinn. L. Rev. 849, with J Balkin, Living Originalism (HUP 
+2011) ch1. 
+7 The range of cases to which my argument applies include cases where reasonable judges can disagree about the content 
+of the law and the disagreement is evidentially intractable: its resolution turns on complex empirical and moral facts. 
+There are good debates to be had about what judges should do in such cases. But these are not debates about what the 
+law is. See discussion in sections III and IV. 
+8 Analytic jurisprudence provides a convenient starting point for the analysis because it is easy to motivate the non-
+obviousness of law in cases where philosophical theories of law come apart, and law’s non-obviousness plays a critical 
+role in the overall argument. See discussion in L Murphy, ‘Concepts of Law’ (2005) 30 Austl. J. Leg. Phil. 1; B Leiter, 
+Naturalizing Jurisprudence: Essays on American Legal Realism and Naturalism in Legal Philosophy, (Oxford University Press 
+2007), 180–84. A further reason is that the central claims of the paper can be motivated using positivistic as well as anti-
+positivistic theories of law. I am confident that the results can be derived on any plausible general theory of law. But 
+since I do not provide the fully generalized version of the argument here, those who reject both positivism and anti-
+positivism can take the conclusions of this paper in conditional form.  5 
+ 
+In section one, I defend a standard account of analytic jurisprudence as aimed at articulating the 
+precise application conditions of the concept expressed by predicates like “is law” and “is legal.” Positivists 
+and anti-positivists disagree about the general conditions that a rule must satisfy in order to fall under the 
+legal concept.  
+In section two, I argue that even card-carrying positivists and anti-positivists should acknowledge 
+that cases where the theories come apart in their implications for which rules count as law are ‘hard’ cases, in 
+the sense that it is highly non-obvious what the law is in such cases—the line that separates the legal from the 
+non-legal rules is obscure given the evidence. To use an idiom familiar from first-order legal theory, reasonable 
+persons can disagree about the law in such cases. I offer two arguments for why our confidence in our judgments 
+about legality in the relevant range of cases should be low, one from persistent theoretical disagreement about 
+law and the other based on the totality of facts that determine application conditions for semi-technical 
+concepts. 
+In section three, which forms the bulk of the discussion, I argue that judges are not legally obliged to 
+follow preexisting law in hard cases, and, moreover, that they are not so obliged from any other normative 
+perspective (say, that of morality). My general strategy is to show that a rule requiring strict conformity to the 
+law in hard cases could not itself be law, whether positivism or anti-positivism is true. The rule is neither 
+conventionally embraced in modern jurisdictions nor is it a morally good rule for a legal system to adopt. The 
+rule’s non-conventionality follows from a de re as opposed to de dicto interpretation of the platitude that judges 
+should strictly follow the law and from the actual content of judicial oaths and constitutional rules. The rule’s 
+moral inferiority follows from the evaluative irrelevance of a rule’s legality when its legality, though genuine, is 
+reasonably uncertain. I conclude that judges can and should decide hard cases based entirely on features of 
+rules other than their legality. The conclusion is a thoroughly practical one with ramifications for the actual 
+practice of judging. It entails, for example, that judges can, consistent with their professional duties, ignore 
+rules they believe to be law in hard cases, even if their beliefs turn out to be correct.  
+In section four, I address possible objections to my view, including that it misguidedly (a) affords 
+judges the authority to misrepresent what the law is; (b) overlooks the virtues of a principle of judicial 6 
+ 
+decision-making that demands strict conformity to preexisting law; and (c) permits judges to frustrate the 
+reasonable expectations of persons held accountable under legal rules.  
+In section five, I conclude by commenting on the argument’s implications for legal philosophy 
+generally and on the light it sheds on Ronald Dworkin’s classic but ultimately misleading discussion of hard 
+cases.9  
+ 
+I. Reasonable & Persistent Disagreement About the Concept of Law 
+ 
+Analytic jurisprudence has traditionally been characterized as an investigation into the application conditions 
+of a concept—the concept expressed by juridical predicates like “is law” and “is legal.”10 Just as we judge 
+certain rules to be those of etiquette or morality, we classify some as “legal rules” or “rules of law.”11 The 
+philosophical task is to specify those general features of rules that determine whether a rule falls under the 
+                                                      
+9 R Dworkin, ‘Hard Cases’ (1975) 88 Harvard Law Review 1057. Dworkin uses ‘hard case’ to refer specifically to difficult 
+cases that arise before courts involving plaintiffs and defendants, whereas I use the term more generally to refer to any 
+situation where a judge has to decide what the law is on some question, but the law is obscure given the evidence. 
+10 As Raz puts it, ‘It is part of the self-consciousness of our society to see certain institutions as legal. And that 
+consciousness is part of what we study when we inquire into the nature of law.’ J Raz, The Authority of Law (Oxford 
+University Press 1979) 221; J Raz, ‘Two Views of the Nature of the Theory of Law’ in J Coleman (ed), Hart's Postscript: 
+Essays on the Postscript to The Concept of Law (OUP 2001): ‘our aim is to explain the concept as it is, the concept that people 
+use to understand features in their own life and in the world around them’; B Leiter ‘Naturalism and Naturalized 
+Jurisprudence’ in B Bix (ed), Analyzing Law: New Essays in Legal Theory (Clarendon Press 1998); R Alexy, ‘Legal Certainty 
+and Correctness’ (2015) 28 Ratio Juris 441. S Shapiro, Legality (Harvard UP 2011) 16–22, offers a useful discussion of the 
+importance of conceptual analysis. 
+11 We can construe rules as functions mapping circumstances to outcomes or actions. See also discussion in fn. 60. 7 
+ 
+legal concept. It might be helpful to think of concepts as akin to abilities.12 To possess the concept <law> is 
+to be able to discriminate between entities in the world that differ in some respect—whichever respect it is 
+that distinguishes all legal from non-legal rules.13 We exhibit this ability in our dispositions to attribute legality 
+to rules. 
+We take for granted that the legal concept has a public character in that it is shared by different 
+agents. At the very least, judges and other important legal actors are assumed to possess a singular concept of 
+law. This is a significant methodological assumption that might reasonably be questioned.14 It may turn out 
+that individuals use juridical terms to express different concepts and, so, fail to converge in their judgments of 
+legality. The possibility of conceptual divergence gains traction from widespread disagreement about law 
+amongst experts.15 One response to this type of worry emphasizes that persons can be mistaken about their 
+own concepts. It is one thing to have a concept, to deploy it in thought and talk, and quite another to have 
+true beliefs about it. For instance, one might have the concept <good> as evidenced by one’s ability to 
+reliably distinguish good acts from bad ones, while having false beliefs about the features of acts one 
+responds to in deploying the concept. One might falsely believe that all good acts are happiness maximizing, 
+when in fact they have some other property in common (say, that of being defensible from an impartial 
+                                                      
+12 M Dummett, Seas of Language (OUP 1993). The argument does not turn on whether concepts are construed instead as 
+abstract objects or mental representations. For alternative views of concepts, see J Fodor, Psychosemantics: The Problem of 
+Meaning in the Philosophy of Mind (MIT Press 1987); C Peacocke, A Study of Concepts (MIT Press 1992). 
+13 Writing ‘<P>’ for the ‘concept expressed by ‘P’.’  
+14 See, e.g., B Leiter, ‘Legal Realism, Hard Positivism, and the Limits of Conceptual Analysis’ in J Coleman (ed), Hart's 
+Postscript: Essays on the Postscript to The Concept of Law (Oxford University Press 2001) 355. For a critical take on conceptual 
+analysis as a general philosophical methodology, see M Johnston and SJ Leslie, ‘Concepts, Analysis, Generics and the 
+Canberra Plan’ (2012) 26 Philosophical Perspectives 1. 
+15 On the pervasiveness of legal disagreement, see R Dworkin, Law’s Empire (Harvard University Press 1986) 42–46; B 
+Leiter, ‘Explaining Theoretical Disagreement’ (2012) 76 University of Chicago Law Review 1215. 8 
+ 
+perspective).16 The legal philosopher can reasonably take people’s self-understanding and their dispositions to 
+call rules “law” with a grain of salt, while nevertheless treating these dispositions as prima facie evidence of the 
+contours of a shared concept. 
+Assuming a shared concept of law, the theoretical task is to state in general terms the conditions that 
+a rule must satisfy to fall under it. Specifying the concept’s application conditions is an importantly different 
+task from saying which rules in individual cases and jurisdictions satisfy the relevant conditions. The concept 
+<bachelor> applies to individuals who are male and unmarried, but knowing the concept’s application 
+conditions is not by itself informative as to whether any given individual is a bachelor. 
+What unifies positivists about law is the view that the legal concept’s application conditions are 
+entirely social—the concept applies to a rule if and only if it has a certain social property: roughly, one having 
+to do with what people have historically said, believed, done, or intended to do in a community.17 On John 
+Austin’s view, for example, legal rules are those that have been prescribed by a sovereign (or other official) 
+who is habitually obeyed in the community and whose commands are backed by the threat of sanction.18 
+H.L.A Hart famously proposed an alternative and significantly more complex characterization of the social 
+property essential to law.19 For Hart, a rule’s legality consists in its being part of a broader system of 
+hierarchically organized rules that are habitually followed in the community: a system that includes ‘primary’ 
+                                                      
+16 On conceptual analysis in ethics, see F Jackson, From Metaphysics to Ethics (Oxford University Press 2012). 
+17 For a related characterization of the social property relevant to positivism, see M Greenberg ‘How Facts Make Law’ 
+(2004) 10 Legal Theory 157. We can ignore the difference between inclusive and exclusive positivism in what follows. 
+Inclusive positivists allow that moral features of rules sometimes play a role in determining whether the rule is law but 
+only if some social fact independently makes the moral features relevant: e.g. a convention of treating punishments as 
+legal only if they are humane. See discussion in S Shapiro, ‘The “Hart-Dworkin” Debate: A Short Guide for the 
+Perplexed’ in A Ripstein (ed), Ronald Dworkin (Contemporary Philosophy in Focus) (Cambridge University Press 2007) 22-55. 
+18 J Austin, The Province of Jurisprudence Determined (first pub. 1832, Cambridge University Press 1995). 
+19 HLA Hart, The Concept of Law (2d ed., Clarendon Press 1994) 99. For a helpful discussion of Hart’s view, see Shapiro 
+(n10) 84-85. 9 
+ 
+rules which govern conduct in particular circumstances and ‘secondary’ rules which specify methods for 
+making primary rules. Hart’s theory remains thoroughly positivistic insofar as it rejects any moral 
+preconditions on a rule’s legality. The relevant property of legal rules is a complex social property that refers, 
+in part, to a broader system of rules habitually obeyed. More recently, Scott Shapiro has advanced a view on 
+which legal rules are ones that have been incorporated into a collective plan adopted by members of a 
+community with the aim of solving large-scale problems believed by the planners to be morally important but 
+that need not in fact have moral significance.20  
+  Anti-positivists oppose a purely social characterization of the legal concept’s application conditions. 
+Their distinctive claim is that rules fall under the concept only if in addition to their social properties, they 
+also have some moral or broadly normative features. Ronald Dworkin’s brand of anti-positivism is perhaps most 
+well-known.21 Dworkin argued that applying the concept <law> to a rule necessarily involves interpreting social 
+practice, and interpretation involves more than just figuring out which rules community members follow.22 
+Social interpretation for purposes of applying the concept consists partly of moral judgment. It involves 
+characterizing individuals and their practices in a way that casts them in their morally best light even if the 
+characterization is not entirely faithful to actual intentions and conduct. In other words, recognizing a rule as 
+law involves appreciating not just that it is actually followed by community members but that it is a morally 
+                                                      
+20 Shapiro (n10) 118–213. Shapiro describes the ‘moral aim’ of legal systems as ‘the rectification of the moral defects 
+associated with the circumstances of legality.’ ibid 214. 
+21 Dworkin (n15) 40–46. Dworkin’s ‘semantic sting’ argument against positivism should be construed as suggesting that 
+the legal concept’s application cannot simply be a function of linguistic usage and social facts. The argument’s upshot 
+remains a distinctively anti-positivistic account of the concept’s application conditions. 
+22 ‘Interpretation of works of art and social practices, I shall argue, is indeed essentially concerned with purpose not 
+cause. But the purposes in play are not (fundamentally) those of some author but of the interpreter. Roughly, 
+constructive interpretation is a matter of imposing purpose on an object or practice in order to make of it the best 
+possible example of the form or genre to which it is taken to belong.’ ibid 52. 10 
+ 
+good rule to follow in light of community practices.23 More recently, Mark Greenberg has suggested that legal 
+rules are just those morally good rules whose moral status depends in part on our social practices.24  
+It should be noted that no one seriously doubts that positivists and anti-positivists have identified 
+genuine worldly phenomena that our concepts could be tracking. There are rules with the relevant social 
+properties (we might call them “S-rules”) as well as rules with social and moral properties (call them “M-
+rules”).25 What Hart and Dworkin disagree about is whether a rule falls under the concept <law> if and only 
+if it is an S-rule as opposed to an M-rule. 
+While we have put the central issue in terms of the concept of law, some writers prefer to frame the 
+philosophical debate in terms of the property of being law that some rules have and others do not.26 The 
+central question for these theorists is whether a rule’s social properties alone or its social and moral properties 
+together explain why it instantiates the legal property.27 The benefits of this alternative construal are somewhat 
+obscure and one reason to favor the conceptual framing is that it is broadly consistent with how legal 
+                                                      
+23 One way to make sense of the view is that the Dworkinian thinks the closest morally good approximation of the rule 
+actually followed by members of the community is law. 
+24 M Greenberg, ‘The Moral Impact Theory of Law’ (2014) 123 Yale Law Journal 1118.  
+25 There are skeptics about rules, functions, and other abstract objects, but their skepticism is not particular to the legal 
+domain. This paper assumes, quite harmlessly, that there such abstract entities.  
+26 G Rosen, ‘Metaphysical Dependence: Grounding and Reduction’ in B Hale & A Hoffmann (eds), Modality: Metaphysics, 
+Logic, and Epistemology (Oxford University Press 2010) 109–136; A Marmor, ‘Farewell to Conceptual Analysis (in 
+Jurisprudence)’ in W Waluchow & S Sciaraffa (eds), Philosophical Foundations of the Nature of Law (OUP 2013). 
+27 Rosen (n26) 110: ‘One of the aims of jurisprudence is to identify in general terms the facts in virtue of which the legal 
+facts are as they are. One distinctive claim of legal positivism is that the grounds of law are wholly social. … 
+Antipositivists typically maintain that pre-institutional moral facts often play a role in making the law to be as it is.’ I 
+have no objection to this construal so long as properties are abundant, with a corresponding property for every well-
+functioning predicate. 11 
+ 
+philosophers have construed their own project.28 Moreover, it simplifies the overall argument considerably to 
+frame issues in terms of the legal concept. The argument can, however, be reformulated in terms of the legal 
+property, and so there is no need to settle the question of ideal framing for present purposes.29 The 
+alternative construal is acceptable so long as one concedes that what practical reasons there might be to 
+follow or obey legal rules are wholly explained by the social and/or moral features of such rules—the features 
+in virtue of which a rule gets to be legal.30 Happily, the claim that legality’s normative significance is derivative 
+in this way is by and large embraced by those who have defended the property-based view.31  
+                                                      
+28 See supra (n10). A more radical take on the dispute portrays anti-positivists, in particular, as concerned not so much 
+with characterizing the ordinary concept of law, but with motivating its revision. There is an available reading of the 
+later-Dworkin as a revisionist. R Dworkin, Justice for Hedgehogs (Harvard UP 2011) ch19. For a positivistic brand of 
+revisionism, see F Schauer, ‘The Social Construction of The Concept of Law’ (2005) 25 Oxford Journal of Legal Studies 
+493. Of course, it wouldn’t be a Hart-Dworkin debate if while positivists were trying to characterize a pre-fixed concept, 
+anti-positivists were in the business of trying to modify our conceptual repertoire. For this reason, I take revisionist 
+characterizations of the debate to define away the debate. I return to this issue in section V. 
+29 Although the argument can be reformulated in terms of the property-based view, there are several reasons for 
+preferring the conceptual framing. For one, it would be a mistake to think that the property of being law has a robust 
+nature like the property of being scarlet or being H20. On this point, see B Bix, ‘Conceptual Questions and Jurisprudence’ 
+(1995) 1 Legal Theory 465, 468: ‘The problem is that talk of ‘‘essences’’ and the ‘‘nature’’ of items does not fit as 
+comfortably with human artifacts and social institutions as it does, say, with biological species or chemical elements.’ 
+There is some sense to be made of legal property talk on an abundant conception of properties, where all it takes for 
+there to be a property is for there to be, corresponding to that property, a well-functioning predicate in a language. 
+30 A chief reason for avoiding talk of a distinctive property of being law is that it is potentially misleading. There is a 
+temptation to think that when rules acquire the property they acquire a sui generis normative significance that isn’t fully 
+explained by the rule’s social or moral features. Scott Hershovitz in his recent work has warned against this error. S 
+Hershovitz, ‘The End of Jurisprudence’ (2014) 124 Yale Law Journal 882.  
+31 It is the rare theorist who denies the reductive claim. On Hans Kelsen’s non-reductive view, for example, the property 
+of being law appears to be an irreducible normative property with its own distinctive normative significance. H Kelsen, 12 
+ 
+ 
+II. Competing Theories of the Concept Diverge Extensionally in Hard Cases 
+It is easy to come up with versions of positivism and anti-positivism that end up saying very different things 
+about which rules in a jurisdiction count as law. But plausible versions of positivism and anti-positivism of the 
+sort we shall focus on end up agreeing for the most part on the legal concept’s extension. For instance, such 
+views will commonly acknowledge the U.S. Constitution as well as properly enacted statutes and judicial 
+decisions as sources of law in the United States.32  
+There are several reasons for this theoretical convergence. To begin with, the social properties that 
+interest positivists tend to be morally significant due in part to their social character. If we plan to drive on 
+the right side of the road, the rule prescribing driving on the right has the social property of being a rule we 
+plan to follow. But it also happens to be one we morally ought to obey and precisely because of our planned 
+conformity to it. On a larger scale, the plans, intentions, and practices of community members have moral 
+significance for how individuals should behave.33 And so, it is not surprising that the social properties of rules 
+that interest positivists and the moral properties that interest anti-positivists—like that of being a morally 
+good rule to follow—tend to ‘co-travel.’ In other words, S-rules are often enough also M-rules. Since everyone 
+agrees that <law> is a morally important category, any plausible version of positivism will ensure that the 
+concept tracks a social property that is at least in general (though not necessarily) morally significant in the 
+sense of providing those who are subject to the law some moral reason to comply with the law’s demands.34 
+                                                      
+Pure Theory of Law (2nd edn, University of California Press 1960). See discussion in A Hagerstrom, ‘Kelsen’s theory of law 
+and the state’ in K Olivercrona (ed), Inquiries into the Nature of Law and Morals (1953) 267.  
+32 See Greenberg (n17) 162–63 describing paradigmatic examples of law as common ground between the positivist and 
+anti-positivist.   
+33 On how coordinating conventions give rise to normative obligations, see D Lewis, Convention (Harvard University 
+Press 1969); GI Mavrodes, ‘Conventions and the Morality of War (1975) 4 Philosophy & Public Affairs 117. 
+34 See discussion in Shapiro (n10) 181–86.  13 
+ 
+On the flip side, any plausible version of anti-positivism will make sure not to wed legality too close 
+to what is morally ideal. Legal rules that fall well short of being morally best are all too familiar. The highly 
+retributive criminal laws of the United States are markedly unjust.35 Yet the injustice inherent in a rule that 
+prescribes life-imprisonment based on a third criminal conviction regardless of its gravity did not prevent it 
+from being one of the state laws of the United States.36 Anti-positivists can accommodate the moral 
+inferiority of law by, among other means, lowering the threshold of moral acceptability that socially embraced 
+rules must meet to qualify as legal rules. By making a rule’s legality turn on a more fine-grained moral 
+property that comes in degrees, like the axiological property of being good to degree n, as opposed to binary 
+deontic ones, like being what ought to be obeyed, the anti-positivist can make the moral preconditions on legal 
+rules as weakly demanding as required to render the view extensionally adequate. Alternatively, anti-positivists 
+accommodate the occasional immoral law by making the necessary moral preconditions of legality applicable 
+to entire systems of socially embraced rules based on the overall good they do rather than to individual legal 
+rules within such systems.37 
+What are the sorts of cases where the theories come apart? They involve rules that bear all the social 
+markers that interest positivists but are so debased as to not even meet minimal standards of moral 
+acceptability—cases involving grotesquely bad rules or systems of rules. The Fugitive Slave ‘laws’ of 
+antebellum America which required marshals to return runaway slaves to their owners and the putative laws 
+                                                      
+35 On the harshness of American criminal law, see JQ Whitman, Harsh Justice: Criminal Punishment and the Widening Divide 
+between America and Europe (Oxford University Press 2003). 
+36 Cal. Penal Code § 667 (West 1994). 
+37 See discussion in R Alexy, ‘Legal Certainty and Correctness’ (2015) 28 Ratio Juris. 441, 444–45: ‘not every injustice, 
+but to be sure extreme injustice is not law’; and more generally in G. Radbruch, ‘Vorscule der Rechtsphilosophie’ in A 
+Kaufman (ed), G. Gesamtausgabe (C.F. Muller, 1990) 154.  14 
+ 
+of Nazi Germany are often offered as examples of such debased yet apparently legal rules.38 The positivist 
+will insist that the Nazis had laws even though their scheme of social organization failed to meet minimal 
+standards of moral decency. By contrast, the anti-positivist will suggest that while it is true that German legal 
+officials might have believed at the time that the Nazi state’s pronouncements were law, they believed falsely. 
+She might accuse the positivist of confusing what individuals mistakenly called “law” with genuine law.39 
+After all, the laws of most well-functioning states seem to be a force for moral good. Since we learn the 
+concept through examples of legal systems that are plausibly believed to be morally well-functioning, it is far 
+from obvious that moral conditions are not built into our legal concept.40 
+What seems true of such cases that separate positivists from anti-positivists is that they are hard cases 
+in the sense that it is non-obvious whether the rules in question do (or did) count as law—for instance, the 
+rule requiring the return of a runaway slave. This is because neither the positivist nor the anti-positivist line 
+on morally wicked ‘legal’ rules seems decisive; and, so, as Liam Murphy writes, most people who have spent 
+                                                      
+38 On the question of Nazi laws, see F Haldemann, ‘Gustav Radbruch vs. Hans Kelsen: A Debate on Nazi Law’ (2005) 
+18 Ratio Juris 162. See also Shapiro’s discussion of the fugitive slave act, (n10) 23, and the laws of the Soviet Union, ibid 
+16, 49. 
+39 Additional arguments favoring anti-positivism are discussed in section V. The folk understanding of law is perhaps 
+closer to the positivist line. But compatibility with the folk conception is hardly decisive, given that the folk conception 
+of law is generally error-prone. It comes apart wildly from the juridical concept of law. For example, it only takes a 
+semester of law school to disabuse students of the commonplace that all laws are to be found in statute books and 
+constitutional texts. 
+40 By analogy, consider Quine’s example of learning the term ‘gavagai’ as a non-native speaker of the language arunta. 
+WVO Quine, Word and Object (MIT Press 2013) 23–72. When a native speaker asserts ‘gavagai’ while pointing to a rabbit, 
+they could be picking out a whole host of entities, including the rabbit, various rabbit parts or stages, food, an animal, 
+and so on. We learn the legal concept by way of its application to S-rules that also tend to be M-rules, and it is hard to be 
+certain that the public concept does not track moral features of rules. 15 
+ 
+time thinking about the question ‘feel the pull of both ways of thinking about the boundary between law and 
+morality.’41  
+Even if one accepts one of these views as correct, one should still take the class of cases where the 
+theories diverge to be hard cases. In other words, one should think that neither the positivist nor the anti-
+positivist line on morally inadequate rules is obviously correct (and, accordingly, that neither positivism nor 
+anti-positivism is obviously correct).42 There are at least two arguments for why our confidence in our 
+judgments concerning the legality of morally inadequate rules should be low. The first is an argument from 
+disagreement. Experts who have thought long and hard about whether the concept of law applies in 
+borderline cases (as in the case of Nazi ‘law’) continue to disagree. Such persistent disagreement is sometimes 
+thought to reveal that the concept of law is underdetermined. There might be grounds for a pessimistic meta-
+induction from the fact that no account of the necessary and sufficient conditions for the concept’s 
+application has persuaded all competent users of legal terms to the conclusion that there are no such 
+conditions.43 But, more plausibly, persistent disagreement about the concept may be explained not by its 
+                                                      
+41 Murphy (n8) 7. 
+42 A common reaction amongst those first exposed to the dispute is to find the positivist line more compelling. The 
+ensuing discussion offers several reasons to doubt one’s instinctive reactions to such cases. 
+43 The concept <law>, the pessimists suppose, is simply indeterminate when it comes to the sort of cases philosophers 
+argue over. Leiter (n8). In this, the legal concept might be like the concept <bald>. There is no fact of the matter 
+concerning whether persons midway through the process of losing hair count as bald or not, and this is because we have 
+not even tried to achieve consensus on how to use the predicate “is bald” in borderline cases. However, the analogous 
+conclusion in the legal case strikes one as over-hasty (and overly pessimistic). The legal case is not like the case of 
+baldness given that there is no analogous disagreement about what baldness consists in or how it applies in borderline 
+cases. On the ‘conviction’ that there are determinate principles governing law’s application, see HLA Hart, ‘Definition 
+and Theory in Jurisprudence’ in HLA Hart, Essays in Jurisprudence and Philosophy (OUP 1983) 21. 16 
+ 
+indeterminacy but by the non-obviousness of facts that govern its application in hard cases.44 Indeed, anyone 
+who takes the concept of law to be sufficiently regimented for there to be a fact of the matter as to whether 
+positivists or anti-positivists are right about law—and, accordingly, a clean and determinate edge of legality—
+is under pressure to admit the hardness of cases where the theories come apart. For one needs an explanation 
+for persistent theoretical disagreement amongst epistemic peers, and the elusive character of the relevant 
+conceptual constraints looks to be the only one available. 
+The other argument for taking cases that separate positivism and anti-positivism to be hard cases 
+invokes controversial yet defensible assumptions concerning the determinants of the legal concept’s 
+application conditions. Similar assumption underwrite Timothy Williamson’s epistemic theory of vagueness.45 
+Williamson suggests that even putatively indeterminate concepts like <bald> or <thin> have determinate 
+application conditions, and their apparent indeterminacy in borderline cases is only due to our inability to 
+know the complex totality of facts that determine the precise application conditions.46 The application 
+conditions of <bald>, for example, are highly sensitive to the overall pattern in the dispositions of speakers 
+to classify persons using “bald” across a range of cases. Whatever one thinks of Williamson’s proposal 
+generally, it is very tempting to think in the case of a semi-technical concept like <law>, one that has been 
+self-consciously understood by judges and other experts as applying determinately in hard cases, that its 
+application conditions are determined not just by any particular individual’s usage of “law” but by our collective 
+dispositions (or the dispositions of a broad range of experts) to classify rules using legal vocabulary in 
+                                                      
+44 The literature on the significance of peer disagreement is extensive. For an overview, see D Christensen, 
+‘Disagreement as Evidence: The Epistemology of Controversy’ (2009) 4 Philosophy Compass 756. The argument 
+presented here sides with those who think peer disagreement provides significant reason to lower one’s credence in a 
+disputed proposition. A Elga, ‘Reflection and Disagreement’ (2007) 41 Noûs 478, 486–87. But see T Kelly, ‘Peer 
+Disagreement and Higher Order Evidence’ in R Feldman and T Warfield (eds), Disagreement (Oxford University Press 
+2010), 111–174. 
+45 T Williamson, Vagueness (Routledge 1994).  
+46 ibid 231–37. 17 
+ 
+epistemically ideal situations—that is, given perfect information about the non-legal features of rules.47 If the 
+concept is sensitive in this way to the judgment of competent speakers across many different cases, and it 
+certainly seems to have been understood by legal experts in this way, then any single individual’s 
+understanding of law is likely to be inchoate for one has no way of surveying and knowing the overall pattern 
+of linguistic dispositions in all its details.48 We have reason to be wary of our conceptual intuitions, especially 
+in cases where competent users of legal terms disagree, for these are precisely the kind of cases where the 
+overall pattern of linguistic dispositions is likely to make a difference as to which concept is expressed by legal 
+predicates.49  
+While the above arguments needn’t be decisive, especially given that the second turns on a view of 
+conceptual determination one might reject, they provide reasonable grounds for taking cases where positivism 
+                                                      
+47 Plunkett offers an account of how the legal concept might be fixed by patterns in our linguistic dispositions drawing 
+on work by Frank Jackson and David Chalmers. D Plunkett, ‘A Positivist Route to Explaining How Facts Make Law’ 
+(2012) 18 Legal Theory 139, 181–86. 
+48 Admittedly, it is controversial that the legal concept’s application conditions are sensitive in this way to patterns in 
+linguistic dispositions. For instance, ES Anderson and RH Pildes suggest an alternative ‘expressivist’ account of the 
+concept in ‘Expressive Theories of Law: A General Restatement,’ (2000) 148 University of Pennsylvania Law Review 
+1503, on which applying the concept might involve expressing a positive non-cognitive attitude towards a rule, like a 
+desire to follow it. While it is true that the current argument presupposes a view of concepts that is controversial, a 
+version of the argument goes through without this commitment. So long as one thinks that the meta-semantic question 
+about how the legal concept’s application conditions are fixed is itself hard, as one should, and that its resolution bears 
+on the positivism vs. anti-positivism dispute, then one should think that cases where the theories come apart are hard 
+cases. 
+49 The sensitivity of conceptual application conditions to slight differences in linguistic usage is the basis for Williamson’s 
+claim that whatever we might believe about the boundaries of vague concepts, we cannot have knowledge of the 
+boundaries, because knowledge must satisfy a ‘safety’ requirement: if S knows that p, then there are no nearby possible 
+worlds in which S believes p, but p is false. Given a concept’s sensitivity to slight variations in usage, there are nearby 
+possible worlds where one’s beliefs about the boundaries are false. Williamson (n45) 230–34.  18 
+ 
+and anti-positivism come apart to be hard cases.50 Notably, this is a charitable line to take towards the 
+philosophical dispute. It does not beg the question by assuming there is no way of resolving the dispute. The 
+very weak assumption is that neither positivism nor anti-positivism is obviously true.  It may be reasonable to 
+adopt either theory or suspend judgment on which is correct. Alternatively, as Bas van Fraassen has argued in 
+the case of competing empirically adequate scientific theories, some attitude that falls short of full-blown 
+belief (like ‘acceptance’) may be appropriate towards any one of a range of plausible theories of the precise 
+boundaries of legality.51 For our purposes, we need not settle the question of what to believe given the law’s 
+obscurity in hard cases. Our concern is solely with the legal ramifications of our epistemic situation with 
+respect to legality. 
+ 
+III. Judges Have Legal & Moral Permission to Ignore Legality in Hard Cases 
+ 
+Let us trace the dialectic so far. The anti-positivist and positivist disagree about whether the concept <law> 
+tracks the positivist’s preferred purely social property of rules, something like the property of being 
+conventionally embraced (call it the S-property and rules that have it S-rules) or the anti-positivist’s moral-cum-
+social property, say that of being morally good to follow given social conventions (call it the M-property and rules that 
+have it M-rules). Since S-rules are often enough also M-rules, such as when the relevant social conventions 
+involve conformity to morally good rules, the theories by and large converge in their accounts of the 
+concept’s extension—that is, on which rules count as law in a jurisdiction and which do not. Cases where 
+they come apart are hard cases: it is not obvious whether the rules in question count as law. 
+It is tempting to think that figuring out precisely whether the legal concept tracks M-rules or S-rules 
+matters for judicial decision-making. After all, judges bear responsibility for saying what the law is. To know 
+                                                      
+50 Of course, hard cases of law arise not just due to it being non-obvious which general theory of the legal concept is 
+correct. A case can also be hard for more mundane reasons, like semantic ambiguity, conflicts in rules, and evaluative 
+complexity. See discussion in sections IV and V. 
+51 B van Fraassen, The Scientific Image (Oxford University Press 1980). 19 
+ 
+how she should decide a hard case where S-rules are not also M-rules, a judge needs to understand the legal 
+concept’s application conditions. Echoing this line of reasoning, the opening chapter of Shapiro’s defense of 
+positivism begins with the promise that addressing the philosophical question has implications for how judges 
+should decide cases.52 Hart himself was explicit in his hopes that a clearer understanding of the legal concept 
+might inform judicial practice.53 Meanwhile, Dworkin defended various controversial developments in 
+American constitutional law by appeal to his anti-positivism.54  
+The suggestion that the philosophical enterprise might be relevant to judges is at least prima facie 
+plausible, but it has seen opposition.55 Legal practitioners often express disbelief that philosophical insight 
+                                                      
+52 Shapiro suggests that ‘many of the most pressing practical matters that concern lawyers’ turn on the philosophical 
+dispute. Shapiro (n10) 25–29. Shapiro goes on to claim that analytic jurisprudence bears on the correct theory of 
+constitutional interpretation. ibid 220. Farrell argues that Shapiro ultimately fails to deliver on his claims because his 
+theory entails considerable downstream disagreement about the content of law. IP Farrell, ‘On the Value of 
+Jurisprudence. Book Review: Legality’ (2011) 90 Texas Law Review 187, 221–23. Both sides presuppose law’s basic 
+normative significance for judges. 
+53 Hart, ‘Definition and Theory’ (n43) 21–22; Hart, ‘Essays on Bentham’ (n1) 158–59; Hart (n19) 209: ‘If we are to make 
+a reasoned choice between these concepts, it must be because one is superior to the other in the way in which it will 
+assist our theoretical inquiries.’ There are places where Hart seems to suggest his theory of law is not going to be helpful 
+for judges, but Hart’s reasons for pessimism concern his belief that the law is full of gaps and a theory of judicial 
+discretion in cases where the law is silent should obviously be developed independently of enquiries into law. See HLA 
+Hart, ‘Discretion’ (2013) 127 Harv. L. Rev. 652, 657. As I go on to argue, the central issue is epistemic not 
+metaphysical—it is not necessarily the actual indeterminacy of law that renders legality insignificant in hard cases, it is 
+our uncertainty about law from our evidential standpoint.  
+54 Dworkin (n15) 90: ‘Any practical legal argument, no matter how detailed and limited, assumes the kind of abstract 
+foundation jurisprudence offers. ... Jurisprudence is the general part of adjudication, silent prologue to any decision at 
+law.’ 
+55 Farrell (n52) 221–23; R Posner, Law and Legal Theory in England and America (Clarendon Law Lectures 1996) ch1. 20 
+ 
+into law’s nature could have any impact on case outcomes. But the skepticism tends to be question begging.56 
+Richard Posner, for example, insists that the philosophical debate has no significance for legal cases because 
+he is skeptical that there is any essential content to the concept <law> for the legal philosopher to discover, 
+rendering the analytic enterprise futile; and, relatedly, Posner is skeptical that philosophical argument could 
+persuade judges to adopt some particular approach to legal decision-making.57 As it turns out, one can grant 
+legal philosophy its assumptions—e.g., that competing theories of the concept do not always converge in 
+their implications; that there is a fact of the matter as to which is correct; that there are compelling 
+philosophical arguments for both positivism and anti-positivism that a judge might reasonably be persuaded 
+by—and yet still maintain that the analytic project’s relevance to a judge’s professional obligations is vastly 
+overblown. 
+  I believe the conception of the judge’s professional role presupposed within legal philosophy is 
+mistaken. It is true that judges incur duties constraining their conduct by virtue of their legal office, oaths, and 
+obligations to the public, as well as, simply, as a matter of justice. But the relevant duties do not include an 
+obligation to always treat those rules as law that are law, and certainly not in hard cases where it is not obvious 
+whether the concept applies to a candidate rule. Call the principle obliging judges to track the concept 
+perfectly ‘the principle of legality’:  
+LEGALITY:   If a rule in a case is, ex ante and independently of the judge’s judgment, the law, then 
+the judge has an obligation to follow it and declare it “law.”58  
+                                                      
+56 Posner (n55) 2–5; Murphy (n8) 4-5: ‘We can say that the issue of the nature of law, its boundary with morality, need 
+have no impact on the outcome of legal cases. … If the issue of the nature of law did affect the outcome of legal cases, 
+more people, especially more lawyers, would be interested in the topic and continuing disagreement about it would be 
+considered a problem.’ Murphy does not explain why the issue should have no impact on the outcome of legal cases. The 
+cited lack of interest in the problem might reveal only a general failure to properly appreciate the significance of the 
+philosophical debate.  
+57 Posner (n55) 2–5. 
+58 There is an epistemic version of the principle which the discussion also shows to be false. 21 
+ 
+The aim is to show that hard cases of the sort discussed in the previous section serve as counter-examples to 
+the principle: a judge does not have reasons, internal to the law or otherwise, to comply with LEGALITY.59 In 
+the light of hard cases, one can show that LEGALITY is neither an S-rule nor an M-rule—in other words, the 
+principle is neither embraced in contemporary jurisdictions as a matter of social convention nor is it a morally 
+good rule for a legal system to embrace.60 
+                                                      
+LEGALITY :  If a judge believes that a rule in a case is, ex ante and independently of the judge’s judgment, 
+EPISTEMIC
+the law, then the judge has an obligation to follow it and declare it “law.” 
+I have left open whether the nature of the obligation referred to in LEGALITY and LEGALITY  is distinctively legal or 
+EPISTEMIC
+moral. The conclusion I argue for is that LEGALITY is false on either reading of the deontic modal.  
+59 Another way to put it is that LEGALITY is neither a legal nor a moral rule. There is no legal obligation to follow legal 
+rules in every case and there is no moral obligation either. 
+60 I have assumed that for there to be a distinctively legal obligation to perform some action (say, e.g., follow the law in 
+every case), there must be a rule with the property of being law that prescribes that action as obligatory. In other words, to be 
+a legal obligation is in part to be an action deemed obligatory by a legal rule. This view leaves open whether legal 
+obligations are robustly normative like moral obligations, a species of moral obligation, or purely ‘formal’ like the rules 
+of chess. It may be that what it is to be a legal obligation just is to be an action deemed obligatory by a legal rule, and 
+what it is to be a legal rule just is to be a rule conventionally followed. The nature of legal obligation is a topic of 
+considerable controversy, but the argument of this paper is intended to be ecumenical. The argument is compatible with 
+an even stronger requirement on legal obligation, where in order for agent A to be legally obliged to φ in C, there needs 
+to be a first-order legal rule, R , obliging A to φ in C and second-order ‘backing’ rules (R R ) with the property of 
+1 2,  3,…
+being law obliging A to follow the lower order rule (R , e.g., obliges the judge to follow R …). In other words, in order 
+2 1
+for a first-order legal rule to create a robust and distinctively legal obligation, it may need appropriate ‘backing’ from 
+higher-order legal rules that oblige the relevant actor to follow the first-order rule precisely on account of its legality.  
+   I have suggested that rules be construed as functions from circumstances to actions, and one might worry 
+about how to make sense of a rule that invokes a normative notion like requirement or obligation. We can conceive of 
+rules specifying obligations as function mapping circumstances to action-types that are ruled out, which is just to say that 
+in following such rules, we never perform the relevant type of action in the appropriate circumstance. An agent 22 
+ 
+  First, LEGALITY is not an S-rule, or at the very least we lack grounds for supposing that it is 
+conventionally embraced. One might be misled into thinking otherwise by the oft-repeated platitude that 
+judges have a duty to strictly follow the law. Not just legal officials but the general public as well tend to 
+endorse this common sentiment, and it is tempting to infer from it both a general expectation that judges will 
+conform to the principle and actual conformity by judges.61 But the inference would be mistaken. The fact 
+that it is widely accepted in modern jurisdictions that judges should obey the law does not entail that strict 
+conformity with LEGALITY is generally expected or desired of judges. The assertion “judges should always 
+follow the law” is ambiguous. On one interpretation, the speaker has particular rules in mind that happen to 
+fall under the legal concept in her jurisdiction: for instance, rules stated in the American Constitution 
+forbidding cruel and unusual punishment and unjust takings, canons of statutory interpretation, prior judicial 
+pronouncements, and so on.62 She might use the concept <law> to pick out these specific rules and believe 
+that judges should strictly follow them quite apart from whether (and for what reason) the rules fall under the 
+legal concept. For instance, her belief that American judges should follow rules stated in the Constitution may 
+be based on her reverence for the values enshrined in it. But a quite different (and more complex) thought 
+one might express in making the assertion “judges should always follow the law” is that judges should follow 
+all and only those rules that fall under the concept <law>, without having specific rules in mind. 
+The familiar de re / de dicto distinction marks these two different senses of an assertion and applies 
+also to beliefs and desires. I desire de re to read a novel by Virginia Woolf if I have a particular novel in 
+mind—say, ‘To the Lighthouse’—one that I believe satisfies the description: a novel written by Virginia Woolf. I 
+                                                      
+following such a prescriptive rule makes sure that she only performs an action in the relevant circumstance that isn’t of 
+the forbidden type. In other words, obligatoriness can be cashed out in terms of the nature of the function or its role in 
+our practical deliberation and action.  
+61 For data on public beliefs about and evaluation of judging, see JM Scheb and W Lyons, ‘The Myth of Legality and 
+Public Evaluation of the Supreme Court’ (2000) 81 Social Science Quarterly 928, 938: ‘Americans who believe the Court 
+bases its decisions on [legality] are more likely to render positive assessments of the Court.’  
+62 U.S. Const. am. 5. 23 
+ 
+desire it de dicto if I desire to read any novel that satisfies the relevant description. Knowing whether a novel 
+was in fact written by Woolf is quite important if your goal is to satisfy my de dicto desire. On the other hand, 
+if you know precisely which novel I have in mind when I express the de re desire, you need not know whether 
+it satisfies the description I use to refer to it in order to help me achieve my ends. 
+  The generally embraced platitude that judges should follow the law supports LEGALITY only if 
+individuals de dicto desire or expect that judges will follow the law. But the de dicto interpretation is implausible.  
+A person’s reasons for requiring judges to follow rules that happen to be legal, like constitutional prohibitions 
+against restricting free speech or religion, will likely implicate a wide range of moral and prudential concerns. 
+Since how judges rule on the bench is a matter of some political importance to individuals, it seems unlikely 
+that persons would want case outcomes to be determined by a pre-established legal concept whose precise 
+contours may or may not line up with their preferred policy preferences.  
+A less cynical reason for favoring the de re over the de dicto interpretation of public expectations 
+concerns the opacity of our legal concepts. It is simply not clear, even to those who have considered the issue 
+carefully, what is entailed by the de dicto claim that judges should follow the law in cases where M-rules and S-
+rules come apart. In the case of the Fugitive Slave ‘laws,’ for instance, it is uncertain whether the rules that 
+happened to be declared “law” by judges really were. In attributing a de dicto desire to the public, we would be 
+committed to thinking that individuals want judicial behavior to be constrained in ways whose consequences 
+are uncertain, and by a concept whose precise contours most of us perceive rather dimly. In general, we 
+should be wary of attributing to persons de dicto desires with less than transparent aims because it renders 
+persons and their interests hard to rationalize.63 
+  While the above considerations are far from decisive, they shift the burden of justification on the 
+proponent of the de dicto interpretation of the widely-held platitude in support of LEGALITY. No legal 
+                                                      
+63 The argument for why persons would be hard to rationalize if they had such desires comes later. It suffices for the 
+present view to suppose that even if persons think judges should obey the law de dicto, their commitment to this principle 
+is probably very weak.  24 
+ 
+philosopher, as far I one can tell, has ever addressed the issue. The de re interpretation (along with several 
+others)64 of the platitude that judges should follow the law strongly undercut support for LEGALITY as a 
+conventionally embraced and supported rule. 
+ My suspicion is that upon considering hard cases, where it is unclear whether the legal concept 
+applies to a rule, most of us would be disinclined to think judges should follow a rule simply because of its 
+legality (in part because this is clearly the rational response to hard cases, as we shall see in a moment). It 
+seems reasonable to assume, at least tentatively, that what the public expects is for judges to always follow 
+paradigmatic legal rules—those familiar jurisdiction-specific rules that both anti-positivists and positivists can 
+and should agree fall under the concept.65 There is no room to infer from this de re expectation a further 
+general expectation or practice of judicial conformity to the principle of LEGALITY. 
+Perhaps grounds for thinking LEGALITY is conventionally embraced (and, accordingly, an S-rule) 
+might instead be found in judicial promises and constitutional rules. But the actual content of judicial oaths 
+and constitutions in modern legal systems suggests otherwise. The American oath of office for judges 
+includes the words: “I … swear (or affirm) that I will administer justice without respect to persons, and do 
+equal right to the poor and to the rich, and that I will faithfully and impartially discharge and perform all the 
+duties incumbent upon me …. under the Constitution and laws of the United States.” The oath speaks of 
+duties incumbent under the constitutions and the laws, but leaves the specific content and character of these 
+duties unspecified. Whether these duties include conformity to the principle of LEGALITY is entirely 
+                                                      
+64 Even if the de dicto interpretation were correct, this wouldn’t necessarily support LEGALITY. It might be that what 
+individuals have in mind when they assert ‘judges should follow the law’ is something like a prima facie or pro tanto 
+obligation to follow the law de dicto as opposed to a decisive obligation. There are other readings of the platitude that 
+similarly undercut support for LEGALITY. It isn’t clear whether the assertion ‘judges should follow the law’ is a generic 
+claim (like ‘Mosquitoes carry the West Nile virus’) as opposed to a universal generalization. A claim that the generic 
+judge or judges generally should follow the law de dicto would not imply that all judges in every case have an obligation to 
+follow law de dicto. 
+65 For example: well-established constitutional rules, detailed and clearly stated statutory requirements, and so on. 25 
+ 
+underdetermined. Moreover, while Article VI of the U.S. Constitution specifies that judicial officers “shall be 
+bound by oath or affirmation, to support this Constitution,” it is hardly obvious that support for 
+constitutional legal rules entails upholding all rules that fall under our legal concept.  There is simply no clear 
+statement of a rule, in the Constitution or elsewhere in American law, that requires judges to fetishize the 
+concept <law> by following only those rules that fall under the concept simply for falling under the 
+concept.66 The American oath of office and legal background are not at all unusual in this respect compared 
+to the laws of other jurisdictions.67  
+  It is one thing to repudiate the notion that LEGALITY is conventionally embraced, and quite another 
+to show that no ideal legal system or public would adopt the principle given the possibility of hard cases. It is 
+the normative question we turn to now: whether there is reason to want judicial behavior to be constrained by 
+the legal concept in all cases. This relates to the question: could LEGALITY be an M-rule? For even it is not in 
+fact followed as part of an established convention, the principle’s moral characteristics—like its being a good 
+principle for judges to follow—might render it legal. On Dworkin’s theory, for example, the fact (if it is one) 
+                                                      
+66 Rule 2.2. of the American Bar Association’s Model Code of Judicial Conduct notes that judges shall uphold and apply 
+the law fairly and impartially. But this is far from a clear statement of LEGALITY. The comments acknowledge the 
+appropriateness of each judge bringing her own personal philosophy of interpretation to bear on the law. The only form 
+of judging the code explicitly prohibits is deciding what the law is based purely on personal taste. 
+67 No de dicto promise to obey all and only legal rules is to be found in the British, Australian, and Swedish versions of the 
+judicial oath. While the Indian Constitution requires judges to ‘uphold the Constitution and the laws,’ the use of the 
+plural form suggests reference to a plurality of legal rules rather than to any rule with the property of being law. The 
+German oath requires judges to ‘fulfill the duties of an honorary judge … faithfully to the law’ and adds a requirement 
+‘to serve only truth and justice.’ It would be question begging to assume that fulfilling the duties of the judicial office and 
+fidelity to law involve respecting law de dicto. As I go on to argue, it is far more reasonable to interpret such requirements 
+de re, in terms of paradigmatically legal/constitutional rules. Could there be a jurisdiction that explicitly incorporated 
+LEGALITY qua legal rule? Of course. But it suffices for present purposes that most jurisdictions are not like this and that 
+LEGALITY is not an essential feature of legal systems. 26 
+ 
+that LEGALITY is a morally good principle for judges to follow would give us reason to charitably interpret 
+our practices—the platitude that judges should follow the law, judicial oaths, constitutional rules, and so on—
+in a way that supports LEGALITY, even if our practices do not in fact involve commitment to such a principle. 
+And so, we have not yet ruled out the possibility that LEGALITY may be binding on judges qua legal rule on 
+anti-positivistic grounds.     
+There are practical consequences to a rule’s being called “law” by judicial officials. Rules declared 
+“law” are enforced by the state and obeyed by others. The moral question is: how should judges decide which 
+rules to call “law” in hard cases given the significant consequences of their speech acts? One way to address 
+this question is to entertain the perspective of an institutional designer—someone with power and ability to 
+decide which general principles will govern judicial decision-making.68 The principle of LEGALITY is an 
+example of a decision criterion the institutional designer might impose on judges in hard cases, one that tasks 
+judges with the responsibility, in deciding which rule to follow, of tracking the legal concept whatever its 
+precise constraints turn out to be. 
+The inferiority of LEGALITY as a decision criterion—or higher-order rule for deciding cases where 
+first-order legal rules are hard to figure out—can be brought out by considering how we might weigh the 
+following alternatives: (a) a rule that requires judges to follow and declare as “law” all and only M-rules, and 
+(b) one that requires judges to follow and declare as “law” all and only S-rules. Note that, depending on 
+whether the positivist or anti-positivist is right about <law>, one of these will have the same implications as 
+LEGALITY for which rules judges should regard as law. Between the two principles, we would naturally prefer 
+the criterion that when employed by judges would make things go morally best, all things considered.69 If, for 
+instance, judges are bad at identifying morally good rules (rules that it would be morally good for us all to 
+                                                      
+68 The perspective of the institutional designer is intended merely as a heuristic: a means of identifying a moral ideal for 
+the design of a judicial system. 
+69 If one dislikes this way of putting it which assumes consequentialism in ethics, we can instead say: the institutional 
+designer should pick whichever decision criterion has all the moral right-making features.  27 
+ 
+follow), the positivistic principle of law-declaration would be best from the institutional point of view, for it 
+does not require of judges that they appraise the moral features of rules in deciding which rules to follow. 
+But note that in deciding between the two principles, extensional equivalence with LEGALITY is 
+irrelevant. The institutional designer should not care whether M-rules or S-rules are the ones our concept 
+<law> has been tracking all along. Knowledge of the conceptual fact simply does not bear on what the best 
+criterion is that judges should be using. Suppose we find it would make things go best if judges obeyed and 
+pronounced as “law” rules that have the Hartian S-property. This is possible despite M-rules being the ones 
+that meet a minimal degree of moral acceptability when obeyed. If it is best for judges to decide cases using S-
+rules from an institutional design stand-point, this fact is in no way undermined by a discovery that our 
+concept <law> has tracked M-rules all along. Indeed, it would be implausible to think that, as users of the 
+concept, we fixed on the M-property as opposed to the S-property precisely because it was the property it 
+would be best for judges to track in deciding cases. Far more plausible is the assumption that judges and 
+other users of the legal concept latched on to a property of rules that serves as an adequate—rather than 
+best—basis for judicial decision-making.70  
+The point can be motivated using a non-legal example. Suppose one becomes interested in the 
+ordinary concept <marriage> because relationships that fall under the concept seem worth valuing. An 
+examination of what marital relationships have in common might reveal a range of properties that make them 
+valuable. Should it matter, ultimately, which of these features is essential to the ordinary concept? It should 
+not if the aim is to identify relationships worth valuing. There may be features that are not essential to 
+marriage but nevertheless typically found in marital relationships that make them valuable—like romantic 
+devotion. In other words, one might discover upon reflection on the nature of marriage, features that are 
+more relevant to the normative question than whatever it is that is essential to all and only those relationships 
+that fall under the ordinary concept <marriage>. Moreover, in cases where it is non-obvious whether a 
+                                                      
+70 We shall return to this point in section IV when addressing objections to the view—in particular, the objection that 
+the legal concept might already be optimally tailored to our ends. 28 
+ 
+relationship counts as a marriage because the ordinary concept’s precise application conditions are obscure,71 
+the question of whether the relationship is worth valuing should be decided independently of whether it 
+counts as a marriage. For deciding the conceptual question involves deciding an issue that is irrelevant to the 
+evaluative question—namely, which features of relationships have we been sensitive to in classifying certain 
+ones as “marriage.”72 A relationship’s value is determined by its intrinsic features; not by our sensitivity to 
+those features within our linguistic practices.  
+The concept <law>, like the concept <marriage>, is a practically significant category. In well-
+functioning legal systems, rules that fall under the concept are at least typically ones we morally ought to 
+obey. Accordingly, an institutional designer trying to find a decision criterion for judges to use in hard cases 
+that would make things go morally best would do well to study the legal concept. She might discover features 
+of rules that it would be beneficial for judges to track and use to decide cases. But, ultimately, the legal 
+concept will be useful only in the limited way the concept <marriage> is useful to someone interested in the 
+defining features of valuable relationships. In cases where the legal concept’s application to candidate rules is 
+uncertain because the precise application conditions are obscure, the institutional designer should determine 
+what rules judges should follow based on their non-legal features rather than their legality. Their legality is not 
+just obscure; it is of no intrinsic moral significance, being a function of our entirely contingent sensitivity to 
+certain non-legal features of rules over others.73 
+                                                      
+71 Consider a case where a couple has lived together for several years under the false belief that they were officially 
+married by a priest who turns out to be an unlicensed charlatan. The ordinary concept’s application, I submit, is obscure. 
+72 Could our sensitivity to certain features reflected in the precise conceptual constraints be an indirect yet ultimately 
+useful guide to value? Perhaps. But, in all likelihood, the conceptual constraints are arbitrary. I address this concern more 
+fully in the next section. 
+73 If the boundaries of the concept were obvious, the analysis would be different. If the law were clear, determinate, and 
+antecedently recognizable, there would be reason to follow it at least in part because those who are subject to the law’s 
+demands act based on their reasonable expectations concerning the law, and there are good reasons not to frustrate 
+reasonable expectations. Moreover, there may be reasons for judges to treat legality as though it were intrinsically 29 
+ 
+Fully specifying the ideal decision criterion for judges to use in hard cases is beyond the scope of this 
+paper. But we must resist the temptation to think that just because we have not settled on an answer to this 
+difficult question of institutional design, our default rule must be one that requires judges to fetishize the legal 
+concept. LEGALITY cannot be a default rule that defines the judge’s role precisely because the concept used 
+to state the principle is far from transparent: it is not clear what the principle commands judges to do in hard 
+cases.  
+To sum up, the conception of the judge’s role I have defended invokes, first and foremost, a negative 
+thesis: the legal rules that govern judicial decision-making do not include one that mandates treating all and 
+only those rules as law that fall under the legal concept just because they are law. This negative thesis is 
+compatible with the view that judges should resist the temptation to treat rules as law based on whether doing 
+so would maximize morally good outcomes. In other words, the view is in principle consistent with a 
+traditionally conservative take on how judges should ultimately decide hard cases.  
+Can we say, more positively, what a judge’s professional duties are when it comes to deciding hard 
+cases, if the duty isn’t simply to follow the law as such, or, for that matter, to follow rules the judge believes 
+to be law?74 One might worry that my argument generalizes and undermines any distinctively legal theory of 
+judicial professional responsibility for hard cases, and not just one according to which the principle of 
+LEGALITY best characterizes the judge’s legal obligations. Consider the second-order question: what legal rule 
+governs judicial decision-making when a judge confronts a hard first-order question of law? As a reminder, 
+the judge confronts a hard first-order question of law when there are two or more incompatible first-order 
+rules—say, an M-rule and an S-rule—that would decide the question, but it isn’t perspicuous which has the 
+property of being law. First-order legal rules are rules prescribing actions or outcomes in circumstances 
+                                                      
+significant when the law is clear that do not apply in cases where the law is non-obvious. The obscure edge of legality is 
+thus critical to the overall argument for why judges have authority to ignore law. The issue is discussed in further detail 
+in section IV.  
+74 Thanks to Joseph Raz and an anonymous referee for Law & Philosophy for discussion on this issue. I have benefited 
+greatly from their objections and comments. 30 
+ 
+characterized in non-legal terms (in terms that do not involve reference to other legal rules): e.g. if a defendant is 
+convicted of murder, he shall be imprisoned for life. Second-order legal rules make essential reference to legality, either 
+by referring to other legal rules or some legal status: e.g. when confronted with an illegal statute, the judge is obliged to 
+strike it down. Suppose that the second-order question—how, from the law’s point of view, should the judge 
+decide a hard case?—is itself hard: as between various second-order decision rules the judge might follow 
+(LEGALITY; a principle that prescribes following the M-rule in hard cases quite apart from the M-rule’s 
+legality; one that recommends following the S-rule in hard cases; and so on), the legality of any particular 
+decision rule will be subject to reasonable disagreement.75 By my own lights, the legality of a rule is not 
+sufficient to generate a legal obligation to follow it. When a candidate rule’s legality is not perspicuous and 
+subject to reasonable disagreement, judges are not obliged to follow the rule even if they correctly believe it to 
+be legal. A rule’s being legal but not perspicuously so undermines its normative significance qua law, because 
+there is no general rule with the property of being law that directs judges to always follow the law when the 
+law is not perspicuous. So, even if there is some higher-order decision rule other than the principle of 
+LEGALITY with the property of being law, this will not entail that judges have a legal obligation to follow it, 
+given that its legality will be at best non-perspicuous.76  
+There are several things to say about this line of reasoning. First, suppose it is true that there are no 
+second-order legal rules for deciding hard cases that judges are obliged to follow simply on account of their 
+                                                      
+75 Thanks to an anonymous referee for raising this worry. 
+76 There is a general view of distinctively legal obligation at work throughout this paper. Legal obligations arise when a 
+rule specifying a type of action as obligatory has the property of being law. And there can be higher-order legal rules that 
+oblige actors to follow the law in various contexts. E.g. the principle of LEGALITY, if it were conventionally embraced, 
+might be such an obligation-generating rule. For our purposes, there is no need to settle the hard question of whether 
+legal obligations are genuine (in the sense of having the same kind of normative force as moral obligations) or purely 
+‘formal,’ like the rules of chess. On formal vs. robust normativity, see e.g. Stephen Finlay, “Defining Normativity,” in (D. 
+Plunkett, S. Shapiro, K. Toh, Dimensions of Normativity: New Essays in Metaethics and Jurisprudence, OUP, 2018. See also 
+discussion in fn. 60. 31 
+ 
+legality because their legality is non-perspicuous. It remains an open question whether judges might be morally 
+obliged to decide hard cases in some particular way. The moral question would be a natural one to ask if the 
+legality of decision rules is irrelevant from the point of view of a judge deciding a hard case. We shall consider 
+an answer to this moral question in a moment. But quite apart from how that question is settled, it would be 
+an important result in its own right that there are no distinctively legal obligations—that is, no rules with the 
+property of being law that the judge is legally obliged to follow on account of their legality—in hard cases. 
+This result would turn on (a) the absence of a general legal rule that directs judges to always follow the law, 
+even when the law is not perspicuous; and (b) the legality of all second-order rules for deciding hard-cases 
+being non-perspicuous. If (a) and (b) hold, it would be pointless for a theory of judging to be concerned with 
+what the law is in hard cases, either at the first-order or second-order level, at least if the theory aims to be 
+practical and action-guiding. 
+  But I doubt that the general application of my argument to the legality of second-order decision rules 
+is sound. The claim was never that mere disagreement about the legality of rules results in a hard case in the 
+relevant sense. The argument that cases where S-rules and M-rules come apart are hard appealed not just to 
+reasonable disagreement about whether S-rules or M-rule are law, but on the nature of the evidence that 
+would settle the issue: the complex and hard-to-access facts that determine the application conditions of the 
+juridical concept of law.77 Given the difficulty in discerning precise conceptual application conditions, 
+reasonable disagreement on whether M-rules or S-rules are law is likely to persist. The argument against 
+LEGALITY focused on such extreme cases of legal ‘anti-luminosity.’ There is no general rule that is 
+conventionally embraced or one that is morally compelling that obliges judges to follow the law as such even 
+in such extreme cases. That is, there are no clear conventions of law-following in such cases, and neither is 
+there moral reason to fetishize law in such cases. So, it does not follow from the argument developed here 
+that mere disagreement about which higher-order decision-rules are legal rules is sufficient to undermine the 
+possibility of such rules obliging judges simply on the account of their legality.  
+                                                      
+77 See discussion in section II. 32 
+ 
+  Secondly, it is not at all obvious that there is or can be reasonable disagreement concerning the 
+legality of all second-order decision-rules for hard cases. So long as there are reasonably clear conventions in a 
+jurisdiction for how to decide hard cases that also happen to involve decision-rules that are morally quite 
+defensible, then lack of clarity concerning the precise contours of the legal concept certainly won’t render a 
+candidate decision-rule’s legality non-perspicuous. The argument of this paper shows only that the legality of 
+rules is subject to reasonable disagreement (and juridically insignificant) when the rules conventionally 
+followed come apart in dramatic ways from the rules morally favored. But that is consistent with there being 
+morally good and conventionally embraced rules within our legal system for deciding hard cases.  
+Indeed, there are plenty of examples of morally good conventionally embraced decision-rules for 
+hard cases that seem to be perspicuously law. It is fairly uncontroversial that judges cannot decide what to do 
+in hard cases on the basis of mere whim or in deliberately immoral ways. In other words, it seems a plausible 
+legal rule governing hard cases—one conventionally embraced within developed jurisdictions and morally 
+sound—that judges must be principled and not have as one of their ultimate (or ‘final’) reasons for favoring a 
+particular decision-criterion that it results in immoral outcomes (which is, of course, consistent with following 
+a rule because one deems it immoral but not ultimately for the sake of its immorality). These legal constraints 
+on judging in hard cases leave a lot underdetermined regarding the precise outcome that the judge is (legally) 
+obliged to pursue. But the main point is just that the argument of this paper is compatible with there being 
+some legal rules that do bind judges in hard cases simply on account of their legality, such that failing to follow 
+such rules amounts to a failure of professional duty. American judges, for example, consent in their 
+professional undertaking to abide by rules of principled decision-making even in hard cases. 
+So, it is a positive result of our discussion that although the principle of LEGALITY is not itself a legal 
+rule constraining judges, there plausibly are distinctively legal norms governing juridical decision-making in 
+hard cases. The edge of legality is not a legal free-for-all. Even if the legality of first-order rules does not 
+matter in such contexts on account of first-order uncertainty, uncertainty at the first-order level does not 
+translate into sweeping higher-order legal uncertainty.  There are higher-order rules that oblige judges and are 
+perspicuously legal: 33 
+ 
+PRINCIPLE PRINCIPLE:   In hard cases, judges must declare rules as “law” in a principled way 
+PRINCIPLE PRINCIPLE is quite plausibly the law and perspicuously so.78 A careful study of the conventions 
+within jurisdictions and reflection on morally ideal institutional design might result in the discovery of even 
+more fine-grained distinctively legal norms governing hard cases. But that study is a project for a different 
+paper.  
+Does the positive claim, that judges must follow some legal rules simply on account of their legality 
+even in hard cases, vindicate LEGALITY? The view imputes to legal systems a higher-order rule that permits 
+judges to ignore the legality of first-order rules in hard cases and requires only that judges decide cases in a 
+principled way. For example, when a judge decides whether to declare a morally abhorrent but conventionally 
+embraced rule as the law, she can ignore whether the rule is in fact law in deciding what to do. Instead of the 
+rule’s legality, her decision might be guided by the principle of doing what is morally best out of a sense that 
+the law requires her to make some principled decision. So, it seems, contrary to the paper’s negative claim, 
+judges do end up following the law as such in hard cases and indirectly comply with LEGALITY by complying 
+with the PRINCIPLE PRINCIPLE as a legal rule.  
+The fact that PRINCIPLE PRINCIPLE is a higher-order rule that judges are legally obliged to follow on 
+account of its legality does not entail that judges must follow the law as such in hard cases. At best, judges 
+should follow a higher-order legal rule—one that leaves the precise outcome to pursue in a hard case open—
+while ignoring the legality of first-order rules. There is simply no obligation to follow the law tout court in hard 
+cases. 
+As mentioned earlier, even if it turns out that legality is simply not what matters at any stage of 
+juridical deliberation about what to do in hard cases (because even a rule like the PRINCIPLE PRINCIPLE is at 
+best only non-perspicuously legal), a theory of judging can fruitfully engage with the question what are judges 
+                                                      
+78 I have taken for granted that judges are legally obliged to remain faithful to well-recognized and paradigmatic laws (in 
+the de re sense)—that is, there is a legal rule requiring judges to follow clear cases of law. That seems to be to be a truism, 
+and the only plausible reading the platitude that judges should follow the law. So, there is a distinctively legal obligation to 
+follow PRINCIPLE PRINCIPLE just because it is the law. 34 
+ 
+morally obliged to do quite apart from the law? Again, answering this question is not the point of this paper. But if 
+the correct moral theory turns out to be some form of rule-consequentialism, the answer to the moral 
+question will have the following form: 
+RULE-CONSEQUENTIALIST JUDGING:   In hard cases, judges (morally) must declare rules as “law” 
+based on principles and decision criteria that if widely 
+followed by judges would make things go morally best, all 
+things considered.  
+RULE-CONSEQUENTIALIST JUDGING is consistent with the claim that judges should, both legally and 
+morally, remain faithful to well-recognized and paradigmatic laws (in the de re sense) and make a good faith 
+attempt to figure out what the law is. It entails, only, that in hard cases where the line between legal and non-
+legal rules is unclear, judges have a moral obligation (and legal permission, so long as the argument of this 
+paper is sound) to follow whichever principle for law-declaration would be morally best from the general 
+institutional point of view.79 
+                                                      
+79 It is important to see why this view does not amount to a form of anti-positivism. Even the positivist can agree that a 
+judge may be under a moral obligation to decide hard cases on the basis of moral principles. But this does not entail that 
+there is a legal obligation to decide cases on the basis of such principles. It would entail it if one were to assume the truth 
+of anti-positivism. 
+The distinction between my view and the anti-positivist’s concerning what is legally required in a hard case is practically 
+quite significant. Here’s an illustration of why it matters. Many judges are (rightly) concerned with their distinctively legal 
+obligations -- they refuse to act contrary to them. Suppose such a conscientious judge is a positivist. She will only rely on 
+moral considerations, if at all, when she thinks the positive law runs out. Suppose such a judge confronts a case where 
+she thinks there is positive law (it hasn't run out) but realizes that her judgment about there being positive law is 
+debatable -- the positive law isn't perspicuous (it’s a hard case).  If I'm right, I've given her reasons to rule on the basis of 
+moral considerations (ignoring her own beliefs about what the law is) consistent with her positivism and her 
+conscientious commitment to following her legal obligations. She isn't doing anything legally wrong. By contrast, an anti-
+positivist cannot convince her to ignore what she believes to be law without begging the question against her positivism 35 
+ 
+ 
+IV. Objections and Replies 
+ 
+Some might consider it a reductio of my view that it entails judges can satisfy their professional obligations 
+despite deliberately ignoring the law. In difficult cases where S-rules and M-rules come apart, the claim is it is 
+simply irrelevant to what judges should be doing that historically “law” has been associated, say, with S-rules. 
+If it is institutionally best for judges to be tracking and pronouncing M-rules “law” in hard cases, then the 
+judge is legally permitted (and maybe morally obliged) to ignore what the law is and declare the M-rule “law.” 
+Is this not tantamount to a fraud on the public? Relatedly, one might think that by declaring rules to be law 
+while believing them not to be law, the judge is morally blameworthy for being deceptive.80 
+  As I have argued, cases where ignoring preexisting law is legally and morally appropriate are ones 
+where it is not obvious what the law is. A judge who pronounces an M-rule “law” because of her sincere 
+belief that her pronouncement conforms with what institutional designers would expect of judges need not 
+be certain that all and only M-rules are law. The judge can in good conscience decide the case as though she 
+were an anti-positivist. Even if the judge is for some reason certain that positivism is true, she should not be 
+criticized for deviating from what she believes to be law insofar as she employs the morally best decision-
+criterion for judges. The entire point of the previous discussion was that a judge can have respect for the law 
+(or, better yet, respect for laws) in a way that fully satisfies her legal duties despite ignoring the law in hard 
+cases. Even if she is morally blameworthy for calling a rule law while not believing it to be law (though it 
+should be noted that it is highly controversial whether moral blame attaches to all instances of deceptive 
+conduct or pretense),81 I have primarily been interested in the question whether the judge is criticizable from 
+                                                      
+and her commitment to the principle of legality.  
+Thanks to Kevin Clermont for encouraging me to make this explicit. 
+80 Thanks to an anonymous referee for raising this worry. 
+81 On the question of whether moral blame attaches, the juridical context might be one where pretense is morally 
+appropriate, because the practice or conventions within the legal system authorize it. I have argued elsewhere that our 36 
+ 
+the law’s point of view. She would be legally criticizable if she were violating an explicit or implicit legal rule that 
+governs her conduct. But, as argued, no legal rule requires her to conform her law-declaration to her beliefs 
+about the law in hard cases, because there is no legal rule that obliges the judge to follow the law as such and in 
+every case. 
+There is a different objection to the overall view that appeals to the interests of those held 
+accountable under legal rules, one that might seem especially compelling when illustrated using the example 
+of criminal law (and its nullum crimen sine lege, nulla poena sine lege principle).82 Individuals act based on their 
+expectations of what the law is and there are good reasons to avoid frustrating reasonable expectations. The 
+ideal that laws be antecedently recognizable has been deemed central to law by a broad range of legal 
+theorists.83 In the case of criminal law, it seems especially important from the point of view of justice not to 
+hold individuals accountable under rules that could not have been antecedently recognized by them as legal, 
+given the severe consequences of being found to have violated the criminal law. But the proposed view of 
+judicial obligations neglects this fairness constraint. If it is a conceptual fact that only S-rules are law, then 
+calling an M-rule “law” and punishing a person under it offends against principles of justice having to do with 
+adequate notice and fair warning.  
+The objection from citizens’ reliance on law only goes through if the kind of linguistic infidelity the 
+view permits frustrates the reasonable expectations of persons. But since it is very unclear whether the 
+ordinary concept tracks M-rules or S-rules, persons are unlikely to have (reasonable) expectations about 
+whether judges will follow one sort of rule or the other in borderline cases where the two come apart. The 
+point can be made more generally and not just with respect to cases that separate positivism from anti-
+positivism. Hard cases of law where it is difficult to discern what the preexisting law is arise not just because 
+the legal concept’s application conditions are non-obvious, but also due to more familiar factors, such as 
+                                                      
+practices can change our default moral obligations. “Legal vs. Factual Normative Questions,” Notre Dame Journal of Law, 
+Ethics, & Public Policy (forthcoming).  
+82 ‘No crime without law, no punishment without law.’ 
+83 See, e.g., L Fuller, The Morality of Law (Yale University Press. 1964). 37 
+ 
+semantic ambiguity in the statement of rules, uncertainty about judicial practice, evaluative complexity, and so 
+on.84 Are judges, in adjudicating such cases, obliged by considerations of fairness to take into account the 
+reliance interests of those in the business of trying to do as much as could conceivably be permitted by law 
+(Holmesian “bad men,” in other words)?85 It seems not. A much more plausible view is that citizens should 
+not stray into the ‘gray zone’ or edge of legality; or, at the very least, that if they do, they give up reasonable 
+grounds for complaint when their conduct is judged to be illegal. To the extent that people do have 
+reasonable expectations about law, we serve that interest as I suggested before in discussing what the public in 
+fact expects of judges: by examining the paradigmatically legal rules of a jurisdiction—that is, the clearest cases 
+of law.86 
+The question of whether and to what extent laws need to be antecedently recognizable was front and 
+center during the Nuremberg trials after World War II. There was considerable anxiety over holding Nazi war 
+criminals liable under rules whose basis in prior international law was dubious. The criminalization of 
+aggressive war in particular was seen as something of a legal novelty.87 The agents of Nazi Germany could 
+hardly have expected that the rules pronounced as international law at Nuremberg would be and yet, as David 
+Luban has argued, an ideal of the rule of law that would prohibit such pronouncements, one that would 
+                                                      
+84 Dworkin (n9). My argument applies to such cases as well, so long as reasonable judges can disagree about the content 
+of the law and the disagreement is evidentially intractable: it turns on hard to access empirical and moral facts. 
+85 OW Holmes, ‘The Path of the Law’ (1987) 10 Harvard Law Review 457, 459: ‘If you want to know the law and 
+nothing else, you must look at it as a bad man, who cares only for the material consequences which such knowledge 
+enables him to predict, not as a good one, who finds his reasons for conduct, whether inside the law or outside of it, in 
+the vaguer sanctions of conscience.’ 
+86 An issue I have not discussed here but analyze elsewhere is the precise relationship between the degree of ex ante 
+certainty about the law on some issue and the law’s intrinsic normative significance for judges. The claim defended is 
+that as the degree of ex ante certainty about law diminishes so does legality’s normative significance.  
+87 D Luban, ‘The Legacies of Nuremberg,’ (1987) 54 Social Research 779. 38 
+ 
+“require lifelong protection for the elite of a genocidal regime,” would not be worthy of respect.88 In the case 
+of Nazi Germany, the wickedness of the Nazi state deprived its agents of a reasonable complaint against 
+being punished for their complicity after a fair trial. Relatedly, if considerations of justice favor our calling M-
+rules as opposed to S-rules “law” going forward, these are not defeated by the fact that some citizens (say, 
+die-hard positivists) expect law at the margins to be constrained by entirely non-obvious conceptual facts.  
+ 
+ 
+V. Closing Remarks and A Reply to Dworkin 
+ 
+While not all theoretical inquiries need to be justified in terms of their practical upshot, our interest in the 
+category of law is chiefly practical. Legal officials, among others, are tasked with the responsibility of figuring 
+out what the law is, and it matters that they do this job correctly. The argument from judicial role highlights a 
+way in which legal philosophical investigation can become untethered from its practical moorings. If judges 
+need not be concerned with legality in hard cases, where the concept’s application is non-obvious, then 
+nailing down the precise application conditions does not serve judicial ends. The project of conceptual 
+analysis in legal theorizing needs a different justification than the one traditionally given: namely, that 
+answering the conceptual question will help judges comply with their legal obligations better. 
+  The more positive lesson to draw from the argument is that there remains room for several juridically 
+significant philosophical projects. Theorists offering candidate analyses of the concept of law can afford to be 
+less concerned with getting the legal concept’s extension exactly right and instead focus on ensuring that if 
+judges were to rely on the suggested analysis in cases where there is disagreement over the concept’s 
+extension, they would be acting in ways that are morally best. In other words, the debate between positivists 
+and anti-positivists might be re-oriented around the moral and political question: what criterion of law-
+declaration for hard cases results in morally sound judicial decision-making generally? There is, relatedly, an 
+                                                      
+88 ibid 800. 39 
+ 
+important project that is part sociological and part moral. It involves figuring out the precise conventions 
+amongst judges for deciding hard cases within jurisdictions that involve morally good (even if not ideal) 
+decision-criteria. These conventionally embraced morally good rules might be perspicuously legal, like the 
+PRINCIPLE PRINCIPLE, and, if so, would provide additional content to the distinctively legal obligations that 
+constrain (or purport to constrain) judges within jurisdictions simply on account of their legality. What that 
+set of conventionally embraced and morally good rules won’t include, we can be reasonably sure, is 
+LEGALITY. 
+The suggestion that legal philosophy would benefit from being re-oriented around a normative 
+inquiry is by no means novel.89 It has been suggested that positivists and anti-positivists may have been 
+implicitly debating a normative question—something like: which conception of law is best for us to use?—
+despite seeming to debate the actual contours of a fixed concept.90 Nevertheless, we have discovered reasons 
+                                                      
+89 See, e.g., Schauer (n28) 493; Murphy (n8) 9: ‘So the methodology I favour for thinking about the boundary of law is 
+what could be called a practical political one: the best place to locate the boundary of law is where it will have the best 
+effect on our self-understanding as a society, on our political culture.’ The present argument can be viewed as 
+highlighting additional reasons for preferring this prescriptive methodology.  
+90 D Plunkett and T Sundell, ‘Antipositivist Arguments from Legal Thought and Talk: The Metalinguistic Response’ in 
+Pragmatism, Law, and Language (Routledge 2014). Plunkett and Sundell refer to the phenomenon of parties implicitly 
+debating the question of what concept we should be tracking with our words as ‘meta-linguistic negotiation.’ More 
+generally, see S Haslanger, ‘What are we Talking About? The Semantics and Politics of Social Kinds’ (2005) 20 Hypatia 
+10. I am skeptical that philosophers—or judges, for that matter—have been disputing how we should use “law” 
+independently of its meaning. Some of my reasons for being skeptical are Dworkin’s, who derided positivist attempts to 
+re-interpret what judges are doing when they disagree about law. Dworkin (n15) 42–46. One would think that parties 
+engaged in a ‘meta-linguistic negotiation’ would directly assert the fact whose acceptance is up for negotiation. That is, 
+one would expect parties engaged in a dispute over how to use a word—say, “law”—to clearly assert, as part of the 
+dispute, that the word ought to be used one way or another quite apart from its public or ordinary meaning. But, in fact, 
+judges, and philosophers debating the nature of law, do not do that. Moreover, the argument developed here suggests 
+that there is no need for meta-linguistic negotiation on the part of judges (or philosophers) in hard cases. When the precise 40 
+ 
+for favoring a reorientation that appear to have been neglected in the broader debate and are unique to the 
+legal context: reasons having to do with the professional role and responsibilities of judges. Whether or not 
+the predicate “is law” expresses a concept that refers to all and only M-rules is not what ultimately justifies, 
+from the legal point of view or otherwise, a judge’s use of the word to refer to an M-rule in a hard case. If 
+anything justifies such usage, it is a fact of ideal institutional design: that judges should pronounce M-rules 
+“law” given the practical consequences of their generally doing so. 
+Finally, it would be a mistake to close an argument in which hard cases play such a major role 
+without commenting on Ronald Dworkin’s classic discussion of such cases.91 Dworkin famously used hard 
+cases to argue in favor of anti-positivism, and the present analysis sheds new light on Dworkin’s insights as 
+well as on the argument’s shortcomings. 
+Dworkin observed that in hard cases judges both do and ought to decide which rules to declare “law” 
+based on their moral features (based on their consistency with what Dworkin calls ‘arguments of principle’ or 
+‘right’).92 Moreover, he pointed out that social facts seem to underdetermine what the law is in such cases. 
+For instance, in Everson v. Board of Educ., the U.S. Supreme Court had to decide whether a law purporting to 
+grant free busing to parochial schools violated the First Amendment prohibition against religious 
+establishment.93 The social facts having to do with prior judicial decisions, constitutional text and history, 
+interpretive practice, etc., did not determine whether assistance to parochial schools constitutes religious 
+promotion of the sort the Constitution prohibits.94 The Court seems to have decided the case by appeal to its 
+                                                      
+contours of a concept are obscure and a predicate may very well express the ideal concept, one can use the predicate in 
+the hopes that it expresses the ideal. 
+91 Dworkin (n9). 
+92 ibid 1059.  
+93 330 U.S. 1 (I947). See discussion in Dworkin (n9) 1083–84. 
+94 See the dueling opinions of the majority lead by Justice Black, 330 U.S. 1-17 (I947), and the dissent led by Justice 
+Rutledge, ibid 28–63. 41 
+ 
+conception of principles that ought to govern a democratic society that aspires to religious neutrality.95 
+Dworkin’s argument that in relying on general moral principles to decide such cases, judges end up behaving 
+as they should is complex. But his principle claim was that it would be wrong for unelected officials to decide 
+hard cases by exercising discretion unconstrained by moral principles of right.96 
+Dworkin infers based on these observations that positivism must be false. What the precise argument 
+against positivism is supposed to be is not entirely clear, but there are at least two compelling possibilities. 
+Firstly, the positivist owes us an explanation of why, if the law has run out, judges continue to rule as though 
+it has not based on a moral analysis of rules.97 Secondly, a judge committed to positivism has no way of 
+deciding the relevant cases as judges manifestly do (and should do) without violating her legal obligations, for 
+she must treat the moral features of rules as ultimately irrelevant to their legality.98 If she were to base her 
+decision-making on moral considerations, then, by her own lights, she would be involved in the pretense of 
+treating extra-legal considerations as though they were legal.  
+                                                      
+95 Although, the majority claimed that blocking this form of assistance which enables parochial schools to operate was 
+‘obviously not the purpose of the First Amendment,’ it did not defend its claim. 330 U.S. 1, 17–18 (I947). The majority 
+was likely motivated by the thought that it would be morally wrong to interpret the First Amendment to prevent a State 
+from ‘extending its general state law benefits to all its citizens without regard to their religious belief.’ ibid 16–17. 
+96 Dworkin offers two arguments against unconstrained judicial originality: ‘The first argues that a community should be 
+governed by men and women who are elected by and responsible to the majority. … The second argues that if a judge 
+makes new law and applies it retroactively in the case before him, then the losing party will be punished, not because he 
+violated some duty he had, but rather a new duty created after the event.’ Dworkin (n9) 1061. 
+97 As Dworkin puts it: ‘The rights thesis … provides a more satisfactory explanation of how judges use precedent in hard 
+cases.’ ibid 1064. 
+98 Social conventions might render moral analysis relevant—see Endicott (n3) on inclusive positivism—but we are 
+imagining a case where the social conventions do not necessarily entail that moral analysis is appropriate in the case at 
+bar.  42 
+ 
+Positivists tend to respond to the explanatory challenge with the observation that just because judges 
+act as if they are discovering law in hard cases, we need not take their behavior at face value. But the response 
+remains under-motivated without an account of why a deeper, less surface-level interpretation of judicial 
+behavior is called for. The present discussion provides principled reasons for being skeptical of appearances. 
+We would have reason to think judges are single-mindedly attempting to discover pre-existing law in hard 
+cases if we had grounds to assume the truth of LEGALITY. But, as argued, the rule that judges in hard cases 
+should make law-declarations based on actual law is unlikely to be conventionally embraced nor is it a good 
+rule for a legal system to adopt. The entirely contingent conceptual fact as to whether rules supported by 
+considerations of moral principle fall under the legal concept has no intrinsic normative significance for what 
+judges should do in cases where the conceptual constraints are obscure. If judges should declare morally good 
+rules as “law” in hard cases it is not because by doing so they would be discovering law, although they very 
+well might be. If judging in hard cases as though anti-positivism were true is warranted; it is so for the moral and 
+political reasons that Dworkin gives and because it is obscure what the law is in such cases; and not because 
+anti-positivism is actually true. Accordingly, positivism is entirely compatible with judicial behavior in hard 
+cases. 
+The second version of the argument seems also to rely on LEGALITY, at least implicitly. It 
+presupposes that if there is a fact of the matter about what the law is, as it seems there might be in hard cases, 
+positivist judges would be violating their legal obligations if they based their decision-making on what they 
+deem to be non-legal considerations. But, as we have seen, judges would not be violating any legal obligations 
+by basing their decision-making on what may or may not turn out to be non-legal considerations (e.g. the 
+moral characteristics of rules), so long as they decide in a principled way—legality is not ultimately what 
+matters in hard cases.  
+Since these ways of responding to Dworkin’s arguments rely on the falsity of LEGALITY, they also 
+undercut the stakes in the debate between Dworkin and the positivist. Neither side can claim the truth 
+concerning the precise boundaries of law and morality would make any difference to how judges should rule. 
+Positivists may well prefer a response to the argument that does not rob the debate of practical significance in 43 
+ 
+this way. It is not positivism that we have been concerned with defending, however. Our aim was simply to 
+clarify the true significance of hard cases. 
+ 
+Conclusion 
+ 
+Those who take the central question animating analytic jurisprudence—what are the precise 
+boundaries of the concept of law?—to be practically significant assume that we needed to settle the question 
+to specify the professional duties of judges. That presumption is mistaken because it takes as unquestioned a 
+long-standing shibboleth of legal philosophy—namely, that if a rule is, ex ante, the law, then judges have at 
+least a legal obligation (and maybe even a moral one) to declare it as such and follow it. In fact, a rule’s being 
+law is neither necessary nor even sufficient for judges being obliged to follow it, a fact especially apparent in 
+hard cases of the sort where positivism and anti-positivism come apart, rendering the truth of either theory 
+and the precise limits of our legal concept irrelevant from the juridical point of view. The practical upshot of 
+legality’s irrelevance in hard cases for judicial decision-making is significant. It entails, for example, that judges 
+can, consistent with their legal professional duties, ignore rules they believe to be law in hard cases. 

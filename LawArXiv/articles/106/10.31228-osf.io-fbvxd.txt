@@ -1,0 +1,2201 @@
+Interoperability as a tool for competition regulation  [Date] 
+ 
+0  
+2
+0
+ 
+2
+ 
+ 
+V
+O
+INTEROPERABILITY AS A 
+N
+ 
+TOOL FOR COMPETITION 
+ 
+REGULATION 
+IAN BROWN Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+Interoperability is a technical mechanism for computing systems to work together – 
+even if they are from competing firms. An interoperability requirement for large 
+online platforms has been suggested by the European Commission as one ex ante 
+(up-front rule) mechanism in its proposed Digital Markets Act (DMA), as a way to 
+encourage competition. The policy goal is to increase choice and quality for users, 
+and the ability of competitors to succeed with better services. The application would 
+be to the largest online platforms, such as Facebook, Google, Amazon, smartphone 
+operating systems (e.g. Android/iOS), and their ancillary services, such as payment 
+and app stores.  
+This report analyses up-front interoperability requirements as a pro-competition 
+policy tool for regulating large online platforms, exploring the economic and social 
+rationales and possible regulatory mechanisms. It is based on a synthesis of recent 
+comprehensive policy reviews of digital competition in major industrialised econo-
+mies, and related academic literature, focusing on areas of emerging consensus 
+while noting important disagreements. It draws particularly on the Vestager, Furman 
+and Stigler reviews, and the UK Competition and Markets Authority’s study on online 
+platforms and digital advertising. It also draws on interviews with software develop-
+ers, platform operators, government officials, and civil society experts working in 
+this field. 
+Intended audience: this report is intended to support civil society and parliamentary 
+groups developing positions on ex ante competition rules in the EU’s proposed Dig-
+ital Markets Act, and digital competition reforms in other jurisdictions. 
+Acknowledgements: The author thanks Chloé Berthélémy, Astor Carlberg, Ignacio 
+Castro, Kevin Coates, Jon Crowcroft, Cory Doctorow, Gerben (including for drawing 
+figures  1 and  2),  Liza Lovdahl Gormsen,  Hamed Haddadi, Bernie  Hogan,  Orla 
+Lynskey, Chris Marsden,  Rob Nicholls, Jan Penfrat, Christoph Schmon, Jonathan 
+Todd, Kasia Szymielewicz, Tommaso Valletti, Simonetta Vezzoso and Lorna Woods 
+for their advice. 
+Funding: This research was supported by the Open Society Foundations Information 
+Programme. All unattributed analysis and opinions expressed are entirely the au-
+thor’s own. 
+About the author 
+Dr. Ian Brown is visiting CyberBRICS professor at Fundação Getulio Vargas (FGV) 
+Law School in Rio de Janeiro. He was previously Principal Scientific Officer at the 
+UK government’s Department for Digital, Culture, Media and Sport; Professor of In-
+formation Security and Privacy at the University of Oxford’s Internet Institute; and a 
+Knowledge Exchange Fellow with the Commonwealth Secretariat and UK National 
+Crime Agency. His books include Cybersecurity for Elections (2020, Commonwealth 
+- 1 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+Secretariat, with  Marsden/Lee/Veale),  Regulating Code  (2013, MIT  Press,  with 
+Marsden), and Research Handbook on Governance of the Internet (ed., 2013, Ed-
+ward Elgar). His PhD in computer science is from University College London. 
+   
+- 2 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+Contents 
+Figures  4 
+Introduction  5 
+What would interoperability look like?  7 
+High levels of concentration in digital platforms  14 
+Economic impacts of interoperability  16 
+Multi-homing and tipping  18 
+Gatekeepers, conglomerates and ecosystems  20 
+Complementary innovation and homogenisation  23 
+Static vs dynamic effects  25 
+Social impacts of interoperability  27 
+Platforms as essential social infrastructure  29 
+Media pluralism and diversity  31 
+Privacy and data protection  33 
+Content moderation  39 
+Environmental impact  43 
+Digital sovereignty  44 
+Existing and planned European interoperability policies  47 
+Appendix 1 – Types of interoperability and example scenarios  54 
+Vertical and horizontal interoperability  55 
+Protocol and data interoperability  56 
+Detailed technical and regulatory examples  57 
+Straightforward within existing regulatory framework  57 
+New but less controversial scenarios (based on past experience from other 
+sectors)  59 
+New and more challenging scenarios  60 
+ 
+   
+- 3 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+Figures 
+Figure 1 Connecting "gatekeeper" platforms with smaller services.......................... 5 
+Figure 2 Network architectures ................................................................................. 8 
+Figure 3 Tweetbot and Nuzzel – two alternative apps to access Twitter ...............10 
+Figure 4 Twitter CEO Jack Dorsey announces the company’s interoperability 
+project ....................................................................................................................... 11 
+Figure 5 Mastodon users can communicate via 500-character “toots” with other 
+users on their own “instance”, and on other connected instances and services .... 12 
+Figure 6 Users of other platforms’ ability to post to/from Facebook .......................13 
+Figure 7 Combined indicative market shares of current leading two companies in 
+selected UK digital markets ......................................................................................15 
+Figure 8 CMA simplified assessment of consumer harm .........................................16 
+Figure 9 Andrew Reed’s humorous suggestion for a Twitter redesign, inspired by 
+Google’s multiple user interface interventions to promote its videoconferencing 
+service ....................................................................................................................... 21 
+Figure 10 CMA interpretation of a selection of Google and Facebook services ......22 
+Figure 11 TweetDelete and Thread Reader, two complementary services to Twitter
+.................................................................................................................................. 25 
+Figure 12 Facebook users in the population of the EU’s 27 member states, March 
+2020 ......................................................................................................................... 29 
+Figure 13 Mastodon helps new users find instances matching their content 
+moderation preferences........................................................................................... 40 
+Figure 14 Muller et al.'s framework model for interoperability maturity in the 
+Building Information Modelling lifecycle .................................................................. 43 
+   
+- 4 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+Introduction 
+Interoperability is a technical mechanism for computing systems to work together – 
+even if they are from competing firms. An interoperability requirement for the largest 
+online “gatekeeper” platforms1 has been suggested by the European Commission as 
+one ex ante (up-front rule) mechanism in its proposed Digital Markets Act (DMA), as 
+a way to encourage competition. The policy goal is to increase choice and quality 
+for users, and the ability of competitors to succeed with better services.2 The appli-
+cation would be to large online platforms such as social media (e.g. Facebook), 
+search  engines  (e.g.  Google),  e-commerce  marketplaces  (e.g.  Amazon), 
+smartphone operating systems (e.g. Android/iOS), and their ancillary services, such 
+as payment and app stores. Users of other services could choose to connect to 
+friends, businesses and resources on these “gatekeeper” platforms, as shown in 
+Figure 1. 
+ 
+Figure 1 Connecting "gatekeeper" platforms with smaller services 
+ 
+1 The Digital Services Act consultation defines this as “online platforms reaching a certain level of us-
+ers and covering different types of services that are considered to have a particularly important im-
+pact and play a distinctive role as ‘gatekeepers’ to the services they provide. Since the present con-
+sultation itself inquires about the distinctive features, the impact and the potential measures, which 
+need to be taken in relation to such platforms, this definition should be understood more as a de-
+scription of possible features that identify large online platforms.” 
+2 European Commission DG Connect, The Digital Services Act package, 2 June 2020. 
+- 5 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+An interoperability requirement has been recommended in varying forms by the spe-
+cial  advisers  to  European  Commission  executive  vice-president  Margrethe 
+Vestager,3 the UK’s Furman4 and digital advertising5 reviews, and the US Stigler Re-
+port. This latter report concludes: 
+“Interoperability would facilitate ongoing competition on the merits of the 
+user experience, rather than on the size of the installed base, and potentially 
+stimulate robust competition… With easy interoperability, users will be free 
+to make a real choice about which service they prefer. This will encourage 
+new market entry and vigorous competition between providers.”6 
+According to civil society group European Digital Rights: 
+interoperability would drastically reduce the imbalance of power between 
+platforms on the one side and individuals on the other. It would (re)em-power 
+Internet users to interact across digital silos and allow them to choose their 
+own online  community and appropriate guidelines. An interoperability re-
+quirement would ensure that citizens do not sign up to dominant platforms 
+just because there is no other way to communicate with their friends and 
+participate in the social life of their local community, e.g. students at a uni-
+versity. It would also directly strengthen healthy competition among plat-
+forms and could even create whole new markets of online services built on 
+top of existing platforms, such as third-party client apps or content modera-
+tion plug-ins.7 
+Effective interoperability requirements need attention to: 
+a.  the terms of service that largely govern individuals’ interactions with 
+platforms (as contract law); 
+b.  intellectual property rights;8 and  
+c.  cybersecurity laws.9  
+ 
+3 J Crémer, A de Montjoye and H Schweitzer, Competition policy for the digital era (Luxembourg: 
+Publications Office of the European Union, 2019).  
+4 J Furman, D Coyle, A Fletcher, D McAuley and P Marsden, Unlocking Digital Competition (London: 
+HM Treasury, 2019), pp.32–38. 
+5 Online platforms and digital advertising (London: Competition and Markets Authority, 2020). 
+6 Stigler Committee on Digital Platforms, Final Report, September 2019, p.118. 
+7 EDRi, Platform Regulation Done Right, 9 April 2020, p.22. 
+8 I Graef (2015) Mandating portability and interoperability in online social networks: regulatory and 
+competition law issues in the European Union, Telecommunications Policy 39(6), pp.502–514. 
+9 C Doctorow, Interoperability: Fix the Internet, Not the Tech Companies, EFF Deeplinks, 11 July 2019. 
+- 6 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+Terms of service are explored by the reviews cited above. Intellectual property 
+rights and interoperability have been analysed by Otero in her PhD thesis.10 Little 
+attention so far has been paid to cybersecurity laws.  
+However, this report focuses on competition policy and regulatory issues raised by 
+interoperability requirements, with some consideration of the resulting data protec-
+tion and cybersecurity implications. While the EU’s competition law framework is the 
+main focus, including the electronic communications-specific directives, there are 
+important interactions with data protection and consumer protection frameworks, 
+as noted by Graef, Clifford and Valcke: 
+While data protection law aims to protect autonomous decision-making by 
+data subjects but also more broadly includes the safeguarding of a secure 
+and fair personal data processing environment, consumer protection law em-
+powers individuals to make well-informed autonomous choices. Therefore, 
+although consumer protection and data protection clearly overlap, as data 
+protection applies whenever personal data are processed, it is distinct since 
+it is not solely connected to the protection of an individual’s decision-making 
+capacity and choices. Competition law, for its part, aims to keep markets 
+competitive so to ensure that consumers have such choices.11 
+The UK’s Competition and Markets Authority (CMA) is no longer an EU member state 
+regulator. However, this report draws particularly heavily on its recent market study 
+of online platforms and digital advertising, which contains 27 detailed analytical an-
+nexes,  based on a year-long market study using statutory powers to require infor-
+mation from nearly 120 parties, extensive internal and commissioned research, over 
+130 responses to two consultations, and over 150 meetings with over 60 parties.12 
+What would interoperability look like? 
+What would large online platforms look like to a user if they were required to in-
+teroperate with other services? The simplest existing examples are mobile phone 
+SMS text messages and email. Mobile phone users can send SMS text messages to 
+any other user just by knowing their phone number, whichever type of phone or 
+network they are on. The online platform equivalent would be a WhatsApp user 
+sending a message to a Facebook Messenger, Signal or Telegram user. In computer 
+ 
+10 B González Otero, Interoperabilidad, internet de las cosas y derecho de autor (Madrid: Reus Edito-
+rial, 2019). 
+11 I Graef, D Clifford and P Valcke (2018) Fairness and enforcement:  bridging competition, data pro-
+tection, and consumer law, International Data Privacy Law, Vol. 8, No. 3, p.203. 
+12 CMA, fn 5, p.39. 
+- 7 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+networking terms, these are “federated” systems, where the mobile phone user’s 
+telephony provider is connected to other networks, as shown in Figure 2. 
+Email users can connect to their own email service through a Web browser, and/or 
+an email  program (like  Outlook) or app running on  their  personal computer or 
+smartphone.  There are a small number of extremely large services such as Gmail; a 
+very large number of much smaller services, run by organisations such as Infor-
+mation Society Service Providers, businesses and universities (for their customers, 
+staff and students); and very small services run by individuals on their own Internet-
+connected computers, hosting accounts for themselves and friends/family mem-
+bers.  
+ 
+Figure 2 Network architectures 
+Users can send email to each other whichever their service, using the familiar email 
+address, which contains both a username (before the @ symbol) and a service ad-
+dress (after it). Because all email services can connect to each other, this is known 
+as a “federated” system (even though it contains some very large individual ser-
+vices). Because it does not rely on a single central service, it is “decentralised”. 
+An equivalent interoperable social media protocol would connect very large services 
+(such as Facebook/WhatsApp/Instagram, Twitter, and LinkedIn) with organisational 
+- 8 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+and individually-run services.13 Users of any of these services could communicate 
+with each other when authorised to do so, connecting as “friends” or “followers”; 
+sending messages; sharing information such as profiles, status updates, “likes” or 
+“retweets”, location, and photos, with individuals, groups and the public; following 
+and responding to each other’s’ feeds;14 and searching across all connected ser-
+vices. The CMA assessed the availability of such features in common social media 
+platforms, in Table 1. 
+ 
+Table 1: Social media platforms’ functionalities. Source: CMA (2020) p.117. 
+This is the functionality that is core to the major social media services used in Eu-
+rope, but dominant services required to interoperate would still be able to develop 
+new functionality that would not be standardised until it became much more com-
+mon. 
+Twitter already enables other systems and software to connect to some of its ser-
+vices. Many Twitter users read and post tweets using other companies’ apps, such 
+as Tweetbot and Nuzzel (shown in Figure 3), although those apps are no longer able 
+to access certain features, such as notifications of tweets “liked” by other users, 
+due to changes made by Twitter in its technical interface (“Application Programming 
+Interfaces”, or APIs). Twitter is funding a small team to explore “decentralising” its 
+ 
+13 For a visualisation, see D Hinchcliffe, Where is interoperability for social media? ZDNet, 28 Febru-
+ary 2014. 
+14 CMA, fn 5, pp.53–55. 
+- 9 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+platform, moving towards a more email-like model,15 as shown in a tweet from CEO 
+Jack Dorsey in Figure 4:16  
+ 
+ 
+Figure 3 Tweetbot and Nuzzel – two alternative apps to access Twitter 
+ 
+15 A Robertson, Twitter wants to decentralize, but decentralized social network creators don’t trust it, 
+The Verge, 12 December 2019. 
+16 Source: Tweet by @jack, 11 December 2019. 
+- 10 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+ 
+Figure 4 Twitter CEO Jack Dorsey announces the company’s interoperability project 
+The Mastodon social network, a Twitter-like microblogging service with over 4m 
+users, also federated with other services, already has such a structure. It allows 
+users to create an account on one or more of hundreds of connected “instances”, 
+run mainly by individual enthusiasts. Each tweet-like “toot” can contain up to 500 
+characters, and has more options than Twitter relating to audience and the ability 
+to provide a content warning. 
+Users can read toots from other users on the same instance, and users on other, 
+connected instances (see Figure 517) – as well as other services using the open 
+standards body World Wide Web Consortium’s (W3C) ActivityPub standard,18 such 
+as PeerTube (a French free and decentralised alternative to video platforms, with 
+over 200,000 videos published by 30,000 users and viewed over 10 million times19). 
+Some instances are communities focused on specific subjects, such as travel or 
+technology. Others are larger, general-purpose platforms.  
+There is (deliberately) only partial connection between instances with different pol-
+icies on certain types of content, such as hate speech. Each instance has its own 
+content moderation process. Many users also choose to feed their toots to their 
+account on the main Twitter platform. 
+ 
+17 Source: Mastodon. 
+18 The combination of all these federated systems is often referred to as the “fediverse”. 
+19 Framasoft, PeerTube: A free software to take back control of your videos, undated. See statistics 
+on the “Fediverse” at https://the-federation.info  
+- 11 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+Figure 5 Mastodon users can communicate via 500-character “toots” with other users on their own 
+“instance”, and on other connected instances and services 
+The Mastodon software development, and one of the most popular instances, is 
+supported via an ongoing crowd-funding campaign. 
+Facebook announced in 2019 it was merging the infrastructure for its Messenger, 
+WhatsApp and Instagram direct messaging services, and potentially standardising 
+on an encrypted messaging protocol first developed by Whisper Systems, for secure 
+messaging app Signal.20 This has led to concerns the firm is “scrambling the eggs” 
+to make it more difficult for a competition regulator in future to order a functional (or 
+even structural) separation of the services, as explained by Nobel laureate Jean 
+Tirole.21 
+Facebook also has extensive capabilities for third party developers to run apps on 
+its own platform, accessing information and contacts (the “social graph” of friends) 
+when authorised by its users, and thereby extending its own capabilities. Figure 622 
+ 
+20 LH Newman, The Pitfalls of Facebook Merging Messenger, Instagram, and WhatsApp Chats, Wired, 
+25 January 2019. 
+21 J Tirole, Competition and the Industrial Challenge for the Digital Age, Institute for Fiscal Studies “In-
+equalities in the Twenty‐First Century” review background paper, 3 April 2020, p.26. 
+22 Source: CMA, fn 5, p.W12. 
+- 12 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+shows the CMA mapping of the ability of users of other platforms to “cross-post” 
+content to and from Facebook.  
+ 
+Figure 6 Users of other platforms’ ability to post to/from Facebook 
+Facebook has reduced or blocked access to some of these capabilities since 2010, 
+including stopping Twitter’s Facebook app finding other friends using the service; 
+stopping Instagram photos appearing on Twitter; then in 2013 cutting off apps “in-
+cluding Vine, Yandex Wonder, Voxer and more.”23 As Tirole recently noted: 
+As for Facebook, (limited) data portability already exists, enabling the possi-
+bility of an individual’s migration toward another social network. “Social graph 
+APIs” would further allow users to invite their friends to join the new platform 
+and multi‐home; cross‐posting ability would allow a user to stay on multiple 
+social networks at low cost. As was the case  for telecommunications or open 
+banking standards, such interoperability standards probably could only be 
+set by governments or neutral not‐for‐profit bodies.24 
+ 
+23 B Thompson, Portability and Interoperability, Stratechery, 3 December 2019. 
+24 Tirole, fn 21, p.16. 
+- 13 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+Facebook’s terms and conditions until 2018 included a “non-replication” principle to 
+limit the ability of other tools to provide functionality competing with Facebook’s 
+own services – as does Twitter’s terms and conditions.25  
+High levels of concentration in digital platforms 
+For many large online platform services, one or two26 companies already have an 
+extraordinarily high share of national markets. The Furman review estimated this in 
+the UK at close to 100% for mobile operating systems and online search, with social 
+media above 90%, shown in Figure 7:27 
+ 
+ 
+25 CMA, fn 5, Appendix W, p.2. 
+26 One former official interviewee reported: “Showing collective dominance is very hard under TFEU 
+§102 because of the Airtours merger decision so it’s never done; tacit collusion (I’m thinking what 
+you’re thinking) is not caught by §101. So the combination means nothing gets done.” Cave et al. 
+note: “a translation to oligopoly presents different challenges than a transition to competition, and a 
+debate has been raging over whether the [telecoms regulatory] framework is robust enough to deal 
+with the challenge of ‘small numbers’ markets. One form of potential abuse might be ‘collective’ domi-
+nance (also known as tacit collusion). Ultimately, the sector has considerable barriers to entry and 
+only a handful of players repeatedly interacting with one another. But many regulators believe that 
+showing this form of dominance under the regulatory framework has been rendered almost impossi-
+ble by the demands that have been placed upon its demonstration by judgments of the European 
+Court. Alternatively, there might be several firms that each exercise single-firm dominance: possibly 
+by exploiting locked-in customers who are disengaged or are baffled by the difficulties that are 
+placed in their way when they seek to ‘search and switch’ in bundled markets.” (p.54) 
+27 Source: Furman et al., Unlocking Digital Competition (2019), p.25 
+- 14 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+Figure 7 Combined indicative market shares of current leading two companies in selected UK digital 
+markets 
+Since Internet users’ attention is overall a fixed resource (even in pandemic lock-
+down, there are limited waking hours), and critical for the advertising-funded ser-
+vices that make up most Internet usage, platforms that can gain the highest per-
+centages of attention are at a significant advantage. The CMA found Google and 
+Facebook’s joint share of online user attention in the UK in April 2020 was 39%.28 
+The European Parliament’s 2019 competition report “notes  with regret that one 
+search engine that has over 92% of market share in the online search market in most 
+of the Member States has become a gatekeeper of the Internet”.29 Research com-
+pany SensorTower found in May 2020 Facebook owned four of the top ten down-
+loaded (non-game) apps worldwide (WhatsApp, Facebook, Messenger and Insta-
+gram), while Alphabet owned two (Google Meet and YouTube).30 
+The CMA estimated:  
+search advertising revenues totalled around £7.3 billion in 2019, of which 
+more than 90% was earned by Google. Total spend on display advertising 
+was worth £5.5 billion, of which we estimate more than half went to Face-
+book. Overall, we estimate that around 80% of all expenditure on search and 
+display advertising in the UK in 2019 went to Google or Facebook… These 
+issues matter to consumers: if competition in search and social media is not 
+working well, this can lead to reduced innovation and choice, while poor com-
+petition in digital advertising can increase the prices of goods and services 
+across the economy, and undermine the ability of newspapers and other pro-
+viders who rely on digital advertising revenue to produce valuable content31 
+(shown in Figure 832). 
+ 
+28 CMA, fn 5, p.48. 
+29 European Parliament Committee on Economic and Monetary Affairs, Report on competition policy – 
+annual report 2019 (2019/2131(INI)), 25 February 2020, §40. 
+30 SensorTower, Top Apps Worldwide for May 2020 by Downloads, 2 June 2020. 
+31 CMA, fn 5, p.42. 
+32 Source: CMA, fn 5, p.309 
+- 15 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+ 
+Figure 8 CMA simplified assessment of consumer harm 
+An additional competition concern is that dominant firms are able to enter new, re-
+lated  (“adjacent”)  markets  at  a  great  advantage to  competitors,  using  their 
+knowledge of customers in one or more markets they already dominate; and use 
+customer information from those new markets to support their existing dominant 
+position. Hence “a first mover in market A can leverage its dominant position, which 
+comes with an advantage on user information, to let connected market B tip, too, 
+even if market B is already served by traditional incumbent firms.”33  
+The UK’s Competition and Markets Authority found in 2020: “Facebook has signifi-
+cant market power in social media. Strong network effects mean that entry over the 
+last decade has only been successful where platforms have provided a sufficiently 
+different service, that does not compete closely with Facebook. By controlling (and 
+sometimes degrading) the level of interoperability that it offers to other social plat-
+forms, Facebook has further insulated itself from competitive pressure.”34 
+Economic impacts of interoperability 
+The EU and many other jurisdictions have extensive, well-developed competition 
+law frameworks,35 including specialised legislation for electronic communications 
+ 
+33 GR Barker and M Cave, Predicting and Forestalling Market Tipping: The Case of Ride-Hailing Apps 
+in the UK, SSRN working paper, 17 January 2020, p.9. 
+34 CMA, fn 5, p.73. 
+35 Treaty on the Functioning of the European Union, Title VII, Chapter 1, Section 1, OJ C 326, 
+26.10.2012, p. 47; Council Regulation (EC) No 1/2003 of 16 December 2002 on the implementation of 
+the rules on competition laid down in Articles 81 and 82 of the Treaty, OJ L 1, 4.1.2003, p.1.  
+- 16 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+networks and services.36 Why should large digital platforms need further, special 
+rules? 
+Economists have found these platforms often benefit from “extreme returns to scale 
+and scope”. Since platform costs are mainly fixed, such as developing software, and 
+building relationships with suppliers and other types of customers such as advertis-
+ers (so-called “n-sided markets”), they can support millions of additional users at 
+low additional cost-per-user, and encourage users of one service to try a related 
+service, making use of already-gathered data.37 These additional users can gener-
+ate further revenues and investment, which can improve the quality of service fur-
+ther38 – while smaller competitors face more expensive finance and customer ac-
+quisition costs, especially for intangible investments with limited collateral.39  
+Many platforms benefit from strong “network effects”, where each new user makes 
+the service more valuable for all existing users (since, for example, they can mes-
+sage or share a photo with an additional person; additional videos can be used to 
+train more accurate object recognition algorithms for all users; or a larger customer 
+base encourages more apps to be developed). And it may be difficult for users to 
+switch to, or even try out, competing services, if doing so requires significant quan-
+tities of user data to be transferred40 – even though the General Data Protection 
+Regulation (2016/679/EU) §20 (so-called “data portability”) gives European users 
+the right to do this, for some types of personal data (volunteered and observed data 
+processed with user consent or for the performance of a contract41). As Carl Shapiro 
+and (Google’s chief economist) Hal Varian put it: 
+Worse yet for would-be entrants and innovators, switching costs work in a 
+non-linear way: convincing ten people connected in a network to switch to 
+your incompatible network is more than ten times as hard as getting one cus-
+tomer to switch. But you need all ten, or most of them: no one will want to be 
+the first to give up the network externalities and risk being stranded. Pre-
+cisely because various users find it so difficult to coordinate to switch to an 
+ 
+36 Directive 2002/21/EC of the European Parliament and of the Council of 7 March 2002 on a common 
+regulatory framework for electronic communications networks and services, OJ L 108, 24.4.2002, 
+p.33. 
+37 Crémer et al., fn 3, p.19. 
+38 OECD, Big data: bringing competition policy to the digital era (Paris: OECD, 2016). 
+39 Furman et al., fn 4, pp.32–38.  
+40 Crémer et al., fn 3; Furman et al., pp.32–38. 
+41 Article 29 Working Party, Guidelines on the right to data portability, endorsed by the European 
+Data Protection Board on 25 May 2019, pp.8—10.  
+- 17 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+incompatible technology, control over a large installed base of users can be 
+the greatest asset you can have.42 
+These obstacles make it difficult for startups and larger firms to break into such 
+markets, competing “on the merits”, even with innovative products, large invest-
+ments, and access to extremely skilled technologists – as Google found when it was 
+unable to succeed with social media services Google+, Wave or Buzz;43 and as Mi-
+crosoft found with a Windows-based operating system for smartphones, and even 
+in making significant inroads with its Bing search engine.44 The UK CMA found: 
+Google+’s failure: 
+•  demonstrates that access to a wide base of potential users and con-
+sumer data, as held by Google, is not determinative of successful entry 
+to the social media sector; and 
+•  indicates that entry with a service similar to that provided by Facebook 
+is very difficult indeed.45 
+Multi-homing and tipping 
+When users make use of more than one platform providing a similar service – at least 
+a “partial substitute” – they are said to be “multi-homing”. This is common with in-
+stant messaging, and to some degree with social media.46 But for ride-hailing plat-
+forms (such as Uber and Lyft), 2017 US data showed “most riders single home or 
+are loyal to their favourite brand—or simply creatures of habit.”47 The CMA also 
+found: 
+consumers’ use of multiple [social media] platforms does not necessarily im-
+ply that their services can be used as substitutes by consumers and that 
+these other platforms can meet the same consumer needs as Facebook… 
+The high proportions of other platforms’ audiences that cross-visit with Fa-
+cebook, and the significantly lower proportion of Facebook’s audience that 
+ 
+42 C Shapiro and HR Varian, Information Rules: A Strategic Guide to the Network Economy (Boston: 
+Harvard Business School Press, 1999) pp. 184-5. 
+43 One interviewee suggested this was “because it was competing with a platform, not a ‘traditional 
+incumbent’, and therefore could not benefit from the "first-mover advantage",  which in fact played 
+against Google.” See also LL Gormsen and JT LLanos, Facebook’s Anticompetitive Lean in Strategies, 
+SSRN Working Paper, p.19. 
+44 “In April 2020, online search engine Bing accounted for 6.25 percent of the global search market, 
+while market leader Google had a market share of 86.02 percent. Chinese search engine Baidu's 
+market share was 0.83 percent.” Source: Statista,  Global market share of search engines 2010-2020. 
+45 CMA, fn 5, p.138. 
+46 CMA, fn 5, p.129. 
+47 Barker and Cave, fn 33, p.13. 
+- 18 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+cross-visits with each of the other platforms, suggest that Facebook is a 
+must-have platform. Cross-visiting statistics show that other platforms are 
+used by sub-sets of users, but nearly always in combination with Facebook.48 
+A related competition concern is “tipping”, the point at which one firm takes most of 
+a market 
+driven by a combination of economies of scale and scope; network external-
+ities whether on the side of the consumer or seller; integration of products, 
+services and hardware; behavioural limitations on the part of consumers for 
+whom defaults and prominence are very important; difficulty in raising capi-
+tal; and the importance of brands.49  
+Multi-sided markets (where a platform intermediates between multiple sets of users, 
+such as taxi drivers and passengers, or social media users and advertisers, or res-
+taurants, customers, and delivery drivers; with indirect network effects between the 
+multiple sides of the market internalised by the platform) are more likely to tip when 
+fewer users on one or more sides multi-home.50 
+Advertising-funded platforms use current users to attract additional users and ad-
+vertisers,51 which makes it particularly difficult for new services to compete with 
+“free” large existing platforms. Competitors find it difficult to attract users to a new 
+paid-for service – but also difficult to attract advertisers to a small new platform.52 
+One possible route to doing so is for a competitor to offer complementary services, 
+so long as users can easily use several platforms simultaneously (i.e. are multi-hom-
+ing), and then grow over time to compete directly.53 However, the CMA noted: “en-
+tering by providing consumers with a specialised service may limit the scale of the 
+consumer base that new entrants can develop in the long-term and may also result 
+in consumers developing networks of connections on the platform specific to a par-
+ticular need.”54 Sciliani and Giovannetti add:  
+This is the typical disruptive innovation scenario whereby the new entrant 
+does not initially develop a fully-fledged offer, but instead focuses on a nar-
+row scope with the strategy to broaden it as the customer base grows. Under 
+ 
+48 CMA, fn 5, p.129. 
+49 Furman et al., fn 4, p.4. 
+50 Barker and Cave, fn 33, p.12.  
+51 While some economists argue “gatekeeper” platforms are by definition two or more-sided markets, 
+others argue that a large user base can still give a one-sided platform gatekeeping power. 
+52 Crémer et al., fn 3, p.20. 
+53 Crémer et al., fn 3, pp.30, 36–37. 
+54 CMA, fn 5, p.135. 
+- 19 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+these circumstances, users may be reliant on the incumbent platforms for 
+other (complementary) services not offered by the new entrant to a different 
+degree. Therefore, users choosing an entrant providing only a smaller range 
+of services from the incumbent platform would tend to have a higher propen-
+sity to switch.55 
+Multi-homing is not cost-free to users. They must spend time and resources to in-
+stall multiple apps, read privacy policies and other terms of use (and often consent 
+to various types of monitoring), create accounts, manage passwords, and learn fea-
+tures. Mistakes can be embarrassing and/or costly in communications with col-
+leagues and friends. An infamous UK example is former shadow chancellor Ed Balls 
+mistakenly tweeting his name, which was retweeted tens of thousands of times, and 
+has since become the basis for an annual “#EdBallsDay”.56 As Zoom became popular 
+during the Covid-19 pandemic in early 2020 with 3,000% growth from a low base,57 
+there were numerous cases of “zoom-bombing”, where intruders took advantage of 
+security misconfigurations to share offensive and sometimes illegal content with call 
+participants.58 
+Gatekeepers, conglomerates and ecosystems 
+Three further terms are useful in differentiating large online platforms:  
+Gatekeeper platforms are able to control access between businesses and potential 
+customers, for example advertisers wishing to reach users of a ubiquitous social 
+media platform, retailers selling to the customers of an extremely popular e-com-
+merce platform, or messaging apps wishing to connect to very large user bases on 
+dominant services (such as the forthcoming integrated Facebook/WhatsApp/Insta-
+gram messaging service, with Facebook already seeing 2.99bn users of these col-
+lective services in the first quarter of 2020.59) Such platforms are thereby able to 
+control access and charge high fees; manipulate rankings or prominence; and con-
+trol reputations of firms.60  
+ 
+55 P Siciliani and E Giovannetti, Platform competition and incumbency advantage under heterogene-
+ous switching cost — exploring the impact of data portability, Bank of England Staff Working Paper 
+No. 839, December 2019, p.5. 
+56 E Lawford, Happy Ed Balls Day 2020! Here's why social media users mark April 28 with the ex-poli-
+tician's name, Evening Standard, 28 April 2020. 
+57 Ofcom, Online Nations (London: Office for Communications, 2020). 
+58 K Paul, Zoom releases security updates in response to 'Zoom-bombings', The Guardian, 23 April 
+2020. 
+59 Facebook, Inc., Facebook Reports First Quarter 2020 Results, 29 April 2020. 
+60 Furman et al, fn 4, p.42. 
+- 20 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+ 
+Figure 9 Andrew Reed’s humorous suggestion for a Twitter redesign, inspired by Google’s multiple user 
+interface interventions to promote its videoconferencing service 
+Conglomerates are companies with a broad range of sometimes weakly-related 
+businesses, achieved through growth, startup financing, and acquisitions. Bourreau 
+and de Streel give the examples of Amazon (moving from book sales, to a wide 
+range of products, to “payment services, cloud computing, as well as movie and 
+television series production and distribution”), Google (“from search to maps, oper-
+ating systems, mobile and personal computing devices, and cloud services”, shown 
+humorously in Figure 761) and Facebook (from basic social media to “photo and video 
+social networking with Instagram, messaging with WhatsApp, and virtual reality with 
+Oculus VR.”).62  
+Ecosystems are collections of services (such as Apple’s iPhone, iOS, App Store, and 
+Apple Pay), connected via privileged channels not fully available to competitors.63 
+(NB: the tech industry and media use the term more broadly, including other com-
+panies’ products and services.) The UK Competition and Markets Authority visual-
+ised the Google and Facebook ecosystems in 2020 as shown in Figure 10:64 
+ 
+61 Source: @andrew_reed/Twitter,  9 July 2020. 
+62 M Bourreau and A de Streel, Digital Conglomerates and EU Competition Policy, March 2019. 
+63 Crémer et al., fn 3, p.34. 
+64 Source: CMA, fn 5, p.57. 
+- 21 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+ 
+ 
+Figure 10 CMA interpretation of a selection of Google and Facebook services 
+The CMA noted ecosystems in a market can affect “[p]rice, quality and choice in 
+adjacent markets – a powerful platform can leverage its strong position in its core 
+market into other adjacent markets, ultimately giving itself an advantage over its 
+rivals. The effects of limited competition for consumers discussed above are then 
+potentially spread out to a wider range of markets. Importantly, this could act as a 
+handbrake on innovation right across the ecosystem of online services and related 
+- 22 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+technology.”65 The CMA found specifically: “Google and Facebook have increasingly 
+expanded from general search and social media respectively into related markets. 
+This can provide benefits for consumers, for example by increasing choice, or al-
+lowing them to access services with less friction. However, we are concerned that 
+Google and Facebook can leverage their market power into adjacent markets in a 
+way that further excludes rivals, diminishing competition and reducing choice and 
+innovation over time.”66 
+Complementary innovation and homogenisation 
+As a mature and diversified business, Microsoft has a much wider range of products 
+and services than some of its Silicon Valley competitors.67 Many of these are com-
+plements to other firms’ services – to a significant extent, due to US and EU compe-
+tition enforcement actions during the 1990s and 2000s – and hence the company 
+has a stronger incentive to support interoperability. 
+Such firms have incentives to interoperate with market leaders and other competi-
+tors, as can be seen with three recent examples relating to Microsoft, and to form 
+strategic alliances that match their own longer-term business plans:68 
+●  Microsoft worked with the producer of Apple’s device management soft-
+ware to let its cloud Active Directory authentication work with Macs (a com-
+plementary service, since Microsoft’s cloud services compete in much 
+broader markets than Apple’s cloud services, which are focused on its own 
+users). 
+●  Google and Microsoft improved compatibility between Google Calendar and 
+Microsoft Exchange, enabling users of both to take advantage of network 
+effects across the joint platforms. The companies compete on online office 
+productivity software, with 55.2% (Google Apps) and 38.06% (Office 365) 
+of the global market from 2015-2020 according to Statista. This is close to 
+a position of joint dominance. 
+●  Microsoft enabled its speech assistant Cortana to work directly with Ama-
+zon’s Alexa (complements in adjacent markets), so users of either can ac-
+cess largely complementary services on both platforms, including Office 
+365. 
+Where one firm has a dominant position in a market with strong network effects, it 
+will have strong disincentives to allow interoperability. A regulatory requirement for 
+interoperability in such cases would allow competitors to connect new services to 
+ 
+65 CMA, fn 5, p.71. 
+66 CMA, fn 5, p.73. 
+67 O Wallach, How Big Tech Makes Their Billions, Visual Capitalist, 6 July 2020. 
+68 A Hickey, Why Microsoft is pushing for interoperability with its competitors, CIO Dive, 25 Oct. 2017. 
+- 23 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+an existing user base (for example, in the first quarter of 2020, 2.99 billion monthly 
+users of Facebook, Instagram and WhatsApp69), connect users across those ser-
+vices, and benefit from the resulting network effects. As Mastodon’s developer Eu-
+gen Rochko commented:  
+8 years ago, everyone had 20 social media profiles without batting an eye, 
+but nowadays people are legitimately hesitant to use just one more platform 
+in addition to Twitter and Instagram…70 It’s one thing to get someone to try 
+out Mastodon, but for them to keep using it, they need to acquire the happy 
+medium of content and personal connections to have a reason  to come 
+back… features actually play a much lesser role than you would think. People 
+would use a social network based on smoke signals if everybody else was 
+using it.71 
+Interoperability can further benefit consumers through enabling combinations of 
+component products/services that best meet their needs, and increasing innova-
+tion/reducing prices in complementary goods, as well  as reducing obstacles to 
+switching providers (two examples of complementary services to Twitter are shown 
+in Figure 11, connecting via its API).  
+ 
+69 Facebook, Inc. fn 59. 
+70 See also P Ohm (2008) The Myth of the Superuser: Fear, Risk, and Harm Online, UC Davis Law Re-
+view Vol. 41, No. 4, p. 1327. 
+71 S Tilley, One Mammoth of a Job: An Interview with Eugen Rochko of Mastodon, Medium, 9 July 
+2018. 
+- 24 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+ 
+Figure 11 TweetDelete  and Thread Reader, two complementary services to Twitter 
+However, interoperability can also lead to competing products to settle around a 
+standard set of features, reducing incentives for innovation. The creator of the 
+widely-used secure messaging app Signal has commented at length on the difficul-
+ties federated systems face in adding new features and upgrades (such as end-to-
+end encryption.)72 In its recommendation of interoperability requirements for social 
+media, the CMA commented: 
+stakeholders have raised concerns about the impact of standardisation on 
+incentives to innovate. However, whilst this intervention may require certain 
+features to be standardised, the specific features we have under considera-
+tion, such as words, pictures and videos, are not recently innovative and as 
+such an intervention is unlikely to diminish incentives to innovate. Indeed, the 
+ability to reach a wider audience should improve incentives to invest and in-
+novate in additional services to attract new users.73 
+Static vs dynamic effects 
+Competition economists often contrast short term (or static) and longer-term (or 
+dynamic) competition. Static competition is less significant in markets featuring 
+ 
+72 M Marlinspike, Reflections: The ecosystem is moving,10 May 2016. 
+73 CMA, fn 5, Appendix W p.13. 
+- 25 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+significant innovation, such as online platforms, since its results can be “[f]irms 
+never overcharge customers, but firms offer customers no exciting new products.”74  
+Dynamic  competition  occurs  as  product  and  process  innovation  takes  place. 
+Schumpeter, still one of the most-cited economists on innovation, described it in 
+1943: “competition from the new commodity, the new technology, the new source 
+of supply, the new type of organization—competition which commands a decisive 
+cost or quality advantage and which strikes not at the margins of the profits and the 
+output of existing firms, but at their foundations and their very lives.”75 
+In the short run, a smaller number of larger companies often benefit from scale effi-
+ciencies and network effects. This will benefit consumers if those efficiencies result 
+in lower prices or higher quality – but that in turn is less likely with lower levels of 
+competition.  
+As the CMA illustrated, “[t]he potential user benefits of interoperability are illustrated 
+by Facebook’s decision to develop an interoperable solution across its messaging 
+services:  Facebook Messenger,  Instagram’s  Direct  Messenger  and  WhatsApp. 
+Whilst this type of integration can give rise to competition concerns, particularly 
+when applied asymmetrically as it could strengthen Facebook’s market position, it 
+also illustrates the efficiency benefits that can arise from enhanced interoperabil-
+ity.”76  
+Increased competition on (within) the market in question (e.g. social media) encour-
+ages new competitors to enter, tending to reduce prices. But with large economies 
+of scale and network effects, there will likely be only a small number of platforms 
+competing to provide the same type of service.77  
+In the long run, dynamic competition leads to increased quality and innovation. For 
+online platforms, this is more likely to come from competition for the market, where 
+an incumbent is pushed aside by a competitor. A market can remain “contestable” 
+even with very few firms, if other potential competitors can still enter the market. 
+Some economists have claimed previous technology market transitions demon-
+strate this effect, from IBM’s PC hardware dominance, to Microsoft’s MS-DOS and 
+Windows dominance, to Netscape’s browser early successes, to Apple and Alpha-
+bet’s iOS and Android smartphone OS joint dominance. But as the UK Furman review 
+observed: 
+ 
+74 JG Sidak & DJ Teece (2009) Dynamic competition in antitrust law, Journal of Competition Law & 
+Economics, 5(4), p. 603. 
+75 J Schumpeter, Capitalism, Socialism & Democracy (London: Routledge, 6th ed., 2006), p.84. 
+76 CMA, fn 5, Appendix W p.3. 
+77 Crémer et al., fn 3, p.36. 
+- 26 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+these changes were facilitated, in part, by government policy – in particular 
+antitrust cases against these companies, without which the changes may 
+never have happened. Today, network effects and returns to scale of data 
+appear to be even more entrenched and the market seems to have stabilised 
+quickly compared to the much larger degree of churn in the early days of the 
+World Wide Web.78 
+More generally, this “controversial” theory of market “contestability” “is even more 
+doubtful in the presence of network externalities and ecosystems”, since a compet-
+itor must “convince users of the incumbent to coordinate their migration to its own 
+services” (often in the presence of significant switching costs), and “the lack of in-
+teroperability with other services of the same ecosystem and the absence or limited 
+access to historical and future ecosystem data will make it difficult for a new entrant 
+to compete on the merit of the specific service and/or algorithm.”79 Tirole adds: 
+"Firms might be playing dirty tricks in the marketplace, spend money on killer acqui-
+sitions or hire battalions of lobbyists and lawyers to acquire or preserve their domi-
+nant position. Contestability does not rule out social waste.”80 
+The CMA concluded:  
+We see from analysis of Google’s and Facebook’s profitability that, even con-
+sidering a relatively static snapshot of the world as it is today, the potential 
+gains for consumers from increased competition are substantial… Looking to 
+the future, we could expect the dynamic benefits to consumers from a more 
+competitive market to be far greater than the static gains, as the real prize 
+for consumers over the long term will come from increased innovation and 
+the new transformative products and services that will come online as a re-
+sult.81 
+Social impacts of interoperability 
+While much of the EU policy debate relating to interoperability takes place in narrow 
+competition economics terms, it could have a much broader impact on European 
+societies.82  
+Many  competition  economists  argue that  competition  policy  and  interventions 
+should be concerned only with narrow economic measures – in the prevailing US 
+ 
+78 Furman et al., fn 4, p.4. 
+79 Crémer et al., fn 3, p.36. 
+80 Tirole, fn 21, p.3. 
+81 CMA, fn 5, p.71. 
+82 I Brown and C Marsden, Regulating Code (Cambridge: MIT Press, 2013) pp.183-203. 
+- 27 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+policy consensus since the 1980s, focused on a narrow “consumer welfare” meas-
+ure, largely around price (which has obvious issues when so many online platform 
+services are provided “free”).83 Alongside price, the EU competition framework pays 
+greater attention to quality, choice and innovation.   
+Even in the EU, however, there are obvious important impacts of online platform 
+market structures in areas of policy far from straightforward economic concerns. 
+For example, as Graef, Clifford and Valcke note: 
+Rather than a substantive benchmark, fairness can be regarded as an inher-
+ent objective or outcome of competition enforcement. By intervening against 
+anticompetitive practices, EU competition law protects the competitive pro-
+cess in the internal market to the benefit of consumers, competitors, and the 
+economy as a whole. In this manner, competition enforcement thus contrib-
+utes to a fairer society. Fairness can also be regarded as constituting part of 
+the notion of ‘competition on the merits’ that is used to distinguish ‘normal’ 
+competitive behaviour on the basis of price, quantity, quality, choice, and in-
+novation from conduct that restricts competition. In this sense, when markets 
+work fairly, businesses compete on the merits.84 
+As the UK’s Competition and Markets Authority added in July 2020, “competition 
+concerns can also lead to and exacerbate a range of broader online harms… For 
+example, a thriving and competitive market for independent news and journalism is 
+essential for an effective democracy: if the sustainability of authoritative journalism 
+is undermined, this is likely to worsen concerns around fake news and misleading 
+information. More generally, if users are to be truly empowered to keep themselves 
+and their children safe online, adequate choice over platforms and other digital pro-
+viders is indispensable.”85 And there are concerns that business models based 
+around maximising user attention (and hence advertising revenues) have negative 
+side  effects, including issues  such  as the  amplification of  disinformation,  hate 
+speech and extremism.86 Interoperability could help build the “counter powers”, and 
+disperse opinion-forming power, identified as important by Helberger.87 
+ 
+83 M Stucke and A Ezrachi, Competition Overdose (New York: HarperCollins, 2020). 
+84 Graef et al., fn 11, p.205. 
+85 CMA, fn 5, p.71. 
+86 C Marsden, T Mayer and I Brown (2020) Platform values and democratic elections: How can the 
+law regulate digital disinformation? Computer Law & Security Review, Vol. 36, 105373. 
+87 N Helberger, (2020) The Political Power of Platforms: How Current Attempts to Regulate Misinfor-
+mation Amplify Opinion Power, Digital Journalism, s.5. 
+- 28 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+Platforms as essential social infrastructure 
+In many EU countries, particularly during the Covid-19 pandemic, large online plat-
+forms increasingly act as essential “social infrastructure” – used by families to share 
+news and photos; schools to communicate with parents and students, and to teach 
+remotely; sports teams to arrange games; politicians to communicate with constit-
+uents; campaign groups to organise protests; and many other aspects of modern-
+day life. As shown in Figure 12,88 use of Facebook across the EU in the first quarter 
+of 2020 (largely pre-pandemic) varied from 39% of the population in Latvia to 88% 
+in Malta, with an average of 56%. 
+ 
+Figure 12 Facebook users in the population of the EU’s 27 member states, March 2020 
+As Facebook’s former head of policy for Europe, Richard Allan, put it, the company’s 
+“core value proposition is that it allows you [to] communicate with all (or at least a 
+significant group of) your family and friends.”89 While Facebook has billions more 
+users than its competitors, this strategy means it can strongly differentiate itself 
+from them by blocking their access to its own users. 
+From the earliest years of social media usage, boyd found evidence of youth com-
+munities sorting themselves between different platforms: 
+ 
+88 Data: Internet World Stats. 
+89 R Allan, Pub Rules for Platforms, regulate.tech, 29 June 2020. 
+- 29 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+As Facebook started gaining momentum, some teenagers switched from 
+MySpace to Facebook. Others joined Facebook without having ever been on 
+MySpace. Still others chose to adopt both… Subculturally identified teens 
+appeared more frequently drawn to MySpace while more mainstream teens 
+tended towards Facebook. Teens from less-privileged backgrounds seemed 
+likely to be drawn to MySpace while those headed towards elite universities 
+appeared to be head towards Facebook. Racial and ethnic divisions looked 
+messier, tied strongly to socio-economic factors, but I observed that black 
+and Latino teens appeared to preference MySpace while white and Asian 
+teens seemed to privilege Facebook.90 
+The social importance of connecting all members of society has long been recog-
+nised in regulation of telecommunications, with EU national regulators able to im-
+pose interconnection (allowing price negotiations) and interoperability duties on 
+network providers91 via the Framework Directive (2002/21/EC) and Access Directive 
+(2002/19/EC), and to mandate a universal service, including to disabled users, under 
+the Universal Service Directive (2002/22/EC).  
+In promoting competition, the EU internal market, and citizens’ interests, §5 of the 
+Access Directive requires national regulators to “encourage and where appropriate 
+ensure, in accordance with the provisions of this Directive, adequate access and 
+interconnection, and the interoperability of services, exercising their responsibility 
+in a way that promotes efficiency, sustainable competition, efficient investment and 
+innovation, and gives the maximum benefit to end-users.” There are also detailed 
+requirements for “network neutrality” by Internet access services in the Open Inter-
+net Regulation (2015/2120), to “safeguard equal and non-discriminatory treatment 
+of traffic in the provision of internet access services and related end-users’ rights” 
+(§1(1)). Services must “not block, slow down, alter, restrict, interfere with, degrade 
+or discriminate between specific content, applications or services” except for some 
+narrowly limited purposes (§3(3)). 
+However, some influential economists argue broad interoperability requirements for 
+platforms are not justified. Kerber and Schweitzer concluded: 
+The extension of horizontal interoperability regulation from physical infra-
+structures to interpersonal communications services and digital platforms is, 
+however, not at all obvious. The balance of interests differs significantly. Nei-
+ther the goal to prevent market tipping nor the universal service rationale are 
+relevant across  the  board when  it  comes to  digital platforms. Universal 
+ 
+90 d boyd (2011) White Flight in Networked Publics? How Race and Class Shaped American Teen En-
+gagement with MySpace and Facebook. In Race After the Internet, eds. Lisa Nakamura and Peter A. 
+Chow-White (New York: Routledge) pp.206-212. 
+91 W Kerber and H Schweitzer (2017) Interoperability in the digital economy, Marburg Centre for Insti-
+tutional Economy, Macie Paper Series No. 2017/02, pp.15-16. 
+- 30 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+services policies strive to ensure a basic service – but not end-to-end con-
+nectivity in any possible respect. Interventions into the digital platform oper-
+ators’ freedom to choose between closed and open systems lacks justifica-
+tion where end users typically engage in multi-homing and thereby ensure 
+de facto end-to-end connectivity themselves. Similarly, where multi-homing 
+is common, tipping may not be an issue. Even where tipping may be a con-
+cern, the imposition of interoperability duties upon digital platforms may im-
+ply a significantly more interventionist regime than the interconnection re-
+quirement between physical networks. It is, therefore, important to clearly 
+distinguish between network interconnection and platform interoperability.92 
+There was extensive discussion in the mid-2010s of interconnection of instant mes-
+saging services by the European Commission and telecoms regulators, under the 
+provisions of the European Electronic Communications Code (EECC, 2018/1972, 
+which must be implemented by Member States by 20 December 2020). While the 
+provisions of that Code were weakened from the European Commission’s original 
+proposal by opposition from some member states,93 it will enable national regulators 
+under certain conditions to impose interoperability upon dominant instant messag-
+ing platforms (see the scenarios discussion later). The Digital Markets Act will pro-
+vide a further opportunity to address these issues.  
+Media pluralism and diversity 
+Broadcast, cable and satellite TV and radio distributors are required in many Euro-
+pean countries to carry specified channels,94 and to give due prominence in elec-
+tronic programme guides to certain channels, both to widen the distribution of public 
+service broadcast content, and to protect media pluralism and diversity.95 But Ger-
+many is the only country yet to consider extending pluralism obligations to major 
+online platforms.96 As the European Data Protection Supervisor put it: “[Large online 
+platforms] serve as gatekeepers to the internet, able to control the digital public 
+space, and determine through secret, proprietary means what people can and can-
+not see – whether it is recommended content or products, commercial ads, political 
+messages or news items.”97 Helberger notes: 
+ 
+92 Kerber and Schweitzer, fn 91, p.18. 
+93 Contrast §59 in the Commission’s proposal with the final §61. Proposal for a Directive of the Euro-
+pean Parliament and of the Council establishing the European Electronic Communications Code (Re-
+cast), COM/2016/0590 final - 2016/0288 (COD). 
+94 L Woods, Must Carry/Must Offer obligations on audiovisual services under EU Law, Harbottle & 
+Lewis Insights, 20 December 2019. 
+95 B van der Sloot (2012) Walking a Thin Line: The Regulation of EPGs, JIPITEC Vol. 3, pp.138–147. 
+96 Helberger, fn 87. 
+97 W Wiewiórowski, Sharing is caring? That depends… European Data Protection Supervisor blog, 13 
+December 2019. 
+- 31 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+alongside immediate communication power (such as networking, networked 
+and network-making power), social media also has what I call ‘systemic opin-
+ion power’, which is the power to create dependences and influence other 
+players in a democracy. In so doing, these platforms change the very struc-
+ture and balance of the media market, and thereby directly and permanently 
+impact the pluralistic public sphere.98 
+The US Stigler report concluded that interoperability “may contribute to reducing 
+the gatekeeping power of [dominant] platforms and positively impact the type of 
+information that users consume.”99  
+A 2020 report from Germany’s National Academy of Science and Engineering called 
+for a “European digital ecosystem that is democratically accountable to its citizens. 
+A digital ecosystem that observes European values such as transparency, openness 
+and privacy protection, even in its technical design, can create a digital public 
+sphere that offers fair terms of access and use, strengthens the public debate and 
+safeguards the plurality that forms a key part of Europe’s identity.”  
+The report identified the importance to this goal of “a technology strategy charac-
+terised by modularity, interoperability, openness and transparency that enables 
+continuous development and a diverse range of business models.”100 
+The British Broadcasting Corporation’s (BBC) Director of Radio (and former UK Cul-
+ture Secretary) complained to a UK parliamentary hearing in June 2020 that the BBC 
+had been unable to agree deals with Amazon and Google for their ‘smart speakers’ 
+to carry BBC coronavirus coverage (while agreeing a deal for Facebook Messenger 
+to carry the “BBC Corona Bot” to provide health information about the pandemic). 
+He asked whether “we are happy about the biggest organisations in the world, big 
+tech companies with their executives essentially [based] in the [United] States, 
+combining a monopoly in people’s kitchens and in living rooms,” and suggested us-
+ers should be given a choice of voice assistants in future.101 
+Helberger concluded: 
+The source of the political power of platforms is their ability to wield opinion 
+power, whether it is that of their users or politicians, or their ability to influ-
+ence public discourse for their own purposes. Without adequate safeguards, 
+ 
+98 Helberger, fn 87, s.3. 
+99 Stigler, fn 6, p.144. 
+100 H Kagermann, U Wilhelm (Eds.) European Public Sphere: Towards Digital Sovereignty for Europe 
+(Munich: acatech – National Academy of Science and Engineering, 2020), p.5. 
+101 Mark Sweney, Smart speakers risk creating 'big-tech monopoly' in homes, The Guardian, 16 June 
+2020. 
+- 32 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+all commitments to neutrality, fairness and non-manipulation are meaning-
+less. The sheer possibility of the abuse of this immense power for one’s own 
+political goals is in itself a threat to any functioning democracy. Dispersing 
+concentrations of opinion power and creating countervailing powers is es-
+sential to preventing certain social media platforms from becoming quasi-
+governments of online speech, while also ensuring that they each remain one 
+of many platforms that allow us to engage in public debate.102 
+Privacy and data protection 
+Many platform services are provided at the highly attractive price of “free” to us-
+ers103 – paid for, of course, by extensive user profiling and targeting with behavioural 
+advertising. But the structural obstacles to competition for these services can still 
+negatively impact on quality, innovation and choice for users, as well as the oppor-
+tunity for European start-ups and larger firms to enter these key global markets. As 
+Commissioner Vestager said in 2016: 
+Because we know that competition gives consumers the power to demand a 
+fair deal. To shop around to find a better price, or a wider choice of products. 
+To seek out better quality, whatever that means to them – whether it’s a more 
+reliable car, or a social network that protects their private data better.104 
+The UK’s Furman review similarly noted: “it is clear that well-functioning competitive 
+digital markets have the potential to develop new solutions and increased choice for 
+consumers, where privacy and quality of service can be differentiating factors.”105 
+The European Parliament’s annual competition report for 2019 “[d]raws the [Euro-
+pean] Commission’s attention to acquisitions carried out by foreign monopolies of 
+digital data operators, including health, financial and educational data, and to the 
+privacy risks involved, which extend far beyond the already damaging effects of 
+transactions of this kind on competition” (§33).  
+Many academic experts and activists have criticised the lack of enforcement of the 
+GDPR since it came into force in May 2018, particularly by the Irish Data Protection 
+Commission, responsible for regulating many of the Internet giants’ European es-
+tablishments in Dublin. One standards body expert interviewee noted: 
+ 
+102 Helberger, fn 87, s.5. 
+103 Crémer et al., fn 3, p.20. 
+104 M Vestager, Competition for a Fairer Society, Tenth Annual Global Antitrust Enforcement Sympo-
+sium Georgetown, 20 September 2016. 
+105 Furman et al., fn 4, p.6. 
+- 33 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+The lack of enforcement of GDPR against US giants directly affects the EU in-
+dustry's ability to compete. Because DPA chose the lazy way of easy en-
+forcement and Ireland chooses to be a crime haven, the competition interest 
+is meddled with national economic interest. This preserves the competition 
+bias. IMHO, there are three possible resolutions: 
+a.  a race to the bottom (killing GDPR) 
+b.  a simple division of labour (social networking == US & China vs en-
+terprise computing == EU) 
+c.  a EU action against tax/crime/data protection havens 
+Web tracking is an example of an open and interoperable environment turn-
+ing into a cesspool of exploitative practices by both large and small corporate 
+actors. 
+That doesn't mean that open environments are bad, quite the contrary. But 
+they require governance, beyond code and markets.106 
+On decentralisation, a standards body expert interviewee noted: “ActivityPub and 
+ActivityStreams (AP+AS )are good basis for system similar to FB and Twitter which 
+are decentralised. (IndieWeb have their own approach, they are hobbyists, piece-
+meal, solve each problem individually. Only reluctantly standardised AP+AS.) It al-
+lows you to have any client you want, and more importantly maybe, and where the 
+data is stored is under the control of the user. That’s the key fundamental difference. 
+And it comes at a cost, because of course centralisation helps in terms of perfor-
+mance. It’s much harder when things are fully decentralised. So today on FB or Twit-
+ter you want to follow me, your clients can access that server, and you get all your 
+friends’ posts from the same source, and it’s very efficient. But if we said each of 
+your friend will store the data in different places, your client has to open n connec-
+tions, download, depend on each and every one of those servers, and present it to 
+you in a form that is suitable. But it does give people control over the data.” 
+S/he added: “The challenge of decentralised systems, they tend inherently to be 
+harder to operate, to set up. All the companies having a Facebook page, it drives me 
+nuts. You see on billboards they gave you a FB page not a web address. People 
+have to register on your website to do anything, it creates friction. This is the chal-
+lenge we are facing overall. Centralisation reduces friction, makes it very compelling 
+to users.” 
+A free software developer interviewee noted: 
+ 
+106 W Christl (2020) @WolfieChristl tweet 12:16 20/9/2020. 
+- 34 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+The ecosystem should be technically open and you shouldn’t need to have 
+permission for your app (and an API key). I do not want to end up with apps 
+being services. This is a big issue with API keys. Once as a developer you 
+apply for an API key, you need to run your software as a service. It is a step 
+forward if you as an individual user can write software to access the services 
+you use. If you want a free software ecosystem you need this. That doesn’t 
+empower people. I should be able to fork someone’s software, and not reap-
+ply, and the more complicated this system is the less likely people will do this. 
+It’s a step forward but it remains unfree. (But I can well imagine we end up 
+here. But it would be a compromise.) 
+API keys as such, but a user should be able to get an API key. I should be 
+able to use any software to log in to any service provider. That is a principle 
+we need to keep emphasising. We need to separate the client and the server 
+side. The server should be neutral to what client I use. That’s what the AC-
+CESS Act calls delegation. We should put more focus on the software side of 
+that. 
+Some academic research has found many messaging users deliberately use non-
+interoperability as a mechanism to maintain social boundaries by connecting with 
+different groups of partners, friends, family and colleagues via different services.107 
+However, that users today often take advantage of a lack of interoperability doesn’t 
+tell us how their usage would change with greater interoperability. There are many 
+types of platform controls that could give users of existing messaging (and social 
+media) better control of their contacts — which would be beneficial for all users for 
+platforms to develop further, and could be incentivised by interoperability. The CMA 
+concluded: 
+We are conscious that there are potential risks associated with the privacy 
+of users’ data, if users lose control over their data, and automatic ‘spamming’. 
+However, as long as the decision to post content across platforms is user-
+initiated and well-informed, including full clarity over permissions, it should 
+be possible to address those concerns. Indeed, we note that users are cur-
+rently able to cross post content from Instagram to other platforms, such as 
+Facebook, Twitter and Tumblr, which indicates that Facebook can design this 
+functionality in a manner that protects against those concerns.108 
+A significant issue raised by interoperability for data protection is the transfer of 
+users’ and their contacts’ data to third party systems, the latter without explicit 
+ 
+107 R Arnold, A Schneider and J Lennartz (2020) Interoperability of interpersonal communications ser-
+vices – A consumer perspective, Telecommunications Policy 44, p.4.  
+108 CMA, fn 5, Appendix W, p.13. 
+- 35 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+consent. Even if end-to-end encryption is in place to protect the contents of mes-
+sages, metadata about messages will still be revealed.109  
+It would be important to develop detailed data protection rules under the General 
+Data Protection Regulation to cover the processing of personal data by third parties 
+using interoperability  mechanisms. Civil  society  group EFF  suggests such pro-
+cessing should be limited strictly to that needed to support interoperability,110 and 
+MEPs Alexandra Geese and Marcel Koloja have called on the Commission “to intro-
+duce an obligation for systemic intermediaries with significant market power to 
+make available and document tools to allow third-parties to interoperate with their 
+main functionalities or to act on an user’s behalf, whereby intermediaries may not 
+share, retain, monetize, or use any of the data they receive in the context of interop-
+erability activities from third-parties, and intermediaries and third parties must pro-
+tect users’ privacy and must respect the GDPR and other relevant Union legisla-
+tion”.111 The European Data Protection Board has stated (in the context of the in-
+teroperability of European contact tracing apps112): 
+The goal of interoperability should not be used as an argument to extend the 
+collection of personal data beyond what is necessary. (p.2) 
+Interoperability will lead to additional processing and disclosure of data to 
+additional entities. As always, data subjects need to be made aware of any 
+additional processing of their personal data and the involved parties. The us-
+ers should always have a clear understanding of what the use of the appli-
+cation entails and should remain in control of their data. (p.2) 
+The respective roles, relationships and responsibilities of the joint controllers 
+in regards to the data subject will need to be defined and this information 
+should then be made available to the data subject. (p.3) 
+Any interoperable solution needs to facilitate a way for data subjects to ex-
+ercise their rights. Where the exercise of rights is possible, it should not be-
+come more cumbersome for the data subjects and it should be clear to whom 
+the data subjects should turn to exercise their rights. (p.4) 
+ 
+109 B Greschbach, G Kreitz and S Buchegger (2012) The devil is in the metadata - New privacy chal-
+lenges in decentralised online social networks, IEEE International Conference  on Pervasive Compu-
+ting and Communications Workshops, PERCOM Workshops, pp. 333-339. 
+110 B Cyphers and C Doctorow, A Legislative Path to an Interoperable Internet, Electronic Frontier 
+Foundation Deeplinks, 28 July 2020. 
+111 Amendment 464 to the Draft report by Alex Agius Saliba (PE648.474v02-00), European Parliament 
+Committee on the Internal Market and Consumer Protection, 2020/2018(INL), 18 May 2020. 
+112 European Data Protection Board, Statement on the data protection impact of the interoperability 
+of contact tracing apps, adopted 16/6/20. 
+- 36 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+Differences in the set data retention period should not lead to data being 
+stored for longer than what is necessary. (p.4) 
+Interoperability should not lead to a decrease in data security and the pro-
+tection of personal data… This notably concerns security of data in transit for 
+the possible interconnection of back-end servers. In particular, measures ad-
+dressing security risks related to interoperability that have an impact on the 
+rights and freedoms of natural persons must be addressed in the [Data Pro-
+tection Impact Assessment]. (p.4) 
+In a review of the related “data portability” obligations under the GDPR, Facebook 
+noted the views of their stakeholders so far was “a transferring entity may—and 
+should—impose  some  baseline privacy and data protection restrictions  around 
+transfers even when carrying out the transfer to comply with a portability request. 
+But… questions remain about what kinds of conditions are appropriate.”113 Facebook  
+suggests there should be clear transparency obligations for the organisation receiv-
+ing such personal data. 
+Consideration would also be needed as to the situation of platforms subject to the 
+GDPR or equivalent foreign protection sharing personal data via interoperability 
+mechanisms with other parties that were not. While platforms offering services to 
+Europeans are bound by the GDPR wherever they are established, the situation 
+would be more complex if a GDPR-covered platform A enabled a platform B (that 
+was not) to process personal data relating to a European user accessed on platform 
+A, without that user’s explicit consent. The European Data Protection Board notes 
+the importance of ensuring such data is not: 
+processed in a way that would adversely affect the rights and freedoms of 
+the other data subjects… Such an adverse effect would occur, for instance, 
+if the transmission of data from one data controller to another, would prevent 
+third parties from exercising their rights as data subjects under the GDPR 
+(such  as  the  rights  to  information,  access,  etc.). 
+ 
+The data subject initiating the transmission of his or her data to another data 
+controller, either gives consent to the new data controller for processing or 
+enters into a contract with that controller. Where personal data of third par-
+ties are included in the data set another legal basis for the processing must 
+be identified. For example, a legitimate interest may be pursued by the data 
+controller under Article 6(1)(f), in particular when the purpose of the data 
+controller is to provide a service to the data subject that allows the latter to 
+process personal data for a purely personal or household activity. The pro-
+cessing operations initiated by the data subject in the context of personal 
+ 
+113E Egan, Data Portability and Privacy, Facebook, September 2019, p.10. 
+- 37 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+activity that concern and potentially impact third parties remain under his or 
+her responsibility, to the extent that such processing is not, in any manner, 
+decided  by  the  data  controller… 
+ 
+Conversely, the rights and freedoms of third parties will not be respected if 
+the new data controller uses the personal data for other purposes, e.g. if the 
+receiving data controller uses personal data of other individuals within the 
+data  subject’s  contact  directory  for  marketing  purposes. 
+ 
+Therefore, to prevent adverse effects on the third parties involved, the pro-
+cessing of such personal data by another controller is allowed only to the 
+extent that the data are kept under the sole control of the requesting user 
+and is only managed for purely personal or household needs. A receiving 
+‘new’ data controller (to whom the data can be transmitted at the request of 
+the user) may not use the transmitted third party data for his own purposes 
+e.g. to propose marketing products and services to those other third party 
+data subjects…  
+Furthermore, it is a leading practice for all data controllers (both the “sending” 
+and “receiving” parties) to implement tools to enable data subjects to select 
+the relevant data they wish to receive and transmit and exclude, where rele-
+vant, data of other individuals. This will further assist in reducing the risks for 
+third  parties  whose  personal  data  may  be  ported. 
+ 
+Additionally, the data controllers should implement consent mechanisms for 
+other  data subjects involved, to ease data transmission  for those  cases 
+where such parties are willing to consent, e.g. if they also want to move their 
+data to some other data controller. Such a situation might arise, for example, 
+with social networks, but it is up to data controllers to decide on the leading 
+practice to follow.114 
+Note that the “legitimate interests” justification for processing cannot be used for 
+“special category” data under §9 of the GDPR: “personal data revealing racial or eth-
+nic origin, political opinions, religious or philosophical beliefs, or trade union mem-
+bership, and the processing of genetic data, biometric data for the purpose of 
+uniquely identifying a natural person, data concerning health or data concerning a 
+natural person's sex life or sexual orientation". This would be true of much instant 
+messaging and social media data. It might be that a specific legal provision would 
+be required under §9(f) to allow processing of such data from a third party.115 
+ 
+114 Article 29 Working Party, fn 41, pp.11—12.  
+115 "processing is necessary for reasons of substantial public interest, on the basis of Union or Mem-
+ber State law which shall be proportionate to the aim pursued, respect the essence of the right to 
+- 38 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+Note also the limitation identified by the EDPB of the processing of data transferred 
+“for purely personal or household needs.” This would again require legislative atten-
+tion, given the likely use of interoperability provisions by legal persons as well as 
+individuals, and for activities (e.g. proselytising116) and material (e.g. CCTV footage 
+of public areas recorded by individuals117) that might not qualify for this GDPR ex-
+emption (Recital 18/§2(2)(c)).  
+The interpretive Recital 18 adds: “Personal or household activities could include cor-
+respondence and the holding of addresses, or social networking and online activity 
+undertaken within the context of such activities. However, this Regulation applies to 
+controllers or processors which provide the means for processing personal data for 
+such personal or household activities.” So while this provision might protect individ-
+ual users’ personal social networking activities, it would not cover the platforms pro-
+cessing that data. 
+A platform engineer interview commented: it’s important “to protect information 
+about what a startup competitor is doing from the large platform. You need to stop 
+Facebook etc. from using data about competitor in anticompetitive ways (e.g. mon-
+itoring the trajectory of new user sign-ups)”. 
+Content moderation 
+In both the proposed Digital Services Act package (addressing hate speech, disin-
+formation and extremism) and other legislation (such as the proposed Terrorist Con-
+tent Regulation118), the EU is addressing problems relating to “content moderation” 
+by online platforms – the rules and processes by which platforms remove certain 
+“harmful” posts from users, while protecting users’ freedom of expression. 
+Interoperability enables a parallel route by which some of these issues can be ad-
+dressed – giving users greater choice of different content moderation regimes, even 
+ 
+data protection and provide for suitable and specific measures to safeguard the fundamental rights 
+and the interests of the data subject” 
+116 Jehovan todistajat, Court of Justice of the European Union, Case C-25/17, 10 July 2018. In the Ad-
+vocate General’s opinion, referring to the similar provision in the GDPR’s predecessor Data Protection 
+Directive: “proselytising, by its nature, involves entering into a relationship with persons who are, as a 
+matter of principle, unknown and do not share the preacher’s faith. Unlike the holding of a record of 
+addresses, for example, preaching necessarily leads to a ‘confrontation’ with the world beyond home 
+and family unit. The nature of the data collected, including data enjoying enhanced protection under 
+Directive 95/46, also supports a clear distinction from the example referred to in recital 12 of Di-
+rective 95/46." Opinion of Advocate General Mengozzi, 1 February 2018, §40. 
+117 Ryneš v Úřad pro ochranu osobních údajů, Court of Justice of the European Union, Case C-212/13, 
+11 December 2014. See also L Woods, Bringing Data Protection Home? The CJEU rules on data pro-
+tection law and home CCTV, EU Law Analysis blog, 11 December 2014. 
+118 European Parliament Legislative Observatory, Preventing the dissemination of terrorist content 
+online, 2018/0331(COD). 
+- 39 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+on the same platform (separately from the issue of statutory requirements for plat-
+forms to remove illegal content). 
+Mastodon illustrates this possibility. Each of its “instances” (servers) may choose its 
+own moderation rules, with software tools available to ease the work of instance 
+moderators. (In practice, many of the instances choose similar rules.) When new 
+users sign up to Mastodon, they are given the choice of instances that match their 
+own expressed moderation preferences, as shown in Figure 13. Communities of in-
+terest can form around specific instances – a comprehensive review found “tech and 
+gaming communities …  quite prominent. Certain topics (e.g. journalism) are covered 
+by many instances, yet have few users. In contrast, other topics (e.g. adult material) 
+have a small number of instances but a large number of users.”119 Instances choose 
+which other instances they connect to – some refuse to connect to instances that 
+feature, for example, loose rules around hate speech. 
+ 
+Figure 13 Mastodon helps new users find instances matching their content moderation preferences 
+ 
+119 A Raman, S Joglekar, E De Cristofaro, N Sastry and G Tyson (2019) Challenges in the Decentral-
+ised Web: The Mastodon Case, Proc. Internet Measurement  Conference (IMC ’19), October 21–23, 
+2019, Amsterdam. 
+- 40 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+The instance run by Mastodon’s main developer, Eugen Rochko, has the following 
+content rules:120 
+The following types of content will be re- Any conduct intended to stalk or harass other 
+moved from the public timeline:  users, or to impede other users from utilizing 
+●  Excessive advertising  the service, or to degrade the performance of 
+●  Uncurated news bots posting from  the service, or to harass other users, or to in-
+third-party news sources  cite other users to perform any of the afore-
+●  Untagged nudity, pornography and  mentioned actions, is also disallowed, and 
+sexually explicit content, including ar- subject to punishment up to and including 
+tistic depictions  revocation of access to the service. This in-
+●  Untagged gore and extremely  cludes, but is not limited to, the following be-
+graphic violence, including artistic  haviors: 
+depictions  ●  Continuing to engage in conversation 
+with a user that has specifically has 
+  requested for said engagement with 
+that user to cease and desist may be 
+considered harassment, regardless of 
+The following types of content will be re-
+platform-specific privacy tools em-
+moved from the public timeline, and may re-
+ployed. 
+sult in account suspension and revocation of 
+●  Aggregating, posting, and/or dissemi-
+access to the service: 
+nating a person's demographic, per-
+●  Racism or advocation of racism 
+sonal, or private data without express 
+●  Sexism or advocation of sexism 
+permission (informally called doxing 
+●  Casteism or advocation of casteism 
+or dropping dox) may be considered 
+●  Discrimination against gender and 
+harassment. 
+sexual minorities, or advocation 
+●  Inciting users to engage another user 
+thereof 
+in continued interaction or discussion 
+●  Xenophobic and/or violent national-
+after a user has requested for said 
+ism 
+engagement with that user to cease 
+and desist (informally called brigad-
+ 
+ing or dogpiling) may be considered 
+harassment. 
+The following types of content are explicitly 
+disallowed and will result in revocation of ac-
+cess to the service: 
+●  Sexual depictions of children 
+●  Content illegal in Germany and/or 
+France, such as holocaust denial or 
+Nazi symbolism 
+●  Conduct promoting the ideology of 
+National Socialism 
+An early journalist  user reported she found “the predominant culture of masto-
+don.social isn't San Francisco techies, it's really more of an LGBTQ-oriented space, 
+ 
+120 E Rochko, mastodon.social Code of Conduct. 
+- 41 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+one with a lot of anime avatars and a lot of furries. A veritable multitude of anime 
+avatars, but sans Nazis.”121 A recent review found “the decentralized structure of 
+Mastodon enables community autonomy”, with the federation becoming “a social 
+enterprise in and of itself” due to its open protocol, and that its “horizontal structure 
+shifts the site’s scaling focus from sheer number of users to quality engagement and 
+niche communities.”122 
+Gab, a social media site whose apps were banned from Apple and Google’s stores 
+in 2017 due to the presence of “extreme hate speech”, now hosts its own (large) 
+Mastodon instance – which is cut off from many other instances. But as the Masto-
+don code is available under an open source licence, “there's no functional way for 
+Mastodon to shut down Gab. This, of course, was part of the appeal for Gab in the 
+first place. In the past, Gab had lost its webhost GoDaddy and had been banned 
+from accepting donations via PayPal.”123 
+More research is needed on “how federation might encourage hate-speech online 
+and ways to manage those groups”, as well as “the extent to which topology, ab-
+straction, and scale facilitate problematic online behavior”124 and the impact of in-
+teroperability (and possible controls) on the amplification of harmful content. One 
+possible approach is to develop specific open source licenses to restrict the use of 
+software to propagate extremist content. Another is to block it via software clients 
+rather than instances – which might reduce its spread amongst a broader user base 
+(although not those who specifically choose software to connect to Gab, or similar 
+networks.)125 
+ 
+121 S Jeong, Mastodon Is Like Twitter Without Nazis, So Why Are We Not Using It? Motherboard, 4 
+April 2017.  
+122 M Liu, RW Gehl and D Zulli (2020) Rethinking the ‘Social’ in ‘Social Media’: Insights into Topology, 
+Abstraction, and Scale on the Mastodon Social Network, New Media and Society. 
+123 B Makuch, The Nazi-Free Alternative to Twitter Is Now Home to the Biggest Far Right Social Net-
+work, Motherboard, 11 July 2019. 
+124 Liu et al., fn 122, pp.22-23. 
+125 J Naskali (2020) Examination of hard-coded censorship in open source Mastodon clients, Pro-
+ceedings of ETHICOMP 2020: Paradigm Shifts in ICT Ethics. 
+- 42 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+Environmental impact 
+ 
+Figure 14 Muller et al.'s framework model for interoperability maturity in the Building Information Model-
+ling lifecycle 
+In a literature review, Muller and colleagues noted interoperability can support sus-
+tainable (real-world) design, construction, operation, maintenance, and demolition, 
+by enabling the exchange of building information between “multidisciplinary teams 
+that are geographically distributed (e.g., owners, architects, consultants, contrac-
+tors, sub-contractors, suppliers, and engineers)”, including energy and sustainability 
+analyses. There are standard data models, ontologies, and encodings for the indus-
+try standard Building Information Modeling to enable data and service interopera-
+bility  (with  business  and process  interoperability  also  needing  attention).  The 
+- 43 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+authors developed the framework model covering all these issues shown in Figure 
+14.126 
+A computer scientist interviewee similarly noted: 
+We should be building future infrastructure such as it’s highly interoperable, 
+including new and emergent properties, the disruptive things. It’s not just 
+about identifying strategic market status. Legislation should be written to say 
+the future of the Internet is the future of interoperable things. I deeply worry 
+with what’s happening with IoT, thinking it in terms of sustainability argu-
+ments, we’re taking the worst practices of the tech sector, throw everything 
+away after three years, what will that do to the planet. We don’t have a single 
+standard across Europe for electricity supply, but we have standards on the 
+quality of the power supply, 240V. But nations insisted on e.g. square plugs. 
+That affects everyone. It’s about the infrastructure. You wouldn’t let startups 
+say we want our self-driving car to drive on the right-hand side. IoT needs to 
+be in the building regs to get it under control. Then compete on quality of 
+product, not our plug is easier to use than your plug. So, I do think there’s a 
+general background to this, we shouldn’t be permitting to get to this point. 
+People will have to throw away all their tech when they move to a new house. 
+And it’s even worse when it gets embedded in the building. Number of things 
+so completely wrong with the IoT at the moment. It’s the emergent mayhem 
+in that sector. It’s just a complete mess. Much more here about interop being 
+the basis for a sustainable economy rather than a very wasteful one. The 
+number of IoT device companies Google has just shut down after acquiring 
+them, all that tech is on the scrapheap. We’re building all sorts of problems 
+here that aren’t economic, but sustainability. 
+Digital sovereignty 
+There are obvious political issues with democratically unaccountable private powers 
+of historically unprecedented size,127 with Amazon, Microsoft, Facebook, Alphabet 
+and Apple in mid-2020 together approaching a quarter of the value of the US’s larg-
+est 500 listed companies.128 The five companies’ collective 2019 revenues places 
+them between the Netherlands and Saudi Arabia, when countries are ranked by 
+GDP.129 These companies are all headquartered in a jurisdiction with an extremely 
+ 
+126 M Figueiredo Muller*, F Esmanioto, N Huber, E Rocha Loures, O Canciglieri Jr. (2019) A systematic 
+literature review of interoperability in the green Building Information Modeling lifecycle, Journal of 
+Cleaner Production, Vol. 223, pp.408—409.  
+127 N Smyrnaios (2016) The GAFAM effect: Strategies and logics of the internet oligopoly, Communi-
+cation & Languages, Vol. 188(2), pp.61—83. 
+128 Lex, Techlash: all talk, Financial Times, 14 June 2020. 
+129 Wallach, fn 67.. 
+- 44 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+laissez faire approach to regulation – or alternatively, as with Chinese giants such 
+as Alibaba, Tencent and Baidu, the world’s most populous authoritarian state.  
+ 
+Table 2: 2018 and 2019 revenues of Apple, Amazon, Alphabet, Microsoft and Facebook. Source: Wallach 
+(2020) 
+This is a particular issue when these firms control the 21st century “public squares” 
+of the Internet, where so much social and political debate now occurs. While the EU 
+has responded with  legislation such as the General Data Protection Regulation, 
+which also applies to companies in other jurisdictions offering services to or moni-
+toring Europeans, this cannot on its own address the increasingly outsized influence 
+of trillion-dollar companies on politics and everyday life. Interoperability would allow 
+European companies – large and small – to produce alternative tools for Europeans 
+to connect to these public squares, as well as their colleagues, friends and family, if 
+they so wished. 
+Paul Nemitz, a senior European Commission official who played a key role in the 
+development of the GDPR, commented in an on-the-record interview: 
+Like states, the big tech companies are now so powerful we now need to 
+think about the division of power. From the point of view of democracy, if one 
+believes humanity and technology’s innovativeness is unlimited, and it leads 
+ever more to concentration, we have a huge democracy problem, because 
+democracy cannot live with the fact the platform starts as social media, then 
+takes over schools and education, then journalism, then research, then onto 
+elections… no.  
+Then comes the question, how can we support innovation? There are many 
+who say the fact these companies systematically either buy up, imitate, or 
+push to the side any little flower that comes up that could be an alternative 
+or a competitor, is a huge impediment to innovation which is impossible to 
+manage with a purely ex post competition tool where you have to spend three 
+years on every case. These cannot not be dealt with on a case by case basis. 
+- 45 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+How many hundreds of companies have been bought up by them? The com-
+panies are good where they are, so European industrial policy has to go to 
+other places. Internet of Things – let’s look at that. Something where we can 
+start anew. But we cannot imitate what they are doing well. We must do new 
+things newer and better, and we must create the conditions for success. 
+As European Commission president Ursula von der Leyen wrote, “‘tech sovereignty’ 
+… describes the capability that Europe must have to make its own choices, based 
+on its own values, respecting its own rules. This is what will help make tech optimists 
+of us all.”130 
+   
+ 
+130 U von der Leyen, Shaping Europe's digital future, 19 February 2020. 
+- 46 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+Existing  and planned European interopera-
+bility policies 
+The EU has a long history of using interoperability as a policy tool to overcome net-
+work effects and high switching costs in concentrated markets such as telecommu-
+nications and banking, and foresees its use in a wide range of future digital services:  
+●  The Access Directive (2002/19/EC) aims to “establish a regulatory frame-
+work... for the relationships between suppliers of networks and services 
+that will result in sustainable competition, interoperability of electronic com-
+munications services and consumer benefits.” (§1) 
+●  The Framework Directive (2002/21/EC) requires Member States to encour-
+age the use of communications standards where required “to ensure in-
+teroperability of services and to improve freedom of choice for users. (§17) 
+●  The European Electronic Communications Code (EECC, 2018/1972) aims to 
+“implement an internal market in electronic communications networks and 
+services that results in the deployment and take-up of very high capacity 
+networks, sustainable competition, interoperability of electronic communi-
+cations services, accessibility, security of networks and services and end-
+user benefits” (§1(2)(a)). It includes provisions on instant messaging (“num-
+ber-independent interpersonal communications service”) (§61), which are 
+yet to be used by the competent national authorities. In particular, authori-
+ties may impose, “in justified cases, where end-to-end connectivity be-
+tween end-users is endangered due to a lack of interoperability between in-
+terpersonal communications services, and to the extent necessary to en-
+sure end-to-end connectivity between end-users, obligations on relevant 
+providers of number-independent interpersonal communications services 
+which reach a significant level of coverage and user uptake, to make their 
+services interoperable”. 
+●  The second Payment Services Directive (2015/2366) provides an enabling 
+framework for secure, innovative financial services, requiring the European 
+Banking Authority to develop “open standards [which] should ensure the in-
+teroperability of different technological communication solutions” (Recital 
+93). 
+●  Competition law enforcement by the European Commission required Mi-
+crosoft to provide a choice of web browsers in its Windows operating sys-
+tem, and to allow workgroup software to network Windows PCs; and 
+Google to provide a choice of default search engine in its Android browser, 
+and to allow alternate specialised search engines to bid for inclusion in its 
+main results page.  
+●  The Digital Future Communication explicitly mentions interoperability as 
+part of the policies on 5G and 6G; digital health; eID; supercomputing; quan-
+tum technologies; blockchain; secure, pan-European cloud capacities; and 
+exchange of electronic health records. 
+- 47 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+●  The Communication on A European Strategy for Data states that data in-
+teroperability is key for the exploitation of data value, as well as a tool for 
+increased competition by making it easier to switch between cloud provid-
+ers. 
+●  The European Commission is supporting the Member States to ensure their 
+coronavirus contact tracing apps are interoperable, enabling travellers to be 
+notified following a foreign trip if they were significantly exposed to some-
+one who later tested positive. 
+●  The commonly-called Platform to Business Regulation (2019/1150) also pro-
+vides important underpinnings, relating to transparency and fairness of all 
+“intermediation services” and search engines linking businesses and corpo-
+rate websites with consumers, including on access to data.131 
+The interoperability explicitly foreseen in the Electronic Communication Code be-
+tween  number-independent interpersonal  communications services  (aka instant 
+messaging) may only be imposed:  
+(i) to the extent necessary to ensure interoperability of interpersonal com-
+munications services and may include proportionate obligations on providers 
+of those services to publish and allow the use, modification and redistribution 
+of relevant information by the authorities and other providers, or to use and 
+implement standards or specifications listed in Article 39(1) or of any other 
+relevant European or international standards; 
+(ii) where the Commission, after consulting BEREC and taking utmost account 
+of its opinion, has found an appreciable threat to end-to-end connectivity 
+between end-users throughout the Union or in at least three Member States 
+and has adopted implementing measures specifying the nature and scope of 
+any obligations that may be imposed. (§61(2)) 
+While some types of interoperability have been imposed ex post (following a Euro-
+pean Commission investigation and decision-making process) in specific cases un-
+der existing rules, many competition economists judge these detailed and highly 
+fact-specific cases too slow (seven years, in some cases), unpredictable, and nar-
+row to provide the broader rules needed for effective digital competition.132 Tirole 
+notes: “it is slow. A fine on an incumbent for anticompetitive behavior may serve as 
+a deterrent for future such behavior, but it does not really help the entrant that went 
+belly up in between… Competition policy in the digital age must achieve speedy and 
+ 
+131 Regulation (EU) 2019/1150 of the European Parliament and of the Council of 20 June 2019 on pro-
+moting fairness and transparency  for business users of online intermediation services, OJ L 186, 
+11.7.2019, p. 57–79. 
+132 Furman et al., fn 4, p.55 
+- 48 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+decisive resolution and must be agile to react to new environments and benefit from 
+learning‐by‐doing.”133  A standards body expert interviewee commented: 
+I find it appalling we still don’t have  standard messaging protocol that is uni-
+versally used, and maybe some clients have added features but at least you’d 
+be able to communicate with anyone. But currently we have to agree which 
+product we want to use. E.g. Slack and Skype don’t co-exist at all. It’s like 
+saying I  have a  Motorola  phone and  can communicate  only  with  other 
+Motorola users.  
+I am saddened to see the trend is very negative, because we are moving 
+towards more and more centralised systems. Slack is a very good example. 
+Facebook is sort of new, Twitter is sort of new as well. Slack actually builds 
+on a protocol which is existing, IRC, and then managed to hijack this system 
+by adding features that only their clients initially supported. You could still 
+access the information with the standard protocol and therefore standard 
+client, but they kept adding more and more on top, so it becomes impossible. 
+IRC is pretty decentralised; anyone could set up an IRC server and communi-
+cate with any client you liked. But now we are all bound to Slack servers. You 
+can have different ones e.g. business, but they have drawn you into their 
+environment, which is centralised around Slack.  
+It’s very frustrating and scary to see that everything becomes more and more 
+centralised, and some of the old systems which were designed in a very de-
+centralised way and we take for granted. One of the next things on the list 
+might be e-mail. For now, it’s still decentralised, you can use whatever client 
+you want. Google has been making Gmail available for everybody. But you 
+start to see features that only work with other Gmail users, and this is the 
+start of a slippery slope. And the mass of users they have give them a mo-
+mentum that is very hard to fight.  
+A computer scientist interviewee added: “Nearly all of the original IM systems were 
+based on IP, then for reasons people played winner takes all game and stopped 
+interoperating. People noticed you could leverage network effects. There is nothing 
+on any of these platforms you couldn’t do with a standard thing. Then you get dif-
+ferentiation. That comes down to the client. The protocols are standard. Mobile 
+phone network, W3C, IETF — this is a system that’s been running for decades. Going 
+back to ITU 19th century. Regulators got blinded by this idea of data railway tracks.” 
+The recent major reviews of platform competition for the DG Competition, UK gov-
+ernment and US Stigler Center have all found the use of investigations followed by 
+ex  post remedies  too  slow  to  cope  with  these  fast-moving  technologies  and 
+ 
+133 Tirole, fn 21, pp.6-7. 
+- 49 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+markets. The UK Furman review concluded:  “The key limitation of using market in-
+vestigations as the legal basis for a pro-competition approach is that its remedies 
+are largely static. Binding orders cannot be revised and updated as the nature of 
+solutions needed changes… Relying on this model alone, under the powers currently 
+available, is not sufficient in digital markets when technologies change but market 
+power is durable. Specific rules imposed as a remedy following a market investiga-
+tion may quickly go out of date. What is instead needed is an ongoing, dynamic 
+counterparty to market participants, adjusting solutions in response to innovations 
+and market dynamics.”134 Regulations can set ex ante rules, while still leaving open 
+the option for later enforcement of standard competition law.135 
+Several governments and legislatures have produced draft competition legislation 
+mandating interoperability for large online platforms. Table 3 summarises key ele-
+ments: 
+  US ACCESS bill (S. 2658)  French  consumers’  free 
+choice in cyberspace bill 
+Status  Introduced 22/10/19 and referred to Sen- Passed  by  Senate  Feb. 
+ate  Committee  on  Commerce,  Science,  2020; awaiting considera-
+and Transportation  tion by National Assembly 
+Committee  on  Economic 
+Affairs 
+Applica- “a consumer-facing communications  and  “online  platform operators 
+ble to  information services provider” which “gen- whose  activity exceeds a 
+erates income, directly or indirectly, from  threshold  of  number  of 
+the collection, processing, sale, or sharing  connections defined by de-
+of user data” with > 100m monthly active  cree.” 
+users in the US 
+Specific  “maintain a set of transparent, third-party- “1. The publication of rele-
+mandate  accessible  interfaces  (including APIs)  to  vant information; 
+facilitate and maintain technically compat-
+ible, interoperable communications with a  “2. The authorization of the 
+user of a competing communications pro- use,  modification  and  re-
+vider.”  transmission  of this  infor-
+mation by ARCEP or other 
+operators  of  online  plat-
+forms” 
+ 
+134 Furman et al., fn 4, p.79 
+135 Graef, fn 8, s.3.2. 
+- 50 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+Stand- FTC, “in consultation with relevant industry  ARCEP may impose “imple-
+ardisa- stakeholders, shall establish rules and pro- mentation  of technical  in-
+tion  cedures to facilitate the verification of the  teroperability  standards 
+validity of requests from users and com- identified by the authority.” 
+peting communications providers to obtain 
+user data” 
+NIST  “shall  develop  and  publish  model 
+technical standards by which to make in-
+teroperable popular classes of communi-
+cations or information services, including— 
+(1) online messaging; 
+(2) multimedia sharing; and 
+(3) social networking.” 
+“Any large communications platform pro-
+vider  that establishes  and maintains  in-
+teroperability  through  an open  standard 
+established under subsection (c) shall be 
+entitled  to  a  rebuttable  presumption  of 
+providing access on fair, reasonable, and 
+nondiscriminatory terms.” 
+Security  “A large communications platform provider  ARCEP  must  consult  with 
+and  pri- shall, consistent with industry best prac- National  Commission  for 
+vacy  tices, set privacy and security standards  Informatics and Liberties 
+for access by competing communications 
+services to the extent reasonably neces- Before imposing interoper-
+sary to address a threat to the large com- ability obligations 
+munications  platform  or  user  data,  and 
+shall  report  any suspected violations  of 
+those standards to the [FTC].” 
+“A  competing  communications  provider 
+that accesses an interoperability interface 
+of a large communications platform pro-
+vider shall reasonably secure any user data 
+it acquires, processes, or transmits.” 
+Enforce- General FTC Act powers  The  Minister  and  ARCEP 
+ment  may “collect from the oper-
+ators  of  online  platforms 
+the  information  or  docu-
+ments necessary to ensure 
+that these persons comply 
+- 51 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+with  the  obligations  laid 
+down” 
+ARCEP may “penalize any 
+breaches it finds” 
+Table 3: key provisions of draft US and French interoperability legislation 
+In assessing the 25-year history of the European telecommunications regulatory 
+framework, Cave, Genakos and Valletti concluded: 
+Within the period of a quarter of a century or so, the European telecommuni-
+cations sector has been radically transformed from a group of state monop-
+olies to a set of increasingly competitive national markets. This has been ac-
+complished within the framework of a flexible regime of regulation, which 
+combines significant deregulatory momentum with detailed implementation 
+by national regulatory authorities. Liberalisation under independent regula-
+tion was an appropriate response to the technological and economic changes 
+at the industry level, as well as the political conditions at the time. It facilitated 
+the entry of new firms and increased competition. The rapid diffusion of new 
+technologies and new services led to falling prices and much greater take up, 
+which had wider beneficial effects on the European economy. It is fair to say 
+that, overall, telecommunications markets represent one of the success sto-
+ries of EU policy-making in network industries.136 
+A standards body expert interviewee noted: 
+From an EU legal tech point of view, with a new approach, like we have done 
+for e-signatures, where you have an Art. 9 committee that will make a Euro-
+pean norm, by ETSI etc. then it can be acknowledged, then taken up in a norm 
+saying you need to provide data in a standardised format. That gives the 
+industry an incentive to be part of that standardisation because they want to 
+have certain data points in there. 
+A free software developer interviewee added: 
+Having regulators oblige specific standards sounds undesirable (with excep-
+tions), as I suspect it would slow things down terribly. Setting high-level re-
+quirements on capabilities of software and services sounds better; e.g. de-
+manding the ability to connect using 3rd party software, and interact with 
+non-members as easily as with members. Companies can pick or create the 
+ 
+136 M Cave, C Genakos and T Valletti (2019) The European Framework for Regulating Telecommuni-
+cations: A 25-year Appraisal, Review of Industrial Organization, vol. 55, p.60. 
+- 52 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+standards, as long as those fulfil the requirements, which are assessed by a 
+regulator; much like net neutrality. 
+Perhaps some dominant companies would make compliant but shitty stand-
+ards on purpose (thinking of Microsoft’s Office Open XML), so some more 
+scrutiny may be required for those. And current incumbents might need extra 
+interventions (e.g. splitting them up) to get things rolling.  
+ 
+   
+- 53 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+Appendix  1  –  Types  of  interoperability and 
+example scenarios  
+The International Standards Organisation (ISO), in its standard on cloud interopera-
+bility, defines the term as “the ability of two or more systems or applications to 
+exchange information and to mutually use the information that has been ex-
+changed.”137 
+Interoperability can be both partial and unidirectional. For example, an instant mes-
+saging platform might allow a competitor service to send its users text and images, 
+but not video; and not allow its own users to reply. A mobile operating system could 
+allow an app to use all the standard features of a smartphone, but not to access 
+special security hardware (as in the case of Apple Pay under investigation by the 
+European Commission.) These obstacles can be due to the costs of developing in-
+teroperable service features; valid quality and security concerns (for which there 
+are other protective mechanisms, which still enable interoperability); and straight-
+forward business reasons, such as discouraging customers from using competitor 
+products.138  
+The UK’s Competition and Markets Authority determined: “Given the market position 
+of Facebook and the extent to which it benefits from network effects, we think that 
+[interoperability] interventions should apply asymmetrically to Facebook in the first 
+instance (e.g. Facebook should offer a defined find friends service to users of a 
+third-party platform, but rival platforms should not be required [to] reciprocate). The 
+balance of considerations is likely to change over time: the fast-evolving nature of 
+social platforms means that the [regulator] will be well-placed to judge the right 
+forms of interoperability to deliver consumer benefits on an ongoing basis.”139 
+An additional distinction is between “syntactic/technical interoperability”, the ability 
+for systems to connect and exchange data, and “semantic interoperability”, that 
+connected systems share a common understanding of the meaning of data they 
+exchange.140 
+ 
+137 ISO/IEC 19941: 2017, p.vi. 
+138 Kerber & Schweitzer, fn 91, p.4. 
+139 CMA, fn 5, p.374. 
+140 Kerber & Schweitzer, fn 91, p.4. 
+- 54 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+Vertical and horizontal interoperability 
+Vertical interoperability enables a person to freely choose a combination of de-
+vices/operating systems, software/apps, and service providers (including search).141 
+These are complementary products/services, and so providers have a greater in-
+centive to enable interoperability if it can add value to their own offering (unless, of 
+course, they also offer their own neighbouring services, and/or profit from charging 
+providers for access, such as in smartphone app stores.) For example, with the nec-
+essary software support, a user could:  
+●  Edit a report on an iPad using the Word app while storing it in Dropbox (this 
+is possible today, due to action by Apple, Microsoft and Dropbox).  
+●  Follow their news feed on their Android-running Fairphone using the Feedly 
+app, logging into Twitter and Facebook (Twitter allows software from other 
+organisations to access *some* of its features, allowing users to read their 
+timeline and tweet with other tools, but blocks developers from replicating 
+its “core user experience or features”. Facebook allows other forms of soft-
+ware integration, including posting, but until December 2018 banned com-
+petitors from connecting to its APIs to replicate its core functionality142).  
+●  Choose a different search engine as a default for their Android web 
+browser, or different default browser for their Windows PC (both possible in 
+Europe thanks to EU competition enforcement using existing rules).  
+●  Use alternative App Stores (possible on Android but not iOS), and payment 
+apps (other than Apple Pay) which have access to iPhone’s secure chip (as 
+the European Commission’s DG Competition is currently investigating). 
+Interoperable products and platforms can be more valuable for consumers, and 
+hence firms selling them. Using standardised, interoperable components can reduce 
+production costs. However, firms focused on innovative and/or high-quality luxury 
+products – such as Apple – may prefer to retain control over components (e.g. 
+chargers and cables) and complementary products (such as checking app security), 
+especially since this can lead to royalties/commissions, higher profits, and greater 
+investment.143 
+Horizontal interoperability enables people to use different products and service pro-
+viders than the people they interact with.144 Since those are substitute offerings, 
+firms may be less willing to voluntarily enable competitors’ access to their user base. 
+For example, with the necessary software support: 
+ 
+141 Kerber & Schweitzer, fn 91, p.4. 
+142 CMA, fn 5, Appendix W, p.2. 
+143 Kerber & Schweitzer, fn 91, p.6 
+144 Kerber & Schweitzer, fn 91, p.4 
+- 55 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+●  A Telegram user could directly chat with a family WhatsApp group. (Face-
+book is already developing the ability for users of its Messenger, WhatsApp 
+and Instagram services to message each other. It allowed third-party chat 
+software to contact its users from 2010-2015.145)  
+●  A Flickr user could follow the pictures posted by their sports team via a pri-
+vate account on Instagram. 
+●  A university student using TikTok could see videos recommended by their 
+flatmates on YouTube. 
+●  A Facebook Messenger user could try out Snapchat (multi-homing) while 
+still using their profile information and being able to message friends on 
+Messenger directly.146 
+●  A teacher using Facebook could invite their students’ parents to a class 
+event and receive RSVPs, whether parents use Facebook, Google Calendar, 
+iCal, or an open source calendar. 
+Protocol and data interoperability 
+Margrethe Vestager’s 2019 special advisers’ report on digital competition identified 
+three types of interoperability: 
+1.  Protocol interoperability – “the ability of two services or products to inter-
+connect, technically, with one another.” Examples: DG Competition deci-
+sions on Microsoft in 2004 (compatibility of Sun workgroup servers) and 
+2009 (tying of Internet Explorer to Windows). This mainly enables comple-
+mentary services rather than direct substitutes.  
+2.  Full protocol interoperability – “standards that allow substitute services to 
+interoperate, e.g. messaging systems.” Benefit: “through the imposition of 
+interoperability requirements, the benefits of positive network effects can 
+be shared among direct competitors. In this perspective, interconnection 
+could be an efficient instrument to address concentration tendencies.” But 
+“the need for strong standardisation across several competing platforms 
+could significantly dampen their ability to innovate and to differentiate the 
+type(s) of service(s) they provide” and “the need for coordination between 
+the firms affected by the requirement would provide opportunities for collu-
+sive behaviour.” This can be dealt with by open standards for core function-
+ality in mature systems (see later). 
+3.  Data interoperability – “roughly equivalent to data portability but with a 
+continuous, potentially real-time, access to personal or machine user data. 
+Existing data interoperability mechanisms typically rely on privileged APIs, 
+ 
+145 Zoom support, Facebook and Google To Discontinue XMPP Chat Protocol, undated. 
+146 One former official interviewee commented: “On [messaging] tools, there’s more partial substitut-
+ability between different tools that allows tool hopping. So generally there’s a lot more competition 
+around. That said, there’s clearly still a big pull towards WhatsApp.” 
+- 56 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+which provide to a service B the means to access its users’ data through a 
+service A’s API, if the users have given authorisation for this transfer of 
+data.” (Data interoperability requires at least basic protocol interoperability, 
+so data can be requested and provided.) 
+Detailed technical and regulatory examples 
+The following scenarios provide very specific examples of user benefits deriving 
+from various types of interoperability that could be imposed on dominant platforms 
+using the current EU regulatory framework, and potential powers under the Digital 
+Markets Act. They are focused on messaging and social media platforms within the 
+existing EU regulatory framework (GDPR + ePrivacy, consumer protection, elec-
+tronic  communications  framework directive,  or  existing  market practices), and 
+based on open protocols (standardised and governed using the existing EU regula-
+tory framework described later). 
+Straightforward within existing regulatory framework 
+Example  User benefit  Regulatory mechanism 
+Users are  given access  to  Give users practical control  A  stronger  risk-based  ap-
+their personal data held by a  over their personal data and  proach to GDPR data portabil-
+platform  in  whichever  tool  tools.  ity right (Art.20) by EDPB/na-
+they  choose  (independent  tional supervisory authorities. 
+from  platforms'  own  ‘data  Enable development of user- Issue further EDPB guidance, 
+management’  and  ‘export’  friendly tools to show and ex- enforced  by  national  data 
+settings), via a standardised  plain to users what data is  protection authorities, coordi-
+API and security mechanisms.   held by platforms.   nated via EDPB. 
+“One  click”  data  portability  Help users move/copy data  EC-initiated  standardisation 
+(independent from platforms'  between  platforms  (easy  activity. 
+own ‘data management’ set- switching/multi-homing  be-
+tings) –  user can download  tween providers)   Vestager’s  special  advisers 
+and delete data using stand- (p58): "A competition policy 
+ard tools, and upload to new  Enable enhanced price com- perspective  would  suggest 
+platform; or  authorise new  parison and other tools that  that dominant platforms could 
+platform to  directly access  need access to user profiles  be subject to stricter [GDPR 
+(and optionally delete) data.   (Open X, eg banking, finance,  portability]”  
+communications…) 
+“Real-time” data portability. 
+Give users a broader scope of  Supports genuine “data port- Minor amendment to GDPR 
+personal data that can be ac- ability” and multi-homing.  Art. 20, via DMA, or ePrivacy 
+cessed/transferred – inferred,  Regulation. Enforced by na-
+and  processed for a  wider  tional data protection author-
+ities, coordinated via EDPB. 
+- 57 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+range of purposes, on domi-
+nant platforms.  
+Ability to send private mes- Lets  users  message  their  Decision  under  European 
+sages  to  users  (and  user  friends, family and colleagues  Electronic  Communications 
+groups) on other platforms,  on  other  messaging  plat- Code  (EECC). Enforced by 
+when authorised by  recipi- forms,  without  having  to  national communications au-
+ents.   switch or multi-home.  thorities, coordinated via BE-
+REC. 
+Let  users  participate  in 
+groups from  a  single, pre- EC-initiated  standardisation 
+ferred messaging app  (e.g.  activity (with consideration of 
+avoiding profiling by having  IETF  standards  such  as 
+an account with an advertis- SIP/SIMPLE and XMPP.) 
+ing-funded platform). 
+Free choice of client to man- Ensures genuine choice and  Arguable under Unfair Terms 
+age data/privacy and profiling  control for users, rather than  Directive (Graef et al. p.204: 
+settings  [eg  MyData.org  giving up their data and rights  “unfairness consists of sub-
+model], with tools developed  due to excessively complex  stantive elements (including 
+by software companies and  and  opaque  controls  (so- ‘good faith’  and  ‘significant 
+civil society/consumer groups  called “dark patterns”).  imbalance’ components to be 
+to help manage complex set- assessed at the national level) 
+tings.   and formal elements (trans-
+parency and information pro-
+vision) as contained in Arti-
+cles 3–5 of the Directive… fo-
+cuses on the average con-
+sumer’s capacity to make in-
+formed  autonomous  deci-
+sions”), or minor update via 
+DMA  
+Enforced  by  DG  COMP/EU 
+digital  market  agency/  na-
+tional competition and con-
+sumer authorities. 
+ 
+   
+- 58 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+New but less controversial scenarios (based on past experience from other sec-
+tors) 
+Example  User benefit  Regulatory mechanism 
+Ability to use different client  Greater user choice, to find  Ex ante interoperability rule in 
+software than the app(s) the  tools  that  best  meet  their  DMA  for  large  online plat-
+platform provides itself.   needs and values  forms, with enforcement by 
+DG COMP/EU digital market 
+Don’t allow the bundling of  agency/national  competition 
+dominant platform user inter- authorities. 
+face and infrastructure - for 
+example, let user choose their  The platform should not fa-
+own curation/ recommenda- vour (its own) specific apps 
+tion  algorithms  from  third  (no self-preferencing, tying, 
+party providers.  or privileged APIs) - CMA - 
+and must implement proto-
+cols/APIs  that  enable  third 
+party  developers to  create 
+equivalent  functionality  in 
+their apps. 
+EC-initiated  standardisation 
+recognition relating to W3C 
+ActivityPub  and  relevant 
+messaging standards.  
+Ability for user tools to send a  Users would be able  to com- Ex ante rule in DMA for all ser-
+standard signal for express- municate  consent/non-con- vices  processing  personal 
+ing  tracking  and  targeting  sent  for  data  processing,  data, and/or consent rule in 
+preferences  (‘New  DNT’),  avoiding endless cookie no- ePrivacy Regulation, with en-
+which can be  managed via  tices and preferences.  forcement by DG COMP/other 
+user’s browser or another in- Brussels  digital  market 
+dependent intermediary. Ex- agency/national  competition 
+ample of “semantic interoper- and data protection authori-
+ability”.   ties. 
+EC-initiated  standardisation 
+and recognition activity relat-
+ing to W3C Do-Not-Track and 
+its successors. 
+Protection of open identities:  Greater user choice, to find  DMA, GDPR update/ guidance 
+wherever the closed single  identity tools that best meet  from EDPB, and/or ePrivacy 
+sign-on systems (i.e. sign in  their needs and values.  Regulation.  Soft  regulatory 
+with Facebook / Google / Ap- tools (eg standardisation and 
+ple) are supported, at least  Supports EU data protection  governance) of eIDAS. 
+one  open  and  federated 
+- 59 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+identity  system  should  be  framework, by reducing leak-
+Enforced  by  DG  COMP/EU 
+supported as well, including  age of personal data to iden-
+digital  market  agency/  na-
+eIDAS.  tity providers not focused on 
+tional competition and data 
+privacy. 
+protection authorities. 
+New and more challenging scenarios 
+Example  User benefit  Regulatory mechanism 
+User gets read/write access  Users can choose any tool or  Explicit ex ante DMA rule.  
+to feeds produced by users of  platform matching their needs 
+other platforms (with their au- and values to read, curate, fil- EC  standardisation recogni-
+thorisation) without needing  ter, prioritise, and respond to  tion relating to W3C Activity-
+to create their own account.   items in their chosen feeds,  Pub. 
+replying to or “liking” items 
+from their friends, family and 
+Enforced by DG COMP/ other 
+colleagues on large platforms. 
+EU digital market agency/na-
+tional competition authorities. 
+Civil society groups can de-
+velop tools to help users filter 
+ 
+and prioritise feeds in a way 
+that better reflects their val-
+ues than standard large plat-
+form user interfaces. 
+User can access closed mes- Users can choose any tool or  Explicit ex ante DMA rule. 
+saging/sharing groups organ- platform matching their needs 
+ised on other platforms, with  and values to participate in  EC  standardisation recogni-
+permission of those groups’  social groups online, avoiding  tion relating to W3C Activity-
+organisers (at users’ own ini- exclusion.  Pub and relevant messaging 
+tiative).   standards. 
+Enforced  by  DG  COMP/EU 
+digital  market  agency/  na-
+tional  competition and  au-
+thorities.  
+A dominant platform should  Users are given free, unbi- Explicit  ex  ante  DMA  rule/ 
+inform  users  of  alternative  ased choice of tools they use  Strengthen §6 P2BR for dom-
+apps/services whenever it of- to access popular services.  inant platforms  
+fers to install its own app/ser-
+vices (no self-preferencing),  Users can get access to new  Enforced  by  DG  COMP/EU 
+and inform prospective users  components and functionality  digital  market  agency/  na-
+about  alternative  intercon- (whether  complements  or  tional competition authorities. 
+nected  platforms  when  substitutes)  developed  for 
+- 60 - 
+ Interoperability as a tool for competition regulation       OpenForum Academy | NOV 2020 
+ 
+ 
+suggesting they create an ac- large  platforms that  better 
+count.  match  different user group 
+preferences. 
+Development of  new, inde- User’s own choice of  tools  Enabled by  explicit ex ante 
+pendent services that make  can filter and prioritise feed  DMA,  updated  GDPR  §20, 
+use of users’ profile and be- items  based  on  their,  and  ePrivacy  Regulation, and/or 
+havioural and inferred data,  other tool  users’, historical  Data Act rule.  
+previously controlled by dom- feedback and preferences. 
+inant platforms.  EC-initiated  standardisation 
+activity and recognition. 
+Developers can  use anony- Users  are  able  to  choose  Enabled by  explicit ex ante 
+mized,  aggregated data  of  tools, which can filter and pri- DMA and/or Data Act rule, or 
+large groups of other users  oritise feed items based on  strengthening of P2BR §9.  
+and/or  statistical  models  very large amounts of data 
+trained  by  dominant  plat- and  models  from dominant  EC-initiated  standardisation 
+forms to improve their ser- platforms (e.g. about popular- activity and recognition. 
+vices.  ity of millions of different web 
+pages and media clips). 
+ 
+- 61 - 
+  
+   
+0 Interoperability as a Tool for Competition Regulation 
+2
+ 
+0 Ian Brown 
+2
+ 
+ 
+ 
+V
+O
+This paper is published with the OpenForum Academy, 
+N
+which  is  an  independent  programme  established  by 
+OpenForum Europe. It has created a link with academia 
+in order to provide new input and insight into the key is-
+sues which impact the openness of the IT market. Central 
+to the operation of OpenForum Academy are the Fellows, 
+each selected as individual contributors to the work of 
+OFA. 
+ 

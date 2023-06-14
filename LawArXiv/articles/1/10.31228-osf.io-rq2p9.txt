@@ -1,0 +1,2937 @@
+ 
+ 
+ 
+ 
+ 
+ 
+Appeals by the Prosecution 
+ 
+Nancy J. King* 
+Michael Heise** 
+ 
+Scholarly and public debates about criminal appeals have largely taken 
+place in an empirical vacuum. This study builds on our prior empirical work 
+exploring defense-initiated criminal appeals and focuses on criminal appeals 
+by state and federal prosecutors. Exploiting data drawn from a recently released 
+national sample of appeals by state prosecutors decided in 2010, as well as data 
+from all appeals by federal prosecutors to the United States Court of Appeals 
+terminated in the years 2011 through 2016, we provide a detailed snapshot of 
+non-capital, direct appeals by prosecutors, including extensive information on 
+crime type, claims raised, type of defense representation, oral argument and 
+opinion type, as well judicial selection, merits review, and relief. Findings 
+include a rate of success for state prosecutor appeals about four times greater 
+than that for defense appeals (roughly 40% of appeals filed compared to 10%). 
+The likelihood of success for state prosecutor-appellants appeared unrelated to 
+the type of crime, claim, or defense counsel, whether review was mandatory or 
+discretionary, or whether the appellate bench was selected by election rather 
+than appointment. State high courts, unlike intermediate courts, did not decide 
+these appeals under conditions of drastic asymmetry. Of discretionary criminal 
+appeals  reviewed  on  the  merits by  state high  courts,  41% were  prosecutor 
+appeals. In federal courts, prosecutors voluntarily dismissed more than half 
+the appeals they filed, but were significantly less likely to withdraw appeals 
+from judgments of acquittal and new trial orders after the verdict than to 
+withdraw appeals challenging other orders. Among appeals decided on the 
+merits, federal prosecutors were significantly more likely to lose when facing a 
+federal defender as an adversary compared to a CJA panel attorney. 
+ 
+ 
+*  Lee S. & Charles A. Speir Professor of Law, Vanderbilt University Law School. We 
+wish to acknowledge the superb research assistance provided by Griffin Farha, 
+Mitchell Galloway, Mackenzie Hayes, and Megan Mitchell. We are also grateful for 
+feedback on earlier drafts provided by Jonathan Wroblewski, Professors Tracey 
+George, Jerold Israel, Terry Maroney, Chris Slobogin, and Marty Wells, participants 
+in the faculty workshop at Florida State University College of Law, and anonymous 
+referees. 
+** Professor, Cornell Law School. 
+1 
+    
+ 
+I.  INTRODUCTION 
+This Article presents results from the first nationwide empirical study 
+of direct appeals by the government in both state and federal criminal cases. 
+Examining recently released data drawn from the 2010 decisions of every state 
+court  with  jurisdiction  to  hear  criminal  appeals,1  we  provide  a  detailed 
+snapshot  of  non-capital,  direct  appeals  by  state  prosecutors,  including 
+information on crime type, claims raised, type of defense representation, oral 
+argument and opinion type, as well judicial selection, merits review, and relief. 
+Data on appeals by the prosecution in federal cases presented here include 
+similar information, drawn from data sets recently made public by the Federal 
+Judicial Center that include every criminal appeal to the United States Courts 
+of Appeals from 2011 through 2016,2 supplemented with information gathered 
+from case filings available on PACER. In addition to this rich descriptive 
+information,  we  report,  for  both  state  and  federal  appeals,  results  from 
+analyses investigating which case and court-specific factors correlate with a 
+higher likelihood of success for the government appellant. We also examine 
+how state prosecutor appeals compare with both state defendant appeals and 
+federal prosecutor appeals. The empirical information presented here provides 
+an unprecedented portrayal of the real world of prosecutor appeals, with a 
+number of surprising findings. 
+Part II briefly summarizes the law authorizing government appeals in 
+criminal cases and reviews existing scholarship on these appeals. Part III sets 
+out our research questions. Part IV presents our study of state prosecutor 
+appeals, including our empirical strategy, descriptive findings, and statistical 
+analyses examining success by prosecutor-appellants. Part V contrasts these 
+findings with earlier findings concerning defense appeals in state courts.3 Part 
+VI turns to appeals by the government in federal criminal cases, presenting 
+the  methodology  and  findings  for  our  study  of  those  appeals.  Part  VII 
+addresses the similarities and differences between state and federal prosecutor 
+appeals. Part VIII concludes with potential policy implications and suggestions 
+for further research. 
+II. APPEALS BY THE PROSECUTION: 
+LEGAL CONTEXT AND EXISTING RESEARCH 
+ 
+1 Survey of State Court Criminal Appeals, INTER-UNIVERSITY CONSORTIUM FOR POL. & 
+SOC. RES. (2010), 
+https://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/36465?q=36465 
+[https://perma.cc/BSC5-LDK2] [hereinafter Survey of State Court Criminal Appeals]. 
+2 See infra notes 104-111; https://www.fjc.gov/research/idb/appellate-cases-filed- 
+terminated-and-pending-fy-2008-present [https://perma.cc/7UNN-7SKW]. 
+3 See Michael Heise, Nancy J. King & Nicole A. Heise, State Criminal Appeals 
+Revealed, 70 VAND. L. REV. 1939 (2017). 
+2 
+    
+The  Double  Jeopardy  Clause  bars  a  prosecutor  from  appealing  a 
+judgment of acquittal to gain a second opportunity for a conviction.4 Beyond 
+this  constitutional  restriction,  varied  statute  and  state  constitutional 
+provisions control when a prosecutor may appeal.5 There are four categories  
+of orders that Congress and a significant number of state legislatures have 
+authorized prosecutors to appeal: orders granting a defendant’s motion to 
+dismiss a charge,6 sentences the government alleges are too lenient, illegal, or 
+the result of procedural error,7 new trial orders, and judgments of acquittal 
+entered after a guilty verdict.8
+ 
+ 
+ 
+ 
+4 The Double Jeopardy Clause does not bar appeals of a judgment of acquittal 
+entered after a jury verdict of guilt because success would require only validating a 
+conviction already obtained, and would not provide a second chance to obtain one. 
+United States v. Wilson, 420 U.S. 332, 352-53 (1975). 
+5 For example, a number of states restrict the prosecution’s authority to appeal more 
+closely in misdemeanor cases than in felony cases. See, e.g., Minn. R. Crim. P. 28.04 
+(authorizing appeals of sentences in felony cases only); State v. Mansfield, 104 N.E. 
+1001, 1001-1002 (Ohio 1913) (Ohio Constitution gives the Ohio Supreme Court no 
+appellate jurisdiction in misdemeanor cases, and the general assembly has no 
+authority to confer appellate jurisdiction on the court in misdemeanor cases); State v. 
+Smith, 2011 VT 83, 190 Vt. 222, 224, 27 A.3d 362, 364 (2011) (state cannot appeal a 
+final judgment in a misdemeanor case). 
+6 See Anne Bowen Poulin, Government Appeals in Criminal Cases: The Myth of 
+Asymmetry, 77 U. CIN. L. REV. 1, 15 (2008); WAYNE LAFAVE, JEROLD ISRAEL, NANCY 
+KING & ORIN KERR, 6 CRIMINAL PROCEDURE § 27.3(c) (4th ed. 2015) (noting that some 
+states permit appeal from all final judgments, while others restrict appeals to 
+dismissals for deficiency in the charge or the unconstitutionality of the underlying 
+statute). In the federal courts, and a smaller number of states, the prosecution may 
+appeal from midtrial orders dismissing a charge for procedural error. See 18 U.S.C. § 
+3731 (authorizing appeal of orders dismissing the indictment or information before 
+jeopardy attaches or on grounds unrelated to factual innocence, orders granting a 
+motion for new trial or for judgment of acquittal or arresting judgment after a guilty 
+verdict; orders granting a motion to suppress or exclude evidence, before jeopardy 
+has attached and before a verdict or finding, if the government “certifies to the 
+district court that the appeal is not taken for purpose of delay and that the evidence 
+is a substantial proof of a fact material in the proceeding”). 
+7 E.g., 18 U.S.C. § 3742 (appeal of sentence); TEX. CODE CRIM. P. Art. 44.01(b) (appeal 
+of illegal sentence); WASH. R. APP. P. 2.2(b)(6) (2009) (authorizing appeal of a 
+sentence outside the standard range for the offense). The Double Jeopardy Clause 
+does not bar the government from seeking a higher sentence on appeal. See generally 
+United States v. DiFranscesco, 449 U.S. 117 (1980). 
+8 See LAFAVE ET AL., supra note 6, at §§ 25.3(a), 26.7(a) and (b), and 27.3 (describing 
+the authority on prosecutorial appeals for new trial orders and judgments of acquittal 
+after the verdict). Several states also have statutes authorizing the appeal of orders 
+arresting judgment. E.g., OR. REV. STAT. § 138.060(1)(c) (2011); TEX. CODE CRIM. 
+PROC. art. 44.01(a)(2) (2009). 
+3 
+    
+It is these appeals challenging trial court decisions that dismiss a 
+charge, impose a sentence, or grant either a judgment of acquittal or a new 
+trial after a guilty verdict – together with appeals to a court of last resort 
+contesting a decision of an intermediate appellate court9 – which we examine 
+in this Article. To accommodate data limitations and facilitate comparisons 
+with  existing  information  on  direct  appeals  by  defendants,  our  analyses 
+exclude interlocutory appeals,10 petitions to appellate courts seeking relief by 
+writ,11 and appeals seeking relief from orders entered after the final sentence, 
+such  as  post-commitment  orders  sentencing  a  defendant  after  revoking 
+release, or granting a defendant’s motion to reduce a sentence. 
+Scholars continue to debate the appropriate scope of appeals by the 
+prosecution  as  well  as  the  consequences  of  those  appeals.12    Some blame 
+ 
+9 In jurisdictions with two levels of appellate courts, prosecutors may seek high court 
+review of intermediate appellate court decisions favoring the defense. See e.g., CAL. 
+RULES OF COURT, Rule 8.500 (2017) (“a party may file a petition in the Supreme 
+Court for review of any decision of the Court of Appeal”); OR. REV. STAT. § 2.520 
+(2017) (allowing any party to petition the Supreme Court for review of the Court of 
+Appeals’ decision). 
+10 Both the federal and state data sources we examine here did not code an appeal 
+from a new trial order after the verdict as an interlocutory appeal. See Federal 
+Judicial Center Integrated Data Base Appeals Documentation FY 2008 – Present, 
+https://www.fjc.gov/sites/default/files/idb/codebooks/Appeals%20Codebook%202008%2 
+0Forward_0.pdf [https://perma.cc/XWH2-MJJN] (hereinafter FJC Codebook); Survey 
+of State Court Criminal Appeals, supra note 1, Codebook. Although none of the state 
+prosecutor appeals we examine raised a claim challenging the grant of a new trial, 
+many of the federal prosecutor appeals coded as direct (not interlocutory) appeals 
+challenged new trial orders. See also LAFAVE ET AL., supra note 6, at §27.3(c) 
+(discussing interlocutory appeals by prosecutors generally). 
+11 Many jurisdictions provide judicial review of some trial court rulings through writs 
+of mandamus or prohibition in addition to appeal, and in some states review by writ 
+is more frequent than review on direct appeal. See LAFAVE ET AL., supra note 6, at § 
+27.4(d) nn.37-50 (detailing state practice); see generally, Poulin, supra note 6. 
+12 See generally Joshua Steinglass, The Justice System in Jeopardy: The Prohibition 
+on Government Appeals of Acquittals, 31 IND. L. REV. 353 (1998) (describing various 
+scenarios where review is not, but should be available to prosecutors, noting the 
+perverse incentives resulting from attempts by judges to preempt reversal). On 
+proposals to require trial judges to wait to enter any judgment of acquittal until after 
+the jury delivered its verdict, in order to preserve the government’s opportunity to 
+appeal, see Jeanne M. Kempthorne, Naked and Arbitrary Power: Judicial Judgments 
+of Acquittal, 48 BOSTON BAR J. 30, 32 (2004); Richard Sauber & Michael Waldman, 
+Unlimited Power: Rule 29(A) and the Unreviewability of Directed Judgments of 
+Acquittal, 44 AM. U. L. REV. 433, 462 (1994); Minutes of the April, 2007 Meeting of 
+the Advisory Committee on the Federal Rules of Criminal Procedure, 11-14, 
+http://www.uscourts.gov/sites/default/files/fr_import/CR04-2007-min.pdf 
+[https://perma.cc/RP7D-HG53] (describing the consideration and rejection of a 
+proposal to amend FED. R. CRIM. P. 29 to bar a judge from granting a motion for 
+judgment of acquittal before the case goes to the jury, unless the defendant waived 
+  4  
+asymmetric appeal rights for various biases or errors in appellate review in 
+criminal cases.13 Some praise centralized coordination of government appeals 
+by state attorneys general,14 while others warn that because of its superior 
+ability to coordinate the development of the law, the government enjoys unfair 
+advantages over defendants.15 Still others argue that prosecutors are able to 
+obtain judicial review when they need to,16 or that the effects of asymmetry are 
+insignificant.17
+ 
+These  debates, however, have  largely  taken  place  in an  empirical 
+vacuum. State policy makers evaluating potential changes to the authorized 
+scope of prosecution appeals have surprisingly thin empirical information to 
+turn to for guidance and insight. In federal cases, statistics regularly posted on 
+the  U.S.  Courts  website  do  not  track  government  and  defense  appeals 
+separately, nor do the BJS Bulletins discussing information on federal criminal 
+appeals. The most recent information in BJS publications addressing federal 
+criminal  appeals  is  from  1999,  reporting  a  success  rate  for  government’s 
+appeals of 37%.18
+ 
+ 
+his double jeopardy rights barring the government from appealing that order); 
+Minutes of the June, 2007 Meeting of the Committee on Rules of Practice and 
+Procedure, 42 http://www.uscourts.gov/sites/default/files/fr_import/ST06-2007- 
+min.pdf [https://perma.cc/XT2U-VAVR] (same). 
+13 See Kate Stith, The Risk of Legal Error in Criminal Cases: Some Consequences of 
+the Asymmetry in the Right to Appeal, 57 U. CHI. L. REV. 1, 52 (1990) (suggesting that 
+asymmetric appeal rights encourage a pro-defendant bias in the development of the 
+law and pro-defendant trial court decisions). See generally Jonathan S. Masur & Lisa 
+Larrimore Ouellette, Deference Mistakes, 82 U. CHI. L. REV. 643 (2015) (describing 
+various “asymmetric deference regimes” that lead to appeals that always favor one 
+type of party). 
+14 See Rachel E. Barkow, Federalism and Criminal Law: What the Feds Can Learn 
+from the States, 109 MICH. L. REV. 519, 572 (2011); James R. Layton, The Evolving 
+Role of the State Solicitor:  Toward the Federal Model?, 3 J. APP. PRAC. & PROCESS 
+522, 553 (2001) (predicting states will benefit from the growing prestige and influence 
+of state solicitors). 
+15 See Andrew Hessick, The Impact of Government Appellate Strategies on the 
+Development of Criminal Law, 93 MARQ. L. REV. 477, 490–93 (2009) (suggesting ways 
+appellate courts could counteract government manipulation). 
+16 See generally Poulin, supra note 6. 
+17 See Vikramaditya S. Khanna, Double Jeopardy's Asymmetric Appeal Rights: What 
+Purpose Do They Serve?, 82 B.U. L. REV. 341, 367–74 (2002). 
+18 Compare MARK MOTIVANS, FEDERAL JUSTICE STATISTICS, 2013 – STATISTICAL 
+TABLES, NCJ 249150 (2017), 
+https://www.bjs.gov/content/pub/pdf/fjs13st.pdf?utm_source=juststats&utm_medium 
+=email&utm_content=fjs13_report_pdf&utm_campaign=FJS13&ed2f26df2d9c416fbd 
+dddd2330a778c6=nrphbbxxuu-nrupounhx [https://perma.cc/QY7W-USV4] (not 
+reporting government appeals separately), with JOHN SCALIA, U.S. DEP'T OF JUSTICE, 
+BUREAU OF JUSTICE STATISTICS, NCJ 185055, FEDERAL CRIMINAL APPEALS, 1999 WITH 
+  5  
+The United States Sentencing Commission also reports information 
+about some of the prosecution appeals decided in the past several years by the 
+federal courts of appeals,19 but the data are, in the Commission’s own words, 
+“biased due to the document submission practices of the various circuits.”20 As 
+a result, “it is unknown to what extent these data are representative of all 
+appeals in the federal system.” Not only is the Commission’s sample neither a 
+comprehensive  nor  random  collection  of  all  government  appeals  filed  or 
+terminated in the United States Courts of Appeals, the information collected 
+from those appeals is incomplete. Disposition information, for example, is not 
+available for prosecution appeals raising claims other than sentence claims, so 
+there are no data on the outcome of appeals challenging dismissals, judgments 
+of acquittal after guilty verdicts, or grants of new trials after guilty verdicts.21 
+Disposition  information  and  very  limited  information  about  the  type  of 
+sentencing issue raised is available, but only for appeals in the sample that 
+either  1)  raised  solely  sentence  claims  or,  2)  included  an  appeal  by  the 
+ 
+ 
+ 
+ 
+ 
+TRENDS 1985-99 (2001), https://www.bjs.gov/content/pub/pdf/fca99.pdf 
+[https://perma.cc/FCX5-F89Y], 2, 5, Tables 1 and 3 (noting 37.3% of the 506 
+government appeals decided by the federal courts of appeals in 1999, which could 
+have included interlocutory and post-conviction appeals, noting that were reversed, 
+remanded, or only partially affirmed, while the remainder were procedural 
+terminations, affirmances, or dismissals; 60% of government appeals terminated on 
+the merits produced a reversal or remand; and that of the more than 10,000 criminal 
+appeals filed in 1999, 95% were filed by the defendant and 5% by the government, 
+and that 19% of interlocutory appeals were filed by the government compared to 6% 
+or less of appeals challenging the sentence). See also Michael Heise, United States 
+Department of Justice Bureau of Justice Statistics, Federal Justice Statistics 
+Program: Criminal Appeals Cases in Courts of Appeals, ICPSR26201-v1 (2008), 
+http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/26201?q=criminal+appeals 
+[https://perma.cc/6AL9-LVTN] (examining defense appeals, excluding prosecutor 
+appeals; the web page for the data lists no publications other than Heise using the 
+data). 
+19 See Monitoring of Federal Criminal Convictions and Sentences: Appeals Data 
+Series, https://www.icpsr.umich.edu/icpsrweb/ICPSR/series/75. Some descriptive 
+information drawn from these data files is available in the Commission’s statistical 
+sourcebooks on its website. See, e.g., U.S. SENTENCING COMMISSION SOURCEBOOK, 
+FOR THE YEARS 2015, at Table 58, [https://perma.cc/S6NW-VWAW], and Table 56A, 
+[https://perma.cc/GXG7-5MUK]. 
+20 See Monitoring of Federal Criminal Convictions and Sentences: Appeals Data, 
+2015, United States Sentencing Commission, Codebook, 3 (hereinafter Codebook, 
+Commission Appeals Data 2015). 
+21 See id. at 6 (noting as to disposition information: “Beginning in fiscal year 2005, 
+this variable is only coded for sentencing appeals.”). 
+  6  
+defendant as well, and only after 2013.22 These information gaps greatly limit 
+the utility of the Commission’s information on prosecution appeals.23
+ 
+Another  source  that  could  shed  some  light  on  appeals  by  federal 
+prosecutors is an article by Professor Anne Poulin in which she reports her 
+examination of 310 federal prosecutor appeals “from 1980 to mid-2007.” She 
+found a success rate of 74% (77% in post-verdict appeals and 66% in pretrial 
+appeals). She also reported that “[a]pproximately 35% of appeals taken by the 
+government  from  1980  to  mid-2007  challenged  pretrial  dismissals,  15% 
+judgments of acquittal, 13% new trial orders, 12% exclusion of testimony or 
+evidence, and 5% were pretrial orders.”24 The footnotes contain an extensive 
+catalogue of issues federal prosecutors raised on appeal. Unfortunately, the 
+article contains no explanation of how these cases were selected or identified, 
+so it is difficult to know whether the sample was representative.25
+ 
+As for state prosecutor appeals, aside from a handful of older studies of 
+individual courts,26 nationwide statistics were not available until the  Bureau 
+ 
+22 See id. at 52 (noting as to GOVTXDISP, issue disposition for sentencing issues in 
+cross appeals for issues brought forth by the government, that this variable was 
+created in fiscal year 2014); id. at 63 (describing variable REASONABLENESS 1-1, 
+created in 2013). 
+23 For what it is worth, we merged the Commission’s 2014 and 2015 appeals data sets 
+to investigate. The combined file contained 151 government appeals; 78 conviction- 
+only sole government appeals, 36 sentence-only sole government appeals, and 37 
+government appeals in which the defendant also appealed – 8 of which were 
+conviction-only appeals, and 4 sentencing-only appeals. Of the 40 sentence-only 
+government appeals, 2 were dismissed, 6 were affirmed, the remainder reversed 
+and/or remanded, for a success rate of 80%. See also note 115 infra, comparing 
+information on dismissals. 
+24 Poulin, supra note 6, at 24 n.69. 
+25 See id. If these cases were, for example, only those that appeared on WESTLAW 
+and LEXIS, then the study would have missed cases filed but resolved by order, as 
+well as cases ending in opinions not included in these sources during those years. 
+26 See JOY A. CHAPPER & ROGER A. HANSON, NAT’L CTR. FOR STATE COURTS, 
+UNDERSTANDING REVERSIBLE ERROR IN CRIMINAL APPEALS: FINAL REPORT (1989), 
+https://cdm16501.contentdm.oclc.org/digital/collection/criminal/id/1 
+[https://perma.cc/39YS-YJFK], at 43 n.5 (explaining that the study of five appellate 
+courts excluded prosecutor appeals because they accounted for only 2 to 3 percent of 
+the criminal appellate caseload and had a much higher reversal rate than defense 
+appeals); DAVID T. WASSERMAN, A SWORD FOR THE CONVICTED: REPRESENTING 
+INDIGENT DEFENDANTS ON APPEAL 105-106 (1990) (investigating criminal appeals in 
+the appellate division of the New York State Supreme Court and the effects of 
+defense representation, finding the reversal rate for government appeals of 80 
+percent); Thomas Y. Davies, Affirmed: A Study of Criminal Appeals and Decision- 
+Making Norms in a California Court of Appeal, 82 AM. B. FOUND. RES. J. 543, 551 
+(1982) (finding a high reversal rate for prosecution appeals in one California court of 
+appeal since World War II); Daniel J. Foley, The Tennessee Court of Criminal 
+  7  
+of Justice Statistics released the National Center for State Courts study we 
+examine in this Article. State court statistics reports, driven in part by the 
+State Court Statistics Project and initiatives designed to help courts dispose of 
+their  caseloads  more  efficiently,  do  not  track  appeals  by  the  appellant’s 
+identity.  Even  individual  states  that  today  collect  and  report  detailed 
+appellate data do not break out information this way.27
+ 
+Only two other publications report information from the new state 
+criminal  appeals  data  we  examine  here:  Our  published  study  of  defense 
+appeals,28 which we reference throughout this Article, and a BJS “Bulletin” 
+summarizing  various  descriptive  information  from  both  defense  and 
+prosecution appeals.29 The information on prosecution appeals in the Bulletin 
+consists of three sets of aggregated descriptive statistics: frequency, rate of 
+merits review, and success rate, each by level of appellate court, without 
+distinguishing  between  appeals  of  right  and  discretionary  appeals.  The 
+Bulletin notes that 4% of criminal appeals to state high courts and 2.5% of 
+criminal appeals to state intermediate courts were filed by the government. Of 
+the estimated 69,000 direct criminal appeals decided by state courts in 2010, 
+that  suggests  that  approximately  2,000  were  filed  by  the   government.30
+ 
+ 
+Appeals: A Study and Analysis, 66 TENN. L. REV. 427, 433 (1999) (finding 2% of 
+appeals were by the prosecution, which succeeded in two thirds of those appeals); 
+Brian L. Zavin, The Right to Appointed Counsel on Prosecution Appeals: Hard 
+Realities and Theoretical Perspectives, 25 N.Y.U. REV. L. & SOC. CHANGE 271, 300, 
+app. tbl. 1 (1999) (noting of 188 prosecution appeals to the New York Appellate 
+Divison, First Department, between 1995 and 1998, of which the prosecution won 
+115 (61%)). See also George Castelle, Reversals, Per Curiams, and the Common Law: 
+A Survey of the Opinions of the West Virginia Supreme Court of Appeals, 11–JUL. W. 
+VA. LAW. 16. *16 (1998) (noting prosecutors received relief in every case the high 
+court agreed to hear, but noting “no available data regarding the number of appeals 
+that the prosecution may have filed that the Court declined to hear”). 
+27 See, e.g., JUDICIAL COUNCIL OF CALIFORNIA, 2016 COURT STATISTICS REPORT: 
+STATEWIDE CASELOAD TRENDS 2005-2006 THROUGH 2014-2015 (2016), 
+http://www.courts.ca.gov/documents/2016-Court-Statistics-Report.pdf 
+[https://perma.cc/DA2Q-US53]; FLORIDA COURTS, 2016-2017 ANNUAL REPORT COURT 
+ADMINISTRATION AND COURT DATA, at Court Filings FY 2015-16 (2017) 
+http://www.flcourts.org/core/fileparse.php/676/urlt/ar-16-17-dca-circuit-county-filings- 
+2015-16.pdf [https://perma.cc/U8TR-8L4R]. TEXAS JUDICIARY, FISCAL YEAR 2016 
+ANNUAL STATISTICAL REPORT, AT DETAIL 1–7 (2016) 
+http://www.txcourts.gov/media/1436989/annual-statistical-report-for-the-texas- 
+judiciary-fy-2016.pdf [https://perma.cc/J7DL-3BE4]. 
+28 See Heise, et al., supra note 3. 
+29 NICOLE L. WATERS, ANNE GALLEGOS, JAMES GREEN, AND MARTHA ROZSI, BUREAU OF 
+JUSTICE STATISTICS, NCJ 248874, CRIMINAL APPEALS IN STATE COURTS (2015). 
+https://www.bjs.gov/content/pub/pdf/casc.pdf [https://perma.cc/KVR2-RCX8]. 
+30 Of the nearly 19,000 appeals challenging final judgments in criminal cases and 
+decided by courts of last resort in 2010, only an estimated 760 (4%) were appeals 
+brought by the state rather than the defendant. Id. at 4. Of the more than 50,000 
+  8  
+According to the Bulletin, the rate of merits review for government appeals 
+was 49% in high courts and 75% in intermediate appellate courts; the rate of 
+success was 40% in high courts and 38% in intermediate courts.31
+ 
+The  existing  scholarship  leaves  a  considerable  gap  in  our 
+understanding of contemporary appeals by the prosecution. To help fill this 
+gap,  we  examine  a  nationwide  sample  of  appeals  by  state  prosecutors, 
+reporting both descriptive findings and results from regression analyses. And, 
+unlike existing information about selected appeals by federal prosecutors, we 
+draw detailed information from every direct appeal by the government in a 
+criminal case available in the Federal Judicial Center’s datasets from 2011 
+through 2016. 
+III. RESEARCH QUESTIONS 
+Given the paucity of empirical information about prosecutor appeals, 
+unanswered questions about this litigation abound. We focused our attention 
+on the likelihood that an appeal by the prosecution will secure merits review 
+or a favorable decision, as well as factors related to the likelihood of merits 
+review and ultimate success. In addition to examining these issues for state 
+and federal appeals separately, we also compared state prosecutor appeals to 
+state defendant appeals, and compared state prosecutor appeals to federal 
+prosecutor appeals. 
+Before turning to our specific research questions, we mention some of 
+the questions we did not investigate, and why. Because our data include only 
+appeals  that  prosecutors  actually filed,  and  include  no  information  about 
+orders that could have been appealed but were not, we were unable to learn 
+whether opportunities for appeal were more limited for prosecutors than for 
+defendants, or more limited for state prosecutors than for federal prosecutors.32 
+Nor could we use our data to investigate how selective prosecutors actually 
+were in deciding which appeals to file, what types of appeals were more or less 
+likely to be filed, or whether federal prosecutors were more selective than state 
+prosecutors.  We have hypotheses about these issues that we could test if   we 
+ 
+similar appeals decided by intermediate appellate courts, only an estimated 1269 
+(2.5%) were prosecutor appeals. Id. at 5. Interlocutory appeals, and appeals in 
+juvenile, post-conviction, or revocation proceedings were excluded from these figures. 
+Id. at 10. 
+31 Id. at 4–5. 
+32 To the extent trial court orders and outcomes tend to favor the prosecution (most 
+felony prosecutions, for example, end in some conviction), then there may be fewer 
+adverse orders for the prosecution to challenge. See BRIAN A. REAVES, STATE COURT 
+PROCESSING STATISTICS, NCJ 243777, FELONY DEFENDANTS IN LARGE URBAN 
+COUNTIES, 2009 – STATISTICAL TABLES, Table 21, 
+https://www.bjs.gov/content/pub/pdf/fdluc09.pdf [https://perma.cc/BJ86-54YP] 
+(reporting that of 48,939 felony charges, 66% resulted in a felony or misdemeanor 
+conviction with 26% dismissed, acquitted, or diverted). 
+  9  
+had appropriate data,33 but the information we have addresses only those 
+appeals that prosecutors selected for appeal, and can provide no information 
+about potential appeals never filed.34 We were also unable to examine other 
+interesting questions we would have liked to explore because our data did not 
+include enough appeals with the factor of interest. For example, assessing 
+whether the pro se status of an appellee correlates with greater success by a 
+prosecutor appellant was not possible given that our state data includes only 
+two such appeals.35
+ 
+A. Questions Relating to Merits Review and Success for Both Federal and 
+State Appeals 
+Drawing in part on our earlier study of state defense appeals, we 
+expected that several factors available to us for analysis might correspond with 
+a higher rate of merits review and ultimate success for prosecutors in either 
+state  or  federal  court.  These  factors  fall  into  three  general  categories: 
+advocacy; type of crime; and type of claim. 
+1. Advocacy. 
+First,  more opportunities for the appellant to advocate its position 
+might affect outcome. Research on defense appeals implies that the presence 
+of an oral argument (increasingly less common in state and federal criminal 
+appeals) corresponds with a greater likelihood of success for the   appellant.36
+ 
+ 
+33 As for comparative opportunities to appeal for state and federal prosecutors there 
+are at least two competing hypotheses: There could be comparatively more 
+opportunities for federal prosecutors to appeal than state because appeal authority is 
+not as restricted as it is in many states; or, there could be comparatively fewer 
+opportunities because an even smaller proportion of cases end in orders favorable to 
+the defendant. For more on selection rates, see infra text accompanying notes 55-63. 
+34 Moreover, even among the appeals that were selected for appeal and appear in our 
+data set, it is possible—indeed, likely—that any such prosecutorial filtering varied 
+across prosecutors, states, and appeal types. Consequently, while our default 
+empirical strategy was to model merits review and outcome with two separate logit 
+specifications, in unreported supplemental analyses, we also explored alternatives 
+(probit and bivariate probit) to model an appeal’s success conditioned on that appeal’s 
+persistence to merits review. With regard to state appeals, our main substantive 
+results were largely impervious to various alternative empirical specifications. See 
+infra Tables 4, 8 & 9. 
+35 At least one prior examination of prosecution appeals reported more frequent self- 
+representation. See Brian L. Zavin, The Right to Appointed Counsel on Prosecution 
+Appeals: Hard Realities and Theoretical Perspectives, 25 N.Y.U. REV. L. & SOC. 
+CHANGE 271, 272 (1999) (lamenting that indigent defendants are frequently 
+unrepresented by counsel in prosecution appeals). 
+36 See Heise, et al., supra note 3, at 1958 (reporting results showing oral argument is 
+linked to greater success rates for defendant appellants in first appeals of right in 
+state courts). On oral argument’s influence generally, see Warren D. Wolfson, Oral 
+Argument: Does It Matter? 35 IND. L. REV. 451, 454 (2002) (estimating argument 
+  10  
+The presence of an oral argument not only provides an appellant with an 
+additional  opportunity  to  persuade, but  seeking  oral  argument  also  may 
+indicate generally more zealous advocacy.37
+ 
+Appeals in which the defendant appellee has retained counsel could be 
+associated  with  less  success  for  the  prosecutor  than  appeals  defended  by 
+publicly funded counsel, if retained counsel benefitted from more resources or 
+expertise to defend against the government’s claim of error. We did not find 
+support in our study of defense appeals for the hypothesis that defendants who 
+retained counsel for appeal were more likely to succeed than those who did not, 
+even though defendants who must pay attorney’s fees have an incentive to 
+forego losing cases not shared by other defendant appellants.38 In this study, 
+we considered whether retained counsel performed better when defending 
+against a government appeal. 
+2. Crime type and severity. 
+The  seriousness  of  a  crime  may  also  affect  the  likelihood  that  a 
+reviewing court will decide to review on its merits an appeal contesting a 
+conviction or sentence for that crime. This relationship would exist if a court 
+with the discretion to do so chooses not to spend its limited resources on cases 
+with minor penalties and lower stakes, or if prosecutors are more likely to 
+abandon the effort and withdraw their appeals in such cases, or both. Crime 
+seriousness could also influence the outcome of appeals reviewed on the merits. 
+Appellate courts may be less concerned about leaving error uncorrected in 
+minor cases, for example, or more willing to find errors harmless.39
+ 
+The type of offense may also correspond with likelihood of relief, as we 
+found in our study of defense appeals.40 For reasons similar to those    posited 
+ 
+ 
+affects outcome in only a small percentage of appeals); Jay Tidmarsh, The Future of 
+Oral Argument, 48 LOY. U. CHI. L.J. 475, 479 nn.18–19 (2016) (collecting sources on 
+the impact of oral argument). 
+37 In addition, granting oral argument could also signal the court’s perception of the 
+appeal’s importance or merit. A similar signal is provided by the court’s decision to 
+produce a full judicial opinion. Also, a full opinion may be more common when the 
+decision being appealed is reversed, as it provides an opportunity for explanation a 
+court may decide is not necessary when affirming an order or dismissing an appeal. 
+38 See Heise, et al., supra note 3, at 1960–61 (presence of a private attorney had the 
+same favorable association with outcome that the presence of a public attorney had 
+when each compared to appeals with all other forms of representation). 
+39 The data do include variables about harmless error findings, but only for those 
+appeals that produced a reasoned decision of the court. See infra text accompanying 
+Figure 8. 
+40 We found, for example, that among discretionary appeals to courts of last resort, 
+drug trafficking cases appealed by defendants were significantly associated with a 
+higher likelihood of being granted review, and of defense appeals granted review, sex 
+  11  
+for a greater likelihood of success for more serious crimes, courts may be more 
+likely to grant review and relief to prosecutors in appeals involving violent 
+crimes,  as  compared  to  other  crimes.  A  prosecutor  may  have  additional 
+incentive to appeal an unfavorable ruling in a violent crime case if the presence 
+of a victim increases the incentive to appeal, or if appeals in violent crime cases 
+are more likely to be covered by the media or salient to the community. 
+3. Claim type and part of judgment appealed. 
+Success for prosecutors who appeal may also vary with the type of error 
+they contest on appeal, just as the likelihood of success varied with the type of 
+claim raised by state defendants who appealed. We found a higher rate of relief 
+for  defendant-appellants  who  raised  claims  involving  certain  trial  issues 
+(competency, interpreters, mistrial, and joinder), as compared to those who 
+raised  issues  described  by other  categories.41 For  our  study  of  prosecutor 
+appeals, we were particularly interested in three specific types of claims. First, 
+we expected that prosecutors may be more likely to win an appeal challenging 
+a judicial decision that overturned for insufficient evidence a jury’s guilty 
+verdict, compared to an appeal raising other claims by prosecutors. Appellate 
+judges might be more inclined to reverse a trial judge’s ruling when that 
+reversal restores a jury’s verdict, given that judges give great deference to jury 
+decisions, and apply a standard for review of sufficiency that is quite favorable 
+to  the  government.  Information on  the  extent  to  which  appellate  review 
+regulates  judicial  assessments  of  sufficiency  is  also  a  topic  of  particular 
+interest  to  researchers  interested  in  wrongful  convictions.42  Second,  we 
+explored  whether  courts  were  more  likely  to  grant  relief  to  prosecutor- 
+appellants when reviewing suppression claims compared to other claims.43 
+Finally, we wondered if prosecution appeals that question a sentence could be 
+associated with a greater probability of success than appeals challenging only 
+conviction, as we found in our study of defense appeals,44 since correcting 
+ 
+ 
+ 
+offenses were significantly associated with greater likelihood of relief. See Heise, et 
+al., supra note 3, at 1962–63. 
+41 See id. at 1960–61 (reporting results for first appeals of right); id. at 1962–64 
+(reporting results for discretionary appeals to courts of last resort). 
+42 See, e.g., BRANDON L. GARRETT, CONVICTING THE INNOCENT: WHERE CRIMINAL 
+PROSECUTIONS GO WRONG 204 (2011) (discussing sufficiency claims that failed when 
+raised by defendants later exonerated). Other claims such as faulty eyewitness 
+identification, Brady violations, ineffective assistance of counsel, and joinder, also are 
+of interest to wrongful conviction researchers, but the sample size prohibited us from 
+evaluating each of these separately. 
+43 See note 80 infra, noting how suppression issues could appear in prosecutor 
+appeals to state high courts  from intermediate appellate court decisions. 
+44 See Heise, et al., supra note 3, at 1960 (reporting results for first appeals of right); 
+id. at 1965–66 (discussing findings). 
+  12  
+sentencing error may be easier for an appellate court and less costly for the 
+district court.45
+ 
+B.  Questions Relating to Merits Review and Success, State Appeals 
+Only 
+Because several factors did not vary among federal appeals, we    were 
+able to examine their relationship with merits review and success only in our 
+state appeals data. These factors included: 1) whether review was mandatory 
+or discretionary; 2) whether the appeal challenged a decision by a trial court 
+or appellate court; 3) whether the appeal was managed by the local prosecutor 
+or a state-wide appellate office; and 4) whether the judges on the appellate 
+court were appointed or selected by election. 
+1. Discretionary v. mandatory review. 
+In our prior study of state defense appeals, we found that defendant 
+appellants experienced much lower rates of merits review and success in 
+discretionary appeals than they did in of-right (“mandatory”) appeals.46 We 
+expected this result, as some discretionary appeals will be denied review, 
+whereas all mandatory appeals will be considered on their merits absent 
+voluntary dismissal or procedural error requiring dismissal. We investigated 
+whether this was also true for state prosecutor appellants. Because not all of 
+the state prosecutor appeals were mandatory,47 our analyses accounted for 
+ 
+ 
+45 Although defendants’ first appeals of right from the sentence were associated with 
+a higher likelihood of success, at the court of last resort level it was conviction-only 
+appeals – not sentence appeals –that proved significantly related to the success of 
+appeals by defendants. Id. at 1962–63, 1966. 
+46 Id. at 1952–53 (finding that of defendants who filed discretionary appeals in courts 
+of last resort, only 2.8% were successful, compared to the 14.9% success rate for first 
+appeals of right). 
+47 At either level, state appellate review can be mandatory or discretionary. In 2010, 
+approximately one dozen states had no intermediate appellate court, and in all but 
+two of these states, review of trial court orders in the only court of appeals was 
+mandatory. See WATERS, ET AL., supra note 29, at 2. Additional states with 
+intermediate courts authorized the prosecution to appeal certain categories of trial 
+court rulings, such as rulings in capital cases, directly to the court of last resort, 
+skipping the intermediate court. See, e.g., HAW. REV. STAT. § 602-58 (2017) 
+(providing right to appeal to the high court any ruling invalidating a statute or 
+constitutional provision, and judgments in cases carrying life sentences). 
+Discretionary review at the intermediate appellate court level is also possible. 
+Even today, the state of Virginia maintains only discretionary review for criminal 
+appellants in its courts of appeal. See VA. CODE ANN. § 17.1-407. Another variation 
+can be found in states where all appeals from trial court orders in criminal cases are 
+filed in the high court, which retains some and refers others back to the intermediate 
+court. These states are termed “deflective” states, and include Iowa, Idaho, and 
+Mississippi.  See WATERS, ET AL., supra note 29, at 2–3. 
+  13  
+whether the appeal was one that the court was required to review, or one the 
+court could have declined to review. 
+2. Challenges to trial court v. appellate court decisions. 
+Because reviewing courts may provide greater deference to trial court 
+fact finding and exercises of discretion than they provide to decisions of another 
+appellate  court,  we  expected  that  state  prosecutor  appeals  challenging 
+intermediate appellate court decisions might be more likely to succeed than 
+appeals that challenge trial court decisions. The federal data contain only 
+appeals  challenging  trial  court  decisions  and  no  appeals  challenging 
+intermediate appellate court decisions. As the state data set contains both, we 
+exploited this variation in our analyses. 
+3. Central coordination. 
+Expert  screening  and  staffing  of  government  appeals  provide  the 
+opportunity for strategic and consistent case selection and better advocacy, as 
+compared to appeals that lack such central coordination.48 This coordinating 
+function is the rule in federal court, where the Solicitor General must approve 
+all appeals by the government.49 It is much less pervasive, however, in the 
+states. 
+In  some  states,  assistance  in  the  form  of expertise  and  dedicated 
+resources is provided regularly for prosecution appeals by a state-wide agency 
+or  organization,  usually  part  of  the  Office  of  Attorney  General.  This 
+coordinating body may be able to screen out losing claims or shape claims to 
+be more successful, while pursing longer-term litigation strategies, with staff 
+specializing  in  appellate  advocacy.  Most  states  authorize  the  Attorney 
+General’s office to screen and staff criminal appeals by prosecutors to the 
+state’s  high  court.50 State  level  coordination  of  prosecutor  appeals  to  the 
+intermediate  appellate  court  is  less  common.  Instead,  either  the  county 
+prosecutors’ offices themselves handle these intermediate appeals with only 
+minimal  input,  if  any,  from  the  Attorney  General’s  office,  or,  there  is  a 
+combination of approaches – with the largest urban counties handling their 
+own appeals and a statewide office handling appeals for the smaller counties. 
+We expected that appeals screened or staffed by a statewide organization   or 
+ 
+ 
+48 See, e.g., Davies, supra note 26, at 635-36 (attributing high success rate for 
+prosecutors on appeal to careful case selection). 
+49 See 18 U.S.C. § 3742(b); 28 C.F.R. § 0.20. See also United States v. Hare, 269 F.3d 
+859, 861 (7th Cir. 2001) (“United States Attorneys lack any right to control appeals 
+by the United States, through plea agreements or otherwise; that right belongs to the 
+Solicitor General.”); infra text accompanying note 65 (describing screening process for 
+criminal appeals by the United States). 
+50 See Barkow, supra note 14, at 560–61, 560 nn.226–37 (2011) (collecting state law 
+regulating appellate authority between local prosecutors and the state’s attorney 
+general for appeals to state courts of last resort). 
+  14  
+office would be more likely to succeed than appeals that local prosecutors 
+controlled, because of more effective filtering and more experienced advocacy.51
+ 
+4. Judicial selection. 
+We suspected that a decision favorable to the prosecution would be more 
+likely  when  the  bench  was  selected  or  retained  by  election  rather   than 
+ 
+51 We explored but eventually abandoned an additional hypothesis concerning 
+“advisory” or “moot” appeals by state prosecutors. Statutes in about a dozen states 
+permit the prosecution to file an appeal after an acquittal in order to obtain the 
+appellate court’s resolution of a legal question that would otherwise be unreviewable 
+because of the acquittal. See State v. Ashley, 66 S.W.3d 563, 565 (Ark. 2002) (citing 
+ARK. R. APP. P.—CRIM. 3(c), appeals to Supreme Court only); People v. Jackson, 972 
+P.2d 698, 700–01 (Colo. App. 1998) (citing COLO. REV. STAT. § 16-12-102(1) (2017), 
+appeals to both intermediate and high courts); State v. Anonymous, 739 A.2d 298, 
+300 (Conn. App. Ct. 1999) (citing CONN. GEN. STAT. § 54-96 (2017), appeals to both 
+intermediate and high courts); State v. Barnes, 116 A.3d 883, 887 n.17 (Del. 2015) 
+(citing DEL. CODE ANN. tit. 10, § 9903 (2017)); State v. Walton, 715 N.E.2d 824, 825 
+(Ind. 1999) (citing IND. CODE § 35-38-4-2(4) (2017), appeals to both intermediate and 
+high courts); State v. Grice, 515 N.W.2d 20, 22 (Iowa 1994) (citing IOWA CODE § 
+814.5(2)(d) (2017)); State v. LaPointe, 390 P.3d 7, 12–13 (Kan. 2017) (citing KAN. 
+STAT. ANN. § 22-3602(b)(3) (2017), appeals to both intermediate and high courts); 
+Commonwealth v. Derringer, 386 S.W.3d 123, 125 (Ky. 2012) (citing KY. CONST. § 
+115, appeals to Supreme Court only); State v. Shaw, 880 So. 2d 296, 298 (Miss. 2004) 
+(citing MISS. CODE ANN. § 99-35-103(b) (2017), appeals to both intermediate and high 
+courts); State v. Hall, 691 N.W.2d 518, 522 (Neb. 2005) (citing NEB. REV. STAT. § 29- 
+2315.01 (2017), appeals to both intermediate and high courts); State v. Campbell, 965 
+P.2d 991, 992 (Okla. Crim. App. 1998) (citing OKLA. STAT. tit. 22, § 1053(3) (2017), 
+appeals to Court of Criminal Appeals); State v. Keffer, 860 P.2d 1118, 1124 (Wyo. 
+1993) (citing WYO. STAT. ANN. § 7-12-102 (2017)). 
+Review in these cases does not provide a second chance at conviction. It 
+creates binding precedent for subsequent cases only, with no effect on the acquittal in 
+the case appealed. (These states do not follow the same “case or controversy” doctrine 
+as the federal courts, which precludes such an appeal.) See generally James A. 
+Strazella, The Relationship of Double Jeopardy to Prosecution Appeals, 73 NOTRE 
+DAME L. REV. 1 (1997); see also Nancy J. King, State Criminal Appeals, in ACADEMY 
+FOR JUSTICE: A REPORT ON SCHOLARSHIP AND CRIMINAL JUSTICE REFORM 271-72 (Erik 
+Luna ed., 2017), http://academyforjustice.org/wp- 
+content/uploads/2017/10/12_Reforming-Criminal-Justice_Vol_3_Appeals.pdf 
+[https://perma.cc/NWX2-6AWU] (recommending the use of advisory appeals to allow 
+appellate courts to address important issues shielded from scrutiny when they recur 
+in cases ending in acquittal). 
+Prosecutors may enjoy more success in these “advisory appeals,” often 
+selected for their importance, but because we could identify only the court in which 
+an advisory appeal might have been filed, not which individual appeals actually were 
+advisory, we did not include this in our analysis. In our regression models, we were 
+already clustering on state, and there was no meaningful difference between the 
+success rate of the 14 appeals in courts that allowed advisory appeals and the success 
+rates of appeals in all other courts. 
+  15  
+appointment, because of the incentive to appear tough on crime. Some prior 
+research suggests that elected judges are less likely than appointed judges to 
+side with criminal defendants.52 While we did not find that association in our 
+study of defense appeals when we controlled for whether a state’s initial 
+judicial selection method for the relevant court involved any form of election 
+rather  than  appointment,53  we  considered  whether  this  factor  has  more 
+salience when the prosecutor appeals. 
+C. Questions Comparing Appeals by State Prosecutors and Defendants 
+Our data permit comparisons of defense and prosecution appeals. We 
+posited four potential reasons to expect state appellate courts to accept a 
+greater percentage of prosecutor appeals for review and grant relief in a 
+greater proportion of prosecutor appeals, as compared to defense appeals: 1) 
+differences in rulings appealed; 2) case selection by prosecutors; 3) better 
+advocacy; 4) pro-prosecution bias of judges. As noted below, our ability to 
+investigate each of these hypotheses was limited. 
+1. Claims available to appeal inherently more likely to succeed. 
+Compared to pro-prosecution rulings subject to appeal by the  defense, 
+pro-defendant rulings subject to appeal by the prosecution may be, as a class, 
+systematically different in ways that would suggest a greater likelihood of 
+success when challenged on appeal. First, the trial court dismissals, post- 
+verdict judgments of acquittal, new trial orders, and sentencing errors that 
+prosecutors appeal might be easier for reviewing courts to identify as erroneous 
+than the various errors appealed by defendants if they involve more objective 
+standards of review, for example. Our state data permitted us to examine this 
+only indirectly, by controlling for type of claim included in the appeal. 
+Second, the errors that prosecutors allege on appeal might be more 
+likely to be preserved for appeal than errors that defense counsel raise on 
+appeal. If prosecution and defense appeals show differing rates of merits 
+review for various claims, that may inform this supposition. 
+Third, a greater percentage of errors alleged by prosecutors may not be 
+subject  to  harmless  error  analysis  compared  to  errors  appealed  by 
+defendants.54 Our data include information on the application of harmless 
+error review for the select portion of appeals ending in reasoned opinions. But 
+ 
+52 See generally Michael S. Kang & Joanna M. Shepherd, Judging Judicial Elections, 
+114 MICH. L. REV. 929 (2016) (presenting study findings showing that judicial 
+decisions become more hostile to criminal defendants as attack advertising in judicial 
+elections increases). 
+53 See Heise, et al., supra note 3, at 1968. 
+54 See Davies, supra note 26, at 635 n.287 (suggesting that the differences in the 
+types of issues raised probably contributes to differences in outcomes for defendant 
+and prosecutor appeals, noting erroneous orders dismissing charges are not subject to 
+harmless error review). 
+  16  
+because this information was not available for the bulk of appeals, which were 
+denied  review  or  terminated  without  a  reasoned  decision,  we  could  not 
+evaluate what association, if any, there might be between harmlessness and 
+likelihood of success overall. 
+2. Appeal selection and screening. 
+Even if there is nothing inherent in the rulings appealed that would 
+suggest  a  higher  rate  of  success  for  prosecutors,  research  suggests  that 
+prosecutors, unlike defendants, probably selected for filing those appeals that 
+were more likely to succeed.55 This was something we could not test with data 
+available, for reasons noted earlier,56 but because it is such an important 
+explanation for differences if they exist, we spell out that explanation here. 
+Prosecutors are likely more selective about the appeals they file, first 
+because they do not face the same incentives to appeal unfavorable decisions 
+that defense counsel face. Prosecutors have the authority to select which 
+appeals to file – unlike defense counsel who have an ethical duty to file an 
+appeal whenever the client wants to file one. Also, in some cases, prosecutors 
+have an alternative avenue, other than appeal, to secure a conviction or higher 
+sentence. Especially when an unfavorable final order is entered prior to the 
+attachment of jeopardy, such as an order dismissing a charge before trial, trial 
+prosecutors understand that starting over by filing a new charge may be a 
+cheaper and faster way to obtain a conviction and sentence than appeal. 
+Defendants lack this alternative option and must appeal in order to seek relief 
+from an unfavorable decision.57
+ 
+Not only are there fewer incentives for prosecutors to file appeals, 
+prosecutors have reasons to carefully select which appeals they file, reasons 
+that defendants and defense counsel do not share. Prosecutors may avoid filing 
+appeals because they are concerned about: 1) avoiding appeals that risk a 
+negative impact on other cases, preferring those that are likely to generate 
+favorable precedent for future prosecutions; 58 2) the impact of the appeal   on 
+ 
+55 See, e.g., WASSERMAN, supra note 26, at 106 (attributing high success rate of 
+prosecutors in New York appellate courts to selection of appeals likely to succeed). 
+56 See supra text accompanying notes 33-35. 
+57 And when an appealable order weakens but does not kill a case, such as the 
+dismissal of some but not all counts or the grant of a motion for new trial, offering a 
+sweeter plea bargain might provide an option more attractive to a prosecutor than 
+appeal. Both parties can seek a more favorable outcome through negotiation instead 
+of appeal, but prosecutors probably have on balance more negotiating leverage once a 
+defendant is convicted. 
+58 See, e.g., UNITED STATES SENTENCING COMMISSION, 2012 REPORT TO THE CONGRESS: 
+CONTINUING IMPACT OF UNITED STATES V. BOOKER ON FEDERAL SENTENCING 106 
+n.441 (2012) (federal prosecutors reportedly appeal sentences infrequently “because 
+of the deferential standard of review”). Prosecutors may also cherry pick for appeal 
+cases that could settle destabilizing inconsistency in lower courts. 
+  17  
+the  prosecutor’s  future  election,  selecting  cases  with  more  salience  to 
+constituents  and  foregoing  appeals  with  less;  3)  the  opportunity  cost  of 
+spending office resources on appeals involving losing claims, minor crimes, or 
+defendants already incarcerated for other crimes;59 4) a victim’s request to 
+forego an appeal to secure finality; 5) cultivating a winning reputation with 
+reviewing court by bringing only the strongest appeals;60 6) avoiding harm to  
+a good “working relationship” with the trial judge, by appealing only rarely;61 
+or 7) securing, in a plea negotiation, a defendant’s waiver of right to appeal 
+sentencing  error,  which  could  entail  waiving  the  state’s  right  to  appeal 
+erroneous sentencing rulings favoring the defense, for example.62 Defendants 
+and defense counsel, by contrast, are not concerned about other defendants or 
+future cases, elections, the cost of litigation (except if counsel is retained),63
+ 
+ 
+ 
+59 County prosecutors who must finance their own appeals know that resources spent 
+on appeals are resources that will not be available for trial work. When state-level 
+attorneys screen or handle appeal requests from county prosecutors, it is the state 
+and not the local budget that limits the number and type of appeals prosecutors can 
+pursue. Tight budgets would mean that complicated, costly appeals with a low 
+likelihood of success are much less likely to be filed than appeals less costly to pursue 
+or more likely to succeed. 
+60 Cf. Khanna, supra note 17, at 372 (referencing “ire from the court for bringing 
+baseless appeals” and noting “we would expect prosecutors to screen cases they 
+appeal, and hence that the appeals process should have some separation effect”). 
+61 See Hon. Stephen R. Shaw, Prosecution Appeals Taken Midtrial and Following 
+Acquittal: Changing the Trial and Review of Criminal Cases in Ohio, 22 OHIO N.U. L. 
+REV. 729, 730 (1996) (remarking on the rarity of prosecution appeals midtrial or after 
+acquittals, stating: “apprehension by prosecutors that frequent challenges to the 
+rulings of a particular trial judge, especially following an acquittal, might jeopardize 
+a working relationship with that judge may be a significant reality deterring such 
+appeals”). 
+62 Terms in agreements expressly barring appeal are widespread in federal cases, 
+perhaps less so in state cases. See Nancy J. King & Michael E. O’Neill, Appeal 
+Waivers and the Future of Sentencing Policy, 55 DUKE L.J. 209, 255–56 (2005); Susan 
+R. Klein, Aleza S. Remis & Donna Lee Elm, Waiving the Criminal Justice System: An 
+Empirical and Constitutional Analysis, 52 AM. CRIM. L. REV. 73, 80–81 (2015). There 
+is some authority in the Fourth Circuit requiring that ambiguous appeal waivers 
+should be interpreted as mutual, see United States v. Zuk, 874 F.3d 398, 407 (4th Cir. 
+2017) (quoting United States v. Bowe, 257 F.3d 336, 342 (4th Cir. 2001)) (“ ‘a plea 
+agreement provision that bars the defendant from appealing, but is silent as to the 
+Government’s right to appeal, must be construed as imposing a reciprocal limitation 
+on the Government’s right to challenge a judgment or sentence imposed by the 
+district court’ ”). 
+63 About 80% of felony defendants are indigent with publicly funded counsel, and 
+have no fiscal incentive to forego losing appeals. See BUREAU OF JUSTICE STATISTICS, 
+U.S. DEP’T OF JUSTICE, DEFENSE COUNSEL IN CRIMINAL CASES, NCJ 179023 (2000), 
+https://www.bjs.gov/content/pub/pdf/dccc.pdf [https://perma.cc/6SMT-G5BM]. 
+  18  
+victim’s wishes, their reputation with trial or appellate judges, or securing a 
+waiver of the prosecution’s right to appeal. 
+3. Better advocacy. 
+Even if nothing inherent in the rulings appealed predicts a higher rate 
+of success, and even if defense and prosecution were equally selective about 
+which appeals to file, the advocacy by state prosecutor appellants may be more 
+effective than advocacy by counsel representing state defendant appellants. 
+This may be the case if prosecutor appellants are better resourced, more 
+experienced, or have superior training compared to defendant appellants. The 
+only potential indicators available in both defense and prosecutor data on these 
+issues was the presence of oral argument and the type of counsel for the 
+defense. 
+4. Judicial bias. 
+Finally, even if nothing inherent in the rulings appealed imply a higher 
+rate of success, defense and prosecution are both selective (though perhaps in 
+varying  degrees)  about  which  appeals  to  file,  and  defense  counsel  and 
+prosecutors equally effective advocates, prosecutors who appeal may benefit 
+from any pro-prosecution bias of appellate judges. For example, if judges 
+systematically  lean  in  favor  of  finding for  the government  rather  than a 
+criminal defendant, all other things equal, then this could help explain higher 
+rates  of  leave granted,  and higher  rates  of  success  among  those appeals 
+reviewed on the merits. The only measure of potential pro-prosecution bias 
+available to us – judicial selection by election -- may be more salient for 
+prosecutor than defendant appeals. 
+D.  Questions Comparing Appeals by State and Federal Prosecutors 
+We expected that some of the factors potentially associated with the 
+variation in merits review or success rates could impact state and federal 
+prosecutor appeals differently. First, some research suggests that at the trial 
+level, appointed “panel attorneys,” also known as “CJA attorneys,” are less 
+effective representatives than federal defenders.64 We posited that in appeals 
+too, the presence of a federal defender would correspond with a lower likelihood 
+that the government would win its appeal, as compared to appeals in which 
+ 
+64 See generally James M. Anderson & Paul Heaton, How Much Difference Does the 
+Lawyer Make?: The Effect of Defense Counsel on Murder Case Outcomes, 122 YALE 
+L.J. 154 (2012) (finding shorter sentences and rates of conviction when defendants 
+were represented by public defenders rather than panel attorneys, and offering 
+explanations for those results); Erwin Chemerinsky, Lessons from Gideon, 122 Yale 
+L.J. 2676, 2682 (2013) (collecting research finding public defenders provide more 
+effective representation than court-appointed attorneys); Thomas Cohen, Who is 
+Better at Defending Criminals? Does Type of Defense Attorney Matter in Terms of 
+Producing Favorable Case Outcomes, 25 CRIM. JUST. POL’Y REV. 29 (2014) (concluding 
+that defendants with assigned counsel receive less favorable outcomes compared to 
+their counterparts with public defenders). 
+  19  
+defense counsel was appointed from outside a federal defender’s office. Our 
+state data do not identify whether a publicly funded attorney was from a 
+defender office, so we were able to examine this question only in our federal 
+analyses. 
+We also expected that some of the reasons state prosecutor appeals may 
+succeed more often than state defendant appeals could also explain why federal 
+prosecutor appeals may succeed more often than state prosecutor appeals. The 
+errors appealed by federal and state prosecutors may differ systematically, 
+being,  on average,  easier  to  prove,  better  preserved, or  less  likely  to  be 
+considered harmless than errors raised by state prosecutors. Screening and 
+selection of appeals by the local United States Attorneys, and the various 
+attorneys in the Appellate Section of the Criminal Division and the Office of 
+Solicitor General could be more rigorous and strategic than the screening that 
+prosecutors’ appeals receive in the states. Consider one description of the 
+screening process, lifted from a motion for extension of time filed by the United 
+States in one of the appeals in our data set: 
+The United States Attorney must report each adverse, appealable 
+decision to the responsible component of the United States Department 
+of Justice in Washington, D.C., and must provide that component with 
+the  United  States  Attorney’s recommendation  as  to  whether the 
+Solicitor General should authorize an appeal of that decision. United 
+States Attorneys’ Manual §§ 2-2.110-2-2.112, 9-2.170B and D. Once the 
+responsible  component  of the  Department  of  Justice receives the 
+recommendation of the United States Attorney, that component must 
+prepare its own recommendation as to whether the Solicitor General 
+should authorize an appeal. United States Attorneys’ Manual  § 9- 
+2.170F; see United States Attorneys’ Manual § 2-3.110. Responsible 
+attorneys  in  the  Office  of  the  Solicitor  General  also  prepare 
+recommendations for the Solicitor General. See id. Based on all of these 
+recommendations,  the  Solicitor  General  determines  whether  to 
+authorize an appeal. 28 C.F.R. § 0.20(b); United States Attorneys’ 
+Manual §§ 2-2.121, 2-2.311, 2-2.600, 9-2.170A. This process is intended 
+to assure that the United States pursues only appeals of relative 
+importance and merit.65 
+Not  only  may  screening  be  more  rigorous,  appellate  advocacy  by 
+experienced appellate attorneys from the Department of Justice may be more 
+effective,  on  balance,  than advocacy  by  state  prosecutors.  As  pointed  out 
+earlier, our data permit only very limited examination of the first and third of 
+these hypotheses, and do not permit examination of the relative effectiveness 
+of screening.66
+ 
+IV.  PROSECUTOR APPEALS IN STATE COURTS 
+ 
+65 United States Unopposed Motion for Extension of Time, United States v. Reid, No. 
+13-12860-BB (11th Cir. Aug. 12, 2013). 
+66 See supra text accompanying notes 32–34. 
+  20  
+A.  Data, Methodology, and Research Design 
+For our study of state prosecutor appeals, we examined the decisions 
+identified as part of two nationally representative probability samples of the 
+2010 decisions of all state appellate courts with criminal jurisdiction. Both 
+samples include only direct appeals in criminal cases.67 After combining the 
+two samples,68 we dropped all appeals that defendants had filed,69 as well as 
+appeals in capital cases.70 A total of 154 non-capital, state-initiated appeals 
+remained.  Of  those  noncapital  appeals,  130  involved  felonies,  17  were 
+misdemeanors, and 7 were of unknown severity.71
+ 
+Because ours is the first detailed examination of any nationwide sample 
+of  prosecutor  appeals  in  state  courts,  we  provide  extensive  descriptive 
+information about  a variety  of  features  (or  “variables”)  in  Part  B,  below. 
+Results from our regression models, reported in Part C, below, report each 
+variable’s independent influence on: (1) whether an appeal was reviewed on 
+the merits, and (2) whether the government appellant succeeded on appeal. 
+One final note about our data set construction warrants brief mention. 
+Combining the two random samples of state criminal appeals was important 
+to help provide a sample size that would facilitate our statistical analyses. 
+However, it did introduce the potential for bias. Specifically, although one of 
+the random samples was created by pulling decisions from every intermediate 
+appellate court and court of last resort with criminal jurisdiction, and produced 
+133 of the 154 appeals examined here, the other random sample, contributing 
+21 of the 154 appeals, drew only from decisions by state high courts reviewing 
+decisions  of  intermediate  courts.  Our  combined  set  of  154  appeals  thus 
+overrepresents  state  high  court  decisions  reviewing  appellate  decisions  in 
+2010. This means that the mix of mandatory and discretionary review cases 
+and high court and intermediate court cases examined here is not necessarily 
+random.72 To account for the potential biasing effects of adding these 21 cases, 
+ 
+67 “Writ” litigation, as well as appeals in juvenile, revocation, and post-conviction 
+proceedings, were excluded from the data, as were interlocutory appeals such as a 
+prosecutor’s pretrial appeal of an order granting a defendant’s motion to suppress 
+evidence. To the extent that writ litigation in the courts of appeals supplants or 
+supplements direct appellate review, see sources cited supra note 11, our findings 
+could understate the extent to which judicial review benefits prosecutors seeking 
+relief from trial court orders in criminal cases. See generally Poulin, supra note 6. 
+68 The raw merged data set includes 5,045 criminal appeals (4,673 from the main 
+data set and 432 from the supplemental data set). 
+69 We included an appeal only if the state was identified as the appellant or petitioner 
+for that appeal. 
+70 Removing the capital cases decreased the set of appeals by five. 
+71 See infra Table 3. 
+72 Combining these two sets of cases in our earlier article evaluating the defense 
+appeals in these same data sets had no similar effect, because there the number of 
+  21  
+we added to our regression analyses a control variable that signaled whether 
+an appeal was one of the 21 cases from the second “supplemental” sample. For 
+the descriptive findings, we report below information about the combined set, 
+as a foundation for the regression analysis, but we also carefully evaluated 
+whether including those 21 cases made any substantive difference, and note 
+when it did. Appendix Table A2 also reports descriptive information without 
+the supplement sample. 
+1. Dependent variables. 
+Merits  review.  Our  data  include  for  each  appeal  whether  it  was 
+terminated for a reason unrelated to the merits or was instead reviewed on its 
+merits. Appeals terminated for reasons other than the merits include appeals 
+denied review by the appellate court, appeals dismissed by the appellate court 
+for a procedural problem unrelated to the merits, and appeals withdrawn by 
+the government appellant. 
+Decision Favored the Prosecution. We defined a decision as favoring the 
+government if it involved anything other than an affirmance, a dismissal, a 
+denial of review, or a withdrawal. In addition to full and partial reversals, 
+remands as well as modifications of one of several sentences were considered 
+favorable outcomes for the appellant, as the data offer no reliable method to 
+distinguish significant modifications or remands from less meaningful ones.73
+ 
+2.  Independent variables.74
+ 
+State. The combined sample of 2010 appellate decisions in every state 
+produced government appeals from 28 different states. Ohio appeals make up 
+a disproportionate 16% of those decisions.75 Although other variables already 
+account for differences among states, we also examined in our descriptive and 
+ 
+ 
+ 
+ 
+ 
+cases allowed us to use separate models for COLR discretionary cases. As well, as 
+results in Table 4, infra, illustrate, the 21 additional state high court appeals drawn 
+from National Center for State Court’s Survey of State Court Criminal Appeals, 
+2010, Supplement data set, did not systematically vary from the appeals drawn from 
+the Center’s Main data Set. See generally Survey of State Court Criminal Appeals 
+supra note 1. 
+73 This approach comports with prior empirical work examining appeals. See, e.g., 
+CHAPPER & HANSON, supra note 26, at 5; Theodore Eisenberg & Michael Heise, 
+Plaintiphobia in State Courts Redux? An Empirical Study of State Court Trials on 
+Appeal, 12 J. EMPIRICAL LEGAL STUD. 100, 115 n.72 (2015). 
+74 For many of the variables described below, one reason to construct them as we did, 
+in addition to the reasons explained in the research question section, was to facilitate 
+comparisons with our prior defense appeal study. 
+75 See infra Table 1. 
+  22  
+regression analyses whether the appeals that prosecutors filed in Ohio 
+systematically differed from prosecutor appeals filed in other states.76
+ 
+Mandatory/Discretionary Review; Court of Last Resort/Intermediate 
+Appellate Court. Our data indicate for each appeal whether the appeal was “of- 
+right” (mandatory) or “by permission” (discretionary), and we constructed a 
+dummy variable to investigate whether this distinction correlates with an 
+appeal’s likelihood of success. Unlike the thousands of appeals examined in 
+our study of defense appeals, the smaller number of prosecutor appeals would 
+not comfortably permit separate analysis of decisions by courts of last resort 
+and  those  of  intermediate  appellate  courts.  We  therefore  controlled  for 
+whether the appeal was decided by an intermediate court (which would be 
+reviewing trial court orders only) or a court of last resort (which may review 
+either a trial court order or an intermediate appellate court), to investigate 
+whether success was less likely when the appellant challenged a trial court 
+order. 
+Appeal from sentence or conviction. To investigate whether sentence 
+appeals are associated with a greater likelihood of success than appeals from 
+conviction, we used two dummy variables identical to those used in our study 
+of defense appeals. One indicates whether the appeal included a challenge to 
+the sentence, the other whether the appeal challenged only the conviction.77
+ 
+Felony/Misdemeanor. To investigate the potential significance of crime 
+seriousness to the likelihood of success, we created a dummy variable signaling 
+whether each appeal involved a felony or misdemeanor.78
+ 
+Crime type. To investigate whether the type of crime made a difference 
+in appellate success for prosecutors, we first collapsed the twenty-three crime 
+types available in the data into eight categories,79 then collapsed these further 
+into three broad categories: 1) violent offenses (homicide, robbery, assault, sex 
+offenses); 2) drug trafficking, weapons, and DUI offenses (all cases likely to 
+involve search and seizure issues and each showing relatively high rates of 
+relief  in  descriptive  analyses),  and 3) non-violent  offenses  and unknown, 
+capturing every appeal other than those in the first two categories. We also 
+created two dummy variables allowing us to examine whether an appeal of  a 
+ 
+76 We also ran models, unreported here, that included controls for Louisiana cases, 
+making up more than 10% of the combined sample. 
+77 Reference for each of these two dummy variables were cases in which the part of 
+the judgment appealed from was neither (e.g., an appeal from dismissal) or unknown. 
+78 This information was not included in our study of defense appeals, as we excluded 
+misdemeanor appeals from the cases examined. In upcoming research, we plan to 
+study these misdemeanor appeals by defendants and how they differ from felony 
+appeals by defendants and misdemeanor appeals by the prosecution. 
+79 These were the eight categories examined in our study of appeals by defendants 
+using the same data set. Descriptive findings for these categories are not reported 
+here. 
+  23  
+violent offense systematically varied with success, as compared to the appeal 
+of a drug trafficking, weapons, or DUI offense, and whether the appeal of a 
+violent offense was significant as compared to an appeal of a non-violent 
+offense. 
+Claim included in brief. We condensed the various claim categories 
+available in the data into four categories: (1) claims contesting a post-verdict 
+judicial decision assessing the sufficiency of evidence; (2) claims addressing the 
+suppression of evidence; 80 (3) claims contesting the sentence or sentencing; 
+and (4) all other claims, including claims contesting dismissal of the charge or 
+granting a new trial for various reasons, and claims coded as unknown in the 
+data. We created dummy variables for each, indicating whether the appeal 
+included the type of claim, with all other appeals as a reference.81 Because we 
+were able to track these same four categories in the state defense appeal data 
+and the federal prosecutor appeal data, and defined our variables identically 
+in each, this facilitated state-federal comparisons. 
+Whether  prosecutor  appeals  are  coordinated  statewide.  To  examine 
+whether central coordination advantaged prosecutor appeals, we created a 
+dummy variable for each court in each state that indicates whether prosecutor 
+appeals to that court were coordinated.82
+ 
+Type of defense representation. To test whether the type of defense 
+representation relates to success, we created two separate dummy variables 
+that   signal   the   presence   of   publicly   funded   or   a   private     attorney 
+ 
+ 
+ 
+ 
+ 
+ 
+80 Assuming interlocutory appeals (where orders granting suppression motions are 
+also litigated) were all excluded from the data sources we used here, these appeals 
+included prosecutor appeals of intermediate court decisions finding that a trial court 
+should have granted a motion to suppress but did not. 
+81 As noted infra in text accompanying note 89, for our regression analysis, we opted 
+to measure whether the appeal raised a sentencing claim with an alternative dummy 
+variable – whether the appeal included a challenge to the sentence. 
+82 See Table A4, infra (Appendix). For each state with at least one case from an 
+intermediate court in our sample, information about coordination for intermediate 
+appellate courts was collected by phone and email communications with the offices of 
+the attorney general, the prosecutors’ association, and/or state appellate defender 
+office. For courts of last resort, we used research by Professor Rachel Barkow, supra 
+note 14, corrected in a few instances based on information received directly from the 
+conversations noted above. When a state provided coordination for all but the very 
+largest counties, we counted that state as coordinated.  For example, the state 
+handles appeals in Michigan for prosecutors in counties with a population of less 
+than 75,000. Similarly, a statewide association manages criminal appeals for 
+prosecutors in Illinois for all but two counties. 
+  24  
+representation, respectively.83
+ 
+Oral Argument, Full Opinion. We  tested for  the  importance  of oral 
+argument and type of opinion using dummy variables identical to those used 
+in our analysis of state defense appeals. One indicates whether oral argument 
+took place or not, and the other whether the court’s decision appeared in a full 
+opinion, or some other form of decision.84
+ 
+Judicial selection method. We used the same dummy variable that we 
+used in the defense appeals study to test the significance of this distinction in 
+judicial selection for the outcome of state prosecutors’ appeals, coding a specific 
+appellate court as “elected” if the initial judicial selection method for the 
+relevant court involved any form of election rather than appointment.85
+ 
+B.  Descriptive Findings: State Prosecutor Appeals 
+The  most  striking  aspect  of  prosecutor  appeals  is  their  scarcity. 
+Although the main national sample of appellate decisions identified more than 
+4,500 direct appeals by defendants, with every state represented,86 it identified 
+only 133 direct appeals in non-capital cases filed by prosecutors, from 28 of the 
+50 states. Table 1 shows the state breakdown for the full set of 154 prosecutor 
+appeals. 
+ 
+ 
+TABLE 1: SUMMARY OF PROSECUTOR APPEALS AND SUCCESS, BY STATE 
+ 
+          Mand  Disc       IAC  COLR 
+Mand  Disc  P succ.  P succ  IAC  COLR  P succ  P succ 
+(N)  (%)  (N)  (N)  (%)  (%)  (N)  (N)  (%)  (%) 
+  AL   1  0.7  1  0  0.0  ---  1     0   0.0   --   
+ 
+83 The reference for each variable is all other types of representation, which includes 
+cases in which the appellee was pro se and cases that were missing information on 
+the type of representation. 
+84 We did not include in our analysis of prosecutor appeals a variable for court 
+workload. First, we found workload was not related to any variation in merits review 
+or success in our analyses of appeals by criminal defendants. Second, we expected its 
+importance to be even more attenuated for prosecution appeals because those appeals 
+made up such a small portion of total caseload for these courts, as compared to 
+defense appeals. Given the importance of limiting the number of factors included in 
+our models to only those most theoretically salient, this workload control did not 
+make the cut. 
+85 See Heise, et al., supra note 3, at 1950. We also used an alternative measure of 
+election – retention instead of initial selection. The results, not reported here, did 
+not materially differ. 
+86 See WATERS, ET AL., supra note 29, at 10. Based on BJS estimates, this is a random 
+sample of more than 6% of all appeals decided in 2010. Id. at 1, 4-5, tbls. 1 & 2 
+(estimating prosecutors filed a total of 2,029 of the 69,349 direct criminal appeals 
+decided by state courts in 2010). 
+  25  
+          Mand  Disc       IAC  COLR 
+Mand  Disc  P succ.  P succ  IAC  COLR  P succ  P succ 
+(N)  (%)  (N)  (N)  (%)  (%)  (N)  (N)  (%)  (%) 
+AZ  9  5.8  3  6  66.7  16.7  3  6  66.7  16.7 
+CA  12  7.8  1  11  0.0  54.6  1  11  0.0  54.6 
+FL  12  7.8  10  2  30.0  0.0  10  2  30.0  0.0 
+HI  2  1.3  1  1  0.0  0.0  1  1  0.0  0.0 
+IA  6  3.9  0  6  ---  50.0  2  4  100.0  25.0 
+IL  5  3.3  2  3  50.0  0.0  2  3  50.0  0.0 
+IN  1  0.7  0  1  ---  0.0  0  1  ---  0.0 
+KS  1  0.7  0  1  ---  0.0  1  0  0.0  --- 
+KY  5  3.3  1  4  0.0  100.0  0  5  ---  80.0 
+LA  15  9.7  0  15  ---  46.7  0  15  ---  46.7 
+MA  2  1.3  2  0  0.0  ---  2  0  0.0  --- 
+MI  6  3.9  0  6  ---  83.3  3  3  66.7  100.0 
+MN  4  2.6  0  4  ---  0.0  0  4  ---  0.0 
+MO  1  0.7  0  1  ---  100.0  0  1  ---  100.0 
+NC  1  0.7  1  0  0.0  ---  1  0  0.0  --- 
+ND  1  0.7  1  0  100.0  ---  0  1  ---  100.0 
+NE  1  0.7  1  0  0.0  ---  1  0  0.0  --- 
+NJ  4  2.6  4  0  25.0  ---  4  0  25.0  --- 
+NM  3  2.0  0  3  ---  33.3  0  3  ---  33.3 
+NY  10  6.5  7  3  85.7  0.0  7  3  85.7  0.0 
+OH  26  16.9  9  17  33.3  5.9  10  16  30.0  6.3 
+OR  6  3.9  2  4  50.0  50.0  2  4  50.0  50.0 
+PA  5  3.3  0  5  ---  20.0  0  5  ---  20.0 
+TX  6  3.9  1  5  0.0  100  1  5  0.0  100.0 
+VT  1  0.7  1  0  0.0  ---  0  1  ---  0.0 
+WA  7  4.6  4  3  75.0  0  4  3  75.0  0.0 
+WI  1  0.7  0  1  ---  100.0  0  1  ---  100.0 
+%    100  33.8  66.2  40.4  37.3  36.4  63.6  42.9  35.7 
+N  154    52  102  21  38  56  98  24  35 
+SOURCE: Survey of State Court Criminal Appeals, 2010. 
+ 
+ 
+As Table 1 shows, Ohio had the most appeals by the prosecution, 17% 
+of the sample. Nationwide, discretionary appeals outnumbered mandatory 
+appeals,  and  more  appeals  were  filed  in  courts  of  last  resort  than  in 
+intermediate appellate courts.87
+ 
+Turning to the rates of success, Table 2 reports that prosecutors secured 
+a  favorable  decision  in  approximately  38%  of  all  appeals  combined.  Of 
+discretionary  appeals  reviewed  on  the  merits,  prosecutors  were 
+overwhelmingly successfully and prevailed more than 79% of the time. 
+ 
+ 
+ 
+87 While in our total data set state high court appeals account for 63.6% of our sample 
+and discretionary appeals account for 66.2%, after backing-out the 21 appeals drawn 
+from the supplemental sample, see text accompanying note 72 supra, the percentage 
+of high court appeals drops to 57.9%.  The percentage of mandatory appeals rises 
+from 33.8% to 39.1%. See infra Appendix Table A2. 
+  26  
+ 
+TABLE 2: DECISION FAVORING STATE PROSECUTOR, BY TYPE OF APPEAL 
+ 
+  (1)  (2)  (3)  (4) 
+      % of 
+discretionary 
+ 
+% of  % of  appeals 
+% of all  mandatory  discretionary  reviewed on 
+appeals  appeals  appeals  merits 
+N  154  52  102  48 
+Dependent Variables:         
+Reviewed on merits  57.1  76.9  47.1  --- 
+Decision favored prosec.  38.3  40.4  37.3  79.2 
+N (w/o supp. cases)  133  52  81  41 
+Dependent Variables:         
+Reviewed on merits  60.9  76.9  50.6  --- 
+Decision favored prosec.  40.6  40.4  40.7  80.5 
+SOURCE: Survey of State Court Criminal Appeals, 2010. 
+ 
+ 
+Several of the factors we tracked appear to correlate with success, as 
+suggested  by  the  comparisons  in  Table  3.  These  included  appeals  that 
+addressed the conviction alone and did not contest a sentence, felony appeals 
+(as opposed to misdemeanors), appeals from drug trafficking, weapons, and 
+DUI prosecutions, appeals that raised suppression, sufficiency, or sentence 
+issues,  appeals  with  oral  argument  or  full  opinions,  appeals  coordinated 
+statewide, and appeals from California and Louisiana. Factors that appeared 
+to decrease the likelihood of appellant success included appeals with various 
+categories of unknown information,88 appeals in violent crime cases, appeals 
+involving pro se defendants, and appeals from Ohio. 
+ 
+ 
+TABLE 3: INDEPENDENT  VARIABLES, BY DECISION FAVORING STATE 
+PROSECUTOR 
+ 
+   (1)  (2) 
+  % cases with  % cases w/o 
+variable receiving  variable receiving 
+ 
+decision favoring  decision favoring 
+Independent Variables:  P  P 
+Court of last resort [n=98]  35.7  42.9 
+Mandatory review appeal [n=52] †  40.4  37.3 
+ 
+88 This is not surprising, given that records available for appeals terminated before 
+briefing were less likely to include detailed information needed to code many of the 
+variables. 
+  27  
+    (1)  (2) 
+    % cases with  % cases w/o 
+  variable receiving  variable receiving 
+ 
+  decision favoring  decision favoring 
+Independent Variables:  P  P 
+ 
+Appeal from:     
+ 
+Conviction (alone) [n=83]  43.4  32.4 
+ 
+Sentence (included) [n=38]  36.8  38.8 
+ 
+(unknown/missing) [n=33]  27.3  41.3 
+  Offense severity     
+  Felony [n=130]  40.0  29.2 
+  Misdemeanor [n=17]  35.3  38.7 
+  (severity unknown/missing) [n=7]  14.3  39.5 
+  Crime type:     
+Drug Trafficking, weapons, dui [n=52]  55.8  29.4 
+ 
+Violent (sex, homic., rob, assa) [n=59]  28.8  44.2 
+ 
+Nonviolent and unknown crime [n=43]  30.2  41.4 
+ 
+Claim included in brief:     
+ 
+Evidence suppression [n=24]  54.2  35.4 
+ 
+Insufficient evidence [n=15]  66.7  35.3 
+  Sentence [n=11]  63.6  36.4 
+  Claims other than above [n=48]  41.7  36.8 
+  (claim unknown) [n=61]  18.0  51.6 
+  Court factors:     
+Elected judges [n=92]  39.1  37.1 
+ 
+CA state [n=12]  50.0  37.3 
+ 
+FL state [n=12]  25.0  39.4 
+ 
+LA state [n=15]  46.7  37.4 
+ 
+OH state [n=26]  15.4  43.0 
+  Process & advocacy factors:     
+  State coordinates appeal [n=84]  41.7  34.3 
+  Oral argument held [n=46]  65.2  26.9 
+  Full judicial opinion [n=63]  66.7  18.7 
+  Private defense attorney [n=24]  41.7  37.7 
+  Public defense attorney [n=85]  41.2  34.8 
+Pro se defendant [n=3]  0.0  39.1 
+ 
+(unknown representation) [n=42]  33.3  40.2 
+ 
+N  154 
+S OURCE: Survey of State Court Criminal Appeals, 2010. 
+† Comparison switched direction once supplemental cases were removed. For a 
+discussion of the supplemental cases, see supra text accompanying note 72. 
+ 
+ 
+C.  Modeling State Prosecutor Appeals 
+Given  the nature  of  our  dependent variables, we  turned  to  logistic 
+regression  analyses  to  assess  whether  the  correlations  suggested  in  the 
+descriptive comparisons reported in Tables 2 and 3 would withstand more 
+rigorous  empirical  testing.89  Once  other  factors  were  controlled,  only one 
+ 
+89 Because of sample size concerns, we could not include in our models all of the 
+factors in Table 3. The variables we chose to include in our models were those we 
+thought would best inform our research questions.  So, for example, we opted for 
+  28  
+variable correlates with an increased likelihood of success at a statistically 
+significant  level  in  one  or  more  of  the  two  models:  the presence  of  oral 
+argument.90 Two variables also correspond to a lowered likelihood of success. 
+In  Ohio,  the  state  with  the  largest  number  of  appeals  in  the  sample, 
+prosecutors were less likely than prosecutors in other states  to receive a 
+favorable decision when they appealed, even after controlling for other factors, 
+in each of the models. That the appeal was to a court of last resort was 
+associated with a lower likelihood of success in one model. 
+ 
+The salience of an oral argument comports with our initial hypothesis; 
+we expected prosecutors were more likely to succeed when given a chance to 
+argue the case before the bench.  But several surprises also emerged. 
+ 
+TABLE 4: LOGISTIC MODELS, DECISION FAVORING STATE PROSECUTOR 
+ 
+  (1)    (2)   
+  (s.e.)    (s.e.) 
+Decision favored prosecutor         
+Case specific variables:         
+Court of last resort  -1.49*  (0.72)  -1.35  (0.75) 
+ 
+“Appeal from sentence (included)” as a better measure of whether the appeal 
+challenges a sentence than “sentence claim included in brief,” which, because of 
+missing claim information, did not capture all sentence appeals. Of the two 
+remaining claim-included variables, we omitted the variable for suppression claims 
+and kept the variable for sufficiency claims for two reasons. The suppression variable 
+was captured in a limited way by the crime category “drug trafficking, weapons, and 
+DUI,” which was defined both because of a higher than average rate of relief for each 
+of the three included crime types and because all three had in common frequent 
+search and seizure issues. Second, the suppression variable was insignificant in 
+every one of our alternative unreported models. 
+Of the counsel variables, we opted to examine our hypothesis about the 
+impact of private retained counsel, and included that dummy variable. And of the 
+states, we controlled only for Ohio, with the largest proportion of cases. 
+90 The presence of a full opinion in models not reported was also significantly 
+associated with a greater likelihood of appellant success, as predicted, but we decided 
+not to include it in the models for two reasons. First, both logic and unreported 
+supplemental analyses made clear that the two separate variables “full opinion” and 
+“oral argument,” while not perfect substitutes, were essentially capturing the same 
+variance, signaling perhaps how potentially important the appellate court considered 
+an appeal. We remained careful throughout our study to not “over-load” our models 
+on the “right-side” of the regression equation. As between the two variables, we 
+selected oral argument partly because, unlike the decision to produce a full judicial 
+opinion, a reviewing court typically decides whether to grant oral argument before 
+settling on the appropriate resolution of the appeal. To the extent that we sought to 
+model judicial outcomes, we felt variables reflecting actions that preceded those 
+outcomes were more appropriate and probative. 
+  29  
+Mandatory appeal  -1.02  (0.79)  -1.05  (0.78) 
+Appeal of conviction (alone)  0.50  (0.56)  0.52  (0.55) 
+Appeal of sentence (included)  0.54  (0.63)  0.50  (0.65) 
+Offense severity = felony  0.54  (0.58)  0.55  (0.54) 
+       
+Crime types: 
+Violent crime type (ref.)         
+Nonvio. and unknown crime type  0.80  (0.69)  0.81  (0.72) 
+Drug traffic, weapon, or dui  0.91  (0.61)  1.01  (0.66) 
+       
+Claim in brief: 
+Insufficient evid. claim included  0.70  (0.87)  0.70  (0.91) 
+       
+Court specific factors: 
+Elected judges  0.25  (0.39)  0.27  (0.39) 
+OHIO state  -1.85**  (0.51)  -1.91**  (0.50) 
+       
+Process & advocacy: 
+Oral argument  1.83**  (0.48)  1.79**  (0.50) 
+Private attorney  -0.48  (0.62)  -0.55  (0.62) 
+State coordinates appeal  0.06  (0.48)  0.05  (0.47) 
+ 
+Supp. data  ---  -1.03  (0.65) 
+Constant  -1.12  (1.32)  -1.09  (1.33) 
+N  154    154   
+Log likelihood  -81.35    -80.16   
+Psuedo R2  0.21    0.22   
+ 
+NOTES: We report results from logistic regression models of prosecutor success with appeals 
+initiated by the state. The dependent variable is whether the appellate court outcome favored 
+the prosecutor (success is construed as something less than a full affirmance or dismissal and 
+involved upsetting, to some degree, the lower court decision). Robust standard errors (clustered 
+on the state level) are in parentheses. * p<0.05; ** p<0.01. We estimated the models using the 
+“logit” command in Stata (v.15.1). Results from alternative unreported analyses simultaneously 
+modeling the appeal outcome conditioned on a merits review did not materially differ from those 
+presented above. 
+SOURCE: Survey of State Court Criminal Appeals, 2010. 
+ 
+Contrary  to  our  expectations,  many  factors  made  no  systematic 
+difference.91 The first surprise was that whether the reviewing court had the 
+option of declining review made no statistical difference to the likelihood that 
+a state prosecutor appeal, once filed, would succeed. In other words, after 
+controlling  for  other  factors  --  including  whether  the  appeal  was  to  an 
+intermediate or a court of last resort -- a prosecutor was just as likely to win a 
+discretionary appeal as an appeal the court must review. This does not  mean 
+ 
+91 We are mindful of the limited analytic weight we can properly place on our null 
+findings due to our limited sample size (N=154) and the number of variables included 
+on the right side of our estimation (13-14). Various power calculations estimate that 
+a slightly larger sample size (or slightly fewer independent variables) would enhance 
+our statistical power and confidence in the null findings. In unreported alternative 
+(and more parsimonious) model specifications, the main results we report here 
+remain largely unchanged. 
+  30  
+that state courts with the discretion to decline a prosecutor’s appeal never did 
+so. It suggests only that the exercise of that discretion has such little impact 
+on probable success that as far as prosecutor appellants are concerned, those 
+discretionary appeals did not systematically differ from mandatory appeals. 
+ 
+We also expected state prosecutors to be more likely to win appeals in 
+felony cases than to win the 17 misdemeanor appeals in our data, but once 
+other  factors  were  controlled,  this  difference  did  not  achieve  statistical 
+significance. Perhaps prosecutors were particularly selective when appealing 
+in  misdemeanor  cases,  choosing  to  devote  appellate  resources  to  these 
+relatively minor cases only when a court’s ruling was especially egregious. Also 
+contributing to this null finding may be the comparatively small number of 
+misdemeanor appeals launched by prosecutors. 
+ 
+Unexpected also was that whether the appeal was from a conviction only 
+or was one that included a challenge to the sentence made no systematic 
+difference in terms of the likelihood of success. Finally, whether an appeal was 
+decided by a state high court was significantly associated with a lower, not 
+higher likelihood of success for the prosecutor appellant in Model 1.92 This 
+conflicts with our prediction that courts will be more likely to find in favor of 
+an appellant when reviewing another appellate decision than they are when 
+reviewing a trial court decision, especially given that another variable controls 
+for whether the appeal is mandatory or discretionary. 
+ 
+V. COMPARING STATE PROSECUTOR AND DEFENSE APPEALS 
+ 
+Comparing the results from the study of prosecutor appeals above with 
+the results of our earlier study of state criminal appeals filed by defendants 
+reveals several striking differences. All of the comparisons that follow must be 
+interpreted with caution, however, because the two study samples, although 
+drawn  from  the  same  databases,  include  some  structural  differences. 
+Specifically, the prosecutor appeal sample includes the following categories of 
+appeals that the defense appeals sample does not: appeals from “deflective” 
+states,93  discretionary  appeals  to  intermediate  (as  opposed  to  last  resort) 
+ 
+92 In Model 2, however, where we control for whether an appeal is one of the 21 court 
+of last resort cases reviewing an intermediate court decision from the supplemental 
+data, see supra text accompanying note 72, the same distinction just barely falls out 
+of significance. That these two variables interact, however, makes sense. Only 23.8% 
+of these supplemental court of last resort cases succeeded (compared with 40.6% of 
+the 133 “main” appeals), and only 35.7% of all high court appeals succeeded 
+(compared with 42.9% of intermediate court appeals). Thus, in Model 2, the inclusion 
+of the supp data dummy variable diluted the independent influence of our COLR 
+dummy variable enough to pull the COLR variable out of the conventional range for 
+statistical significance. 
+93 See supra note 47 (describing “deflective” appeal structure). 
+  31  
+courts,94 and appeals in misdemeanor cases. The numbers of these appeals in 
+the prosecutor data set are small, and if their inclusion had any influence on 
+the results, it likely would have slightly depressed the rate of success by 
+prosecutor appellants.95
+ 
+A.  Comparing Descriptive Findings 
+Comparisons of descriptive findings for state prosecution and defense 
+appeals generated several interesting findings.96
+ 
+1.  Differences in the sub-pools of prosecution and defense appeals. 
+Among  mandatory  appeals,  fewer  prosecutor  than  defense appeals 
+included a challenge to the sentence (31% compared to 43%), although about 
+half of both prosecutor and defense appeals challenged the conviction alone. 
+Just under a third of appeals by both the prosecution and defense involved 
+nonviolent  (and  unknown)  crimes.  Violent  crimes  constituted  the  largest 
+category of mandatory appeals for both prosecution and defense, but made up 
+a larger portion of defense appeals than prosecutor appeals. Drug trafficking, 
+weapons, and DUI cases made up a larger portion of prosecutor appeals than 
+defense appeals. Defendants raised claims involving the sufficiency of evidence 
+more often than prosecutors did (29% compared to 17%), but prosecutors raised 
+suppression issues more often (19% compared to 13%). 
+Among discretionary appeals in courts of last resort, the case mix that 
+state high courts ultimately considered on the merits was similar in some 
+respects  to  the  mix  in  mandatory  appeals.  More  defense  appeals  than 
+prosecutor appeals involved violent crime, sentencing challenges, and claims 
+pertaining  to  the  sufficiency of  evidence,  for  example.  Unlike  mandatory 
+appeals,  however,  slightly  more  of  the  discretionary  appeals  filed  by 
+defendants and reviewed on the merits included a suppression claim (29% 
+compared to 26% of discretionary appeals by prosecutors), and violent crime 
+was not the largest category for prosecutor appeals. Instead, drug trafficking, 
+weapons, and DUI cases made up 42% of the appeals by prosecutors heard on 
+the merits at this level. 
+2.  Comparing rates of merits review. 
+Appellate courts reviewed most appeals of right on their merits, no 
+matter who appealed. Appeals of right by the defense were more likely to be 
+reviewed on the merits compared to those filed by the government (90% of the 
+ 
+94 The discretionary intermediate court appeals were mostly from Virginia where all 
+direct appeals are discretionary, and Michigan, where appeals from guilty pleas are 
+discretionary. See supra note 47; Heise, et al., supra note 3, at 1945. 
+95 The 17 misdemeanor appeals had a lower rate of success (35.3%), while the seven 
+discretionary appeals in intermediate courts had higher rates of success (57.1%), as 
+did the six deflective state appeals (50%). 
+96 Figures in this section are drawn from Tables found in the Appendix, infra. 
+  32  
+2,080 defense of right appeals compared to 77% of the 52 prosecution of right 
+appeals).  Among  mandatory appeals,  15% of  the  prosecutor appeals were 
+withdrawn, compared to only 4.5% of the defense appeals. But discretionary 
+appeals filed by the defense in state courts of last resort were far less likely to 
+be reviewed on their merits than those filed by prosecutors. This relationship 
+is illustrated in Figure 1, showing the difference between the prosecutor’s 
+almost 50-50 odds of securing merits review for a discretionary appeal filed in 
+a state’s high court (45.3% merits), compared to the 20 to 1 odds facing the 
+defendant appellant (4.6% merits). 
+ 
+ 
+Figure 1: Comparing rates of merits review, by appeal type. 
+ 
+100 
+90 
+80 
+70 
+60 
+50 
+40 
+30 
+20 
+10 
+0 
+All  All Defense  % mand.  % mand.  % disc.COLR % disc.COLR 
+Prosecution    appeals  appeals (P appeals (D  appeals (P appeals (D 
+appeals  appellant)    appellant)  appellant)    appellant) 
+ 
+Although  the  number  of  appeals  filed  by  defendants  eclipsed  the 
+number filed by prosecutors, at the state high court level that asymmetric mix 
+changed among cases considered on the merits. As Appendix Table A2 reports, 
+in the random nationwide sample, state high courts heard 52 discretionary 
+defense  appeals  and  36  discretionary  prosecution  appeals,  not  nearly  as 
+skewed a difference as the disparity in the number of appeals filed. 
+ 
+3.  Comparing success of prosecutor and defense appeals. 
+ 
+Turning to comparative rates of ultimate success in these appeals, 
+prosecutor appellants enjoyed a total rate of success roughly four times   that 
+  33  
+experienced by defendants (38% compared to 10%).97 Figure 2 illustrates the 
+greater likelihood of success for prosecutors compared to defendants. This 
+difference persists even among those discretionary appeals granted review in 
+high courts, where the appellant – prosecutor or defendant – was generally 
+more likely to win than the appellee. Appendix Tables A1 and A2 reveal 
+defendant-appellants had a higher success rate than prosecutor-appellants in 
+only two of the dozens of comparisons reported. Among discretionary appeals 
+reviewed on the merits in state high courts, defendant appellants were more 
+likely  to  win  than  prosecutor  appellants  when  the appeal  was  from  the 
+sentence (73% v. 63%) and also when the appeal raised a claim other than 
+insufficient evidence, suppression, or sentence (65% v. 60%). Other than that, 
+prosecutors were more successful in every category.98
+ 
+ 
+ 
+Figure 2: Comparing rates of a favorable appeal, by appeal type. 
+ 
+80 
+70 
+60 
+50 
+40 
+30 
+20 
+10 
+0 
+% mand.  % mand.  % disc. COLR    % disc.COLR    % disc. COLR    % disc.  COLR 
+appeals (P  appeals (D  appeals (P  appeals (D    appeals  appeals 
+appellant)  appellant)  appellant)  appellant)  reviewed on     reviewed on 
+merits (P   merits (D 
+appellant)  appellant) 
+ 
+The pattern of greater success for prosecutors in discretionary appeals 
+heard on the merits is also evident when comparing appeals of different crime 
+types (Figure 3), different claims (Figure 4), and even when the appellant was 
+provided oral argument or the court decided to issue a full opinion (Figure 5). 
+ 
+97 Without the supplemental data, the prosecutor success rate was 41%. See Table 2, 
+supra; Heise, et al., supra note 3, at 1948 (reporting that 349 of 3505 defense appeals 
+in sample were successful). 
+98 Appendix Table A2 does show defendant appellants were more likely to succeed 
+than prosecutor appellants in mandatory appeals filed in California, but there was 
+only one such appeal for the prosecution (most in that state were discretionary). 
+  34  
+ 
+Figure 3: Comparing success rates, discretionary merits appeals, by crime 
+type. 
+ 
+  100 
+  80 
+  60 
+  40 
+  20 
+ 
+0 
+  Drug Trafficking, weapons,  Violent (sex, homic, robb,  Nonviolent and unknown 
+  dui  ass.)  crime 
+ 
+Disc. appeals reviewd on merits w/ variable, % w/ decision favoring P 
+.  COLR disc. rev’d on merits  with variable % w/ decision favoring D 
+ 
+ 
+Figure 4: Comparing success rates, discretionary appeals reviewed on merits, 
+by claim included. 
+ 
+100 
+90 
+80 
+70 
+60 
+50 
+40 
+30 
+20 
+10 
+0 
+Insufficient  Evidence  Sentence  All other claims  (claims raised 
+evidence  suppression  unknown) 
+Disc. appeals reviewd on merits w/ variable, % w/ decision favoring P 
+COLR disc. rev’d on merits  with variable % w/ decision favoring D 
+  35  
+Figure 5: Comparing success rates, discretionary appeals reviewed on merits, 
+by arguments and opinion type. 
+ 
+80 
+70 
+60 
+50 
+40 
+30 
+20 
+10 
+0 
+Oral argument held  Full judicial opinion 
+Disc. appeals reviewd on merits w/ variable, % w/ decision favoring P 
+COLR disc. rev’d on merits  with variable % w/ decision favoring D 
+ 
+ 
+As  illustrated  by  Figure  6,  compared  to  defendants  with  retained 
+counsel,  defendant  appellants  represented  by  publicly  funded  attorneys 
+enjoyed a much better chance of winning once a court of last resort granted 
+review. Among prosecutor appeals, success rates did not vary as much by type 
+of representation. 
+ 
+ 
+Figure 6: Comparing success rates, discretionary appeals reviewed on merits, 
+by type of defense counsel. 
+ 
+100 
+90 
+80 
+70 
+60 
+50 
+40 
+30 
+20 
+10 
+0 
+Private attorney  Public attorney  (unknown represent.) 
+P appeals  D appeals 
+  36  
+ 
+As for mandatory appeals, the higher success rates for the prosecution 
+are much more pronounced. For example, consider Figure 7 showing success 
+rates for mandatory appeals with oral argument and full opinions. Almost all 
+of these mandatory appeals were considered on their merits and courts opted 
+to provide to them the highest level of attention – oral argument and a full 
+opinion. Yet prosecutors were more than twice as likely to win. 
+ 
+Figure 7: Comparing success rates, mandatory appeals by argument and 
+opinion type. 
+ 
+60 
+50 
+40 
+30 
+20 
+10 
+0 
+Oral argument held  Full judicial opinion 
+Of mandatory appeals with variable, % w/ decision favoring P 
+Of mandatory appeals w/ variable, % w/ decision favoring D 
+ 
+ 
+Although we were unable to examine the application of harmless error 
+analysis in our regression analyses, we report here the descriptive information 
+our state appeals data provide on this topic. For only those cases with reasoned 
+opinions, a subset of the case sample (N=97 prosecutor appeals; N=1,616 
+defense appeals), data include whether the court found no error, reversible 
+error, or harmless error for each claim resolved by the opinion. Evaluating the 
+first four claims resolved, Figure 8 shows what proportion of those resolutions 
+indicated no error, harmless error, or reversible error, comparing defense and 
+prosecution appeals. 
+In this specific subset of cases, issues resolved in appeals by prosecutors 
+compared to issues resolved in appeals by defendants were more than five 
+times as likely to produce relief for the appellant. Reviewing courts found error 
+more often for prosecutors than defendants, in 59% compared to 16% of the 
+issues. And courts considered a larger portion of those errors harmless in 
+defense  appeals  –  38%  compared  to  8%  in  prosecutor  appeals.  This  is 
+consistent with our suspicion that the types of claims raised by prosecutors are 
+less likely to be considered harmless and more likely to be preserved for appeal. 
+But it is weak support at best, not only because other factors such as the 
+  37  
+government’s selection of which appeals to file could have distorted the mix of 
+claims that appellate courts reviewed, but also because the subset of cases with 
+reasoned opinions was itself the product of selection decisions by the reviewing 
+courts. 
+ 
+ 
+Figure 8: Comparing application of harmless error analysis, first four claims 
+combined, appeals with reasoned opinions only. 
+ 
+Prosecutor appeals (issues n=143)  Defense appeals (issues n=3,679) 
+   
+   
+   
+   
+   
+   
+   
+   
+No error  No error 
+Harmless error  Harmless error 
+Reversible error  Reversible error 
+ 
+ 
+B. Comparing Findings of Regression Analyses for Defense and 
+Prosecution Appeals. 
+Our  descriptive  comparisons  of  raw,  averaged  rates  of  appellate 
+success, while important and helpful, risk misleading insofar as descriptive 
+analyses do not permit the more granular inquiry into how various important 
+factors  may  interact  in  their  potential  influence  on  criminal  appellate 
+outcomes.  Comparing  results  from  descriptive  and  regression  analyses 
+provides  additional  insights  into  how  criminal  defendants’  appeals  may 
+systematically differ from prosecution appeals. The analyses of prosecutor data 
+were necessarily less refined and less statistically powerful than our defendant 
+analyses, because of the smaller number of prosecution appeals available. 
+Comparisons of regression results for state prosecution and defense 
+appeals support our basic expectation that prosecutors win more often, overall, 
+and by a wide margin. But the analyses tell us little about why that might be 
+so. Consider our prediction that there might be something about the particular 
+types of rulings that prosecutors appeal, as opposed to those that defendants 
+appeal, that makes those errors easier to preserve for appeal or easier for a 
+reviewing court to recognize as error. The findings do not suggest that any 
+  38  
+particular claim category fares better or worse than another for prosecutors, 
+getting us no closer to determining whether the claims that prosecutors raise 
+are different in some significant way. Also, the higher rate of merits review 
+for appeals of right filed by defendants does not suggest that state prosecutors 
+are substantially better than state defendants at preserving errors for appeal 
+in the trial courts. 
+ 
+Owing  to  data  limitations,  the findings  also  tell  us  little  about  the 
+relative effectiveness of advocacy, a difference that could inform different 
+success rates. Oral argument is significant to both prosecution and defense 
+appeals, in the same direction – increasing the chances of a favorable outcome 
+for the appellant. The fact that more of the prosecutors who appealed secured 
+oral argument compared to defendant appellants might suggest more effective 
+advocacy; but  it  could  reflect  instead  policies  or  preferences  of  the  court 
+unrelated to an attorney’s efforts.99 And the absence of a relationship between 
+the presence of some statewide coordination of appeals and success suggests 
+that this potential advantage in advocacy either does not exist or is outweighed 
+by other factors.100
+ 
+ 
+Finally, we found no evidence suggesting that decisions in criminal 
+appeals in state courts correspond with any pro-prosecutor bias that might be 
+tied to the method by which a judge is selected, bias that might supply an 
+alternative reason for disparate success rates. Neither defense nor prosecutor 
+success on appeal was significantly correlated with whether the appellate 
+bench was selected by election rather than appointment. If state appeals 
+judges were, in fact, biased in favor of the prosecution, our analysis, using the 
+only measure we had available, did not detect that. 
+ 
+Other interesting comparisons between the regression results for state 
+prosecution and defense appeals also warrant note. Looking at the review of 
+sentences, we found both sides sought appellate review of sentences regularly 
+– one quarter of prosecutor appeals and nearly a third of defense appeals 
+overall. These appeals were significantly associated with a greater likelihood 
+of success for defendants in their first appeals of right, but not significantly 
+associated  with  success  for  the  prosecutor-appellant.  Combined  with  the 
+ 
+99 See David R. Cleveland & Steven Wisotsky, The Decline of Oral Argument in the 
+Federal Courts of Appeals: A Modest Proposal, 13 J. APP. PRAC. & PROCESS 119, 144 
+(2012) (rejecting inference that the decline in oral argument for federal criminal 
+appeals reflects a change in the rate at which appellate counsel requested oral 
+argument, stating “[c]ommon sense strongly suggests that the operative variable is 
+the courts’ screening out an increasing proportion of cases for oral argument because 
+they think it is not particularly valuable”). 
+100 Neither our defense study nor this study controlled which states provided 
+statewide expertise for defense appeals in the form of public defender offices 
+handling state appeals for defendants. 
+  39  
+higher rates of relief for defendants for sentence challenges heard on the merits 
+by  high  courts,  the  findings  suggest  that  appellate  review  provides  an 
+important oversight function for sentencing in the states. 
+Turning to the type of representation for the defendant on appeal, the 
+results did not support our hypothesis that private counsel might correlate 
+with a higher likelihood of success for either the defendant appellee or the 
+defendant appellant. Private counsel did represent a higher proportion of 
+defendant  appellees  as  compared  to  defendant  appellants.  And  simple 
+comparisons  suggested  private  counsel  gave  their  clients  an  edge  over 
+defendants  with  publicly  funded  counsel.  But  once  other  factors  were 
+controlled,  regression  analyses  showed  that  representation  by  a  retained 
+attorney had no significant association with variation in the likelihood of relief 
+in either prosecution or defense appeals. 
+The type of claim included by the appellant, as noted earlier, also 
+appears unrelated to success for both prosecutor and defendant appellants. 
+Even though it looked as if high courts may have been more receptive to 
+defendants’ claims of insufficiency than prosecutors’ claims of sufficiency,101 
+regression analyses suggested that these claims were treated no differently 
+once other factors were controlled. And for defendants who appealed, but not 
+for prosecutors, crime type made some difference as well. Drug trafficking, 
+weapons,  and  dui  appeals  were  significantly  associated  with  a  higher 
+likelihood of success when compared to violent crime appeals for defendants, 
+but our analyses showed no significant relationship between crime type and 
+likelihood of success for prosecutor appeals. 
+Turning to our findings concerning judicial selection, it is important to 
+point out that compared to defense appeals, a smaller proportion of prosecutor 
+appeals were filed in courts whose judges were appointed. It is unclear from 
+our data whether prosecutors were deliberately selecting cases for appeal 
+based upon expectations about how judges would rule, or rather, that the 
+ 
+101 When a prosecutor makes this claim to a high court with discretion to hear the 
+appeal, the prosecutor asks the high court to reject the decision of the trial judge or 
+intermediate court and to reinstate the conviction, while a defendant who raises this 
+claim in the high court asks the court to set aside both the conviction and another 
+appellate court’s decision affirming that conviction. If courts give closer scrutiny to 
+orders setting aside a jury’s verdict, it would make sense if prosecutors won this type 
+of claim more often than defendants. An alternative hypothesis is that high courts 
+are more concerned about wrongful convictions on weak evidence, disinclined to 
+second-guess a trial court’s finding of insufficient evidence, and more willing to 
+review cases in which defendants raise insufficiency claims.  Simple comparisons 
+lend some support to both hypotheses.  Appeals including claims regarding 
+sufficiency succeeded more often than the average rate in both mandatory appeals 
+and discretionary high court appeals, when raised by either side. However, the 
+regression analyses did not bear out any significant relationship between the 
+presence of such a claim and outcome. 
+  40  
+number of prosecutor appeals were larger in states with appointed benches for 
+other reasons. We found that the likelihood of appellant success was not 
+significantly related to the method used to select the judges of the court 
+deciding the appeal, for either defendants or prosecutors, regardless of whether 
+we controlled for the presence of initial selection by election or the presence of 
+retention elections. At least with the measures of selection applied here, the 
+hypothesis that an elected bench might be associated with a higher win rate 
+for prosecutors found little empirical support. 
+Perhaps the most interesting finding is what this study revealed about 
+the mix of prosecutor and defense appeals ultimately considered on the merits 
+by state courts. In state intermediate courts hearing appeals of right on their 
+merits, judges apply and develop the law that governs the investigation and 
+adjudication of crime with a criminal docket made up of 98% defense appeals 
+and only 2% prosecutor appeals. Under these conditions, allegations of error 
+harmful to defendants may overwhelm allegations of error harmful to the 
+state. State high courts, by contrast, confront an entirely different context. 
+Courts with discretion to review criminal appeals exercise that discretion to 
+hear nearly half (45%) of prosecutor appeals filed, but less than 5% of defense 
+appeals. What results is a merits docket in state high courts with discretionary 
+appellate jurisdiction that looks very different than the dramatically skewed 
+filings would suggest. Of discretionary, direct criminal appeals reviewed on the 
+merits by state high courts, 41% are prosecution appeals.102 Indeed, of appeals 
+heard on the merits by state high courts, the percentage filed by prosecutors 
+may be even larger if interlocutory appeals were included in the tally, because 
+in many states the prosecutor may seek interlocutory review of suppression 
+and other rulings while defendants cannot.103 Our findings show that state 
+high  courts,  unlike  intermediate  courts,  do  not  decide  direct  appeals  in 
+criminal cases under conditions of drastic asymmetry. Instead, in state courts 
+of last resort, judges regularly consider appeals from both sides on a number 
+of recurring issues. 
+VI. APPEALS BY FEDERAL PROSECUTORS 
+A.  Data, Methodology, and Research Design 
+ 
+1.  Sample. 
+ 
+102 See Appendix Table A2. Comparing all high court cases, both discretionary and 
+mandatory, without supplemental sample cases added, our data show state courts of 
+last resort heard on the merits approximately one prosecutor appeal for every two 
+defense appeals. 
+103 In the federal system if interlocutory and direct appeals by the government were 
+combined, interlocutory appeals would constitute approximately 30% of that 
+combined group. Although our state data did not include interlocutory appeals, we 
+have no reason to believe that the proportion of interlocutory appeals to appeals from 
+final judgment differs in state and federal court. 
+  41  
+ 
+The appeals that form the basis of the federal component of our study 
+appear in the nations’ leading data source on federal appeals: The Federal 
+Judicial Center’s (“FJC”) Integrated Data Base.104 The FJC’s data sets in its 
+public archive include federal appeals data holdings, which, in turn, include a 
+specific data set that includes the known universe of “modern” (from fiscal 
+years 2008 through 2016) federal appeals.105 Sampling issues do not arise as 
+the individual data files include the entire universe of known federal appellate 
+activity for those years. 
+ 
+To construct our final usable data set that focused on direct federal 
+criminal appeals by the government, we began with each individual fiscal year 
+data file that included detailed information about each appeal decided that 
+fiscal year. For example, for fiscal year 2008, we began with a total of 59,096 
+appeals.  To  identify  the  appropriate  sub-pool  of  federal  appeals  for  our 
+analyses, we then, for each FY data file, eliminated all appeals where the 
+United States was not the appellant as well as all non-criminal appeals.106 We 
+then merged all nine separate FY data sets into a single data set for those 
+appeals that remained, for a total of 1,718 criminal appeals in which the United 
+States was the appellant. 
+ 
+Due to important coding changes implemented by the FJC that took 
+effect on October 1, 2011, we then eliminated all appeals filed prior to that 
+date.107 Among the 343 appeals remaining, we excluded interlocutory and 
+post-conviction appeals (including appeals of rulings on motions to reduce 
+sentence), as well as appeals relating to capital, reopened, and “miscellaneous” 
+cases.108 For the 247 appeals that remained one of us examined each appeal 
+more closely by reviewing case documents available on PACER to confirm the 
+nature of the appeal.  This review uncovered an additional 42 appeals that we 
+ 
+104 See https://www.fjc.gov/research/idb [https://perma.cc/5EX7-GW4W]. The FJC, 
+under an arrangement with the U.S. Administrative Office of the U.S. Courts, 
+provides public access to its Integrated Data Base. 
+105 See https://www.fjc.gov/research/idb/appellate-cases-filed-terminated-and- 
+pending-fy-2008-present [https://perma.cc/7UNN-7SKW] (hereinafter FJC Integrated 
+Data Base, Appellate Cases). 
+106 In each separate data set the “USAPT” variable identifies those appeals initiated 
+by the federal government (USAPT=1) and the “APPTYPE” variable identifies the 
+criminal appeals (APPTYPE>12). See FJC Codebook, supra note 10. 
+107 As of October 1, 2011, new APPTYPE values were added indicating whether the 
+appeal was direct, interlocutory, involved the appeals termed “post-conviction”, that 
+is, any order post-sentencing. Email from George Cort, Federal Judicial Center, to 
+Nancy King, Jan. 3, 2018. In other words, the coding did not distinguish between 
+interlocutory, direct, and post-conviction appeals prior to October 1, 2011. 
+108 We excluded from our analyses the 96 appeals that the FJC Codebook identified 
+as APPTYPE (values=15, 20, and 22). See FJC Codebook, supra note 10. 
+  42  
+concluded were miscoded in the FJC data set -- some that were not, in fact, 
+initiated by the prosecutor, and others that involved either interlocutory or 
+post-conviction appeals. Excluding these appeals not germane to our study left 
+us with a data set of 205 federal criminal appeals initiated by the United States 
+between  October  1,  2011,  and  September  30,  2016,  and  terminated     by 
+September 30, 2016. 
+ 
+TABLE 5: SUMMARY OF FEDERAL PROSECUTOR APPEALS AND SUCCESS, BY 
+CIRCUIT 
+ 
+% of all  % of all  % appeals  % appeals 
+appeals  appeals  from circuit  % appeals  reviewed on 
+(205)  reviewed on  that were  from circuit  merits from 
+from  merits (87)  reviewed on  with decision  circuit w/ decision 
+    N  circuit  from circuit  merits  favoring gov’t  favoring gov’t 
+               
+  DC  2  1.0  1.1  50.0  50.0  100.0 
+ 
+1  11  5.4  1.1  7.7  9.1  100.0 
+ 
+2  19  8.3  11.5  58.8  52.9  90.0 
+ 
+  3  4  2.0  2.3  50.0  0.0  0.0 
+  4  13  6.3  6.9  46.2  38.5  83.3 
+  5  17  8.3  10.3  52.9  35.3  66.7 
+ 
+6  12  6.9  4.6  33.3  25.0  75.0 
+ 
+7  20  9.8  11.5  50.0  20.0  40.0 
+ 
+  8  29  14.1  17.2  51.7  17.2  33.3 
+  9  12  5.9  4.6  33.3  33.3  100.0 
+  10  6  2.9  3.4  50.0  50.0  100.0 
+ 
+11  62  30.2  25.3  35.5  27.4  77.3 
+ 
+Mean        42.4  28.3  66.7 
+ 
+N  205  205  87       
+S  OURCE: Federal Judicial Center, Integrated Database, Federal Appellate Cases: 
+2011-16. 
+ 
+2.  Variables. 
+ 
+The dependent variables of interest we used for our federal analyses 
+mirror those for the state prosecutor appeals: whether the appeal received 
+review on its merits,109 and whether the appeal produced a decision favorable 
+to the prosecution.110 We coded as a favorable decision any outcome other than 
+a dismissal or affirmance. Using the docket number to find each appeal, we 
+supplemented  the  factors  collected  in  the  FJC  dataset  with      additional 
+ 
+109 Indicated by the FJC variable DISP. 
+110 Indicated by the FJC variable OUTCOME. 
+  43  
+information  from  documents  available  on  PACER,  to  provide  a basis  for 
+comparison with the state prosecutor appeals. Most of the variables we report 
+are identical to those in the state appeal study,111 and are included for similar 
+reasons.  Instead  of  controlling  for  the  state  with  the  most  appeals,  we 
+controlled for the circuit with the most appeals, the Eleventh Circuit. The 
+federal data do not indicate whether the decision produced a “full opinion,” so 
+we created a dummy variable for “published opinion” as a substitute. 
+ 
+Several of the factors in our state analyses had no variation in federal 
+appeals, and as a result were dropped from our analyses. All federal appeals 
+were  mandatory,  not  discretionary;  all  sought  relief  from  intermediate 
+appellate  courts,  not  courts  of  last  resort;  all  involved  judges  who  were 
+appointed, not  elected;  all  questioned  trial  court  orders,  not  decisions  of 
+intermediate  appellate  courts;  and  all  were  centrally  coordinated  by  the 
+Department of Justice and the Office of the Solicitor General. 
+ 
+B.  Descriptive Findings 
+ 
+Excluding interlocutory and post-conviction appeals, as well as appeals 
+from revocations and orders regarding the reduction of sentence, the number 
+of direct criminal appeals by the federal government is very small. Only 205 
+appeals were decided by the courts of appeals in five years. As Table 5 notes, 
+the circuit with the most appeals in the dataset is the Eleventh, with 30.2%. 
+ 
+TABLE 6: DECISION FAVORING FEDERAL PROSECUTOR, BY TYPE OF APPEAL 
+ 
+(1)  (2) 
+  % of appeals 
+reviewed on 
+% of all appeals  merits 
+N  205  87 
+Dependent Variables:     
+Reviewed on merits  42.4  --- 
+Decision favored prosecution  28.3  66.7 
+SOURCE: Federal Judicial Center, Integrated Database, Federal Appellate 
+Cases: 2011-16. 
+ 
+More than half of these 205 appeals were terminated without a review 
+on the merits (N=118), even though all were appeals of-right, and the   courts 
+ 
+111 Using information from PACER and the OFFENSE variable in the FJC dataset, 
+we sorted each appeal into one of the three crime-type variables used in the state 
+study. We coded from PACER documents the claims raised by the government, 
+sorting them into the same claim categories and variables used in the state study. 
+We also coded the same counsel categories, but in addition subdivided “public 
+attorney” into two sub-groups, federal defender and CJA appointed. 
+  44  
+had no discretion to deny leave to appeal. These non-merits dispositions were 
+overwhelmingly (N=97) voluntary dismissals by the government,112 where the 
+clerk of court rather than a judge “take[s] or direct[s] the final termination 
+action.”113 Another 19 appeals ended similarly, but with judicial involvement 
+granting the government’s motion to dismiss,114 so that combined, voluntary 
+dismissals accounted for 116 of the 118 non-merits dispositions. Overall, the 
+government voluntarily dismissed 57.5% of the appeals it had filed.115 Given 
+this high incidence of voluntary dismissal, the success rate for all appeals filed 
+was less than 30%.116 Among appeals considered on the merits the average 
+success rate was more than double that (66.7%), and varied across circuits. 
+ 
+Simple comparisons presented in Table 7 also reveal that appeals from 
+conviction (judgments of acquittal and new trial orders following a guilty 
+verdict) were more likely to win than appeals from orders dismissing charges 
+or  orders  that  could  not  be  determined (i.e.,  the  docket  was  sealed  and 
+unavailable  on  PACER).  Felony  appeals  were  more  successful  than 
+misdemeanor  appeals.  Prosecutors  had  more  success  in  appeals  involving 
+nonviolent and unknown crimes than when appealing in violent crime cases. 
+Including a sufficiency of evidence claim increased the rate of success among 
+all appeals filed, as did the presence of oral argument or a published opinion. 
+ 
+112 FED. R. APP. PROC.42(b). 
+113 See FJC Codebook, supra note 10, at 11 METHOD (value=1). 
+114 Id. at 10-11, PROCTERM (value=2). 
+115 In the merged 2014-2015 set of appeals data from the Sentencing Commission, see 
+supra note 23, only 3 of the government appeals (2%) were coded as dismissed for the 
+years 2014 and 2015, suggesting that the Commission’s collection of appeals did not 
+include most or all of the appeals filed but later dismissed. 
+The documents available on PACER for appeals filed and later dismissed 
+typically included a reference to the trial court order appealed, usually with a docket 
+number or filing date to identify that order. In some circuits, the notice of appeal 
+entry included a copy of the trial court order appealed. This allowed us to determine 
+when the government was objecting to a judgment of acquittal, an order granting 
+new trial, or an order of dismissal. Appeals from the sentence were in some circuits 
+specified as such, some even noting what aspect of the sentence was being 
+challenged. 
+There were also appeals after convictions that identified the order being 
+appealed only by referencing a specific judgment or judgment and commitment order. 
+In these cases, we used a process of elimination to determine that the appeal was not 
+from an order dismissing a charge, granting a motion for new trial or judgment of 
+acquittal. Once these options were eliminated, and there were no orders docketed in 
+the trial court record that could have been appealed by the government from the 
+judgment other than the sentence, we coded the government’s appeal from judgment 
+and commitment as an appeal from sentence. 
+116 This is a lower rate than the 37.3% success rate reported in 1999. See supra note 
+18. 
+  45  
+When facing retained counsel the government was more likely to lose; when 
+facing a federal defender, more likely to win, when considering all appeals filed 
+including those terminated for non-merits reasons. 
+Comparing the rates of merits review separate from the rate of ultimate 
+success  provided  additional  descriptive  insights.  Given  that  almost  all 
+nonmerits  dispositions  were  voluntary  dismissals  requested  by  the 
+government, the rate of merits review may serve as a proxy for the rate at 
+which the government decided not to dismiss the appeal. Government appeals 
+in drug trafficking, weapons, and DUI cases were less likely to proceed on the 
+merits compared to appeals in other cases. More of the conviction-only appeals 
+(appeals of judgments of acquittal and new trial orders after a jury verdict of 
+guilt) were reviewed on the merits compared to appeals challenging a sentence, 
+an  order  dismissing  charges,  or  an unknown  order.  Only  felony appeals 
+proceeded; none of the four misdemeanor appeals made it to merits review. 
+Appeals raising sufficiency of evidence claims were less likely to be dismissed 
+than  appeals  including  other  claims.117  To  the  extent  these  voluntary 
+dismissals reflect choices by the Department of Justice and the Office of the 
+Solicitor  General  to  forego appeals  that  had  been filed,118 the  descriptive 
+information sheds some light on that selection process. 
+Descriptive results also suggest several factors that might correlate 
+with government success rates among these merits cases. The overall success 
+rate among merits cases was about 67%. As we expected, merits appeals 
+challenging a judgment of acquittal or new trial order entered after a guilty 
+verdict enjoyed a higher than average rate of success (70.6%), as did appeals 
+raising sentencing claims (70.9%). As expected, appeals including a claim 
+contesting an insufficient evidence finding (76.9% success) or a sentencing 
+claim (71.4%) were more successful than appeals not raising those claims 
+(50.0%). Interestingly, and also supporting our initial hypothesis, prosecutors 
+were less likely to receive a favorable decision when they were up against a 
+federal defender, winning only 42.9% of the time, compared to defendants with 
+ 
+ 
+ 
+ 
+117 These statistics are reported infra in Table 10, comparing state and federal 
+government appeals, in columns 5 & 6. 
+118 Although we did not attempt to code the exact basis for the voluntary dismissal in 
+the small portion of these federal appeals where that information was available, 
+judging from information that was available documents on PACER, these dismissals 
+appeared to be based primarily not on compromise or settlement with the defense, 
+but instead on the decision of the Solicitor General’s Office not to proceed.  There 
+were only a few cases, each involving a government’s cross appeal, in which it 
+appeared that both parties had agreed to drop their appeals. The other voluntary 
+dismissals appeared to be unilateral decisions with no indication that the defendant 
+gave up anything in return. 
+  46  
+other representation. Against retained counsel, prosecutors won 82.1% of their 
+appeals; against CJA counsel, 70.8%.119
+ 
+ 
+ 
+TABLE 7: INDEPENDENT  VARIABLES, BY DECISION FAVORING FEDERAL 
+PROSECUTOR 
+ 
+  (1)  (2) 
+% cases with  % cases w/o 
+variable  variable 
+receiving  receiving 
+decision  decision 
+favoring P  favoring P 
+Independent Variables:     
+Merits review [n=87]  66.7  --- 
+Filed in dkt year 2011 [n=28]  57.1  23.7 
+Appeal from:     
+Conviction (alone) [n=21]  57.1  25.0 
+Sentence (included) [n=138]  28.3  28.4 
+(Dismissal/unknown) [n=46]  15.2  32.1 
+Offense severity     
+Felony [n=197]  29.4  0.0 
+Misdemeanor [n=4]  0.0  28.9 
+(severity unknown/missing) [n=4]  0.0  28.9 
+Crime type:     
+Drug Trafficking, weapons, dui [n=73]  20.6  32.6 
+Violent (sex, homic., robbery, assault) [n=18]  27.8  28.3 
+Nonviolent and unknown crime [n=114]  33.3  22.0 
+Claim included in brief:     
+Evidence suppression [n=2]  0.0  28.6 
+Insufficient evidence [n=16]  62.5  25.4 
+Sentence [n=139]  28.8  27.3 
+Claims other than above [n=42]  19.1  30.7 
+(claim unknown) [n=9]  11.1  29.1 
+Court factors:     
+CA11 [n=62]  27.4  28.7 
+Process & advocacy factors:     
+Oral argument held [n=62]  66.1  11.9 
+Published opinion [n=52]  65.4  15.7 
+Private defense attorney [n=73]  31.5  26.5 
+Public defender [n=63]  19.1  32.4 
+Public appointed (CJA) attorney [n=57]  29.8  27.7 
+Pro se defendant [n=6]  50.0  27.6 
+(unknown representation) [n=6]  50.0  27.6 
+N  205 
+SOURCE: Federal Judicial Center, Integrated Database, Federal Appellate Cases: 
+2011-16. 
+ 
+ 
+ 
+ 
+119 Only four of the merits cases involved pro se defendants, and the government won 
+three of the four. 
+  47  
+Contrary to our expectations, results in Table 10 make clear that the 
+government fared somewhat worse in violent crime appeals heard on the 
+merits (62.5%) compared to nonviolent and unknown crime appeals heard on 
+the merits (69.1%). Cases with oral argument or a published opinion also had 
+a slightly lower than average win rate. We also noticed that as compared to 
+cases filed in later years, the 28 direct appeals by the government filed during 
+FY 2011 had higher rates of merits review and success among merits cases.120 
+And although more of the cases filed in the Eleventh Circuit were dismissed, 
+the appeals that remained in that circuit were more likely to win than the 
+merits appeals in other circuits. 
+C.  Factors Associated with Merits Review and Success: Regression 
+Analysis 
+To  determine  whether  these  relationships  survive  more  rigorous 
+analysis we investigated them using regression models containing the same 
+variables as in the state appeal models, along with the variable Filed in docket 
+year  2011, and a  separate variable  for federal  defenders,  in  light  of  the 
+descriptive finding regarding type of defense representation noted above. Table 
+8 reports the results of models examining the relationship of these factors to 
+the likelihood of merits review; Table 9 reports the results of models examining 
+the likelihood of success among those appeals reviewed on the merits. 
+Of the factors that simple comparisons suggested might correspond 
+with merits review (that is, the likelihood of not being voluntarily dismissed), 
+only three factors achieved statistical significance after controlling for other 
+factors.121 Conviction-only appeals (appeals from judgments of acquittal and 
+new trial orders) significantly correlate with an increased likelihood of merits 
+review (a lower likelihood of voluntary dismissal), as compared to appeals 
+challenging an order dismissing charges or an unknown order. Appeals filed 
+in FY 2011 correspond with a greater likelihood of reaching merits review than 
+appeals filed in later years. Also, appeals in the Eleventh Circuit correlate with 
+a  significantly  lower  likelihood  of  merits  review  (a  higher  likelihood  of 
+voluntary dismissal) as compared to appeals in other circuits. Crime type and 
+ 
+ 
+ 
+ 
+120 The overall success rate of appeals filed in FY 2015 is understandably lower than 
+the appeals filed in earlier years, as the 2016 termination set would have included 
+only those appeals filed in FY 2015 that would have terminated by September 30, 
+2016, and appeals decided on the merits tend to take longer than appeals that are 
+dismissed before reaching the merits. But this does not explain the lower success rate 
+for cases filed in FY 2012, unless a meaningful number took more than four years for 
+the courts to complete and were still pending as of September 30, 2016. 
+121 Our models examining merits review omitted the felony/misdemeanor variable, as 
+there were no misdemeanor appeals that reached the merits stage; all four 
+misdemeanor appeals filed were voluntarily dismissed by the government. 
+  48  
+claim type appear unrelated to the likelihood of merits review.122 For example, 
+as far as predicting the likelihood of merits review, it made no difference 
+whether the government’s appeal challenged the sentence, as measured by 
+either the “appeal from sentence” variable, or the “sentence claim included” 
+variable. 
+If  selection  for  merits  review  essentially  reflects  which  cases  the 
+government files but later chooses not to dismiss, as we suspect, our results 
+suggest that Department of Justice attorneys and the Solicitor General’s Office 
+were more likely to dismiss appeals filed in the Eleventh Circuit than appeals 
+filed  in  other  circuits.  Explanations  for  this  might  include: (1)  local  U.S. 
+Attorneys in that circuit were more likely than those in other circuits to file 
+appeals  that  central  screening  attorneys  from  DOJ  and  the  SG’s  office 
+preferred not to pursue; (2) Central screening attorneys had more difficulty 
+evaluating all of the potential appeals from districts in the Eleventh Circuit in 
+a timely fashion, so that local U.S. Attorneys in the Eleventh Circuit filed a 
+greater  proportion  of  “protective  appeals”  before  the  notice  of  appeal 
+deadline123 than in other circuits simply to preserve the opportunity to appeal; 
+and (3) Central screening attorneys screened appeals to the Eleventh Circuit 
+more rigorously than appeals in other circuits, retaining only those most likely 
+to succeed. 
+ 
+ 
+TABLE 8: LOGISTIC MODELS, MERITS REVIEW, FEDERAL APPEALS 
+ 
+  (1)    (2)   
+  (s.e.)    (s.e.) 
+Appeal received merits review         
+Case specific variables:         
+Appeal of conviction (alone)  2.44*  1.16  2.36*  1.14 
+Appeal of sentence (included)  0.41  0.40  ---   
+Crime types:         
+Violent crime type (ref.)         
+Nonvio. and unknown crime type  0.13  0.63  0.12  0.63 
+Drug traffic, weapon, or dui  -0.44  0.64  -0.45  0.64 
+Claim in brief:         
+Insufficient evid. claim included  -0.22  1.25  -0.12  1.28 
+Sentence claim included  ---    0.45  0.42 
+Court specific factors:         
+CA11  -0.30*  0.13  -0.31*  0.13 
+Appeal filed in 2011  1.19**  0.46  1.19*  0.46 
+Process & advocacy:         
+ 
+122 While the pseudo R2 value of 0.11 for both of our models in Table 8 implies that 
+important variation is not explained by our model specifications, we are heartened by 
+our results’ robustness across models. 
+123 See FED. R. APP. PROC. 4(b)(1)(B) (providing government must file notice within 30 
+days after the later of (i) the entry of judgment or order being appealed or (ii) the 
+filing of a notice of appeal by any defendant). 
+  49  
+  Private attorney  -0.14  0.36  -0.14  0.36 
+  Federal Defender  0.31  0.51  0.31  0.51 
+  Pro se  1.05  0.72  1.04  0.71 
+ 
+Constant  -0.88  0.70  -0.89  0.71 
+ 
+N  205    205   
+ 
+Log likelihood  -124.49   -124.40  
+ 
+Psuedo R2  0.11    0.11   
+NOTES: W  e report results from logistic regression models of prosecutor success with 
+appeals initiated by the state. The dependent variable is whether the appeal resulted 
+in a merits review. Robust standard errors (clustered on the circuit level) are in 
+parentheses. * p<0.05; ** p<0.01. We estimated the models using the “logit” 
+command in Stata (v.15.1). 
+SOURCE: Federal Judicial Center, Integrated Database, Federal Appellate Cases: 
+2011-16. 
+ 
+ 
+Table 8 also suggests that the government was less likely to drop 
+appeals that challenged a trial court’s judgment of acquittal or new trial order 
+following a jury’s verdict of guilt than to drop appeals in which the order 
+appealed  dismissed  a  charge.  Assuming  that  attorneys  who  screen  these 
+appeals did so hoping to maximize the success of the appeal, predicting greater 
+success in these appeals as compared to appeals of judicial rulings that did not 
+upset a jury’s verdict of guilt provides support for our initial hypothesis.124
+ 
+Turning to our models of appeals’ success, for cases reviewed on the 
+merits,  results  reported  in  Table  9  identify  only  one  factor  significantly 
+associated with either a lower or higher likelihood of success: whether the 
+defendant appellee was represented by a federal defender as opposed to a CJA 
+panel attorney.  Controlling  for  all  the  other  factors,  the  government was 
+systematically more likely to lose its appeal if it faced a federal defender as an 
+adversary than if it faced a CJA panel attorney. This too is consistent with our 
+hypothesis  and  growing  research  indicating  the  favorable  performance of 
+ 
+ 
+ 
+ 
+124 In our alternative simultaneous two-stage models, the relationship between the 
+likelihood of merits review and appeals in the Eleventh Circuit did not achieve 
+statistical significance. Also replacing the appeal of conviction alone variable with the 
+insufficient evidence claim variable in the model generated statistical significance for 
+insufficient evidence claims, which is to be expected since such claims are included in 
+most of the appeals coded as appeal from conviction alone. Conservatively 
+interpreting results from both the logistic and bivariate probit analyses suggests 
+greater confidence in the finding of a significant association between the likelihood of 
+merits review and both appeals filed in 2011 and conviction only challenges, than in 
+the finding of a significant relationship between the likelihood of merits review and 
+appeals filed in the Eleventh Circuit. 
+  50  
+defense attorneys from federal defender offices as compared to CJA panel 
+attorneys.125
+ 
+ 
+ 
+TABLE 9: LOGISTIC MODELS, APPEAL OUTCOME FAVORED FEDERAL 
+PROSECUTOR, MERITS APPEALS 
+ 
+  (1)    (2)   
+  (s.e.)    (s.e.) 
+Outcome favored prosecutor         
+Case specific variables:         
+Appeal of conviction (alone)  0.73  1.04  ---   
+Appeal of sentence (included)  ---    0.79  0.72 
+       
+Crime types: 
+Violent crime type (ref.)         
+Nonvio. and unknown crime type  -0.31  1.11  -0.23  1.13 
+Drug traffic, weapon, or dui  -0.40  1.05  -0.23  0.97 
+       
+Claim in brief: 
+Insufficient evid. claim included  ---    0.86  1.18 
+Sentence claim included  0.95  0.63  ---   
+       
+Court specific factors: 
+CA11  0.45  0.40  0.44  0.45 
+Appeal filed in 2011  0.81  0.72  0.79  0.72 
+       
+Process & advocacy: 
+Private attorney  0.42  0.91  0.31  0.87 
+Federal Defender  -1.24**  0.37  -1.30**  0.43 
+Constant  0.34  0.85  0.43  0.74 
+N  87    87   
+Log likelihood  -47.48    -47.54   
+Psuedo R2  0.14    0.14   
+NOTES: We report results from logistic regression models of prosecutor success with 
+appeals initiated by the state. The dependent variable is whether the appellate court 
+outcome favored the prosecutor (success is construed as something less than a full 
+affirmance or dismissal and involved upsetting, to some degree, the lower court 
+decision). Robust standard errors (clustered on the circuit level) are in parentheses. * 
+p<0.05; ** p<0.01. We estimated the models using the “logit” command in Stata 
+(v.15.1). 
+SOURCE: Federal Judicial Center, Integrated Database, Federal Appellate Cases: 
+2011-16. 
+ 
+125 In our alternative simultaneous two-stage models, type of counsel did not achieve 
+statistical significance with respect to likelihood of success, but the “year filed 2011” 
+and “appeal from conviction alone” variables did achieve significance, as they did in 
+our model for decisions on the merits. Interpreting these findings conservatively, this 
+suggests that the statistical support for a possible relation between an appellee’s 
+counsel and success may not be as strong as the relationships that were confirmed by 
+both logistic and bivariate probit analyses. 
+  51  
+ 
+Overall, while the picture that emerges from our initial preliminary 
+analyses of federal prosecutor appeals remains hazy, certain basic features 
+become discernable. First, the number of these appeals considered by the 
+federal courts of appeals is very small. The courts resolved nationwide an 
+average of 40 direct appeals per year during our study period. And because 
+more than 57% of the appeals filed never reached merits review, ten out of the 
+twelve circuits actually decided the merits of fewer than a dozen of these 
+appeals over the entire five-year study period. When considered alongside the 
+annual volume of defense appeals, our federal appellate judges encounter a 
+highly skewed set of claims. For example, even though more than 64% of the 
+government appeals heard on the merits challenged the sentence, the total 
+number  is  only  a  tiny  fraction  of  the  number  of  sentencing  appeals  by 
+defendants heard on the merits. 
+Second, the process of choosing which appeals to advance persists long 
+after filing in many of these appeals – more than half of those appeals filed 
+never reached merits review because they were voluntarily dismissed by the 
+government.  The  data  also  suggest  that  a  greater  proportion  of  appeals 
+challenging  judgments  of  acquittal  and  new  trial  orders  survived  this 
+screening compared to appeals from sentence, dismissal, or unknown orders. 
+Also, a smaller proportion of appeals filed in the Eleventh Circuit survived this 
+screening process. 
+Third, among those appeals that were not voluntarily dismissed, the 
+government won two of every three – good odds, perhaps attributable, at least 
+in part, to the careful screening of which appeals to advance. Notably, the only 
+factor found to make a statistically significant difference in the government’s 
+chances of winning an appeal reviewed on its merits was whether the attorney 
+representing the defendant appellee was a federal defender. 
+VII. COMPARING APPEALS BY STATE AND FEDERAL PROSECUTORS 
+For perhaps the first time, we have empirical information about state 
+and  federal  prosecutor  appeals  that  reveals  that  they  differ  in  several 
+important ways, some predictable, others less so. We begin this section with 
+some observations about our descriptive findings, then turn to the regression 
+results. 
+Table  10  presents  key  descriptive  information  comparing  the  52 
+mandatory appeals by state prosecutors in our random sample of state appeals 
+(excluding the supplemental cases)126 with the 205 federal mandatory appeals. 
+The overall win rate of federal prosecutors is lower than state prosecutors 
+when comparing appeals filed (28.3% v. 40.8%), but when comparing appeals 
+reviewed  on  the  merits,  federal  prosecutors  won  66.7%  of  their   appeals 
+ 
+126 See supra text accompanying note 72. 
+  52  
+compared to state prosecutors who won only 52.6% of their appeals. These 
+differences may be related in part to the routine practice in federal court of 
+filing then voluntarily dismissing appeals, a practice that did not emerge in 
+state courts. Compared to federal prosecutors, who withdrew more than half 
+of the appeals they filed, state prosecutors withdrew less than 5% of all appeals 
+filed, and about 15% of mandatory appeals filed. 
+ 
+ 
+ 
+Table 10: Success Rates, Federal and State Prosecution Appeals of Right Compared 
+(state data includes main sample only w/out supp. data) 
+ 
+  % of    Of state  Of fed  Of state mand  Of fed mand 
+mandatory  Of state  Of fed  mand  mand  appeals with  appeals with 
+appeals with  mand  mand  appeals w/  appeals w/  variable  variable 
+variable 127  appeals w/  appeals w/  variable, %  variable, %  reviewed on  reviewed on 
+  variable, %  variable, %  reviewed  reviewed  merits, %  merits, % 
+state  fed  favoring P  favoring P  on merits  on merits  favoring P  favoring P 
+N  52  205  52  205  52  205  40  87 
+COLR & IAC combined (state  100.0  ---  40.4  ---  76.9  ---  52.5  --- 
+only) 
+Intermediate appellate court  94.2  100.0  40.8  28.3  77.6  42.4  52.6  66.7 
+(n=49 for state) (n=205 for fed) 
+Filed in dkt year 2011  --  13.7  --  57.1  ---  67.9  ---  84.2 
+Appeal from                 
+Conviction (alone)  50.0  10.2  42.3  57.1  84.6  81.0  50.0  70.6 
+Sentence (included)  30.8  67.3  43.8  28.3  93.8  39.9  46.7  70.9 
+(dismissal/missing)  19.2  22.4  30.0  15.2  30.0  32.6  100.0  46.7 
+Offense severity                 
+Felony  86.5  96.1  42.2  29.4  80.0  43.7  52.8  67.4 
+Misdemeanor  9.6  2.0  40.0  0.0  80.0  0.0  50.0  --- 
+(severity unknown/missing)  3.9  2.0  0.0  0.0  0.0  25.0  ---  0.0 
+Crime type:                 
+Drug Trafficking, weapons,  28.9  35.6  66.7  20.6  100.0  32.9  66.7  62.5 
+dui 
+Violent (sex, homic, robb, ass.)  40.4  8.8  23.8  27.8  71.4  44.4  33.3  62.5 
+Nonviolent and unknown  30.8  55.6  37.5  33.3  62.5  48.3  60.0  69.1 
+crime 
+Claim included in brief:                 
+Insufficient evidence  17.3  7.8  66.7  62.5  100.0  81.3  66.7  76.9 
+Evidence suppression  19.2  1.0  30.0  0.0  100.0  50.0  30.0  0.0 
+Sentence  15.4  67.8  62.5  28.8  100.0  40.3  62.5  71.4 
+All other claims  30.8  20.5  43.8  19.1  87.5  38.1  50.0  50.0 
+(claims raised unknown)  23.1  4.4  8.3  11.1  16.7  22.2  50.0  50.0 
+Court factors:                 
+Eleventh Circuit  ---  30.2  ---  27.4  ---  35.5  ---  77.3 
+                 
+Advocacy factors:                 
+ 
+127 For an explanation of the sample for the defense and prosecution appeal studies, 
+see supra text accompanying notes 93-95. 
+  53  
+  % of    Of state  Of fed  Of state mand  Of fed mand 
+mandatory  Of state  Of fed  mand  mand  appeals with  appeals with 
+appeals with  mand  mand  appeals w/  appeals w/  variable  variable 
+variable 127  appeals w/  appeals w/  variable, %  variable, %  reviewed on  reviewed on 
+  variable, %  variable, %  reviewed  reviewed  merits, %  merits, % 
+state  fed  favoring P  favoring P  on merits  on merits  favoring P  favoring P 
+Central coordination of appeal  55.8  100.0  37.9  28.3  72.4  42.4  52.4  66.7 
+Oral argument held  26.9  30.2  57.1  66.1  92.9  100.0  61.5  66.1 
+Full/pub. judicial opinion  50.0  25.4  57.7  65.4  100.0  100.0  57.7  65.4 
+Private attorney  19.2  35.6  40.0  31.5  80.0  38.4  50.0  82.1 
+Public attorney  61.5  ---  43.8  ---  84.4  ---  51.9  --- 
+defender  ---  30.7  ---  19.1  ---  44.4  ---  42.9 
+appointed  ---  27.8  ---  29.8  ---  42.1  ---  70.8 
+Pro se  ---  2.9  ---  50.0  ---  66.7  ---  75.0 
+(unknown represent.)  19.2  2.9  30.0  50.0  50.0  50.0  60.0  100.0 
+SOURCES: Survey of State Court Criminal Appeals, 2010; Federal Judicial Center, Integrated 
+Database, Federal Appellate Cases: 2011-16. 
+ 
+ 
+Other interesting contrasts in the descriptive findings include different 
+rates of success among merits appeals defended by retained counsel. In federal 
+appeals, retained counsel lost more than 82% of the time, while in state 
+mandatory appeals retained counsel had a 50-50 chance of winning. Among 
+these mandatory appeals resolved on the merits, oral argument boosted the 
+rate of success for state prosecutors, but slightly depressed that rate for federal 
+prosecutors. One possible explanation for the unexpected association of no oral 
+argument with greater success by federal prosecutor appellants may be that 
+some  of  these  appeals  challenged  rulings  that  were  clearly  wrong under 
+existing precedent, and at least some circuits tend not to grant oral argument 
+in  these  circumstances.128 The  rates  of  success  among  merits  appeals  for 
+different types of orders appealed also varied – state prosecutors had their best 
+chance with appeals of dismissal and unknown orders, with below average 
+rates of success for both conviction only and sentence included appeals. By 
+contrast, federal prosecutors did better with conviction only and sentence 
+appeals than they did when appealing from dismissal and unknown orders. 
+There are differences, too, in the success rates for crime types. The higher 
+success rate among merits cases for state appeals in nonviolent cases and drug 
+ 
+ 
+128 The language of Federal Rule of Appellate Procedure 34 accommodates this 
+practice.  See Fed R. App. P. 34(a)(2)(C) (providing that one of the reasons a panel 
+may deem oral argument unnecessary is: “the facts and legal arguments are 
+adequately presented in the briefs and record, and the decisional process would not 
+be significantly aided by oral argument.) See also Cleveland & Wisotsky, supra note 
+99, at 132 (2012) (quoting one circuit’s rule stating that it is usual to find argument 
+unnecessary when the “outcome of the appeal is clearly controlled by a decision of the 
+Supreme Court or this court”). 
+  54  
+trafficking, weapons, and DUI cases, as compared to violent crime cases, did 
+not emerge in the federal appeals. 
+But there is also much in common in these two systems, looking at both 
+the descriptive and regression results. Prosecutors in both systems challenged 
+similar rulings and were successful more often than not if an appeal was 
+reviewed on its merits. In both state and federal courts, mandatory appeals 
+contesting  insufficiency  findings  generated  higher  than  average  rates  of 
+success. And in both systems, factors that seemed important to success in 
+descriptive comparisons, turned out not to be significantly associated with the 
+likelihood of success of merits appeals once other variables were taken into 
+account. 
+VIII. CONCLUSION 
+For decades, state and federal prosecutors have appealed sentences, 
+new trial and dismissal orders, judgments of acquittal after jury verdicts of 
+guilt, and intermediate appellate court decisions favoring defendants. Yet few 
+researchers have attempted to test empirically what actually happens during 
+this litigation or consider why. Using newly released nationwide data, the 
+statistical analyses we present in this Article provide a unique glimpse into 
+the  real  world  of  prosecutor  appeals  and  a baseline for  future  research. 
+Informed by criminal appellate law, policy, and practice, it is the first research 
+to examine both state and federal prosecutor appeals nationwide, and the first 
+to investigate factors associated with merits review and criminal appeals’ 
+success. 
+Comparing appeals by state prosecutors and defendants we found that 
+prosecutors enjoyed a rate of success for all appeals that was about four times 
+that  experienced  by  defendants  (roughly  40%  compared  to  10%).  Oral 
+argument correlated with greater success for state prosecutor-appellants, but 
+outcome did not systematically vary with several factors, including whether 
+review was mandatory or discretionary, whether the appellate bench was 
+selected by election rather than appointment, and the type of crime, claim, or 
+defense counsel. State intermediate appellate courts considered a drastically 
+skewed docket; prosecutors filed only 2% of direct criminal appeals heard on 
+the merits. By contrast, prosecutors filed 41% of all discretionary criminal 
+appeals considered on the merits by state high courts, (30% of discretionary 
+and mandatory appeals combined). In federal courts, prosecutors voluntarily 
+dismissed more than half the appeals they filed, but were significantly less 
+likely to withdraw appeals from judgments of acquittal and new trial orders 
+after the verdict than appeals challenging other orders. Among appeals decided 
+on  the  merits,  controlling  for  other  factors,  federal  prosecutors  were 
+significantly more likely to lose when facing a federal defender as an adversary 
+compared to a CJA panel attorney. 
+Our findings shed light on several policy questions. For example, policy 
+makers in states that bar prosecutors from appealing orders that other states’ 
+  55  
+prosecutors  successfully  appeal  might  use  these  findings  as  support  for 
+expanding the government’s opportunities to appeal. The high rates of success 
+for prosecutors’ challenges to judgments of acquittal after a guilty verdict 
+might encourage trial judges who are interested in avoiding review to resolve 
+more  insufficiency  claims  before  the  verdict,  while  at  the  same  time 
+encouraging judges and policy makers interested in ensuring review of trial 
+court rulings to favor efforts to postpone judgments of acquittal until after 
+verdict. That we found no statistically significant advantage for prosecutor- 
+appellants in state courts where appeals were centrally coordinated suggests 
+that state policy makers considering new processes for centrally screening 
+prosecutor appeals would be prudent to investigate more deeply which types of 
+coordination and screening are most effective. On the federal side, the findings 
+provide additional support to arguments by indigent defense reformers who 
+favor expanding federal defender offices rather than the use of CJA attorneys 
+for appeals. Also, the Department of Justice might consider why the percentage 
+of appeals filed only to be later withdrawn is so much larger in certain circuits, 
+and whether this particular expenditure of prosecutorial and judicial resources 
+could be reduced with targeted attention. 
+Several  findings  raise  intriguing  questions  for  further  research, 
+particularly as additional data become available. We posit a handful of those 
+questions here, in the hope that empirical investigation will continue to inform 
+policy choices about the legal regulation of appeals by the prosecution. At the 
+most basic level, state prosecutors have greater success in their appeals than 
+state defendants do, and, considering only those appeals reviewed on the 
+merits, federal prosecutors win more of their appeals than state prosecutors 
+do. Our data imply several explanations for these differences that could be 
+examined  by  future  research,  including  the  influence  of  different  choices 
+concerning which rulings to appeal. Our state data do not include interlocutory 
+or post-conviction appeals by prosecutors – do the factors associated with 
+merits and success, and the rates of success in such cases resemble what we 
+found for direct appeals? And what proportion of these prosecution appeals 
+are primarily focused on correcting trial court errors in particular cases, as 
+opposed to making new law (e.g., interpreting new statutes or addressing issue 
+of first impression), or resolving lower court conflicts? 
+Variations in the mix of defense and prosecution appeals considered by 
+different courts raise additional questions. While markedly asymmetric access 
+to appellate review is evident in federal and state intermediate courts of appeal 
+hearing first appeals of right in criminal cases, the picture is quite different in 
+state high courts. Additional research could investigate whether the behavior 
+of litigants, trial judges, or reviewing courts differ systematically between 
+jurisdictions with more symmetric review and jurisdictions with less. 
+A number of advocacy-related questions emerged as well. What role do 
+and should victims play in determining whether the government pursues an 
+appeal? Why did oral argument appear to benefit the appellant in state court, 
+  56  
+both prosecution and defense, but not federal prosecutors appealing to the 
+United States Courts of Appeals? The presence of retained counsel for the 
+defendant appellee had surprisingly little correlation to appellate success for 
+prosecutors in state and federal courts, but the presence of a federal defender 
+was significantly related to a higher likelihood the United States would lose a 
+criminal  appeal. If  new  data allowed for  a  comparison  of  state  appellate 
+defenders and other appointed counsel, would it show a similar relationship? 
+And what explains why centralized coordination or staffing of state prosecutor 
+appeals made no significant difference in either merits review or success; 
+which are the most effective state coordination processes? Additional data, 
+including a larger number of appeals, may allow both more refined and more 
+statistically powerful analyses that may help detect correlations undetectable 
+with existing data sets, and insights into how these appeals may evolve over 
+time. 
+Even without further additional research, however, direct appellate 
+review of claims raised by the prosecution, a critical piece of our nation’s 
+criminal justice system, is no longer a matter of abject guesswork. The findings 
+reported here help provide courts, litigants, lawmakers, and scholars with a 
+more  complete  understanding  of  the  role  of  judicial  review  in  the 
+administration of criminal sanctions. 
+  57  
+ 
+APPENDIX 
+  58  
+ 
+ 
+ 
+ 
+TABLE A1: SUCCESS RATES, STATE DEFENSE AND PROSECUTION APPEALS COMPARED, BY KEY VARIABLES AND TYPE OF APPEAL 
+ 
+    Mandatory appeals  Discretionary appeals 
+          COLR disc.    Disc. appeals  COLR disc.  COLR disc. 
+  Mandatory  Mandatory  Disc  appeals  COLR disc.  reviewed on  reviewed on  reviewed on 
+appeals with  appeals w/  appeals w/  with  appeals w/  merits w/  merits with  merits with 
+% of total sample  variable % w/  variable, % w/  variable, %  variable %  variable, %  variable, % w/  variable %  variable % w/ 
+with variable 129  decision  decision  w/ decision  w/ decision  w/ decision  decision  w/ decision  decision 
+P  D  favoring P  favoring D  favoring P  favoring P  favoring D  favoring P  favoring P  favoring D 
+N  154  3,505  52  2,080  102  95  1,425  48  43  65 
+Court of last resort  63.6  45.1  33.3    35.8      79.1     
+Intermediate appellate court  36.4  55.0  40.8    57.1      80.0     
+Appeal from                     
+Conviction (alone)  53.9  34.8  42.3  12.3  43.9  42.6  11.3  83.3  82.1  58.5 
+Sentence (included)  24.7  31.0  43.8  20.5  31.8  26.3  7.0  58.3  55.6  77.8 
+(unknown/missing)  21.4  34.2  30.0  1.6  26.1  27.3  0.2  100.0  100.0  33.3 
+Offense severity                     
+Felony  84.4  100  42.2  14.9  38.8  38.3  2.8  80.5  81.6  61.5 
+Misdemeanor  11.0  ---  40.0  ---  33.3  27.3  ---  66.7  60.0  --- 
+(severity unknown/missing)  4.6  ---  0.0  ---  20.0  0.0  ---  100.0  ---  --- 
+Crime type:                     
+Drug Trafficking, weapons, dui  33.8  16.4  66.7  16.6  51.4  45.6  6.1  86.4  83.3  66.7 
+Violent (sex, homic, robb, assau.)  38.3  50.4  23.8  14.1  31.6  32.4  3.9  70.6  75.0  64.9 
+Nonviolent and unknown crime  27.9  31.4  37.5  16.0  25.9  28.0  0.9  77.8  77.8  54.6 
+Claim included in brief:                     
+Insufficient evidence  9.7  18.2  66.7  16.9  66.7  66.7  32.4  100.0  100.0  73.3 
+Evidence suppression  15.6  8.6  30.0  15.8  71.4  69.2  31.8  83.3  81.8  36.8 
+Sentence  7.1  18.3  62.5  21.7  66.7  100.0  10.0  66.7  100.0  50.0 
+All other claims  31.2  16.3  43.8  14.4  40.6  38.7  39.5  61.9  60.0  65.2 
+(claims raised unknown)  39.6  47.2  8.3  4.0  20.4  17.8  0.4  100.0  100.0  71.4 
+Court factors:                     
+Elected judges  59.7  41.7  40.9  15.3  38.6  37.9  3.6  75.0  73.5  72.0 
+CA state  7.8  25.2  0.0  19.3  54.6  54.6  0.4  100.0  100.0  33.3 
+LA state  9.7  2.3  0.0  32.5  46.7  46.7  0.0  100.0  100.0  --- 
+OH state  16.9  7.2  33.3  25.6  5.9  6.3  1.4  25.0  25.0  100.0 
+Advocacy factors:                     
+ 
+129 For an explanation of the sample for the defense and prosecution appeal studies, see supra Parts IV.A.1,2 & VI.A.1. 
+59 
+  
+ 
+ 
+ 
+ 
+    Mandatory appeals  Discretionary appeals 
+          COLR disc.    Disc. appeals  COLR disc.  COLR disc. 
+  Mandatory  Mandatory  Disc  appeals  COLR disc.  reviewed on  reviewed on  reviewed on 
+  appeals with  appeals w/  appeals w/  with  appeals w/  merits w/  merits with  merits with 
+% of total sample  variable % w/  variable, % w/  variable, %  variable %  variable, %  variable, % w/  variable %  variable % w/ 
+with variable 129  decision  decision  w/ decision  w/ decision  w/ decision  decision  w/ decision  decision 
+P  D  favoring P  favoring D  favoring P  favoring P  favoring D  favoring P  favoring P  favoring D 
+State coordinates appeal  54.6  ---  37.9  ---  43.6  40.0  ---  85.7  83.3  --- 
+Oral argument held  29.9  12.6  57.1  24.4  68.8  68.8  52.4  75.9  75.9  52.4 
+Full judicial opinion  40.9  34.6  57.7  21.5  73.0  73.5  61.1  73.0  73.5  61.1 
+Private attorney  15.6  5.6  40.0  18.8  42.9  36.7  3.9  100.0  100.0  28.6 
+Public attorney  55.2  52.0  43.8  16.9  39.6  37.3  9.8  77.8  76.0  72.5 
+Pro se  2.0  7.8  ---  2.9  0.0  0.0  0.0  0.0  0.0  0.0 
+(unknown represent.)  27.3  34.7  30.0  7.1  34.4  36.7  1.0  84.6  91.7  52.9 
+69 
+  
+ 
+ 
+ 
+ 
+TABLE A2: SUCCESS RATES, STATE DEFENSE AND PROSECUTION APPEALS COMPARED, BY KEY VARIABLES AND TYPE OF APPEAL 
+(W/OUT SUPPLEMENTAL  DATA) 
+ 
+    Mandatory appeals  Discretionary appeals 
+          COLR disc.    Disc. appeals  COLR disc.  COLR disc. 
+  Mandatory  Mandatory  Disc  appeals  COLR disc.  reviewed on  reviewed on  reviewed on 
+appeals with  appeals w/  appeals w/  with  appeals w/  merits w/  merits with  merits with 
+% of total sample  variable % w/  variable, % w/  variable, %  variable, %  variable, %  variable, % w/  variable,  %  variable, % w/ 
+with variable 130  decision  decision  w/ decision  w/ decision  w/ decision  decision  w/  decision  decision 
+P  D  favoring P  favoring D  favoring P  favoring P  favoring D  favoring P  favoring P  favoring D 
+N  133  3,505  52  2,080  81  74  1,153  41  36  52 
+Court of last resort  57.9  45.1  33.3    39.2      80.6     
+Intermediate appellate court  42.1  55.0  40.8    57.1      80.0     
+Appeal from                     
+Conviction (alone)  51.8  34.8  42.3  12.3  46.5  45.0  10.7  83.3  81.8  55.9 
+Sentence (included)  27.1  31.0  43.8  20.5  35.0  29.4  6.8  63.6  62.5  73.3 
+(unknown/missing)  21.1  34.2  30.0  1.6  33.3  35.3  0.3  100.0  100.0  66.7 
+Offense severity                     
+Felony  84.2  100  42.2  14.9  43.3  42.9  2.8  80.6  81.8  61.5 
+Misdemeanor  10.5  ---  40.0  ---  33.3  25.0  ---  75.0  66.7  --- 
+(severity unknown/missing)  5.3  ---  0.0  ---  20.0  0.0  ---  100.0  ---  --- 
+Crime type:                     
+Drug Trafficking, weapons, dui  31.6  16.4  66.7  16.6  55.6  35.3  6.2  88.2  84.6  72.7 
+Violent (sex, homic, robb, assau.)  39.9  50.4  23.8  14.1  34.4  35.5  4.2  68.8  73.3  60.0 
+Nonviolent and unknown crime  28.6  31.4  37.5  16.0  31.8  35.0  1.0  87.5  87.5  60.0 
+Claim included in brief:                     
+Insufficient evidence  10.5  18.2  66.7  16.9  60.0  60.0  25.9  100.0  100.0  63.6 
+Evidence suppression  15.8  8.6  30.0  15.8  72.7  70.0  27.8  88.9  87.5  33.3 
+Sentence  8.3  18.3  62.5  21.7  66.7  100.0  11.8  66.7  100.0  50.0 
+All other claims  30.1  16.3  43.8  14.4  41.7  39.1  39.4  62.5  60.0  65.0 
+(claims raised unknown)  37.6  47.2  8.3  4.0  26.3  23.5  0.5  100.0  100.0  100.0 
+Court factors:                     
+Elected judges  57.9  41.7  40.9  15.3  40.0  39.2  3.6  75.9  74.1  75.0 
+CA state  7.5  25.2  0.0  19.3  66.7  66.7  0.4  100.0  100.0  40.0 
+LA state  8.3  2.3  ---  32.5  45.5  45.5  0.0  100.0  100.0  --- 
+OH state  17.3  7.2  33.3  25.6  7.1  7.7  1.8  25.0  25.0  100.0 
+ 
+130 For an explanation of the sample for the defense and prosecution appeal studies, see supra Parts IV.A.1,2 & VI.A.1. 
+61 
+  
+ 
+ 
+ 
+ 
+    Mandatory appeals  Discretionary appeals 
+          COLR disc.    Disc. appeals  COLR disc.  COLR disc. 
+  Mandatory  Mandatory  Disc  appeals  COLR disc.  reviewed on  reviewed on  reviewed on 
+  appeals with  appeals w/  appeals w/  with  appeals w/  merits w/  merits with  merits with 
+% of total sample  variable % w/  variable, % w/  variable, %  variable, %  variable, %  variable, % w/  variable,  %  variable, % w/ 
+with variable 130  decision  decision  w/ decision  w/ decision  w/ decision  decision  w/  decision  decision 
+P  D  favoring P  favoring D  favoring P  favoring P  favoring D  favoring P  favoring P  favoring D 
+Advocacy factors:                     
+State coordinates appeal  54.9  ---  37.9  ---  50.0  46.2  ---  88.0  85.7  --- 
+Oral argument held  30.8  12.6  57.1  24.4  66.7  66.7  51.4  75.0  75.0  51.4 
+Full judicial opinion  42.9  34.6  57.7  21.5  74.2  75.0  59.1  74.2  75.0  59.1 
+Private attorney  16.5  5.6  40.0  18.8  41.7  33.3  2.6  100.0  100.0  20.0 
+Public attorney  54.9  52.0  43.8  16.9  43.9  41.0  10.0  78.3  76.2  68.6 
+Pro se  1.5  7.8  ---  2.9  0.0  0.0  0.0  0.0  0.0  --- 
+62 
+  
+ 
+ 
+ 
+ 
+TABLE A3: STATE DEFENSE AND PROSECUTION APPEALS COMPARED, BY KEY VARIABLES 
+ 
+    Mandatory appeals  Discretionary appeals 
+                   
+            % disc.  % disc COLR  % disc. COLR 
+appeals  appeals  appeals 
+ 
+%  mand.  % mand.  % disc.  % disc COLR  % disc. COLR  reviewed on  reviewed on  reviewed on 
+% of sample  appeals w/  appeals w/  appeals w/  appeals w/  appeals w/  merits w/  merits w/  merits with 
+with variable 131  variable  variable  variable  variable  variable  variable  variable  variable 
+P  D  (P appellant)  (D appellant)  (P appellant)  (P appellant)  (D appellant)  (P appellant)  (P appellant)  (D appellant) 
+N  154  3,505  52  2,080  102  95  1,425  48  43  65 
+Reviewed on merits  57.1  55.5  76.9  90.3  47.1  45.3  4.6  ---  ---  --- 
+Decision favored appellant  38.3  10.0  40.4  14.9  37.3  35.8  2.8  79.2  79.1  61.5 
+Court of last resort  63.6    5.8    93.1  ---    89.6  ---   
+Intermediate appellate court  36.4    94.2    6.9  ---    10.4  ---   
+Appeal from:                     
+Conviction (alone)  53.9  34.8  50.0  48.4  55.9  56.8  15.0  62.5  65.1  63.1 
+Sentence (included)  24.7  31.0  30.8  42.6  21.6  20.0  14.0  25.0  20.9  27.7 
+(unknown/missing)  21.4  34.2  19.2  9.0  22.6  23.2  71.1  12.5  14.0  9.2 
+Offense severity:                     
+Felony  84.4  100.0  86.5  100.0  83.3  85.3  100.0  85.4  88.4  100.0 
+Misdemeanor  11.0  ---  9.6  ---  11.8  11.6  ---  12.5  11.6  --- 
+(severity unknown/missing)  4.6  ---  3.9  ---  4.9  3.2  ---  2.1  ---  --- 
+Crime type:                     
+Drug traffick., weapons, dui  33.8  11.2  28.9  13.6  36.3  34.7  7.6  45.8  41.9  23.1 
+Violent (sex, homi, rob, assa.)  38.3  50.4  40.4  55.6  37.3  39.0  43.1  35.4  37.2  56.9 
+Nonvio. and unknown crime  27.9  33.6  30.8  30.8  26.5  26.3  49.3  18.8  20.9  16.9 
+Claim included in brief:                     
+Insufficient evidence  9.7  18.1  17.3  28.9  5.9  6.3  2.4  8.3  9.3  23.1 
+Evidence suppression  15.6  8.6  19.2  13.4  13.7  13.7  1.5  25.0  25.6  29.2 
+Sentence  7.1  18.3  15.4  29.9  2.9  2.1  1.4  6.3  4.7  6.2 
+All other claims  31.2    30.8  25.7  31.4  32.6  2.7  43.8  46.5  35.4 
+(claims raised unknown)  39.6  47.1  23.1  15.6  48.0  47.4  93.2  20.8  18.6  10.8 
+Court factors:                     
+Elected judges  59.7  41.7  42.3  46.4  68.6  69.5  34.7  75.0  79.1  38.5 
+CA state  7.8  25.2  1.9  15.0  10.8  11.6  40.1  12.5  14.0  9.3 
+ 
+131 For an explanation of the sample for the defense and prosecution appeal studies, see supra Parts IV.A.1,2 & VI.A.1. 
+63 
+  
+ 
+ 
+ 
+ 
+    Mandatory appeals  Discretionary appeals 
+                   
+            % disc.  % disc COLR  % disc. COLR 
+            appeals  appeals  appeals 
+%  mand.  % mand.  % disc.  % disc COLR  % disc. COLR  reviewed on  reviewed on  reviewed on 
+% of sample  appeals w/  appeals w/  appeals w/  appeals w/  appeals w/  merits w/  merits w/  merits with 
+with variable 131  variable  variable  variable  variable  variable  variable  variable  variable 
+P  D  (P appellant)  (D appellant)  (P appellant)  (P appellant)  (D appellant)  (P appellant)  (P appellant)  (D appellant) 
+LA state  9.7  2.3  ---  1.9  14.7  15.8  2.7  14.6  16.3  0.0 
+OH state  16.9  7.2  17.3  8.7  16.7  16.8  5.0  8.3  9.3  1.5 
+Advocacy factors:                     
+State coordinates appeal  54.6  ---  55.8  ---  53.9  52.6  ---  58.3  55.8  --- 
+Oral argument held  29.9  12.6  26.9  19.1  31.4  33.7  2.9  60.4  67.4  64.6 
+Full judicial opinion  40.9  34.6  50.0  55.7  36.3  35.8  3.8  77.1  79.1  83.1 
+Private attorney  15.6  5.6  19.2  6.9  13.7  11.6  3.6  12.5  9.3  10.8 
+Public attorney  55.2  52.0  61.5  73.3  52.0  53.7  63.6  56.3  58.1  61.5 
+Pro se  2.0  7.8  ---  4.9  2.9  3.2  11.9  4.2  4.7  1.5 
+(unknown represent.)  27.3  34.7  19.2  14.9  31.4  31.6  63.6  27.1  27.9  26.2 
+64 
+  
+ 
+TABLE A4: CENTRAL COORDINATION OF PROSECUTOR 
+APPEALS, BY STATE 
+ 
+State  Court Level  Coordination 
+AL  IAC  Y 
+AZ  COLR  Y 
+  IAC  Y 
+CA  COLR  Y 
+  IAC   
+FL  COLR  Y 
+  IAC  Y 
+HI  COLR   
+  IAC   
+IA  COLR  Y 
+  IAC  Y 
+IL  COLR  Y 
+  IAC   
+IN  COLR  Y 
+KS  IAC   
+KY  COLR  Y 
+LA  COLR   
+MA  IAC   
+MI  COLR  Y 
+  IAC  Y 
+MN  COLR  Y 
+MO  COLR  Y 
+NC  IAC  Y 
+ND  COLR  Y 
+NE  IAC  Y 
+NJ  IAC  Y 
+NM  COLR  Y 
+NY  COLR   
+NY  IAC   
+OH  COLR   
+  IAC   
+OR  COLR  Y 
+  IAC  Y 
+PA  COLR   
+TX  COLR   
+  IAC   
+VT  COLR  Y 
+WA  COLR  Y 
+  IAC  Y 
+WI  COLR  Y 
+SOURCES: Rachel E. Barkow, Federalism and Criminal Law: 
+What the Feds Can Learn from the States, 109 MICH. L. REV. 
+519, 560-61, 560 nn. 226-37 (2011)); state prosecutor association websites; 
+E-mail correspondence; telephone calls. 
+ 
+65 
+ 

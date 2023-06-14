@@ -1,0 +1,2708 @@
+ 
+ARTICLES 
+ 
+ 
+ 
+ 
+ 
+ 
+Virtual  Witness  Confrontation  in 
+Criminal Cases: A Proposal to Use 
+Videoconferencing  Technology  in 
+Maritime Piracy Trials 
+ 
+Yvonne M. Dutton* 
+ 
+ 
+ABSTRACT 
+ 
+  Maritime piracy is a serious problem, yet states are not 
+prosecuting captured pirates with any regularity.  One of the 
+many reasons cited to explain this phenomenon focuses on the 
+expense and difficulty of mounting cases of such international 
+proportions and which involve evidence, suspects, victims, and 
+witnesses from around the globe.  In an effort to help close the 
+impunity  gap  that  surrounds  piracy,  this  Article  offers  a 
+potential solution to the difficulties associated with obtaining 
+live witness testimony.  It proposes a rule to allow witnesses 
+under some circumstances to testify remotely by way of two-way, 
+live videoconferencing technology.  While remote testimony need 
+not become the norm in maritime piracy cases, the proposed rule 
+is  carefully  structured  to  balance  both  the  public’s  and  the 
+defendant’s interest in a fair trial.  
+ 
+                                                                                                                       
+  * Associate Professor, Indiana University Robert H. McKinney School of Law. 
+1283 1284   vanderbilt journal of transnational law  [vol. 45:1283 
+ 
+TABLE OF CONTENTS 
+ 
+  I.   INTRODUCTION ..............................................................   1285 
+  II.    TWO-WAY, LIVE VIDEOCONFERENCING  
+TECHNOLOGY (VCT) ......................................................   1289 
+  III.    SOME APPROACHES USED TO ANALYZE WHEN  
+TO ALLOW PROSECUTION WITNESSES TO TESTIFY  
+BY TWO-WAY, LIVE VCT IN CRIMINAL TRIALS ..............   1292 
+A.   Remote VCT Prosecution Testimony in   
+  International Criminal Courts ..........................   1292 
+1.  The International Criminal Tribunal  
+  for the Former Yugoslavia ...........................   1293 
+2.  The International Criminal Tribunal  
+for Rwanda ...................................................   1296 
+3.  The Special Court for Sierra Leone ............   1299 
+4.  The International Criminal Court ..............   1300 
+B.   Remote VCT Prosecution Testimony in  
+  Federal Courts in the United States ..................   1303 
+1.  U.S. Supreme Court Cases Guiding  
+  Lower Court Decisions on Whether to  
+  Admit Remote Adult Prosecution-  
+  Witness Testimony .......................................   1304 
+a.  Coy v. Iowa  .............................................   1305 
+b.  Maryland v. Craig .................................   1307 
+2.  Federal Circuit Split on the Proper  
+  Test to Apply in Determining When  
+  to Permit Adult Prosecution Witnesses  
+  to Testify by Two-Way, Live VCT ...............   1308 
+3.  The Supreme Court After Craig: Some 
+Confrontation Clause Guidance, but  
+No Resolution of the Circuit Split ...............   1314 
+  IV.   THE PROBLEM OF MODERN MARITIME PIRACY AND  
+THE NEED TO ENCOURAGE STATES TO USE THE  
+AVAILABLE  LAWS TO PROSECUTE PIRATES  
+INSTEAD OF RELEASING THEM ......................................   1317 
+A.   The Continuing Threat of Modern  
+  Maritime Piracy ..................................................   1318 
+B.   The International Law Authorizing Piracy 
+  Prosecutions ........................................................   1320 
+C.   The Tendency to Release, Rather than  
+  Prosecute, Captured Pirates ...............................   1323 
+D.   The Need to Encourage More Piracy  
+  Prosecutions by Improving Access to  
+  Witness Testimony ..............................................   1327 
+  V.   A PROPOSAL TO ALLOW TWO-WAY, LIVE VCT  
+WITNESS  TESTIMONY IN MARITIME PIRACY TRAILS .....   1330 2012]    virtual witness confrontation in criminal cases  1285 
+A.   Testimony Necessary to the Fair and Just  
+  Resolution of the Case .........................................   1332 
+B.   Witness Unable or Unwilling for Good  
+  Reason to Testify in Person ................................   1333 
+C.   Transmission and Other Safeguards to  
+  Protect Defendant’s Fair-Trial Rights ...............   1336 
+  VI.    CONCLUSION ..................................................................   1339 
+ 
+ 
+I. INTRODUCTION 
+  Advancements  in  technology  have  now  made  it  possible  for 
+courts  around  the  globe  to  secure  the  testimony  of  witnesses 
+remotely. Through two-way, live videoconferencing technology (VCT), 
+a witness’s image and voice can be transmitted from any location in 
+the world to the courtroom where the trial is taking place.1 The 
+benefits  of  using  such  technology  can  obviously  be  significant  in 
+circumstances where witnesses would have to travel great distances 
+at great cost and at great inconvenience, while also risking their 
+health or safety, to testify live at a trial. When seeking the testimony 
+of foreign witnesses who are beyond the subpoena power of the court, 
+the promise of remote testimony may be the only way to obtain that 
+witness’s cooperation and evidence.2  
+  Notwithstanding that many commentators and courts seem to 
+embrace the benefits of remote witness testimony in civil cases,3 not 
+all agree on the propriety of allowing prosecution witnesses to testify 
+by  two-way,  live  VCT  against  defendants  in  criminal  trials.  The 
+arguments against remote testimony in criminal trials include the 
+                                                                                                                       
+  1.  See Fredric I. Lederer, The Potential Use of Courtroom Technology in Major 
+Terrorism Cases, 12 WM. & MARY BILL RTS. J. 887, 907 (2004) [hereinafter Lederer, 
+Courtroom Technology] (describing videoconferencing equipment and its increasing use 
+in courtrooms); Fredric I. Lederer, The Road to the Virtual Courtroom? A Consideration 
+of Today’s—And Tomorrow’s—High-Technology Courtrooms, 50 S.C. L. REV. 799, 802 
+(1999) [hereinafter Lederer, Virtual Courtroom] (“Given that judges, counsel, and 
+witnesses need not be in the same location, there is a real possibility of trials in which 
+no physical commonality is present.”). 
+  2.  See Lynn Helland, Remote Testimony—A Prosecutor’s Perspective, 35 U. 
+MICH. J.L. REFORM 719, 725 (2002) (stating that, from the author’s perspective as a 
+federal prosecutor for twenty years, although citizens of foreign countries will refuse to 
+travel to the United States to testify, many have indicated they would be willing to 
+accommodate less burdensome requests). 
+  3.  See Lederer, Courtroom Technology, supra note 1, at 906–07 (stating that 
+remote witness testimony has been used in civil cases in both the United States and 
+abroad); see also FED. R. CIV. P. 43(a) (authorizing the use of VCT in civil cases “[f]or 
+good cause in compelling circumstances and with appropriate safeguards”). 1286   vanderbilt journal of transnational law  [vol. 45:1283 
+following: remote testimony may violate the defendant’s right to be 
+confronted with the evidence against him because the testimony is 
+not “face-to-face”;4 remote testimony cannot ensure truthfulness to 
+the same extent as requiring the witness to testify live before the 
+defendant;5 and remote testimony does not provide the court and jury 
+with  the  same  opportunity  as  does  live  testimony  to  assess  the 
+demeanor and truthfulness of the witness.6 On the other hand, a 
+number of courts have concluded that the “interests of justice” and 
+other exceptional circumstances justify allowing some witnesses to 
+testify  remotely  against  defendants  in  criminal  cases.  Various 
+international criminal courts have permitted two-way, live VCT in 
+some cases when the witness would otherwise be unwilling or unable 
+to attend a trial in person because of safety, health, or work-related 
+concerns.7 In addition, although courts in the United States generally 
+seem wary of allowing remote testimony in criminal trials, some have 
+allowed  adult  witnesses  to  testify  via  two-way,  live  VCT  under 
+circumstances in which the witness would not otherwise be willing or 
+able to appear at the trial because of safety or health concerns, or 
+because they were beyond the court’s subpoena power.8  
+                                                                                                                       
+  4.  See,  e.g.,  Richard  D.  Friedman,  Remote  Testimony,  35  U.  MICH.  J.L. 
+REFORM 695, 701–08 (2002) (discussing the Confrontation Clause implications of 
+allowing remote witness testimony against defendants in criminal cases). 
+  5.  See, e.g., United States v. Bordeaux, 400 F.3d 548, 554 (8th Cir. 2005) (“The 
+Constitution favors face-to-face confrontations to reduce the likelihood that a witness 
+will lie.”). 
+  6.  Fredric  Lederer,  The  Legality  and  Practicality  of  Remote  Witness 
+Testimony, PRAC. LITIGATOR, Sept. 2009, at 19, 27 (noting the concern that remote 
+testimony may impede the fact finder’s ability to observe and determine the witness’s 
+demeanor). 
+  7.  See  Riley  A.  Williams,  Videoconferencing:  Not  a  Foreign  Language  to 
+International Courts, 7 OKLA. J.L. & TECH. 54 (2011) (“Through videoconferencing, 
+unavailable witnesses can be transmitted into courtrooms.”); see also, e.g., INT’L CRIM. 
+CT. R. P. & EVID., available at http://www.icc-cpi.int/NR/rdonlyres/F1E0AC1C-A3F3-
+4A3C-B9A7-B3E8B115E886/140164/Rules_of_procedure_and_Evidence_English.pdf 
+(providing in Rule 67 that the court may allow a witness to give audio or video 
+testimony, provided the technology allows the witness to be examined by all parties at 
+the time the witness testifies); SPECIAL CT. FOR SIERRA LEONE R. P. & EVID., available at 
+http://www.sc-sl.org/LinkClick.aspx?fileticket=yNjqn5TIYKs%3d&tabid=176  (providing 
+in Rule 85D for video testimony at the order of the trial court); Int’l Tribunal for the 
+Prosecution of Persons Responsible for Serious Violations of Int’l Humanitarian Law 
+Committed in the Territory of the Former Yugoslavia Since 1991, Rules of Procedure and 
+Evidence, U.N. Doc. IT/32 (Feb. 11, 1994) [hereinafter ICTY RPE], reprinted in 33 I.L.M. 
+484  (1994)  (providing  in  Rule  81  bis  that  proceedings  may  be  conducted  by 
+videoconference link if consistent with the interests of justice). 
+  8.  See, e.g., United States v. Gigante, 166 F.3d 75, 79–82 (2d Cir. 1999) 
+(finding no Confrontation Clause violation where the trial court allowed a witness in an 
+organized-crime case to testify from a remote location since the witness’s health 
+prevented him from traveling and the defendant’s health also prevented him from 
+traveling to a distant location to depose the witness); Harrell v. State, 709 So. 2d 1364, 
+1367–70 (Fla. 1998) (affirming decision to allow two Argentine nationals living in 
+ 2012]    virtual witness confrontation in criminal cases  1287 
+  This Article proposes a rule for use in maritime piracy cases that 
+would allow witnesses under some circumstances to testify remotely 
+by way of two-way, live VCT so as to better facilitate the prosecution 
+of those cases. Maritime piracy is the oldest crime over which states 
+can exercise universal jurisdiction.9 Most states are also parties to 
+the UN Convention on the Law of the Sea (UNCLOS), which codifies 
+piracy’s status as a universal-jurisdiction crime.10 Yet, even as pirate 
+attacks continue to rise in number and severity,11 pirates face little 
+risk  that  they  will  be  prosecuted  and  punished  for  their  crimes. 
+Instead  of  prosecuting  pirates,  for  the  most  part,  the  world 
+community has been content to simply release them.12  
+  One reason offered to explain this reluctance to prosecute focuses 
+on the expense and difficulty of mounting cases of such international 
+proportions  and  which  involve  evidence,  suspects,  victims,  and 
+witnesses  from  around  the  globe.13  If  live  witness  testimony  is 
+                                                                                                                       
+Argentina to testify remotely by live satellite video against the defendant in a case 
+charging him with robbing the two Argentines while they were on vacation in Miami 
+because, among other things, the witnesses lived beyond the subpoena power of the 
+court). 
+  9.  See Miriam Cohen, The Analogy Between Piracy and Human Trafficking: A 
+Theoretical Framework for the Application of Universal Jurisdiction, 16 BUFF. HUM. 
+RTS. L. REV. 201, 201 (2010) (noting that the doctrine of universal jurisdiction was 
+developed to address piracy that occurred on the high seas). 
+  10.  See United Nations Convention on the Law of the Sea, Dec. 10, 1982, 1833 
+U.N.T.S. 397 [hereinafter UNCLOS]; Chronological Lists of Ratifications of, Accessions 
+and  Successions  to  the  Convention  and  the  Related  Agreements,  UNITED  NATIONS 
+DIVISION  FOR  OCEAN  AFF.  &  L.    SEA,  http://www.un.org/Depts/los/reference_files/ 
+chronological_lists_of_ratifications.htm (last updated Oct. 4, 2012). The United States is 
+not a party to UNCLOS; however, it ratified an earlier version of the treaty with 
+identical provisions regarding piracy. See Geneva Convention on the High Seas, Apr. 
+29, 1958, 13 U.S.T. 2312, 450 U.N.T.S. 82 (discussing and defining piracy). 
+  11.  According to the International Maritime Bureau (IMB), the number of 
+reported yearly pirate attacks in 2011 was almost double the number reported in 2007, 
+and most attacks now involve the use of weapons. See Int’l Chamber of Commerce 
+International Maritime Bureau Rep, Jan. 1–Dec. 13, 2011, Piracy and Armed Robbery 
+Against Ships, at 5, 10 (2011) [hereinafter ICC–IMB 2011 Report] (reporting 263 actual 
+and attempted attacks in 2007 compared to 445 in 2011). The IMB includes in its 
+annual report acts of piracy and acts of armed robbery against ships, as well as 
+attempts of the same. The IMB’s definition of piracy includes illegal acts of violence 
+against a ship travelling on the high seas or any act of inciting the same. Id. at 3. Its 
+definition of armed robbery against ships includes acts of violence—or any act of 
+inciting an act of violence—against a ship located “within a State’s internal waters, 
+archipelagic waters and territorial sea.” Id. 
+  12.  See, e.g., U.N. Special Adviser to the Secretary-General, Rep. of the Special 
+Adviser to the Secretary-General on Legal Issues Related to Piracy off the Coast of 
+Somalia, ¶ 43, U.N. Doc. S/2011/30 (Jan. 24, 2011) (by Jack Lang) [hereinafter Lang] 
+(reporting  that  nine  out  of  ten  pirates  captured  by  the  world’s  navies  are  not 
+prosecuted). 
+  13.  See James Kraska, Coalition Strategy and the Pirates of the Gulf of Aden 
+and the Red Sea, 28 COMP. STRATEGY 197, 207 (2009) (describing the logistical 
+ 1288   vanderbilt journal of transnational law  [vol. 45:1283 
+required, those expenses can be particularly substantial since the 
+state would have to pay the costs of transporting witnesses who 
+reside in different parts of the world to the trial. Obtaining live 
+testimony is not only difficult from a cost perspective, however. States 
+may not be able to compel nonnationals to attend a trial in person. 
+States also may not be able to entice witnesses to attend if they are 
+ill, working at sea, or concerned for their safety—which can be the 
+case  with  crew  members  who  have  survived  an  attack  or  naval 
+officers who have assisted in capturing pirates during an attack. 
+Indeed,  in  his  January  2011  report,  the  Special  Adviser  to  the 
+Secretary-General on Legal Issues Related to Piracy off the Horn of 
+Africa,  Mr.  Jack  Lang,  noted  that  the  requirement  of  in-person 
+testimony was proving to be an obstacle to swift trials “either because 
+the victims do not wish to go to lengths to give evidence, are afraid, or 
+their employers may not allow them to testify.”14  
+  Allowing the state to produce some witnesses remotely under 
+certain  circumstances  can  alleviate  some  of  the  difficulties  of 
+obtaining the evidence necessary to successfully prosecute maritime 
+pirates while at the same time furthering the interests of justice. This 
+Article proposes that courts allow prosecution witnesses to testify by 
+two-way, live VCT in maritime cases on a case-by-case basis in the 
+interests of justice, upon proof by the requesting party that (1) the 
+testimony is necessary to the fair and just resolution of the case, (2) 
+the witness is unable or unwilling for good reason to travel to the 
+court  to  testify  in  person,  and  (3)  the  transmission  will  use 
+appropriate safeguards to protect the defendant’s rights to a fair trial 
+and to ensure that the witness understands the obligation to testify 
+truthfully. This test balances the interests of the various parties to 
+the proceeding and also ensures that the trial can proceed with the 
+evidence  needed  to  resolve  criminal  matters  fairly,  justly,  and 
+expeditiously. The state would not lose valuable witness testimony; 
+would not have to pay great sums for witness travel; and could try 
+cases more swiftly, without the need to accommodate witness travel 
+schedules. Witnesses would be spared the inconvenience of traveling 
+great distances, at a cost to their health, safety, or job security. 
+Defendants’ rights to a fair trial are also protected when witnesses 
+testify  remotely  using  two-way,  live  VCT:  witnesses  will  have  to 
+confront defendants with their testimony; defendants and witnesses 
+will be able to view each other; the defendant will be able to subject 
+witnesses  to  contemporaneous  cross-examination  during  the  trial; 
+and the court and any jury will still be able to see the witness, hear 
+                                                                                                                       
+difficulties associated with prosecuting pirates because the cases can involve ships, 
+cargo, victims, witnesses, and suspects from a host of different countries). 
+  14.  Lang, supra note 12, ¶ 61. 2012]    virtual witness confrontation in criminal cases  1289 
+the testimony, and assess witness credibility. Defendants can even 
+benefit from a rule that allows some witnesses to testify remotely 
+because  trials  can  proceed  and  be  resolved  more  swiftly  without 
+requiring defendants to linger in custody awaiting their day in court. 
+While it need not become the norm, allowing witnesses to testify 
+remotely in maritime piracy trials under some circumstances would 
+further  the  interests  of  justice  and  also  prompt  more  states  to 
+embrace their duty to prosecute pirates instead of simply releasing 
+them.  
+  Part II of this Article discusses the technology of two-way, live 
+VCT and some of its perceived advantages and disadvantages. Part 
+III examines several approaches used to analyze the issue of whether 
+to admit two-way, live VCT witness testimony against defendants in 
+criminal  cases.  Specifically,  this  Part  examines  the  rules  and 
+decisions of various international criminal courts, focusing on their 
+reasons for allowing or denying remote prosecution-witness testimony 
+in particular circumstances. With that same focus, this Part also 
+examines the law in the federal courts of the United States as it 
+relates to remote prosecution-witness testimony in criminal trials. 
+Part IV follows with a description of the modern piracy problem, the 
+international law governing the crime of maritime piracy, and the 
+need  to  further  encourage  states  to  use  the  available  laws  to 
+prosecute pirates, instead of releasing them and allowing them to 
+continue their illegal activities. In Part V, this Article discusses the 
+proposed rule for allowing prosecution witnesses to testify remotely in 
+maritime  piracy  trials  by  way  of  two-way,  live  VCT  under  some 
+circumstances in the interest of justice.  
+II.  TWO-WAY, LIVE VIDEOCONFERENCING TECHNOLOGY (VCT) 
+  Two-way,  live  VCT  permits  witnesses  to  testify  remotely  in 
+courtrooms  around  the  world  from  any  location,  as  long  as  both 
+locations  are  equipped  with  the  necessary  technology.  That 
+technology  relies  on  point-to-point  data  connections  between 
+locations,  which  must  house  a  camera,  a  microphone,  screens  to 
+display  visual  images,  and  the  videoconferencing  hardware  (the 
+“codec”).15 In order to transmit images and sound, the equipment on 
+                                                                                                                       
+  15.  See Lederer, supra note 6, at 20 (describing the required equipment for 
+standard videoconferencing). Professor Frederic Lederer is Chancellor Professor of Law 
+and Director of the Center for Legal and Court Technology at the William and Mary 
+Law School. For many years, he has been involved with the law school’s high-
+technology courtroom, the McGlothlin Courtroom. Fredric Lederer, WILLIAM & MARY L. 
+SCH., http://web.wm.edu/law/faculty/bios/fulltime/lederer-46.php?svr=law (last visited 
+Oct. 20, 2012). 1290   vanderbilt journal of transnational law  [vol. 45:1283 
+each  end  must  be  connected  to  an  Integrated  Services  Digital 
+Network  (ISDN),  which  relies  on  something  similar  to  high-
+bandwidth telephone lines, or an Internet Protocol (IP).16 Two-way, 
+live  VCT  transmits  high-quality  video  images  that  are  fully 
+synchronized  with  audio  from  one  location  to  the  other 
+simultaneously.17  
+  Most videoconferencing today is increasingly delivered via the IP 
+mode and it can be effectively free as long as the court or other 
+location has an internet connection.18 “ISDN-based videoconferencing 
+requires specialized communications lines” and will require a per-call 
+charge in addition to any monthly subscription cost for the line.19 
+While both methods can produce clear images and voice—especially 
+when using newly available high-definition technology—the IP-based 
+method can potentially encounter some interference if bandwidth is 
+being used by others during the witness’s remote testimony. ISDN-
+based  methods  will  be  more  reliable  in  this  regard,  but  more 
+expensive.20  
+  Worth  noting  is  that  the  technology  is  ever-improving  and 
+becoming  increasingly  affordable.21  The  ability  to  produce 
+videoconferencing images in high definition is one recent innovation 
+mentioned  above.  Other  innovations  include  the  ability  to 
+concurrently  transmit  digital  documents  on  one  screen  while  the 
+video  image  is  being  displayed  on  another.22  Also,  while 
+videoconferencing systems have typically used flat-panel televisions 
+to  display  content,  some  manufacturers  have  developed  desktop 
+monitors with high-definition features.23 More sophisticated systems 
+include remote controls to allow “zooming” or “panning” functionality 
+and some have screen options that allow the display of multiple views 
+of the courtroom or participants.24 Quite recent features of newer 
+VCT  systems  use  cameras  that  will  track  courtroom  participants 
+wearing a unique “badge” that signals the camera to follow their 
+movements.25  
+                                                                                                                       
+  16.  Lederer, supra note 6, at 20. 
+  17.  Id. 
+  18.  Id. at 21. 
+  19.  Id. 
+  20.  See id. (“ISDN tends to give a more dependable connection but is being 
+increasingly abandoned in favor of the less expensive IP method of connection.”). 
+  21.  See Williams, supra note 7, at 1 (discussing evolving technology in the 
+courtroom). 
+  22.  See Lederer, supra note 6, at 20 (“High-end videoconferencing equipment 
+permits the concurrent transmission of computer images.”). 
+  23.  See id. at 21 (describing the various types of monitors used in courtrooms).  
+  24.  See Williams, supra note 7, at 3 (noting various aspects of advanced 
+videoconferencing systems). 
+  25.  See id. (discussing the features and functionality of the “badges”). 2012]    virtual witness confrontation in criminal cases  1291 
+  Experiments with VCT remote witness testimony at William and 
+Mary Law School’s high-technology McGlothlin Courtroom, moreover, 
+indicate  that  while  the  technology  cannot  exactly  replicate  the 
+situation of live, face-to-face witness testimony in the courtroom, it 
+can come quite close. In that courtroom, the technology can display a 
+witness’s image directly behind the witness stand, a judge’s image 
+directly behind the bench, and counsels’ images at counsel tables. 
+That technology also permits remote witnesses to see different views 
+of the courtroom and speakers.26 Furthermore, the results of some 
+controlled experiments and anecdotal evidence indicate that jurors 
+tend to perceive remote witnesses very similarly to how they perceive 
+witnesses  who  testify  live  in  the  courtroom.27  Indeed,  Professor 
+Fredric Lederer suggests that as the technology continues to improve, 
+image and voice quality may become so good that one may have 
+difficulty observing that a remote witness is not physically present.28  
+  Judges also seem to be increasingly comfortable using VCT in a 
+variety  of  proceedings  that  previously  would  have  required  all 
+participants  to  appear  together  in  the  same  room.  International 
+criminal tribunals, especially the International Criminal Tribunal for 
+the former Yugoslavia (ICTY), have successfully used VCT for remote 
+witness testimony.29 Australia, Canada, the United Kingdom, and 
+Singapore  all  permit  remote  VCT  witness  testimony  in  some 
+circumstances.30  In  the  United  States,  Federal  Rule  of  Civil 
+Procedure 43(a) authorizes using remote witness testimony during 
+                                                                                                                       
+  26.  See Lederer, Courtroom Technology, supra note 1, at 908 (noting the ability 
+of a remote witness to see either a single camera image or multiple images of William 
+and Mary Law School’s McGlothlin Courtroom). 
+  27.  See id. (“[R]emote appearances appear to be treated by the courtroom 
+participants just as if those persons were physically in the courtroom.”). 
+  28.  Lederer, supra note 6, at 29. 
+  29.  See, e.g., Sanja Kutnjak Ivkovic, Justice by the International Criminal 
+Tribunal for the Former Yugoslavia, 37 STAN. J. INT’L L. 255, 286 (2001) (noting that 
+the ICTY allowed eleven witnesses in the Prosecutor v. Tadíc case to testify remotely 
+from a location in the former Yugoslavia); see also Williams, supra note 7, at 11–13 
+(discussing  the  standards  for  using  remote  witness  testimony  in  the  ICTY  and 
+International Criminal Tribunal for Rwanda (ICTR)). 
+  30.  See Jeremy Barnett, The United Kingdom, 12 WM. & MARY BILL RTS. J. 
+687, 690 (2004) (stating that courts in the United Kingdom use VCT to allow child and 
+foreign witnesses to testify in certain kinds of criminal cases); Julian Borkowski, Court 
+Technology in Canada, 12 WM. & MARY BILL RTS. J. 681, 682 (2004) (reporting that in 
+Canada, courts use VCT in various civil and criminal matters); Ros Macdonald & Anne 
+Wallace, Review of the Extent of Courtroom Technology in Australia, 12 WM. & MARY 
+BILL RTS. J. 649, 650 (2004) (stating that courts in Australia began using VCT to allow 
+vulnerable witnesses to testify in remote locations removed from the courtroom); 
+Richard  Magnus,  The  Confluence  of  Law  and  Policy  in  Leveraging  Technology: 
+Singapore Judiciary’s Experience, 12 WM. & MARY BILL RTS. J. 661, 663–64 (2004) 
+(explaining that VCT is used in many types of court proceedings in Singapore, such as 
+bail hearings, pretrial conferences, civil trials, and criminal trials, for specified offenses 
+to allow vulnerable witnesses to testify remotely). 1292   vanderbilt journal of transnational law  [vol. 45:1283 
+civil  trials  “in  compelling  circumstances  and  with  appropriate 
+safeguards.”31  Federal  appellate  court  judges  have  used  VCT  to 
+conduct oral arguments.32  
+  Of course, even if many courts are comfortable using VCT and 
+conclude that its use is practical and proper in certain instances, it 
+does not necessarily follow that remote prosecution-witness testimony 
+should become the norm in criminal cases in the United States or 
+elsewhere. Criminal cases are a unique category of proceedings that 
+can  result  in  a  defendant  losing  his  freedom  if  convicted.  Thus, 
+commentators and courts are right to advocate that limitations be 
+placed on the ability to use remote prosecution-witness testimony. 
+They are also right to advocate that the remote experience be as 
+similar as possible to the live experience for both the witness and the 
+individuals in the courtroom. With these concerns in mind, Part III 
+below  discusses  some  approaches  used  by  various  international 
+criminal courts and by federal courts in the United States to analyze 
+the question of when to admit two-way, live VCT witness testimony 
+against defendants in criminal cases.  
+III.  SOME APPROACHES USED TO ANALYZE WHEN TO ALLOW 
+PROSECUTION WITNESSES TO TESTIFY BY TWO-WAY, LIVE VCT IN 
+CRIMINAL TRIALS 
+A. Remote VCT Prosecution Testimony in  
+International Criminal Courts 
+  The  international  criminal  courts  generally  seem  to  look 
+favorably  on  the  use  of  two-way,  live  VCT  prosecution  witness 
+testimony, at least under some circumstances in which witnesses 
+with  necessary  or  useful  evidence  would  otherwise  be  unable  or 
+unwilling to testify in person. For example, the ICTY, the Special 
+Court for Sierra Leone (SCSL), and the International Criminal Court 
+(ICC)  all  have  procedural  rules  permitting  witnesses  to  testify 
+remotely in certain situations.33 Although the International Criminal 
+Tribunal  for  Rwanda  (ICTR)  has  no  specific  procedural  rule 
+                                                                                                                       
+  31.  FED. R. CIV. P. 43(a). 
+  32.  See Advantages of Videoconferencing Grow with Use, U.S. CTS. (Aug. 2006) 
+http://www.uscourts.gov/news/TheThirdBranch/06-08-01/Advantages_of_ 
+Videoconferencing_Grow_with_Use.aspx (describing a recent Federal Judicial Center 
+report surveying appellate court judges and their use of videoconferencing). 
+  33.  See supra note 7 and accompanying text. Rule 81 bis was adopted to replace 
+Rule 71 bis on July 12, 2007, to allow for greater use of testimony by VCT. See Rules of 
+Procedure and Evidence of the International Criminal Tribunal for the Former Yugoslavia, 
+UN  ICTY,  http://www.icty.org/sections/LegalLibrary/RulesofProcedureandEvidence  (last 
+visited Oct. 20, 2012). 2012]    virtual witness confrontation in criminal cases  1293 
+addressing VCT witness testimony, the tribunal has granted some 
+requests to allow witnesses to testify remotely when “‘necessary to 
+safeguard the witness’s security’ or in the interest of justice.”34  
+1.  The  International  Criminal  Tribunal  for  the  Former 
+Yugoslavia35 
+  The ICTY allows remote testimony pursuant to Rule 81 bis of its 
+Rules of Procedure and Evidence if such testimony is consistent with 
+the interests of justice.36 Although Rule 81 bis itself does not define 
+the interests of justice, a review of the Tribunal’s decisions provides 
+guidance on what is required to satisfy that standard. Specifically, 
+the ICTY will only allow VCT witness testimony when the moving 
+party shows that (1) “the witness is unable, or has good reasons to be 
+unwilling,” to come to the court; (2) the testimony is “sufficiently 
+important  to  make  it  unfair  to  the  requesting  party  to  proceed 
+without it”; and (3) the accused will “not be prejudiced in the exercise 
+of his or her right to confront the witness.”37 Thus, the ICTY interests 
+of justice test balances the witness’s needs with those of the parties to 
+the trial process: it ensures the parties can present the evidence 
+                                                                                                                       
+  34.  Prosecutor  v.  Nizeyimana,  Case  No.  ICTR-00-55C-T,  Decision  on 
+Prosecutor’s Extremely Urgent Motion for Testimony via Video-Link, ¶ 5 (Feb. 14, 
+2011). 
+  35.  In 1993, the United Nations established the International Tribunal for the 
+Prosecution  of  Persons  Responsible  for  Serious  Violations  of  International 
+Humanitarian Law Committed in the Territory of the Former Yugoslavia Since 1991 to 
+preside over trials against those who had committed atrocities and crimes against 
+humanity during the armed conflict in the Balkans. See generally PAUL R. WILLIAMS & 
+MICHAEL P. SCHARF, PEACE WITH JUSTICE?: WAR CRIMES AND ACCOUNTABILITY IN THE 
+FORMER YUGOSLAVIA 98–101 (2002) (“[I]n February 1993, the War Crimes Commission 
+joined a growing international chorus publicly calling for the creation of a Nuremberg-
+like tribunal to try persons believed to be responsible for atrocities in the former 
+Yugoslavia.”). 
+  36.  ICTY RPE, supra note 7. 
+  37.  See,  e.g.,  Prosecutor  v.  Karadžić,  Case  No.  IT-95-5/18-T,  Decision  on 
+Prosecution’s Motion for Testimony To Be Heard via Video-Conference Link, ¶¶ 5–6 
+(Int’l Crim. Trib. for the Former Yugoslavia June 17, 2010); Prosecutor v. Stanišić, 
+Case No. IT-03-69-T, Decision on Prosecution Motions To Hear Witnesses by Video-
+Conference Link, ¶ 8 (Int’l Crim. Trib. for the Former Yugoslavia Feb. 24, 2010); 
+Prosecutor  v.  Gotovina,  Case  No.  IT-06-90-T,  Reasons  for  Decision  Granting 
+Prosecution’s Motion To Cross-Examine Four Proposed Rule 92 bis Witnesses and 
+Reasons for Decision To Hear the Evidence of Those Witnesses via Video-Conference 
+Link, ¶ 7 (Int’l Crim. Trib. for the Former Yugoslavia Nov. 3, 2009); see also Prosecutor 
+v. Tadíc, Case No. IT-94-1-T, Decision on the Defence Motions To Summon and Protect 
+Defence Witnesses, and on the Giving of Evidence by Video-Link, ¶ 19 (Int’l Crim. Trib. 
+for the Former Yugoslavia June 25, 1996) (describing the standard for VCT witness 
+testimony that preceded the adoption of a formal rule: namely, that the witness’s 
+testimony is so important that it would be unfair to proceed without it and that the 
+witness is unable or unwilling to come to the Tribunal to testify). 1294   vanderbilt journal of transnational law  [vol. 45:1283 
+required to show the guilt or innocence of the defendant, while at the 
+same  time  protecting  the  defendant’s  interest  in  being  able  to 
+examine the witnesses against him.  
+  As to the first criterion, the ICTY has concluded that concerns 
+related to the witness’s health and safety may satisfy the requirement 
+that the witness be unable or unwilling for good reason to testify in 
+person. For example, in Prosecutor v. Stanišić, the Tribunal decided 
+the  prosecutor  had  sufficiently  established  that  one  witness  was 
+unable to travel to the Hague based on a doctor’s report showing the 
+poor state of the witness’s health.38 It further concluded that two 
+other prosecution witnesses had “good reasons to be unwilling to 
+travel” due to their advanced age since both were over seventy-five 
+years old.39 In Prosecutor v. Tadíc, the Tribunal found that defense 
+counsel had met its burden of demonstrating that certain witnesses 
+were sufficiently unwilling to attend the trial in the Hague because 
+they feared arrest by the prosecution.40 In Prosecutor v. Gotovina, 
+there  was  no  specific  information  showing  that  several witnesses 
+were unable or unwilling to travel to the Hague.41 Nevertheless, the 
+Tribunal concluded that ordering the witnesses to be cross-examined 
+by video link, rather than in person, was consistent with the interests 
+of justice because the witnesses’ combined testimonies would take no 
+more than one court day and because of the need to expeditiously 
+conclude the trial.42  
+  Regarding the third criterion of the ICTY’s interests-of-justice 
+test, ICTY decisions emphasize the similarities between remote and 
+live testimony and generally decline to find that remote testimony 
+would violate the defendant’s rights to confront and cross-examine 
+witnesses.43 In fact, in Gotovina, the Tribunal explained as follows: 
+                                                                                                                       
+  38.  Stanišić, Case No. IT-03-69-T, Decision on Prosecution Motions To Hear 
+Witnesses by Video-Conference Link, ¶¶ 12–14. 
+  39.  Id. 
+  40.  Tadíc, Case No. IT-94-1-T, Decision on the Defence Motions To Summon 
+and Protect Defence Witnesses, and on the Giving of Evidence by Video-Link, ¶ 19.  
+  41.  Gotovina,  Case  No.  IT-06-90-T,  Reasons  for  Decision  Granting 
+Prosecution’s Motion To Cross-Examine Four Proposed Rule 92 bis Witnesses and 
+Reasons for Decision To Hear the Evidence of Those Witnesses via Video-Conference 
+Link, ¶ 12. 
+  42.  Id. The Tribunal noted that although three criteria guide the decision on 
+whether to permit remote witness testimony, the ultimate determination is whether 
+permitting VCT testimony “would be consistent with the interests of justice.” Id. ¶ 7. 
+  43.  According to Article 21(4)(e) of the ICTY Statute, a defendant has the right 
+“to examine, or have examined, the witnesses against him and to obtain the attendance 
+and examination of witnesses on his behalf under the same conditions as witnesses 
+against him.” Int’l Tribunal for the Prosecution of Persons Responsible for Serious 
+Violations of Int’l Humanitarian Law Committed in the Territory of the Former 
+Yugoslavia Since 1991, Updated Statute of the International Criminal Tribunal for the 
+Former  Yugoslavia  (Sept.  2009),  http://www.icty.org/x/file/Legal%20Library/Statute/ 
+statute_sept09_en.pdf. 2012]    virtual witness confrontation in criminal cases  1295 
+  According to the jurisprudence of the Tribunal, video conferencing 
+is an extension of the Trial Chamber to the location of the witness that 
+neither denies the accused his or her right to confront the witness, nor 
+causes him or her material prejudice by the physical absence of the 
+witness. Video conferencing therefore respects the right of the accused 
+to cross-examine and directly confront witnesses while observing their 
+reactions,  and  allows  the  Chamber  to  assess  the  credibility  and 
+reliability of the testimony in the same manner as for a witness in the 
+courtroom. Testimony by video-conference link should be given as much 
+probative value as testimony presented in the courtroom.44 
+  Even when the ICTY determines that allowing remote witness 
+testimony is in the interests of justice, however, the Tribunal has 
+emphasized  the  need  for  safeguards  to  ensure  that  the  remote 
+testimony is as similar as possible to live, in-person testimony. In its 
+Tadíc decision, for example, the Tribunal suggested implementing the 
+following guidelines for the orderly conduct of video-link testimony. 
+First, the testimony should be given in an appropriate venue, such as 
+a courtroom or embassy, where the witness would be encouraged to 
+give truthful and open testimony and where “the safety and solemnity 
+of the proceedings” can be guaranteed.45 In addition, a “Presiding 
+Officer” should be present to oversee the proceedings, administer an 
+oath so that witnesses understand their obligation to speak truthfully 
+or face prosecution for perjury, and ensure that testimony is given 
+freely  and  voluntarily.46  Finally,  the  technology  must  incorporate 
+monitors that allow witnesses to view “the Judges, the accused, and 
+the questioner,” and vice versa.47 
+                                                                                                                       
+  44.  Gotovina,  Case  No.  IT-06-90-T,  Reasons  for  Decision  Granting 
+Prosecution’s Motion To Cross-Examine Four Proposed Rule 92 bis Witnesses and 
+Reasons for Decision To Hear the Evidence of Those Witnesses via Video-Conference 
+Link, ¶ 8; see also, e.g., Prosecutor v. Karadžić, Case No. IT-95-5/18-T, Decision on 
+Prosecution’s Motion for Testimony To Be Heard via Video-Conference Link, ¶ 9 (Int’l 
+Crim. Trib. for the Former Yugoslavia June 17, 2010) (agreeing that the use of 
+videoconference link would not violate the accused’s right to confront the witness); 
+Prosecutor v. Milutinović, IT-05-87, Decision on Prosecution Motion for Testimony of 
+K58 To Be Heard via Video Link Conference, ¶ 2 (Int’l Crim. Trib. for the Former 
+Yugoslavia Nov. 1, 2006) (granting a motion for video-link testimony with the same 
+reasoning as the Gotovina court). It bears noting that in its first case considering the 
+possibility of remote witness testimony in 1996, the Tribunal initially suggested that 
+the “evidentiary value of testimony provided by video-link, although weightier than 
+that of testimony given by deposition, is not as weighty as testimony given in the 
+courtroom.” Tadíc, Case No. IT-94-1-T, Decision on the Defence Motions To Summon 
+and Protect Defence Witnesses, and on the Giving of Evidence by Video-Link, ¶ 21. 
+  45.  Tadíc, Case No. IT-94-1-T, Decision on the Defence Motions To Summon 
+and Protect Defence Witnesses, and on the Giving of Evidence by Video-Link, ¶ 22. 
+  46.  Id. 
+  47.  Id. 1296   vanderbilt journal of transnational law  [vol. 45:1283 
+2.  The International Criminal Tribunal for Rwanda48 
+  The ICTR also allows witnesses to testify remotely under some 
+circumstances  that  similarly  balance  the  interests  of  the  various 
+parties to the proceeding. Although Rule 90(A) of the ICTR’s Rules of 
+Procedure  and  Evidence49  states  that  witnesses  should  testify  in 
+person at the court, the ICTR permits remote VCT witness testimony 
+when  “‘necessary  to  safeguard  the  witness’s  security’  or  in  the 
+interest of justice.”50 In determining whether VCT witness testimony 
+is in the interests of justice, the ICTR considers: (1) “the importance 
+of  [the  witness’s]  testimony,”  (2)  “the  witness’s  inability  or 
+unwillingness to attend,” and (3) “whether a good reason has been 
+adduced  for  that  inability  or  unwillingness.”51  The  party  seeking 
+provision  for  remote  witness  testimony  bears  the  burden  of 
+demonstrating “that the witness has a credible basis for refusal, and 
+that those grounds are genuinely held, giving a Chamber reason to 
+believe that he or she will not testify unless a Chamber allows the 
+witness  to  do  so  via  video-link.”52  When  ruling  on  a  request  for 
+testimony by VCT, the ICTR will also consider the rights of the 
+parties to the proceeding “by ensuring in particular that the witness’s 
+appearance on a video screen instead of his/her physical presence in 
+the courtroom does not reduce the parties’ ability to evaluate his/her 
+testimony and to cross-examine him/her.”53  
+  On the question of what constitutes a valid reason for a witness 
+to be deemed genuinely unable or unwilling to testify in person, it 
+                                                                                                                       
+  48.  The United Nations established the ICTR in 1994 to preside over crimes 
+committed during the civil war in Rwanda. See generally VIRGINIA MORRIS & MICHAEL 
+P. SCHARF, THE INTERNATIONAL CRIMINAL TRIBUNAL FOR RWANDA (1998) (providing an 
+in-depth account of the creation of the Tribunal and its governing rules and statute). 
+  49.  Rule 90(A) of the ICTR Rules of Procedure and Evidence states that 
+“[w]itnesses shall, in principle, be heard directly by Chambers.” Rules of Procedure and 
+Evidence of the International Criminal Tribunal for Rwanda, Rule 90(A), U.N. Doc. 
+ITR/3/REV.1 (June 29, 1995). 
+  50.  Prosecutor  v.  Nizeyimana,  Case  No.  ICTR-00-55C-T,  Decision  on 
+Prosecutor’s Extremely Urgent Motion for Testimony via Video-Link, ¶ 5 (Feb. 14, 
+2011)  (quoting  Prosecutor  v.  Bagosora,  Case  No.  ICTR-98-41-T,  Decision  on  the 
+Prosecution Request for Testimony of Witness BT via Video-Link (TC), ¶ 8 (Oct. 8, 
+2004)). 
+  51.  Id. ¶ 6. 
+  52.  Id. 
+  53.  Prosecution  v.  Muvunyi,  Case  No.  ICTR-2000-55A-PT,  Decision  on 
+Prosecution’s Motion To Have Prosecution Witness NN Testify by Video-Link, ¶ 2 (Dec. 
+30, 2008). Like the ICTY Statute, the Statute for the ICTR provides that an accused 
+has the right “[t]o examine, or have examined, the witnesses against him or her and to 
+obtain the attendance and examination of witnesses on his or her behalf under the 
+same  conditions  as  witnesses  against  him  or  her.”  Statute  of  the  International 
+Criminal Tribunal for Rwanda art. 20(4)(e), Nov. 8, 1994, 33 I.L.M. 1598, available at 
+http://www.unictr.org/Portals/0/English/Legal/Statute/2010.pdf. 2012]    virtual witness confrontation in criminal cases  1297 
+appears that health, safety, and work-related travel concerns can all 
+be  sufficient  in  some  instances.  In  Prosecutor  v.  Rukundo,  the 
+Tribunal allowed a witness to testify remotely for the prosecution 
+because medical documentation demonstrated that he was too ill to 
+travel from Rwanda to Arusha.54 It also permitted another witness in 
+the  case  to  testify  by  video  when  affidavit  evidence  showed  the 
+witness had been victimized in Rwanda after previously testifying 
+before the Tribunal and feared similar reprisals should he be seen 
+leaving Rwanda to testify again.55 Indeed, in that case, the ICTR also 
+rejected  the  defense’s  request  to  require  the  parties  to  travel  to 
+Rwanda to hear the witnesses testify in person, stating: 
+The Chamber is not convinced that such a course of action is necessary 
+in order to safeguard the right of the Accused to confront witnesses 
+against  him,  or  for  the  preparation  of  cross-examination.  In  the 
+Chamber’s  view  the  right  of  the  Accused  to  a  fair  trial  will  be 
+adequately  preserved  by  allowing  each  of  the  Parties  to  send  a 
+representative to the venue of the video-link proceedings to look after 
+their respective interests. However, all the examinations of the witness 
+will be conducted from the courtroom in Arusha.56 
+  Regarding  work-related  travel  concerns,  in  Prosecutor  v. 
+Nchamihigo, the ICTR concluded that the prosecution had met its 
+burden of showing a witness was unable or unwilling to testify in 
+person  when  the  evidence  showed  the  witness  was  under  travel 
+restrictions imposed by his employer.57 The Tribunal explained that 
+the prosecution had attempted to negotiate the witness’s release from 
+his employer, but that the employer had continued to refuse.58 In 
+such  circumstances,  allowing  the  witness  to  testify  remotely 
+furthered the “interest of justice” standard.59 Conversely, the ICTR 
+decided there was no credible basis for a witness’s refusal to testify 
+when the witness claimed in only vague terms and only one week 
+before he was scheduled to testify that he feared he would lose his job 
+or face harassment at work if he were required to appear in person at 
+the Tribunal.60  
+                                                                                                                       
+  54.  Prosecutor  v.  Rukundo,  Case  No.  ICTR-2001-70-PT,  Decision  on  the 
+Prosecutor’s Urgent Motion for Witnesses BPA and BLR To Give Testimony via Video-
+Link, ¶ 13 (Mar. 1, 2007). 
+  55.  Id. ¶¶ 5, 14. 
+  56.  Id. ¶ 15. 
+  57.  Prosecutor  v.  Nchamihigo,  Case  No.  ICTR-2001-63-T,  Decision  on  the 
+Prosecution Motion To Hear the Testimony of Witness LM by Video-Link, ¶¶ 5–6 (Jan. 
+25, 2007). 
+  58.  Id. ¶ 6. 
+  59.  Id. ¶ 7. 
+  60.  See  Prosecutor  v.  Nizeyimana,  Case  No.  ICTR-00-55C-T,  Decision  on 
+Prosecutor’s Extremely Urgent Motion for Testimony via Video-Link, ¶¶ 1, 8 (Feb. 14, 
+2011) (emphasizing that the defendant’s fear of losing employment is not a credible 
+basis for a refusal to testify). 1298   vanderbilt journal of transnational law  [vol. 45:1283 
+  In  sum,  the  ICTR  has  concluded  in  various  situations  that 
+allowing  some  witnesses  to  testify  remotely  would  further  the 
+interests of justice and also properly balance the interests of the 
+various parties to the proceeding, while still ensuring a fair trial. 
+However, the ICTR has also emphasized that “[h]earing testimony via 
+video-link is an exceptional measure, granted only upon sound and 
+legitimate justification based on proper documentation.”61 Moreover, 
+a review of the Tribunal’s jurisprudence indicates that not all judges 
+are convinced that testimony by VCT truly and fully replicates the 
+experience of live, in-person witness testimony. In a 2006 decision, 
+one chamber of the ICTR expressed concerns about the Tribunal’s 
+ability to assess the demeanor of a particularly important prosecution 
+witness  should  that  witness  testify  remotely.62  In  considering  a 
+prosecution motion urging a reconsideration of the chamber’s decision 
+denying the request to allow that witness to testify by VCT, the 
+chamber  explained  that  although  it  agreed  the  prosecution  had 
+shown that the witness had reasons to fear for his safety should he 
+testify in person, it was also satisfied that the ICTR could provide 
+heightened security measures sufficient to ensure the witness’s safety 
+in Arusha.63 In a subsequent case, Prosecutor v. Nizeyimana, the 
+ICTR  again  emphasized  the  ability  of  the  court  in  Arusha  to 
+safeguard witnesses to allow for testimony in person.64 The Tribunal 
+noted that it was willing to accommodate witnesses who fear for their 
+safety, but that those witnesses would only be able to testify remotely 
+upon affidavit evidence clearly stating the precise nature of their 
+fears and when it found there were no other appropriate methods to 
+ensure the witness’s safety in Arusha.65 
+                                                                                                                       
+  61.  Prosecutor v. Ndahimana, Case No. ICTR-2001-68-T, Decision on Defence 
+Motion To Hear the Testimony of Witnesses BX7 and FB1 via Video Link, ¶ 16 (Feb. 
+25, 2011).  
+  62.  Prosecutor v. Zigranyirazo, Case No. ICTR-2001-73-T, Decision on the 
+Prosecution Joint Motion for Re-Opening Its Case and for Reconsideration of the 31 
+January 2006 Decision on the Hearing of Witness Michel Bagaragaza via Video-Link, 
+¶ 22 (Nov. 16, 2006). 
+  63.  Id. ¶ 24.  
+  64.  See  Nizeyimana,  Case  No.  ICTR-00-55C-T,  Decision  on  Prosecutor’s 
+Extremely Urgent Motion for Testimony via Video-Link, ¶ 5 (stating that, while 
+witnesses should generally appear in person, testimony in lieu of physical appearance 
+may be used “when necessary to safeguard the witness’s security” (quoting Prosecutor 
+v.  Bagosora,  Case  No.  ICTR-98-41-T,  Decision  on  the  Prosecution  Request  for 
+Testimony of Witness BT via Video-Link (TC), ¶ 8 (Oct. 8, 2004)). 
+  65.  See id. (stating that the burden of proof rests with the party making the 
+request to show the grounds of the witness’s fear and that the witness would not testify 
+other than by video-link). 2012]    virtual witness confrontation in criminal cases  1299 
+3.  The Special Court for Sierra Leone66 
+  According to Rule 85(D) of the Rules of Procedure and Evidence 
+of the SCSL, “[e]vidence may be given directly in court, or via such 
+communications media, including video, closed-circuit television, as 
+the  Trial  Chamber  may  order.”67  Decisions  of  the  SCSL  provide 
+guidance on when remote video testimony is proper under Rule 85(D). 
+Similar to the ICTY and ICTR, the SCSL allows remote testimony by 
+VCT only when it would further the interests of justice and after 
+considering the particular circumstances making the witness unable 
+to travel to the court.68 Indeed, in Prosecutor v. Taylor, the court 
+rejected  the  prosecution’s  request  for  a  rule  allowing  parties  to 
+present witness testimony by VCT as a general matter unless the 
+party opposing the request showed good cause as to why denying the 
+remote  method  of  testimony  existed  for  a  particular  witness.69 
+Rather,  the  court  noted  that  although  Rule  85(D)  imposes  no 
+conditions on the use of video testimony, it and other rules of the 
+court demonstrate a general preference for witnesses to give evidence 
+directly in the presence of the court.70 Even though the rules also do 
+not require “a face to face” confrontation between the accused and 
+every individual, the court emphasized that it must make decisions 
+about the conduct of the trial that further the “interests of justice,” 
+                                                                                                                       
+  66.  The SCSL was established by agreement between the United Nations and 
+the Government for Sierra Leone in August 2000. The SCSL has the power to 
+prosecute persons who are most responsible for serious violations of international 
+humanitarian and Sierra Leone law committed in Sierra Leone since 1996. Statute of 
+the Special Court for Sierra Leone art. 1, Aug. 14, 2000, 2178 U.N.T.S. 138 [hereinafter 
+SCSL  Statute],  available  at  http://www.sc-sl.org/LinkClick.aspx?fileticket=uClnd1M 
+JeEw%3d&tabid=176. 
+  67.  SPECIAL CT. FOR SIERRA LEONE R. P. & EVID., available at http://www.sc-
+sl.org/LinkClick.aspx?fileticket=yNjqn5TIYKs%3d&tabid=176. 
+  68.  See, e.g., Prosecutor v. Taylor, Case No. SCSL-03-1-T, Decision on Public 
+Prosecution Motion To Allow Witness TF1-303 To Give Testimony by Video-Link (Nov. 
+18, 2008) (granting prosecution’s unopposed motion to permit remote testimony where 
+witness recently gave birth);  Prosecutor v. Taylor, Case No. SCSL-03-01-PT-217, 
+Decision on Prosecution Motion To Allow Witnesses To Give Testimony by Video-Link), 
+¶¶ 25–27  (Mar.  30,  2007),  http://www.sc-sl.org/Documents/SCSL-03-01-PT-217.pdf 
+(denying prosecution motion for a general order allowing parties to present testimony 
+remotely unless the opposing party shows good cause to deny this method of receiving 
+testimony by particular witnesses). 
+  69.  Taylor, Case No. SCSL-03-01-PT-217, Decision on Prosecution Motion To 
+Allow Witnesses To Give Testimony by Video-Link, ¶¶ 25–27. 
+  70.  Id. ¶¶ 22–24. The SCSL does not grant the accused a right to confront or be 
+confronted by the witnesses against him. However, pursuant to Article 17 § (4)(e) of the 
+Statute of the Special Court for Sierra Leone, among the rights guaranteed to an 
+accused is the right “[t]o examine, or have examined, the witnesses against him or her 
+and to obtain the attendance and examination of witnesses on his or her behalf under 
+the same conditions as witnesses against him or her.” SCSL Statute, supra note 66. 1300   vanderbilt journal of transnational law  [vol. 45:1283 
+and  not  for  “no  reason  at  all.”71  The  court  concluded  that  any 
+decisions to exercise its discretion to permit remote VCT witness 
+testimony would take into account the interests of justice, would be 
+considered on a case-by-case basis, and would address the particular 
+circumstances making the witness unable to come to the court.72 
+  Like the ICTY, the SCSL has also required that some safeguards 
+be  implemented  so  that  remote  witness  testimony  resembles  in-
+person  courtroom  testimony  as  much  as  possible.  The  court  has 
+required witnesses to testify from a courtroom where the “safety and 
+solemnity  of  the  proceedings”  can  be  guaranteed.73  It  has  also 
+required  the  presence  of  a  “Courtroom  Officer”  to  oversee  the 
+proceedings, to inform witnesses of their duty to testify truthfully or 
+be  subject  to  a  prosecution  for  perjury,  and  to  “ensure  that  the 
+testimony is given freely and voluntarily.”74 In addition, the court has 
+permitted the parties to have a representative in the remote location 
+to  monitor  the  proceedings.75  Finally,  as  to  the  adequacy  of  the 
+technology, the SCSL requires that witnesses be able to view “the 
+Judges, the Accused and the questioner” from a monitor.76  
+4.  The International Criminal Court77 
+  Under Rule 67 of the ICC’s Rules of Procedure and Evidence, the 
+ICC  may  permit  a  witness  to  testify  remotely  by  audio  or  video 
+provided that (1) the technology permits the witness to be examined 
+by all parties at the time of the witness’s testimony and (2) the trial 
+chamber ensures the “venue chosen for the conduct of the audio or 
+video-link testimony is conducive to the giving of truthful and open 
+testimony and to the safety, physical and psychological well-being, 
+                                                                                                                       
+  71.  Taylor, Case No. SCSL-03-01-PT-217, Decision on Prosecution Motion To 
+Allow Witnesses To Give Testimony by Video-Link, ¶¶ 25–26. 
+  72.  Id. ¶ 26. 
+  73.  Taylor, Case No. SCSL-03-1-T, Decision on Public Prosecution Motion To 
+Allow Witness TF1-303 To Give Testimony by Video-Link, 3. 
+  74.  Id. 
+  75.  Id. 
+  76.  Id. 
+  77.  The ICC came into existence in July 2002 after the required sixty states 
+had ratified the Rome Statute creating the court. The ICC is the first permanent, 
+treaty-based international criminal court. States that have ratified the treaty creating 
+the ICC agree that investigations may be commenced against the state’s own nationals 
+for the covered crimes of genocide, crimes against humanity, or war crimes, as long as 
+those crimes were committed after the court came into existence or after the state 
+ratified the treaty, whichever is later. Rome Statute of the International Criminal 
+Court art. 11, July 17, 1998, 2187 U.N.T.S. 3, 91 [hereinafter Rome Statute]. 2012]    virtual witness confrontation in criminal cases  1301 
+dignity  and  privacy  of  the  witness.”78  The  limited  case  law 
+interpreting  and  applying  Rule  67  in  the  ICC’s  relatively  brief 
+existence suggests that the court views it as broadly authorizing 
+remote witness testimony. While recognizing the presumption that 
+witnesses will ordinarily testify live,79 the court has stated that it will 
+authorize the use of audio or video-link testimony when necessary, so 
+long as the venue for the testimony would be conducive to “‘the giving 
+of  truthful  and  open  testimony  and  to  the  safety,  physical  and 
+psychological well-being, dignity and privacy of the witness.’”80 It has 
+also  emphasized  that  it  is  not  required  to  limit  applications  for 
+remote video testimony to only those situations in which witnesses 
+were unwilling or unable to attend court proceedings for medical or 
+other reasons.81 Rather, “subject to the fundamental dictates of a fair 
+trial,” the ICC may consider a wide variety of factors in determining 
+whether under the circumstances of the particular case a witness 
+should be permitted to testify remotely using VCT.82  
+                                                                                                                       
+  78.  INT’L  CRIM.  CT.  R.  P.  &  EVID.,  available  at  http://www.icc-cpi.int/NR/ 
+rdonlyres/F1E0AC1C-A3F3-4A3C-B9A7-B3E8B115E886/140164/Rules_of_procedure_ 
+and_Evidence_English.pdf. 
+  79.  See  Rome  Statute,  supra  note  77,  art.  69(2)  (providing  that  witness 
+testimony shall be given in person unless provided by Article 68 or other rules). 
+Whether the ICC can actually require witnesses to travel to the Hague to testify in 
+person, however, is another matter. Article 64(6)(b) of the Rome Statute empowers the 
+court to “[r]equire the attendance and testimony of witnesses,” but Article 93(1)(e) 
+imposes upon States Party only the duty to facilitate the voluntary appearance of 
+individuals to appear as witnesses. See Claus Kress, The Procedural Law of the 
+International Criminal Court in Outline: Anatomy of a Unique Compromise, 1 J. INT’L 
+CRIM. JUST. 603, 616 (2003) (noting the apparent inconsistency between the two 
+articles). 
+  80.  Prosecutor  v.  Lubanga  Dyilo,  Case  No.  ICC-01/04-01/06,  Decision  on 
+Various Issues Related to Witnesses’ Testimony During Trial, ¶ 41 (Jan. 29, 2008) 
+(citing INT’L CRIM. CT. R. P. & EVID. 67(3)). The court further explained that it would 
+make decisions about allowing such remote testimony “on a case-by-case basis, taking 
+into account the views and concerns of the witness, the parties and, where relevant, the 
+participants.” Id. 
+  81.  See Prosecutor v. Lubanga Dyilo, Case No. ICC-01/04/01-06, Redacted 
+Decision on the Defence Request for a Witness To Give Evidence via Video-Link, 
+¶¶ 3, 15–16 (Feb. 9, 2010) (granting defense’s request to permit adult witness to testify 
+remotely where witness lived in conditions of extreme poverty, had never used many 
+modern conveniences, had no passport, and would have been extremely vulnerable and 
+uncomfortable if she had to leave the general area where she currently resided); see 
+also Prosecutor v. Bemba Gombo, Case No. ICC-01/05-01/08-947, Redacted Decision on 
+the “Request for the Conduct of the Testimony of Witness CAR-OTP-WWWW-0108 by 
+Video-Link,” ¶¶ 5–15 (Oct. 12, 2010) (rejecting defense’s suggestion that remote VCT 
+adult witness testimony should only be allowed in cases where medical reasons 
+physically prevent witnesses from traveling or where testifying live would affect 
+psychological well-being of witness). 
+  82.  Lubanga, Case No. ICC-01/04/01-06, Redacted Decision on the Defence 
+Request for a Witness To Give Evidence via Video-Link, ¶ 15. 1302   vanderbilt journal of transnational law  [vol. 45:1283 
+  In fact, in Prosecutor v. Bemba Gombo, the ICC explained that 
+Rule 67 permits remote VCT witness testimony “whenever necessary, 
+provided that the Statute and the Rules are respected and that such 
+measures are not prejudicial to, or inconsistent with, the rights of the 
+accused.”83 The court noted that the rights granted to the accused 
+according to Article 67(1)(e) of the Rome Statute are to “examine or 
+have examined the witnesses against him or her.”84 Because VCT 
+technology permits the witness to be examined by the defense at the 
+time the witness is testifying remotely in court,85 the court stated 
+that the rights granted to an accused are therefore not compromised 
+by remote testimony.86  
+                                                                                                                       
+  83.  Bemba, Case No. ICC-01/05-01/08-947, Redacted Decision on the “Request 
+for the Conduct of the Testimony of Witness CAR-OTP-WWWW-0108 by Video-Link,” 
+¶ 10. 
+  84.  Id. ¶ 11 (internal quotation marks omitted). Although an earlier draft of 
+the Rome Statute guaranteed an accused the right to “confront and cross-examine” 
+witnesses, the final draft adopted the text of Article 14(3)(e) of the International 
+Covenant on Civil and Political Rights and, pursuant to Article 67(1)(e), guarantees an 
+accused the right “[t]o examine, or have examined, the witnesses against him or her.” 
+William A. Schabas, Rights of the Accused, in COMMENTARY ON THE ROME STATUTE OF 
+THE INTERNATIONAL CRIMINAL COURT: OBSERVERS’ NOTES, ARTICLE BY ARTICLE 845, 
+859 (Otto Tiffterrer ed., 1999). Therefore, the rights granted to an accused under the 
+Rome Statute as concerns examining witnesses are identical to those provided to an 
+accused in the statutes creating the ICTY, ICTR, and SCSL. Compare Rome Statute, 
+supra note 77, art. 67(1)(e), with supra notes 43, 53, 70 (discussing the similar 
+provisions of the ICTY, ICTR, and SCSL). 
+  85.  Reports indicate that the ICC technology allowing for remote VCT witness 
+testimony  functioned  well  during  trials.  See  Duane  W.  Krohnke,  International 
+Criminal  Court:  Recent  Developments  in  Other  ICC  Investigations  and  Cases, 
+DWKCOMMENTARIES, (Nov. 11, 2011, 4:53 AM) http://dwkcommentaries.wordpress.com/ 
+2011/11/18/international-criminal-court-recent-developments-in-other-icc-
+investigations-and-cases/ (reporting by ICC Deputy Prosecutor on developments in the 
+ICC and noting that some witnesses in the situation for the Democratic Republic of the 
+Congo (DRC) testified by way of video-link from the DRC without any technical 
+problems). 
+  86.  See  Bemba,  Case  No.  ICC-01/05-01/08-947,  Redacted  Decision  on  the 
+“Request for the Conduct of the Testimony of Witness CAR-OTP-WWWW-0108 by 
+Video-Link,” ¶¶ 1–2, 12 (granting request to permit prosecution witness to testify 
+remotely by VCT because of witness’s personal circumstances, which appear from the 
+redacted decision to have required his presence at important work); see also Prosecutor 
+v.  Bemba  Gombo,  ICC-01/05-01/08-2101-Red2,  Public  Redacted  Decision  on  the 
+“Prosecution Request To Hear Witness CAR-OTP-PPPP-0036’s Testimony via Video-
+Link,” ¶¶ 9–10 (Feb. 3, 2012) (permitting prosecution witness to testify remotely by 
+VCT given witness’s health status and because the defense’s ability to appropriately 
+question the witness would “mitigate any prejudice to the accused’s rights as enshrined 
+in Article 67(1)(e) of the Statute”). 2012]    virtual witness confrontation in criminal cases  1303 
+B. Remote VCT Prosecution Testimony in Federal Courts 
+in the United States 
+  This subpart focuses on federal court decisions, rather than state 
+court decisions, because in the United States, maritime piracy is a 
+crime under federal law.87 Accordingly, it is the federal courts in the 
+United States that are most likely to face the question of whether to 
+allow adult prosecution witnesses to testify by two-way, live VCT in 
+the types of cases with which this Article is concerned.  
+  Like the international criminal courts, some federal courts in the 
+United States have permitted adult prosecution witnesses to testify 
+remotely  in  criminal  cases.  A  review  of  the  case  law,  however, 
+indicates some wariness in allowing prosecution witnesses to testify 
+remotely.  Moreover,  that  review  shows  that  the  various  federal 
+courts—and  even  individual  judges  within  those  courts—do  not 
+necessarily agree on the circumstances under which that testimony is 
+proper.  
+  One reason for this lack of an apparent consensus is the fact that 
+the Supreme Court has not actually taken a case requiring it to 
+decide  whether  and  under  what  circumstances  adult  prosecution 
+witnesses are constitutionally permitted to testify by two-way, live 
+VCT in criminal cases. As a result, lower courts are left to interpret 
+other relevant existing Supreme Court precedent to determine the 
+precise nature of a defendant’s rights under the Confrontation Clause 
+of the Sixth Amendment to the U.S. Constitution, which grants the 
+accused the right to “be confronted with the witnesses against him.”88 
+Some federal courts view the Confrontation Clause as essentially 
+guaranteeing the defendant a general right to contemporaneously 
+cross-examine adverse witnesses.89 Under this view, a defendant’s 
+Confrontation Clause rights do not differ substantially from the fair-
+trial rights guaranteed to defendants under the rules of the various 
+international criminal courts and the International Covenant on Civil 
+and Political Rights, which grant the accused a right “to examine or 
+have examined” the witnesses against him.90 However, some courts in 
+                                                                                                                       
+  87.  See 18 U.S.C. § 1651 (2006) (stating that piracy as defined by the law of 
+nations is a federal crime). 
+  88.  U.S. CONST. amend. VI. 
+  89.  See, e.g., Marc Chase McAllister, Two-Way Video Trial Testimony and the 
+Confrontation Clause: Fashioning a Better Craig Test in Light of Crawford, 34 FLA. ST. 
+U.  L.  REV.  836,  841–42  (2007)  (describing  the  underlying  protections  of  the 
+Confrontation Clause according to Supreme Court precedents as encompassing a right 
+to cross-examine adverse witnesses and a right to a face-to-face confrontation). 
+  90.  See  sources  cited  supra  note  84.  The  European  Convention  for  the 
+Protection of Human Rights and Fundamental Freedoms (ECHR) similarly grants an 
+accused the right “to examine or have examined the witnesses against him.” European 
+ 1304   vanderbilt journal of transnational law  [vol. 45:1283 
+the United States view a defendant’s Confrontation Clause rights as 
+including a more specific right to examine witnesses face-to-face in 
+the defendant’s physical presence.91 Whether a court in the United 
+States is more or less inclined to permit remote prosecution-witness 
+testimony  in  criminal  cases  depends  in  part  on  the  level  of 
+significance  it  attaches  to  the  face-to-face  component  of  the 
+defendant’s Confrontation Clause rights.92 
+  This subpart discusses the two Supreme Court cases that have 
+so far guided lower federal court decisions on whether to permit adult 
+prosecution witnesses to testify remotely in criminal cases. It then 
+discusses the two different tests that the federal appellate courts 
+have used to determine whether to admit this testimony in light of 
+the  Supreme  Court’s  guidance.  The  subpart  concludes  by  briefly 
+noting  some  more  recent  developments  in  the  Supreme  Court’s 
+jurisprudence as relates to the Confrontation Clause and the question 
+of when adult witnesses might be able to testify remotely by two-way, 
+live video in criminal cases.  
+1.  U.S. Supreme Court Cases Guiding Lower Court Decisions on 
+Whether to Admit Remote Adult Prosecution-Witness Testimony 
+  The Supreme Court cases to which the lower courts have turned 
+for  guidance  when  deciding  whether  to  permit  remote  adult 
+prosecution-witness testimony are Coy v. Iowa93 and Maryland v. 
+Craig.94 Both of those cases addressed the nature of the defendant’s 
+Confrontation Clause rights in the context of live testimony by child 
+witnesses during trial, but outside the immediate presence of the 
+defendant.  As  the  discussion  of  those  cases  below  illustrates, 
+however, the Court has not been exactly consistent—or unanimous—
+in its statements about the nature of a defendant’s Confrontation 
+Clause rights and how absolutely the clause requires witnesses to 
+                                                                                                                       
+Convention for the Protection of Human Rights and Fundamental Freedoms art. 
+6(3)(d), June 1, 2010, C.E.T.S. No. 5, amended by Protocol Nos. 11, 14. The ECHR was 
+adopted in 1950 and entered into force in 1953. All forty-seven member states of the 
+Council of Europe have ratified it. See DAVID HARRIS, MICHAEL O’BOYLE & COLIN 
+WARBRICK, LAW OF THE EUROPEAN CONVENTION ON HUMAN RIGHTS 1–2 (2d ed. 2009). 
+  91.  See, e.g., United States v. Yates, 438 F.3d 1307, 1312–14 (11th Cir. 2006) 
+(en banc) (holding that the accused has a right to physical face-to-face confrontation). 
+  92.  Compare United States v. Gigante, 166 F.3d 75, 80–81 (2d Cir. 1999) 
+(disagreeing with defendant that Sixth Amendment Confrontation Clause rights could 
+only be preserved by “face-to-face confrontation with [witnesses] in the same room”), 
+with Yates, 438 F.3d at 1315–16 (suggesting that the Confrontation Clause grants the 
+defendant a “right to face-to-face physical confrontation” that can only be denied in 
+certain limited circumstances and indicating that “confrontation through a video 
+monitor is not the same as physical face-to-face confrontation”). 
+  93.  487 U.S. 1012 (1988). 
+  94.  497 U.S. 836 (1990). 2012]    virtual witness confrontation in criminal cases  1305 
+testify  face-to-face  in  the  physical  presence  of  the  defendant  in 
+criminal cases.  
+a.  Coy v. Iowa 
+  In Coy v. Iowa, the Supreme Court reversed a sexual-assault 
+conviction, concluding that the lower court’s decision to permit two 
+child witnesses to testify behind a large screen where they could not 
+see  the  defendant  violated  the  defendant’s  Confrontation  Clause 
+rights.95 In reaching this conclusion, Justice Scalia, writing for the 
+majority, stated: “We have never doubted . . . that the Confrontation 
+Clause  guarantees  the  defendant  a  face-to-face  meeting  with 
+witnesses  appearing  before  the  trier  of  fact.”96  Justice  Scalia 
+suggested that requiring witnesses to physically face the defendant 
+serves several important purposes, including making it less likely 
+that witnesses will lie since “[i]t is always more difficult to tell a lie 
+about a person to his face than behind his back.”97 Furthermore, even 
+if the witness does lie, Justice Scalia suggested that the lie would be 
+less convincing when recited in the presence of the defendant and the 
+trier of fact.98 Thus, he stated that like a less explicit component of 
+the Confrontation Clause, which gives the defendant the right to 
+cross-examine his accuser, the component granting the defendant the 
+right  to  face-to-face  confrontation  also  serves  to  “ensur[e]  the 
+integrity of the fact-finding process.”99 
+  Even though the Court found that the defendant’s Confrontation 
+Clause  rights  were  violated  in  the  instant  case,  Justice  Scalia 
+nevertheless  recognized  that  the  “rights  conferred  by  the 
+Confrontation Clause are not absolute, and may give way to other 
+important interests.”100 It declined to provide particulars, but the 
+Court  stated  that  any  exceptions  to  the  Confrontation  Clause 
+protections “would surely be allowed only when necessary to further 
+an important public policy.”101 However, because there had been “no 
+individualized findings that these particular witnesses needed special 
+protection,” the Supreme Court held that the lower court’s decision to 
+permit them to testify behind a screen “could not be sustained by any 
+conceivable exception.”102  
+                                                                                                                       
+  95.  Coy, 487 U.S. at 1014–15, 1022. 
+  96.  Id. at 1016. 
+  97.  Id. at 1019 (internal quotation marks omitted). 
+  98.  Id. 
+  99.  Id. at 1019–20 (quoting Kentucky v. Stincer, 482 U.S. 730, 736 (1987)) 
+(internal quotation marks omitted). 
+  100.  Id. at 1020. 
+  101.  Id. at 1021. 
+  102.  Id. 1306   vanderbilt journal of transnational law  [vol. 45:1283 
+  It bears noting that in Coy, four Justices wrote or joined in 
+separate  concurring  or  dissenting  opinions  to  voice  some 
+disagreements  with  the  majority’s  reasoning  as  it  related  to  the 
+nature  and  extent  of  the  rights  afforded  defendants  under  the 
+Confrontation Clause.103 In her concurring opinion in which Justice 
+White joined, Justice O’Connor emphasized that any right conferred 
+by  the  Confrontation  Clause  requiring  the  witness  to  face  the 
+defendant physically was not absolute.104 She noted that the Court 
+had  stated  on  many  prior  occasions  that  the  “[c]lause  reflects  a 
+preference  for  face-to-face  confrontation  at  trial”  and  that  the 
+“preference may be overcome in a particular case if close examination 
+of competing interests so warrants.”105 She further suggested that 
+most state laws protecting child witnesses would be unaffected by the 
+Court’s  opinion  and  should  not  raise  substantial  Confrontation 
+Clause problems because those laws typically provide for testimony 
+by  one-  or  two-way,  closed-circuit  television,  which  means  that 
+testimony is essentially in the presence of the defendant.106  
+  The dissent written by Justice Blackmun, and in which Chief 
+Justice  Rehnquist  joined,  took  issue  with  the  Coy  majority’s 
+conclusion that the plain language of the Confrontation Clause was 
+meant to ensure that the witness testify face-to-face in the physical 
+presence of the defendant.107 Those Justices argued instead that the 
+Clause’s primary purpose is to ensure that defendants are permitted 
+to  cross-examine  the  witnesses  against  them.108  To  support  their 
+argument,  the  dissent  referenced  Supreme  Court  precedent 
+recognizing “that the Confrontation Clause was designed to prevent 
+the use of ex parte affidavits, to provide the opportunity for cross-
+examination, and to compel the defendant to stand face to face with 
+the jury.”109 Justice Blackmun further referenced the work of John 
+Henry Wigmore, who argued that the very existence of the hearsay 
+rule demonstrated that the right to confrontation is provided not so 
+                                                                                                                       
+  103.  See id. at 1022–35 (O’Connor and White, JJ., concurring, and Blackmun, J., 
+and Rehnquist, C.J., dissenting). 
+  104.  Id. at 1024 (internal quotation marks omitted). 
+  105.  Id. (quoting Ohio v. Roberts, 448 U.S. 56, 63–64 (1980)) (internal quotation 
+marks omitted).  
+  106.  Id. at 1023–24 (quoting Roberts, 448 U.S. at 63–64) (internal quotation 
+marks omitted). 
+  107.  See id. at 1021; id. at 1028 (Blackmun, J., and Rehnquist, C.J., dissenting) 
+(arguing that the Court’s “apparent fascination with the witness’ ability to see the 
+defendant” will lead to sacrifice of other more important confrontation interests). 
+  108.  See id. at 1029 (Blackmun, J., and Rehnquist, C.J., dissenting) (analyzing 
+Supreme Court precedent discussing the Confrontation Clause right in terms of the 
+right to cross-examine). 
+  109.  Id. at 1028 (quoting California v. Green, 399 U.S. 149, 158 (1970)) (internal 
+quotation marks omitted). 2012]    virtual witness confrontation in criminal cases  1307 
+that  the  witness  and  defendant  can  “gaze”  upon  each  other,  but 
+instead to allow for cross-examination.110  
+b.  Maryland v. Craig 
+  Just two years later, in Maryland v. Craig, the Supreme Court 
+again addressed the question of whether the Confrontation Clause 
+permitted a child witness to testify live during a trial, but outside of 
+the presence of the defendant.111 This time, Justice O’Connor wrote 
+for the majority and Justice Scalia wrote for the dissent.112 In Craig, 
+the Court held that permitting a child witness to testify by one-way, 
+closed-circuit  television,  outside  the  defendant’s  presence,  did  not 
+violate  the  Confrontation  Clause.113  Justice  O’Connor’s  majority 
+opinion explained that the Supreme Court has “never held . . . that 
+the  Confrontation  Clause  guarantees  criminal  defendants  the 
+absolute right to a face-to-face meeting with witnesses against them 
+at trial.”114 Rather, consistent with the reasoning reflected in her Coy 
+concurrence,  Justice  O’Connor  stated  the  Court’s  “precedents 
+establish that the Confrontation Clause reflects a preference for face-
+to-face confrontation at trial . . . that must occasionally give way to 
+considerations of public policy and the necessities of the case.”115 
+Justice O’Connor went on to explain that despite the preference for 
+face-to-face confrontation, “[t]he central concern of the Confrontation 
+Clause is to ensure the reliability of the evidence against a criminal 
+defendant by subjecting it to rigorous testing in the context of an 
+adversary proceeding before the trier of fact.”116  
+  In light of these principles, the Craig Court stated a two-part 
+test for determining when a defendant’s confrontation rights will not 
+be violated, even absent a physical, face-to-face meeting at trial with 
+the witnesses against him. First, there must be a case-specific finding 
+that the denial of physical face-to-face “confrontation is necessary to 
+further  an  important  public  policy.”117  Second,  the  testimony’s 
+                                                                                                                       
+  110.  Id. at 1029 (quoting 5 J. WIGMORE, EVIDENCE § 1395, at 150 (1974)). 
+  111.  See Maryland v. Craig, 497 U.S. 836, 849 (1990) (stating the question of the 
+case). 
+  112.  Joining in the majority opinion written by Justice O’Connor were Chief 
+Justice Rehnquist and Justices White, Blackmun, and Kennedy. Id. at 840–60. Joining 
+in the dissent written by Justice Scalia were Justices Brennan, Marshall, and Stevens. 
+Id. at 860–70. 
+  113.  Id. at 852–53, 855 (majority opinion). In Craig, the child witness testified in 
+a separate room in the courthouse in the presence of the attorneys, and the testimony 
+was displayed by way of a video monitor to the courtroom in which the judge, jury, and 
+defendant were present. See id. at 841–42. 
+  114.  Id. at 844. 
+  115.  Id. at 849 (internal quotation marks omitted). 
+  116.  Id. at 845. 
+  117.  Id. at 850, 856. 1308   vanderbilt journal of transnational law  [vol. 45:1283 
+reliability “must be otherwise assured.”118 As to the reliability of the 
+testimony,  the  Court  indicated  that  the  Confrontation  Clause 
+guaranteed the defendant the following: (1) a personal examination of 
+witnesses,  (2)  who  testify  under  oath,  (3)  subject  to  cross-
+examination, and (4) in a manner that permits the trier of fact to 
+observe the witness’s demeanor, hence aiding in an assessment of the 
+witness’s credibility.119 Applying the two-part test to the case before 
+it, the Craig Court held that the state might have made a case-
+specific showing that permitting the child witness to testify by one-
+way, closed-circuit testimony was necessary to further the important 
+state interest of protecting child witnesses in child abuse cases from 
+the trauma of testifying before their abusers, and remanded the case 
+to the court of appeals for that determination.120 In addition, the 
+Court found that the procedure used to permit the child to testify 
+assured  the  reliability  of  the  evidence  presented  against  the 
+defendant because the child testified under oath, the defendant was 
+permitted  the  “full  opportunity  for  contemporaneous  cross-
+examination,” and the judge, jury, and defendant were able to view 
+the child’s demeanor—albeit by video—during the testimony.121  
+2.  Federal Circuit Split on the Proper Test to Apply in Determining 
+When to Permit Adult Prosecution Witnesses to Testify by Two-
+Way, Live VCT  
+  The  discussion  above  shows  that  the  Supreme  Court’s 
+interpretation of the Confrontation Clause allows room for remote 
+testimony  and  that  any  face-to-face  requirement  under  the 
+Confrontation Clause may yield under certain circumstances, so long 
+as other rights, such as the right to cross-examine witnesses, are 
+preserved. However, neither Coy nor Craig involved the question of 
+whether to allow adult prosecution witnesses to testify by two-way, 
+live VCT in criminal cases. Accordingly, this subpart examines the 
+two different approaches that federal circuit courts have taken since 
+the Supreme Court’s decision in Craig to determine whether and 
+when adult prosecution witnesses may testify remotely in criminal 
+cases consistent with a defendant’s Confrontation Clause rights. In 
+United  States  v.  Gigante,  the  Second  Circuit  Court  of  Appeals 
+concluded that “[u]pon a finding of exceptional circumstances . . . a 
+trial court may allow a witness to testify via two-way closed-circuit 
+television when this furthers the interest of justice.”122 The Eleventh 
+                                                                                                                       
+  118.  Id. at 850. 
+  119.  Id. at 845–46. 
+  120.  Id. at 860. 
+  121.  Id. at 851. 
+  122.  United States v. Gigante, 166 F.3d 75, 81 (2d Cir. 1999). 2012]    virtual witness confrontation in criminal cases  1309 
+Circuit in United States v. Yates, however, concluded that Craig’s test 
+for determining the propriety of one-way, closed-circuit testimony 
+applied equally to determining the permissibility of two-way, live 
+VCT prosecution witness testimony.123 Thus, the Eleventh Circuit 
+decided that permitting a prosecution witness to testify by two-way, 
+live VCT violates the defendant’s Confrontation Clause rights unless 
+the court concludes that remote testimony is “necessary to further an 
+important  public  policy . . . and  the  reliability  of  the  testimony  is 
+otherwise assured.”124 This subpart discusses both of these cases in 
+more detail below.125 
+  In Gigante, the Second Circuit found no violation of a defendant’s 
+Confrontation Clause rights when the trial court permitted a mob 
+informant dying of inoperable cancer to testify from a remote location 
+by two-way, live VCT against an alleged boss of the Genovese crime 
+family who was also too ill to travel.126 The court explicitly rejected the 
+defendant’s argument that the Sixth Amendment entitled him to a 
+face-to-face confrontation with the witness against him “in the same 
+room.”127 It also refused to apply the Craig test, explaining that the 
+test in Craig was “crafted . . . to constrain the use of one-way closed-
+circuit television, whereby the witness could not possibly view the 
+defendant.”128  Indeed,  the  court  stated  that  the  two-way 
+videoconferencing procedure “preserved the face-to-face confrontation 
+celebrated by Coy.”129 Furthermore, it found that the two-way video 
+procedure was sufficient to satisfy the Confrontation Clause’s central 
+concern of ensuring the reliability of the evidence against a criminal 
+defendant:  the  witness  “was  sworn;  he  was  subject  to  full  cross-
+examination; he testified in full view of the jury, court, and defense 
+                                                                                                                       
+  123.  See United States v. Yates, 438 F.3d 1307, 1313 (11th Cir. 2006) (en banc) 
+(stating that Craig supplies the proper test). 
+  124.  See id. at 1314 (restating the Craig test applied to the two-way video 
+system at hand). 
+  125.  This discussion is limited to consideration of only these two cases in detail 
+because they were the only two where courts actually decided what test should apply to 
+the question of whether adult witnesses can testify for the prosecution in a criminal 
+case by two-way, live VCT. I do not discuss in detail here the cases that involved adult 
+witness testimony, but where the question was limited to determining whether the 
+lower court’s decision violated clearly established federal law. See Gigante, 166 F.3d at 
+81. I also do not discuss here in detail the other circuit court cases that considered the 
+question of allowing child witnesses to testify remotely in sexual-assault cases. See 
+generally Maryland v. Craig, 497 U.S. 836 (1990) (discussing the precedent on remote 
+testimony by child witnesses to sexual assaults). 
+  126.  Gigante, 166 F.3d at 79–81. 
+  127.  Id. at 80. 
+  128.  Id. at 80–81. 
+  129.  Id. at 81. 1310   vanderbilt journal of transnational law  [vol. 45:1283 
+counsel;  and  [he]  gave  [his]  testimony  under  the  eye  of  the  [the 
+defendant] himself.”130  
+  Given the constitutional protections afforded by two-way video, 
+the  Gigante  court  decided  that  a  more  appropriate  test  for 
+determining when this remote testimony is proper should be based on 
+the standard used to admit Federal Rules of Criminal Procedure Rule 
+15  deposition  testimony  at  trial—an  “exceptional  circumstances” 
+test.131  The  “exceptional  circumstances”  to  introduce  a  Rule  15 
+deposition as substantive evidence at trial exist when the “witness’s 
+testimony is material to the case and if the witness is unavailable to 
+appear  at  trial.”132  The  court  thus  reasoned  that  under  the 
+circumstances  of  the  case  before  it,  the  trial  court  could  have 
+admitted the dying witness’s testimony via a Rule 15 deposition.133 
+Yet, it also pointed out that the closed-circuit video presentation of 
+the witness’s testimony that the trial court used instead actually 
+afforded the defendant greater confrontation rights than if “the bare 
+transcript of the [witness’s] deposition” had been admitted at trial 
+against him.134 The court concluded that it made little sense to adopt 
+a stricter standard than the one articulated by Rule 15 to assess the 
+propriety of introducing two-way, live VCT at trial, holding that such 
+testimony was constitutionally permitted when the court makes a 
+finding  of  “exceptional  circumstances.”135  Those  “exceptional 
+circumstances” were present according to the Second Circuit Gigante 
+court because the witness’s health prevented him from traveling and 
+because the defendant’s health also prevented him from participating 
+in a distant deposition.136  
+  By contrast, in Yates, the Eleventh Circuit held that the trial 
+court’s decision to allow two Australian nationals to testify remotely 
+from Australia against two defendants in a criminal trial in Alabama 
+violated  the  defendants’  Confrontation  Clause  rights, 
+notwithstanding that the witnesses were beyond the government’s 
+                                                                                                                       
+  130.  Id. at 80. During the trial, video screens transmitted the witness’s image to 
+the court, the jury, defense counsel, and the defendant. The witness could also see and 
+hear all courtroom participants on a video screen at his location. Id. 
+  131.  Id. at 81. 
+  132.  Id. (internal quotation marks omitted). Rule 15(a)(1) of the Federal Rules of 
+Criminal Procedure states: “A party may move that a prospective witness be deposed in 
+order to preserve testimony for trial. The court may grant the motion because of 
+exceptional circumstances and in the interests of justice.” FED. R. CRIM. P. 15(a)(1). 
+  133.  See Gigante, 166 F.3d at 81 (stating that the lower court judge could have 
+admitted the testimony under Rule 15 without violating the Confrontation Clause). 
+  134.  See id. (stating that, had the transcript of a Rule 15 deposition been used in 
+court, the defendant would not have had any opportunity to visually assess the 
+witness’s demeanor). 
+  135.  Id. 
+  136.  Id. at 81–82. 2012]    virtual witness confrontation in criminal cases  1311 
+subpoena powers.137 Even though the case before it involved two-way, 
+live VCT, the Yates court held that the Craig test, rather than the 
+Gigante test, applied to the question of whether the remote testimony 
+violated the defendants’ confrontation rights.138 In fact, the Eleventh 
+Circuit noted that the Second Circuit was the only federal appeals 
+court  to  make  a  distinction  between  one-  and  two-way  video 
+testimony in its Confrontation Clause analysis. Other courts, instead, 
+applied the Craig test in deciding whether to allow child witnesses to 
+testify by two-way, live VCT.139  
+  More  specifically,  the  Yates  court  disagreed  with  the 
+government’s  assertion  that  two-way  video  provides  greater 
+protections of a defendant’s confrontation rights than does a Rule 15 
+deposition, and that two-way video testimony should therefore be 
+admitted under the same standard as Rule 15 depositions.140 The 
+court reasoned that because the defendant can be present at Rule 15 
+depositions,  those  proceedings  do  not  result  in  any  denial  of  the 
+defendant’s  constitutional  rights  to  a  “physical  face-to-face 
+confrontation.”141 On the other hand, the court stated “the simple 
+truth” that “confrontation through a video monitor is not the same as 
+physical face-to-face confrontation.”142 It therefore held that “[t]he 
+Sixth Amendment’s guarantee of the right to confront one’s accuser is 
+most certainly compromised when the confrontation occurs through 
+an electronic medium.”143  
+  To further support its conclusion that the Craig test governed 
+the situation before it, the Eleventh Circuit relied on the fact that in 
+2002,  the  Supreme  Court  refused  to  recommend  to  Congress  a 
+proposed amendment to Rule 26 of the Federal Rules of Criminal 
+Procedure that would have explicitly permitted video testimony in 
+“exceptional circumstances.”144 Under Proposed Rule 26(b), federal 
+courts would have been able to authorize two-way, live VCT from a 
+remote location in criminal cases “in the interest of justice” when the 
+                                                                                                                       
+  137.  United States v. Yates, 438 F.3d 1307, 1309–10 (11th Cir. 2006) (en banc). 
+  138.  Id. at 1312–13. 
+  139.  See id. at 1313–14 (referencing cases in the Sixth, Eighth, Ninth, and 
+Tenth Circuits where courts applied the Craig test in determining whether to admit 
+two-way, live VCT testimony of child witnesses in sexual-abuse cases). 
+  140.  See id. at 1314 (rejecting the government’s argument that Craig should 
+govern). 
+  141.  Id. 
+  142.  Id. at 1315. 
+  143.  Id. The Yates court did not use the precise words in the Confrontation 
+Clause, which grant an accused the right “to be confronted with” witnesses, rather than 
+a right “to confront” witnesses. U.S. CONST. amend. VI. 
+  144.  Yates, 438 F.3d at 1314; see also Proposed Amendments to the Federal Rules 
+of Criminal Procedure (Apr. 29, 2002) (appendix to statement of Breyer, J.) [hereinafter 
+Proposed  Rule  26(b)],  http://www.fedcrimlaw.com/members/keyweb/FRCP-2002.pdf 
+(providing the text of the proposed amendment referenced in Yates). 1312   vanderbilt journal of transnational law  [vol. 45:1283 
+requesting party established (1) “exceptional circumstances for such 
+transmission”, (2) the transmission used “appropriate safeguards”, 
+and (3) the witness was otherwise “unavailable” to attend the trial in 
+person.145  In  its  Committee  Notes,  the  Advisory  Committee 
+emphasized  that  Proposed  Rule  26(b)  should  have  satisfied  the 
+various interests of the parties to the proceeding and also protected 
+the  defendant’s  Confrontation  Clause  rights.146  However,  as  the 
+Eleventh Circuit emphasized in Yates, a majority of the Supreme 
+Court refused to approve the amendment, and it was not adopted.  
+  However,  it  was  not  only  the  Supreme  Court’s  refusal  to 
+recommend  the  amendment  that  seems  to  have  influenced  the 
+Eleventh Circuit’s decision in Yates. The majority also seems to have 
+placed great weight on a separate statement filed by Justice Scalia, 
+wherein he indicated that the proposed amendment was of “dubious 
+validity under the Confrontation Clause.”147 Justice Scalia argued 
+that  the  Craig  test  should  apply  and  limit  the  use  of  remote 
+testimony in criminal cases to instances in which there had been a 
+case-specific showing that it was “necessary to further an important 
+public  policy.”148  Of  course,  as  the  dissent  in  Yates  pointed  out, 
+Justice Scalia’s statement has no official legal weight and may not 
+reflect the reasoning of the remaining Justices in the majority who 
+refused to recommend Proposed Rule 26(b).149 Furthermore, although 
+the  Yates  majority  makes  no  mention  of  it,  Justices  Breyer  and 
+O’Connor filed a dissenting statement indicating that they failed to 
+see Confrontation Clause issues with the proposed amendment to 
+                                                                                                                       
+  145.  Proposed Rule 26(b), supra note 144, at 7. The proposed rule defined 
+unavailability by reference to Rule 804(a)(4)–(5) of the Federal Rules of Evidence, 
+which essentially states that witnesses are unavailable either if they are dead or 
+infirm, or if the person seeking the witness’s testimony is unable to procure it by 
+process  or  other  reasonable  means.  See  FED.  R.  EVID.  804(a)(4)–(5).  As  one 
+commentator has noted, Proposed Rule 26(b) can be faulted for simply incorporating 
+Rule 804(a)’s standards of unavailability. For example, Rule 804(a)(4) deems a witness 
+unavailable if he is dead, but obviously a dead witness cannot testify remotely. See 
+Friedman, supra note 4, at 708–11 (explaining how Proposed Rule 26(b)’s incorporation 
+of Federal Rules of Evidence 804(a)(4)–(5) “breed[s] confusion”). 
+  146.  See Proposed Rule 26(b), supra note 144, at 8–12 (explaining how the rule’s 
+various  procedures  and  safeguards  allow  the  amendment  to  be  a  “prudent  and 
+measured step”). 
+  147.  Yates, 438 F.3d at 1314–15 (quoting Proposed Rule 26(b), supra note 144, at 
+1). 
+  148.  Id. at 1315 (quoting Proposed Rule 26(b), supra note 144, at 1–2). 
+  149.  Id. at 1324–25 n.8 (Tjoflat, Marcus & Birch, JJ., dissenting) (stating that 
+Justice  Scalia’s  comments  represent  “nothing  more  than  the  legal  musings  of  a 
+Supreme Court Justice on an issue that has yet to be briefed and argued in a case or 
+controversy before the Court”). In his dissent, Judge Tjoflat further remarked that 
+Justice Scalia’s suggestion that the proposed amendment was of “dubious validity” is a 
+statement that “easily can be made of every constitutional challenge the Supreme 
+Court elects to hear.” Id. 2012]    virtual witness confrontation in criminal cases  1313 
+Rule  26  since  under  Rule  15  the  trial  court  could  otherwise 
+constitutionally  admit  an  absent  witness’s  nonvisual  deposition 
+testimony against a criminal defendant.150 Nevertheless, it appears 
+that Justice Scalia’s statement did persuade the Eleventh Circuit 
+that it should be wary of taking anything but a very strict approach 
+toward admitting remote video testimony.  
+  Thus, for all of the foregoing reasons, the Yates court concluded 
+that prosecution witnesses could testify by remote two-way, live VCT 
+only  when  allowing  that  procedure  would  “further  an  important 
+public policy” and when “the reliability of the testimony is otherwise 
+assured.”151 Applying this test, the court found that the first prong 
+was not met in the case before it.152 The district court had made case-
+specific findings that video testimony was necessary to further the 
+important public policies of (1) providing the fact finder with crucial 
+evidence from witnesses who were beyond the court’s subpoena power 
+and otherwise unwilling to travel to the United States to testify and 
+(2)  resolving  the  case  expeditiously  and  justly.153  The  Eleventh 
+Circuit, however, held that although “presenting the fact-finder with 
+crucial evidence is, of course, an important public policy,” under the 
+circumstances  of  the  case,  including  the  possibility  of  a  Rule  15 
+deposition in Australia with all necessary parties present,154 “the 
+prosecutor’s need for the videoconference testimony to make a case 
+and to expeditiously resolve it are not the type of public policies that 
+are important enough to outweigh the Defendants’ rights to confront 
+                                                                                                                       
+  150.  See Proposed Rule 26(b), supra note 144, at 4 (statement of Breyer, J.) (“It 
+is not obvious how video testimony could abridge a defendant’s Confrontation Clause 
+rights in circumstances where an absent witness’ testimony could be admitted in 
+nonvisual form via deposition regardless.”). 
+  151.  Yates, 438 F.3d at 1314–15. Yates, however, was not a unanimous decision, 
+with three judges dissenting from the court’s opinion. Id. at 1319–36 (Tjoflat, Birch & 
+Marcus, JJ., dissenting); id. at 1327–36 (Marcus, Tjoflat & Birch, JJ., dissenting). 
+  152.  Id. at 1315–16 (majority opinion). 
+  153.  Id. 
+  154.  Id.  at  1316.  The  court  stated  that  the  record  did  not  provide  any 
+evidentiary support explaining why the defendants and the witnesses could not all 
+participate in a pretrial deposition in Australia, especially given that under Rule 15, 
+the government must pay the cost of attendance for defendants who cannot themselves 
+afford to pay. Furthermore, although it addressed the fact that foreign countries have 
+refused entry to some defendants wishing to appear at Rule 15 depositions, it noted 
+there was no finding in this case showing that the defendants could not travel to 
+Australia to be present for a deposition. Id. at 1317–18 (referencing United States v. 
+McKeeve, 131 F.3d 1, 7–9 (1st Cir. 1997), wherein the defendant was not permitted to 
+attend a Rule 15 deposition because he was in custody and the United Kingdom 
+refused to assume temporary custody of him). As mentioned above, the court also 
+disagreed  with  the  government  that  permitting  the  defendant  to  cross-examine 
+witnesses against him by two-way, live video testimony during trial in the presence of 
+the  court  and  jury  provided  greater  Confrontation  Clause  protections  than  did 
+permitting the defendant to attend an in-person, pretrial deposition. Id. at 1318. 1314   vanderbilt journal of transnational law  [vol. 45:1283 
+their  accusers  face-to-face.”155  Having  thus  decided  that  the  first 
+prong of the Craig test was not met, the Yates court did not address 
+whether the reliability prong was satisfied.156  
+3.  The  Supreme  Court  After  Craig:  Some  Confrontation  Clause 
+Guidance, but No Resolution of the Circuit Split 
+  Because  the  Supreme  Court  has  not  decided  a  case  directly 
+addressing  the  question  of  whether  and  when  the  Confrontation 
+Clause  permits  the  introduction  of  two-way,  live  VCT  for  adult 
+prosecution-witness testimony against defendants in criminal cases, 
+the exact formulation of any U.S. rule for allowing such testimony 
+remains unknown at this time. The Supreme Court has, however, 
+offered some additional guidance on the nature of the protections 
+afforded defendants by the Confrontation Clause. It has also issued a 
+statement in connection with a denial of a petition for certiorari 
+indicating that Craig may not “obviously answer[ ]” whether two-way, 
+live VCT witness testimony is permissible in criminal cases.157 Both 
+of these developments are discussed below.  
+  First,  in  2004,  the  Supreme  Court  decided  Crawford  v. 
+Washington, wherein it held that out-of-court testimonial statements 
+could only be admitted against a defendant in a criminal trial if the 
+witness was unavailable and the defendant had a prior opportunity 
+for cross-examination.158 To reach its conclusion, the Crawford Court 
+                                                                                                                       
+  155.  Id. at 1316. 
+  156.  Id. at 1318. Contrary to the Yates court, but on similar facts, the Florida 
+Supreme Court applied the Craig test and concluded that permitting two Argentine 
+nationals living in Argentina to testify remotely using two-way, live VCT did not 
+violate the defendant’s confrontation rights. See Harrell v. State, 709 So. 2d 1364 (Fla. 
+1998). In Harrell, the court found three important public policies that would be 
+furthered by allowing the testimony: (1) the witnesses “lived beyond” the court’s 
+subpoena power; (2) one witness was too sick to travel to the United States; and (3) the 
+testimony of these two victim-witnesses was essential to the case and necessary to the 
+important state interest in resolving criminal matters expeditiously and justly. Id. at 
+1369–70. It further concluded that the second part of the Craig test was satisfied 
+because (1) “the witnesses were placed under oath by a court clerk in Miami”; (2) the 
+defense was able to cross-examine the witnesses; and (3) the jury could observe the 
+witnesses and the witnesses could observe the jury during their testimony. Id. at 1371. 
+In reviewing a subsequent federal habeas petition, the Eleventh Circuit held (several 
+years before deciding Yates) that the Florida Supreme Court’s application of the Craig 
+test to the facts before it did not violate clearly established federal law. Harrell v. 
+Butterworth, 251 F.3d 926, 931–32 (11th Cir. 2001); see also Horn v. Quarterman, 508 
+F.3d 306, 320 (5th Cir. 2007) (finding no violation of clearly established federal law 
+where trial court allowed terminally ill witness to testify by remote two-way VCT since 
+the state’s interest in protecting seriously ill witnesses could satisfy Craig’s necessity 
+prong). 
+  157.  Wrotten v. New York, 130 S. Ct. 2520, 2520 (2010). 
+  158.  See  541  U.S.  36,  68  (2004)  (explaining  the  demands  of  the  Sixth 
+Amendment). 2012]    virtual witness confrontation in criminal cases  1315 
+overruled Ohio v. Roberts, which held that a hearsay declarant’s out-
+of-court statement could be admitted at trial against a defendant 
+without  violating  the  Confrontation  Clause  as  long  as  (1)  the 
+declarant is “unavailable” to testify at trial and (2) the prior out-of-
+court  statement  bears  “adequate  indicia  of  reliability.”159  Such 
+reliability under Roberts could be inferred when the evidence fell 
+within a “firmly rooted hearsay exception” or when the evidence was 
+shown to be otherwise trustworthy.160 The Crawford Court, however, 
+held that reliability must be assessed “in a particular manner: by 
+testing in the crucible of cross-examination”—as opposed to by some 
+judicial determination of reliability.161  
+  Although  the  Crawford  decision  dealt  only  with  out-of-court 
+pretrial witness statements, some commentators have suggested that 
+the Confrontation Clause analysis in that case may implicitly limit 
+the Court’s holding in Craig.162 Recall that Craig held that a witness 
+could  testify  at  trial  outside  the  defendant’s  immediate  presence 
+without violating the defendant’s rights to be confronted with adverse 
+witnesses  when  “the  reliability  of  the  testimony  is  otherwise 
+assured”—a test that Crawford concluded was improper.163 Those 
+commentators  thus  suggest  that  the  Craig  test  for  permitting 
+witnesses to testify outside of the direct presence of the defendant 
+might be constitutionally suspect after Crawford because the Craig 
+test uses a “reliability of the evidence” standard.164 
+  While  those  commentators  correctly  point  out  the  Crawford 
+Court’s retreat from the “reliability” standard, there is nevertheless 
+reason to conclude that the Craig test is not constitutionally suspect. 
+Although the Craig Court used the reliability language, its focus, like 
+                                                                                                                       
+  159.  448 U.S. 56, 66 (1980). 
+  160.  Id. 
+  161.  Crawford, 541 U.S. at 61–62. 
+  162.  See, e.g., G. Michael Fenner, Today’s Confrontation Clause (After Crawford 
+and Melendez-Diaz), 43 CREIGHTON L. REV. 35, 88–89 (2009) (“The problem with the 
+holding from Craig is that fourteen years later, in Crawford, the Court’s interpretation 
+of the Confrontation Clause changed radically.”); McAllister, supra note 89, at 868 
+(highlighting a particular passage in the Crawford case as a suggestion that “an 
+overwhelming majority of the current Supreme Court Justices would find the Craig 
+test constitutionally suspect”). 
+  163.  Maryland v. Craig, 497 U.S. 836, 850–51 (1990). It bears noting, however, 
+that the Yates decision was rendered after the Supreme Court’s decision in Crawford, 
+yet the Eleventh Circuit adopted the Craig test and did not suggest that Crawford had 
+rendered it inapplicable. In fact, the majority specifically stated that Crawford would 
+not govern the question of whether a prosecution witness could constitutionally testify 
+remotely during trial because it applies only to “testimonial statements made prior to 
+trial.” United States v. Yates, 438 F.3d 1307, 1314 n.4 (11th Cir. 2006) (en banc). 
+  164.  McAllister, supra note 89, at 868; see also Fenner, supra note 162, at 88–89 
+(suggesting that Craig’s holding was called into question by Crawford’s Confrontation 
+Clause analysis, which indicated that “reliability of the testimony” can only be assured 
+by cross-examination, not by any other method). 1316   vanderbilt journal of transnational law  [vol. 45:1283 
+the  Crawford  Court,  was  on  cross-examination  as  an  important 
+component of reliability as relates to a defendant’s rights pursuant to 
+the Confrontation Clause.165 The Craig Court specifically stated that 
+permitting the witness to testify at trial by one-way video satisfied 
+Confrontation Clause concerns because in the absence of a face-to-
+face  confrontation,  “the  presence  of  the[ ]  other  elements  of 
+confrontation—oath,  cross-examination,  and  observation  of  the 
+witness’ demeanor—adequately ensures that the testimony is both 
+reliable  and  subject  to  rigorous  adversarial  testing  in  a  manner 
+functionally equivalent to that accorded live, in-person testimony.”166 
+Indeed, even the Gigante court focused on the defendant’s ability to 
+cross-examine the witness who was testifying remotely in that case in 
+determining  that  the  procedure  satisfied  Confrontation  Clause 
+concerns.167 Therefore, while commentators may be correct that the 
+Supreme Court will retreat from Craig’s reliability of the evidence 
+standard  post-Crawford,  for  the  purposes  of  this  Article  one  can 
+assume that cross-examination will remain an important—perhaps 
+the most important—factor in assessing whether the Confrontation 
+Clause is satisfied should a witness be permitted to testify by two-
+way, live VCT. It is beyond the scope of this Article to attempt to 
+predict the precise standard the Supreme Court will adopt to test the 
+admissibility of such testimony, if and when the Court is presented 
+with the question.  
+  Indeed, it appears that the Supreme Court may be inclined at 
+some future date to take up the question, though its most recent 
+guidance indicates only that Craig may not provide the proper test for 
+determining  when  two-way,  as  opposed  to  one-way,  remote  video 
+testimony  can  be  admitted  without  violating  the  Confrontation 
+Clause. In Wrotten v. New York, the Supreme Court denied a petition 
+for certiorari because of the interlocutory posture of the appeal.168 In 
+a separate statement, however, Justice Sotomayor stated that the 
+petition presented the important question of whether a defendant’s 
+Confrontation Clause rights “were violated when the State introduced 
+testimony at his trial via a two-way video that enabled the testifying 
+witness  to  see  and  respond  to  those  in  the  courtroom,  and  vice 
+versa.”169 She explained that in Craig, the Court recognized that “a 
+                                                                                                                       
+  165.  Craig, 497 U.S. at 851. 
+  166.  Id. 
+  167.  See United States v. Gigante, 166 F.3d 75, 80 (2d Cir. 1999) (finding that 
+the  remote  procedure  used  to  present  the  witness’s  testimony  preserved  the 
+defendant’s rights to confrontation since the witness was sworn; testified in view of the 
+jury, the court, defense counsel, and the defendant; and was subjected to cross-
+examination). 
+  168.  Wrotten v. New York, 130 S. Ct. 2520, 2520 (2010). 
+  169.  Id. In the underlying case from which the petition arose, the New York 
+Court of Appeals had concluded that (1) permitting an elderly and ill witness to testify 
+ 2012]    virtual witness confrontation in criminal cases  1317 
+defendant’s right to confront accusatory witnesses may be satisfied 
+absent a physical, face-to-face confrontation at trial,” but only upon a 
+case-specific  finding  that  the  denial  of  such  confrontation  is 
+“necessary  to  further  an  important  public  policy.”170  Justice 
+Sotomayor concluded that the question raised in the petition was “not 
+obviously answered” by Craig because “the use of video testimony in 
+[Wrotten] arose in a strikingly different context than in Craig.”171 
+Although one could conclude from this statement that any new test 
+would be less restrictive since two-way remote video testimony more 
+closely  simulates  live,  in-person  testimony  than  one-way  video 
+testimony  does,  Justice  Sotomayor’s  statements  are  open  to 
+interpretation. Again, it is beyond the scope of this Article—which is 
+focused  broadly  on  proposing  a  test  that  can  be  used  in  courts 
+throughout the world—to predict what test the Supreme Court will 
+ultimately  adopt  for  testing  the  constitutionality  of  permitting 
+prosecution witnesses to testify remotely by two-way, live VCT.  
+IV. THE PROBLEM OF MODERN MARITIME PIRACY AND THE  
+NEED TO ENCOURAGE STATES TO USE THE AVAILABLE  
+LAWS TO PROSECUTE PIRATES INSTEAD OF RELEASING THEM 
+  Having outlined generally some approaches taken by various 
+international criminal courts and by federal courts in the United 
+States to analyze the issue of whether to permit adult prosecution 
+witnesses to testify remotely at trial using two-way, live VCT, this 
+Article now moves to a discussion of the modern piracy problem and 
+the reluctance of states to prosecute. In particular, it discusses how 
+issues relating to the difficulties associated with mounting cases of 
+such international proportions and which involve evidence, suspects, 
+victims,  and  witnesses  from  around  the  globe  have  negatively 
+impacted states’ willingness to prosecute piracy cases. This Article 
+                                                                                                                       
+remotely by two-way, live VCT was necessary to further the important public policy of 
+protecting the well-being of such a witness so that criminal cases could be justly 
+resolved, and (2) the procedures employed ensured the reliability of the witness’s 
+testimony. People v. Wrotten, 923 N.E.2d 1099, 1101–03 (N.Y. 2009). 
+  170.  Wrotten, 130 S. Ct. at 2520 (quoting Craig, 497 U.S. at 850) (internal 
+quotation marks omitted). 
+  171.  Id. On May 27, 2010, the New York First Department Appellate Division 
+ruled on the pending issue that had prevented the Supreme Court from finding a “final 
+judgment” from which a petition for certiorari could be taken. People v. Wrotten, 901 
+N.Y.S.2d 265 (N.Y. App. Div. 2010); see also Wrotten, 130 S. Ct. 2520 (denying 
+certiorari on interlocutory appeal in light of the procedural difficulties in reviewing the 
+case at that stage). The defendant thereafter filed another petition for certiorari, which 
+was also denied, but without any written statement. Wrotten v. New York, 131 S. Ct. 
+1020 (2011). 1318   vanderbilt journal of transnational law  [vol. 45:1283 
+further addresses how a rule allowing remote prosecution-witness 
+testimony in some circumstances can better facilitate the prosecution 
+of  these  cases  and  also  encourage  more  states  to  undertake  the 
+burden of bringing pirates to justice.  
+A. The Continuing Threat of Modern Maritime Piracy  
+  The  continuing  threat  of  pirate  attacks  on  ships  and  crews 
+makes  traveling  in  the  world’s  shared  sea  lanes  increasingly 
+dangerous. According to the International Maritime Bureau (IMB) 
+Piracy Reporting Centre, between January 2007 and December 2011, 
+pirates staged some 1,850 attacks worldwide.172 During the last three 
+years, the number of attacks has remained above 400 per year—a 
+number  that  exceeds  the  number  of  reported  attacks  in  2007  by 
+approximately 50 percent.173 In fact, from January to March 2011, 
+reports showed that Somali pirates had already staged ninety-seven 
+attacks—more  than  one  per  day  during  that  time  period.174  In 
+addition,  most  pirate  attacks  now  involve  the  use  of  weapons.175 
+Pirates used guns in 245 attacks in 2011 (more than half of the total 
+number of attacks that year), but they used guns in only seventy-two 
+attacks in 2007 (about 25 percent of the total number of attacks in 
+that year).176 Nor are the attacks without victims. In 2007, pirates 
+held some 292 crew members hostage. But, in each year thereafter, 
+more than 800 crew members have been held captive while pirates 
+negotiated their release.177 Finally, the ransoms paid to pirates “have 
+increased sevenfold in the last five years”: average ransoms increased 
+from about $600,000 in 2007 to about $5 million in 2011.178 In other 
+words, over time, the threat of modern maritime piracy is increasing, 
+rather than decreasing.179  
+                                                                                                                       
+  172.  See ICC–IMB 2011 Report, supra note 11, at 5–6 (providing graphical 
+break-downs of piracy attacks between January 2007 and December 2011). 
+  173.  Id. 
+  174.  FOREIGN AFFAIRS COMMITTEE, PIRACY OFF THE COAST OF SOMALIA, REPORT, 
+2010–12, H.C. 1318, at 11 (U.K.) [hereinafter FOREIGN AFFAIRS COMMITTEE 2012 
+REPORT]. 
+  175.  ICC–IMB 2011 Report, supra note 11, at 20. 
+  176.  Id. at 11. 
+  177.  Id. In total, between 2007 and 2011, pirates have held over 3,500 seafarers 
+hostage. They killed about sixty-two of their victims during that time period. FOREIGN 
+AFFAIRS COMMITTEE 2012 REPORT, supra note 174, at 16. 
+  178.  FOREIGN AFFAIRS COMMITTEE 2012 REPORT, supra note 174, at 55–56. 
+Some ransoms recently paid to Somali pirates have been significantly higher. For 
+example, in November 2010, a band of pirates was paid about $10 million in ransom to 
+release a South Korean supertanker, the Samho Dream. See Jeffrey Gettleman, Money 
+in Piracy Attracts More Somalis, N.Y. TIMES, Nov. 9, 2010, at A10. 
+  179.  In fact, the number of actual pirate attacks is likely greater than the 
+number reported to the IMB since most believe that ship owners have incentives to 
+ 2012]    virtual witness confrontation in criminal cases  1319 
+  Moreover, the threat of modern maritime piracy is broad in its 
+reach.  As  Rear  Admiral  Brian  M.  Salerno  explained,  “[A]  single 
+piratical attack affects the interests of numerous countries, including 
+the  flag  State  of  the  vessel,  various  States  of  nationality  of  the 
+seafarers taken hostage, regional coastal States, owners’ States, and 
+cargo  shipment  and  transshipment  States.”180  The  evidence  from 
+2011 alone supports the Rear Admiral’s statement. The IMB reported 
+that in 2011, pirates attacked ships bearing the flags of fifty-six 
+different  countries181  in  the  waters  off  the  coasts  of  Somalia, 
+Indonesia,  Malaysia,  the  Philippines,  Singapore,  Vietnam, 
+Bangladesh, India, Benin, and Nigeria, among other places:182 “As of 
+31  December  2011,  suspected  Somali  pirates  held  11  vessels  for 
+ransom  with  193  crew  members  of  different  nationalities  as 
+hostage.”183  
+  A brief description of just two pirate attacks can help illustrate 
+the multinational reach of maritime piracy. On February 9, 2011, 
+pirates attacked the Greek supertanker MV Irene 900 miles off the 
+coast of Somalia. When attacked, the MV Irene was carrying 2 million 
+barrels of Kuwaiti oil destined for the United States and estimated to 
+be  worth  $200  million.  The  twenty-five-member  crew  included 
+seventeen Filipinos, seven Greeks, and one Georgian.184 Some two 
+months after being taken hostage, and after the pirates received an 
+astounding $13.5 million ransom payment, the ship, cargo, and crew 
+were released.185 On April 8, 2011, just one day after the hostages 
+                                                                                                                       
+underreport  for  fear  their  ships  will  be  delayed  for  investigations  or  that  their 
+insurance premiums will rise. See JOHN S. BURNETT, DANGEROUS WATERS: MODERN 
+PIRACY AND TERROR ON THE HIGH SEAS 181 (2003); PETER CHALK, THE MARITIME 
+DIMENSION OF INTERNATIONAL SECURITY: TERRORISM, PIRACY, AND CHALLENGES FOR 
+THE UNITED STATES 7–8 (2008) (noting several variables that are “directly relevant to 
+the general surge in piracy over the last fifteen years”). 
+  180.  Piracy Against U.S.-Flagged Vessels: Lessons Learned: Hearing Before the 
+Subcomm.  on  Coast  Guard  &  Mar.  Transp.  of  the  H.  Comm.  on  Transp.  & 
+Infrastructure, 111th Cong. 79 (2009) (statement of Rear Admiral Brian M. Salerno, 
+Assistant  Commandant  for  Marine  Safety,  Security,  and  Stewardship,  Dep’t  of 
+Homeland Sec., U.S. Coast Guard). 
+  181.  See ICC–IMB 2011 Report, supra note 11, at 15–16 (providing a graphic 
+breakdown of the various flag states that experienced pirate attacks between 2007 and 
+2011). 
+  182.  Id. at 5–6. 
+  183.  Id. at 20. 
+  184.  E.g., EU NAVFOR Public Affairs Office, MV Irene SL Pirated in the North 
+Arabian Sea, EU NAVFOR (Feb. 9, 2011), http://www.eunavfor.eu/2011/02/mv-irene-sl-
+pirated-in-the-north-arabian-sea/; Tom Scott, Somali Pirates: Steep Rise in Attacks, 
+NEWS-INSURANCES (Mar. 28, 2011), http://www.newsinsurances.co.uk/somali-pirates-
+steep-rise-in-attacks/0169475872. 
+  185.  Anna Bowden & Shikha Basnet, Oceans Beyond Piracy, The Economic Cost 
+of Somali Piracy 2011, at 11 (One Earth Future Foundation, Working Paper), available 
+at http://oceansbeyondpiracy.org/sites/default/files/economic_cost_of_piracy_2011.pdf. 1320   vanderbilt journal of transnational law  [vol. 45:1283 
+from the MV Irene were released, ten pirates stormed the MV Susan 
+K, a German cargo ship registered in Antigua & Barbuda. The MV 
+Susan K was attacked thirty-five miles off the coast of Oman while 
+travelling from Mumbai to Port Sudan with a crew that included four 
+Ukrainians and six Filipinos.186 Seventy days after being captured, 
+and  after  pirates  received  an  approximately  $4  million  ransom 
+payment, the MV Susan K and its crew were released.187  
+B. The International Law Authorizing Piracy Prosecutions 
+  International law provides many legal tools for prosecuting acts 
+of maritime piracy. Piracy is the oldest crime to which universal 
+jurisdiction  applies,188  and  all  states  may  punish  acts  of  piracy 
+occurring on the high seas even if the state has no specific nexus to 
+the offense.189 Exercising universal jurisdiction over acts of maritime 
+piracy is warranted because of the general heinousness of the crime 
+and the fact that it is directed against ships and persons of any and 
+all nations—disrupting international trade and commerce.190 Thus, 
+states may use their own domestic laws to prosecute and punish 
+those who commit the crime of maritime piracy, regardless of the 
+nationalities of either the suspected pirates or their victims.191  
+                                                                                                                       
+  186.  Somali Pirates Release Greek Owned VLCC, Hijack German Cargo Ship the 
+Next  Day,  MAR.  EXECUTIVE  (Apr.  11,  2011),  http://www.maritime-executive.com/ 
+article/somali-pirates-release-greek-owned-vlcc-mv-irene-sl. 
+  187.  Andrew Mwangura, Ransom Reported Paid for MV Susan K, SOMALIA REP. 
+(June 17, 2011), http://www.somaliareport.com/index.php/post/981/Ransom_ Reported_ 
+Paid_for_MV_Susan_K. 
+  188.  Universal jurisdiction is defined as “criminal jurisdiction based solely on 
+the nature of the crime, without regard to where the crime was committed, the 
+nationality of the alleged or convicted perpetrator, the nationality of the victim, or any 
+other connection to the state exercising such jurisdiction.” THE PRINCETON PRINCIPLES 
+ON UNIVERSAL JURISDICTION 28 (Stephen Macedo ed., 2001). 
+  189.  See Cohen, supra note 9, at 201 (explaining that the doctrine of universal 
+jurisdiction was originally developed to address acts of maritime piracy occurring on 
+the high seas outside of any state’s territorial jurisdiction). 
+  190.  See, e.g., Kenneth C. Randall, Universal Jurisdiction Under International 
+Law, 66 TEX. L. REV. 785, 794 (1988) (suggesting that the heinous nature of piracy 
+offenses, which involve violence and depredation, and the fact that piracy is directed 
+against ships of all nations, provide the most accurate rationale for allowing the 
+exercise of universal jurisdiction over piracy). In United States v. Cargo of Brig Malek 
+Adhel, 43 U.S. (2 How.) 210 (1844), the U.S. Supreme Court recognized the pirate as an 
+enemy of all mankind over whom states could exercise universal jurisdiction because 
+the pirate “commits hostilities upon the subjects and property of any or all nations, 
+without any regard to right or duty, or any pretence of public authority.” Id. at 232. 
+  191.  See Anthony J. Colangelo, The Legal Limits of Universal Jurisdiction, 47 
+VA. J. INT’L L. 149, 150–51 (2006) (highlighting the fact that universal jurisdiction 
+attaches to crimes of piracy); see also 4 WILLIAM BLACKSTONE, COMMENTARIES 72 (9th 
+ed. 1783) (describing actions that have been historically deemed “piracy”); M. Cherif 
+Bassiouni, Universal Jurisdiction for International Crimes: Historical Perspectives and 
+ 2012]    virtual witness confrontation in criminal cases  1321 
+  Universal  jurisdiction  over  piracy  offenses  is  codified  in  an 
+international  treaty—the  UNCLOS192—to  which  most  states 
+belong.193 Pursuant to Article 105 of UNCLOS, any state may seize 
+pirate ships and arrest and prosecute pirates.194 Article 101 lists the 
+acts  which  constitute  piracy  and  over  which  states  may  exercise 
+universal jurisdiction as follows: 
+(a)  any  illegal  acts  of  violence  or  detention,  or  any  act  of 
+depredation, committed for private ends by the crew or the 
+passengers of a private ship or a private aircraft, and directed: 
+(i)  on the high seas, against another ship or aircraft, or 
+against  persons  or  property  on  board  such  ship  or 
+aircraft; 
+(ii)  against a ship, aircraft, persons or property in a place 
+outside the jurisdiction of any State; 
+(b)  any act of voluntary participation in the operation of a ship or of 
+an aircraft with knowledge of facts making it a pirate ship or 
+aircraft; 
+(c)  any act of inciting or of intentionally facilitating an act described 
+in subparagraph (a) or (b).195 
+  In addition, under Article 103, a ship is a pirate ship “if it is 
+intended  by  the  persons  in  dominant  control  to  be  used  for  the 
+purpose of committing one of the acts referred to in Article 101.”196 
+  In sum, UNCLOS essentially defines piracy as (1) an illegal act 
+of violence or detention, (2) committed for private ends, (3) on the 
+high seas, and (4) directed against another ship.197 In addition, under 
+Article 100, states are actually required to cooperate in the repression 
+                                                                                                                       
+Contemporary Practice, 42 VA. J. INT’L L. 81, 110–11 (2001) (“Positive international law 
+in the twentieth century has clearly established universal jurisdiction for piracy.”). 
+  192.  UNCLOS, supra note 10, arts. 100–108, 110. 
+  193.  See supra note 10 and accompanying text. 
+  194.  UNCLOS, supra note 10, art. 105. 
+  195.  Id. art. 101. 
+  196.  Id. art. 103. 
+  197.  Although UNCLOS broadly defines piracy, it includes only those attacks 
+that occur on the high seas or outside the territory of any state. Id. art. 101(a). Thus, 
+UNCLOS is not applicable to attacks that occur in territorial waters and ports. In such 
+cases, only the nation in whose territory the attacks occurred will have jurisdiction to 
+prosecute using UNCLOS. See id. art. 2(2) (“The sovereignty of a coastal State 
+extends . . . to an adjacent belt of sea, described as the territorial sea.”). Otherwise, 
+states would have to use other legal tools—such as the Convention for the Suppression 
+of Unlawful Acts Against the Safety of Maritime Navigation (SUA Convention)—to 
+prosecute acts of piracy that occurred in the territorial waters of another state. See 
+Convention for the Suppression of Unlawful Acts Against the Safety of Maritime 
+Navigation arts. 3, 6, Mar. 10, 1988, 1678 U.N.T.S. 221 [hereinafter SUA Convention] 
+(defining piracy and the signatory states’ jurisdictions). 1322   vanderbilt journal of transnational law  [vol. 45:1283 
+of piracy to the fullest possible extent,198 a mandate which in theory 
+suggests they should assist in the arrest and prosecution of pirates.  
+  The Convention for the Suppression of Unlawful Acts Against 
+the Safety of Maritime Navigation (SUA Convention)199 addresses 
+some additional acts of maritime violence not covered by UNCLOS.200 
+Drafted in response to the Achille Lauro incident when Palestinian 
+terrorists hijacked an Italian cruise liner,201 the SUA Convention 
+prohibits both completed attacks on ships and attempts to do the 
+same.202 Under Article 3 of the SUA Convention, a prohibited offense 
+is committed by anyone who (1) “seizes or exercises control over a 
+ship by force or threat thereof or any other form of intimidation,”203 
+(2) “performs an act of violence against a person on board a ship if 
+that act is likely to endanger the safe navigation of that ship,”204 or 
+(3) attempts to do any of the above.205 Unlike UNCLOS, the SUA 
+Convention extends the definition of piracy to include attacks within 
+territorial or archipelagic waters or in port,206 as long as the ship is 
+scheduled for international navigation.207  
+                                                                                                                       
+  198.  UNCLOS, supra note 10, art. 100 (“All States shall cooperate to the fullest 
+possible extent in the repression of piracy on the high seas or in any other place outside 
+the jurisdiction of any State.”). 
+  199.  SUA Convention, supra note 197. 
+  200.  See, e.g., Rapporteurs of the Defence Committee, The Role of the European 
+Union  in  Combating  Piracy,  12,  21,  European  Security  and  Defence  Assembly, 
+Assembly of Western European Union, ESDA Doc. A/2037 (June 4, 2009) (“The SUA 
+Convention aims at suppressing unlawful acts against maritime safety . . . not covered 
+by  [UNCLOS] . . . .”);  Joseph  M.  Isanga,  Countering  Persistent  Contemporary  Sea 
+Piracy: Expanding Jurisdictional Regimes, 59 AM. U. L. REV. 1267, 1292 (2010) (“The 
+SUA [Convention] attempts to address forms of maritime violence that are not included 
+in the UNCLOS definition.”). 
+  201.  Rosario Domínguez-Matés, From the Achille Lauro to the Present Day: An 
+Assessment of the International Response to Preventing and Suppressing Terrorism at 
+Sea,  in  INTERNATIONAL  LEGAL  DIMENSION  OF  TERRORISM  231  (Pablo  Antonio 
+Fernández-Sánchez ed., 2009); see also, e.g., Malvina Halberstam, Terrorism on the 
+High Seas: The Achille Lauro, Piracy and the IMO Convention on Maritime Safety, 82 
+AM. J. INT’L L. 269, 269–72 (1988) (describing the Achille Lauro hijacking and the 
+incident’s impact on maritime terrorism law). 
+  202.  See SUA Convention, supra note 197, art. 3 (establishing a number of 
+offenses that involve the endangerment of ships, including attempts to commit any of 
+the listed offenses). 
+  203.  Id. art. 3(1)(a). 
+  204.  Id. art. 3(1)(b). 
+  205.  Id. art. 3(2)(a). 
+  206.  Cf. id. art. 4 (extending the Convention’s application to all ships scheduled 
+to navigate beyond the territorial seas of a single state). 
+  207.  Id. Nevertheless, although the SUA Convention theoretically covers acts of 
+violence against persons on a ship while in port, those acts must also be “likely to 
+endanger the safe navigation of that ship.” Id. art. 3(1)(b). Because of this language, 
+using the SUA Convention to prosecute attacks while a ship is docked may be difficult. 2012]    virtual witness confrontation in criminal cases  1323 
+  On the other hand, in contrast to UNCLOS, the SUA Convention 
+does not provide for the exercise of universal jurisdiction.208 Only 
+signatory states may prosecute violations of the SUA Convention, and 
+they need some nexus to the offense in order to do so. States may only 
+prosecute using the SUA Convention when (1) the offense was against 
+a ship flying its flag, (2) the offense occurred in its territory, (3) the 
+offense was committed by a national of the state, or (4) a national of 
+the state was a victim of the offense.209 Accordingly, if a signatory 
+state with the required nexus to the offense refuses to prosecute, or if 
+the states with a nexus to the offense have not ratified the SUA 
+Convention,  pirates  and  maritime  terrorists  will  go  unpunished 
+notwithstanding  the  SUA  Convention’s  increased  territorial 
+coverage.210  
+C. The Tendency to Release, Rather than Prosecute, Captured Pirates 
+  Despite this international legal framework authorizing states—
+and,  indeed,  encouraging  them—to  prosecute  maritime  piracy 
+offenses, states are more inclined to release the pirates they capture 
+than to try them in their own domestic courts. Since 2008, numerous 
+states have provided ships, crew, money, and technology to support a 
+variety of naval forces that conduct counter-piracy operations in the 
+Gulf of Aden and the Indian Sea. The multinational naval force CTF-
+150 was the first to conduct counter-piracy operations in late 2008. In 
+January 2009, it was replaced by another multinational naval force, 
+CTF-151.211 In 2008, the European Union launched its own combined 
+naval force (Operation Atalanta) aimed at “deterr[ing], prevent[ing], 
+and repress[ing] acts of piracy and armed robbery” in the seas off the 
+coast  of  Somalia.212  Since  2008,  the  North  Atlantic  Treaty 
+Organization has sent ships to the Horn of Africa to conduct counter-
+piracy operations.213 Other countries have independently sent their 
+                                                                                                                       
+  208.  See, e.g., Isanga, supra note 200, at 1292 (“The SUA [Convention] . . . did 
+not extend the scope of universal jurisdiction.”); Eugene Kontorovich, Recent Case, 
+United States v. Shi, 525 F.3d 709 (2008), 103 AM. J. INT’L L. 734, 738 (2009) (“[T]he 
+SUA Convention does not create universal crimes.”). 
+  209.  SUA Convention, supra note 197, art. 6. 
+  210.  See George D. Gabel, Jr., Smoother Seas Ahead: The Draft Guidelines as an 
+International Solution to Modern-Day Piracy, 81 TUL. L. REV. 1433, 1445 (2007) 
+(discussing limits of jurisdiction granted by the SUA Convention). 
+  211.  LAUREN PLOCH ET AL., CONG. RESEARCH SERV., R40528, PIRACY OFF THE 
+HORN OF AFRICA 22 (2010), available at http://www.scribd.com/doc/47456778/Piracy-off-
+the-Horn-of-Africa-Apr-2010-CRS-R40528. 
+  212.  Council Decision 2008/918/CFSP, 2008 O.J. (L 330) 19–20 (EU), available at 
+http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:330:0019:0020:EN:PDF 
+(approving Operation Atalanta). 
+  213.  See PLOCH ET AL., supra note 211, at 23 (summarizing the North Atlantic 
+Treaty Organization (NATO) Operation Ocean Shield). 1324   vanderbilt journal of transnational law  [vol. 45:1283 
+own naval forces to the region to provide escorts to ships and to 
+engage  in  antipiracy  operations.214  According  to  a  recent  report, 
+during 2011, “over 30 countries contributed military forces to counter-
+piracy operations in the Gulf of Aden and Indian Ocean,” and the 
+likely number of naval ships patrolling those areas on any given day 
+has been between ten and sixteen.215  
+  To their credit, the naval forces deployed by states have had 
+some success in both repressing pirate attacks and capturing pirates. 
+According to the report by Jack Lang, the UN Secretary-General’s 
+Special Advisor on Legal Issues Relating to Piracy off the Coast of 
+Somalia, naval forces “thwarted 126 attacks in 2008, 176 in 2009 and 
+127 in 2010.”216 As for 2011, the IMB reports that although Somali 
+pirates  apparently  staged  237  attacks,  the  number  of  successful 
+hijackings  decreased  due,  at  least  in  part,  to  the  naval  forces’ 
+antipiracy patrols.217 Furthermore, the navies have captured many of 
+the  pirates  who  attacked  vessels  at  sea.  Reports  indicate  that 
+between January and August 2009 alone, naval patrols captured 517 
+pirates and killed ten.218  
+  Yet, while the navies have contributed to a decrease in the rate 
+of  successful  hijackings,  they  have  not  been  able  to  “contain  the 
+growth in the overall number of attacks and the area in which pirates 
+can operate.”219 Many blame the prevalence of the navies’ “catch and 
+release” policies to help explain why pirate attacks are not becoming 
+less frequent despite the antipiracy efforts of the world’s navies.220 
+For example, in 2008, the Danish navy released ten suspected Somali 
+                                                                                                                       
+  214.  See id. (discussing the naval forces of India, China, and Russia). 
+  215.  Bowden & Basnet, supra note 185, at 24–25. 
+  216.  Lang, supra note 12, ¶ 39. 
+  217.  ICC–IMB 2011 Report, supra note 11, at 20. 
+  218.  PLOCH ET AL., supra note 211, at 22. 
+  219.  FOREIGN AFFAIRS COMMITTEE 2012 REPORT, supra note 174, at 3; see also 
+Lang, supra note 12, ¶ 39 (noting that the number of pirate attacks from 2007–2010 
+has continued to grow despite the presence of naval forces). 
+  220.  See S.C. Res. 1918, ¶ 1, U.N. Doc. S/RES/1918 (Apr. 27, 2010) (stating that 
+“the failure to prosecute persons responsible for piracy and armed robbery at sea” was 
+undermining  the  international  community’s  antipiracy  efforts);  U.N.  Secretary-
+General, Report of the Secretary-General on Possible Options To Further the Aim of 
+Prosecuting  and  Imprisoning  Persons  Responsible  for  Acts  of  Piracy  and  Armed 
+Robbery at Sea off the Coast of Somalia, Including, in Particular, Options for Creating 
+Special  Domestic  Chambers  Possibly  with  International  Components,  a  Regional 
+Tribunal  or  an  International  Tribunal  and  Corresponding  Imprisonment 
+Arrangements, Taking into Account the Work of the Contact Group on Piracy off the 
+Coast of Somalia, the Existing Practice in  Establishing International and Mixed 
+Tribunals, and the Time and Resources Necessary To Achieve and Sustain Substantive 
+Results, ¶ 9, U.N. Doc. S/2010/394 (July 26, 2010) [hereinafter S/2010/394 Report] (“In 
+order  to  be  effective,  naval  operations  apprehending  suspects  should  result  in 
+prosecutions. The risk otherwise is that suspects are released at sea, or repatriated, 
+and return to commit further acts of piracy or armed robbery at sea.”). 2012]    virtual witness confrontation in criminal cases  1325 
+pirates, even though they were armed and had notes on them stating 
+how they would split their piracy proceeds.221 The United Kingdom’s 
+and  Canada’s  naval  forces  have  both  been  accused  of  releasing 
+suspected pirates.222 In fact, within a one-month period in 2010, the 
+United Kingdom’s Royal Navy vessels found suspected pirates on 
+board  three  different  motherships  with  hostages,  but  thereafter 
+released not only the hostages, but also the suspected pirates.223 
+From mid-August to mid-December 2010, the European Union’s naval 
+forces,  Operation  Atalanta,  captured  fifty-one  suspected  pirates 
+whom  it  immediately  freed.224  In  May  2010,  the  United  States 
+released ten pirates it had been holding for weeks after concluding 
+that no nation was willing to undertake the burden of prosecuting 
+them.225 In fact, according to the Lang Report, only about one-third of 
+the pirates captured between 2008 and 2010 were prosecuted.226 As 
+dismal as that number may seem, the numbers only get worse. Mr. 
+Lang explained that at the beginning of 2011, the rate of prosecution 
+had dropped to about 10 percent of captured pirates with “more than 
+90 per cent of the pirates apprehended by States patrolling the seas 
+[being] released without being prosecuted.”227 He emphasized that 
+                                                                                                                       
+  221.  Paula Prada & Alex Roth, On the Lawless Sea, It’s Not Easy Putting Somali 
+Pirates  in  the  Dock,  WALL  ST.  J.  (Dec.  12,  2008),  http://online.wsj.com/article/ 
+SB122903542171799663.html; see also Oliver Hawkins, What To Do with a Captured 
+Pirate, BBC NEWS (Mar. 10, 2009, 10:49 AM), http://news.bbc.co.uk/2/hi/7932205.stm 
+(discussing the 2008 capture and release of the ten pirates). 
+  222.  See  Canadian  Warship  Helps  U.S.-Flagged  Vessel  Evade  Pirates  off 
+Somalian Coast, GUELPH MERCURY, May 22, 2009, available at 2009 WLNR 9831454 
+(discussing Canada’s lack of jurisdiction over suspected pirates); Jason Groves, Navy 
+Gives  Somali  Pirates  Food  and  Water . . . Then  Lets  Them  Sail  off  Scot  Free, 
+MAILONLINE  (Jan.  27,  2010,  7:46  PM),  http://www.dailymail.co.uk/news/article-
+1246300/Navy-gives-pirates-food-water--lets-sail-scot-free.html  (describing  several 
+incidents when suspected pirates were released). 
+  223.  See FOREIGN AFFAIRS COMMITTEE 2012 REPORT, supra note 174, at Ev 43–
+44 (questioning of Mr. Henry Bellingham, Minister of Parliament) (explaining why the 
+United  Kingdom  has  not  brought  any  pirates  back  to  the  United  Kingdom  for 
+prosecution). 
+  224.  Lang, supra note 12, ¶ 43. 
+  225.  Craig Whitlock, Navy Releases Accused Somali Pirates Held on Warship for 
+Six Weeks, WASH. POST (May 28, 2010, 6:18 PM), http://www.washingtonpost.com/wp-
+dyn/content/article/2010/05/28/AR2010052804108.html. 
+  226.  Lang, supra note 12, ¶ 43. 
+  227.  Id.  at  ¶ 14.  In  his  testimony  before  the  UK  Parliament,  Minister 
+Bellingham suggested that the 90 percent release rate is somewhat misleading since 
+not all cases in which suspected pirates are captured would be worthy of prosecution 
+due to insufficient evidence that a crime has been committed. Captain David Reindorp 
+noted the difficulty of producing evidence of piracy in cases where suspected pirates are 
+caught near shore with AK47s, but no other evidence to prove they are pirates, as 
+opposed to simple fisherman carrying arms for protection. See FOREIGN AFFAIRS 
+COMMITTEE 2012 REPORT, supra note 174, at Ev 43–44 (discussing the challenges of 
+distinguishing  between  pirates,  hostages,  and  fishermen).  The  United  Kingdom’s 
+ 1326   vanderbilt journal of transnational law  [vol. 45:1283 
+the “catch and release” policy has become the rule, rather than the 
+exception.228  
+  Thus,  although  the  evidence  indicates  the  naval  fleets  have 
+contributed to counter-piracy efforts, the full deterrent effect of those 
+resources likely cannot be realized absent a significant increase in 
+prosecution  rates.229  Consider,  for  example,  how  the  10  percent 
+prosecution  rate  might  affect  the  cost-benefit  calculations  of  an 
+ordinary Somali male making the decision of whether to become a 
+pirate. Some economists estimate that “the average pirate could earn 
+between  $33,726  and  $78,840  a  year,  depending  on  the  ransom 
+paid”—an amount of money which far exceeds the $500 annual per 
+capita  GDP  of  Somalia.230  While  the  remuneration  to  pirates  is 
+obviously higher than what a Somali male could otherwise earn, 
+being a pirate also includes some risks of death or imprisonment. But, 
+if the risks of imprisonment are as low as they are presently, the 
+decision to choose piracy necessarily becomes easier.231 Indeed, the 
+“catch and release” policies send the message that “crime can pay,” 
+and the evidence shows that some pirates get that message inasmuch 
+as  they  return  to  the  crime  of  piracy  after  they  have  been 
+apprehended  and  released.232  The  2012  UK  House  of  Commons 
+Foreign Affairs Committee Report makes the point well: 
+                                                                                                                       
+Foreign Affairs Committee, however, responded to the Minister’s testimony by pointing 
+out: 
+[N]ot all claims made by the Government about the difficulty in securing 
+evidence were wholly convincing: when pirates are observed in boats with guns, 
+ladders and even hostages, it beggars belief that they cannot be prosecuted, 
+assuming that states have the necessary laws in place and the will to do so. 
+Id. at 45. 
+  228.  See Lang, supra note 12, ¶ 43–44 (discussing the frequency at which 
+suspected pirates are released without prosecution). 
+  229.  Deterrence and the prevention of future criminal activity are primary goals 
+of criminal prosecutions. See Harmelin v. Michigan, 501 U.S. 957, 1007–08 (1991) 
+(Kennedy, J., concurring) (noting that deterrence is one of the “first purposes of 
+criminal law”); M. Cherif Bassiouni, Combating Impunity for International Crimes, 71 
+U. COLO. L. REV. 409, 410 (2000) (noting that one of the purposes of pursuing justice 
+and accountability is that doing so “contributes to the prevention and deterrence of 
+future conflicts”). 
+  230.  GEOPOLICITY, THE ECONOMICS OF PIRACY: PIRATE RANSOMS & LIVELIHOODS 
+OFF THE COAST OF SOMALIA 12 tbl.1 (2011), available at http://www.geopolicity.com/ 
+upload/content/pub_1305229189_regular.pdf. 
+  231.  See FOREIGN AFFAIRS COMMITTEE 2012 REPORT, supra note 174, at 3 
+(“[T]he risk to pirates of serious consequences is still too low to outweigh the lucrative 
+rewards from piracy.”). 
+  232.  See Lang, supra note 12, ¶ 14 (stating that some of the very pirates who 
+were previously apprehended and released have thereafter been identified as repeat 
+offenders).  2012]    virtual witness confrontation in criminal cases  1327 
+[S]imply returning suspected pirates to their boats or to land . . . may 
+temporarily disrupt their activities, [but it] provides little long term 
+deterrence and has demonstrably failed to prevent an annual increases 
+[sic] in both the number of pirates going to sea and in the number of 
+attacks.233 
+D. The Need to Encourage More Piracy Prosecutions  
+by Improving Access to Witness Testimony  
+  Increasing  the  present  ratio  of  prosecutions  as  compared  to 
+releases can help guarantee that more suspected pirates are brought 
+to justice. It should also help to deter future acts of piracy because 
+increasing prosecution rates will also increase the potential costs of 
+engaging  in  piracy. As discussed  above,  the  current policy which 
+allows  the  world’s  navies  to  catch  and  release  suspected  pirates 
+appears insufficient to stem the threat modern maritime piracy poses 
+to innocent seafarers.  
+  Of  course,  there  are  many  reasons  states  may  not  want  to 
+assume the burden of prosecuting piracy cases, some of which have 
+been examined by the author in previous projects. States may fear 
+that if they prosecute pirates in their own territory, any convicted 
+pirates may thereafter seek asylum.234 States have also claimed that 
+they do not have the necessary national laws to prosecute acts of 
+piracy.235  However,  as  demonstrated  above,  international  law 
+authorizes states to prosecute acts of piracy even when the state has 
+no particular nexus to the offense.236 Accordingly, while the author’s 
+own research confirms that some states do not in fact have sufficient 
+national laws enabling them to exercise universal jurisdiction over 
+piracy, the author also concludes there is no particular reason—other 
+than a lack of political will—to explain why states do not, or cannot, 
+have such laws.237  
+  This  Article  addresses  the  other  frequently  cited  reason  to 
+explain why states are not inclined to undertake piracy prosecutions: 
+                                                                                                                       
+  233.  FOREIGN AFFAIRS COMMITTEE 2012 REPORT, supra note 174, at 40. 
+  234.  See Yvonne M. Dutton, Pirates and Impunity: Is the Threat of Asylum 
+Claims a Reason To Allow Pirates To Escape Justice?, 34 FORDHAM INT’L L.J. 236, 292–
+95  (2011)  (analyzing  the  texts  of  several  treaties  governing  asylum  and  non-
+refoulement and concluding that even if there is some small risk that some pirates will 
+be able to claim asylum or other benefits, the problem of maritime piracy is so great 
+that developed nations should assume the risk of those additional asylum claims and 
+hold pirates accountable for their crimes). 
+  235.  See Yvonne M. Dutton, Maritime Piracy and the Impunity Gap: Insufficient 
+National Laws or a Lack of Political Will?, 86 TUL. L. REV. 1111, 1133–39 (discussing 
+states’ reluctance to prosecute pirates and their failure to implement international 
+piracy conventions). 
+  236.  See supra Part IV.B. 
+  237.  Dutton, supra note 235, at 1159–62. 1328   vanderbilt journal of transnational law  [vol. 45:1283 
+the difficulty and cost of trying cases of an international character 
+that require the state to collect evidence and produce witnesses from 
+different parts of the globe.238 As noted in Part IV.A. above, a single 
+pirate attack can involve victims (such as ship owners, cargo owners, 
+and seafarers) from a number of different countries. For countries 
+that  require  or  prefer  live  witness  testimony,  undertaking piracy 
+prosecutions is more costly and difficult than it would be if witnesses 
+could,  for  example,  provide  their  testimony  in  writing.239  And, 
+because  states  can  prosecute—and  are  encouraged  to  prosecute—
+piracy crimes using universal jurisdiction even when they have no 
+direct nexus to the attack, states could find that few, if any, witnesses 
+whose evidence they need for a trial will be state nationals. Even if 
+those witnesses were to agree to travel from their home state and 
+testify at the trial in person, the prosecuting state would still have to 
+incur the burden of paying the travel costs of those witnesses.  
+  Paying travel costs, however, may be a moot issue in many cases 
+because states ordinarily cannot actually compel foreign witnesses to 
+appear  at  trials.  As  seasoned  federal  prosecutor  Lynn  Helland 
+explains, prosecutors in the United States can only subpoena U.S. 
+citizens or residents to testify live at criminal trials.240 But U.S. 
+courts have no subpoena powers over citizens of foreign countries 
+when they are outside the United States.241 Prosecutors may still be 
+able to require some foreign witnesses to provide necessary evidence 
+if the United States has entered into a treaty or other agreement with 
+the witness’s country by which the foreign country will help obtain 
+that  evidence.  Even  with  a  treaty,  however,  the  foreign  witness 
+cannot be compelled to travel to testify in person; the evidence would 
+be provided in writing, or by some other means.242 Likewise, the 
+United  Kingdom  cannot  compel  foreign  witnesses  to  testify  at 
+                                                                                                                       
+  238.  See supra Part IV.C. 
+  239.  According to the Lang Report, most countries where maritime piracy cases 
+have been brought follow a common-law legal tradition and generally require or prefer 
+in-person witness testimony. See Lang, supra note 12, ¶ 61 (discussing the challenges 
+presented by live testimony requirements). 
+  240.  See Helland, supra note 2, at 724 & n.20 (noting that pursuant to 28 U.S.C. 
+§ 1783(a), U.S. citizens or residents are subject to a court’s subpoena power even if they 
+are located outside the country). However, citizens of a foreign country may be served 
+with a subpoena while on U.S. soil. Id. 
+  241.  Martin  Davies,  Bypassing  the  Hague  Evidence  Convention:  Private 
+International Law Implications of the Use of Video and Audio Conferencing Technology 
+in Transnational Litigation, 55 AM. J. COMP. L. 205, 232 (2007); see also Helland, supra 
+note 2, at 724 (stating that citizens of foreign countries can only be compelled to testify 
+in U.S. courts if they can be served with a subpoena while in U.S. territory or if an 
+applicable international agreement exists). 
+  242.  See Helland, supra note 2, at 724 (describing the limitations of U.S. 
+authorities’ ability to compel witness testimony). 2012]    virtual witness confrontation in criminal cases  1329 
+trials.243 In short, in the context of maritime piracy cases, courts 
+could find that many witnesses are beyond their subpoena power, 
+meaning that valuable evidence will be lost unless there is some other 
+way to secure the testimony of those witnesses.  
+  Moreover, there are many reasons why foreign witnesses may 
+not be willing to actually travel to the prosecuting state to give their 
+testimony in person. Some witnesses may be more fearful of reprisals 
+should they be seen testifying in person against suspected pirates.244 
+Some  witnesses,  such  as  crew  members  and  naval  officers,  may 
+conclude  that  taking  leave  from  work  to  travel  to  testify  would 
+unnecessarily risk the security of their employment—even if some 
+laws may supposedly require their employers to make them available 
+to testify and to pay their wages while doing so.245 Other witnesses 
+may be too ill to travel.246 In all of these cases, the state can only 
+hope to persuade the foreign witness to travel to testify since it likely 
+has no power to subpoena a trial appearance. In fact, one of the 
+United  Kingdom’s  naval  officers  pointed  to  the  unwillingness  of 
+witnesses to travel to testify live at trials in an effort to explain, in 
+part, why the United Kingdom had yet to bring any of the pirates it 
+captured back to be prosecuted.247 He testified that victims of pirate 
+attacks often claim they do not want to go anywhere to testify against 
+the pirates and that the United Kingdom could not compel foreign 
+nationals to travel from their home countries to testify.248  
+  States may be able to persuade some foreign witnesses to attend 
+a trial to testify so that justice may be done. Some foreign witnesses, 
+in fact, must have committed to making themselves available in the 
+various piracy cases that states have prosecuted.249 Nevertheless, it 
+                                                                                                                       
+  243.  See FOREIGN AFFAIRS COMMITTEE 2012 REPORT, supra note 174, at Ev 44–
+45 (testimony of Captain David Reindorp) (explaining that the United Kingdom cannot 
+compel noncitizen hostages to travel to the United Kingdom to testify against the 
+pirates who held them captive). 
+  244.  See Lang, supra note 12, ¶62 (stating that many victims sometimes fear 
+giving live testimony). 
+  245.  See id. ¶¶ 61–62 (suggesting that Security Council resolution 1950 provides 
+that seafarers must be given an opportunity to give evidence in piracy trials and that 
+employers should enshrine that right in the contracts of seafarers). 
+  246.  See, e.g., Harrell v. State, 709 So. 2d 1364, 1370 n.6 (Fla. 1998) (positing 
+that a witness may be too ill to appear away from home in person but may be able to 
+testify via teleconference). 
+  247.  See, FOREIGN AFFAIRS COMMITTEE 2012 REPORT, supra note 174, at Ev 44–
+45 (testimony of Captain David Reindorp) (discussing the difficulties of identifying and 
+prosecuting suspected pirates). 
+  248.  Id. 
+  249.  For example, data from 2011 indicates that approximately twenty countries 
+have prosecuted, or are in the process of prosecuting, at least one piracy case, and it 
+seems reasonable to assume that not all potential witnesses are nationals of the 
+prosecuting state. See Bowden & Basnet, supra note 185, at 23 (listing countries 
+holding piracy trials). 1330   vanderbilt journal of transnational law  [vol. 45:1283 
+remains true that states exercising universal jurisdiction over piracy 
+cases will likely find that they cannot compel foreign witnesses to 
+attend a trial in the prosecuting state—again, meaning that some 
+evidence will be lost, and some pirates may escape justice as a result. 
+Even  in  cases  where  the  foreign  witnesses  voluntarily  agree  to 
+appear, they may not make themselves available in a timely fashion. 
+Thus,  trial  delays  can  be  common  while  courts  await  witness 
+testimony, a fact that can prejudice the suspected pirates awaiting 
+their day in court. Indeed, Mr. Lang notes in his report that as of 
+early 2011, about 100 suspected pirates were in temporary detention 
+for  as  many  as  two  years  while  awaiting  sentencing  or  witness 
+testimony.250  
+  The  costs  and  the  difficulties  associated  with  obtaining  the 
+necessary  evidence  to  prosecute  maritime  piracy  cases  can  be 
+mitigated if courts in those countries requiring or preferring live 
+witness  testimony  adopt  a  more  flexible  rule  that  allows  some 
+witnesses to testify remotely under certain circumstances. Although 
+foreign witnesses could still not be compelled to testify, states should 
+find  it  easier  to  persuade  them  to  testify  remotely.  After  all,  by 
+testifying  remotely,  the  witness  could  avoid  the  risks  and 
+inconveniences that accompany travel and live, in-person testimony 
+in a foreign locale. In addition, states would save the costs of funding 
+witness travel. For all of these reasons, states should also be more 
+willing to assume the burden of prosecuting piracy cases that do not 
+involve their own nationals as direct victims of the attack, thereby 
+reducing the catch-and-release tendency that currently prevails. In 
+fact, Mr. Lang and the House of Commons of the United Kingdom 
+have both encouraged the potential use of two-way, live VCT as a way 
+to alleviate the difficulties associated with obtaining the necessary 
+evidence to successfully prosecute maritime piracy cases.  
+  Part V describes and discusses the author’s proposed rule to 
+allow two-way, live VCT witness testimony in maritime piracy trials 
+under certain circumstances.  
+V. A PROPOSAL TO ALLOW TWO-WAY, LIVE VCT WITNESS  
+TESTIMONY IN MARITIME PIRACY TRAILS 
+  Courts should allow witnesses to testify by two-way, live VCT in 
+maritime piracy trials on a case-by-case basis in the interests of 
+justice, upon proof by the requesting party that (1) the testimony is 
+necessary to the fair and just resolution of the case, (2) the witness is 
+unable or unwilling for good reason to travel to the court to testify in 
+                                                                                                                       
+  250.  Lang, supra note 12, ¶61. 2012]    virtual witness confrontation in criminal cases  1331 
+person, and (3) the transmission will use appropriate safeguards to 
+protect the defendant’s rights to a fair trial and to ensure the witness 
+understands his obligation to give truthful testimony. The test is not 
+meant to replace any preference for live testimony, but it should 
+facilitate obtaining evidence in piracy cases in particular instances in 
+which live testimony is simply not a real alternative. Furthermore, 
+the test seeks to ensure that remote testimony is only admitted where 
+it would be in the interests of justice to proceed remotely and when 
+the technology and the circumstances at the remote location replicate 
+as much as possible the courtroom experience, so as to protect the 
+public’s  and  the  defendant’s  interests  in  a  fair  trial.  The  rule 
+addresses only two-way, live VCT—a mode of technology that will 
+permit all parties in the courtroom and in any remote location to see 
+and hear one another at all times. As a result, although the witness is 
+at a remote location, the defendant will still be able to cross-examine 
+the witness contemporaneously during the trial proceedings and in 
+view of the judge and jury.  
+  The proposed test is designed so that remote witness testimony 
+will be permitted only when the court deems it necessary and proper. 
+It requires a case-specific determination and balances the interests of 
+the various parties to the proceeding in deciding whether allowing a 
+particular prosecution witness to testify by remote VCT is in the 
+interests of justice.251 It considers the public’s interest in ensuring 
+that  trials  of  serious  international  crimes  can  proceed  with  the 
+evidence  necessary  to  a  fair  and  just  resolution  of  the  case.  It 
+considers  the  need  to  protect  witnesses  against  risks  or 
+inconveniences associated with having to attend a trial in person. 
+Finally, it considers the defendant’s rights to a fair trial, including 
+the right to hear and cross-examine contemporaneously the witnesses 
+against him—witnesses who are also aware of their obligation to 
+speak truthfully. Each prong of the proposed test is discussed in more 
+detail below.  
+                                                                                                                       
+  251.  See,  e.g.,  supra  Part  III.A  (describing  the  various  tests  used  by  the 
+international criminal courts, all of which permit remote VCT testimony only when in 
+the interests of justice and where the court determines, for example, that the witness is 
+unable or unwilling to attend the trial, the testimony is important, and the accused is 
+not prejudiced in his right to cross-examine or confront the witness); supra Part 
+III.B.1.b. (describing the Craig test, which requires a showing of an important public 
+policy, unavailability of the witness, and that the procedure ensures the evidence is 
+reliable—including that cross-examination is permitted); supra Part III.B.2 (describing 
+the Gigante test, which permitted remote VCT testimony in the interests of justice in 
+light of exceptional circumstances—namely, whether the testimony was material, the 
+witness was unavailable, and the defendant’s confrontation rights were still protected). 1332   vanderbilt journal of transnational law  [vol. 45:1283 
+A. Testimony Necessary to the Fair and Just Resolution of the Case 
+  The first prong of the proposed test is designed to protect the 
+interest of the court and the public in ensuring that trials can proceed 
+with the evidence necessary to a fair and just resolution of the case. 
+To  be  able  to  testify  remotely,  the  witness’s  testimony  must  be 
+sufficiently important to proving or disproving the defendant’s guilt. 
+At the same time, however, the proposed test provides a method for 
+courts to  obtain  that  necessary  evidence  so  that  maritime  piracy 
+trials can go forward and also be resolved. The ICTY and ICTR both 
+expressly  consider  the  importance  of  the  witness’s  testimony  in 
+determining whether to permit remote prosecution testimony.252 The 
+Gigante court similarly considered whether the witness’s testimony 
+was material in applying its “exceptional circumstances” test to the 
+question  of  remote  adult  prosecution-witness  testimony.253  Courts 
+applying  the  Craig  test  likewise  indicated  that  obtaining  crucial 
+evidence  necessary  to  justly  and  expeditiously  resolving  criminal 
+matters can satisfy the “public policy” prong of that test. For example, 
+in  Harrell  v.  State,  the  Florida  Supreme  Court  found  that  two 
+Argentinean witnesses possessed necessary evidence and that their 
+testimony was essential to the important state interests in resolving 
+criminal  matters.254  Notwithstanding  that  it  concluded  that 
+permitting the remote witness testimony in Yates was improper, even 
+the  Eleventh  Circuit  agreed  that  the  “[g]overnment’s  interest  in 
+presenting  the  fact-finder  with  crucial  evidence  is,  of  course,  an 
+important public policy.”255 Indeed, as the Yates dissent pointed out, 
+“providing the fact-finder with reliable testimony and justly resolving 
+the  case  are  the  same  public  policies  that were  found important 
+enough to warrant the one-way procedure approved in Craig.”256  
+  The international community as a whole should have an interest 
+in making certain that states have the necessary evidence to mount 
+maritime piracy trials. As discussed above, piracy poses an ever-
+increasing threat to individuals, as well as to the safety and security 
+of the world’s shared sea lanes and the important resources that 
+travel through those seas.257 In fact, in an executive order dated April 
+12, 2010, President Barack Obama stated that acts of piracy and 
+                                                                                                                       
+  252.  See supra Part III.A.1–2 (outlining the ICTY’s and ICTR’s criteria for 
+allowing remote testimony). 
+  253.  See supra notes 131–36 and accompanying text (discussing the application 
+of the “exceptional circumstances” test). 
+  254.  See supra note 156 (discussing the Harrell case). 
+  255.  United States v. Yates, 438 F.3d 1307, 1316 (11th Cir. 2006) (en banc). 
+  256.  Id. at 1322 (Tjoflat, Marcus, & Birch, JJ., dissenting). 
+  257.  See supra Part IV.A. 2012]    virtual witness confrontation in criminal cases  1333 
+armed robbery off the coast of Somalia posed an “extraordinary threat 
+to the national security and foreign policy of the United States.”258 
+The UK House of Commons Foreign Affairs Committee recently made 
+a  similar  point,  explaining  that  piracy  threatens  the  United 
+Kingdom’s economy and security; it affects the country’s “banking, 
+insurance and shipping industries, and threatens the large volume of 
+goods which are transported to the [country] by sea.”259 There is little 
+hope  that  the  threat  posed  by  maritime  piracy  can  be  halted  or 
+pirates deterred unless states can obtain the evidence necessary to 
+prosecute pirates who attack innocent seafarers and hold them and 
+the world’s goods hostage.  
+B. Witness Unable or Unwilling for Good Reason to Testify in Person 
+  The second prong of the proposed test considers the interests of 
+the  witness  and  witness  availability.  As  discussed  in  Part  IV.D, 
+because maritime piracy is a universal-jurisdiction crime that any 
+state can prosecute without any nexus to the offense, piracy trials can 
+necessarily involve witnesses who are not state nationals. Therefore, 
+the  possibility  of  remote  testimony  in  maritime  piracy  trials  is 
+important because many witnesses will likely be beyond the state’s 
+subpoena power or otherwise unwilling to travel great distances at 
+great potential cost to their health, safety, or job security to testify 
+live at a trial in a foreign country.  
+  Furthermore, given the nature of piracy trials and the types of 
+witnesses who may have necessary evidence, this prong’s “unable or 
+unwilling for good reason” language should be broadly interpreted. 
+The case law in the international criminal courts and in the United 
+States  establishes  that  a  witness’s  poor  health  or  other  health 
+condition,  such  as  pregnancy,  is  a  well-established  reason  for 
+granting a request to testify by video.260 Case law also shows that 
+courts frequently conclude that safety or other concerns that make 
+witnesses extremely vulnerable should they have to testify live in 
+front of the defendant constitute valid reasons to grant a request to 
+                                                                                                                       
+  258.  Exec. Order No. 13,536, 75 Fed. Reg. 19,869 (Apr. 12, 2010); Exec. Notice, 
+76 Fed. Reg. 19,897 (Apr. 7, 2011) (continuing Executive Order 13,536). See generally 
+U.N. Office on Drugs and Crime, Testimony to the U.S. H.R. Foreign Affairs Subcomm. 
+on  Int’l  Orgs.,  Human  Rights  and  Oversight  (May  14,  2009),  available  at 
+http://www.unodc.org/unodc/en/about-unodc/speeches/2009-14-05.html  (discussing  the 
+threat of Somali piracy to the stability of the region, and the commercial and security 
+interest of UN Member States). 
+  259.  FOREIGN AFFAIRS COMMITTEE 2012 REPORT, supra note 174, at 5. 
+  260.  See, e.g., supra notes 39, 54, 68, 126 and accompanying text (discussing 
+pertinent case law). 1334   vanderbilt journal of transnational law  [vol. 45:1283 
+testify remotely.261 Like the ICC, however, courts should decline to be 
+constrained regarding the circumstances under which they may find 
+a witness has good reasons for being unwilling to attend a trial in 
+person.262 Indeed, some courts have found that job-related difficulties 
+are sufficient to establish witness unavailability when considering a 
+request to allow remote testimony.263 In the piracy context, it is quite 
+conceivable that concerns relating to job security will prompt some 
+witnesses to conclude that testifying in a foreign country is too risky. 
+As  the  Lang  Report  notes,  some  victims  and  witnesses  of  piracy 
+attacks  have  refused  to  testify  because  they  are  afraid  their 
+employers would not give them time off.264 Naval personnel may also 
+have some difficulty leaving their tours of duty for the time it might 
+take to travel from sea to a foreign location to testify in person at a 
+trial.265  
+  Witnesses should also be deemed unable or unwilling for good 
+reason to testify at trial in person when they are beyond the subpoena 
+power of the foreign court and cannot be persuaded to travel. While it 
+is true that some nations may have procedures like the Rule 15 
+deposition procedure sometimes used in the United States to preserve 
+the evidence of witnesses who may be unavailable at trial, these 
+procedures  are  cumbersome  and  costly.  Moreover,  despite  the 
+Eleventh Circuit’s comments in Yates, there is reason to believe that 
+a Rule 15 deposition procedure is not as protective of a defendant’s 
+rights as the two-way, live VCT procedure. After all, the Rule 15 
+procedure  allows  some  depositions  to  go  forward  without  the 
+defendant’s  in-person  participation  and  does  not  permit 
+contemporaneous cross-examination at trial. This Article discusses 
+these points in more detail below. 
+  First, even if a nation has procedures similar to Rule 15’s, those 
+procedures can be cumbersome. As the dissent in Yates pointed out, 
+arranging Rule 15 depositions is difficult because one has to deal with 
+travel  to  a  foreign  state.  Those  arrangements,  even  if  ultimately 
+                                                                                                                       
+  261.  See, e.g., supra notes 55, 81 and accompanying text (discussing pertinent 
+case law). 
+  262.  See supra note 81 and accompanying text (discussing the ICC’s willingness 
+to allow video testimony when the witnesses’ personal circumstances encourage it). 
+  263.  See, e.g., supra notes 58, 86 and accompanying text (discussing pertinent 
+case law). 
+  264.  See Lang, supra note 12, ¶ 61 (discussing the impediments to in-person 
+testimony). 
+  265.  See, e.g., Standards of Military Commissions and Tribunals: Testimony 
+Before the H. Armed Servs. Comm., 106th Cong. (2006) (statement of Gerald Gahima, 
+Senior  Fellow,  U.S.  Inst.  of  Peace),  available  at  http://www.usip.org/publications/ 
+practice-international-criminal-tribunals-and-their-relevance-military-commissions-
+light-h (noting that substitutes for requiring the live trial testimony of military 
+commanders, for example, can help in the situation where those persons need to 
+remain in the field working).  2012]    virtual witness confrontation in criminal cases  1335 
+successful, can take time and will likely result in trial delays to the 
+prejudice of all parties to the proceeding.266 When the suspect is in 
+custody, those arrangements become even more burdensome. Foreign 
+countries do not need to permit suspects who are accused of violent 
+crimes and in custody onto their soil and into their own temporary 
+custody.267 And, in the piracy context, it would not be unusual for 
+suspects to be in state custody while awaiting trial given the nature 
+of the violent crimes pirates commit and the fact that the pirates will 
+often not be nationals of the prosecuting state. Accordingly, while 
+taking a deposition of the witness in his home country may be an 
+alternative in some cases, when the defendant cannot attend the 
+deposition, the procedure seems particularly inferior to permitting 
+the witness to testify remotely at the trial.  
+  Second, a deposition that occurs some years, months, or weeks 
+before  the  actual  trial  does  not  provide  the  same  rights  of 
+contemporaneous cross-examination, or even confrontation, as does 
+the opportunity to question a witness who appears at the trial by two-
+way, live VCT. This Part discusses in greater detail below the various 
+ways in which two-way, live VCT mirrors the trial experience when 
+witnesses testify in person. One benefit two-way, live VCT has over 
+procedures  allowing  for  the  introduction  of  previously  recorded 
+deposition  testimony  is  that  the  defense  can  tailor  its  cross-
+examination of prosecution witnesses to what it has learned about the 
+prosecution’s case from all of the other evidence produced at trial.268  
+  Finally, Rule 15 deposition procedures can be costly for the state. 
+In the maritime piracy context, those costs could be quite substantial 
+since many witnesses with relevant and necessary evidence will likely 
+live in foreign jurisdictions. Not all states will have the resources to 
+fund foreign travel for depositions, and even states with sufficient 
+resources are unlikely to want to fund such travel. States are not 
+embracing  their  duty  to  prosecute  piracy  cases  using  universal 
+jurisdiction.  They  are  unlikely  to  change  their  current  behavior 
+unless mounting such prosecutions becomes less—rather than more—
+burdensome.  
+  It is true that states may not be able to persuade all witnesses 
+who are beyond their court’s subpoena powers to testify remotely by 
+two-way,  live  VCT.  Nevertheless,  there  can  be  no  question  that 
+remote testimony is less of a burden on the witness than traveling to 
+a foreign state to testify in person. Thus, it should be the case, as the 
+                                                                                                                       
+  266.  United States v. Yates, 438 F.3d 1307, 1323 (11th Cir. 2006) (en banc) 
+(Tjoflat, Marcus & Birch, JJ., dissenting). 
+  267.  See United States v. McKeeve, 131 F.3d 1, 7 (1st Cir. 1997) (discussing the 
+difficulties involved in arranging the testimony of a foreign defendant). 
+  268.  See id. at 8. (noting that a court would want to consider the importance of 
+having testimony given in the context of the trial, rather than at some earlier date).  1336   vanderbilt journal of transnational law  [vol. 45:1283 
+international criminal courts and courts in the United States have 
+found, that many witnesses will agree to suffer the inconvenience of 
+testifying remotely in order help bring pirates to justice.  
+C. Transmission and Other Safeguards to Protect  
+Defendant’s Fair-Trial Rights 
+  The third and final part of the proposed test focuses on the 
+interest in ensuring that the trial is fair from the perspective of the 
+defendant—and, indeed, the public. It addresses concerns relating to 
+protecting the defendant’s right to be confronted by and be able to 
+cross-examine witnesses who testify against him. It also addresses 
+the need to have other safeguards in place at the remote site so that 
+the  witness  can  testify  freely,  but  with  the  understanding  that 
+testimony must be given truthfully.  
+  First, because the proposed rule contemplates only two-way, live 
+VCT, it already guarantees that the remote testimony will replicate 
+in-person  testimony  at  trial  better  than  one-way  modes  of 
+transmitting testimony. The two-way, live VCT technology allows 
+testifying witnesses to see and respond to questioning by courtroom 
+participants.  The  courtroom  participants  can  also  see,  hear,  and 
+respond to the witness. Indeed, the international criminal courts have 
+concluded  that  defendants’  cross-examination  rights  are  not 
+compromised when witnesses testify remotely by two-way, live VCT 
+because the technology permits the defense to examine the witness 
+contemporaneously during the witness’s remote testimony at trial.269 
+Moreover, even in the United States, the Supreme Court has stated 
+that the Confrontation Clause does not guarantee defendants “the 
+absolute right to a face-to-face meeting with witnesses against them 
+at trial.”270 Two-way, live VCT ensures that the defendant can still 
+cross-examine the witnesses against him, thus satisfying what the 
+Supreme Court has stated to be the most fundamental right protected 
+by the Confrontation Clause.271  
+                                                                                                                       
+  269.  See, e.g., supra note 44 and accompanying text (quoting the ICTY as stating 
+that videoconferencing “respects the right of the accused to cross-examine and directly 
+confront  witnesses  while  observing  their  reactions”);  supra  notes  85–86  and 
+accompanying text (explaining that the ICC has concluded that a defendant’s rights to 
+cross-examine witnesses would not be compromised where a witness was subject to 
+contemporaneous cross-examination during remote testimony). 
+  270.  Maryland v. Craig, 497 U.S. 836, 844 (1990); see also Kweku Vanderpuye, 
+Traditions in Conflict: The Internationalization of Confrontation, 43 CORNELL INT’L 
+L.J. 513, 536 (2010) (suggesting that the United States is virtually alone in viewing 
+confrontation as something of a categorical imperative even where there are other 
+competing factors that show the overall fairness of the trial proceedings). 
+  271.  See discussion supra Part III.B.3 (explaining Crawford v. Washington, 541 
+U.S. 36, 61–62 (2006)). 2012]    virtual witness confrontation in criminal cases  1337 
+  It is true that not all courts appear to agree that remote witness 
+testimony sufficiently replicates the experience of live testimony in 
+the courtroom. The Yates majority stated the “simple truth” that 
+“confrontation through a video monitor is not the same as physical 
+face-to-face confrontation.”272 Although that statement is necessarily 
+true since the two methods of testifying are not “identical,” the other 
+“simple  truth”  is  that  the  Supreme  Court  has  stated  that  the 
+Confrontation  Clause  does  not  absolutely  guarantee  face-to-face 
+confrontation.273 Indeed, the Craig Court found that permitting a 
+child witness to testify by one-way, closed-circuit television did not 
+violate the defendant’s confrontation rights. Here, the two-way, live 
+VCT  procedure  more  closely  simulates  the  experience  of  live 
+courtroom  testimony  than  the  one-way  procedure  does  since  the 
+witness  and  courtroom  participants  can  see  each  other.274  As 
+previously  noted,  Professor  Lederer  has  suggested  that  with 
+improvements in technology, one may have difficulty observing that a 
+remote witness is not actually physically present at the trial.275  
+  In  addition  to  the  question  of  the  defendant’s  ability  to 
+adequately cross-examine or confront a remote witness, some courts 
+have  questioned  whether  courtroom  participants  can  adequately 
+assess the demeanor of a remote witness. For example, one chamber 
+of  the  ICTR  refused  to  permit  an  important  witness  to  testify 
+remotely,  citing  concerns  that  it  would  be  unable  to  sufficiently 
+observe the witness’s demeanor—and thus determine credibility.276 
+The chamber’s comment, however, should be considered alongside the 
+decisions of many other courts admitting two-way, live VCT after 
+concluding  that  allowing  such  testimony  would  still  protect  the 
+defendant’s rights to a fair trial. Although remote testimony is used 
+less frequently in criminal cases, its more regular use in civil cases 
+suggests  that  courts  are  comfortable  that  the  technology  can 
+sufficiently convey the image and voice of witnesses to the trier of 
+fact.277 In any event, there is little reason to believe that judges and 
+juries cannot assess a witness’s demeanor equally well on video as in 
+                                                                                                                       
+  272.  See supra text accompanying note 142. 
+  273.  Craig, 497 U.S. at 844. 
+  274.  See United States v. Yates, 438 F.3d 1307, 1335 (11th Cir. 2006) (en banc) 
+(Marcus, Tjoflat & Birch, JJ., dissenting) (discussing the benefits of the two-way 
+procedure); see also United States v. Abu Ali, 528 F.3d 210, 242 (4th Cir. 2008) (stating, 
+in a case where witnesses were deposed from Saudi Arabia with defendant in the 
+United States, that the two-way, live deposition procedures used were in some ways 
+more protective of the defendant’s confrontation rights than the procedures used in 
+Craig). 
+  275.  See supra note 28 and accompanying text. 
+  276.  See supra note 62 and accompanying text. 
+  277.  See, e.g., supra notes 30–32 and accompanying text (discussing the various 
+uses of VCT in foreign and domestic courts). 1338   vanderbilt journal of transnational law  [vol. 45:1283 
+person.  In  fact,  the  videoconference  procedure  may  offer  the  fact 
+finder a better view of the witness depending on the size of the video 
+screen and its placement.278 Moreover, some studies have shown that 
+jurors tend to perceive remote witnesses very much like they perceive 
+witnesses who testify live in the courtroom.279 Because people around 
+the world are increasingly using video technology to communicate 
+with each other for personal and other reasons, one may expect that 
+judges and jurors will only become increasingly comfortable viewing 
+witnesses remotely.  
+  Finally, the proposed rule only authorizes the use of two-way, 
+live VCT in the interests of justice when steps are taken to make sure 
+the witness at the remote location understands the obligation to give 
+truthful testimony. Accordingly, just as the international criminal 
+tribunals  required  that  witnesses  testify  in  locations  such  as 
+courtrooms  or  embassies,  so  too  should  courts  require  remote 
+witnesses in maritime piracy trials to appear at a location that will 
+convey the seriousness of the proceeding.280 To guarantee that the 
+witness is not coached at the remote location, courtroom officials or 
+some  other  neutral  officer  should  oversee  remote  proceedings.  In 
+addition, courts could allow the parties to send a representative to the 
+remote location to act as observers should they wish to do so.281 
+Implementing these procedures in a foreign location will require the 
+assistance of foreign governments. However, because maritime piracy 
+is harming the international community as a whole, and because the 
+foreign  state  should  be  grateful  another  state  has  assumed  the 
+burden  of  prosecution,  one  should  expect  some  cooperation  from 
+states.  Moreover,  most  states  are  parties  to  UNCLOS  and  have 
+agreed to cooperate to the fullest extent possible in the repression of 
+piracy.282 Even though the treaty contains no mechanism to enforce 
+this obligation, the prosecuting state could reference this obligation in 
+an  effort  to  obtain  the  cooperation  of  other  states  to  assist  in 
+facilitating remote witness testimony.  
+  Finally, so that the remote witness understands the obligation to 
+testify truthfully, the trial court and the courtroom official or other 
+neutral officer should place the witness under oath and inform him 
+                                                                                                                       
+  278.  See Yates, 438 F.3d at 1334 (Marcus, Tjoflat & Birch, JJ., dissenting) 
+(noting that the videoconference procedure may make the witness’s image easier for 
+the fact finder to observe than had the witness testified in person). 
+  279.  See supra note 27 and accompanying text. 
+  280.  See supra text accompanying note 47 (discussing ICTY guidelines for the 
+orderly conduct of VCT); supra text accompanying notes 73–76 (discussing SCSL 
+safeguards for remote witness testimony). 
+  281.  See  supra  text  accompanying  notes  73–76  (allowing  for  a  court 
+representative to be present in a remote courtroom). 
+  282.  See supra text accompanying note 198 (discussing states’ obligations under 
+UNCLOS). 2012]    virtual witness confrontation in criminal cases  1339 
+that failure to tell the truth could result in a prosecution for perjury 
+or other criminal punishment.283 Of course, each state’s perjury laws 
+may differ, but many should be sufficient to subject the witness to a 
+perjury prosecution. It bears noting that the Yates and Harrell trial 
+courts administered oaths to the foreign witnesses in Australia and 
+Argentina, respectively.284 Furthermore, like the extradition treaty 
+between the United States and Argentina discussed in Harrell, other 
+countries likely have extradition treaties that provide for extradition 
+for the crime of perjury.  
+VI.  CONCLUSION 
+  Allowing  the  use  of  two-way,  live  remote  witness  VCT  in 
+maritime piracy cases on a case-by-case basis when the proposed rule 
+is satisfied should help to facilitate the prosecution of these cases and 
+help end the impunity gap that currently prevails. States would not 
+have  to  be  worried  that  they  could  never  obtain  the  evidence 
+necessary to successfully mount a piracy case because they could offer 
+witnesses the possibility of testifying remotely. The rule ensures that 
+courts  permit  remote  prosecution-witness  testimony  only  when  it 
+would further the interests of justice and also protect the defendant’s 
+rights to a fair trial. The witness’s evidence has to be sufficiently 
+important, so that it is necessary to the fair and just resolution of the 
+case. The witness has to be unable or unwilling to attend the trial for 
+good reason—such as a foreign witness beyond the subpoena power of 
+the state or a witness who would suffer health or job-related risks 
+should he be required to attend a trial in person. Furthermore, even 
+though the witness would not be in the courtroom, the two-way, live 
+VCT technology enables all parties—whether in the courtroom or the 
+remote location—to see and hear one another so that defense counsel 
+can subject the witness to real-time cross-examination and so that the 
+courtroom  participants  can  assess  the  witness’s  demeanor  at  the 
+same time.  
+  The technology necessary to permit two-way, live VCT remote 
+witness testimony is not without cost. However, as noted above, the 
+international  criminal  courts  and  the  courts  in  many  developed 
+nations are already using the technology.285 To the extent that less-
+                                                                                                                       
+  283.  See Maryland v. Craig, 497 U.S. 836, 845–46 (1990) (discussing the rights 
+guaranteed by the Confrontation Clause). 
+  284.  United States v. Yates, 438 F.3d 1307, 1310 (11th Cir. 2006) (en banc); 
+Harrell v. State, 709 So. 2d 1364, 1371 (Fla. 1998). 
+  285.  See supra note 30 and accompanying text (providing examples of courts 
+that use VCT); see also Heru Andriyanto, Court To Allow Video Link Testimony in 
+Bashir  Trial,  JAKARTA  GLOBE  (Mar.  11,  2011),  http://www.thejakartaglobe.com/ 
+ 1340   vanderbilt journal of transnational law  [vol. 45:1283 
+developed nations do not have the technology or the necessary funds 
+to  obtain  it,  wealthier  nations  could  assist.  After  all,  the  world 
+community is spending more than $1 billion each year to support the 
+antipiracy efforts of the various patrolling navies.286 Nations are also 
+providing funds to assist Kenya and the Seychelles in developing 
+their courts and prisons so that they can aid in prosecuting pirates.287 
+There seems little reason not to spend some funds on helping nations 
+obtain the technology to allow witnesses to testify remotely using 
+VCT if doing so would also encourage those nations to share the 
+burden of prosecuting piracy cases.  
+  The  international  community  must  seek  solutions,  and 
+sometimes novel solutions, if it hopes to put an end to the current 
+situation in which pirate attacks are ever-increasing in number, in 
+violence, and in payoffs to pirates. International law permits even 
+those states with no nexus to the offense to prosecute pirates, but 
+states are releasing the pirates they capture instead of prosecuting 
+them. They are doing so in part because of the difficulties associated 
+with  obtaining  evidence  from  witnesses  who  are  often  foreigners 
+beyond the state’s subpoena power. The proposed rule offers at least a 
+partial solution to the culture of impunity that currently surrounds 
+piracy. It suggests a less burdensome and less costly way to ensure 
+that states can obtain the necessary evidence to prosecute maritime 
+piracy cases, while at the same time protecting the public’s and the 
+defendant’s interests in ensuring that trials are conducted in a fair 
+and just manner.  
+                                                                                                                       
+home/court-to-allow-video-link-testimony-in-bashir-trial/427957 (noting that a court in 
+India approved a request to permit sixteen witnesses to testify from a remote location 
+in a trial against cleric Abu Bakar Bahsir by way of video link because of security 
+concerns). 
+  286.  David Gauvey Herbert, Piracy Is Down, and Moving Farther Out, NAT’L J., 
+(Apr. 21, 2010, 4:49 PM), http://burnafterreading.nationaljournal.com/2010/ 04/piracy-
+is-down-and-why-thats-b.php (suggesting that the EU, NATO, and U.S. antipiracy 
+operations cost slightly less than $1.9 billion per year to support). 
+  287.  Kenya  and  the  Seychelles  have  both  made  agreements  with  various 
+countries to accept some arrested pirates for trial. See Denmark, Seychelles in Deal To 
+Prosecute Pirates, REUTERS (May 25, 2011, 3:52 PM), http://af.reuters.com/article/ 
+somaliaNews/idAFLDE74O1RI20110525. The UN Office on Drugs and Crime, with the 
+support from the United Kingdom and others, for example, provides funds to support 
+court and prison facilities in both countries. See, e.g., FOREIGN AFFAIRS COMMITTEE 
+2012 REPORT, supra note 174, at Ev 69; Lang, supra note 12, ¶¶ 65–66 & n.37. Kenya, 
+however, has indicated that it will not continue to accept a great number of captured 
+pirates for trial. See, e.g., Jeff Davis, Kenya Cancels Piracy Trial Deals, SUNDAY 
+NATION  (Sept..  30,  2010,  9:48  PM),  http://www.nation.co.ke/News/Kenya+cancels+ 
+piracy+trial+deals/-/1056/1021740/-/yfbkamz/-/index.html  (reporting  that  Kenya  had 
+terminated agreements committing to try captured  pirates in its courts); Lillian 
+Leposo, Kenya Ends Agreement with EU to Prosecute Suspected Somali Pirates, CNN 
+WORLD  (Oct.  4,  2010),  http://articles.cnn.com/2010-10-04/world/kenya.eu.pirates_1_ 
+somali-pirates-kenyan-authorities-kenya-s-ministry?_s=PM:WORLD (same). 

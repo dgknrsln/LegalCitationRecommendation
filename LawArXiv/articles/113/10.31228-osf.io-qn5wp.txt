@@ -1,0 +1,559 @@
+\\jciprod01\productn\C\CRN\102-6\CRN603.txt unknown Seq: 1 25-SEP-17 11:00
+HOW PEOPLE UPDATE BELIEFS ABOUT
+CLIMATE CHANGE: GOOD NEWS
+AND BAD NEWS
+Cass R. Sunstein,† Sebastian Bobadilla-Suarez,
+Stephanie C. Lazzaro & Tali Sharot††
+People  are  frequently  exposed  to  competing  evidence
+about climate change. We examined how new information
+alters people’s beliefs. We find that people who are not sure
+that man-made climate change is occurring, and who do not
+favor an international agreement to reduce greenhouse gas
+emissions,  show  a  form  of  asymmetrical  updating: They
+change their beliefs in response to unexpected good news
+(suggesting that average temperature rise is likely to be less
+than previously thought) and fail to change their beliefs in
+response to unexpected bad news (suggesting that average
+temperature  rise  is  likely  to  be  greater  than  previously
+thought). By contrast, people who strongly believe that man-
+made climate change is occurring, and who favor an interna-
+tional agreement, show the opposite asymmetry: They change
+their beliefs far more in response to unexpected bad news
+(suggesting  that  average  temperature  rise  is  likely  to  be
+greater than previously thought) than in response to unex-
+pected good news (suggesting that average temperature rise is
+likely to be smaller than previously thought). The results sug-
+gest that exposure to varied scientific evidence about climate
+change may increase polarization within a population due to
+asymmetrical updating. We explore the implications of our
+findings for how people will update their beliefs upon receiving
+new evidence about climate change, and also for other beliefs
+relevant to politics and law.
+I. THE STUDY ...................................... 1434 R
+A. Participants ................................. 1434 R
+B. Tasks ....................................... 1435 R
+† Robert Walmsley University Professor, Harvard University.
+†† Affective Brain Lab, Department of Experimental Psychology, University
+College London, London. We are grateful to Dan Kahan, Martha Minow, Sendhil
+Mullainathan, Eric Posner, and Adrian Vermeule for valuable comments on a
+previous draft. Thanks also to participants in workshops at Cornell University
+and Harvard Law School. The Program on Behavioral Economics and Public
+Policy at Harvard Law School provided valuable support. T. Sharot is supported
+by the Wellcome Trust.
+1431\\jciprod01\productn\C\CRN\102-6\CRN603.txt unknown Seq: 2 25-SEP-17 11:00
+1432 CORNELL LAW REVIEW [Vol.102:1431
+C. Results ..................................... 1438 R
+II. POTENTIAL MECHANISMS AND IMPLICATIONS........... 1439 R
+A. Motivated Reasoning and Bayesianism ....... 1440 R
+B. Asymmetrical Updating in Science, Politics,
+and Law .................................... 1441 R
+People are exposed to a great deal of variable information
+with respect to climate change.1 Within the United States, the
+Environmental Protection Agency stated, “Increases in average
+global temperatures are expected to be within the range of
+0.5°F to 8.6°F by 2100, with a likely increase of at least 2.7°F
+for  all  scenarios  except  the  one  representing  the  most
+aggressive  mitigation  of  greenhouse  gas  emissions.”2  That
+range is extremely wide: 0.5°F is quite modest, whereas 8.6° F
+would be catastrophic.3 It is easy to find projections near the
+lower end of the range, and it is even easier to find projections
+near the highest end, or even above it.4
+Moreover,  projections  of  anticipated  warming  have
+changed  significantly  over  time.5  There  are  also  sharp
+disagreements  about  the  likely  effects  of  different  levels  of
+warming.6  For  example,  the  three  integrated  assessment
+models, used by the United States government under President
+Obama to project the social cost of carbon, offer dramatically
+different estimates of those effects, and they too change over
+time.7  Some  experts  believe  that  those  projections  greatly
+understate  the  existence  of  uncertainty  and  are  therefore
+essentially worthless.8 In their view, exceptionally wide ranges
+1 For one account, see Michael Greenstone et al., Developing a Social Cost of
+Carbon for US Regulatory Analysis: A Methodology and Interpretation, 7 REV.
+ENVTL. ECON. & POL’Y 23 (2013). The social cost of carbon was upheld against a
+variety of legal challenges in Zero Zone, Inc. v. U.S. Dep’t of Energy, 832 F.3d 654,
+677–80 (7th Cir. 2016).
+2 See U.S. ENVTL. PROT. AGENCY, FUTURE OF CLIMATE CHANGE (Jan. 18, 2017)
+https://www3.epa.gov/climatechange/science/future.html [https://perma.cc/
+KKU8-5JAQ].
+3 See  Martin  L.  Weitzman,  Fat-Tailed  Uncertainty  in  the  Economics  of
+Catastrophic Climate Change, 5 REV. ENVTL. ECON. & POL’Y 275, 277–79 (2011).
+4 See, e.g., WILLIAM NORDHAUS, THE CLIMATE CASINO: RISK, UNCERTAINTY, AND
+ECONOMICS FOR A WARMING WORLD 42–49 (2013); Weitzman, supra note 3, at R
+277–79.
+5 For a good overview, see NORDHAUS, supra note 4, at 42–66. R
+6 Id. at 69–146 (discussing, for example, the impacts on ecological systems
+and human health).
+7 See Greenstone et al., supra note 1, at 23–25. R
+8 See, e.g., Robert S. Pindyck, Climate Change Policy: What Do the Models
+Tell Us? (Nat’l Bureau of Econ. Research, Working Paper No. 19244, 2013), http:/
+/www.nber.org/papers/w19244.pdf [https://perma.cc/9TV4-CJ5G].\\jciprod01\productn\C\CRN\102-6\CRN603.txt unknown Seq: 3 25-SEP-17 11:00
+2017] GOOD NEWS AND BAD NEWS 1433
+are the best that can be done with respect to likely warming,
+and for damages, the ranges are too wide to be useful.
+We aim here to investigate two simple questions: (1) How
+do  people  update  their  beliefs  when  they  receive  new
+information about likely warming? (2) How do people’s prior
+attitudes  affect  their  response  to  such  information?  The
+answers  to  these  questions  are  valuable  in  themselves,
+because they show how different groups, with different initial
+views about climate change, will respond to new information.
+Simple though they are, the answers also offer more general
+lessons about how people will update their beliefs in response
+to  new  information  about  contested  questions  in  science,
+politics, and law.
+We  find  that  people  who  are  not  sure  that  man-made
+climate  change  is  occurring,  and  unenthusiastic  about  an
+international  agreement,  show  a  form  of  asymmetrical
+updating: They change their beliefs far more in response to
+unexpected good news, suggesting that average temperature
+rise is likely to be (even) smaller than previously thought, than
+in response to unexpected bad news, suggesting that average
+temperature rise is likely to be larger than previously thought.
+In fact, we do not find a statistically significant change in their
+views in response to bad news at all.
+By contrast, people who strongly believe that man-made
+climate  change  is  occurring,  and  who  strongly  favor  an
+international agreement to reduce greenhouse gas emissions,
+show the opposite asymmetry: They change their beliefs far
+more in response to unexpected bad news, suggesting that
+average  temperature  rise  is  likely  to  be  even  greater  than
+previously thought, than in response to unexpected good news,
+suggesting that average temperature rise is likely to be smaller
+than previously thought. People with moderate beliefs about
+climate change show no asymmetry.
+These findings have evident connections with other work
+on the formation and alteration of beliefs. It is well known that
+when  people  are  confronted  with  balanced  information  on
+political and legal issues, they often credit the information that
+supports  their  antecedent  convictions  and  disregard
+information  that  contradicts  it  (“biased  assimilation”).9  It
+9 See,  e.g.,  Charles  G.  Lord  et  al.,  Biased  Assimilation  and  Attitude
+Polarization: The Effects of Prior Theories on Subsequently Considered Evidence,
+37 J. PERSONALITY & SOC. PSYCHOL. 2098 (1979); John W. McHoskey, Case Closed?
+On the John F. Kennedy Assassination: Biased Assimilation of Evidence and
+Attitude Polarization, 17 BASIC & APPLIED SOC. PSYCHOL. 395 (2002); Geoffrey D.\\jciprod01\productn\C\CRN\102-6\CRN603.txt unknown Seq: 4 25-SEP-17 11:00
+1434 CORNELL LAW REVIEW [Vol.102:1431
+follows that if people come to a balanced presentation with
+opposite  priors,  they  are  likely  to  polarize.  A  more  recent
+finding  is  that  some  seemingly  credible  corrections  of
+erroneous political beliefs backfire; they strengthen people’s
+commitment to their original beliefs.10
+Outside of the domain of politics and law, good news with
+respect to personal prospects typically has a stronger effect on
+beliefs than bad news, regardless of priors.11 People are more
+likely  to  update  their  beliefs  if  they  receive  information
+suggesting (for example) that their likely longevity is greater
+than they previously estimated than after receiving information
+suggesting that it is shorter. Not only do people update their
+beliefs more upon receiving good personal news, they are also
+more likely to do so in a Bayesian manner than when receiving
+bad news.12
+In  line  with  these  findings  is  one  of  our  own:  Weak
+believers in man-made climate change adjust to unexpected
+good  news  about  the  climate  to  a  greater  extent  than  to
+unexpected bad news (which has essentially no impact). But in
+apparent contrast, we find that strong believers in man-made
+climate  change  adjust  to  unexpected  bad  news  about  the
+climate to a greater extent than to unexpected good news. We
+suggest that in the domains of politics and law, this form of
+asymmetrical  updating  is  likely  to  be  pervasive  and  quite
+important,  increasing  polarization  in  many  areas  of  social,
+political, and legal life.
+I
+THE STUDY
+A. Participants
+Three hundred and two volunteers (177 males, 125 fe-
+males) living in the United States were recruited via Amazon
+Munro et al., Biased Assimilation of Sociopolitical Arguments: Evaluating the 1996
+U.S. Presidential Debate, 24 BASIC & APPLIED SOC. PSYCHOL. 15 (2002).
+10 Brendan Nyhan & Jason Reifler, When Corrections Fail: The Persistence of
+Political Misperceptions, 32 POL. BEHAV. 303 (2010).
+11 David Eil & Justin M. Rao, The Good News-Bad News Effect: Asymmetric
+Processing  of  Objective  Information  About  Yourself,  3  AM.  ECON.  J.:
+MICROECONOMICS 114 (2011); Tali Sharot et al., How Unrealistic Optimism Is
+Maintained in the Face of Reality, 14 NATURE NEUROSCIENCE 1475 (2011).
+12 Eil & Rao, supra note 11; Tali Sharot & Neil Garrett, The Myth of a R
+Pessimistic View of Optimistic Belief Updating – A Commentary on Shah et al.
+(2016), http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2811752 [http://
+perma.cc/W5ZR-CEEE].\\jciprod01\productn\C\CRN\102-6\CRN603.txt unknown Seq: 5 25-SEP-17 11:00
+2017] GOOD NEWS AND BAD NEWS 1435
+Mechanical Turk to participate in an online study.13 Their
+characteristics were as follows: age: 45.7% were 29 years old or
+younger, 41.7% were 30-49 years old, 11.6% were 50-64 years
+old, and 1.0% were over 64 years old; race: 73.8% identified
+themselves as White, 11.3% as Asian, 7.6% as African Ameri-
+can, 5.3% as Hispanic, 0.3% as Native American, and 1.7% as
+Other; income: 25.8% earned less than $30K, 41.1% earned
+$30K–$59K,  19.2%  earned  $60K–$89K,  7.6%  earned
+$90K–$119K, 3.0% earned $120K–$149K, and 3.3% earned
+more than $150K; party affiliation: 49.7% of participants iden-
+tified themselves as Democrats, 33.4% as Independents, and
+16.9% as Republicans; education: 0.3% attained less than a
+high school education, 10.6% a high school education, 38.1%
+some college education, 38.4% a four-year college degree, 1.7%
+a professional degree, 9.3% a master’s degree, and 1.7% a doc-
+toral degree. The study takes approximately two minutes to
+complete and participants were paid $0.25 for participation.14
+B. Tasks
+Our goal was to examine whether and by how much people
+will update their beliefs about the likely temperature rise after
+receiving information that was better or worse than previously
+received. We hypothesized that people who strongly believe in
+man-made climate change would be more reluctant to alter
+their beliefs upon receiving unexpected good news (i.e., the
+expected temperature rise is in fact lower than previously as-
+sumed) than upon receiving unexpected bad news (i.e., the
+expected temperature rise is in fact higher than previously as-
+sumed). We also hypothesized that those who were more skep-
+tical about man-made climate change would show the opposite
+pattern: They would be more likely to alter their beliefs upon
+receiving unexpected good news (the expected temperature rise
+is in fact lower than previously assumed) than bad news.
+To test the two hypotheses, we first assessed participants’
+attitudes.  Specifically,  participants  were  asked  three  ques-
+13 AMAZON  MECHANICAL  TURK,  https://www.mturk.com/mturk/welcome
+[https://perma.cc/SZ45-NSQX]. Respondents on MTurk, though not a nation-
+ally representative sample, have been shown to be similar to respondents on most
+other survey platforms. Connor Huff & Dustin Tingley, “Who Are These People?”
+Evaluating the Demographic Characteristics and Political Preferences of MTurk
+Survey Respondents, RES. & POL., July–Sept. 2015, at 1 (2015). Our goal was to
+measure people’s reactions to new information about climate change, and for that
+particular purpose, it would be most surprising if a nationally representative
+sample turned out to be fundamentally different.
+14 Percentages may not add up due to rounding.\\jciprod01\productn\C\CRN\102-6\CRN603.txt unknown Seq: 6 25-SEP-17 11:00
+1436 CORNELL LAW REVIEW [Vol.102:1431
+tions: 1) Do you consider yourself an environmentalist? 2) Do
+you believe that man-made climate change is occurring? 3) Do
+you think that the United States was right to sign the recent
+Paris agreement to reduce greenhouse gas emissions? Partici-
+pants indicated their answers on a scale of 1 to 5 (where 1 is
+strongly disagree and 5 is strongly agree).
+The responses were correlated (Q1&Q2: r = .26, p < .001;
+Q1&Q3: r = .31, p < .001; Q2&Q3: r = .72, p < .001) and thus
+summed up to create an overall “climate change belief” score
+(CCB)  for  every  subject  (acknowledging  that  the  “environ-
+mentalist” question does not directly measure belief in climate
+change).  Participants  were  then  divided  into  three  groups:
+those with high scores (high climate change belief group, N =
+108, mean CCB = 13.83±.08), those with medium scores (me-
+dium  climate  change  belief  group,  N  =  105,  mean  CCB  =
+11.02±.08), and those with low scores (low climate change be-
+lief group, N = 89, mean CCB = 7.73±.17).15
+Next, we gave participants an initial piece of information
+regarding climate change: “Many scientists have said that, ‘By
+2100, the average U.S. temperature will rise at least 6°F’” and
+asked them “How many degrees Fahrenheit do you personally
+expect the average U.S. temperature to rise by 2100, if further
+regulatory steps are not taken?” Participants could indicate
+their answer by selecting a number from 0 to 12.
+The  average  first  estimate  that  participants  gave  was
+5.40°F±0.156 (mean±SE). This estimate did not differ between
+participants who subsequently received additional good or bad
+news, t(300) = 0.36, p = 0.721, two-tailed t-test. Across partici-
+pants,  this  estimate  correlated  positively  with  the  climate
+change belief score (r = 0.474, p < 0.01). This was true also
+after controlling for age, education, and income (r = 0.408, p <
+0.01). For the high climate change belief group, the average
+first estimate was 6.32±.20; for the moderate climate change
+belief group, it was 5.93±.25; and it was 3.64±.29 for the low
+climate change belief group. Note that the low climate change
+15 Since the questions were on an integer scale, this created clustering of
+participants, which prevented portioning them into three equal groups.  The fol-
+lowing formula was therefore used to divide participants into three groups:
+Where N is the sample size (302 participants), t is the tercile (1,2,3), i is the index
+for the participant in ascending rank order with respect to CCB score, S is the set
+of all participant indices, and cutoff * is the cutoff point between the respective
+terciles.\\jciprod01\productn\C\CRN\102-6\CRN603.txt unknown Seq: 7 25-SEP-17 11:00
+2017] GOOD NEWS AND BAD NEWS 1437
+belief group did not consist of “climate change deniers”; mem-
+bers of the low climate change belief group believed that cli-
+mate change would occur, but be smaller than members of the
+other two groups expected.
+After  indicating  their  initial  estimate,  participants  were
+randomly assigned to one of two conditions. Specifically, they
+received information that was either better (good news, 152
+participants, 72 female) or worse (bad news, 150 participants,
+53 female) than originally received. In the good news condition,
+they were told: “Assume that in the last few weeks, some promi-
+nent scientists have reassessed the science, concluded that the
+situation is far better than had previously thought, and stated
+that unless further regulatory steps are taken, ‘By 2100, the
+average U.S. temperature is projected to increase by about 1°F
+to 5°F, depending on emissions scenario and climate model.’”
+In the bad news condition, they were told: “Assume that in
+the last few weeks, some prominent scientists have reviewed
+the science and concluded that the situation is far worse than
+they had previously thought. They stated that unless further
+regulatory steps are taken, ‘By 2100, the average U.S. tempera-
+ture is projected to increase by about 7°F to 11°F, depending on
+emissions scenario and climate model.’”
+They were then asked to provide their updated estimate:
+“How much do you personally believe that the average U.S.
+temperature will rise by 2100, if further regulatory steps are not
+taken?” by selecting a number from 0 to 12 from a dropdown
+menu.16 This was followed by a series of demographic ques-
+tions (age, income, ethnicity, party affiliation).
+Each participant’s change in beliefs (i.e., update) was cal-
+culated as follows: subject’s first estimate minus second esti-
+mate in the good news condition, and the reverse for the bad
+news condition. Thus, positive numbers generally indicated
+adjustment towards the new evidence, downwards in the for-
+mer and upwards in the latter. These update scores were then
+entered into a 2x3 Analysis of Variance (ANOVA) with a be-
+tween-subject factor of condition (good news, bad news) and a
+between-subject factor of group (high/medium/low belief in
+climate change), with age, education, income, gender, party
+16 This, of course, creates a problem if the subject’s true belief is below 0 or
+above 12. However, this restriction, if anything, would have made it more difficult
+to observe our results, rather than explain them.\\jciprod01\productn\C\CRN\102-6\CRN603.txt unknown Seq: 8 25-SEP-17 11:00
+1438 CORNELL LAW REVIEW [Vol.102:1431
+affiliation, ethnicity, and first estimate controlled for by enter-
+ing them as covariates.17
+C. Results
+There was an interaction between condition and group
+(F(2, 284) = 6.28, p = .002, h2 = .04), such that subjects in the
+low climate change belief group updated their beliefs more
+upon receiving good news than upon receiving bad news (F(1,
+75) = 6.96, p = .01, h2 = .09), whereas those in the high climate
+change belief group updated their beliefs more upon receiving
+bad news than upon receiving good news (F(1, 95) = 8.35, p =
+.005, h2 = .08). Subjects in the medium climate change belief
+group did not show a significant difference in updating between
+conditions (F(1, 93) = 1.94, p = .167, h2 = .02).
+Those in the high climate change belief group updated
+their beliefs more upon receipt of bad news than did those in
+the low climate change belief group (F(1, 91) = 20.50, p < .001,
+h2 = .18). There was also a difference across groups in updating
+upon receipt of good news (F(1, 79) = 6.89, p = .01, h2 = .08). All
+updates were significantly greater than zero (good news, low
+belief: t(42) = 3.87, p < .001; good news, medium belief: t(58) =
+5.07, p < .001; good news, high belief: t(49) = 4.03, p < .001;
+bad news, medium belief: t(45) = 5.79, p < .001; bad news, high
+belief: t(57) = 7.58, p < .001)), with the important exception of
+the low belief group in the bad news condition, for which belief
+change was not different from zero (t(45) = .71, p = .479).
+In terms of expected temperature increase, the average es-
+timate of low climate change believers decreased by 1.05° in the
+good news condition. In the bad news condition, it increased
+by .2° (which, as noted, was not significant). In the bad news
+condition, the average estimate of high climate change believ-
+ers increased by 1.94°. In the good news condition, it fell by
+.9°. For medium climate change believers, the difference be-
+tween the two conditions was not significant: 1.25° decrease for
+good news and 1.8° increase for bad news.18
+There was no main effect of condition (F(1, 284) = .98, p =
+.324, h2 = .00) nor significant effect of group (F(2, 284) = 1.45, p
+= .237, h2 = .01). None of the covariates was significant except
+for the first estimate (F(1, 284) = 6.67, p = .01, h2 = .02). We
+17 Visual analysis of the scatterplots of the residuals versus the predicted
+values in the ANOVAs did not show any linear trends, suggesting that the as-
+sumptions of homoscedasticity were not violated.
+18 See Figure 1.\\jciprod01\productn\C\CRN\102-6\CRN603.txt unknown Seq: 9 25-SEP-17 11:00
+2017] GOOD NEWS AND BAD NEWS 1439
+stress that all the results above are given after controlling for
+subjects’ first estimate in the ANOVA.
+3 *
+Good news Bad news
+n.s
+2 *
+e
+t
+a
+d
+p
+U
+1
+Low CCB Medium CCB High CCB
+–1
+Climate Change Belief Terciles
+Figure 1. Update in Climate Change Belief.
+(*) indicates difference between update in response to good news and bad
+news within a tercile (p < .05);
+(n.s.) indicates non-significant differences between update in response to
+good news and bad news within a tercile.
+Error bars are standard errors of the mean.
+With regard to party affiliation, we note that Democrats
+had a higher climate change belief score than Republicans
+(t(199) = 7.68, p < .001, two-tailed t-test) and greater first esti-
+mates  (Democrats  =  6.13±0.18  (mean±SE),  Republicans,
+3.73±0.40, t(199) = 6.19, p < .01, two-tailed t-test). Updating
+behavior across good and bad news did not interact signifi-
+cantly with party affiliation (F(1,191) = 2.72, p = .101, h2 = .01),
+after controlling for all other demographic variables and cli-
+mate change belief scores.
+II
+POTENTIAL MECHANISMS AND IMPLICATIONS
+Our aim here was to study how people adjust their beliefs
+about climate change upon receiving information that is better
+or worse than previously received. We found that those with
+high climate change belief scores show asymmetrical updating,
+changing their beliefs more in response to bad news than good
+news, while those with low climate change belief scores show
+the  opposite  asymmetrical  updating,  changing  their  beliefs
+more in response to good news than bad news (which had
+essentially  no  effect  at  all).  Those  with  moderate  climate
+change belief scores showed no asymmetrical updating.\\jciprod01\productn\C\CRN\102-6\CRN603.txt unknown Seq: 10 25-SEP-17 11:00
+1440 CORNELL LAW REVIEW [Vol.102:1431
+What explains the asymmetrical updating for the former
+groups? And what are the implications of our findings for the
+formation of beliefs about politics and law in general?
+A. Motivated Reasoning and Bayesianism
+One possible explanation for the results involves motivated
+reasoning. We have noted that with respect to personally rele-
+vant information (say, about how good one’s appearance is or
+likely health outcomes), people update their beliefs more in
+response to good news than bad news.19 They are motivated to
+dismiss the latter or at least to give it less weight. For beliefs
+about others, or about the population at large, this is not nec-
+essarily the case.
+Here, those with low and high climate change belief scores
+may both be invested in their attitudes and update their beliefs
+accordingly. For those with low belief scores, good news is
+welcome, because it is both positive (lower temperature rise is
+good news for the planet and mankind) and affirming (these
+individuals were less alarmed about climate change in the first
+place), leading to a large update. Bad news is both undesirable
+for the planet and disconfirming, leading to no effect on belief
+update.
+Those with high belief scores, on the other hand, were es-
+pecially likely to credit bad news. For them, such news is, in a
+sense, affirming, insofar as it supports their concerns and con-
+firms that they have been right to have them.20 To that extent,
+they may well be motivated to accept bad news. Good news, by
+contrast, causes dissonance. It suggests that they have been
+wrong to focus on climate change, or to be quite alarmed about
+it.  With  respect  to  political  beliefs,  good  news  (about  the
+planet, country, or mankind) can evoke such a reaction if and
+to the extent that it threatens strongly held convictions and
+people’s sense of identity.21
+When society is divided, it follows that, whether good or
+bad, new information can heighten polarization. We suspect
+that these observations bear on both jury and judicial behav-
+ior, as when jurors and judges begin with different convictions
+19 See TALI SHAROT, THE OPTIMISM BIAS(2012); Eil & Rao, supra note 11; Sharot R
+et al., supra note 11. R
+20 See Dan M. Kahan et al., The Polarizing Impact of Science Literacy and
+Numeracy on Perceived Climate Change Risks, 2 NATURE CLIMATE CHANGE 732
+(2012), for a series of illuminating observations and findings.
+21 See, e.g., Nyhan & Reifler, supra note 10; Brendan Nyhan et al., The R
+Hazards of Correcting Myths About Health Care Reform, 51 MED. CARE 127 (2013).\\jciprod01\productn\C\CRN\102-6\CRN603.txt unknown Seq: 11 25-SEP-17 11:00
+2017] GOOD NEWS AND BAD NEWS 1441
+and are confronted with information from which they should
+update.
+The second answer does not invoke motivations or emo-
+tions; it is purely cognitive and reflects a form of Bayesian-
+ism.22 A participant’s prior regarding the likely increase in
+temperature is best described as a distribution rather than a
+discrete number (e.g., Joe believes the probability that temper-
+ature will rise by 5 degrees is 10%, that it will rise by 6 degrees
+30%, that it will rise by 7 degrees 20% and so on). When asked
+to declare the likely increase, Joe will give a number represent-
+ing the peak of his belief distribution—in this case 6 degrees.
+Now imagine two scenarios. In one, Joe is told scientists be-
+lieve the increase is likely to be 7 degrees (bad news) and in the
+other that scientists believe it is likely to be 5 degrees (good
+news). Joe is then asked about his new belief.
+To form his new belief, Joe will combine his prior with the
+evidence and report back the peak of that distribution. Be-
+cause the prior was originally skewed, even if Joe was using
+Bayesian statistics to form a posterior, the peaks of the posteri-
+ors in these two cases will not be equal distance from the peak
+of the prior. It is possible that the priors of individuals in the
+high and low groups were skewed, but in opposite directions.
+Although in our study we controlled for people’s “peak priors,”
+we did not record the full distribution of their priors.23 Thus,
+Bayesianism could in theory be sufficient to account for both
+forms of asymmetrical updating here.24 This remains to be
+tested.
+B. Asymmetrical Updating in Science, Politics, and Law
+The findings have implications for how people will update
+their beliefs about climate change in particular, and also for
+22 For discussion, see Edward Glaeser & Cass R. Sunstein, Does More Speech
+Correct Falsehoods?, 43 J. LEGAL STUD. 65 (2014).
+23 Eil & Rao, supra note 11, use an elegant technique to capture a subject’s R
+full distribution of priors with regards to his or her IQ and attractiveness. They
+show that, even after accounting for the full distribution of a subject’s prior
+updating, the updating is asymmetric, favoring good news.
+24 There are other potential explanations in addition to the two we discuss
+here. For example, strong climate change believers might be more pessimistic in
+general, in which case their greater incorporation of bad news would be consistent
+with their dispositions. We could easily imagine a set of pessimistic people who
+would be especially likely—for cognitive or affective reasons—to accept informa-
+tion suggesting that the world is likely to end up worse than they originally
+thought. In an early test, however, we explored this issue and did not find that
+strong climate change believers were more pessimistic in general. The question
+does bear further investigation.\\jciprod01\productn\C\CRN\102-6\CRN603.txt unknown Seq: 12 25-SEP-17 11:00
+1442 CORNELL LAW REVIEW [Vol.102:1431
+beliefs about science, politics, and law more generally. If peo-
+ple receive new information about climate change (as is inevita-
+ble), and if it is highly variable (as is predictable), we should
+expect to see greater polarization. Those most concerned about
+climate change will be more likely to revise their estimates
+upwards upon receiving bad news than those who are least
+concerned.  Those  who  are  least  concerned  about  climate
+change will be more likely to revise their estimates downwards
+upon receiving good news than those who are most concerned.
+This asymmetry undoubtedly contributes to polarization
+with respect to climate change, as both alarming and less
+alarming news comes to people’s attention. Quite apart from
+the other factors that contribute to polarization about climate
+change, asymmetrical updating should be sufficient to produce
+it.25 Recall in this regard that in our study, those with low
+climate change belief scores were not skeptics or denialists.
+They simply believed that the magnitude of change would be
+lower than the two other groups did. Even so, they were more
+moved by good news than by bad news, as those with moderate
+climate change belief scores were not.
+With respect to beliefs in general, we speculate that in
+many domains, something similar will occur. We could readily
+imagine studies of the formation of beliefs about terrorism (how
+much terrorism will there be in the next year?), immigration
+(for how much violence will immigrants be responsible over a
+specified future period?), the Affordable Care Act (what will be
+the effect of the act on insurance premiums?), and minimum
+wage legislation (how much of a disemployment effect should
+be expected from a $12 minimum wage?). For many people,
+good news for the country—in the form of an apparently credi-
+ble expert judgment that things will be better than they think—
+will have far more weight than bad news. It is easy to imagine
+groups that will accept evidence (good news for the country)
+that the Affordable Care Act is not producing increases in in-
+surance premiums, or that the $12 minimum wage is not in-
+creasing unemployment—and that would be highly reluctant to
+accept  evidence  to  the  opposite  effect  (bad  news  for  the
+country).
+For some groups, however, our findings suggest the possi-
+bility that apparently good news of exactly these kinds may
+trigger a negative reaction, in part because of people’s desire to
+be  vindicated—to  see  their  actions  and  concerns  affirmed
+25 For other factors, see Kahan et al., supra note 20. R\\jciprod01\productn\C\CRN\102-6\CRN603.txt unknown Seq: 13 25-SEP-17 11:00
+2017] GOOD NEWS AND BAD NEWS 1443
+rather than contradicted. Some people have strong invest-
+ments in their attitudes, even if the implication is that things
+are getting much worse—that terrorism will increase, that im-
+migration is producing violence, that climate change will be
+devastating, that the Affordable Care Act is producing an in-
+crease in insurance premiums, that the $12 minimum wage
+produces significant increases in unemployment. For such
+people, it is possible that bad news for the country might there-
+fore have more weight than good news.
+We speculate that a great deal of polarization in politics
+and law is created and fueled in this way. Every week, if not
+every day, it is possible to encounter competing (and appar-
+ently plausible) predictions about future states of affairs, sug-
+gesting that one’s own current estimates are too optimistic or
+too pessimistic. If the evidence involves one’s own future, good
+news will usually have special weight. But if the evidence in-
+volves politics and law, this is not necessarily so. Some people
+will receive objectively good news (things will be better than
+expected for the planet or mankind) as such and give it particu-
+lar attention in updating. For others, the same news could
+contradict convictions to which they are deeply committed and
+receive less weight. Whenever this is true, the circumstances
+are right for polarization—heightened or produced by asym-
+metrical updating of diametrically opposite kinds.
+A great deal remains to be learned on this topic. But we
+suspect that this difference helps explain why polarization can
+increase over time and why agreement can be so hard to ob-
+tain, even on highly technical questions.

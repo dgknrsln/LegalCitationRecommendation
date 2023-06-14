@@ -1,0 +1,565 @@
+ORIGINAL ARTICLE
+Behind the Mask of Method: Political Orientation
+and Constitutional Interpretive Preferences
+Joshua R. Furgeson Æ Linda Babcock Æ
+Peter M. Shane
+Publishedonline:5October2007
+(cid:1)AmericanPsychology-LawSociety/Division41oftheAmericanPsychologicalAssociation2007
+Abstract Debate about how to best interpret the Consti- Legal scholars and judges often write as if their conclu-
+tution often revolves around interpretive methodologies sions about the meaning of the Constitution follow from a
+(e.g., originalism or expansive interpretation). This article principled choice of rules for constitutional interpretation.
+examines whether individuals’ political orientation inﬂu- For example, some judges believe the Constitution’s
+ences the methodologies they prefer to use to interpret the modern meaning should be interpreted expansively, while
+Constitution. We study this proposed relationship using a othersrelyonamorerestrictiveinterpretationofthetext’s
+surveyoffederallawclerksandanexperimentalstudywith original meaning. Lawyers commonly use rules like these
+collegestudents.Thesurveyresultsindicatethat,compared tounderstandtheConstitution,anditisoftenarguedthata
+to conservatives, liberal clerks prefer the current meaning comprehensive set of interpretation rules, an interpretive
+or the most plausible appealing meaning of the constitu- methodology,canimproveconstitutional decision-making.
+tionaltext,whileconservativesprefertheoriginalmeaning Legal scholars value methodologies for providing consis-
+of the text. Liberal clerks also prefer to interpret the tency across different cases and ultimately the objectivity
+Constitution much more expansively. The second study and fairness that result from a consistent application of
+manipulates the policy implications of expansive inter- rules.
+pretation and ﬁnds this manipulation differentially affects Methodological reasoning is also used as a shield
+liberals’ and conservatives’ expansiveness preferences. against claims of political bias. When overturning laws,
+judges assert that their rulings are determined by a meth-
+Keywords Constitutional interpretation (cid:1) Originalism (cid:1) odologicalunderstandingoftheConstitution,nottheirown
+Interpretive methodology policyvalues.Judicialnomineesproposethattheirpersonal
+beliefs will be irrelevant to their future judicial decisions,
+because they have methodological preferences to guide
+The views expressed in this paper are those of the authors alone their decisions. If scholars oppose constitutional rulings,
+anddonot reﬂect the views of the ArgosyFoundationor any other they can be criticized on valid methodological grounds.
+institution. Constitutional opinions based on wholly legal reasoning
+are more convincing and accepted (Burton 1992), and
+J.R.Furgeson(&)
+methodologies can provide such legal justiﬁcation.
+ArgosyFoundation,555E.WellsSt.Suite1650,Milwaukee,
+WI53202,USA The clean demarcation between methodological rea-
+e-mail:josh@argosyfnd.org soningandpolicy-basedreasoningrequirestheassumption
+that methodological choice is based only on constitutional
+L.Babcock
+values, and not on considerations of policy extraneous to
+HeinzSchoolofPublicPolicyandManagement,Carnegie
+MellonUniversity,5000ForbesAve.,Pittsburgh,PA15213, the Constitution. Otherwise, methodological reasoning
+USA might just be policy reasoning behind a jurisprudential
+e-mail:lb2k@andrew.cmu.edu
+mask. This assumption seems reasonable since methodo-
+logical preferences are often justiﬁed as a preference for
+P.M.Shane
+TheOhioStateUniversity,Columbus,OH,USA certainconstitutionalvalues,andthesejustiﬁcationsappear
+123LawHumBehav(2008)32:502–510 503
+entirely sincere. However, individuals are not always theoretical and empirical analysis in this article will focus
+awareofthetruecauseoftheirbeliefs(NisbettandWilson on interpretation involving individual rights.
+1977; Kunda 1990). If methodologies’ policy implications Lawyers typically justify their methodological prefer-
+inﬂuence interpretive preferences, then methodologies are ences using jurisprudential values and the principles
+notentirelynonpolitical reasoning,sincea methodological discussed in the Constitution. These justiﬁcations imply
+choice may be unwittingly adopted to further an individ- that methodological preferences arise out of agreement
+ual’s policy goals. with the basic values that underlie the methodologies, i.e.,
+The idea that political orientation inﬂuences methodo- individuals decide which constitutional values are most
+logical preferences is certainly not new (Ely 1980, p. 2; important and then choose the methodology that promotes
+Brennan1990;Bork1990;Perry1994;Rakove1996,p.xv; those values. For example, an individual who favors the
+Howard 1981, p. 176). However, there has been little value of legislative deference will likely favor restrictive
+research demonstrating an empirical relationship between interpretation.
+constitutional methodological preferences and political Psychological evidence indicates that abstract choices,
+orientation (Cross 1997). The limited empirical work like methodological preferences, often result from initial
+examining legal interpretive preferences often focuses on intuitions (Haidt 2001). We believe that methodological
+nonconstitutional interpretation (Redding and Reppucci intuitions are based on the perceived policy outcomes of
+1999; Scheb et al. 1991). For example, Redding and Rep- implementingamethodology,aconsiderationthatiseasily
+pucci asked law students and judges whether ‘‘judges discernable and where individuals usually have clear,
+shouldconstrueorinterpretthelawstrictlyandnarrowlyor preexisting preferences. This initial preference for a
+more liberally and expansively’’ and found a signiﬁcant methodology causes individuals to react favorably to
+relationship between preferences for expansive interpreta- arguments supporting their preference, while subjecting
+tion and liberalism. However, other studies have found opposing arguments to more scrutiny (Kunda 1990; Daw-
+mixed associations between political orientation and atti- son et al. 2002; Ditto and Lopez 1992; Ditto et al. 1998).
+tudes toward judicial intervention (Scheb et al. 1991; This biased reasoning process ultimately results in a
+Howard 1981), and one study ﬁnds, contrary to common cohesive, comprehensive explanation why one methodol-
+belief, that liberal judges are more likely to engage in ogy is preferred (Simon et al. 2001). Individuals may be
+originalist interpretation (Sisk et al. 1998). This inconclu- unaware of their policy preferences’ impact on their intu-
+sive literature probably exists because methodological itions or reasoning.
+preferences were typically an ancillary topic in previous The particular values underlying each source tend to
+studies and there were often confounds. favor speciﬁc types of policies, and this tendency is
+quickly realized. For example, the value of stability that
+underlies originalist interpretation (Kay 1996) uses the
+Psychological Mechanisms beliefs of historical individuals to understand the Consti-
+tution, and thus will result in more traditional, and often
+In this article, we study two dimensions of a coherent sociallyandeconomicallyconservativepolicies.Thevalue
+interpretative methodology: source and breadth of inter- of progress, motivating current meaning interpretation,
+pretation. Source refers to the type of information the emphasizes modern norms and will often result in more
+judge should use to understand the constitutional language liberal policies. Once individuals associate a value with
+whenitisunclear.Fivepotentialsourcesarestudiedinthis preferred policy implications, an initial preference for that
+article: original intent, original meaning, current meaning, value and the associated source forms, without the indi-
+plausible appealing meaning, and precedents (see Phelps vidualnecessarilyrealizingthepolicy-basedoriginoftheir
+and Gates 1991; Bobbit 1982, for similar classiﬁcations). preference.
+Breadth of interpretation refers to how broadly the appli- Inasimilarmanner,breadthpreferencesaredetermined
+cable constitutional language should be interpreted (Perry byarealizationofthelikelypolicyimplicationsofjudicial
+1994; Dworkin 1986; Bork 1990; Scalia 1997; Tribe and restraint. A clear, and quickly recognizable difference
+Dorf 1992). The Constitution can be interpreted expan- between expansive and restrictive interpretation is that
+sively, meaning, for example, the interpreter uses the restrictive strongly emphasizes judicial restraint. Paradig-
+values that inspire constitutional provisions and also pro- matic Supreme Court rulings, especially Roe v. Wade,
+tects fundamental rights that may not be explicitly provide a context for determining the likely policy out-
+mentioned, or the Constitution can be interpreted restric- comes of emphasizing judicial restraint. We believe that
+tively, meaning the interpreter understands provisions as because modern paradigmatic Supreme Court decisions
+theyhavetraditionally beeninterpretedandonlyoverturns have resulted in predominantly liberal outcomes, individ-
+a law if the law clearly violates a speciﬁc provision. The uals will typically perceive judicial restraint to favor
+123504 LawHumBehav(2008)32:502–510
+conservative outcomes.1 There is evidence that opinions randomly selected to receive a mailing (Wants 2003). The
+about the Supreme Court can be affected by the policy mailingwasaddressedto‘‘LawClerkintheChambersof’’
+implications of a Supreme Court decision (Mondak 1991; followed by the judge’s name. Each mailing included a
+see also Grosskopf and Mondak 1998). cover letter, a survey, an addressed return envelope with
+In this article, two studies employing two different postage, and a pocket edition of the United States Consti-
+methods were used to examine the relationship between tution.Thecoverletterinformedclerksthattheirresponses
+political orientation, our proxy for policy preferences, and wereanonymousandtheycouldcompletethesurveyusing
+interpretive preferences. Study 1 surveyed federal law the enclosed paper survey or using an identical version
+clerks to examine whether a relationship exists between postedontheInternet.Thirty-twopercent(N = 162)ofthe
+political orientation and interpretive preferences. We contacted chambers completed the survey, and data from
+hypothesize that conservatives will be more likely than 156 surveys were analyzed (two judges completed the
+liberalstofavororiginalintentandoriginalmeaning,while survey and four clerks who failed to follow instructions
+liberals will be more likely than conservatives to favor were excluded). Roughly 41% of the respondents were
+current meaning. The policy implications of precedents or female, 7% were African–American, 6% were Asian–
+the text’s most plausible appealing meaning are unclear American, and 4% were Latino.
+and we have no a priori hypotheses about any ideological
+differences in preferences for these sources. We also
+hypothesize that the more liberal the clerk the more they Materials
+will prefer expansive interpretation, and the more conser-
+vative the clerk the more they will prefer restrictive The survey was composed of three sections. The ﬁrst
+interpretation. section asked clerks to rank the inﬂuence of ﬁve potential
+Study 1 aims to establish a real-world relationship sources on their constitutional decision-making. The sec-
+between policy preferences and interpretive preferences ond section asked clerks to indicate their level of
+among one population of interest. As with most observa- agreementwithmultiplestatementsabouthowexpansively
+tional work, it is possible that any relationship in Study 1 the Constitution should be interpreted. The ﬁnal section
+could be explained by a third factor that causes both measured demographic characteristics and political
+political orientation and interpretive preferences. Study 2 orientation.
+used experimental methods to establish the proposed The instructions for the ﬁrst section described the pur-
+mechanism by manipulating the policy implications of poseofsourcepreferences.Clerkswerethenprovidedwith
+judicial restraint and examining whether this manipulation ﬁve‘‘traditional’’typesofadditionalinformationandwere
+inﬂuenced preferences for expansive interpretation. We asked to place a number next to each source with the
+hypothesize that for liberals, exposure to a Supreme Court purpose of ranking the source ‘‘in order of its inﬂuence on
+ruling that had a liberal policy consequence will increase your constitutional decision-making.’’ Respondents were
+their preferences for expansive interpretation compared to instructed to give two or more sourcesthe same ranking if
+when they are exposed to a conservative Supreme Court they believed the sources would have the same amount of
+ruling. We expect the opposite pattern for conservatives— inﬂuence. Finally, they were instructed to place an X next
+that exposure to a Supreme Court ruling that had a liberal to a source if they believed that the source should not be
+policyconsequencewilldecreasetheirrelativepreferences used at all to interpret the Constitution. The survey pre-
+for expansive interpretation. sented ﬁve sources: original intent, original meaning,
+current meaning, plausible appealing meaning, and prece-
+dents.Toensurethatpreferenceswerebasedoncontentnot
+Study 1: Survey of Law Clerks presentation, the source descriptions were similar in
+format.
+Participants The second section asked clerks to read six statements
+about constitutional interpretation. Each statement mea-
+Participants were law clerks employed by district and sured a slightlydifferent aspectof the respondent’s beliefs
+appellate federal judges throughout the United States about whether constitutional clauses should be interpreted
+(excluding the Fifth Circuit). Five hundred judges were as protecting broad principles or speciﬁc rights. After
+readingeachstatement,clerkswereaskedtoselectwhether
+they‘‘stronglydisagree,’’‘‘moderatelydisagree,’’‘‘slightly
+1 If one assumes that the paradigmatic cases of the ﬁrst half of the
+disagree,’’ were ‘‘neutral,’’ ‘‘slightly agree,’’ ‘‘moderately
+twentiethcenturywasLochnerv.NewYork198U.S.45(1905),our
+agree,’’ or ‘‘strongly agree.’’ Numbers were later assigned
+hypothesiswouldimply thatliberalsofthaterawere morelikely to
+favorjudicialrestraint. totheresponsessuchthatstronglyopposewascodedas–3
+123LawHumBehav(2008)32:502–510 505
+and strongly support was coded as +3 and intervening Table1 Multinomial logistic results for source preferences
+numbers were matched with appropriate terms (half the (N=138)
+statements were phrased so that agreement indicated a Variable B SEB Riskratio
+preference for restrictive interpretation, and these respon-
+Intercept:originalintent –1.576** .351
+ses were reverse coded). Responses to the six statements
+were averaged toform anoverall preference for expansive Intercept:originalmeaning –.812** .274
+interpretation (alpha = .80). Intercept:currentmeaning –2.734** .768
+Inthelastsection,clerksansweredquestionsabouttheir Intercept:plausible –4.256** 1.293
+appealingmeaning
+gender, race, and two items that measured their political
+Liberal:originalintent –.050 .193 .951
+orientation.Theﬁrstitemwasacommonideologymeasure
+Liberal:originalmeaning –.592** .155 .553
+that asked clerks to rate their political views on a liberal–
+Liberal:currentmeaning 1.221** .348 3.391
+conservative continuum (‘‘Below is a scale on which the
+Liberal:plausible 1.580** .552 4.853
+political views that people might hold are arranged from
+appealingmeaning
+extremely liberal to extremely conservative. Where would
+you place yourself on this scale?,’’ Knight 1999). The Note:Thebaselinesourceisprecedents
+seconditemaskedparticipantsthedegreetowhichtheyfelt **p\.01
+closertotheDemocraticorRepublicanparties(seeBarnes
+et al. 1988). Numbers were assigned to the labels clerks variablewasequalto1forthesourcerankedﬁrstand0for
+actually chose in the following manner: Extremely Liberal all other sources. Responses from those participants who
+andVeryClosetoDemocratswerecodedas+3,Extremely rankedtwoormoresourcesastheirﬁrstchoice(n = 18)or
+ConservativeandVeryClosetoRepublicanswerecodedas did not have a ﬁrst choice (n = 1) were excluded from the
+–3, and intervening numbers were matched with appro- analysis because these participants did not have a unique
+priate terms. The responses to these two questions were ﬁrst preference, an assumption of the model (N = 138).
+averaged to form a measure of political orientation The independent variable was Liberal, the clerk’s political
+(r = .90). To facilitate presentation, we also classiﬁed the orientation,createdbyaveragingtheideologyandpartisan
+clerks into three groups based on their orientation. If the measures. The results are mostly consistent with our
+clerk’s average response to the ideology and partisan hypotheses (see Table 1 and Fig. 1): liberalism was posi-
+questionwasgreaterthanthescalemidpoint,theclerkwas tivelyassociatedwithaﬁrstpreferenceforcurrentmeaning
+classiﬁed as a liberal (n = 107); if the average response (risk ratio = 3.39, z(130) = 3.82, p\.01) and negatively
+was less than the midpoint, the clerk was classiﬁed as a associatedwithaﬁrstpreferencefororiginalmeaning(risk
+conservative (n = 41); and if the average response was at ratio = .55, z(130) = 2.86, p\.01), but there was no sig-
+the midpoint the clerk was classiﬁed as neither (n = 8). niﬁcant relationship between political orientation and ﬁrst
+Finally, clerks were asked to list the Supreme Court deci- rankings of original intent (risk ratio = .95, z(130) = 0.26,
+sion that ‘‘ﬁrst comes to mind’’ when they thought about p[.50). There was a positive relationship between liber-
+expansive constitutional interpretation. Our theory implies alism and preferences for plausible appealing meaning
+that clerks will be more likely to list rulings resulting in (risk ratio = 4.85, z(130) = 3.51, p\.01), but no clear
+liberal policy outcomes, especially Roe v. Wade. relationship between liberalism and preferences for prece-
+dents (Cramer’s V = –.02, v2(1, N = 130) = 0.06,
+p[.80).
+Results Our hypothesis also implies that clerks would be more
+likely to fully reject a source if they disliked its policy
+The source rankings were analyzed with multinomial implications. Five binomial logistic regressions were used
+logisticregression(seeTable 1).Thistypeofregressionis to analyze rejection preferences. The dependent variable
+used to analyze preferences when an individual faces a wascodedas1ifaclerkrejectedasourceand0ifnot,and
+choice with more than two options.2 The dependent the independent variable was Liberal. Liberal clerks were
+Footnote2continued
+2 The multinomial logistic model does make the assumption of modelswerebothinappropriateinthiscontext.Ultimately,thelarge
+IndependenceofIrrelevantAlternatives(IIA).Thisassumptionstates differences in liberals’ and conservatives’ source preferences are
+that adding another potential choice will not change the ratio of compelling evidence of ideological effects, even if the signiﬁcance
+choice probabilities between existing alternatives. In this case, both testsaresomewhatquestionable.Effectsizesforthismodelarecal-
+original intent and original meaning (and potentially precedents) culatedasriskratiosthatcanbeinterpretedinthefollowingway:a
+favortraditionalvalues,implyingthattheassumptionwouldlikelybe riskratioforcurrentmeaningof3.39meansthatforeachonepoint
+violated.Therearetwootherdiscretechoicemodelsthatdonotmake increaseinLiberal,thelikelihoodofchoosingcurrentmeaningover
+the IIA assumption, nested logit and multinomial probit, but these precedents(thebaselinechoice)increasesby3.39.
+123506 LawHumBehav(2008)32:502–510
+Discussion
+60% 54% Conservatives
+Liberals
+First Choice 4500%% 32% 38% 36% Traenhldaetsipeoonrlesihtsiuicplatlsbeeotsrwtiaeebneltniastchioo,nnf.sotriHttuohtweioeﬁnvraesltri,ntiatmenreyp,rsaeitgicvnleeiﬁaprcraeenmfetpreriernisccuealstl
+ng  30% from this survey cannot be used to infer that interpretive
+ki
+an preferences are caused by political orientation or policy
+nt R 20% 16% preferences. It is possible that another factor causes both
+Perce 10% 8%9% 7% political orientation and interpretive preferences or that
+0% 0% thereisacomponent ofpoliticalorientationbesidespolicy
+0%
+preferences that causes the association between political
+ Original  Original Current Appealing Precedents
+Intent Meaning Meaning Meaning orientation and interpretive preferences (e.g., simpler rea-
+soning, see Tetlock et al. 1985; but see Gruenfeld 1995).
+Fig.1 Source preferences by political orientation (N=130). Note:
+Thisﬁgureonlydisplaysﬁrstpreferencesforthoseclerkswhohada Study 2 experimentally tested whether policy preferences
+uniqueﬁrstpreferenceandanidentiﬁablepoliticalorientation can inﬂuence initial expansiveness preferences.
+signiﬁcantly less likely to reject current meaning and
+plausibleappealingmeaningthanconservativeclerks(odds Study 2
+ratio = .499, z(154) = 4.25, p\.01 and odds ratio = .573,
+z(154) = 4.60,p\.01).Forexample,while27%and39% The goal of Study 2 was toexamine whether changing the
+of conservatives rejected current meaning and plausible policy implications of expansive versus restrictive inter-
+appealing meaning respectively, only 3% and 8% of lib- pretation changes participants’ preferences about using an
+erals did. Less than 5% of clerks rejected either original expansive versus restrictive interpretation. This was done
+intent or original meaning and there were no signiﬁcant by experimentally manipulating the Supreme Court deci-
+ideological differences in the rejection of these sources sionsanindividualthinksaboutwhileevaluatingthemerits
+(both p-values[.50). No clerk rejected using precedents. of judicial restraint, the key value underlying expansive-
+The relationship between breadth of interpretation ness preferences. In this study, undergraduates were
+preferences and political orientation was analyzed using presented with a Supreme Court ruling that either imple-
+OLS regression with the same independent variable, Lib- mented a liberal policy (Roe v. Wade) or a conservative
+eral, and with average expansiveness preference as the policy (Bush v. Gore). The ruling the participant received
+dependent variable. We hypothesized that the more liberal was randomly assigned. Although the constitutional rea-
+the participant the stronger the preference for expansive soning in Bush v. Gore and Roe v. Wade is very different,
+interpretation, and the coefﬁcient on Liberal was sub- for purposes of this experiment the pairing is appropriate
+stantial, statistically signiﬁcant (b = .75, t(156) = 14.25, because these two decisions were likely to elicit strong,
+p\.01) and positive, consistent with our hypothesis. The opposing partisan reactions and the participants were
+R2 was .57, indicating that fully 57% of the variation in undergraduates who were likely unaware of any legal dif-
+expansiveness scores can be explained solely by political ferences between the cases. After receiving their assigned
+orientation.Finally,whenaskedtochoosethedecisionthat ruling, participants were provided with descriptions of
+‘‘ﬁrst came to mind’’ when they thought of expansive expansive and restrictive interpretation and asked which
+interpretation,over45%oftheclerksthatlistedadecision method they preferred. All participants received identical
+listedRoev.Wadeand14%listedGriswoldv.Connecticut, information, except for the Supreme Court ruling.
+anotherreproductiverightscase.Roughly90%ofthecases
+listed resulted in liberal policy outcomes.3
+Participants
+3 Thefollowingdecisionswereclassiﬁedasresultinginconservative
+policy outcomes: Alden v. Maine 527 U.S. 706 (1999), Bowers v. Participantswere170undergraduateandgraduatestudents
+Hardwick 478 U.S. 186 (1986), Bush v. Gore 531 U.S. 98 (2000),
+at Carnegie Mellon University and Duquesne University
+Lochnerv.NewYork,Terryv.Ohio392U.S.1(1968),andUnited
+who were paid $10 to participate. Students were chosen,
+States v. Lopez 514 U.S. 549 (1995). Three decisions were not
+classiﬁed as either liberal or conservative because of the current because unlike lawyers or even law students, these par-
+consensus across the political spectrum as to the merits of these ticipantswereunlikelytohavealready formedinterpretive
+decisions. Namely, Marbury v. Madison 5 U.S. 137 (1803) and
+preferences and were also less likely to be familiar with
+Youngstown Sheet & Tube Co. v. Sawyer 343 U.S. 579 (1952) are
+previous Supreme Court decisions. If participants in this
+today all-but-universally regarded as correct, while Dred Scott v.
+Sanford60U.S.393(1857)isnowuniversallyregardedaswrong. study already hadastrong awarenessofpreviousSupreme
+123LawHumBehav(2008)32:502–510 507
+Court rulings, the experimental manipulation would not theparticipant’sconditionandtheothercoderwasunaware
+have the potential to alter perceptions of the Court’s pre- of both the investigators’ hypotheses and the participant’s
+vious rulings. Eleven participants were excluded from the condition. The coders resolved initial disagreements by
+analyses for various reasons (e.g., they were law students discussion.
+or were not U.S. citizens). Fifty-ﬁve percent of the par- The following page contained the dependent measures.
+ticipants were female, 19% were Asian–American, 9% Participants responded to ﬁve statements measuring their
+were African–American, and 5% were Latino. breadth preferences. The ﬁve statements were about: their
+overall preference, whether judges should respect legisla-
+turesmore,ifexpansiveinterpretationwasmoreconsistent
+Materials with their values, whether judges should protect the broad
+constitutional values they believe inspire the Constitution,
+ParticipantswereexposedtotheirassignedSupremeCourt andwhetherthecountry wouldbebetteroffifjudgesused
+ruling twice at the beginning of the experiment. Upon restrictiveinterpretation.ParticipantsrespondedonaLikert
+arrival each participant was given a consent form and a scale with numerical endpoints –3 and +3. After reverse
+bookletcomposedoftheexperimentalmaterials.Thecover coding responses to the second and ﬁfth questions, the
+ofthebookletcontainedanalteredNewYorkTimesarticle responses to the ﬁve statements were averaged (alpha =
+describingeithertheRoev.WadeorBushv.Goredecision .87) to form an overall expansiveness preference.
+(ﬁrstexposure)alongwithotherlegalreferences.Afterthe On the next page participants answered a series of
+consent forms were completed and collected, each partic- questions measuring whether they understood and
+ipant was given sufﬁcient time to read the cover and was remembered the differences between restrictive and
+then told to open the booklet and begin. The ﬁrst page of expansive interpretation. In general, participants were able
+thebookletinformedparticipantsaboutjudicialreviewand to remember the concepts presented and to differentiate
+constitutional interpretation. Each of the concepts was between the two types of interpretation; 76% correctly
+illustrated using either the Roe v. Wade or Bush v. Gore answered all three-comprehension questions. The partici-
+ruling (second exposure). The policy implication of the pants who did not demonstrate an adequate understanding
+relevant ruling was described in detail. by accurately answering all three questions were excluded
+After reading their assigned ruling, participants were (N = 121).
+informed that judges often use interpretive methodologies Participants were next asked to use a seven-point scale
+to encourage consistency in their constitutional decision- to describe how much they liked, disliked, or were neutral
+making. The instructor then told participants that they toward the policies that resulted from Roe v. Wade and
+would be asked about their preferences for two types of Bush v. Gore. These measures were used to verify that
+methodologies:expansiveandrestrictive.Participantswere liberals liked Roe v. Wade more than Bush v. Gore and
+nextprovidedwithdeﬁnitionsforrestrictiveandexpansive conservatives liked Bush v. Gore more than Roe v. Wade.
+interpretation. Each deﬁnition consisted of three state- Participants then answered questions about their race, age,
+ments, and the language and format was similar for both and gender. Finally, participants completed the same ide-
+deﬁnitions. Participants were then told that supporters of ologyandpartisanmeasuresusedinStudy1(r = .81).The
+restrictive interpretation believe that it is more democratic average response to these two questions formed our polit-
+because unelected judges defer to decisions by elected ical orientation variable.
+legislators, and that supporters of expansive interpretation We predict that preferences for expansiveness will
+believe that it is more democratic because independent depend on the participants’ political orientation and the
+judges protect individual rights. case they received. Speciﬁcally, we hypothesize that for
+To promote thoughtfulness and provide insight into liberals, exposure to Roe v. Wade will lead to a greater
+participant reasoning, the next page of the booklet asked preference for expansive interpretation, relative to expo-
+participants to think about and then list reasons why they sure to Bush v. Gore. For conservatives, we predict the
+preferred one type of interpretation. They were also oppositepattern:thatexposuretoRoev.Wadewillleadto
+remindedthattheywouldbeenteredinarafﬂewitha$100 a lower preference for expansive interpretation, relative to
+prize if their reasoning was judged satisfactory. Partici- exposure to Bush v. Gore.
+pants were given two-thirds of a page to write reasons
+explainingtheirpreferences.Thesereasonswereevaluated
+and classiﬁed by two independent coders (kappa = .73) to Results
+determine whether the primary reason was to respect
+democratically elected institutions or whether the partici- As expected, liberals in this study strongly liked Roe v.
+pant provided another reason. One coder was unaware of Wade(M = 2.18,SD = 1.06)andmoderatelydislikedBush
+123508 LawHumBehav(2008)32:502–510
+v. Gore (M = –1.95, SD = 1.51), and these opinions were expansive interpretation. Another regression was con-
+signiﬁcantlydifferentt(79) = 19.43,p\.01;conservatives ducted to examine whether a similar interaction occurred
+moderately liked Bush v. Gore (M = .74, SD = 1.99) and when participants were only responding to the one state-
+moderately disliked Roe v. Wade (M = –.83, SD = 2.49), ment(Item2reverse-coded)thatspeciﬁcallyreferredtothe
+and the differences were signiﬁcant t(33) = 2.76, p\.01. principle of legislative deference, a core concept of inter-
+All these values are also signiﬁcantly different from the est. Again, the interaction was signiﬁcant (b = .40,
+neutral point on the scale: for liberals, Roe v. Wade t(117) = 3.31, p\.01) and the predicted effect was in the
+t(79) = 15.81, p\.01 and Bush v. Gore t(79) = 11.56, hypothesized direction. When the participant was exposed
+p\.01; for conservatives: Roe v. Wade t(33) = 1.93, toRoev.Wade(relativetoBushv.Gore),themoreliberal
+p = .06 and Bush v. Gore t(33) = 2.16, p\.05. the participant the lower the support for legislative
+WehypothesizedthatbeingpresentedwithRoev.Wade deference.
+as opposed to Bush v. Gore would increase liberals’ pref- To examine whether written justiﬁcations were affected
+erences for expansive interpretation and reduce bytheexperimentalmanipulationandpoliticalorientation,
+conservatives’ preferences. To test this hypothesis, we alogisticregression(thedependentvariablewasequalto1
+estimated a regression where the dependent variable was if the participant listed respecting democratic institutions
+the expansiveness preference measure, the participant’s and 0 if not) was conducted using the same independent
+average response to the ﬁve questions measuring prefer- variables as the previous analyses. The results reveal a
+ences for expansive interpretation. The independent signiﬁcant interaction (odds ratio = .272, z(117) = 2.40,
+variableswere:RW,avariableequalto1iftheparticipant p\.05) between political orientation and being presented
+waspresentedwiththeRoev.Waderulingandequalto0if withRoev.Wade(seeTable 3).Speciﬁcally,liberalswere
+the participant was presented with Bush v. Gore, Liberal less likely to cite respecting elected institutions when
+the participant’s political orientation created by averaging exposed to Roe v. Wade as opposed to Bush v. Gore
+the ideology and partisan measures, and an interaction (M = 0% for Roe v. Wade; M = 15.6% for Bush v. Gore,
+between RW and Liberal. Our hypothesis implies that the z(80) = 2.44, p = .01), while conservatives were insigniﬁ-
+coefﬁcient on the interaction will be negative. cantly more likely to cite respecting elected institutions
+The coefﬁcient on the interaction was negative and when exposed to Roe v. Wade as opposed to Bush v. Gore
+signiﬁcantly different from zero (b = .31, t(117) = 2.49, (M = 29.4% for Roe v. Wade; M = 17.6% for Bush v.
+p = .01) indicating that being exposed to Roe v. Wade (as Gore, z(34) = 0.81, p[.40).
+opposed to Bush v. Gore) affected liberals’ expansiveness
+preferences differently than conservatives’ expansiveness
+preferences(seeTable 2andFig. 2).Thecoefﬁcientonthe Discussion
+interactionindicatesthatwhentheparticipantwasexposed
+to Roe v. Wade, as opposed to Bush v. Gore, the more Data from this study indicate that being exposed to Roe v.
+liberal the participant the higher the support for an Wade (as opposed to Bush v. Gore) shifted liberals’ and
+conservatives’ expansiveness preferences in opposite
+directions. For liberals, exposure to a Supreme Court
+Table2 Summary of regression analysis for expansiveness prefer-
+ence(N=121) decision that was consistent with their policy preference
+increased their support for expansive interpretation and
+Variable B SEB b
+reduced their support for legislative deference. For con-
+Generalexpansivenesspreference servatives, exposure to a Court decision that differed from
+Intercept .632** .199 their policy preferences reduced their support for an
+RW –.494 .291 –.166 expansive interpretation and increased their support for
+Liberal –.013 .106 –.014 legislative deference.
+RW·Liberal .407* .164 .306 As the participants were not lawyers, these results
+Speciﬁcpreferenceforlegislativedeference cannot be used to assert that lawyers’ and judges’ expan-
+Intercept –.511** .197 siveness preferences are caused by the policy implications
+RW –.348 .288 –.115 of previous Supreme Court rulings. Similarly, the use of
+Liberal –.007 .105 –.007 only one experimental manipulation presenting two, par-
+RW·Liberal .535** .162 .395 ticularcontrastingcasesmeansthatfurthertestsareneeded
+to determine robustness. However, the goal of this study
+Note:Theitemmeasuringlegislativedeferencewasreverse-codedto
+was only to establish that beliefs about previous Court
+beconsistent with theoverall expansiveness preference (i.e.,a pref-
+erenceforlegislativedeferencemeansmorenegativenumbers) rulings could inﬂuence initial preferences for legislative
+*p\.05,**p\.01 deference and judicial intervention.
+123LawHumBehav(2008)32:502–510 509
+Fig.2 Expansivepreferenceby
+2
+politicalorientationandcase Bush v. Gore
+(N=121) e Roe v. Wade
+c
+n
+ere 1
+ef
+Pr
+ss  0
+e
+n
+e
+v
+nsi -1
+a
+p
+x
+E
+-2
+Extremely Moderately Slightly Neutral    Slightly      Moderately Extremely
+ConservativeConservativeConservative (n=7) Liberal  Liberal  Liberal 
+(n=6) (n=13) (n=15) (n=12) (n=44) (n=21)
+Political Orientation
+Table3 Logistic results for deference to democratic institutions survey was not mailed to a speciﬁc clerk, but any clerk
+(N=121) workingforthejudge).Third,thisresearchonlyexamined
+Variable B SEB Oddsratio two components of an interpretive methodology, source
+and breadth preferences, and it focused speciﬁcally on
+Intercept –1.505* .343
+breadth preferences regarding individual rights. Fourth,
+RW –1.178 .881 .347
+researchshouldexaminewhetherjudgesconsistentlyusea
+Liberal –.145 .184 .931 particular methodology to reach decisions, even when
+RW·liberal –1.359* .579 .272 using the methodology would result in outcomes that
+*p\.05 conﬂict with their policy preferences (see Howard and
+Segal 2002; Phelps and Gates 1991).
+General Discussion The second study used experimental methods to exam-
+ine whether political orientation inﬂuences initial breadth
+The empirical results were consistent with our hypothesis of interpretation preferences. The data indicate that
+thatpoliticalorientationinﬂuencesthelegalreasoningthat manipulating the perceived policy implications of judicial
+forms interpretive preferences. The survey of law clerks restraint can change initial preferences. The more conser-
+found a strong and robust association between political vative the participant, the less likely they were to prefer
+orientation and interpretive preferences. Liberal clerks expansive interpretation if they had been presented with
+were more likely than conservative clerks to prefer the Roe v. Wade compared to Bush v. Gore, and the reverse
+currentmeaningandthemostplausibleappealingmeaning was true for liberals.
+of the constitutional text, while a majority of conservative Further research is needed to determine the robustness
+clerks preferred the original meaning of the Constitution. of the relationship. For example, robustness could be
+There were also large and signiﬁcant ideological differ- demonstrated using a stimulus sampling approach that
+ences in breadth of interpretation preferences: the more varies case primes and examines multiple constitutional
+liberal the clerk, the more likely they were to favor values. Moreover, this study only examined how initial
+expansive interpretation, and the effect size was large. interpretivepreferencesareaffectedbyashortpresentation
+Although these results substantially conformed to our of information. While the ﬁrst study in this article exam-
+hypothesis, this was a ﬁrst study and important gaps ined more established interpretive preferences, neither
+remain.First,onlyfederallawclerksweresurveyed.Some study explored the cognitive processes that convert initial
+of the ﬁndings in this study may be unique to law clerks leanings into ﬁrm preferences. Future work could also
+(e.g., law clerks may especially value precedents because study whether individuals are aware of how their policy
+they are responsible for ensuring that their judge’s rulings preferences inﬂuence their methodological preferences.
+conform to precedents). Future studies should include If future research conﬁrms that political orientation
+judges, obviously the population of most interest. Second, inﬂuencesmethodological preferences,thisdoesnotimply
+while the response rate to this study was acceptable by that methodological reasoning should be discouraged.
+social science norms, it is certainly possible that nonre- Methodologiesencouragelawyersandjudgestousesimilar
+spondents might have different interpretive preference reasoning across different cases, and thus foster consis-
+patterns than the clerks who did complete the survey (it tency and predictability, two values that should be
+wasnotpossibletocontacteachclerkmultipletimesasthe promoted in the law. Moreover, there is no plausible
+123510 LawHumBehav(2008)32:502–510
+nonpolitical alternative to methodological decision-mak- decisionmaking.JournalofPersonalityandSocialPsychology,
+ing. Studies usually ﬁnd that judges’ rulings in legal cases 68,5–20.
+Haidt, J. (2001). The emotional dog and its rational tail: A social
+areassociatedwiththeirpoliticalorientation(Pinello2001;
+intitutionistapproachtomoraljudgment.PsychologicalReview,
+Sisk and Heise 2005). 108,814–834.
+Theseresultsdo,however,implythatmethodologiesare Hand,L.(1952).InI.Dillard(Ed.),Thespiritofliberty:Papersand
+notapoliticalconstitutionalreasoning.Currentlythereisno addressesofLearnedHand.NewYork:Knopf.
+Holmes,O.W.(1918).Naturallaw.HarvardLawReview,32,41–47.
+clear answer about what might reduce the inﬂuence of
+Howard, J. W. (1981). Courts of appeals in the federal judicial
+policy preferences. Encouraging lawyers to focus on legal system: A study of the second, ﬁfth, and District of Columbia
+considerations will not work if legal reasoning is circuits.Princeton:PrincetonUniversityPress.
+unknowingly biased by political orientation (Rowland and Howard,R.M.,&Segal,J.A.(2002).Anoriginallookatoriginalism.
+LawandSocietyReview,36,113–138.
+Carp 1996; Schroeder 2002). Maybe more skepticism, and
+Kay, R. S. (1996). ‘‘Originalist’’ values and constitutional interpre-
+less certainty would help (Holmes 1918; Hand 1952, p. tation.HarvardJournalofLawandPublicPolicy,19,335–340.
+190). Although there is relative agreement that policy Knight,K.(1999).Liberalismandconservatism.InJ.P.Robinson,P.
+preferencesshouldhaveaminimaleffectonlegaldecision- R. Shaver, & L. S. Wrightsman (Eds.), Measures of political
+attitudes(pp.59–148).NewYork:AcademicPress.
+making,thereisstilldisagreementabouthowtoreducethe
+Kunda, Z. (1990). The case for motivated reasoning. Psychological
+inﬂuence of policy preferences. Building a consensus will Bulletin,108,480–498.
+require more data and a better understanding of the cog- Mondak,J.J.(1991).SubstantiveandproceduralaspectsofSupreme
+nitive processes that cause policy preferences to be Court decisions as determinants of institutional approval.
+AmericanPoliticsQuarterly,19,174–188.
+inﬂuential.
+Nisbett,R.,&Wilson,T.D.(1977).Tellingmorethanwecanknow:
+Verbal reports on mental processes. Psychological Review, 84,
+Acknowledgments We thank Jeff Dominitz, Daniel Feiler, Gary 231–259.
+Franko, Joan Kiel, Jennifer Lerner, Carlos Raad, George Taylor, Perry,M.J.(1994).TheConstitutioninthecourts:Laworpolitics?
+WilliamVogt,andKaiZheng. NewYork:OxfordUniversityPress.
+Phelps, G. A., & Gates, J. (1991). The myth of jurisprudence:
+Interpretive theory in the constitutional opinions of Justices
+References RehnquistandBrennan.SantaClaraLawReview,31,567–596.
+Pinello, D. (2001). Linking party to judicial ideology in American
+courts:Ameta-analysis.JusticeSystemJournal,20,219–254.
+Barnes,S.H.,Jennings,M.K.,Inglehart,R.,&Farah,B.(1988).Party
+Rakove, J. N. (1996). Original meanings: politics and ideas in the
+identiﬁcation and party closeness in comparative perspective.
+makingoftheConstitution.NewYork:VintageBooks.
+PoliticalBehavior,10,215–231.
+Redding,R.E.,&Reppucci,N.D.(1999).Effectsoflawyers’socio-
+Bobbitt, P. (1982). Constitutional fate: Theory of the Constitution.
+political attitudes on their judgments of social science in legal
+NewYork:OxfordUniversityPress.
+decisionmaking.LawandHumanBehavior,23,31–54.
+Bork,R.H.(1990).ThetemptingofAmerica:Thepoliticalseduction
+Rowland,C.K.,&Carp,R.A.(1996).Politicsandjudgmentinfederal
+ofthelaw.NewYork:FreePress.
+districtcourts.Lawrence,KS:UniversityofKansasPress.
+Brennan, W. (1990). The great debate: Interpreting our written
+Scalia, A. (1997). A matter of interpretation. Princeton: Princeton
+Constitution.Washington,DC:TheFederalistSociety.
+UniversityPress.
+Burton, S. J. (1992). Judging in good faith. Cambridge, UK:
+Scheb, J. M., Bowen, T., & Anderson, G. (1991). Ideology, role
+CambridgeUniversityPress.
+orientations, and behavior in the state courts of last resort.
+Cross, F. B. (1997). Political science and the new legal realism.
+AmericanPoliticsQuarterly,19,324–335.
+NorthwesternUniversityLawReview,92,251–326.
+Schroeder, C. H. (2002). Causes of the recent turn in constitutional
+Dawson, E., Gilovich, T., & Regan, D. T. (2002). Motivated
+interpretation.DukeLawJournal,51,307–361.
+reasoning and performance on the Wason selection task.
+Simon, D., Pham, L. B., Le, Q. A., & Holyoak, K. J. (2001). The
+PersonalityandSocialPsychologyBulletin,28,1379–1387.
+emergence of coherence over the course of decision making.
+Ditto, P. H., & Lopez, D. F. (1992). Motivated skepticism: Use of
+Journal of Experimental Psychology: Learning, Memory and
+differential decision criteria for preferred and nonpreferred
+Cognition,27,1250–1260.
+conclusions. Journal ofPersonality andSocialPsychology, 63,
+Sisk, G. C., & Heise, M. (2005). Judges and ideology: Public and
+568–584.
+academic debates about statistical measures. Northwestern
+Ditto, P. H., Scepansky, J. A., Munro, G. D., Apanovitch, A.M., &
+UniversityLawReview,99,743–803.
+Lockhart, L. K. (1998). Motivated sensitivity to preference-
+Sisk, G. C., Heise, M., & Morriss, A. P. (1998). Charting the
+inconsistent information. Journal of Personality and Social
+inﬂuences on the judicial mind: An empirical study of judicial
+Psychology,75,53–69.
+reasoning.NewYorkUniversityLawReview,73,1377–1500.
+Dworkin,R.(1986).Law’sEmpire.Cambridge,MA:BelknapPress.
+Tetlock,P.E.,Bernzweig,J.,&Gallant,J.L.(1985).SupremeCourt
+Ely, J. H. (1980). Democracy and distrust: A theory of judicial
+decision making: Cognitive style as a predictor of ideological
+review.Cambridge,MA:HarvardUniversityPress.
+consistency. Journal of Personality and Social Psychology, 48,
+Grosskopf,A.,&Mondak, J.J.(1998).Doattitudestowardspeciﬁc
+1227–1239.
+Supreme Court decisions matter: The impact of Webster and
+Tribe, L., & Dorf, M. (1992). On reading the Constitution.
+Texas v. Johnson on public conﬁdence in the Supreme Court.
+Cambridge:HarvardUniversityPress.
+PoliticalResearchQuarterly,51,633–654.
+Want Publishing Company. (2003). Want’s federal-state court
+Gruenfeld,D.H.(1995).Status,ideology,andintegrativecomplexity
+directory.
+on theU.S. Supreme Court: Rethinking the politics of political
+123

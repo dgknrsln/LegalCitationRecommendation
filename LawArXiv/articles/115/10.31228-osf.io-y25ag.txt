@@ -1,0 +1,489 @@
+ARTICLE IN PRESS
+computer law & security review ■■ (2017) ■■–■■
+Availableonlineatwww.sciencedirect.com
+ScienceDirect
+www.compseconline.com/publications/prodclaw.htm
+Comment
+Clarity, surprises, and further questions in the
+Article 29 Working Party draft guidance on
+automated decision-making and proﬁling
+Michael Veale a,*, Lilian Edwards b
+aDepartmentofScience,Technology,Engineering&PublicPolicy(STEaPP),UniversityCollegeLondon,London,UnitedKingdom
+bStrathclydeLawSchool,UniversityofStrathclyde,Glasgow,UnitedKingdom
+A B S T R A C T
+Keywords: TheArticle29DataProtectionWorkingParty’srecentdraftguidanceonautomateddecision-
+Automateddecision-making makingandproﬁlingseekstoclarifyEuropeandataprotection(DP)law’slittle-usedright
+algorithmicdecision-making topreventautomateddecision-making,aswellastheprovisionsaroundproﬁlingmorebroadly,
+Righttoanexplanation intherun-uptotheGeneralDataProtectionRegulation.Inthispaper,weanalysethese
+Rightofaccess newguidelinesinthecontextofrecentscholarlydebatesandtechnologicalconcerns.They
+GeneralDataProtectionRegulation forayintotheless-troddenareasofbiasandnon-discrimination,thesigniﬁcanceofadver-
+tising,thenatureof“solely”automateddecisions,impactsupongroupsandtheinference
+ofspecialcategoriesofdata—attimes,appearingmoretobemakingorextendingrulesthan
+tobeinterpretingthem.Atthesametime,theyprovideonlypartialclarity–andperhaps
+evensomeextraconfusion–aroundboththemuchdiscussed“righttoanexplanation”and
+theapparentprohibitiononsigniﬁcantautomateddecisionsconcerningchildren.TheWorking
+Partyappearstofeellessmandatedtoadjudicateintheseconﬂictsbetweentherecitals
+andtheenactingarticlesthantoexplorealtogethernewavenues.Nevertheless,thedirec-
+tionstheychoosetoexploreareparticularlyimportantonesforthefuturegovernanceof
+machinelearningandartiﬁcialintelligenceinEuropeandbeyond.
+©2017MichaelVeale&LilianEdwards.PublishedbyElsevierLtd.Thisisanopenaccess
+articleundertheCCBYlicense(http://creativecommons.org/licenses/by/4.0/).
+“decisionbasedsolelyonautomatedprocessing,includingpro-
+1. Background
+ﬁling,whichproduceslegaleffectsconcerninghimorheror
+similarlysigniﬁcantlyaffectshimorher”.Thisrightwasported
+Inrelationtoadatasubject,Article22oftheGeneralDataPro- totheGDPRfromtheDataProtectionDirective(DPD)1995(arts
+tection Regulation (GDPR)1 prohibits (with exceptions) any 12(a) and 15),2 and itself borrowed from early French data
+* Correspondingauthor.DepartmentofScience,Technology,Engineering&PublicPolicy(STEaPP),UniversityCollegeLondon,BostonHouse,
+36–38FitzroySquare,LondonW1T6EY,UnitedKingdom.
+E-mailaddress:m.veale@ucl.ac.uk(M.Veale).
+https://doi.org/10.1016/j.clsr.2017.12.002
+0267-3649/©2017MichaelVeale&LilianEdwards.PublishedbyElsevierLtd.ThisisanopenaccessarticleundertheCCBYlicense
+(http://creativecommons.org/licenses/by/4.0/).
+1 Regulation(EU)2016/679oftheEuropeanParliamentandoftheCouncilof27April2016ontheprotectionofnaturalpersonswith
+regardtotheprocessingofpersonaldataandonthefreemovementofsuchdata,andrepealingDirective95/46/EC(GeneralDataPro-
+tectionRegulation),OJ2016L119/1.
+2 Directive95/46/ECoftheEuropeanParliamentandoftheCouncilof24October1995ontheprotectionofindividualswithregardto
+Pleasecitethisarticleinpressas:MichaelVeale,LilianEdwards,Clarity,surprises,andfurtherquestionsintheArticle29WorkingPartydraftguidanceonautomateddecision-
+makingandproﬁling,ComputerLaw&SecurityReview:TheInternationalJournalofTechnologyLawandPractice(2017),doi:10.1016/j.clsr.2017.12.002ARTICLE IN PRESS
+2 computer law & security review ■■ (2017) ■■–■■
+protection(DP)law.3Theintentofthe1995provisionwasto mustbeinformedoftheveryexistenceofautomateddecision-
+respond to fears in the early days of digitisation that auto- making, including proﬁling, in addition to “meaningful
+mated,andhencepotentiallyinscrutableandunchallengeable, information about the logic involved,as well as the signiﬁ-
+decisionsmightprejudiceaccesstoimportantfacilitiessuch canceandtheenvisagedconsequencesofsuchprocessingfor
+ascredit,housingorinsurance.Inpractice,theprovisionwas thedatasubject”.Whatthis“meaningfulinformation”might
+little known and largely unused.However since it was mi- entail,bothintheoryandpractice,hasagainbecomeasubject
+gratedtoArticle22oftheGDPRwithlittlesubstantivechange, ofconsiderableenquiry.7
+therighthasbecomethesubjectofmuchacademicattention4 Againstthebackdropofthisrenewedglobalinterestinart
+foritspossibleutilityincurbingthepowerofcomplex,opaque 22 and other parts of the GDPR as remedies with which to
+and often invisible machine learning (ML) algorithms.Such “enslavethealgorithm”,8theArticle29DataProtectionWorking
+systems commonly now make or,more often,support deci- Party (A29WP)’s release of their draft guidance on “Auto-
+sionsofhugecitizenandconsumerimportanceinpublicand mated individual decision-making and Proﬁling”9 has been
+privatesectordomainssuchascriminaljustice,welfare,taxa- eagerlyawaited.Thedocumentiswideranging,andweightier
+tion,search,marketing,entertainmentandpoliticalopinion- (inaliteralsense,bypagecount)thananyotherGDPRguid-
+making.Much concern has been raised in legal,policy and anceyetpublishedbythebody.Includedarethedeﬁnitions
+journalisticcirclesoverwhethersuchsystemsmaycreatedis- of both automated decision-making and proﬁling; elabora-
+criminatory,biasedorunfairresults.5 tionsandanalysisofthespeciﬁcautomateddecision-making
+Art22isnotasimplearticletoconstrue,beingrifewithex- provisions inArticle 22; as well as the more general provi-
+ceptionsandcomplications.Therightisexcludedifthedecision sionsonproﬁlingandautomateddecision-makingelsewhere
+isnecessaryforacontract,authorisedbyMemberStatelaw, intheGDPR.Inaddition,speciﬁcissuesonchildrenanddata
+orbasedonexplicitconsent.Iftheﬁrstorthirdexceptionsapply, protectionimpactassessments(DPIAs)areexplored.Bestprac-
+thenminimumexplicitlyprescribedsafeguardsmustbeput ticerecommendationsandareadinglistareannexed.
+inplace.Furthermoreifthedecisionisbasedon“special”cat-
+egories of personal data (deﬁned in art 9 of the GDPR and
+includingsensitivedatasuchashealth,raceandreligion),then 2. Implicationsforinformationandaccess
+automateddecision-makingisonlyallowedonthebasisofex- rights
+plicitconsentorsubstantialpublicinterest(usuallywherelives
+areatrisk)andagain,“safeguards”mustbeputinplace.What
+In an important paper,Wachter et al.claim the information
+these“safeguards”entailhasbecomeparticularlycontrover-
+and access rights in Section 2 of the GDPR only guarantee
+sialespeciallywhenconsideringif,assomehaveclaimed,6a
+generalandexanteinformationaroundalgorithmicsystems
+“righttoanexplanation”ofhoworwhyalgorithmicsystem
+ratherthanexpostinformationabouthowanautomatedde-
+madeadecisionisimpliedorexplicitintheGDPR.
+cisionrelatedtoaparticulardatasubject’scircumstanceswas
+Art22isnottheonlypartoftheGDPRtohavebeenpressed
+generated.10This conclusion has been relatively controver-
+into service to regulate the rise of algorithmic decision-
+sial,particularlyinrelationtohowmuch‘heavylifting’isdone
+making.Information and access rights in arts 13–15,again
+bythenewadditionoftheterm“meaningful”incomparison
+derivedfromalongstandingpedigreeintheDPDbutnowin-
+totheDPD.11
+terestinglytweaked,providefortheﬁrsttimethatdatasubjects
+Implicitlyandwithoutfanfare,theA29WPappearstoalign
+themselveswithWachteretal’sview,byagreeingthatthearts
+13–15 right to “meaningful information about the logic in-
+theprocessingofpersonaldataandonthefreemovementofsuch
+volved”providesa“moregeneralformofoversight”,ratherthan
+data,OJ1995L281/31.
+3 LeeABygrave,‘MindingtheMachine:Article15oftheECData “a right to an explanation of a particular decision” [italics
+ProtectionDirectiveandAutomatedProﬁling’(2001)17Computer original].12Theinformationshouldconsistof“simplewaysto
+Law&SecurityReport17at17. tellthedatasubjectabouttherationalebehind,orthecrite-
+4 BryceGoodmanandSethFlaxman,‘EuropeanUnionregula- riareliedoninreachingthedecision,withoutnecessarilyalways
+tionsonalgorithmicdecision-makinganda“righttoexplanation”’
+(ICMLWorkshoponHumanInterpretabilityinMachineLearning
+(WHI2016),NewYork,NY,2016);MireilleHildebrandt,‘TheDawn 7 EdwardsandVeale(n4).
+ofaCriticalTransparencyRightfortheProﬁlingEra’inJBusand 8 LilianEdwardsandMichaelVeale,‘Enslavingthealgorithm:From
+others(eds.)DigitalEnlightenmentYearbook2012(IOSPress,2012); a“righttoanexplanation”toa“righttobetterdecisions”’(Brus-
+DimitraKamarinou,ChristopherMillardandJatinderSingh,‘Machine selsPrivacySymposium,VrijeUniversiteitBrussel,2017).Available
+LearningwithPersonalData’(2016)QueenMarySchoolofLawLegal onSSRN:https://ssrn.com/abstract=3052831.
+Studies Research Paper No. 247/2016; Sandra Wachter, Brent 9 Article29WorkingParty(A29WP),‘GuidelinesonAutomatedin-
+MittelstadtandLucianoFloridi,‘Whyarighttoexplanationofau- dividual decision-making and Proﬁling for the purposes of
+tomated decision-making does not exist in the General Data Regulation2016/679’(WP251,3October2017).<https://perma.cc/
+ProtectionRegulation’(2017)7InternationalDataPrivacyLaw76; 3X54-2DGC>.
+LilianEdwardsandMichaelVeale,‘SlavetotheAlgorithm?Whya 10 Wachterandothersop.cit.
+“Right to an Explanation”is Probably Not the RemedyYouAre 11 SeeegAndrewSelbstandSolonBarocas,‘RegulatingInscru-
+LookingFor’(2017)16DukeLawandTechnologyReview18. tableSystems’,draftonﬁlewithauthors;cfAndrewSelbstandJulia
+5 SeeegCampoloandothers,AINow2017Report(AINowInsti- Powles,‘MeaningfulInformationandtheRighttoExplanation’(2017)
+tute2017);SolonBarocasandAndrewSelbst,‘BigData’sDisparate 17 International Data Privacy Law <https://ssrn.com/
+Impact’104CaliforniaLawReview671. abstract=3039125>accessed10December2017.
+6 GoodmanandFlaxmanop.cit. 12 A29WP(n9),section2at24.
+Pleasecitethisarticleinpressas:MichaelVeale,LilianEdwards,Clarity,surprises,andfurtherquestionsintheArticle29WorkingPartydraftguidanceonautomateddecision-
+makingandproﬁling,ComputerLaw&SecurityReview:TheInternationalJournalofTechnologyLawandPractice(2017),doi:10.1016/j.clsr.2017.12.002ARTICLE IN PRESS
+computer law & security review ■■ (2017) ■■–■■ 3
+attemptingacomplexexplanationofthealgorithmsusedor police,andtheUK’stranspositionofitinitsdraftDataPro-
+disclosureofthefullalgorithm”.13Interestingly,earlieron(p tection Bill,22 also changes the provision from a right to a
+15)theA29WPalsoexplicitlynotesthatart15,whichistrig- prohibition.
+geredbyadatasubjectexplicitlyseekinginformation,implicitly Whetherarightoraprohibition,Article22isrestrictedin
+after processing has commenced,does not provide the data twoways:to1)“solely”automateddecisions;which2)produce
+subject with more information than should have been pro- “legal”or “similarly signiﬁcant”effects. Both of these con-
+vided under arts 13 and 14—articles which require a data ceptscontainsubstantialambiguitywhereguidanceiswelcome
+controller,respectively,toprovidesuchinformationatthetime andtheA29WPprovidethisatpp9–11.
+of processing or to the date subject if the data was not ob-
+taineddirectlyfromhimorher.14Puttogether,thisapproach 3.1. “Solely”
+seemsdesignedtofatallydamagethechancesofgenerating
+a personalised ex post “right to an explanation” from art In art 22,the deﬁnition of“solely”is crucial to the practical
+15(h) without severe judicial disagreement with these extent of the rights afforded to data subjects.23 Many auto-
+guidelines15—andindeedtheexamplegivenof“meaningfulin- matedsystemsproducesigniﬁcantoutputsaboutindividuals
+formation”atp14restrictsitselftoregurgitatingback(i)input e.g.relatingtocriminalbail,welfarebeneﬁtsorpotentialfor
+information provided by the data subject,(ii) relevant infor- employment,butfewdosowithoutwhatisoftendescribed
+mationprovidedbyothers(e.g.credithistory)and(iii)relevant as a“human in the loop”—in other words they act as deci-
+publicinformationusedinthedecision(e.g.publicrecordsof sion support systems, rather than autonomously making
+fraud).Inotherwords,A29WPhassuggestedthatnoinforma- decisions. Indeed it is quite hard to think of many auto-
+tion about the “innards”of the decision-making process— matedsystemswheresigniﬁcantdecisionsaremade“solely”
+anythingofadecompositionalnature16—needbegiven.Another byalgorithms—behaviouraltargetingofadvertsbeingonepos-
+gapwouldbeanyinformationabouthowthetrainingsetwas sibleexample(thoughseebelowregardingwhethersuchause
+established,chosen,cleanedorsoon.Atthisstageintheevo- is“signiﬁcant”),whileﬁnancialproducts,whichalreadyexist
+lutionofpracticerelatingtoalgorithmictransparency,ignoring withinahighlyregulateddomain,arealsocommonlywheeled
+thetrainingsetisarguablybothanoverlyrestrictiveandpre- out as illustration.Yet if any human involvement at all is
+scriptiveapproach. allowed,throughliteralinterpretation,toexcludeasystemfrom
+Interestingly,inadifferentpartofthedocument,namely, the ambit ofArticle 22,then its reach will be small indeed.
+the“Goodpracticerecommendations”,theA29WPstillsug- Worse still,it would be easy to introduce a nominal human
+geststhatwhile“acomplexmathematicalexplanationabout intotheloop,“rubberstamping”automateddecisionsinorder
+howalgorithmsormachine-learningwork”willgenerallynot toknockoutart22rights.Infactthereissomeevidencethat
+berelevant,it“shouldalsobeprovidedifthisisnecessaryto evenwheresystemsareexplicitlyintendedonlytosupporta
+allowexpertstofurtherverifyhowthedecision-makingprocess humandecisionmaker,forreasonsoftrustinautomatedlogic,
+works”.17Atwhatpointandhowthisoptionalprovisionofin- lackoftime,convenienceorwhatever,thenthesystemtends
+formationbecomes“necessary”is,unfortunately,notfurther todefactooperateaswhollyautomated.24Thereisastrong
+pursuedbytheWorkingParty. argumentthereforethatrightstocontrol“solely”automated
+decisionmakingmustalsoapplytodecisionsmadewithsome
+degreeofhumaninvolvement,thoughtheextentofthatdegree
+ishardtoset.
+3. ImplicationsforArticle22deﬁnitions
+TheA29WPprovidestwointerestingstatementshere.Firstly,
+theynotethat“ifsomeoneroutinelyappliesautomaticallygen-
+Firstly,theA29WPcomesdownstronglyinfavourofArticle22 erated proﬁles to individuals without any inﬂuence on the
+being read as a general prohibition rather than a right to result, this would still be a decision based solely on auto-
+opt-out.18Theambiguouslanguageofthisoddlywordedpro- mated processing”.This implies that when considering if
+visionhaslongbeenasubjectofconfusion,19withcountries “solely”applies to an automated system,DPAs should con-
+suchastheUKoptingtointerprettheDPDasrequiringnotice siderhowoftenthesystemoperatordisagreewiththesystem
+inwritingtotriggerthis‘right’.20Giventhatthelanguageof outputs and changes or otherwise augments them.Looking
+thecoreprovisionisinessenceunchanged,thiscouldbeseen forward, this would have interesting consequences. If the
+asunauthorisedlaw-making.Itisworthnotinghoweverthat machineisclaimedtooutperformhumansandtreatedassuch,
+this trend is not conﬁned to theA29WP alone,as both the anyhuman’sinvolvementintheprocessdesignedtoavoidthe
+similarprovisiontotheGDPR’sArticle22intheLawEnforce- applicationofArticle22thisshouldnecessarilybeexpected
+mentDirective,21thedataprotectionregimeapplicabletothe
+Councilof27April2016ontheprotectionofnaturalpersonswith
+13 Ibid.,14. regardtotheprocessingofpersonaldatabycompetentauthori-
+14 Ibid.,15. tiesforthepurposesoftheprevention,investigation,detectionor
+15 SeeegSelbstandPowlesop.cit. prosecutionofcriminaloffencesortheexecutionofcriminalpen-
+16 EdwardsandVeale(n4). alties,andonthefreemovementofsuchdata,andrepealingCouncil
+17 Ibid.,29. FrameworkDecision2008/977/JHA,OJ2016L119/89,art11(1).
+18 A29WP(n9),9. 22 DataProtectionHLBill(2017–18)(66),cl47.
+19 SeeegBygraveop.cit. 23 Ibid.,Bygraveop.cit.;Wachterandothersop.cit.
+20 DataProtectionAct1998,s12(1). 24 LindaJSkitkaandothers,‘Accountabilityandautomationbias’
+21 Regulation(EU)2016/680oftheEuropeanParliamentandofthe (2000)52InternationalJournalofHuman-ComputerStudies4,701.
+Pleasecitethisarticleinpressas:MichaelVeale,LilianEdwards,Clarity,surprises,andfurtherquestionsintheArticle29WorkingPartydraftguidanceonautomateddecision-
+makingandproﬁling,ComputerLaw&SecurityReview:TheInternationalJournalofTechnologyLawandPractice(2017),doi:10.1016/j.clsr.2017.12.002ARTICLE IN PRESS
+4 computer law & security review ■■ (2017) ■■–■■
+tobeeffectivelynominal.Thiswouldmeanthesystemshould discrimination”29)wouldalsobeconsideredsigniﬁcant“if,for
+be regarded as “solely” automated, and where the signiﬁ- example,prohibitivelyhighpriceseffectivelybarsomeonefrom
+cancecriterionisalsomet,willrequireahumansystemtoexist certain goods or services”.30 Interestingly, according to the
+inparallel. A29WP,signiﬁcanteffectscanbepositiveornegative.Thisdoes
+TheA29WPalsoaddsthat“meaningfulhumaninput”isre- not explicitly depart from the 1995 Directive, but interest-
+quired rather than a “token gesture”for the system to be ingly it does depart from early drafts which only restricted
+categorised as not“solely”automated.This second perspec- decisions“adversely”affectingindividuals.31
+tivefocussesonensuringthehumanhas,inthewordsofthe Akeyissueonwhichviewshavedifferedsincethe1995Di-
+WorkingParty,the“authorityandcompetence”tochangethe rective is automated targeting of adverts can ever be
+decision.Thisformsaninterestingchallenge.Ithasbeennoted “signiﬁcant”.32Ontheonehandthisisoneofthemostubiq-
+thatwherehumansareinvolvedindecision-making,theyare uitousexperiencesof“solely”automateddecision-makingand
+oftenin“moralcrumplezones”,sociallyandculturallyrespon- themismatchoftargetedadvertswithuserexpectationsisa
+siblefortheerrorsofcomplexsystemsevenwhereuponcareful primesourceofdistrustofproﬁlingingeneral.33Ontheother
+analysisblameismuchhardertoassign.25Asandifmachine hand,advertsarenotcommands—itisarguabletheyarenot
+systems become better at given tasks,we can expect main- even“decisions”—andcanbeeasilyignoredorblocked,even
+taining non-token “authority and competence” to be a thoughtheymayshapeindividualexperiencesovertime.The
+signiﬁcantsocialandorganisationalchallenge,furtherreduc- A29WPtakesamiddleline,suggestingthatadvertstargeted
+ingthescopeofavoidingArticle22obligations. onsimpledemographicssuchasgender,ageorcity,donothave
+Given these quite tricky sociotechnical issues, how will a“signiﬁcanteffect”ontherecipientbutthatsomeadvertsmay,
+“solely”be assessed?A Data Protection ImpactAssessment dependingon:
+(DPIA) seems the obvious choice,yetAnnex 2 of the recent
+A29WP DPIA guidance providing“Criteria for an acceptable (cid:129) theintrusivenessoftheproﬁlingprocess;
+DPIA”omitsanymentionofArticle22rightsandobligations, (cid:129) theexpectationsandwishesoftheindividualsconcerned;
+potentiallycreatingconfusionontheground.26Howthisex- (cid:129) thewaytheadvertisdelivered;or
+pandednotionof“solely”couldpracticallybeassessedfrom (cid:129) theparticularvulnerabilitiesofthedatasubjectstargeted.
+thepointofviewofthedatacontrollerorthedatasubjectis
+oneofthesigniﬁcantgreyareasthisguidanceleavesinitswake. These are mostly sensible,obvious factors to pick out—
+thereisstrongconsensus,topicktwoexamples,thattargeting
+3.2. “Legal”or“similarly[signiﬁcant]”effects anorexics with emetics, or proﬁling using recorded over-
+heardconversationsratherthandisclosedtextareunsavoury
+The second main restraint on user rights over automated practices—butdothesemattersmakethedecisionmoresig-
+decision-makingandproﬁlingiswhetheradecisionhaslegal niﬁcantorjustmoreunpleasant?Intheformercase,perhaps
+effectsorifnotor,alternately,is“signiﬁcant”.Whilelegaleffects yes—butwhataboutthelatter?Thereisadangerherethatthe
+arefairlyclearlyrestrictedtocaseswherelegalstatusisaltered A29WPguidance,well-meaningly,isdrawingmorefromcon-
+orlegaldutiescreated(e.g.assessmentofimmigrationstatus; sumerprotectionprinciplesthantheunderlyingtext.34Onthe
+authenticationofalegalcontract)“signiﬁcant”effectsaremuch otherhand,itisoddtoseenomentionofthetheorythattar-
+vaguer. getedadvertsaresigniﬁcantbecause,likepricediscrimination
+TheA29WP suggests that“signiﬁcant”decisions include mentioned immediately below,they reduce the universe of
+those the potential to “signiﬁcantly inﬂuence the circum-
+stances,behaviourorchoicesoftheindividualsconcerned”,
+as well as those that may lead to individuals’“exclusion or 29 SeeFrederikZuiderveenBorgesiusandJoostPoort,‘OnlinePrice
+discrimination”.27The use of“inﬂuence”not just“cause”in- DiscriminationandEUDataPrivacyLaw’(2017)40JournalofCon-
+terestinglysuggeststhatsystemsthat“nudge”individualse.g. sumerPolicy3,347–366.
+30 TheWorkingPartydonotconsiderassomescholarshavethat
+bychangingthewaythatthechoicestheyhaveavailableare
+ahigherpricecouldbean“invitationtoenteranagreement”,and
+presented may fall within these provisions,even if the ﬁnal
+thushavepotentiallegaleffect.Seeibid.,362.
+decisionisleftatleastostensiblytotheindividual—adiscus-
+31 Bygraveop.cit.
+sionfamiliartothosefollowingtheliteratureonproﬁlingand 32 IsakMendozaandLeeABygrave,‘TheRightnottobeSubject
+thelaw.28 toAutomatedDecisionsbasedonProﬁling’inTatianaSynodinou
+Connectedly,systems generating differential pricing ac- andothers(eds.)EUInternetLaw:RegulationandEnforcement(Springer,
+cordingtotheproﬁledcharacteristicsofadatasubject(“price 2017).
+33 Forexample,refertothepersistentspeculationthatFB“listen”
+tomobileusersthroughtheirsmartphonemicrophoneanduses
+25 MadelineClaireElish,‘MoralCrumpleZones:CautionaryTales thistosendadsrelatedtoconversations;FBdeniesthisanditindeed
+inHuman-RobotInteraction’(2016)WeRobot2016WorkingPapers, seemsunlikelyitisnecessarygiventhevolumeofotherdataand
+doi:10.2139/ssrn.2757236. metadatatheycandrawon.SeeZoeKleinman,‘Facebookdenies
+26 Article29WorkingParty,‘GuidelinesonDataProtectionImpact “listening” to conversations’ BBC News (28 October 2017)
+Assessment(DPIA)anddeterminingwhetherprocessingis“likely <http://www.bbc.com/news/technology-41776215>accessed14No-
+toresultinahighrisk”forthepurposesofRegulation2016/679’ vember2017.
+(WP248rev.01,4October2017),22. 34 cfNataliHelberger,FrederikZuiderveenBorgesiusandAgustin
+27 A29WP(n9),10, Reyna,‘The Perfect Match?A Closer Look atThe Relationship
+28 SeegenerallyMireilleHildebrandt,SmartTechnologiesandtheEnd(s) Between EU Consumer Law and Data Protection Law’ (2017) 54
+ofLaw(2015,EdwardElgar). CommonMarketLawReview1427.
+Pleasecitethisarticleinpressas:MichaelVeale,LilianEdwards,Clarity,surprises,andfurtherquestionsintheArticle29WorkingPartydraftguidanceonautomateddecision-
+makingandproﬁling,ComputerLaw&SecurityReview:TheInternationalJournalofTechnologyLawandPractice(2017),doi:10.1016/j.clsr.2017.12.002ARTICLE IN PRESS
+computer law & security review ■■ (2017) ■■–■■ 5
+thosedeemednotsuitable,notrichornotpersuadableenough optimumresults,aswiththefamousdecisionoftheCJEU37to
+bycertainoffersandthiscreatesocialsorting. proscribediscriminationininsuranceresultsonthegrounds
+Theissueofthesigniﬁcanceofadvertsdovetailsintothe ofgender,whichwasexpectedtoraisepremiumsforbothsexes,
+overarchingquestionofwhethertheeffectsmustbe“signiﬁ- buthasbeenaccusedoffurtherwideningthegapbetweenmale
+cant”to individuals,or if it sufﬁces that they are signiﬁcant andfemalequotesthroughtheuseofproxies.38
+toagroupofwhichthedatasubjectisamember.35Forexample,
+3.3. Suitablesafeguards
+anadverttargetedtothosewith“black-sounding”ﬁrstnames,
+suggestingthattheaidofacriminaldefencelawyermaybe
+3.3.1. Updatesonthe“righttoanexplanation”
+needed,doeslittletoharmthereputationoftheparticularblack,
+Thealleged“righttoanexplanation”safeguardinArticle22
+Harvardsecurityprofessor,LatanyaSweeney,thatwasinves-
+has,asalreadynoted,beenthesubjectofbothsigniﬁcanthope
+tigating the phenomenon when it occurred to her,but may
+andcontention,thelatterparticularlysurroundingitslegally
+arguablycreateapenumbraofracialbiasandexpectationsof
+ambiguousstatus39anditstechnicaldimensionsandpracti-
+illegalbehaviouraroundtheentiregroupofblackpeople,some
+ofwhomwillbemorevulnerablethanourprofessorsubject.36 caluse(orinherentlimits)asaremedy.40Manyoftheissues
+relatetotheinclusionoftherightintherecitalsoftheGDPR,
+Alternatelyitcouldbearguedthatthisistoconfusecauseand
+writteninmandatorylanguage,butitsexclusionfromthemain
+effect;thegroupproﬁlegaverisetothetargetedadvertwhich
+articleforpoliticalreasons,whereasimilar,shorterlistofsafe-
+failed to signiﬁcantly affect the professor.At root here is an
+guardsisprovided.41TheA29WP,clearlysufferingthemselves
+irreconcilable tension between DP as a creature of the indi-
+fromthiscontradiction,doesnotaddressitheadon,andthere-
+vidual rights paradigm, and the inevitable conclusion that
+foreonlycompoundtheconfusionitgenerates.Inonepage,
+algorithmicdecision-makingleadstogroupharms.Asabove
+theyevenmanagetoprovideanArticle22-basedsafeguardlist
+thereisachoicetobemadeherebetweenaddressingsocial
+(omitting a right to an explanation) with the contradictory
+harmsandlettingequalitylawleakintoDPlaw,ormaintain-
+Recital 71-based list (including a right to an explanation)
+ingamoreconservativeseparation.
+footnoted.42Furthermore,theyemphasisethattheRecital71
+TheA29WPgivesconfusingsignalsinthisrespect.Onone
+safeguardsapply“inanycase”[italicsinoriginal].43Theygoon,
+hand,theyhighlightthat“[p]rocessingthatmighthavelittle
+in their “Key GDPR provisions that reference automated
+impactonindividualsmayinfacthaveasigniﬁcanteffecton
+decision-makingasdeﬁnedinArticle22”sectiontochoosethe
+certaingroupsofsociety,suchasminoritygroupsorvulner-
+Recital71listandomittheArticle22list,44whilstinthepage
+ableadults”.Yettheexampletheythencite,ofthevulnerable
+preceding of “good practice”suggestions for suitable safe-
+personinﬁnancialdifﬁcultieswhoistargetedwithinvitesto
+guards the right is conspicuous only by its absence,even in
+onlinegambling,re-individualisestheproblemagaintoaperson
+the presence of without explicit basis in recitals at all,such
+ratherthanagroup(p11):someone’sidentityasagambling
+as“ethical review boards to assess the potential harms and
+addictisdeﬁnedprimarilybytheirgamblingbehaviour,which
+beneﬁtstosociety”!45
+isaquitedifferentnotionfromsomeonewhosegroupisdeﬁned
+Thesecondsetofissues,concerningthepracticaltypesof
+bymembershipofaminority,andpotentiallyprotected,class
+informationthatcanbedeliveredbymeansofanyArticle22-
+–andthustherelationofprotectedcharacteristicsto“signiﬁ-
+based explanation, are not addressed at all in the text.All
+cant”decisionsremainsunclear.
+references elaborating on algorithmic explanations relate to
+Aparagraphorsolater,however,weﬁndthesuggestionthat
+Section2informationprovisionsratherthanArticle22safe-
+the characteristics of the group may lead to detrimental al-
+guards,whichasnotedabove,haveamoregeneralpurview.
+gorithmicdecisionsaboutanindividualdatasubject,inthat
+Whethersucharighttoanexplanation,wereittoexistmight
+signiﬁcanteffects“mayalsobetriggeredbytheactionsofin-
+includethekindsof“subject-centred”explanations(suchas
+dividualsotherthantheonetowhichtheautomateddecision
+decisionsensitivitytochangesininputvariables46),andhow
+relates”[italicsadded].Anexampleisgivenofwherepostcodes
+thisrightmightplaywiththerangeofexplanationfacilities,
+fordown-at-heelareasmightcontributetopoorcreditscoring
+both static and interactive, being pushed by computer
+foranotherwisecreditworthyindividualwholivesthere.There
+isnoreasonwhysuchdecisionsshouldnotfallwithinart22—it
+isthedecisionthatconcernsthedatasubjectthattriggersit, 37 Case C-236/09,Association belge des ConsummateursTest-
+even if the data used to make the decision comes partly or AchatsASBLandOthersv.Conseildesministres[2011]ECRI-00773.
+whollyfromelsewhere.Infactsuch“peerrelated”factorsare 38 PatrickCollinson,‘HowanEUgenderequalityrulingwidened
+inequality’ The Guardian (London, 14 January 2017) <https://
+thenormratherthantheexceptioninmachinelearning.And
+www.theguardian.com/money/blog/2017/jan/14/eu-gender-ruling-
+these are clearly the cases where transparency and associ-
+car-insurance-inequality-worse>accessed14November2017.The
+atedopportunitiesforchallengeunderart22wouldbeofthe
+useofproxyvariablesiswell-studiedinrelationtofairnessinal-
+greatestuse.Inequalitylawproper,whetherthisuseofgroup gorithmicallymadeandsupporteddecisions.SeeegBarocasand
+data to inform personalised decisions is “fair”is a conun- Selbst(n5).
+drum which has been grappled with not always to produce 39 Wachterandothersop.cit.
+40 EdwardsandVeale(n4).
+41 Wachterandothersop.cit.
+42 A29WP(n9),9.
+43 Ibid.,16.
+35 EdwardsandVeale(n4). 44 Ibid.,31.
+36 LatanyaSweeney,‘DiscriminationinOnlineAdDelivery’(2013) 45 Ibid.,30.
+56CommunicationsoftheACM5,44–54;ibid. 46 Forabroadertypology,seeEdwardsandVeale(n4).
+Pleasecitethisarticleinpressas:MichaelVeale,LilianEdwards,Clarity,surprises,andfurtherquestionsintheArticle29WorkingPartydraftguidanceonautomateddecision-
+makingandproﬁling,ComputerLaw&SecurityReview:TheInternationalJournalofTechnologyLawandPractice(2017),doi:10.1016/j.clsr.2017.12.002ARTICLE IN PRESS
+6 computer law & security review ■■ (2017) ■■–■■
+scientistsinconferencesandworkshopssuchasFairnessAc- hasneverbeensubstantiallyattachedtonon-discrimination
+countability andTransparency in Machine Learning (FATML) inprocessingoutcomes.52
+isyettobeseen. There are three main areas where theA29WP expresses
+viewsondiscriminationandbiasinmachinelearningsystems
+3.3.2. Children usedinproﬁlingandautomateddecision-making.
+TheA29WPwasfacedwithanunenviabletaskinrelationto First,theysuggestmeasurestotacklediscriminationasau-
+automateddecision-makingandchildren:reconcilinganab- tomated decision-making safeguards underArticle 22(3–4).
+solutebanintherecitalswithsilenceinthemaintext.Recital Followingtheallusiontodiscrimination-awaredataminingin
+71 states bluntly that the types of decisions inArticle 22(1) Recital71,theyrecommenddatacontrollers“designwaysto
+“should not concern a child”.Article 22,however,does not addressanyprejudicialelements”,“auditalgorithms”,andun-
+mentionchildren.TheWorkingParty’sdecidedthatitthere- dertake“regular”and“cyclical”reviewstoavoiddiscrimination
+fore “does not consider that this represents an absolute onthebasisofspecialcategorydata.Theenforceabilityofthese
+prohibitiononthistypeofprocessinginrelationtochildren” willdependonwhetherthesafeguardslistedinArt22(only
+but that“wherever possible”controllers should not rely on “therighttoobtainhumaninterventiononthepartofthecon-
+Article22(2)exemptionstojustifyit.Thisisinlinewiththe troller,toexpresshisorherpointofviewandtocontestthe
+interpretationofMendozaandBygrave,47whosuggestthatthis decision”),which are required“at least”,are seen as mini-
+will“likelyincreasethestringency”ofthemeasuresinArticle mally“suitable”,orwhetherthebalancingofsafeguardsagainst
+22,suchaswhichdecisionsareconstruedassigniﬁcant.The subjects’rightsandfreedomswillobligefurtheraction.
+A29WP add to this to note that where this decision-making Second,they suggest that data controllers relying on the
+mayneedtobecarriedout(e.g.to“protect[children’s]welfare”) legitimateinterestsgroundstojustifyproﬁlingmustparticu-
+thismustbealongsidesafeguards“appropriateforchildren”. larly consider safeguards concerning “fairness, non-
+Thetrade-offmadeinthisdraftguidance,beingvalue-charged discriminationandaccuracy”.53Legitimateinterestcannever
+asdiscussionsaroundchildren’srightsoftenare,hasalready serve as grounds for the automated decisions considered in
+ledtoheateddebateinatleastnationallegislature.48 Article22(1)sothiscanonlyapplytoproﬁlingwhereprocess-
+ing is not completely automated.It is unclear whether the
+“fairness”discussedinthissectionislinkedinanywaytothe
+3.3.3. Discrimination-awareproﬁling,includingmachine
+“fairness”principleinArticle5(1)(a)thoughthiswouldseem
+learning
+a natural assumption.54A29WP nevertheless advises,albeit
+TheGDPRisquiet,althoughnotsilent,onbiasanddiscrimi-
+withinanillustrativeexample,thatwithintheinformationand
+nationwithinalgorithmicsystems.Themostdirectallusion
+accessrightsofarts13–15,discussedearlier,controllershould
+toitisfoundinaverylong,windingsentenceinRecital71,49
+considerprovidingdatasubjectswithinformationthattheir
+whichnotesthecontrollershould“implementtechnicaland
+proﬁlingmethods“areregularlytestedtoensuretheyremain
+organisational measures [...] in a manner [...] that pre-
+fair,effectiveandunbiased”.55
+vents,interalia,discriminatoryeffectsonnaturalpersons”on
+Thirdly,theyrefertotheobligationsofdatacontrollerswho
+thebasisofspecialcategories50ofdata.Thiscanbereadinlight
+inferspecialcategoriesofdatafrom“ordinary”personaldata
+of“discriminationaware”or“fairnessaware:dataminingand
+through the use of proﬁling.This is a fraught area given in-
+machinelearning,agrowingﬁeldofresearchandpractice.51
+creasingevidencethatitiseasytoderivefromquotidiandata
+While“fairness”isanoverarchingprincipleoftheGDPR,itis
+suchassocialmediapostsandshoppingbills,sensitivedata
+anextremelyunder-determinednotionindataprotectionthat
+aboute.g.healthandpoliticalopinions.56TheA29WPargues
+thisplacesadutyonsuchadatacontrollertonotifydatasub-
+47 MendozaandBygraveop.cit. jectsnotjustthattheyhavecollectedthedatabutthatsuch
+48 HLDeb13November2017,volume785,cols1865,1870. sensitiveinferenceshavebeenmade(p22).Thishasinterest-
+49 Recital71,GDPRnotesthat“thecontrollershoulduseappro-
+inglogicalconsequencesforthewholetopicofdiscrimination
+priate mathematical or statistical procedures for the proﬁling,
+awareML.Seenatitsmostrestrictive,itmightimplythatwhen-
+implementtechnicalandorganisationalmeasures[...]thatpre-
+vents,interalia,discriminatoryeffectsonnaturalpersonsonthe everadatacontrollercanreasonablyforeseetheymay“create”
+basisofracialorethnicorigin,politicalopinion,religionorbeliefs, specialcategoriesofdatai.e.inanycasewherenon-sensitive
+tradeunionmembership,geneticorhealthstatusorsexualori- personaldatabecomesaproxyforaspecialcategoryofper-
+entation,orthatresultinmeasureshavingsuchaneffect”. sonaldatainamodel,suchprocessingwillhavetotakeplace
+50 Whatconstitutes“specialcategoriesofpersonaldata”inthe
+GDPRisdeﬁnedinArticle9(1).“Processingofpersonaldatare-
+vealing racial or ethnic origin, political opinions, religious or
+philosophicalbeliefs,ortradeunionmembership,andthepro- 52 SeeDamianCliffordandJefAusloos,‘Dataprotectionandthe
+cessingofgeneticdata,biometricdataforthepurposeofuniquely role of fairness’ (3August 2017) CiTiPWorking Paper Series 29/
+identifyinganaturalperson,dataconcerninghealthordatacon- 2017.
+cerninganaturalperson’ssexlifeorsexualorientationshallbe 53 A29WP(n9),21.
+prohibited”. 54 CliffordandAusloosop.cit.
+51 Dino Pedreshi, Salvatore Ruggieri and Franco Turini, 55 A29WP(n9),14.
+‘Discrimination-awaredatamining’(2008)Proceedingsofthe14th 56 SeeegSvitlanaVolkovaandYoramBachrach,‘Onpredictingso-
+ACMSIGKDDInternationalConferenceonKnowledgeDiscovery ciodemographictraitsandemotionsfromcommunicationsinsocial
+andDataMining(KDD’08);morerecently,seetheproceedingsof networksandtheirimplicationstoonlineself-disclosure.’(2015)
+thefour(asof2017)WorkshopsonFairness,Accountabilityand 18 Cyberpsychology,Behavior,and Social Networking 12 (2015) 726–
+TransparencyinMachineLearning(FAT/ML)atwww.fatml.org. 736.
+Pleasecitethisarticleinpressas:MichaelVeale,LilianEdwards,Clarity,surprises,andfurtherquestionsintheArticle29WorkingPartydraftguidanceonautomateddecision-
+makingandproﬁling,ComputerLaw&SecurityReview:TheInternationalJournalofTechnologyLawandPractice(2017),doi:10.1016/j.clsr.2017.12.002ARTICLE IN PRESS
+computer law & security review ■■ (2017) ■■–■■ 7
+undertherestrictedgroundsforprocessingofArticle9.This algorithmic decisions in the administrative public sector,a
+would,in most commercial cases,exclude the use of legiti- modelwhichhasalsobeensuggestedasanamendmenttothe
+mateinterestsandrequireexplicitconsenttothecreationof UK’s Data Protection Bill in the course of its House of Lords
+thesensitivedata.Inparticular,itwouldplaceaparticularim- process.59Anotherfailure,albeitfairlyunderstandablegiven
+perativeondatacontrollerstoundertakeprioranalysisofthe thedifﬁcultiesofthetext,istoaddressheadontheissueof
+fairnesscharacteristics57oftheirsystemsduringthetraining whetherandwhenproﬁlingofchildrenisallowed.Finally,there
+periodtoobserveifsuchproxyeffectsoccurandifso,either areinterestingfuturehooksforregulatorsand(probably)na-
+toamendthemortoseeknewconsentsfromthedatasub- tionalcourtsinrelationtoalgorithmicbiasanddiscrimination.
+jects.Thiswouldbesomewhatradicalandprovokeareﬁned Therulesforinferredspecialcategoriesofdataarelikelyonly
+emphasis on DP impact assessments which are also tobecomeevermorecontroversialasthedeploymentofpo-
+emphasisedintheguidance. litical,racialandeconomicmodellingofdatasubjectsthrough
+casual online exchanges, clicks and “Likes”becomes more
+apparent.60 Indeed,these rules,which were perhaps unex-
+pected in their conviction and especially pertinent when
+consideringthenatureofdatatransformationinmodelling,
+4. Conclusion
+couldendupveryimportantindeedforfuturegovernanceof
+proﬁlinginEurope.
+This weighty guidance,despite some careful ambiguities in
+wording,leansattimesnearertounauthorisedlaw-makingthan
+Acknowledgements
+mere interpretation.This is particularly evident in the sec-
+tions on what“solely”,and“signiﬁcant effects”mean in the
+contextofart22,aswellasintheattitudetakentoart15and MichaelVealeacknowledgesfundingfromtheEngineeringand
+itsinteractionwiththe“righttoanexplanation”.Ontheother PhysicalSciencesResearchCouncil(EPSRC)[grantnumberEP/
+hand,littletangiblehelpisgiveninrelationtowhetherthat M507970/1].LilianEdwardswassupportedinpartbytheArts
+elusive right can be derived from art 22 or recital 71, and andHumanitiesResearchCouncil(AHRC)centreCREATe[grant
+(perhapsunsurprisingly)nohelpisgivenatallonwhatkind numberAH/K000179/1],andtheEPSRCDigitalEconomyHub
+ofelementsmightgointosuchexplanations.A29WPmighthave Horizon at the University of Nottingham [grant number EP/
+referred the reader helpfully to the 2016 French Digital Re- G065802/1].Wethanktwoanonymousreviewersfortheirhelpful
+publicAct58whichgivesquitedetailedinstructionsonwhat comments on the manuscript,and Steve Saxby for his out-
+information should be provided by way of explanation of standingeditorialresponsiveness.
+57 NotethatthespecialcategoriesofdataintheGDPRarenotthe
+sameasmostcountries’“protectedcharacteristics”,forthosethat
+havethem.Gender,forexample,isnotincludedasaspecialcat-
+egoryintheGDPR,whereaspoliticalopinionis.
+58 Loi n 2016-1321 du 7 October 2016 pour une République 59 HLDeb13November2017,volume785,cols1863.
+numérique,art3;fortheinformationthatmustbeprovidedtothe 60 Seee.g.the2016caseofFacebookallowingadvertisingtarget-
+citizen upon request,see Code des relations entre le public et ingby“ethnicafﬁnity”:JuliaAngwinandTerryParrisJr,‘Facebook
+l’administration,versionconsolidéeau1September2017,artL311- letsadvertisersexcludeusersbyrace’ProPublica(28October2016)
+9.For English translation and analysis,see Edwards andVeale <https://www.propublica.org/article/facebook-lets-advertisers-
+(n8). exclude-users-by-race>.
+Pleasecitethisarticleinpressas:MichaelVeale,LilianEdwards,Clarity,surprises,andfurtherquestionsintheArticle29WorkingPartydraftguidanceonautomateddecision-
+makingandproﬁling,ComputerLaw&SecurityReview:TheInternationalJournalofTechnologyLawandPractice(2017),doi:10.1016/j.clsr.2017.12.002

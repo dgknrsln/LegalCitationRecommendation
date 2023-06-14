@@ -1,0 +1,1430 @@
+ 
+ 
+2017 Monsanto Lecture 
+The Complicated Business of State Supreme Court Elections: An Empirical Perspective 
+ 
+Michael Heise ∗ 
+ 
+Abstract 
+Proponents of judicial elections emphasize existing First Amendment jurisprudence as well as 
+similarities linking publicly-elected state judges and other publicly-elected state officials. 
+Opponents emphasize judicial campaign contributions’ corrosive effects, including their 
+potential to unduly influence judicial outcomes. Using a comprehensive data set of 2,345 
+business-related cases decided by state supreme courts across all 50 states between 2010-12, 
+judicial election critics, including Professor Joanna Shepherd, emphasize the potential for bias 
+and find that campaign contributions from business sources to state supreme court judicial 
+candidates corresponded with candidates’ pro-business votes as justices. While Shepherd’s main 
+findings largely withstand replication efforts, additional (and alternative) analyses introduce 
+new findings that raise complicating wrinkles for Shepherd’s strong normative claims. Findings 
+from this study illustrate that efforts to influence judicial outcomes are not the exclusive domain 
+of business interests. That is, judicial campaign contributions from “non-“ (and “anti-“) 
+business interests increase the probability of justices’ votes favoring non-business interests. As a 
+result, critiques of judicial elections cannot properly rely exclusively on the influence of business 
+interests. Moreover, that both business and non-business interests can successfully influence 
+judicial outcomes through campaign contributions point in different (and possibly conflicting) 
+normative directions. On the one hand, even if one agrees that the judicial branch qualitatively 
+differs from the political and executive branches in terms of assessing campaign contributions’ 
+proper role, that the potential to influence judicial outcomes is available to any interest group 
+(willing to invest campaign contributions) complicates popular critiques of judicial elections. On 
+the other hand, the same empirical finding also plausibly strengthens critiques of judicial 
+elections, especially for those who view the judicial domain as distinct from other political 
+domains. 
+ 
+1.0.  Introduction 
+                                                 
+∗ Professor, Cornell Law School.  This Article is the written version of the Monsanto Lecture, delivered at 
+Valparaiso University School of Law on February 16, 2017. Joanna Shepherd, Dawn M. Chutkow, Nicole A. Heise, 
+and Nicholas Stephanopoulos provided helpful comments on earlier drafts of this paper. 
+1 
+ 
+ Electronic copy available at: https://ssrn.com/abstract=2960668   Debates over state judicial selection methods have persisted over time and increased in 
+ferocity.  At the core of such debates reside questions about how best to reconcile two desired 
+goals: judicial independence from and accountability to those bound by court rulings.  
+Conventional wisdom typically links judicial appointments with enhanced independence and 
+judicial elections with enhanced accountability.  Among an array of selection methods, many 
+states select their supreme court justices through popular election and some have done so since 
+the mid-nineteenth century.  While motivations for those states that use popular election as a 
+judicial selection model no doubt vary, they certainly include a general impulse to increase 
+judges’ accountability to the people that their decisions influence.1 
+States opting for judicial elections invariably confront important campaign finance 
+questions for judicial candidates.  As Professor Kritzer observes, “[t]he elephant in the room 
+regarding the impact of judicial elections on judicial decisions is the question of whether judges 
+who must stand for election” are “influenced by campaign contributions.”2  Legal contests over 
+elections and campaign spending have forced the Supreme Court to consider the potentially 
+corrosive effects of money in the electoral process and, within the bounds of the First 
+Amendment, how concerns about corruption might be addressed.3  Similar and concurrent 
+litigation over state judicial elections and campaign spending has imposed upon the Court 
+derivative questions about whether its concerns about the role of money in elections must adjust 
+when the elected public official is a judge.4 
+                                                 
+1 For a helpful summary see, e.g., JED H. SHUGERMAN, THE PEOPLE’S COURTS (2012). 
+2 Herbert M. Kritzer, Impact of Judicial Elections on Judicial Decisions, 12 Annu. Rev. Law Soc. Sci. 1, 12 (2016). 
+3 See, e.g., Citizens United v. FEC, 558 U.S. 310 (2010); Buckley v. Valeo, 424 U.S. 1 (1976). 
+4 See, e.g., Williams-Yulee v. Florida Bar, 135 S. Ct. 1656, 575 U.S. __ (2015); Caperton v. A.T. Massey Coal Co., 
+556 U.S. 868 (2009); Republican Party of Minn. V. White, 536 U.S. 765 (2002). 
+2 
+ 
+ Electronic copy available at: https://ssrn.com/abstract=2960668   Even those not particularly bothered in the abstract by submitting judicial candidates 
+(along with judges seeking retention) to the electoral process understand that the interaction of 
+campaign spending and judicial elections heightens potential tensions.  While early judicial 
+elections may have been comparatively inexpensive affairs,5 judicial elections today, by contrast, 
+are frequently quite expensive.6  As a result of a transformation of campaign spending and its 
+role in judicial elections, “judges spend significant amounts of time and energy raising money.”7  
+As judicial campaign spending increased, the number of campaign contributors increased which, 
+in turn, increased the probability that an elected judge would hear a case involving litigants (or 
+attorneys) who contributed to the presiding judges’ campaigns.8  How one understands these 
+tensions frequently pivots largely on one’s own perspective.  Where some see modern trends in 
+judicial elections as “healthy,”9 others increasingly see “nightmarish” problems.10 
+  These latent tensions frequently emerge in the context of judicial elections that feature 
+pro- or anti-business campaign spending invested with an eye towards judicial engagement with 
+existing or contemplated tort reform legislation.  Writing about the 1980s, judicial election 
+scholars noted an emergence of a “new-style” of state supreme court campaigns that increasingly 
+resembled traditional political campaigns in both tone, content, and, indeed, methods.11  These 
+same political scientists noted how judicial campaigns began to reach and engage voters on even 
+the “more prosaic issues such as tort law.”12  More to the point, “tort reform,” a persistent flash-
+                                                 
+5 SHUGARMAN, supra note 1, AT 10. 
+6 Dmitry Bam, Recusal Failure, 18 N.Y.U. J. Legis. & Pub. Pol’y 631, 638 (2015). 
+7 Id. 
+8 Id. 
+9 David Pozen, The Irony of Judicial Elections, 108 Colum. L. Rev. 265, 317 (2008). 
+10 David Schultz, Minnesota Republican Party v. White and the Future of State Judicial Selection, 69 Alb. L. Rev. 
+985, 985 (2006). 
+11 See, e.g., Marie Hojnacki and Lawrence Baum, “New Style” Judicial Campaigns and Voters: Economic Issues 
+and Union Members in Ohio, 45 West. Pol. Quart. 921 (1992). 
+12 Id. at 944-45. 
+3 
+ point for pro- and anti-business interests and, consequently, an important political issue in many 
+states, is “fought not only in state legislatures but also in state supreme courts.”13  Professors 
+Kang and Shepherd characterize tort reform issues as business contributors’ “primary focus in 
+state judicial races.”14  One predictable consequence in states that elect judges is that “much of 
+the money contributed in judicial races tends to be given by those interested in the shape of tort 
+law.”15 
+While acknowledging that “any interest group might exert influence over the judiciary,” 
+Kang and Shepherd’s work focuses on the influence of pro-business judicial campaign 
+contributions on judicial votes in business cases.  Professors Kang and Shepherd attribute their 
+focus on business’ potential influence on judicial outcomes to the business lobby’s “unique 
+ability to do so.”16  This study seeks to broaden Kang and Shepherd’s scope to include non- (and 
+“anti-“) business contributions as well. 
+Whether judicial campaign contributions influence judicial votes and case outcomes is, at 
+one crucial level, an empirical question.  How best to characterize publicly-elected judges and 
+their non-judicial elected counterparts, in contrast, is better understood as a normative question.  
+To a large degree, how one understands a publicly-elected state judge’s function informs one’s 
+assessments about judicial elections and judicial campaign spending.  Proponents of judicial 
+elections, such as Professor Hall, emphasize the similarities that link elected state supreme court 
+                                                 
+13 Anthony Champagne, Tort Reform and Judicial Selection, 38 Loy. L.A. L. Rev. 1483, 1488 (2005). 
+14 Michael S. Kang & Joanna M. Shepherd, The Partisan Price of Justice: An Empirical Analysis of Campaign 
+Contributions and Judicial Decisions, 86 N.Y.U. L. Rev. 69, 85 (2011). 
+15 Id. (“It is state judge selection that produces the major battles between economic interests that are concerned with 
+a state’s tort law.”); see also David A. Logan, Judges, Juries, and the Politics of Tort Reform, 83 U. Cin. L. Rev. 
+903, 919-20 (2015). 
+16 Kang & Shepherd, supra note 14, at 85. 
+4 
+ justices and other elected officials.17  For critics of judicial elections, however, this is precisely 
+the problem.  Specifically, for many judicial election critics the similar ways in which campaign 
+spending influences judicial, legislative, and executive elected officials contribute to problems 
+with judicial elections because of the potentially fundamental ways in which the judicial branch 
+differs from the legislative and executive branches.18  Consequently, many of the arguments that 
+distinguish campaign spending in the judicial and non-judicial electoral contexts pivot on 
+distinguishing publicly-elected state judges from other publicly-elected officials. 
+  Even the U.S. Supreme Court appears genuinely conflicted over how to frame elected 
+judicial actors in the campaign context.  On the one hand, in striking down a Minnesota law 
+limiting judicial candidates’ political speech, the Court implicitly recognized the First 
+Amendment’s similar purchase when it came to pure political speech, whether in the judicial, 
+legislative, or executive electoral contexts.19  In so doing, the White decision in 2002 emphasizes 
+the Court’s implicit recognition of similarities between publicly-elected judges and the non-
+judicial counterparts. 
+In 2015, however, the Court upheld a Florida prohibition on a judicial candidate’s direct 
+campaign fundraising solicitations.20  In contrast to the White decision, the Williams-Yulee 
+decision suggests that the Court (or at least five Justices) views judicial candidates differently 
+than other political candidates.21  Specifically, while the White opinion implicitly frames judicial 
+                                                 
+17 MELINDA G. HALL, ATTACKING JUDGES: HOW CAMPAIGN ADVERTISING INFLUENCES STATE SUPREME COURT 
+ELECTIONS (2015), at 126. 
+18 See, e.g., Michael S. Kang & Joanna M. Shepherd, Judging Judicial Elections, 114 Mich. L. Rev. 929, 930 (2016); 
+James Sample, Democracy at the Corner of First and Fourteenth: Judicial Campaign Spending and Equality, 66 
+N.Y.U. Ann. Surv. Am. L. 727, 756-57 (2011)(arguing that differences in democratic expectations in the courts and 
+traditional political arenas justify treating campaign spending in judicial elections differently than in political 
+elections).  
+19 White, 536 U.S. 765 (2002). 
+20 Williams-Yulee, 135 S. Ct. 1656, 575 U.S. __. 
+21 Id. at ___ (“Judges are not politicians, even when they come to the bench by way of the ballot.”). 
+5 
+ candidates as functionally equal to other political candidates for purposes of free speech 
+protections, the Williams-Yulee opinion, by contrast, takes another tact by endeavoring to 
+distinguish publicly-elected state judges other publicly-elected officials in the campaign 
+contributions’ context.22  The Court’s effort to restrict judicial candidates’ fundraising in 
+Williams-Yulee rests uneasily with the Court’s prior decision in Buckley v. Valeo where it 
+functionally construed campaign contributions and spending as core political speech.23  Indeed, 
+critics of the Williams-Yulee decision quickly noted how the Court’s analysis applies a “heavily 
+watered-down version of strict scrutiny analysis”—particularly as it relates to the narrowly 
+tailored prong—to enable the Court to reach its outcome yet maintain the outward appearance of 
+having applied strict judicial scrutiny.24 
+At a conceptual level, the contested issues run even deeper.  Whether elected state judges 
+are, unlike their elected counterparts in the executive and legislative branches, charged with a 
+counter-majoritarian function that is structurally threatened by judicial elections resides at the 
+heart of what divides judicial election proponents and critics.  Moreover, more recent Court 
+decisions imply a growing unease with “protecting the integrity of the judiciary and maintaining 
+the public’s confidence in an impartial judiciary.”25  As well, the Court wants elected judges to 
+steer clear of creating an “appearance of impropriety” within a constitutional regime that permits 
+judicial candidate campaign speech and some forms of campaign fundraising.26  Finally, within a 
+context noted for inevitably conflicting principles and impulses, it remains unclear whether the 
+                                                 
+22 See, e.g., id. 
+23 See Buckley, 424 U.S. 1 (1976). 
+24 See, e.g., Noah B. Lindell, Williams-Yulee and the Anomaly of Campaign Finance Law, 126 Yale L.J. 1577, 
+1577 (2017). 
+25 Williams-Yulee, 135 S. Ct. 1656, 575 U.S. __. 
+26 Id. 
+6 
+ divide separating judicial election proponents and opponents can be bridged at all and, if it can, 
+what role empirical scholarship might play in informing arguments. 
+Two likely causal pathways help explain relations between judicial campaign 
+contributions and judges’ votes that reflect contributors’ interests.27  One includes selection bias 
+for the subpool of candidates who prevail in their judicial elections.  Specifically, prevailing 
+judges may already possess a preference for (or against) business interests.  Another, more 
+subtle, causal mechanism involves judges who, while otherwise agnostic about business 
+interests, may favor (or dis-favor) business interests in their votes with an eye towards securing 
+future campaign contributions in future judicial elections.  While this study’s data and research 
+design are unable to identify which casual pathway might be salient, this study can assess 
+whether and, if so, to what degree, campaign contributions from business and non-business 
+interests correlate with judges’ votes in business cases. 
+The data set used in this study merges state supreme court decisions by 439 state supreme 
+court justices in 2,345 concluded business-related cases decided between 2010 and 2012 across 
+all 50 states with information on more than 175,000 contribution records that detail every 
+reported contribution to every sitting state supreme court justice in each elected state supreme 
+court justice’s most recent election.  Judicial campaign contributions to judges were categorized 
+based on their source as representing a pro-business, non-business, or anti-business interest. 
+The central results from my initial analyses confirm Professor Shepherd’s earlier findings 
+about relations between judicial campaign contributions from pro-business interests and judges’ 
+pro-business votes.  Additional analyses also identify a new, though related, finding: campaign 
+                                                 
+27 See Kang & Shepherd, supra note 14, at 72. 
+7 
+ contributions from non- (and “anti-“) business interests correlate with judges’ anti-business 
+votes.  Evidence that non- and anti-business interests also correlate with desired judicial votes is 
+important partly because it challenges Kang and Shepherd’s critical assumption about business 
+contributors’ “unique” abilities when it comes to influencing judicial votes.28 
+The influence of non- and anti-business campaign contributions on judicial votes both 
+challenges and complicates traditional critiques against judicial elections that focus on claims 
+about business interests’ undue influence.  That is, evidence that business and non-business 
+interests can successfully influence judicial outcomes through campaign contributions points in 
+different (and possibly conflicting) normative directions.  Even if one agrees that the judicial 
+branch qualitatively differs from the political and executive branches in terms of assessing 
+campaign contributions’ proper role, that the potential to influence judicial outcomes is available 
+to potentially any discrete interest group (willing to invest campaign contributions) dulls the 
+dominant, business-centric public criticisms of judicial elections.  Of course, findings from this 
+study also plausibly strengthen critiques of judicial elections overall, especially from those who 
+view the judicial domain as distinct from other political domains. 
+  This Article proceeds in six parts.  Part Two briefly maps out the major judicial selection 
+models in the United States for federal and state courts as well as the broad legal terrain that 
+structures contests arising out of the judicial campaign context.  In Part Three I summarize the 
+leading empirical work, with particular emphasis on Shepherd’s 2013 paper that this study sets 
+out to expand.  The data and methodology are described in Part Four.  Results are both presented 
+and discussed in Part Five.  Part Six concludes. 
+                                                 
+28 Id. at 85. 
+8 
+ 2.0.  Judicial Selection and Evolving Legal Terrain 
+  While this paper focuses on empirical and normative issues raised by campaign 
+contributions in state judicial elections, it remains important to note alternative methods of 
+judicial selection exist.  Equally important is that the legal terrain shaping efforts to regulate 
+judicial candidates’ conduct and speech as well as judges’ conduct on the bench continues to 
+evolve over time. 
+2.1.  Judicial Selection Variation 
+Many state judges are elected to the bench, and the mechanisms used by states range 
+from partisan elections to non-partisan retention elections.  The selection mechanism for Article 
+III judges (and Justices) in the federal context, by contrast, involves presidential appointment and 
+Senate confirmation.  Once commissioned, federal judges enjoy life tenure, subject only to 
+impeachment for conduct that falls below “good Behavior.”29  By removing federal judges’ 
+appointments from direct electoral processes and pressures the Founders sought to better insulate 
+federal judges from the ever-shifting political winds of the day, promote independent judgment, 
+and, it is thought (indeed, perhaps even assumed), enhance justice. 
+Of course, appointment-based (or even merit-based) judicial selection models are far 
+from immune to criticisms.  Despite important differences separating elective and appointive 
+judicial models, the role of politics persists.  Indeed, President Obama’s effort to promote Judge 
+Garland from the appeals court to the U.S. Supreme Court during the president’s final year in 
+office and many leading Republican senators’ public declarations of their refusal to meet with 
+any appointee so close to a general election have only renewed public focus and debate on 
+                                                 
+29 U.S. Cont., Art. III, section 1. 
+9 
+ judicial selection as well as politics’ proper role.  Setting aside separation of powers concerns 
+and intra-branch rivalries, such debates imply that questions about the role of politics when it 
+comes to selecting judges, even appointed judges, persist. 
+  It has become received political cant that “unelected” federal judges make decisions that 
+inform public life and shape the polity in critical ways.  To be sure, direct access to judicial 
+selections by those bound by judicial decisions—through direct or retention elections—simply 
+does not exist in the federal sphere.  Moreover, one critical constitutional check on federal 
+judges, impeachment, has been invoked only rarely and typically incident to some of the more 
+egregious cases of judicial misconduct.30 
+  However, citizens are afforded some ability to “pick their brand of justice” through their 
+participation in presidential and congressional elections.31  Indeed, with the Robert Bork 
+hearings serving as something of a political watershed moment, subsequent presidential political 
+campaigns have often featured promises about what kind of judges (and Justices) the candidate 
+would nominate if elected.  Similar campaign rhetoric is heard in senatorial campaigns as well.  
+Thus, even in the federal judicial space, while perhaps only indirectly, citizens nonetheless 
+possess some degree of influence over the selection of judges. 
+  In addition, empirical assertions about the comparative advantages (or disadvantages) of 
+an elected judiciary are advanced too often as if counterfactual data do not exist.  How various 
+states select state supreme court justices, however, supplies quite helpful, if imperfect, variation.  
+                                                 
+30 For a summary see, e.g., Raoul Berger, Impeachment of Judges and Good Behavior Tenure, 79 Yale L.J. 1475 
+(1970). 
+31 See generally ROBERT A. DAHL, HOW DEMOCRATIC IS THE AMERICAN CONSTITUTION? (2001). 
+10 
+ While federal judge selection excludes any direct electoral component, judge selection methods 
+across the 50 states vary considerably and, important to this study, include judicial elections. 
+  Scholarly attention to state courts and state judge selection is warranted in its own right 
+as more than 90 percent of the nation’s judicial work is performed in state courts,32 and 
+approximately 90 percent of all state court judges (and state supreme court justices) participate in 
+some form of direct electoral activity.33  Insofar as campaign contributions remain one form of 
+constitutionally protected core political speech, albeit a regulated one, it is not surprising (indeed, 
+inevitable) that state judicial candidates attract campaign funding. 
+  What might surprise some, however, is how the magnitude and velocity of campaign 
+spending in state judicial elections has increased over time, particularly since the 1980s.  As 
+Professors Kang and Shepherd note, since “money buys things,” questions about what judicial 
+campaign contributions might be ‘purchasing’ deserve close attention.34  Various threats posed 
+by judicial campaign contributions to the fair administration of justice (or even the appearance of 
+fairness) have been considered in detail by others.35  After exploring the efficacy of ‘purchasing’ 
+judicial outcomes in the state context from an empirical perspective this paper goes on to 
+consider whether the state judicial experience differs in material ways from efforts to influence 
+judicial selection in the federal context. 
+  At this juncture it is important to make clear what this paper does not consider.  I take as 
+a given that judicial canons, state rules, norms, etc., correctly regulate against any judicial 
+                                                 
+32 See, e.g., Shirley S. Abrahamson, Chief Justice, Wisc. Supreme Court, The Ballot and the Bench, address at the 
+Justice William J. Brennan, Jr. Lecture on State Courts and Social Justice (Mar. 15, 2000), in 76 N.Y.U. L. Rev. 
+973, 976 (2001). 
+33 Roy A. Schotland, New Challenges to States’ Judicial Selection, 95 Geo. L.J. 1077, 1105 (2007) (app. 2). 
+34 Michael S. Kang & Joanna M. Shepherd, The Partisan Foundations of Judicial Campaign Finance, 86 So. Cal. L. 
+Rev. 1239, 1240 (2013). 
+35 See, e.g., SHUGERMAN, supra note 1. 
+11 
+ misconduct which would include any judge who bases a legal decision or ruling exclusively in 
+response to a judicial campaign contribution.  Such activity offends any fair-minded 
+understanding of what justice might mean.  Moreover, I also assume that a well-functioning 
+judicial recusal doctrine, despite its limitations, provides one important instrument that can 
+reduce conflicts between a judge’s private interests and the administration of impartial justice.  
+By pushing to one side efforts to, quite literally, ‘purchase’ a judge (or a judicial outcome) 
+though judicial campaign contributions, I focus instead on the empirical and normative contours 
+of the more granular and nuanced constituent efforts to ‘purchase’ a judicial philosophy or 
+perspective through judicial campaign contributions. 
+2.2.  Judicial Elections’ Evolving Legal Terrain 
+  Understanding how the interaction of campaign spending and judicial elections heightens 
+potential tensions requires an understanding of relevant (and evolving) legal doctrines in this 
+particular context.  The relevant doctrines include those relating to the First Amendment and 
+campaign speech and spending and, more recently, how judicial campaign contributions 
+implicate a judge’s recusal duty. 
+  The Supreme Court’s Buckley v. Valeo36 decision in 1976, construing political campaign 
+contributions and expenditures as core political speech (although allowing for regulations on 
+contributions), continues to wield important influence. In 2002, the Court explored the contours 
+of core political speech rights in the judicial electoral context. In White, the Court struck down a 
+Minnesota Supreme Court canon of judicial conduct that prohibited candidates seeking elected 
+                                                 
+36 424 U.S. 1 (1976). 
+12 
+ judicial office from “announc[ing] his or her views on disputed legal or political issues” on First 
+Amendment grounds.37 
+Writing for the Court, Justice Scalia began by noting that strict judicial scrutiny was 
+warranted as the Minnesota canon sought a content-based speech restriction that implicated the 
+First Amendment’s core.38  While conceding the state’s interest in the impartial administration of 
+justice as well as promoting its appearance may well be a “compelling” one, the Court 
+nonetheless concluded that the speech restriction was not sufficiently narrowly tailored.  The 
+Court also noted that the Minnesota judicial canon itself separately treated efforts by judicial 
+candidates to announce their particular views on legal issues from candidates’ efforts to “pledge 
+or promise” to deliver specific judicial conduct upon election to office.39  While the White 
+opinion expressly side-steps any resolution involving the latter,40 the Court construes the latter’s 
+mere existence to render restrictions on the former more problematic. 
+Nested within the Court’s opinion, however, and expressly engaged by the dissenting 
+Justices, is the assumption that “judicial candidates should have the same freedom to express 
+themselves on matters of public importance” as do all other elected officials.41  That is, while 
+five Justices implicitly refused to analytically distinguish judicial candidates from candidates for 
+other publicly elected offices, at least four dissenting Justices advanced such a distinction, noting 
+“the critical difference between the work of a judge and the work of other public officials.”42  To 
+the dissenting Justices, their impulse that “[j]udges are not politicians”43 carries over to those 
+                                                 
+37 White, 536 U.S. at 770. 
+38 Id. at 774. 
+39 Id. at 770. 
+40 Id. (“… and a prohibition that is not challenged here and on which we express no view.”). 
+41 Id. at 797 (Stevens, J., Souter, J., Ginsburg, J., and Breyer, J., dissenting). 
+42 Id. at 798. 
+43 Id. at 821. 
+13 
+ state judges and justices who must submit themselves to the political processes and the 
+electorate. 
+  Having decided that political campaign contributions and spending constitute core 
+political speech in Buckley and that state judicial candidates were free to engage with contested 
+legal and political issues decided in White, in 2009 the Supreme Court was asked to speak 
+directly to some practical problems posed by judicial campaign contributions, specifically how 
+an elected judge’s campaign contributions implicated recusal obligations. 
+In Caperton, the Supreme Court recognized for the first time Due Process concerns 
+arising out of the potential for judicial bias flowing from campaign contributions from a litigant 
+appearing before a judge who was the recipient of financial support from that litigant.  While 
+Caperton is technically a “recusal” case, the salient facts make clear its relevance to the 
+challenges arising out of campaign contributions to judges running for election to the bench.44 
+The key facts in Caperton are both straightforward and compelling.  In 1998, Harmon 
+Mining Company successfully sued A.T. Massey Coal Company for a contract breach.  In 2002, 
+A.T. Massey Coal Company appealed the $50 million trial court verdict favoring Harmon 
+Mining.  Between the trial court decision and a subsequent appeal to West Virginia’s Supreme 
+Court, Don Blankenship, Massey Coal Company’s CEO, spent $3 million in 2004 to help ensure 
+Brent Benjamin’s election to the West Virginia Supreme Court.  Four years after his election to 
+the West Virginia Supreme Court, Justice Benjamin refused calls for his recusal from hearing 
+and participating in A.T. Massey’s appeal.  Not only did he refuse recusal motions, but on two 
+                                                 
+44 Indeed, while formally set in a fictitious Mississippi town, it is likely that the political and legal controversy 
+surrounding the Caperton case provided some inspiration for the 2008 best-selling novel by John Grisham, THE 
+APPEAL (2008). 
+14 
+ separate occasions Justice Benjamin joined a 3-2 majority that ruled in favor of A.T. Massey and 
+reversed the original 2002 $50 million trial verdict.45  Harmon Mining Company then appealed 
+to the U.S. Supreme Court, arguing that Justice Benjamin’s participation was improper. 
+The U.S. Supreme Court agreed with Harmon Mining, and, writing for the Court, Justice 
+Kennedy’s opinion emphasizes the pending litigation that coincided with the timing of 
+Blankenship’s significant campaign contribution to (now) Justice Benjamin as well as 
+Blakenship’s personal financial interest in a favorable disposition of the A. T. Massey case.  As a 
+consequence, Justice Kennedy concluded that, in such a circumstance, Justice Benjamin should 
+have recused himself from participating in the Massey litigation due to an unacceptable 
+“probability of bias” which constituted a threat to the Constitution’s Due Process Clause.46 
+  In a vigorous dissent, Justice Roberts emphasized the uncertainty that necessarily flows 
+from the Court’s departure from two clear situations that require a judicial recusal: “when the 
+judge has a financial interest in the outcome of the case, and when the judge is trying a defendant 
+for certain criminal contempts.”47  Justice Roberts voiced deep skepticism about judicial efforts 
+to define when a “probability of bias” exists and, if it does, what specific probabilistic level 
+warrants judicial recusal.48  To underscore his skepticism, Justice Roberts went on to list 40 
+specific questions, many salient to the judicial campaign contribution context, that, in the minds 
+of four dissenting justices, raise uncertainty about whether a judge should recuse under the 
+                                                 
+45 See Caperton v. A.T. Massey Coal Co., Inc., 2007 WL 4150960 (Nov. 21, 2007); Caperton v. A.T. Massey Coal 
+Co., Inc., 223 W.Va. 624 (Apr. 3, 2008). 
+46 Caperton, 556 U.S. at 887-88. 
+47 Id. at 890 (Roberts, C.J., dissenting). 
+48 Id. at 890-91. 
+15 
+ guidance provided by the Court’s Caperton decision.  One consequence of the increased judicial 
+uncertainty, Justice Roberts predicted, included a flood of recusal motions.49 
+  Importantly, the Court’s opinion and the dissents in Caperton implicitly assume an 
+empirical relation between campaign contributions to judicial candidates and their subsequent 
+votes as judges.  On one level, such an assumption makes obvious—indeed, intuitive—sense.  In 
+the political realm, not only is such a relation between campaign contributions and political 
+candidates assumed, but is frequently expected, if not demanded, by contributors. 
+  Of course, it is also important not to ignore complicating wrinkles in Caperton that are 
+far less appreciated no doubt because they run against and cloud a compelling public narrative.  
+While the Caperton litigation and events involving Massey Coal and West Virginia Supreme 
+Court Justice Benjamin are often pointed to as an “easy” example of all that can go wrong with 
+judicial elections, Justice Benjamin’s actual voting record on cases involving the Massey Coal 
+Company (and other, related, Massey Energy holdings) confounds the received public narrative.  
+According to a West Virginia Supreme Court press release, prepared by that court’s 
+Administrative Office, during his initial four years on the Court Justice Benjamin voted against 
+Massey Energy’s legal interests 81.6% of the time.50  Before the Caperton litigation, in other 
+cases that also involved Massey Coal none of the parties petitioned for Justice Benjamin’s 
+recusal.51  Thus, despite Justice Benjamin’s complicated judicial voting record in cases involving 
+                                                 
+49 Id. at 902. It warrants note that, thus far, the scholarly consensus is that Chief Justice Robert’s prediction of a 
+flood of litigation activity stimulated by Justice Kennedy’s opinion in Caperton has been largely unfulfilled. See, 
+e.g., Bruce A. Green, Fear of the Unknown: Judicial Ethics After Caperton, 60 Syracuse L. Rev. 229 (2010). 
+50 West Virginia State Supreme Court News, Administration Office, Summary of Chief Justice Benjamin’s 
+Dispositive Voting Record Regarding Massey Energy Cases from 1/1/2005 to 12/31/2008 (2 March 2009). The 
+analysis of Justice Benjamin’s Massey Energy-related voting record excludes votes on such non-dispositive matters 
+as motions for time extensions, exceeding page limitations on briefs, etc. Id.  See also, Roland D. Rotunda, 
+Codifying Caperton v. A.T. Massey Coal Co., 42 McGeorge L. Rev. 95, 103 (2010);  
+51 See, e.g., See U.S. Steel Mining Co. v. Helton, 631 S.E.2d 559 (W. Va. 2005); Helton v. Reed, 638 S.E.2d 160 
+(W. Va. 2006) (where Justice Benjamin voted against Massey companies at the merits stage); see also McNeely v. 
+16 
+ Massey Energy (and Massey Coal company), the prevailing public narrative surrounding Justice 
+Benjamin characterizes him (fairly or not) as having been “bought” buy Blankenship to serve on 
+the West Virginia Supreme Court on behalf of Massey Coal’s interests.52 
+  A more recent decision in Williams-Yulee further evidences the Court’s growing wariness 
+about and unease with practical implications flowing from elected judges.  In Williams-Yulee, the 
+Court upheld Florida’s Code of Judicial Conduct which prohibits state judicial candidates from 
+personally soliciting campaign funds.53  During her judicial campaign, Williams-Yulee sent a 
+mass-mailing fundraising letter to potential contributors and then posted her letter to a campaign 
+website.  Although she lost her election, the Florida Bar initiated a disciplinary review, 
+concluded that she violated Florida’s Canon of Judicial Ethics, and fined Williams-Yulee 
+$1,860.30.54 
+  Williams-Yulee challenged the Florida Canon of Judicial Ethics’ prohibition of a judicial 
+candidate’s direct, personal solicitation of campaign funds on First Amendment grounds. While 
+only a plurality of the Justices concluded that Florida’s canon triggered traditional strict judicial 
+scrutiny, the Court administered what at least one commentator has described as a “heavily 
+watered-down version of strict scrutiny.”55  Concluding that the canon’s goal of “protecting the 
+integrity of the judiciary and maintain the public’s confidence in an impartial judiciary” was, 
+indeed, a compelling interest,56 and that a restriction on personal solicitation activities so to 
+                                                 
+Independence Coal Co., No. 042156 (W. Va. Feb. 9, 2005); Brown v. Rawl Sales & Processing Co., No. 06-1700, 
+(W. Va. Sept. 7, 2007) (where he ruled against Massey at the petition stage). 
+52 Richard Gillespie, Buying a Judicial Seat for Appeal: Caperton v. A.T. Massey Coal Company, Inc., Is Right Out 
+of a John Grisham Novel, 30 J. Nat’l Ass’n Admin. L. Judiciary 309, 315 (2010). 
+53 Williams-Yulee, Williams-Yulee, 135 S. Ct. 1656, 575 U.S. __. 
+54 Fla. Bar. V. Williams-Yulee, 138 So. 3d 379, 384-85 (Fla. 2014)(per curium). Florida’s Code of Judicial Conduct, 
+Canon 7C(1) resembles the American Bar Association’s Model Code of Judicial Conduct. 
+55 Lindell, supra note 24, at 1577. 
+56 Williams-Yulee, Williams-Yulee, 135 S. Ct. 1656, 575 U.S. __. 
+17 
+ avoid an “appearance of impropriety” was narrowly tailored, the Court went on to uphold 
+Florida’s Canon 7(C)(1).57 
+  Setting aside the Court’s specific application of the narrowly tailored prong analysis in 
+Williams-Yulee,58 as a descriptive matter it remain accurate to note that when the Court applies 
+traditional First Amendment doctrine—and the strict scrutiny test in particular—to campaign 
+finance restrictions in the context of non-judicial elections, the result are complicated and mixed.  
+For example, when it comes to non-judicial candidates’ ability to fundraise or spend their own 
+money, First Amendment rights typically prevail, though Members of Congress are not permitted 
+to solicit funds from their governmental offices.   Despite this palpable trend, in applying these 
+general principles to state judicial candidates, the Court departed from its usual path in Williams-
+Yulee.  Notably, the Court appeared to diminish concerns about how Florida’s Canon 7(C)(1) 
+burdened judicial candidates’ speech rights in an almost transparently self-conscious manner.59 
+  The dissenters in Williams-Yulee rightly point out that Florida’s Canon 7(C)(1) bans 
+direct candidate financial solicitations in any form and to any person.  That is, the Canon’s 
+prohibition is not necessarily limited to only those solicitations likely to create any appearance of 
+impropriety.  Florida’s ban also applies even where those solicited might never have a legal 
+interest in a case decided before the soliciting judicial candidate.60  Consequently, Williams-
+                                                 
+57 For a critique of the Court’s First Amendment analysis of regulations of judicial elections, see, e.g., Note, 
+Williams-Yulee v. Florida Bar, 129 Harv. L. Rev. 231 (2015).  Language in Florida’s Canon 7(C)(1) resembles 
+language in rules for federal appellate judges and Justices.  See Code of Conduct for United States Judges, Canon 2 
+(“A Judge Should Avoid Impropriety and the Appearance of Impropriety in All Activities”). 
+58 In his dissent, Justice Alito described Florida’s Canon 7(C)(1) as “about as narrowly tailored as a burlap bag.” 
+Williams-Yulee, 135 S. Ct., at 1685 (Alito, J., dissenting). 
+59 Williams-Yulee, 135 S. Ct., at 1668-70. 
+60 Id. at 1679 (Scalia, J., dissenting; id. at 1685 (Alito, J., dissenting). 
+18 
+ Yulee implies that Court’s concerns about the potential for corruption and the appearance of 
+impropriety are palpably higher in the judicial context than in the non-judicial context. 
+  The Court’s critical—yet implicit—distinction between judicial and non-judicial 
+elections presents in at least two critical ways.  First, when it comes to a compelling 
+governmental interest, comparing Citizens United and Williams-Yulee suggests that for non-
+judicial candidates the main concern pivots on the potential for a quid pro quo while for judicial 
+elections the Court appears to worry about the appearance of impropriety and the public 
+perception of judicial integrity. Second, a similar distinction emerges in the Court’s application 
+of the narrowly-tailored requirement. The Court has consistently permitted non-judicial 
+candidates to directly solicit funds, though not from a candidate’s official governmental office.  
+In Williams-Yulee and the judicial electoral context, by contrast, the Court permitted Florida’s 
+total ban of direct fundraising solicitations by judicial candidates. 
+  More fundamentally, however, the Court felt compelled to characterize judicial and non-
+judicial candidates for elected public office differently and in ways that triggered different 
+judicial scrutiny over campaign finance issues. In an effort to climb out from under its earlier 
+decision in Citizens United, the majority in Williams-Yulee took great pains to argue that judicial 
+and non-judicial candidates are expected to act and campaign differently.61  The Court’s 
+decisions simply assert that states have a broader interest in preserving the appearance of judicial 
+integrity than in preserving a similar appearance for those seeking legislative and executive 
+offices.62 
+                                                 
+61 Id. at 1667. 
+62 Id. 
+19 
+ 3.0.  Prior Empirical Scholarship 
+This study builds on and extends prior scholarship by Professors Kang and Shepherd 
+which used an earlier (1995-1998) state supreme court data set. 63 Their earlier work found 
+strong relations between the probability of an elected state supreme court justice’s pro-business 
+vote and the amount (and proportion) of campaign contributions that these justices received from 
+pro-business interests. 
+Kang and Shepherd’s findings in the business litigation context generally comport with 
+analogous empirical work focusing on other litigation sectors.  Professor Shepherd has also 
+found that interest group judicial campaign contributions increase “the probability that judges 
+will vote for the litigants whom those interest groups favor.”64  In addition, an array of smaller-
+scale studies of individual states note relations between lawyers’ campaign contributions and 
+case outcomes when those lawyers (or the lawyers’ interests) appear in court.65 
+  Professor Shepherd’s more (2013) recent empirical work focusing on the potential 
+influence wielded by pro-business interests through judicial campaign contributions to state 
+supreme court justices reinforces important—and uncomfortable—questions.  Examining 
+business-related cases decided by state supreme courts from 2010-12, Professor Shepherd’s 2013 
+report, “Justice At Risk,” similar to her prior work, finds “a significant relationship between 
+                                                 
+63 See Michael S. Kang & Joanna M. Shepherd, The Partisan Price of Justice: An Empirical Analysis of Campaign 
+Contributions and Judicial Decisions, 86 N.Y.U. L. Rev. 69 (2011). 
+64 Joanna M. Shepherd, Money, Politics, and Impartial Justice, 58 Duke L.J. 623, 669-72 & tbls.7 & 8 (2009). 
+65 See, e.g., Stephen J. Ware, Politics, and Judicial Decisions: A Case Study of Arbitration Law in Alabama, 15 J.L. 
+& Pol. 645, 661 (1999) (noting the influence of plaintiff and defense lawyers’ contributions and favorable arbitration 
+rulings by the Alabama Supreme Court); Eric N. Waltenburg & Charles S. Lopeman, Tort Decisions and Campaign 
+Dollars, 28 Southeastern Pol. Rev. 241, 256 (2000) (noting the influence of plaintiff and defense lawyers’ 
+contributions and favorable torts cases in Ohio, Alabama, and Kentucky); and Madhavi McCall, The Politics of 
+Judicial Elections: The Influence of Campaign Contributions on the Voting Patterns of Texas Supreme Court 
+Justices, 1994-1997, 31 Pol. & Pol’y 314, 315, 330 (2003) (finding that business-related judicial campaign 
+contributions influenced case outcomes in the Texas Supreme Court). 
+20 
+ business group contributions to state supreme court justices and the voting of those justices in 
+cases involving business matters.”66  Fueled by her empirical findings, Shepherd’s normative 
+perspective on the issue is clear when she characterizes campaign contributions’ role in judicial 
+elections as “destructive.”67  While Shepherd’s recent brief report represents another important 
+contribution to the literature, her analyses also open an array additional research questions.  This 
+Article examines one of the research questions prompted by Shepherd’s report. 
+  Shepherd’s 2013 report contributes to, and builds on, a nascent—through growing—
+empirical literature that endeavors to assess and model judicial outcomes.68  As I discuss more 
+fully below, core findings from Shepherd’s 2013 study stood up well to replication efforts as 
+well as most alternative model specifications.  Setting aside one’s priors about the how to best 
+reconcile constitutionally-protected core political speech, judicial campaign contributions, and 
+the various selection mechanisms states employ for judges and justices, Shepherd’s (and that of 
+others) broad critique advanced against business interests’ participation in judicial elections—
+even if empirically accurate—may either not go far enough or, paradoxically, too far.  And only 
+after deeper empirical exploration do the more abstract principles fall out of comparatively easy 
+focus and nettlesome granularity and complicating wrinkles emerge. 
+                                                 
+66 Joanna Shepherd, Justice at Risk: An Empirical Analysis of Campaign Contributions and Judicial Decisions (ACS 
+Report, June 2013), at p.1. 
+67 Id. at 2. 
+68 See, e.g., Stephen J. Ware, Politics, and Judicial Decisions: A Case Study of Arbitration Law in Alabama, 15 J.L. 
+& Pol. 645, 661 (1999) (noting the influence of plaintiff and defense lawyers’ contributions and favorable arbitration 
+rulings by the Alabama Supreme Court); Eric N. Waltenburg & Charles S. Lopeman, Tort Decisions and Campaign 
+Dollars, 28 Southeastern Pol. Rev. 241, 256 (2000) (noting the influence of plaintiff and defense lawyers’ 
+contributions and favorable torts cases in Ohio, Alabama, and Kentucky); and Madhavi McCall, The Politics of 
+Judicial Elections: The Influence of Campaign Contributions on the Voting Patterns of Texas Supreme Court 
+Justices, 1994-1997, 31 Pol. & Pol’y 314, 315, 330 (2003) (finding that business-related judicial campaign 
+contributions influenced case outcomes in the Texas Supreme Court). 
+21 
+   Moreover, despite its contributions, a few factors, notably the potential for measurement 
+error, limit the strength of Shepherd’s 2013 findings.  The data set (described more fully below) 
+includes state supreme court decisions reached between 2010-12 and in states where state 
+supreme court justices were elected in some manner (i.e., retention, partisan, or non-partisan 
+elections).69  The data set leverages the justices’ political party affiliation as a proxy (albeit 
+imperfect) for judicial ideology.  As Professor Kritzer observes, however, those state supreme 
+court justices that confronted partisan elections prior to 2010 include those from southern states 
+where “at least some of these justices were business-oriented Democrats.”70  As such, the specter 
+of measurement error lurks. 
+Any data set limitations notwithstanding, because my study extends Shepherd’s 2013 
+report and data set it is particularly important to note how my study differs.  From the 
+perspective of research design, Shepherd’s focus on business cases (specifically business cases 
+that reached state supreme courts between 2010 and 2012 which involved a business and a non-
+business litigant) makes good and obvious sense.  After all, efforts to distill judicial outcomes 
+require careful strategies to “keep all else constant,” or at least as much as possible.  Despite 
+important variation within “business litigation,” a focus on business litigation helps rein in the 
+sometimes tremendously complicating variation that exists across various cases types and 
+litigating parties.  Filtering the data set further to include only cases involving a business and a 
+non-business business litigant facilitates efforts to distill each individual justice’s vote as either 
+“pro-“ or “anti-business.”  The distillation of judicial votes to either a “pro-business” or “anti-
+business” characterization is particularly helpful for broader generalizations to the tort reform 
+                                                 
+69 See infra, Subpart 4.1. 
+70 See Kritzer, supra note 2, at 14. 
+22 
+ context that is frequently dominated by “pro-business” (or “Chamber of Commerce”) and “anti-
+business” (frequently union) interests. 
+  Indeed, Shepherd’s careful attention to research design only enhances a readers’ 
+confidence in her results.  Observing that “[a]lthough any interest group might exert influence 
+over the judiciary, business groups may be unique in their ability to do so,”71 Professors Kang 
+and Shepherd’s existing work focuses on pro-business contributions’ potential influence.  What 
+distinguishes business and non-business contributors, according to Kang and Shepherd, includes 
+the former’s “substantial resources,” more focused political and legal agenda, greater “stake” in 
+the outcome of judicial elections.72 
+While Shepherd’s data set is certainly well-suited to (and, indeed, designed for) her focus 
+on pro-business interests’ potential influence on judicial outcomes through campaign 
+contributions, the data set also permits—even invites—further related exploration in two 
+important ways.  First, the data set includes information on each justice’s campaign contributions 
+from business interests as well as the total amount of each justice’s campaign contributions.  As 
+such, simple data manipulations generated information on each justice’s non-business campaign 
+contributions.  While each justice’s non-business campaign contributions certainly warrant 
+exploration, the nature of the “non-business” campaign contributions precludes strong 
+generalizations.  The interpretative limitations and ambiguity flow from the composition of the 
+non-business contributions.  Sources of “non-business” judicial campaign contributions range 
+from a judicial candidate’s own personal contributions to those from, for example, labor unions.  
+While limiting my characterization of this sub-pool of campaign contributions as merely “non-
+                                                 
+71 Kang & Shepherd, supra note 14, at 85 (arguing that when it comes to influencing judicial votes, “business groups 
+may be unique in their ability to do so”). 
+72 Id. 
+23 
+ business” may reflect over-caution, the varied and wide-ranging sources of funds that compose 
+non-business contributions preclude a stronger characterization.73 
+Second, while the “non-business” sub-pool of campaign contributions may be inherently 
+ambiguous, the data set also identifies and codes those non-business contributions from labor 
+unions and democratic political party committees.  Contributions from these two sources are far 
+less ambiguous and are more plausibly characterized as “anti-business.”  After all, labor unions 
+enjoy a robust history opposing management and Shepherd’s paper exploits a judge’s political 
+party as an ideological control variable signaling a judge’s posture to business interests.74   
+Separate analyses focusing on the sub-pool of anti-business campaign contributions not only 
+permits a stronger characterization of the nature of such contributions, but they also serve as a 
+robustness check on the non-business findings. 
+  In addition to expanding Shepherd’s work by exploring alternative dependent variables, 
+my models depart in a few (albeit minor) technical ways from Shepherd’s.  First, while 
+Shepherd’s main model construes business contributions in terms of their raw total as well as in 
+terms of a percentage of total judicial campaign contributions, my analyses focus only on 
+business (and non-business and anti-business) contributions as a percentage of total campaign 
+contributions.  Second, because the political science and empirical legal literatures on judicial 
+decisionmaking typically include a measure of how much time remains on a judge’s (or a 
+governor’s) elected term when a decision was reached, my models include a dummy variable 
+                                                 
+73 Professor Shepherd herself briefly considers this issue in a footnote. While noting that the non-business 
+contributions include those from “interests often opposed to business,” Shepherd felt that reflexively construing all 
+“non-business” contributions as “anti-business,” invited measurement error.  See Shepherd, Risk, supra note 66, at 
+22, n.64. 
+74 For one perspective on labor unions’ uneasy relation with management over time see, e.g., MELVYN DUBOFSKY, 
+AMERICAN LABOR SINCE THE NEW DEAL (1971). For one relatively recent essay exploring labor unions’ traditional 
+political support for democrats see, e.g., Edsall, Thomas, Republicans Sure Love to Hate Unions, The New York 
+Times (Nov. 18, 2014), A__. (op-ed) 
+24 
+ signaling whenever a justice voted on a case with two or fewer years remaining on her elected 
+term to the bench. 
+Third, Shepherd’s models include dummy variables identifying democrat and republican 
+justices.  The reference group in Shepherd’s report, for interpretative purposes, involves those 
+justices whose political affiliation was either missing or coded for something other than 
+democrat or republican.  As I describe in greater detail below, my models include only one 
+dummy variable identifying either democrat or republican justices.  (Alternative specifications 
+include dummy variables for “democrat” and “republican,” respectively.)  In this way, my model 
+specifications consciously “stack-the-deck” against the potential salience of a justice’s political 
+affiliation.  Thus, where a justice’s political affiliation achieves statistical significance my coding 
+decisions should increase readers’ confidence in the finding.  As I describe below, however, my 
+coding decisions also contributed to some political salience results that depart slightly from 
+Shepherd’s earlier results. 
+4.0.  Data, Methodology, and Research Design 
+To test the possible influence of campaign contributions from pro-, non-, and anti-
+business sources on state supreme court justices’ votes in cases where one of the litigating parties 
+is a business interest, I use a data set constructed by Professor Shepherd that itself is the product 
+of four discrete data sets, each briefly described below.  First, a team of independent researchers 
+from Emory University School collected and coded state supreme court decisions (N=30,355) 
+between 2010 and 2012 and across all 50 states.  A sub-set of this data set, 21,105 entries (69.5 
+percent), involved cases where the identified business interest was on one—and only one—side 
+of the litigation.  This filtering was necessary for research design purposes as outcomes in these 
+cases facilitate an assessment of the degree to which, if any, business campaign contributions 
+25 
+ may have informed justices’ votes in business-related cases.  For each case the researchers coded 
+whether each participating justice, sitting as a member of a multi-judge appellate panel, cast 
+either a pro- or anti-business vote in a case. 
+A second data set includes information on the more than 175,000 contribution records 
+that detail every reported contribution to every sitting state supreme court justice between 2010-
+2012 in each elected state supreme court justice’s most recent election.  These data were 
+collected by the National Institute on Money in State Politics (“Institute”), a non-partisan, 
+nonprofit charitable organization that focuses on data gathering on campaign finance activity in 
+all 50 states.   The Institute receives the data in either electronic or paper form from state 
+disclosure agencies.  The Institute assigned each donor an economic interest code based on 
+information included in the disclosure reports as well as deeper independent research into the 
+donor’s economic background and interests.  From the Institute data, campaign contribution data 
+for all judges in the sample data who were candidates in both partisan and nonpartisan state 
+supreme court races were computed. 
+A third data set includes political party affiliations (if any) for each of the 439 state 
+supreme court justices and a fourth contains state-specific information on how each state selects 
+and retains its supreme court justices.  Once merged, the final data set includes justice-level 
+information on 439 state supreme court justices who participated in 2,345 concluded business-
+related cases, every justice’s vote in each case, along with an array of contextual and background 
+information (on the justice, campaign contributions, case, court, and state) that might help 
+explain the vote. 
+4.1.  Description of Key Variables 
+26 
+   The following key variables explore the relation between justices’ votes favoring a 
+business litigant and judicial campaign contributions from business and non-business interests.  
+To better isolate the independent influence of campaign contributions, the models include an 
+array of standard control variables. 
+4.1.1.  Dependent Variable 
+  The dependent variable is a dummy variable signaling when a justice voted in favor of 
+the business litigant.  A judicial vote is coded as “pro-business” if the end result favored or 
+advantaged the business litigant, regardless of whether the actual judge vote took the form of a 
+reversal, affirmance, or damage award alteration.  In model specifications that explore the 
+influence of non- and anti-business campaign contributions, the dependent variable signals when 
+a justice voted in favor on the non-business litigant. 
+4.1.2.  Key Independent Variables of Interest 
+  The key independent variables of interest include judicial campaign contributions from 
+pro-, non-, and anti-business interests.  While an exact measure of a pro-business interest eludes, 
+I followed Shepherd’s coding convention and defined pro-business interests campaign 
+contributions to include those from agriculture, communications, construction, defense, energy, 
+finance and real estate, and “general” business sources.75  Non-business contributions were 
+computed to include all financial contributions that came from sources other than those identified 
+                                                 
+75 For robustness purposes, and to tether this work with prior, related work, alternative supplemental specifications 
+considered a more narrow definition of “pro-business interests” that included only business-related contributions 
+from finance and real estate, “general” business, and health industry sources.  Prior literature defines a narrower 
+definition of business interests as those aligning with “conservative” interests and agenda. (See, e.g., Kang & 
+Shepherd, Partisan, supra note 34, at 1271.)  Unpublished results from these alternative specifications are generally 
+consistent with a broader definition of pro-business contributions. 
+27 
+ as a pro-business source.76  Finally, anti-business contributions, a sub-pool of the non-business 
+contributions, include only those contributions from either labor unions or democratic party 
+political committees. 
+Insofar as the raw total amount of judicial campaign contributions from pro-, non-, and 
+anti-business sources varied across judges, along with variation in a justice’s total campaign 
+contributions, all pro-, non-, and anti-business judicial campaign contributions are expressed as a 
+percentage of each justice’s total campaign contributions.  As Professor Shepherd notes, “this is 
+likely a more accurate measure of business influence [on a particular justice] because the impact 
+of a contribution likely depends on its importance relative to other contributions.”77 
+While the pro-, non-, and anti-business contributions are expressed as a percentage of 
+each justice’s total amount of campaign contributions to get a better sense as to their relative 
+contribution, the magnitude of a justice’s campaign contributions also warrants attention.  
+Accordingly, all of the model specifications include a variable reflecting the raw total of each 
+justice’s campaign contributions.  Finally, all judicial campaign contributions are expressed as 
+natural logs. 
+4.1.3.  Control Variables 
+  All model specifications include various control variables at the case, justice, and state 
+levels.  In addition, because the outcome of individual cases within a state or by the same justice 
+                                                 
+76 That is, non-business contributions equaled total contributions minus pro-business contributions. 
+77 Shepherd, Risk, supra note 66, at 10. Nonetheless, as a robustness check I re-ran in supplemental analyses 
+(unreported) models whose results are presented in tbls.1-3, infra. Not surprisingly, substituting raw totals for 
+percentages as a measure of business contributions to judicial campaigns did not materially affect the substantive 
+results. 
+28 
+ might not include the necessary independence from one another, case outcomes are clustered at 
+the state- and individual justice-levels. 
+  While cases in this study are limited to business litigation (signaled by the presence of a 
+business litigant), important variation can exist within business cases.  Obviously, a case’s 
+underlying legal merits, to some degree, inform a justice’s vote and the legal strength of business 
+cases can vary.  In this context, it is possible that some of the business cases heard by state 
+supreme courts were either so strong or weak on the legal merits that justices voted for (or 
+against) the business interest independent of any campaign contributions received from pro-, 
+non-, or anti-business interests or the justices’ ideological preferences (signaled by a judge’s 
+political party affiliation or, if none existed, by imputing to a judge an appointing governor’s 
+political party).78 
+  How to measure a case’s underlying legal strength, however, remains contested.  By 
+definition, every case in this study persisted through a trial and, in most states, some level of 
+intermediate appellate review before it reached a state supreme court for resolution.  Presumably, 
+and consistent with case selection theory, cases whose underlying legal merits that strongly tilt in 
+either direction (either pro-plaintiff or pro-defendant) would likely have succumbed to settlement 
+pressures rather than persisting through state supreme court review.  Obviously, while Priest-
+Klein theory implies that only cases where some degree of objective uncertainty exists about a 
+case’s outcome would persist to a state supreme court for disposition (and, if so, this would result 
+in win rates that approximate 50 percent), empirical work makes clear how important variation 
+                                                 
+78 For a discussion of the robustness of political party as a proxy for a judge’s ideological preferences, see, e.g., 
+Gregory C. Sisk & Michael Heise, Judges and Ideology: Public and Academic Debates About Statistical Measures, 
+99 Nw. Univ. L. Rev. 743 (2005). 
+29 
+ exists in terms of observed win rates across case types.79  What is equally clear, however, is that 
+some of the assumptions underneath the Priest-Klein prediction, including asymmetric 
+information, similar stakes invested by both parties to a lawsuit, and accurate ex ante 
+assessments about a case’s underlying legal merits, do not hold with the precision that theory 
+might imply. 
+  In an effort to control for the underlying legal strength of the cases (however 
+imperfectly), I incorporate the clever case strength variable crafted by Professor Shepherd.  In 
+constructing a measure of case strength, Professor Shepherd initially estimated a model without a 
+case strength variable to assess the most likely number of pro-business votes for the state justices 
+hearing the case.  The estimated number of pro-business votes exploits information on each 
+justice’s political party affiliation.  By backing-out the actual number of pro-business votes 
+observed in the case decision one gains some sense of the underlying strength of the case’s legal 
+merits. 
+To illustrate, consider a model estimation predicting that five of the seven state justices 
+would vote in favor of the business interest.  If in the actual case six of the seven justices voted 
+in favor of the business interest, the value of the case strength variable in this case would be 
+positive suggesting that the underlying legal strength of the case is stronger than predicted.  If, in 
+contrast, only two of the seven justices voted in favor of the business interest, the case strength 
+variable would be negative, indicating a comparatively weaker case on the legal merits.  By 
+computing the difference (if any) between the predicted (modeled) number of pro-business votes 
+and the actual, observed number of pro-business votes in each case generates the case strength 
+                                                 
+79 For a recent critique of the Priest-Klein “50 percent” hypothesis, see Yoon-Ho Alex Lee & Daniel Klerman, The 
+Priest-Klein Hypothesis: Proofs and Generality, 48 Int’l Rev. L. & Econ. 59 (2016). 
+30 
+ variable which provides some insight into a case’s underlying legal strength that will influence 
+judicial outcomes intendent of judicial campaign contributions from business interests. The 
+inclusion of the case strength variable as a control is designed to help isolate the potential unique 
+influence of campaign contributions from pro-, non-, and anti-business interests on justices’ 
+decisions in business cases. 
+  To further address possible selection effect influences, a final case-level control variable 
+signals when then petitioner was the business litigant (in the pro-business model) and the non-
+business litigant (for the non- and anti-business models). 
+  At the individual justice-level, Professor Shepherd’s 2013 analysis includes dummy 
+variables for both republican and democratic justices as an (imperfect) proxy for judicial 
+ideology.  Consequently, for interpretative purposes, the appropriate reference for each political 
+party dummy variable is the comparatively smallest group of justices (almost 12 percent) who 
+are either a member of a political party of something other than republican or democrats or, in 
+contrast for whom information on their political affiliation is missing. 
+  My analyses, by contrast, reflect a slightly different coding decision on how best to treat 
+judges whose political affiliation is either unknown, missing, or something other than republican 
+or democrat.  By including in my models only one dummy variable for a justice’s political 
+affiliation (republican or democrat), my model facilitates a more intuitive reference point (e.g., 
+republican justices as compared to all other justices who are not republican).  Moreover, such a 
+coding strategy is also structurally more conservative insofar as it treats all unknowns as 
+something other than what the coefficient captures.  Insofar as my coding convention is 
+structured to mute the attribute I test for, where a justice’s political affiliation variable achieves 
+statistical significance confidence about its actual influence should increase. 
+31 
+   Finally, Shepherd’s models omit any information on how much time remains on a 
+justice’s elected term when she voted in each case.  Political science literature on judicial 
+outcomes emphasizes how judicial conduct may be influenced as justices approach electoral 
+events, particularly in the criminal law domain.80  As a result, my model includes a dummy 
+variable that signals when a judge voted in a case within two years of the end of a judicial term. 
+  The models also include an array of state-level controls, beginning with variables 
+signaling whether a state’s method of judicial elections were partisan or non-partisan contests.81  
+As well, insofar as in states where the existing legal climate is business-friendly, one might 
+reasonably expect more judicial votes favoring business interests regardless of a judge’s 
+business-related judicial campaign contributions.  To better isolate the potential influence of 
+campaign contributions from a state’s overall business legal climate, the models include a tort 
+liability index, constructed by the Pacific Research Institute.82  Finally, as judicial votes in 
+business-related cases may also reflect public preferences or ideological trends, the models 
+include a traditional and well-known measure of a state’s ideological preference.83 
+4.2.  Methodology and Research Design 
+                                                 
+80 One area of particular concern, for example, involves the influence of election cycles on the administration of the 
+death penalty. See, e.g., Kenneth Bresler, Seeking Justice, Seeking Election, and Seeking the Death 
+Penalty: The Ethics of Prosecutorial Candidates’ Campaigning on Capital Convictions, 7 GEO. J. 
+LEGAL ETHICS 941, 941–43 (1994) (noting the pressures generated by prosecutors’ electioneering); 
+Ronald J. Tabak, Commentary, Politics and the Death Penalty: Can Rational Discourse and Due Process Survive the 
+Perceived Political Pressure?, 21 FORDHAM URB. L.J. 280, 280–81 (1994) (noting the perceived political 
+pressures associated with death penalty decisions). Se also, Michael Heise, The Death of Death Row Clemency and 
+the Evolving Politics of Uneven Grace, 66 Ala. L. Rev. 949, 979-92 (2015)(assessing the influence of reelection 
+cycles on clemency grants for death row inmates). 
+81 Retention elections serve as the reference category. 
+82 See Lawrence J. McQuillan & Hovannes Anramyan, U.S. Tort Liability Index, 2010 Report (Pacific Research 
+Institute) (the index uses data available as of Oct. 1, 2009). 
+83 See William D. Berry et al., Measuring Citizen and Government Ideology in American States, 1960-93, 42 Am. J. 
+Pol. Sci. 327 (1998) (the index uses updated data through 2008). 
+32 
+ The cases in this study are limited in two important ways.  First, the data include civil 
+litigation where a business interest was on one, and only one, side of the litigation.  Limiting the 
+data set in this way facilitates characterizing each justice’s vote as either pro-business or not pro-
+business.  Second, the analyses include only those states where state supreme court justices are 
+elected in some manner (i.e., retention, partisan, or non-partisan elections).  While not all state 
+supreme court justices confront some form of election, as Figure 1 (below) makes clear, judicial 
+campaign contributions do not exist where judicial elections do not exist.  While collapsing the 
+three major forms of judicial elections might invite criticism, Figure 1 illustrates that even 
+judicial retention elections attract some level of campaign contributions (though far less than 
+non-partisan and partisan judicial elections).  Potential criticism aside, including all forms of 
+judicial elections is necessary to tether this study to prior empirical work in this field. 
+5.0.  Results and Discussion 
+  Empirical results—both descriptive and more granular regression models—help explain 
+various influences on state supreme court justices’ votes in business cases. 
+5.1.  Descriptive Results 
+How states structure judicial elections influences business contributions to judicial 
+campaigns.  Figure 1 illustrates how business contributions to judicial campaigns distribute 
+across the four major judicial selection mechanisms.  As one would expect, in states where 
+supreme court justices are appointed rather than elected, justices receive no business-related 
+contributions.  Where elections decide state supreme court justice, by contrast, business interests 
+participate in those campaigns through financial contributions. The percentage of business-
+related contributions varies among the three major judicial election forms—retention, 
+33 
+ nonpartisan, and partisan.  Again, consistent with common sense, Figure 1 illustrates that the 
+percentage of business-related judicial campaign contributions were at their highest in partisan 
+judicial elections and lowest in retention elections. 
+ 
+Figure 1: Distribution of Pro-Business Contributions (%) Across Various Methods of State 
+Supreme Court Justice Selection 
+No Election Retention Election
+0
+0
+1
+0
+5
+s
+e
+c
+sti
+u 0
+J
+of  Nonpartisan Election Partisan Election
+nt  00
+e 1
+c
+r
+e
+P
+0
+5
+0
+0 50 100 0 50 100
+Percent of Contributions from Business
+ 
+SOURCES: Follow the Money; Shepherd (2013) data sets. 
+ 
+One important way this Article expands on Shepherd’s 2013 analysis is by including 
+judicial campaign contributions from non-business interests.  Consequently, it is important to 
+view business and non-business contributions in relation to one another.  Figure 2 presents kernel 
+density estimates of the distributions of (logged) business and non-business campaign 
+contributions as a percentage of total campaign contributions and the line patterns inform.  
+Specifically, the overall visual impression is one of an “X,” with the business and non-business 
+34 
+ lines intersecting just past the 50 percent point.  That is, the business and non-business lines 
+essentially reflect one another.  Of course, given the somewhat reciprocal nature of the coding 
+protocols for the business and non-business contribution variables the visual pattern emerging in 
+Figure 2 does not surprise. While Figure 2 does reveal some degree of overlap (some justices 
+received campaign contributions from both business and non-business sources), the overall 
+impression is one of separation.  That is, most judicial candidates received the bulk of their 
+campaign contributions from either business or non-business interests. 
+ 
+Figure 2: Kernel density estimates, pro-business and non-business contributions 
+4 Business
+0
+. Non-Business
+3
+0
+.
+2
+0
+.
+1
+0
+.
+0
+0 20 40 60 80 100
+(log) campaign contributions as a percentage of total contributions
+ 
+  SOURCES: Follow the Money; Shepherd (2013) data sets. 
+ 
+5.2.  Regression Results 
+  While the descriptive results comport with intuitive notions about the relation between 
+judicial selection methods and business campaign contributions in judicial elections as well as 
+35 
+ between business and non-business judicial campaign contribution trends, more nuanced 
+regression analysis are necessary to isolate and identify possible relations between business (and 
+non-business) contributions and judicial votes in business cases. 
+5.2.1.  Pro-Business Judicial Campaign Contributions 
+Table 1 presents results from the mixed effects models on business campaign 
+contributions’ influence on judge votes in business cases.  As it relates to the key variable of 
+interest—campaign contributions from business interests (expressed as a percentage of a 
+justice’s total campaign receipts)—results Table 1 makes clear that the percentage of a justice’s 
+campaign contributions from pro-business interests increases, so too does the likelihood of the 
+justice voting in a manner that favors the business litigant.  Interestingly, at the same time an 
+increase in total campaign contributions, however, corresponds with a reduction in the likelihood 
+of a justice casting a pro-business vote.  Among the various types of judicial election 
+mechanisms, partisan elections were more likely to generate justices who cast pro-business 
+votes. 
+Justices’ ideology (expressed through political party affiliation) also achieves statistical 
+significance and it does so in the expected directions.  That is, while republican justices were 
+more favorable to business litigants, democrat justices were systematically less so (Table 1, 
+columns A and B, respectively).  A state’s tort climate, another important control variable, also 
+achieves statistical significance in the expected direction.  (That is, an increase in a state’s 
+liability index corresponds with a decreased likelihood of a pro-business judicial outcome.)  
+Finally, case strength also proved important.  As a business case’s underlying legal strength 
+increased, so too did the likelihood of a justice vote in favor of the business interest. 
+36 
+ Notably, when the business interest was the petitioner, the likelihood of a pro-business 
+outcome decreased.  Interestingly, a similar finding emerges in both non-business models as 
+well.84  That the petitioner status variable’s association with decreasing the probability of a 
+favorable judge vote cuts across the business/non-business divide implies that what it signals 
+may have little to do with the business (or non-business) context.  While these data and models 
+do not address this particular question, it remains possible that this findings reflects a “pro-
+affirmance” bias at the state supreme court level.  Setting aside selection effects’ important 
+influences on appellate reversal rates as well as variations across case types, prior work on 
+various civil appellate contexts (including state and federal) implies an overall impression of the 
+comparative difficulty that petitioners confront when seeking to overturn a lower court 
+decision.85  Thus, the finding in Table 1 suggesting that business petitioners reduce the 
+probability of a judge voting in favor of the business litigant needs to be understood within an 
+appellate context that, on balance, displays a tilt toward respondents independent of the business 
+litigation context. 
+ 
+TABLE 1: MIXED EFFECTS MODEL OF PRO-BUSINESS JUDICIAL CAMPAIGN CONTRIBUTIONS’ 
+INFLUENCE ON JUDICIAL VOTING IN BUSINESS CASES (2010-2012) 
+  (A)    (B)   
+Judge vote favoring business litigant:    (s.e.)    (s.e.) 
+         
+Pro-Business campaign contrib. (% of ttl.)  0.210 **   (0.07)  0.211 **   (0.07) 
+Total campaign contrib. ($10K)  -0.111 *  (0.05)  -0.124 **  (0.05) 
+         
+Non-partisan judicial election  -0.150  (0.35)  -0.249  (0.34) 
+Partisan election  0.775 *  (0.38)  0.915 *  (0.38) 
+Justice w/in 2 years of term end  -0.044  (0.15)  -0.019  (0.15) 
+Republican justice  0.712 **  (0.19)  ---  --- 
+Democrat justice  ---  ---  -0.846 **  (0.20) 
+                                                 
+84 See tbls.2 & 3, infra. 
+85 For one recent summary of empirical work on the civil appellate outcomes, see Theodore Eisenberg & Michael 
+Heise, Plaintiphobia in State Courts Redux? An Empirical Study of State Court Trials on Appeal, 12 J. Empirical 
+Legal Stud. 100, 110 (2015), tbl.1 (summarizing state and federal civil appeals reversal rates). 
+37 
+          
+State tort climate  -0.761 **  (0.23)  -0.835 **  (0.23) 
+State citizen ideology  -0.002  (0.01)  -0.006  (0.01) 
+State elite ideology  -0.010  (0.01)  -0.012  (0.01) 
+         
+Business litigant was petitioner  -0.463 **  (0.10)  -0.461 **  (0.10) 
+Case strength  0.072 **  (0.00)  0.072 **  (0.00) 
+         
+Constant  0.317  (0.58)  0.562  (0.57) 
+(N)  7,112    7,112   
+         
+NOTES: * p < 0.05; ** p < 0.01.  Robust standard errors in parentheses. These models include all pro-
+business campaign contributions (logged) as a percentage of a justice’s total amount of campaign 
+contributions (logged). All model specifications include state- and justice-level clusters. Mixed effects 
+models estimated using the “meqrlogit” command in Stata (v.14.1). Model A includes the republican 
+justice dummy variable; model B includes the democrat justice dummy variable. 
+  SOURCES: Follow the Money; Shepherd (2013) data sets. 
+ 
+  Although my model specifications depart slightly from Shepherd’s,86 results in Table 1 
+largely track Shepherd’s main findings presented in her 2013 report.87  Shepherd’s analyses 
+focus on the influence of pro-business campaign contributions and, having successfully largely 
+replicated Shepherd’s core results, this paper extends Shepherd’s by turning to the possible 
+influence of non- and anti-business campaign contributions on justices’ votes that favored non-
+business litigants. 
+5.2.2.  Non-Business Judicial Campaign Contributions 
+  Table 2 reports results after I, in essence, “flipped” Shepherd’s basic model.  That is, 
+where Table 1 reports results from models assessing the relation between pro-business judicial 
+campaign contributions and the probability that a justice voted in favor of the business litigant, 
+Table 2, by contrast, assesses the possible influence of non-business judicial campaign 
+contributions on the likelihood that a justice voted in favor of the non-business litigant. 
+                                                 
+86 See Sub-Part 3.0, supra. 
+87 See Shepherd, Risk, supra note 66, at 17, tbl.A1. 
+38 
+   While a robust inference from Table 1 might induce an expectation for reciprocal 
+findings in Table 2, results in Table 2 provide only partial support for such expectations.  
+Specifically, as it relates to the particular variable of interest, Table 2 illustrates that non-business 
+judicial campaign contributions correlate with an increased likelihood of a judicial vote favoring 
+the non-business litigant.  Interestingly, a correlation between campaign contributions and 
+favorable judge votes is present for both pro- and non-business settings, the influence is 
+comparatively stronger for the pro-business setting. 
+  While analyses of pro- and non-business judicial campaign contributions’ efficacy in 
+terms of influencing favorable judicial outcomes uncovers a few subtle differences, the overall 
+weight of the results conveys a stronger sense of convergence.  For example, the relation 
+between non-business contributions and judge votes is just was pronounced for democratic and 
+republican judges, though in the expected opposite directions.  Moreover, the case strength 
+variable achieves statistical significance (and in the expected direction).88 
+Finally, the influence of a non-business interest petitioner significantly decreases the 
+likelihood of a non-business vote.  As discussed previously, a similar finding emerges in the pro-
+business context and both may have more to do with a general “pro-affirmance” tilt in civil 
+appellate litigation than with judicial campaign contributions. 
+ 
+TABLE 2: MIXED EFFECTS MODEL OF NON-BUSINESS JUDICIAL CAMPAIGN CONTRIBUTIONS’ 
+INFLUENCE ON JUDICIAL VOTING IN BUSINESS CASES (2010-2012) 
+  (A)    (B)   
+Judge vote favoring non-business litigant:  (s.e.)  (s.e.) 
+         
+                                                 
+88 Specifically, for Tables 2 & 3, as the underlying legal strength of a pro-business case became “stronger,” it 
+reduced the probability of a judge vote favoring the non- (tbl.2) and anti-business (tbl.3) interest. 
+39 
+ Non-Business campaign contrib. (% of ttl.)  0.088 *   (0.04)  0.090 *  (0.04) 
+Total campaign contrib. ($10K)  -0.078  (0.04)  -0.067  (0.04) 
+         
+Non-partisan judicial election  -0.144  (0.36)  -0.038  (0.35) 
+Partisan election  -0.834 *  (0.38)  -0.986 **  (0.38) 
+Justice w/in 2 years of term end  0.080  (0.15)  0.054  (0.15) 
+Republican justice  -0.793 **  (0.19)  ---  --- 
+Democrat justice  ---  ---  0.922 **  (0.20) 
+         
+State tort climate  0.641 **  (0.24)  0.721 **  (0.23) 
+State citizen ideology  0.006  (0.01)  -0.003  (0.01) 
+State elite ideology  0.011  (0.01)  0.012  (0.01) 
+         
+Non-business litigant was petitioner  -0.468 **  (0.10)  -0.466 **  (0.10) 
+Case strength  -0.072 **  (0.00)  -0.072 **  (0.00) 
+         
+Constant  -0.103  (0.59)  -0.391  (0.57) 
+(N)  7,112    7,112   
+         
+NOTES: * p < 0.05; ** p < 0.01.  Robust standard errors in parentheses. These models include all non-
+business campaign contributions (logged) as a percentage of a justice’s total amount of campaign 
+contributions (logged). All model specifications include state- and justice-level clusters. Mixed effects 
+models estimated using the “meqrlogit” command in Stata (v.14.1).  Non-business judicial campaign 
+contributions include all contributions other than pro-business contributions.  Model A includes the 
+republican justice dummy variable; model B includes the democrat justice dummy variable. 
+SOURCES: Follow the Money; Shepherd (2013) data sets. 
+ 
+5.2.3.  Anti-Business Judicial Campaign Contributions 
+  While judicial campaign contributions’ varied sources permit the identification of sources 
+plausibly construed as “pro-business,” the construction of the non-business contributions do not, 
+as Shepherd briefly notes, easily support a characterization of them as “anti-business.”  Rather, 
+for interpretative purposes, results in Table 2 can only be understood (at least conservatively and 
+cautiously) as “non-business.”  A deeper understanding of whether judicial campaign 
+contributions plausibly characterized as “anti-business” is possible only after constructing a new 
+variable that includes a sub-pool of non-business contributions limited to contributions from 
+labor unions and democratic party campaign committees.  This alternative specification also 
+provides something of a robustness check on the stability of the prior findings. 
+40 
+   As Table 3 illustrates, the main findings that emerged in Table 2 remain intact.  All of the 
+variables that achieve statistical significance in the non-business model retain their significance 
+in the anti-business model.  Importantly, the presence of judicial campaign contributions from 
+anti-business sources systematically correlate with an increased probability of a judge voting in 
+favor of the non-business litigant.  And this finding emerges after controlling for the underlying 
+legal strength of the case (as well as the independent influence of other control variables).  
+Similar to earlier findings, the influence of judicial campaign contributions on judicial outcomes 
+achieves statistical significance only in the partisan election context.  Another factor that links 
+Tables 1, 2, and 3 is the consistent salience of a party’s status as a petitioner. Again, as 
+previously discussed, it remains a distinct possibility that this variable is picking up a possible 
+“affirmance bias” present in state supreme courts.  Finally, if nothing else, that Tables 3’s results 
+essentially track those in Table 2 conveys the overall findings’ stickiness and robustness to 
+alternative model specifications. 
+ 
+TABLE 3: MIXED EFFECTS MODEL OF ANTI-BUSINESS JUDICIAL CAMPAIGN CONTRIBUTIONS’ 
+INFLUENCE ON JUDICIAL VOTING IN BUSINESS CASES (2010-2012) 
+         
+Judge vote favoring non-business litigant:  (A)  (s.e.)  (B)  (s.e.) 
+         
+Anti-Business campaign contrib. (% of ttl.)  0.129 *   (0.06)  0.142 *   (0.06) 
+Total campaign contrib. ($10K)  -0.024  (0.03)  -0.014  (0.03) 
+         
+Non-partisan judicial election  0.006  (0.35)  0.105  (0.34) 
+Partisan election  -0.925 *  (0.39)  -1.080 **  (0.39) 
+Justice w/in 2 years of term end  0.074  (0.15)  0.048  (0.15) 
+Republican justice  -0.729 **  (0.20)  ---  --- 
+Democrat justice  ---  ---  0.878 **  (0.20) 
+         
+State tort climate  0.775 **  (0.23)  0.854 **  (0.23) 
+State citizen ideology  0.004  (0.01)  -0.005  (0.01) 
+State elite ideology  0.005  (0.01)  0.006  (0.01) 
+         
+Non-business litigant was petitioner  -0.470 **  (0.10)  -0.470 **  (0.10) 
+Case strength  -0.072 **  (0.00)  -0.072 **  (0.00) 
+41 
+          
+Constant  0.472  (0.65)  0.288  (0.63) 
+(N)  7,112    7,112   
+         
+NOTES: * p < 0.05; ** p < 0.01.  Robust standard errors in parentheses. These models include anti-business 
+campaign contributions (logged) as a percentage of a justice’s total amount of campaign contributions 
+(logged). All model specifications include state- and justice-level clusters.  Mixed effects models estimated 
+using the “meqrlogit” command in Stata (v.14.1).  Anti-business judicial campaign contributions include 
+funds from either labor unions or democratic party committees (or both). Model A includes the republican 
+justice dummy variable; model B includes the democrat justice dummy variable. 
+SOURCES: Follow the Money; Shepherd (2013) data sets. 
+ 
+5.3.  Discussion 
+  Results from Table 1, independently and in conjunction with prior empirical work, 
+provide support for those worried about the potentially distorting influence of judicial campaign 
+contributions from pro-business interests on judicial outcomes.  Indeed, similar findings from her 
+own related analyses prompted Professor Shepherd to characterize pro-business judicial 
+campaign contributions’ role as “destructive.”89  And Shepherd’s normative conclusions are 
+echoed by others.90 
+Equally important as the findings on the influence of pro-business judicial campaign 
+contributions (Table 1), however, are findings on similar influences achieved by non- and anti-
+business contributions (Tables 2 and 3, respectively).  Expanding and building upon Shepherd’s 
+earlier work reveals that Shepherd’s analyses (and conclusions) speak to only one piece of the 
+judicial campaign contribution puzzle.  The pieces provided by my additional analyses 
+complicate Shepherd’s normative implications as well as prevailing wisdom.  Specifically, 
+results from Tables 2 and 3 can certainly be understood to either exacerbate or reduce worries 
+about business’ potential undue influence. 
+                                                 
+89 Shepherd, Risk, supra note 66, at 2. 
+90 See, e.g., Charles G. Geyh, Why Judicial Elections Stink, 64 Ohio St. L.J. 43 (2003). 
+42 
+ On the one hand, the new findings may only deepen fears about elected state supreme 
+court justice decisions’ vulnerability to campaign contributions.  After all, the weight of the 
+results from Table 1, 2, and 3 imply that the ability to influence judicial votes extends far beyond 
+pro-business efforts.  On the other hand, results illustrating that non- and anti-business interests’ 
+campaign contributions influenced judicial outcomes similar to pro-business contributions may 
+also, paradoxically, reduce overall worries about the relation between judicial contributions and 
+outcomes.  That is to say, evidence that any interest group willing and able to invest in judicial 
+campaigns can influence judicial outcomes might dilute fears about the undue influence of any 
+one particular group.  While one may reasonably feel uneasy about the influence of judicial 
+campaign contributions on judicial outcomes, perhaps some comfort flows from the realization 
+that any such influence is not limited to one particular viewpoint (e.g., pro-business interests). 
+Of course, it bears emphasis that evidence of positive relations between pro-, non-, and 
+anti-business sources and favorable does not establish causation.  Indeed, in this particular 
+context a critical question that endures due to research design and data limitations involves 
+whether such evidence reflects selection or inducement effects. That is, to take one example, the 
+positive correlation between pro-business campaign contributions to judicial candidates may be a 
+function of such contributions makes it easier for pro-business candidates to win their judicial 
+elections or, in contrast, that it induces winning judges to reach pro-business outcomes.91 
+Important causal inference limitations notwithstanding, at the very least what my results 
+accomplish at an empirical level is to help place Shepherd’s critique of business’ influence on 
+state supreme courts into a broader interpretative context and expand on what we know about the 
+                                                 
+91 Kang & Shepherd note a similar limitation to their work as well.  See, e.g., Michael S. Kang & Joanna M. 
+Shepherd, Partisanship in State Supreme Courts: The Empirical Relationship between Party Campaign Contributions 
+and Judicial Decision Making, 44 J. Legal Stud.S-161, S-178 (2015). 
+43 
+ influence of judicial campaign contributions and judicial outcomes.  At a normative level, one 
+implication from my results is that while Shepherd’s characterization of judicial campaign 
+contributions as “destructive”92 may still be apt, other vantage points may inject greater 
+complexity and granularity and, in so doing, persuasively frame alternative characterizations of 
+judicial campaign contributions that fall somewhere between positions staked out by Professors 
+Shepherd, on the one hand, and Hall on another. 
+5.3.1.  From the Empirical to the Normative 
+   Broadening the empirical debate to include evidence of the potential influence of extra-
+legal factors on judicial outcomes from any campaign contributor (pro-, non-, or anti-business) 
+might help deflect the debate from a focus on narrow empirical points to the more theoretical 
+(and decidedly non-empirical) question about whether, in the context of campaign finance and 
+free speech, judicial elections are different in kind from non-judicial elections and, as such, 
+whether they warrant different legal treatment when it comes to campaign finance.  Within this 
+still-developing normative debate two factors deserve attention.  One is that even if one concedes 
+the empirical point that pro-businesses do not have any monopolistic lock on helping secure 
+favorable judicial outcomes, non-business judicial contributions’ distinctive focus may engender 
+a similarly distinctive level of influence.  A second factor involves questions about whether legal 
+doctrine, specifically laws governing public election campaign contributions, should simply treat 
+judicial elections differently than non-judicial elections. 
+5.3.2.  Pro-Business Contributions Overwhelm Non- and Anti-Business Contributions 
+                                                 
+92 Shepherd, Risk, supra note 66, at 2. 
+44 
+ Even if one concedes that pro-, non-, and anti-business judicial campaign contributions 
+all possess the ability to influence favorable judicial outcomes, it is plausible that the magnitude 
+and nature of pro-business contributions make them comparatively more efficacious and, thus, 
+more worrisome.  Business interests and lawyers (and law firms) dominate financial 
+contributions to state supreme court judges’ election campaigns.  During the past decade, 
+business interests, broadly defined, contributed more than $62.6 million, or 30 percent of all 
+judicial campaign contributions.  Lawyers and lobbyists (principally plaintiff lawyers and their 
+agents) contributed $59.3 million, or another 28 percent of total judicial campaign contributions.  
+By contrast, political campaign contributions to judges from unions are a small fraction as 
+compared to the donations from either business interests or lawyers and lobbyists. 
+  Not only do campaign contributions from business interests exceed those from all other 
+discrete interest groups, but business interests’ legal agendas are typically more focused and 
+benefit from a clearer idea of which judicial candidates business interests wish to target.  Legal 
+(and political) agendas advanced by lawyers and lobbyists, by contrast, are typically far less 
+focused and more diverse, reflecting the various interests of a wide range of clients. 
+  On balance, business interests, through their campaign contributions, are perhaps 
+uniquely positioned to successfully exert influence of state supreme court judges, particularly 
+when these judges are called upon to decide business cases.  If so, pro-business contributions, as 
+Kang and Shepherd emphasize, may indeed pose a special threat to a collective goal for fair and 
+impartial justice. 
+5.3.3.  When it Comes to the First Amendment Are Judicial Elections Simply Different Than 
+Other Elections? 
+45 
+   Arguments abound about whether the judicial and traditional political electoral contexts 
+differ enough to warrant treating judicial campaign finance differently than traditional campaign 
+finance.  Hall, for example, argues that whatever differences might exist they are insufficient to 
+justify different legal treatment for the judicial and non-judicial elections when it comes to 
+campaign finance.  Others, however, emphasize the differences between judicial and non-judicial 
+elections and call for different campaign finance rules.  Professor Shepherd, for example, argues 
+that judicial campaigns are particularly vulnerable to distortion (and implicitly distinct from non-
+judicial elections) due to pro-business campaign contributions’ unique role in judicial elections.93 
+Others share Shepherd’s conclusion but not her reasoning. Professor Sample, for 
+example, emphasizes the public’s different democratic expectations for the courts and legislative 
+branches and concludes that these differing expectations justify treating judicial and legislative 
+campaign finance with different legal rules.94  Professor Smith similarly dwells on differences 
+between the judicial and legislative branches and notes that judicial elections can involve 
+spending by “specific litigants” or “specific cases” despite a public commitment to an “impartial 
+adjudicator.95  Smith contrasts the judicial context with the legislative where, he notes, the public 
+expects legislators to “(generally, at least) achieve the goals that the people who elected them 
+wanted them to do.”96   
+Apart from scholars’ perspectives, even some Supreme Court justices appear to tilt in this 
+direction.  Writing for the Court in Williams-Yulee v. Florida Bar, Chief Justice Roberts wrote 
+                                                 
+93 Id. at 4. 
+94 James Sample, Democracy At The Corner of First and Fourteenth: Judicial Campaign Spending and Equality, 66 
+NYU Annual Survey of Amer. Law 727 (2011). 
+95 Adam Liptak et al., Caperton and the Courts: Did the Floodgates Open?, 18 N.Y.U. J. Legis. & Pub. Pol’y 481, 
+496 (2015)(Bradley Smith’s remarks). 
+96 Id. 
+46 
+ that: “Judges are not politicians, even when they come to the bench by way of the ballot.”97  
+Consequently, in a 5-4 decision the Court upheld a restriction on election speech and fundraising 
+for elected judges that would be “obviously” unconstitutional if applied to other candidates for 
+elected public office.98  Of course, the Court’s Williams-Yulee decision stands quite uneasily 
+with the Court’s prior decision in White which struck down a Minnesota law prohibiting state 
+judicial candidates from making public statements concerning disputed legal or political issues 
+incident to judicial campaigns. 
+  Somewhat lost in the debate is the possible analytical purchase of a distinction between 
+using judicial campaign contributions to “buy” a judicial vote versus a judicial philosophy or 
+outlook.  Again, all surely agree that a campaign contribution that, quite literally, pre-secures a 
+specific judicial vote in a particular case—or even creates an objectively unacceptable 
+impression of judicial impropriety or bias, as the Court’s decision in Massey suggests, requires 
+judicial recusal. 
+5.3.4.  Efforts to Purchase a Judicial Philosophy Rather Than A Judicial Outcome 
+  More difficult, however, are judicial campaign contributions that do not seek to pre-
+secure a specific judicial outcome in particular case in the future but, instead, seek to promote a 
+judicial philosophy, theory, or outlook.  If judicial campaign contributions in state elections 
+simply reflect support for a particular or general judicial philosophy, they quickly begin to 
+resemble the (albeit indirect) role that campaign contributions to presidential candidates perform 
+in federal election context. 
+                                                 
+97 135 S.Ct. 1656, 1662 (2015). 
+98 See id.; Kang & Shepherd, Judging, supra note 18, at 939. 
+47 
+   While constitutional structure provides layers of separation between the electorate and a 
+federal judge or Supreme Court Justice’s appointment, few serious observers contest the role that 
+politics plays when it comes to the selection of Article III judges and Justices.  Indeed, in many 
+ways our constitutional structure (to say nothing of political accountability) is designed to afford 
+politics some role.  Once one concedes, either as a descriptive or normative (or both) matter, 
+politics’ role in the selection of federal judges, it logically follows that campaign contributions 
+exert some influence, even if indirect. 
+  While the law reviews are festooned with research illustrating the role of politics, 
+particularly presidential politics, in federal judicial appointments,99 a brief description of two 
+recent (and still-evolving) examples deserve brief mention.  First, Justice Scalia’s recent death 
+presaged a political firestorm fueled by President Obama’s decision to appoint Judge Merrick 
+Garland to fill the vacant Supreme Court seat.  President Obama’s status as a lame-duck, Senate 
+Leader Mitchel’s assertion that the Senate would simply not process any Supreme Court 
+nominations so close to a presidential election, and Democratic presidential nominee Hillary 
+Clinton’s refusal to commit to re-appointing Judge Garland if she assumed the presidency 
+contributed to the political intrigue.  As Professor Malt recently noted, the Garland nomination 
+serves “as a graphic reminder of the influence of presidential politics on the evolution of 
+constitutional doctrine.”100 
+  Judge Garland’s nomination by a lame-duck president within one year of a contested 
+presidential election only heighted the electorate’s attention to one likely outcome of the 2016 
+                                                 
+99 The literature on the role of politics in Article III judicial selections is legion. See, e.g., TERRI J. PERETTI, IN 
+DEFENSE OF A POLITICAL COURT (1999); JOHN A. MALTESE, THE SELLING OF SUPREME COURT NOMINEES (1995); 
+STEPHEN L. CARTER, THE CONFIRMATION MESS (1994). 
+100 Earl M. Maltz, The 2016 Election and the Future of Constitutional Law: The Lessons of 1968, 43 Hastings Const. 
+L.Q. 735, 735 (2016). 
+48 
+ presidential election: The guarantee of one Supreme Court nomination and the not-implausible 
+opportunity for additional nominations.101 
+  And this latter observation leads to a second (albeit related) example.  During the recent 
+presidential campaign, then-candidate Trump publicly released two separate lists of individuals 
+(a total of 21) whom he proclaimed during a televised presidential candidate debate that he 
+would consider nominating to the United States Supreme Court.102  Given the perception that the 
+next U.S. President would likely be in a position to fill at least one seat (by definition) and, more 
+probably, two or more seats, and that the next President would likely have a significant influence 
+on the development of future U.S. law, as Professor Kidd et al. note, “it is not surprising that 
+Republicans wanted assurances that their nominee would nominate someone whose 
+jurisprudence would match that of Scalia.”103  That is to say, then-candidate Trump (as well as 
+his opponent, Secretary Clinton), took pains to inform the electorate throughout their campaigns 
+about the “type” of judges and Justices they planned to nominate if elected.  Moreover, both 
+campaigns overtly ran campaign ads (negative and positive ads) and sought (and received) 
+campaign contributions expressly over the issue of their approach toward judicial selections.104 
+Finally, not only did the two main presidential candidates perceive (almost assuredly correctly) 
+the need for (or strategic political advantage of) discussing with the electorate what they would 
+                                                 
+101 Id. at 736. 
+102 See Transcript of the Second Debate, N.Y. TIMES (Oct. 10, 2016), available at 
+http://www.nytimes.com/2016/10/10/us/politics/transcript-second-debate.html?_r=0. For a compilation of the names 
+from the two lists see Ed Whelan, “Trump’s Supreme Court Candidates,” Bench Memos, Nov. 9, 2016, available at 
+http://www.nationalreview.com/bench-memos/442036/trump-list-supreme-court-candidates.  For an empirical 
+assessment of President-Elect Trump’s promise to appoint judges very much in the Justice Scalia mold, see Jeremy 
+Kidd et al., Searching for Justice Scalia: Measuring the “Scalia-Ness” of the Next Potential Member of the U.S. 
+Supreme Court (2016). Available at: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2874794&download=yes.  
+103 See Kidd et al., supra note 102, at 1. 
+104 See generally NANCY SCHERER, SCORING POINTS: POLITICIANS, ACTIVISTS, AND THE LOWER FEDERAL COURT 
+APPOINTMENT PROCESS 151-80 (2005) (observing that since the 1968 Presidential election, candidates have made 
+the selection of Justices and judges a campaign issue). 
+49 
+ look for in the potential judicial nominees, but the mainstream media reinforced the perception 
+that the candidates’ approaches toward judicial nominations was a legitimate and, indeed, 
+important campaign issue.105 
+  Very few at the time voiced any concerns with the presidential candidates’ open, 
+consistent, and persistent discussion during the campaign of what they would “look for” in their 
+judicial nominees.  If anything, the opposite was the case.  That is, the candidates, media, and, 
+likely, a sizable portion of the electorate, felt that such discussions were an important part of the 
+presidential campaign.106  To be sure, what happened during the most recent presidential election 
+cycle (and similar to many prior election cycles) involved action by those seeking positions in 
+the executive branch that possess the authority to nominate judges and Justices—rather than 
+those who aspired to Article III commissions.  This is, of course, an important distinction.  
+Distinction aside, however, one question that endures is whether this constitutes enough of a 
+distinction to treat constitutional issues embedded in campaign finance laws differently for state 
+judicial elections and federal elections. 
+6.0.  Conclusion 
+  To the extent that any campaign contribution in judicial elections facilitates “buying” 
+justice, an array of obvious problems arise.  Because pro-, non-, and anti-business have 
+demonstrated some (albeit slightly different) systematic ability to influence judicial votes in 
+business cases, then, at the very least, one less problem emerges.  While this one less problem 
+may not assuage some (or any) critics of pro-business campaign contributions in judicial 
+                                                 
+105 See, e.g., Jim DeMint, Gorsuch is a Model for Future Judicial Nominees, The Hill (Apr. 12, 2017); available at: 
+http://thehill.com/blogs/pundits-blog/the-judiciary/328518-demint-gorsuch-is-a-model-for-future-judicial-
+nominations. 
+106 See id. 
+50 
+ elections, it nonetheless remain important to gain a full empirical picture before proceeding to 
+contested normative and theoretical issues incident to assessing First Amendment protection for 
+campaign contributions to judicial elections. 
+  Additional empirical clarity on the relations between campaign contributions and judicial 
+votes, while helpful, does not, however, reduce the difficulty of the related, and enduring, 
+normative questions.  To the extent that this issue uncovers an inevitable collision of important 
+values, what remains is how best to reconcile these conflicting interests.  And one best way to 
+reconcile this conflict may not exist.  As Professor Karlan notes, “it is not categorically true that 
+we want judges to ignore popular opinion and rely on their own consciences, or that we want to 
+protect judges who ignore politically settled interpretations and rely on their own views of the 
+law. Sometimes we do and sometimes we don’t.”107  Given this structural ambivalence, when it 
+comes to narrower issues concerning judicial campaign contributions, the late-Justice Scalia 
+likely got it right when he opined during the oral argument in White that: “Now, [judicial 
+elections] may be a very bad idea, but as long as [the First Amendment’s] in your constitution, I 
+find it hard to believe that it is a significant State interest of Minnesota to prevent judicial 
+elections from being informed.”108 
+   
+                                                 
+107 Pamela S. Karlan, Judicial Independence, 93 Geo. L.J. 1041, 1048 (2007). 
+108 Transcript of Oral Argument at 45, White, 536 U.S. 765 (No. 01-521), 
+http://www.supremecourt.gov/oral_arguments/argument_transcripts/01-521.pdf.  See also Adam Liptak et al., 
+Caperton and the Courts: Did the Floodgates Open?, 18 N.Y.U. J. Legis. & Pub. Pol’y 481,482 (2015)(Liptak 
+remarks). 
+51 
+  
+ 
+APPENDIX TABLE A1 
+  Mean  s.d.  (N) 
+       
+Pro-business judge vote  0.50  (0.50)  10,804 
+Anti-business judge vote  0.50  (0.50)  10,804 
+Business campaign contrib. (% of ttl.) (raw)  19.32  (22.59)  10,607 
+Non-business campaign contrib. (% of ttl.) (raw)  59.15  (37.19)  10,607 
+Anti-business campaign contrib. (% of ttl.) (raw)  3.54  (13.54)  10,607 
+Total campaign contrib. ($10K) (raw)  40.91  (61.35)  10,607 
+Non-partisan judicial election  0.41  (0.49)  16,083 
+Partisan election  0.18  (0.39)  16,083 
+Democrat justice  0.42  (0.49)  16,083 
+Republican justice  0.46  (0.50)  16,083 
+State tort climate  -0.13  (0.46)  16,078 
+State citizen ideology  55.93  (14.66)  16,078 
+State elite ideology  49.33  (13.62)  16,078 
+Business litigant was petitioner  0.49  (0.50)  16,083 
+Justice w/in 2 years of term end  0.24  (0.42)  16,083 
+Case strength  -0.02  (43.13)  7,112 
+ 
+       SOURCES: Follow the Money; Shepherd (2013) data sets. 
+ 
+52 
+ 

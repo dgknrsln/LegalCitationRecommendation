@@ -1,0 +1,2032 @@
+Factfinding Deconstructed 
+Kevin M. Clermont* 
+Table of Contents 
+INTRODUCTION .............................................................................................................................................. 2 
+A.  Background Concepts ...................................................................................................................... 7 
+1.  Multivalent Logic ......................................................................................................................... 7 
+2.  Belief Degrees ............................................................................................................................ 10 
+3.  Belief Functions ......................................................................................................................... 14 
+B.  Way Forward .................................................................................................................................. 18 
+I.  INFERENCE FROM PIECE OF EVIDENCE TO ELEMENT ......................................................................... 18 
+A.  Mental Process ............................................................................................................................... 18 
+1.  Inferences ................................................................................................................................... 22 
+2.  Generalizations .......................................................................................................................... 23 
+3.  Ancillary Considerations ........................................................................................................... 24 
+4.  Example: Sacco & Vanzetti ....................................................................................................... 25 
+B.  Probative Force .............................................................................................................................. 28 
+1.  Product Rule............................................................................................................................... 29 
+2.  MIN Rule .................................................................................................................................... 31 
+3.  Correct Approach ....................................................................................................................... 33 
+II.  AGGREGATING PIECES OF EVIDENCE .................................................................................................. 36 
+A.  Bayes’ Theorem .............................................................................................................................. 38 
+B.  Dempster-Shafer Theory ............................................................................................................... 39 
+C.  Correct Approach ........................................................................................................................... 42 
+III.  COMBINING ELEMENTS ................................................................................................................... 43 
+A.  Atomistic Processing...................................................................................................................... 44 
+B.  Holistic Processing ......................................................................................................................... 45 
+C.  Correct Approach ........................................................................................................................... 46 
+CONCLUSION ............................................................................................................................................... 49 
+ 
+                                                
+* Ziff Professor of Law, Cornell University. I again thank the excellent students in my 2018 
+seminar on the Theory of Proof. I also want to thank for their help Zach Clopton, Sherry Colb, Mike 
+Dorf, Bill Gifford, Valerie Hans, Michael Heise, Bob Hockett, Mike Pardo, Jeff Rachlinski, Emily 
+Sherwin, and the likewise excellent participants in the 2019 Cornell Law School faculty’s summer 
+workshop series. 
+ Electronic copy available at: https://ssrn.com/abstract=3411623 2 
+ 
+Abstract 
+Academics have never agreed on a theory of proof. The darkest corner of disagreement 
+concerns how legal factfinders logically should find facts. This Article pries open that cognitive black 
+box. It does so by employing multivalent logic, which enables it to overcome the traditional probability 
+theory that impeded all prior attempts. The result is the first-ever exposure of the proper logic for 
+finding a fact or a case’s facts. 
+The focus is the evidential processing phase, rather than the application of the standard of 
+proof as tracked in my prior work. Processing evidence involves (1) reasoning inferentially from a piece 
+of evidence to a degree of belief and of disbelief in the element to be proved, (2) aggregating pieces of 
+evidence that all bear to some degree on one element in order to form a composite degree of belief and 
+of disbelief in the element, and (3) considering the series of elemental beliefs to reach a decision. 
+Zeroing in, the factfinder in step #1 should connect each item of evidence to an element to be proved 
+by  constructing  a  chain  of  inferences,  employing  multivalent  logic’s  rules  for  conjunction  and 
+disjunction to form a belief function that reflects the belief and the disbelief in the element and also 
+the uncommitted belief reflecting uncertainty. The factfinder in step #2 should aggregate, by weighted 
+arithmetic averaging, the belief functions of all the items of evidence that bear on any one element, 
+creating a composite belief function for the element. The factfinder in step #3 does not need to combine 
+elements, but instead should directly move to testing whether the degree of belief from each element’s 
+composite belief function sufficiently exceeds the corresponding degree of disbelief. In sum, the 
+factfinder should construct a chain of inferences to produce a belief function for each item of evidence 
+bearing on an element, and then by weighted average produce for each element a composite belief 
+function ready for the element-by-element standard of proof. 
+This Article performs the task of mapping normatively how to reason from legal evidence to a 
+decision on facts. More significantly, it constitutes a further demonstration of how embedded the 
+multivalent-belief model is in our law. 
+INTRODUCTION 
+Factfinding is foundational for law. The great minds of Locke,1 Bentham,2 and 
+Wigmore3 laid the modern foundation.4 Of late, factfinding has become the subject of 
+                                                
+1 See Richard W. Wright, Haack on Legal Proof, 68 ESTUDIOS FILOSÓFICOS 517, 520 (2018) 
+(quoting Locke’s treatment of varying degrees of belief). 
+2 See TERENCE ANDERSON, DAVID SCHUM & WILLIAM TWINING, ANALYSIS OF EVIDENCE 80 n.4 (2d 
+ed. 2005) (crediting Bentham as the source of the Rationalist Tradition); see also WILLIAM TWINING, 
+RETHINKING  EVIDENCE: EXPLORATORY  ESSAYS  75–80  (2d  ed.  2006)  (describing  the  common-law 
+system’s so-called Rationalist Tradition). 
+3 See ANDERSON ET AL., supra note 2, at 87–88 (crediting Wigmore as the inspiration of the New 
+Evidence movement); see also Richard Lempert, The New Evidence Scholarship: Analyzing the Process 
+of Proof, 66 B.U. L. REV. 439, 440–50 (1986) (describing the common-law system’s so-called New 
+Evidence). 
+4 The modern law of evidence rests on the free evaluation of the evidence: the relevant evidence 
+comes in, subject to some exceptions, and the factfinder rationally processes it without legal restraints. 
+This approach supplanted the medieval formal theory of evidence, or la preuve légale: medieval legal 
+proof had assigned weights to specified classes of evidence, such as admissions and oaths, and 
+prescribed exactly when a set of evidence amounted to full proof. See MIRJAN DAMAŠKA, EVALUATION 
+ Electronic copy available at: https://ssrn.com/abstract=3411623 3 
+ 
+theoretical innovation5 and even comparative study.6 Still, here in the United States, 
+we cannot even agree on how to spell it: should it be one word, hyphenated, or two 
+words?7 
+As the very first step in understanding factfinding at a level deeper than the 
+orthographic, I need to locate the subject. By “fact,” I mean to include anything out 
+in the real world that a court, other institution, or person subjects to a proof process 
+in order to establish whether to treat it as truth. The subject includes not only yes-
+or-no facts but also vague and partly normative terms like “fault” and many other 
+applications of law to fact, and even a variety of nonbinary opinions.8 Nonetheless, 
+discussion will be easiest if focused on the legal task of reaching a dichotomous 
+finding on a historical fact material to a claim or defense. 
+Next, I need to deconstruct the legal factfinding process.9 The “finding” of facts 
+breaks down into three stages: “the fact-gathering stage, the evidence stage and the 
+decision-making  stage.” 10 The  first  is  the  search  for  and  sharing  of  relevant 
+information.11 The second is the presentation of evidence to the decisionmaker.12 In 
+                                                
+OF EVIDENCE: PREMODERN AND MODERN APPROACHES (2019) (arguing that the differences between free 
+evaluation and medieval proof are not as pronounced as conventional wisdom would have it). 
+5 See Lempert, supra note 3, at 440–50 (describing the field of New Evidence). 
+6 See R.R. VERKERK, FACT-FINDING IN CIVIL LITIGATION: A COMPARATIVE PERSPECTIVE (2010). 
+7 Writing “fact finding” as two words is now considered archaic. “Fact-finding” is most common. 
+“Factfinding” is considered the trend, albeit an incipient trend. See BRYAN A. GARNER, A DICTIONARY 
+OF MODERN LEGAL USAGE 237 (1987). Yet the GPO STYLE MANUAL 94 (rev. ed. 1973), long treated as 
+authoritative on such matters by the Bluebook, says to write “factfinding.” See THE BLUEBOOK: A 
+UNIFORM SYSTEM OF CITATION r. I.2 (Columbia Law Review Ass’n et al. eds., 17th ed. 2000) (referring 
+“punctuation, capitalization, compounding, and other matters of style” to the GPO); cf. id. r. 8(c) (20th 
+ed. 2015) (now mentioning capitalization only). 
+8 I am not hereby wading into the debate on the fact/value distinction. See Kevin Mulligan & 
+Fabrice Correia, Facts, in STANFORD ENCYCLOPEDIA OF PHILOSOPHY (Edward N. Zalta ed., 2017), 
+https://plato.stanford.edu/entries/facts/ (“Facts, philosophers like to say, are opposed to theories and 
+to values . . . .”); cf. id. § 2.4 (distinguishing fact and proposition, a distinction I do not draw). I am 
+instead using a broad definition of “fact” so as to include all matters subjected to a proof process. 
+9 I employ “deconstruct” in its traditional sense, not in the Derridean sense. See Bernadette 
+Meyler,  Derrida’s  Legal  Times:  Decision,  Declaration,  Deferral,  and  Event,  in  ADMINISTERING 
+INTERPRETATION: DERRIDA, AGAMBEN, AND THE POLITICAL THEOLOGY OF LAW 147 (Peter Goodrich & 
+Michel Rosenfeld eds., 2019). Ironically, my key analytic move thereafter is to deploy “multivalent 
+logic” rather than Derrida’s “binary opposition.” 
+10 VERKERK, supra note 6, at 1. 
+11 See generally PAUL J. ZWIER & ANTHONY J. BOCCHINO, FACT INVESTIGATION: A PRACTICAL GUIDE 
+TO INTERVIEWING, COUNSELING, AND CASE THEORY DEVELOPMENT (2d ed. 2015). 
+12 See generally MCCORMICK ON EVIDENCE (Kenneth S. Broun gen. ed., 7th ed. 2013). “Evidence 
+rules” determine what the factfinder considers. They comprise the “principles of proof,” which are 
+ Electronic copy available at: https://ssrn.com/abstract=3411623 4 
+ 
+the third or “decision stage, the decision maker will mentally weigh the evidence and 
+render a decision on matters of fact.”13 The law extensively treats the first two stages 
+by the provisions of procedure and evidence law. But the law treads very lightly in 
+the third stage. 
+This Article addresses only the third stage. In Figure 1, I divide that mental 
+stage, in turn, into a processing phase and an evaluating phase. 
+ 
+FIGURE 1: DECISION STAGE 
+ 
+First, law imposes virtually no enforceable restraints on factfinders’ methods 
+during the first phase’s processing of pieces of evidence (E , E , etc.),14 other than 
+1 2
+reviewing  the  output  for  clear  error  or  the  like. 15 The  factfinders  just  do  it. 
+Psychologists have made limited progress in figuring out how they do it. The actual 
+process may be rational16 or intuitive,17 although it should involve so-called critical 
+                                                
+logically anterior to “exclusionary rules.” The principles are materiality, which is determined by 
+substantive law, and probative force, which is determined by logic and general experience but which 
+is cabined by various legal prescriptions. The exclusionary rules, such as hearsay, privilege, and 
+incompetency, are a mixed group of historically based exceptions to the general acceptance of freedom 
+of proof. See ANDERSON ET AL., supra note 2, at 289–94 (mapping the evidence rules). 
+13 VERKERK, supra note 6, at 2. 
+14 See ANDERSON ET AL., supra note 2, at 226 (noting that “there is an almost total absence of 
+formal regulation in respect of evaluating evidence or, to put it differently, the Anglo-American law of 
+evidence has almost no rules of weight”). 
+15 See, e.g., FED R. CIV P. 52(a)(6) (“clearly erroneous”). 
+16 See, e.g., Edmund M. Morgan, Introduction to Evidence, in AUSTIN W. SCOTT & SIDNEY P. 
+SIMPSON, CASES AND OTHER MATERIALS ON CIVIL PROCEDURE 941, 943–45 (1950) (discussing the logical 
+methods jurors use to process evidence). “Rational” means logical. See ANDERSON ET AL., supra note 2, 
+at 56 (saying that “a conclusion based upon the evidence can only be justified as rational through the 
+use of [deductive, inductive, or abductive] logic”). 
+17 See, e.g., Mark Spottswood, The Hidden Structure of Fact-Finding, 64 CASE W. RES. L. REV. 131 
+(2013) (applying the dual-process psychological framework to legal factfinding). “Intuition” is analyzed 
+in BENGT LINDELL, MULTI-CRITERIA ANALYSIS IN LEGAL REASONING 80–97 (2017). 
+ Electronic copy available at: https://ssrn.com/abstract=3411623 5 
+ 
+common sense.18 It may proceed atomistically19 or holistically.20 The factfinders need 
+to combine into a single measure all sorts of evidence on all sorts of facts, ranging 
+from  likelihood  of  an  uncertain  occurrence  to  a  vague  and  partly  normative 
+characterization  of  blameworthiness.21 The  best  view  based  on  psychology,  and 
+introspection,  posits  that  factfinders  process  the  weight  and  credibility  of  the 
+evidence largely by intuition and in an approximate and nonquantified way, perhaps 
+while looking simultaneously at the whole case. They then take a stab at forming 
+beliefs as to the truth. Although the stabs seem to be generally reliable,22 this kind of 
+cognition remains a black box, both in the study of law as a logical matter and in the 
+study of practice from a psychological perspective. 
+Second, in the evaluation phase, whereby beliefs lead to legal decision, the 
+standards of proof reign. Psychologists have thus far had very little to contribute to 
+our understanding of the standards of proof. Philosophical logic takes over here, 
+providing a theoretical basis. Given that basis, the law specifies the measure of 
+                                                
+18 See D. Michael Risinger, Searching for Truth in the American Law of Evidence and Proof, 47 
+GA. L. REV. 801, 813 (2013) (discussing “the notion of critical common sense and its attendant 
+implication that participation in rational factfinding about legal issues is possible for most humans of 
+normal intelligence”). 
+19 American law seems to envisage an atomistic approach. See Marijke Malsch & Ian Freckelton, 
+The Evaluation of Evidence: Differences Between Legal Systems, in LEGAL EVIDENCE AND PROOF: 
+STATISTICS, STORIES, LOGIC 117, 130–31 (Hendrik Kaptein et al. eds., 2009) (linking the adversary 
+system to atomism). Judicial instructions impose on the jury the duty to proceed element-by-element. 
+See  3  KEVIN  F.  O’MALLEY,  JAY  E.  GRENIG  &  WILLIAM  C.  LEE,  FEDERAL  JURY  PRACTICE  AND 
+INSTRUCTIONS: CIVIL § 104:01 (6th ed. 2011) (describing the burden “to prove every essential element”); 
+infra text accompanying note 145 (quoting instruction). Logical theory should therefore depart from 
+an atomistic approach. 
+20 American practice seems to follow a holistic approach. See Dan Simon, A Third View of the 
+Black Box: Cognitive Coherence in Legal Decision Making, 71 U. CHI. L. REV. 511, 559–69 (2004) 
+(arguing  that  factfinders  consider  evidence  holistically  rather  than  atomistically).  Holistic 
+methodologies are typified by the well-known story model, which posits that the factfinder would judge 
+the likelihood of the proponent’s whole story rather than judging its parts separately. See Kevin M. 
+Clermont, Staying Faithful to the Standards of Proof, 104 CORNELL L. REV. ___, ___ n.30 (2019) (citing 
+sources). 
+21 See KEVIN M. CLERMONT, STANDARDS OF DECISION IN LAW: PSYCHOLOGICAL AND LOGICAL BASES 
+FOR THE STANDARD OF PROOF, HERE AND ABROAD 157–66 (2013) (discussing the need for a common 
+currency). 
+22 See, e.g., Kevin M. Clermont & Theodore Eisenberg, Trial by Jury or Judge: Transcending 
+Empiricism, 77 CORNELL L. REV. 1124, 1154 (1992) (“Apparently, judge trial and jury trial combine to 
+operate a decisionmaking system that is, at least in [its ability to treat like cases alike], highly 
+reliable.”); Thomas B. Metzloff, Resolving Malpractice Disputes: Imaging the Jury’s Shadow, LAW & 
+CONTEMP. PROBS., Winter 1991, at 43 (showing trial system’s usual competence and fairness by an 
+empirical comparison of medical malpractice verdicts and insurers’ pretrial evaluations). 
+ Electronic copy available at: https://ssrn.com/abstract=3411623 6 
+ 
+sureness required for decision about each material fact in an uncertain world, doing 
+so to achieve policy goals.  
+I have written extensively on the evaluation or standard-of-proof phase, from 
+both the logical and the legal angles.23 My conclusion was that heretofore we have 
+understood  the  evaluation  phase  much  less  well  than  we  pretend.  I  called  for 
+expressing factfinding in terms of degrees of beliefs, rather than the odds of an 
+absolute truth that might somehow be revealed. 
+In the huge subject of the theory of proof, I now feel the need to extend my 
+focus from the evaluation phase to the processing phase. Not only is the processing 
+phase the natural place to continue exploration, but also this very important subject 
+is truly unexplored. Just as for many foundational ideas, we tend to invoke the idea 
+of factfinding all the time without pursuing the idea all the way down. For example, 
+we readily state the test for granting judgment as a matter of law against a party in 
+terms of whether “a reasonable jury would not have a legally sufficient evidentiary 
+basis to find for the party on that issue.”24 The judge therefore needs to determine 
+the  limit  on  reasonable  factfinding.  In  this  context,  and  in  many  others,  it  is 
+undeniably necessary for judges and lawyers to think deeply about how a jury should 
+and does find a fact. But we do not, remaining willing to represent the process as a 
+fairly opaque black box. 
+In particular, this Article will focus on the logical ideal for legal factfinders to 
+process  evidence.25 The  Article’s  impetus  stems  from  my  unwillingness  to  leave 
+factfinding a black box. The result is an original account of how facts should be found, 
+a systematic logic for factfinding. My interest falls mainly on the normative side. I 
+shall leave it to psychologists to conduct further research on how factfinding is 
+actually done. I shall therefore not focus on the undoubted role of intuition, heuristics, 
+emotion, and biases in factfinding.26 Nonetheless, I am not engaged in pure theory. I 
+                                                
+23 See Clermont, supra note 20, at ___ n.23, ___ n.161 (referencing my prior work, twelve articles 
+and a book, on factfinding). 
+24 FED. R. CIV. P. 50(a). 
+25 I shall be focusing on the logic for a single factfinder. I do not think that having a group of 
+factfinders complicates the logical picture. On the utilization of standards of proof by a group of 
+factfinders, see Allison Orr Larsen, Bargaining Inside the Black Box, 99 GEO. L.J. 1567, 1608 (2011). 
+The idea would be that each factfinder does its own thing and produces a normally dichotomous 
+outcome. They must come to the same outcome in sufficient numbers to satisfy the governing 
+unanimity or nonunanimity rule. On the requisite agreement, whereby the applicable percentage of 
+factfinders must agree on each element but not on the evidence, grounds, and theories underlying each 
+element, see RICHARD H. FIELD, BENJAMIN KAPLAN & KEVIN M. CLERMONT, MATERIALS FOR A BASIC 
+COURSE IN CIVIL PROCEDURE 1590–91 (12th ed. 2017). 
+26 See, e.g., Hannah Phalen, Jessica M. Salerno & Janice Nadler, Emotional Evidence in Court, in 
+RESEARCH HANDBOOK ON LAW AND EMOTION ___ (Susan A. Bandes et al. eds., forthcoming 2019). 
+ Electronic copy available at: https://ssrn.com/abstract=3411623 7 
+ 
+am trying to formulate an ideal consistent with the greater legal system’s purposes 
+and constraints, while still keeping at least one eye open to human limitations. The 
+normative logic for factfinding will turn out to be legally acceptable and rather 
+feasible to perform. I make no call for change to law, as none is necessary. I describe 
+how I think good factfinders should and could proceed, even if I cannot prove a 
+detailed descriptive account of what they really do. I nonetheless observe that my 
+multivalent-belief model, in lieu of probabilities, may make more comprehensible any 
+future  discussion  of  the  role  of  intuition,  heuristics,  emotion,  and  biases  in 
+factfinding. 
+Clearly, the ideal method for processing legal evidence is worth exposition. But 
+is the search for the logical ideal even a possible quest? I previously concluded about 
+the  ideal:  “Logicians  have  not  managed  to  agree  on  how  evidence  should  get 
+processed.”27 Now, however, I assert that the logicians’ failure was not inevitable. It 
+resulted from inapt premises, which led inevitably to a roadblock. The logicians 
+almost all proceeded on the basis of classical logic and its derivative of traditional 
+probability.28 With those tools, understanding the processing of uncertain evidence is 
+indeed an impossible task. We need instead to address the processing problem with 
+an alternative to that constrained logic and its probability scheme.  
+A. Background Concepts 
+I  begin  that  recasting  of  the  processing  problem  by  presenting  some 
+background from my prior work on standards of proof. 
+1.  Multivalent Logic 
+For understanding the processing phase, traditional probability’s fatal defect 
+is that, unbeknownst to most of us, it is built on an assumption of bivalence. That is, 
+like  classical  logic,  it  assumes  that  nothing  lies  between  completely  true  and 
+completely false.29 Probability then reflects only the random uncertainty that the 
+                                                
+27 Clermont, supra note 20, at ___ (citing Symposium, Artificial Intelligence and Judicial Proof, 
+22 CARDOZO L. REV. 1365 (2001) (working on the need to formalize evidence processing for application 
+of “computational intelligence”); James Franklin, How Much of Commonsense and Legal Reasoning Is 
+Formalizable? A Review of Conceptual Obstacles, 11 LAW, PROBABILITY & RISK 225, 245 (2012) (taking 
+a pessimistic view on formalizing common reasoning)). 
+28 The lone exception as to legal factfinding is L. JONATHAN COHEN, THE PROBABLE AND THE 
+PROVABLE (1977) (arguing that the law’s interest lies in provability, not probability). This great book 
+diagnosed the problem, but suggested an opaque approach that he called inductive logic. See Alan 
+Hájek, Interpretations of Probability, in STANFORD ENCYCLOPEDIA OF PHILOSOPHY § 3.2 (Edward N. 
+Zalta ed., 2012), https://plato.stanford.edu/entries/probability-interpret/ (discussing inductive logic 
+more generally). 
+29 See Kevin M. Clermont, Conjunction of Evidence and Multivalent Logic, in LAW AND THE NEW 
+LOGICS 32, 36–40 (H. Patrick Glenn & Lionel D. Smith eds., 2017) (describing assumptions of classical 
+ Electronic copy available at: https://ssrn.com/abstract=3411623 8 
+ 
+proposition is actually true or false, one or the other. In this black-and-white world, 
+probability of truth, p, provides the chance of the fact being somehow revealed as 
+true. Moreover, the probability of the fact being revealed as false is the complement, 
+1−p.  This  bivalence  assumption  pays  off,  in  that  classical  logic  and  traditional 
+probability turn out to be a very useful oversimplifications—but ones that give wrong 
+answers around the edges of their assumptions. 
+The cure for those mistakes lies in deploying a more general logic system. 
+Many  different  systems  of  logic  exist,  chosen  for  effectiveness  in  the  particular 
+setting. The way a logician creates a logical system is to assume a set of “genuine 
+logical truths” that provide a basic representation of the world;30 then stipulate a 
+small  but  adequate  group  of  “operators,”  such  as  conjunction,  disjunction,  and 
+negation, that suffice to generate an internally sound and complete logic system;31 
+and finally test the system to see if it produces “genuine logical consequences” that 
+make pragmatic sense of our world to us.32 Nonclassical logic may look and sound 
+much like standard logic, but it has altered some classical assumptions (and so 
+requires slightly different operators, as we shall see). Most commonly, newer versions 
+of logic reject the assumption of bivalence. Multivalent logic, which is a family of 
+versions of special interest to law, does not assume bivalence and therefore accepts 
+that a fact can be both believed and disbelieved.33 It allows a proposition to be 
+                                                
+logic and observing: “This multivalent form of logic boldly declines the simplification offered by two-
+valued, or bivalent, logic built on a foundation of true/false with an excluded middle. It instead 
+recognizes partial truths. Both a proposition and its opposite can be true to a degree.”); Clermont, 
+supra note 20, at ___ nn.20–22, ___ n.100 (comparing and contrasting the principle of bivalence with 
+the law of the excluded middle).  
+30 See THEODORE SIDER, LOGIC FOR PHILOSOPHY 2, 72–73 (2010) (“One can infer a logical truth by 
+using logic alone, without the help of any premises.”). 
+31 See id. at 9–11, 25, 35–37, 67–80 (“Say that a set of connectives is adequate iff all truth functions 
+can be symbolized using sentences containing no connectives not in that set.”). 
+32 See id. at 1–2, 4–9, 72–73 (“There are many reasons to get interested in nonclassical logic, but 
+one exciting one is the belief that classical logic is wrong—that it provides an inadequate model of 
+(genuine) logical truth and logical consequence.”). 
+33 See generally GRAHAM PRIEST, AN INTRODUCTION TO NON-CLASSICAL LOGIC: FROM IF TO IS (2d 
+ed. 2008); Siegfried Gottwald, Many-Valued Logic, in STANFORD ENCYCLOPEDIA OF PHILOSOPHY 
+(Edward N. Zalta ed., 2015), https://plato.stanford.edu/entries/logic-manyvalued/; cf. MARK HELPRIN, 
+PARIS IN THE PRESENT TENSE 184 (2017) (“[A] paradox was more the statement of two contradictory 
+propositions, both of which, nevertheless, were true. That two contending propositions could be correct 
+was for Jules rather easy to accept in that it was an almost ordinary facet of music, and part of what 
+gave music its escape from worldly friction in its ability to embrace even the starkest contradictions.”); 
+MICHEL DE MONTAIGNE, THE COMPLETE WORKS OF MICHAEL DE MONTAIGNE 289 (William Hazlitt ed., 
+London, Reeves & Turner 1877) (“We are, I know not how, double in ourselves, so that what we believe 
+we disbelieve . . . .”). 
+ Electronic copy available at: https://ssrn.com/abstract=3411623 9 
+ 
+perceived as true to a degree, taking some value between 0 and 1. Classical logic is 
+then a special case of multivalent logic, usable when values can exist only as 0 or 1.  
+The easiest examples of the effectiveness of multivalent logic come from vague 
+terms like “tall.”34 In a bivalent world, with crisp terminology, a person would be 
+either tall or not. With multivalence, we can describe a person as exhibiting a degree 
+of tallness. But multivalent logic is in no way limited to vagueness.35 It can handle 
+any sort of variable, from vague concepts all the way to sureness about the truth of a 
+past fact. Such past facts otherwise would have to be treated as yes/no—even though 
+they actually appear to the investigator not as true or false, but instead as something 
+falling between completely true and completely false.  
+What does “tall” have in common with whether the light was red? Both are 
+unknowable  with  precision.  The  limits  on  natural  language  and  on  human 
+perceptions sometimes impede us in describing, and indeed in thinking about, a 
+person.36 Meanwhile, the past cannot be retrieved perfectly, because once an event 
+passes  into  the  past  it  becomes  inaccessible. 37  These  are  different  kinds  of 
+uncertainty, but they both keep us from perfect knowledge in the classical sense. The 
+power of multivalent logic lies in its giving us a measure for expressing all the 
+different kinds of uncertainty, that is, giving us a common measure of how far we fall 
+short of perfect knowledge. 
+In other words, even for a past event, one can express a multivalent degree of 
+truth, just as one can vaguely express tallness. Without sleight of hand and with full 
+allegiance to logic, we can reject bivalence in favor of multivalence for the purposes 
+of  factfinding.  Legal  factfinding  should  aim  to  measure  a  partial  conviction  as 
+established by the evidence, instead of measuring the probability of bivalent truth. 
+The factfinder adjudges facts as partly true and partly false. Thus, as shown in my 
+prior writing, the law can, should, and does use multivalent logic for factfinding.  
+                                                
+34 See Roy Sorensen, Vagueness, in STANFORD ENCYCLOPEDIA OF PHILOSOPHY (Edward N. Zalta 
+ed., 2018), https://plato.stanford.edu/entries/vagueness/ (saying that “a term is vague to the extent that 
+it has borderline cases”). 
+35 See Radim Bělohlávek, George J. Klir, Harold W. Lewis III & Eileen Way, On the Capability of 
+Fuzzy Set Theory to Represent Concepts, 31 INT’L J. GEN. SYS. 569, 575 (2002) (stressing the reach of 
+fuzzy logic, which is a type of multivalent logic). 
+36 See BERTRAND RUSSELL, The Philosophy of Logical Atomism, in LOGIC AND KNOWLEDGE 175, 
+180 (Robert Charles Marsh ed., 1956) (“Everything is vague to a degree you do not realize till you have 
+tried to make it precise, and everything precise is so remote from everything that we normally think, 
+that you cannot for a moment suppose that is what we really mean when we say what we think.”); 
+Bertrand  Russell,  The  Philosophy  of  Logical  Atomism,  28  MONIST 495,  511–12,  517–18  (1918) 
+(extending his point, in lecture 2, to the word “Piccadilly”). 
+37 See RICHARD A. MULLER, THE PHYSICS OF TIME (2016) (developing a theory that time, like space, 
+is expanding and that “now” is the leading edge of the new time).  
+ Electronic copy available at: https://ssrn.com/abstract=3411623 10 
+ 
+2.  Belief Degrees 
+The critical step in my argument, and thus a step that I have defended at 
+length in my prior work, is speaking in terms of beliefs, or rather degrees of belief.38 
+The multivalent degree of belief measures the strength of belief in the truth of the 
+fact. The factfinder can withhold part of its belief, leaving belief uncommitted to an 
+extent  dependent  on  the  amount,  nature,  and  quality  of  the  evidence.  The 
+uncommitted belief represents uncertainty. That uncertainty can represent more 
+kinds of uncertainty than the aleatory uncertainty of a system that behaves in 
+random  ways,  which  traditional  probability  expresses.  Uncommitted  belief  can 
+additionally reflect the epistemic uncertainties coming from the ignorance produced 
+by  incomplete,  inconclusive,  ambiguous,  or  dissonant  evidence  and  from  the 
+indeterminacy produced by the vagueness of our concepts and expressed perceptions 
+of the real world or even by metaphysical undecidability.39 Traditional probability 
+simply ignores these additional kinds of uncertainty. 
+Speaking in terms of degrees of belief does not mean that the law is accepting 
+a quasi-belief in lieu of truth.40 Truth still matters. The law simply recognizes that a 
+multivalent degree of belief in truth is the best it can do, or rather that such a belief 
+is the best representation of what the factfinder actually produces. Although such a 
+belief does not require absolute truth, it is still not a New Age idea or a subjective 
+sensation. 41  It  is  neither  firm  knowledge  nor  a  squishy  personal  feeling.  A 
+                                                
+38 See Franz Huber, Belief and Degrees of Belief, in DEGREES OF BELIEF 1, 1 (Franz Huber & 
+Christoph Schmidt-Petri eds., 2009) (exploring generally the new thinking on degrees of belief, and 
+saying: “Degrees of belief formally represent the strength with which we believe the truth of various 
+propositions. . . . For instance, Sophia’s degree of belief that it will be sunny in Vienna tomorrow might 
+be .52, whereas her degree of belief that the train will leave on time might be .23. The precise meaning 
+of these statements depends, of course, on the underlying theory of degrees of belief.”); cf. SUSAN 
+HAACK, Epistemology and the Law of Evidence: Problems and Projects, in EVIDENCE MATTERS: 
+SCIENCE, PROOF, AND TRUTH IN THE LAW 1, 13 (2014) (describing her epistemology as “gradational,” 
+resulting in degrees of “warranted belief”); Eric Schwitzgebel, Belief, in STANFORD ENCYCLOPEDIA OF 
+PHILOSOPHY § 2.4 (Edward N. Zalta ed., 2015), https://plato.stanford.edu/entries/belief/ (describing 
+degrees of belief, but failing to account for uncommitted belief).  
+39 On the types of uncertainty, see CLERMONT, supra note 21, at 148–49, 153–54, 159–66; Didier 
+Dubois & Henri Prade, A Unified View of Uncertainty Theories (unpublished manuscript Mar. 7, 
+2012), available at http://legal1.cit.cornell.edu/private/Dubois & Prade.pdf. 
+40 For the philosophical foundation of beliefs, see Clermont, supra note 20, at ___ 11–17 (tracking 
+from the correspondence theory for thought and reality, down to a measurement of the degree of 
+sureness about the state of the real world as represented by evidence). 
+41 See GLENN SHAFER, A MATHEMATICAL THEORY OF EVIDENCE 20 (1976) (defining the factfinder’s 
+belief as an act of judgment “that represents the degree to which he judges that evidence to support a 
+given proposition and, hence, the degree of belief he wishes to accord the proposition”); Glenn Shafer, 
+The  Construction  of  Probability  Arguments,  66  B.U. L. REV.  799,  801–04  (1986)  (developing  a 
+constructive interpretation of probabilistic reasoning that is neither too objective nor too personalistic). 
+But compare DAVID CHRISTENSEN, PUTTING LOGIC IN ITS PLACE 12–13, 69 (2004) (saying that some use 
+ Electronic copy available at: https://ssrn.com/abstract=3411623 11 
+ 
+multivalent degree of belief is instead the factfinder’s attempt to express its degree 
+of sureness about the state of the real world as represented by the evidence put before 
+it by a reasonable process.42 
+Let me be clearer about the proper interpretation of belief. A factfinder’s belief 
+in a fact is the degree to which the factfinder considers the fact to have been proven, 
+measured on a scale running from no-proof-at-all to a fully proven, and hence fully 
+believed, fact. Given imperfect evidence, the factfinder will retain some degree of 
+belief as uncommitted. That retained belief does not equate to a belief the fact is false, 
+but simply measures the degree to which the fact has not been proven. I can further 
+clarify by contrasting belief to probability. By “probability,” I am referring to any 
+system conforming to Kolmogorov’s axiomatization.43 All such systems are giving the 
+                                                
+“belief” as an unqualified or categorical assertion of an all-or-nothing state of belief), with L. Jonathan 
+Cohen, Should a Jury Say What It Believes or What It Accepts?, 13 CARDOZO L. REV. 465, 479 (1991) 
+(using “belief,” for his purposes, in the sense of a “passive feeling,” and arguing that factfinders should 
+deal instead in acceptance), and Jordi Ferrer Beltrán, Legal Proof and Fact Finders’ Beliefs, 12 LEGAL 
+THEORY 293, 294 (2006) (saying that “the proof of p should be explained in terms of its acceptability 
+(and not simply of its acceptance)”). 
+42 See SUSAN HAACK, Legal Probabilism: An Epistemological Dissent, in EVIDENCE MATTERS: 
+SCIENCE, PROOF, AND TRUTH IN THE LAW 47, 54 (2014) (“[The] standards of proof should be understood, 
+not as a simple psychological matter of the degree of jurors’ belief, but as primarily an epistemological 
+matter, the degree of belief warranted by the evidence.”); Leonard R. Jaffee, Of Probativity and 
+Probability: Statistics, Scientific Evidence, and the Calculus of Chance at Trial, 46 U. PITT. L. REV. 
+925, 937 (1985) (saying that the preponderance standard “is intended to assure that the factfinder will 
+not believe an assertion of fact without evidence adequate in logic and experience to support the belief”). 
+43 See  Hájek,  supra  note  28,  §  1  (listing  the  axioms  of  nonnegativity,  normalization,  and 
+additivity). Of course, some probabilists have perceived the problem of epistemic uncertainties and so 
+have adjusted their approach to create so-called logical probability, which includes or at least borders 
+on inductive probability and epistemic probability. Here falls the brilliant work of Keynes and Carnap, 
+see id. § 3.2 (“Indeed, the logical interpretation, in its various guises, seeks to encapsulate in full 
+generality the degree of support or confirmation that a piece of evidence E confers upon a given 
+hypothesis H . . . .”), as well as the theory of imprecise probabilities, see Seamus Bradley, Imprecise 
+Probabilities,  in  STANFORD  ENCYCLOPEDIA  OF  PHILOSOPHY  §  1  (Edward  N.  Zalta  ed.,  2019), 
+https://plato.stanford.edu/entries/imprecise-probabilities/  (“Among  the  reasons  to  question  the 
+orthodoxy, it seems that the insistence that states of belief be represented by a single real-valued 
+probability function is quite an unrealistic idealization . . . .”). Yet, unless bivalence is jettisoned, these 
+theories require mental gymnastics that go far beyond the capabilities of the law and its factfinders. 
+See, e.g., supra note 28 (alluding to the difficulties of applying Jonathan Cohen’s inductive logic); infra 
+note 108 (discussing the difficulties of deriving the principle of conjunctive closure). Nonetheless, with 
+great effort, one can arrive at multivalent logic’s conclusions through use of logical probability. See, 
+e.g., Brian Weatherson, From Classical to Intuitionistic Probability, 44 NOTRE DAME J. FORMAL LOGIC 
+111, 112 (2003) (arguing, “where we have little or no evidence for or against p, it should be reasonable 
+to have low degrees of belief in each of p and ¬p”); cf. COHEN, supra note 28, at 89–91, 220–22, 265–67 
+(concluding that the conjunction of two or more propositions has the same inductive probability as the 
+least likely conjunct, but more avowedly abandoning probability’s axioms to do so). This point is 
+majorly significant. Many readers cannot migrate to multivalent logic, or do not wish to do so. They 
+do not have to do so in order to agree with this Article’s conclusions. But they will have to engage 
+ Electronic copy available at: https://ssrn.com/abstract=3411623 12 
+ 
+odds of truth, p, with the necessary implication that the odds of falsity are 1−p. By 
+“traditional probability,” I am referring to those probability interpretations that most people 
+think of as probability, that is, the classical, frequentist, and subjective versions.44 These 
+interpretations of probability have a suggestive air of frequentism about them, so that 
+60% probability means that in a hundred trials, the outcome will be 1 sixty times and 
+the outcome will be 0 forty times. Although subjective accounts of probability resort 
+to the image of willingness to bet, even they carry the same implication that all 
+propositions are true or false, with no room for epistemic uncertainties, so that the 
+odds of truth and falsity add to one. 
+Why do I say that a belief is what the legal factfinder actually produces, rather 
+than a truth or even a probability? First, any claimed fact that the law decides to 
+subject to a proof process is not susceptible to being viewed as certainly, or even 
+almost certainly, true or false. The system otherwise would just take the fact as a 
+given. Second, the factual dispute is “unsettlable,” or unknowable.45 There will be no 
+miraculous revelation of truth at the end. Third, traditional probabilities do not tell 
+the law anything of interest. Why should the law care that the factfinder would view 
+the odds as 60/40, if forced to bet on very weak evidence? Fourth, analyzing in terms 
+of probability presents all sorts of logical and practical problems.46 A big hurdle, right 
+at the outset, is that probabilities do not capture how humans think of facts.47 Fifth, 
+beliefs are a more natural way for human factfinders to think than are probabilities. 
+They ask themselves whether they believe a party, not what odds they would a 
+demand on a feigned bet. Sixth, beliefs also fit better with the law’s purposes and 
+words. The law asks for only the sureness measure of the factfinder’s beliefs, a 
+conviction rendered with a sharp sense of what the factfinder does not know.48 
+Seventh, the law of proof makes sense in terms of beliefs, while using traditional 
+probabilities would render the existing law nonsensical. The factfinder should deliver 
+                                                
+probability at a deeper level than traditional probably, which is just too simplistic for the task of 
+describing the processing of evidence. 
+44 See Hájek, supra note 28, § 3.1 (“The guiding idea [of classical probability] is that in such 
+circumstances, probability is shared equally among all the possible outcomes, so that the classical 
+probability of an event is simply the fraction of the total number of possibilities in which the event 
+occurs.”), § 3.3.2 (“Your degree of [subjective] belief in E is p iff p units of utility is the price at which 
+you would buy or sell a bet that pays 1 unit of utility if E, 0 if not E.”), § 3.4 (“[T]he probability of an 
+attribute A in a finite reference class B is the relative frequency of actual occurrences of A within B.”). 
+45 COHEN, supra note 28, at 91. 
+46 See Clermont, supra note 20, at ___ 3-6, 50-51 (contrasting traditional probability unfavorably 
+with multivalent logic). 
+47 See CLERMONT, supra note 21, at 68–75 (explaining why humans perform probabilistic tasks 
+quite weakly). 
+48 See Clermont, supra note 20, at ___, ___ 5-6, 27 (“The law is looking for some sort of conviction 
+on the part of its factfinders, not a probability.”). 
+ Electronic copy available at: https://ssrn.com/abstract=3411623 13 
+ 
+a belief rather than a misleading probability for betting on having divined the “real” 
+truth.  
+Unarguably,  beliefs  and  probabilities  both  exist.  But  they  are  different 
+measures, as can be shown by thinking about how the factfinder would shift from a 
+multivalent view to a bivalent view. Assume the factfinder has formed an uncertain 
+degree of belief. Even with very little information in hand, the factfinder could bet on 
+the truth. To do so, the factfinder needs the odds of having uncovered the truth, 
+assuming that there were a way to discern the certain truth. To get the odds, the 
+factfinder must allocate its belief between the two possible outcomes of true and false. 
+The allocation would require performing some contestable transform from the credal 
+(or belief) stage to the pignistic (or betting) stage.49 Rather than leaving some belief 
+uncommitted, the factfinder must commit more belief to p and more belief to 1−p.50 
+Beliefs and probabilities therefore differ in magnitude, with the former being smaller 
+than the latter. Yet taking this extra step of calculating the probability would add 
+nothing of value to the factfinder’s belief in the fact. Indeed, that extra step would 
+lose the sense of those uncertainties that traditional probability ignores.  
+Now, let me be clearer about the kinds of decisions for which beliefs are the 
+appropriate  measure.  The  distinction  is  certainly  not  legal  versus  nonlegal 
+decisionmaking. In daily life, some decisions about future events rest on traditional 
+probabilities (should I carry an umbrella today?) and some should employ beliefs 
+(should  I  buy  a  gun  for  self-protection?—a  decision  that  involves  combining 
+contestable evidence with imprecise values and that thus prevents the conscientious 
+decisionmaker from allocating all belief on each factor to either true or false, unlike 
+the  umbrella  decision  that  is  dominated  by  simple  probabilities).  Nor  is  the 
+distinction  between  legal  factfinding  and  other  legal  decisions.  In  law  outside 
+factfinding sensu stricto, some decisions rest on probabilities (should the court grant 
+a preliminary injunction in light of predictions of expected costs?) and some involve 
+                                                
+49 See Barry R. Cobb & Prakash P. Shenoy, A Comparison of Methods for Transforming Belief 
+Function Models to Probability Models, in SYMBOLIC AND QUANTITATIVE APPROACHES TO REASONING 
+WITH UNCERTAINTY, 7TH EUROPEAN CONFERENCE 255 (Thomas Dyhre Nielsen & Nevin Lianwen Zhang 
+eds., 2003) (surveying several transform methods); Rolf Haenni, Non-Additive Degrees of Belief, in 
+DEGREES OF BELIEF 121, 129 (Franz Huber & Christoph Schmidt-Petri eds., 2009) (discussing betting 
+probabilities);  Philippe  Smets,  Decision  Making  in  the  TBM:  The  Necessity  of  the  Pignistic 
+Transformation,  38  INT’L  J.  APPROXIMATE  REASONING  133  (2005)  (discussing  difficulties  of  the 
+transform); cf. Nicholas J.J. Smith, Degree of Belief Is Expected Truth Value, in CUTS AND CLOUDS: 
+VAGUENESS, ITS NATURE, AND ITS LOGIC 491, 503–05 (Richard Dietz & Sebastiano Moruzzi eds., 2010) 
+(discussing the transform as applied to vague concepts). For example, normalization will scale up the 
+belief and the disbelief proportionately so that together they add to one. 
+50 See Huber, supra note 38, at 11 (“Subjective probabilities require the epistemic agent to divide 
+her knowledge or belief base into two mutually exclusive and jointly exhaustive parts: one that speaks 
+in favor of A and one that speaks against A. That is, the neutral part has to be distributed among the 
+positive and negative parts. Subjective probabilities can thus be seen as [Dempster-Shafer] belief 
+functions without ignorance.”). 
+ Electronic copy available at: https://ssrn.com/abstract=3411623 14 
+ 
+beliefs  (should  we  give  a  remedy  that  depends  on  whether  a  violation  of  some 
+procedural law occurred and whether it affected outcome?). For legal factfinding 
+alone, other distinctions—such as unsettlable or unknowable facts rather than facts 
+that will be eventually revealed, or past versus future facts, or vague versus crisp 
+facts—are suggestive but remain under- or over-inclusive. The real test is whether 
+for  the  sake  of  accuracy  the  decisionmaker  needs  to  keep  track  of  epistemic 
+uncertainties in addition to any aleatory uncertainty. Traditional probability ignores 
+epistemic ignorance resulting from imperfect evidence and ignores indeterminacy 
+resulting from vagueness or the like, but multivalent beliefs retain a measure of 
+epistemic uncertainties in the form of uncommitted belief. Legal factfinders must 
+hold all uncertainties in mind, because their task requires combination of findings. I 
+can further clarify by contrasting beliefs with decisions where the law wants to 
+disregard epistemic uncertainties. An example of the latter would be when a court is 
+reviewing  a  jury’s  factfinding.  There  we  do  not  expect  the  reviewer  to  retain 
+uncommitted belief in applying the standard of review. The “evidence” for applying 
+the standard is complete, in that the question is error in deciding the case put before 
+the jury. We want from the reviewer a yes/no answer based on the odds of jury error 
+in finding for winner, with the complement being the probability of jury correctness 
+in finding for that side. We do not want the reviewer’s belief. 
+In other words, the choice for law’s focus when factfinding comes down to 
+bivalent  probability  of  truth  versus  multivalent  belief  in  truth.  Placing  bets  or 
+flipping coins is different from finding facts. My prior writing contended that the legal 
+theory of proof was never meant to deal with the betting odds of discovering truth 
+with certainty, which is all that traditional probability can deliver; the theory of proof 
+instead operates with multivalent degrees of belief. The legal factfinder can, should, 
+and does express its views of triable facts as degrees of belief. (P.S.: This position on 
+factfinding—think of beliefs, not odds—does not rest on anti-probabilist prejudice. 
+Traditional probabilities have many other roles to play properly in legal proof, as in 
+the handling of statistical evidence. Rather, this position rests simply on the view 
+that  traditional  probability’s  proper  roles  do  not  include  measuring  sureness  in 
+finding uncertain facts.) 
+3.  Belief Functions 
+Belief function theory is a version of multivalent logic, developed by Professor 
+Glenn  Shafer,  that  allows  imaging,  evaluating,  and  combining  beliefs  and  also 
+accounts well for uncertainty.51 The theory’s key insights are that given imperfect 
+evidence, (1) a degree of belief can coexist with a degree of disbelief produced by the 
+                                                
+51 The theory of belief functions received formalization and elaboration in 1976 from Shafer, then 
+a professor of statistics at Princeton, who built on earlier work by Harvard’s Arthur P. Dempster. See 
+SHAFER, supra note 41, at 20 (treating “evidence” in a much broader sense than legal evidence); Glenn 
+Shafer, Perspectives on the Theory and Practice of Belief Functions, 4 INT’L J. APPROXIMATE REASONING 
+323 (1990) (summarizing, simplifying, and updating his theory). 
+ Electronic copy available at: https://ssrn.com/abstract=3411623 15 
+ 
+evidence, that is, a belief in the contradiction of the fact, and (2) the factfinder can 
+leave some of its belief uncommitted when forming some degree of belief the fact is 
+true and some degree of belief that the fact is false. For example, a thinking religious 
+person would not calculate odds, but instead would strive to generate a belief that 
+overcomes disbelief while retaining a sense of the unknown. For another example, I 
+contend  that  a  civil  factfinder—rather  than  calculating  an  all-or-nothing 
+probability—can, should, and does proceed in just this way: the factfinder forms a 
+degree of belief and a degree of disbelief, but retains a sense of uncertainty; the 
+factfinder would say that, given this evidence, it believes one side’s position more 
+than or as much as the other side’s, although it remains quite unsure; the factfinder 
+would not take the extra step of saying, “I would wager at such-and-such odds if forced 
+to bet in this sea of uncertainty.”  
+After the factfinder processes the evidence, a belief in a fact called a can range 
+anywhere between 0 and 1. Likewise, belief in not-a, which is disbelief of a or, 
+equivalently, an active belief in a’s contradiction, falls between 0 and 1. The force of 
+the  parties’  presentations,  including  avoidable  or  otherwise  probative  defects  in 
+evidence,52 will affect the degree of belief in a and in not-a. Also, given incomplete, 
+inconclusive, ambiguous, or dissonant evidence, the factfinder should retain some 
+belief as uncommitted. Thus, in factfinding, we ask how much the factfinder believes 
+a to be a real-world truth based on the evidence, as well as how much it believes not-
+a—while it remains conscious of ignorance and indeterminacy, and so recognizes that 
+part of belief will remain uncommitted as a nonbelief.53 In other words, a belief and 
+the belief in its contradiction will normally add to less than one. 
+                                                
+52 See Kevin M. Clermont, Standards of Proof Revisited, 33 VT. L. REV. 469, 480–81 (2009) (“[T]he 
+common-law fact-finder is not supposed to hold an unavoidable paucity of evidence against the 
+burdened party, but is instead in such a situation supposed to decide the likelihood based on the 
+evidence.” (emphasis added)). An avoidable or otherwise probative gap in evidence would best be 
+treated as an item of evidence itself, generating a chain of inferences that supports or undermines the 
+element. 
+53 See Liping Liu & Ronald R. Yager, Classic Works of the Dempster-Shafer Theory of Belief 
+Functions:  An  Introduction,  in  CLASSIC  WORKS  OF  THE  DEMPSTER-SHAFER  THEORY  OF  BELIEF 
+FUNCTIONS 1, 3–4 (Ronald R. Yager & Liping Liu eds., 2008) (describing uncommitted belief); Hans 
+Rott, Degrees All the Way Down: Beliefs, Non-Beliefs and Disbeliefs, in DEGREES OF BELIEF 301, 302 
+(Franz  Huber  &  Christoph  Schmidt-Petri  eds.,  2009)  (calling  uncommitted  belief  a  nonbelief); 
+Rajendra P. Srivastava & Glenn R. Shafer, Belief-Function Formulas for Audit Risk, in CLASSIC 
+WORKS OF THE DEMPSTER-SHAFER THEORY OF BELIEF FUNCTIONS 577, 581 (Ronald R. Yager & Liping 
+Liu eds., 2008) (“Belief functions . . . permit uncommitted belief . . . .”). 
+ Electronic copy available at: https://ssrn.com/abstract=3411623 16 
+ 
+ 
+FIGURE 2: BELIEF FUNCTION 
+To illustrate by Figure 2, let a, say, that Katie is dead, be a required finding 
+on a factual proposition.54 Any case starts with the whole range of belief standing as 
+uncommitted. The proper representation of lack of proof is zero belief in the plaintiff’s 
+position—but also zero belief in the defendant’s position. As the plaintiff introduces 
+proof, some of the factfinder’s uncommitted belief should start to convert into a degree 
+of belief in a’s existence, and almost inevitably the plaintiff’s proof will also have the 
+inadvertent effect of generating an active belief in at least the slightest possibility of 
+its nonexistence, namely, that Katie is alive. The zone between Bel(a) and Bel(not-a) 
+represents  the  remaining  uncommitted  belief.  If  the  defendant  next  introduces 
+effective proof to reduce the belief in a, whether the proof comes in the form of 
+negation or as part of an alternative and inconsistent account, the degree of active 
+belief in a’s nonexistence would presumably grow. Or the very clash of beliefs could 
+diminish the degrees of belief in both a and not-a. 
+When we say after evidence processing that Bel(a) = 0.40, we are not saying 
+that Bel(not-a) = 0.60. We are saying only that the proof is such that to a degree of 
+0.60, which could represent uncommitted belief in part or in whole, a has not been 
+proven to be true. Imperfect evidence means that some of the belief will remain 
+uncommitted, with the rest of the belief divided between Bel(a) and Bel(not-a). So, 
+the belief in a’s falsity would be smaller than 1−Bel(a) = 0.60. In Figure 2, Bel(not-a) 
+= 0.20. Hence, there is a big difference between the complement of a and the belief in 
+                                                
+54 The whole image in Figure 2 is a “belief function.” The constituent degrees of belief and disbelief 
+are  represented  by  Bel(a)  and  Bel(not-a).  See  SHAFER,  supra  note  41,  at  5–7.  The  competing 
+probabilists’ image, the one that I am rejecting, would be something like this: 
+ 
+ Electronic copy available at: https://ssrn.com/abstract=3411623 17 
+ 
+the contradiction of a, the difference being the uncommitted belief.55 After all, a lack 
+of belief and a disbelief are entirely different states of mind.56 
+Beliefs can alternatively be expressed in set theory.57 A belief becomes a degree 
+of membership in the set of fully believed facts, namely, the belief function’s lower 
+bound, which is termed a “necessity.” The unallocated zone between a belief of Bel(a) 
+and the belief in its contradiction of Bel(not-a) represents uncommitted belief owing 
+to  uncertainty.  The  belief  function’s  upper  bound,  which  demarks  disbelief, 
+represents a’s “possibility”; it is the extent to which the factfinder thinks a is possible 
+                                                
+55 Parenthetically, amidst all these decimals, bear in mind that one need not quantify beliefs in 
+order to work with them, and indeed usually one should not. Because all the factfinder usually needs 
+to do is compare the strengths of belief and disbelief, the factfinder need almost never place the fact 
+on a quantified scale of likelihood. Even if one desired to quantify a particular proposition, given 
+humans’ limited ability to evaluate likelihood, one should quantify the belief only in words drawn from 
+a coarsely gradated scale of likelihood, rather than speaking in misrepresentative terms of decimals. 
+See Clermont, supra note 20, at ___ (providing such a scale). This scale shows why, when the factfinder 
+finds Bel(a) > Bel(not-a), it is not drawing a fine line or making a close call, but rather saying that the 
+degree of belief is at least a whole step upward in likelihood from its degree of disbelief. 
+56 The difference is recognized in FED. R. CIV. P. 11(b)(4), which authorizes denials that, “if 
+specifically so identified, are reasonably based on belief or a lack of information.” Such a pleading 
+would be appropriate when the pleader has sufficient information to form a substantial lack of belief 
+in the truth of the opponent’s position, but does not feel comfortable asserting that the negative is true. 
+See Boykin v. KeyCorp, 521 F.3d 202, 215 (2d Cir. 2008) (approving such pleading when facts are not 
+within the knowledge of the pleader). 
+57 See Huber, supra note 38, at 10–15 (discussing the use of possibility theory for this purpose). 
+For an introduction to possibility theory, which builds a bridge between belief functions and fuzzy 
+logic,  see  Didier  Dubois  &  Henri  Prade,  Possibility  Theory,  in  SCHOLARPEDIA  (2007), 
+http://www.scholarpedia.org/article/Possibility_theory (explaining that possibility theory turns on an 
+upper and lower probability called possibility and necessity, respectively). It is important to note that 
+belief function theory is basically consistent with possibility theory, as well as with possibility theory’s 
+progenitor fuzzy logic. All these logic systems are consistent, being alternative versions of multivalent 
+logic. See Didier Dubois & Henri Prade, A Set-Theoretic View of Belief Functions: Logical Operations 
+and Approximations by Fuzzy Sets, in CLASSIC WORKS OF THE DEMPSTER-SHAFER THEORY OF BELIEF 
+FUNCTIONS 375, 403 (Ronald R. Yager & Liping Liu eds., 2008) (linking belief functions and fuzzy sets); 
+Dale A. Nance, Formalism and Potential Surprise: Theorizing About Standards of Proof, 48 SETON 
+HALL L. REV. 1017, 1036–37 (2018) (using possibility theory to untangle the conjunction paradox); Ron 
+A. Shapira, Economic Analysis of the Law of Evidence: A Caveat, 19 CARDOZO L. REV. 1607, 1614 (1998) 
+(“In the legally relevant literature, it was Professor Glenn Shafer who introduced fuzzy measures as 
+appropriate formalizations of epistemic functions.”); L.A. Zadeh, Fuzzy Sets as a Basis for a Theory of 
+Possibility, 1 FUZZY SETS & SYS. 3 (1978) (deriving possibility theory from fuzzy sets); Lotfi A. Zadeh, 
+Book Review, AI MAG., Fall 1984, at 81, 83 (treating belief function theory as a version of fuzzy logic’s 
+possibility theory); cf. DAVID A. SCHUM, THE EVIDENTIAL FOUNDATIONS OF PROBABILISTIC REASONING 
+266–69 (1994) (observing that one can fuzzify belief functions); John Yen, Generalizing the Dempster-
+Shafer  Theory  to  Fuzzy  Sets,  in  CLASSIC WORKS OF THE DEMPSTER-SHAFER THEORY OF BELIEF 
+FUNCTIONS 529 (Ronald R. Yager & Liping Liu eds., 2008) (showing how to form beliefs about 
+membership in fuzzy sets). 
+ Electronic copy available at: https://ssrn.com/abstract=3411623 18 
+ 
+or entertainable, that is, the sum of the affirmative belief plus the uncommitted 
+belief; possibility equals one minus disbelief.58 
+B. Way Forward 
+To summarize, the finding of facts firstly breaks down into three stages: the 
+fact-gathering stage, the evidence-presenting stage, and the decisionmaking stage. 
+The present focus is the third, mental stage. Next, that stage comprises a processing 
+phase and an evaluating phase. The present focus is the processing phase, rather 
+than the application of the standard of proof.  
+This Article will now contend that there are three steps in the logic of the 
+factfinder’s processing of evidence: (1) reasoning inferentially from a piece of evidence 
+to a degree of belief and of disbelief in the element, where “element” means a fact 
+necessary for a claim or defense to succeed under the substantive law; (2) aggregating 
+pieces of evidence that all bear to some degree on one element in order to form a 
+composite degree of belief and of disbelief in the element; and (3) considering the 
+series of elemental beliefs to reach a decision. The three Parts of this Article will treat 
+those three steps. 
+I.  INFERENCE FROM PIECE OF EVIDENCE TO ELEMENT 
+A. Mental Process 
+The place for anyone to begin understanding the logical processing of evidence 
+by the factfinder is the marvelous book Analysis of Evidence.59 In it, Professors 
+Anderson, Schum, and Twining break down the mental process in finding facts.60 
+They explain that “inferences” are the mental steps in connecting a piece of evidence 
+to the fact to be proved. Each inference progresses toward proof by invoking an 
+inductively derived “generalization” that implies the next step deductively. “Ancillary 
+considerations” are the evidence and understandings that refine each generalization. 
+Finally, we can continue to call the fact that must be proved an element, or a so-called 
+                                                
+58 See Jeffrey A. Barnett, Computational Methods for A Mathematical Theory of Evidence, in 
+CLASSIC WORKS OF THE DEMPSTER-SHAFER THEORY OF BELIEF FUNCTIONS 197, 200–01 (Ronald R. 
+Yager & Liping Liu eds., 2008) (providing a neat mental image for these bounds); A.P. Dempster, 
+Upper and Lower Probabilities Induced by a Multivalued Mapping, 38 ANNALS MATHEMATICAL STAT. 
+325  (1967)  (providing  the  mathematical  proof  for  upper  and  lower  bounds).  In  belief  function 
+terminology, “possibility” is often phrased as “plausibility.” See SCHUM, supra note 57, at 236 (using 
+the phrase “plausibility” in place of “possibility”). 
+59 ANDERSON ET AL., supra note 2. 
+60 See id. chs. 3–4 (treating “principles of proof” and “methods of analysis”). 
+ Electronic copy available at: https://ssrn.com/abstract=3411623 19 
+ 
+probandum. If what some legal source calls an element actually entails separate and 
+necessary facts, each of those facts should be treated as an element for our purposes. 
+The authors then inject these concepts into Wigmore’s celebrated charts for 
+evidential analysis.61 Their expanded charts soon become incredibly complicated, 
+way too complicated to represent the factfinder’s actual reasoning.62 Moreover, by 
+adhering to traditional probability theory,63 the authors make their analysis much 
+more complicated and opaque than need be. Shifting from their inapt focus on odds 
+to the insight of multivalent beliefs would have made everything simpler and clearer. 
+                                                
+61 See,  e.g.,  JOHN HENRY WIGMORE, THE SCIENCE OF JUDICIAL PROOF, AS GIVEN BY LOGIC, 
+PSYCHOLOGY, AND GENERAL EXPERIENCE, AND ILLUSTRATED IN JUDICIAL TRIALS § 178 (3d ed. 1937). 
+62 See, e.g., ANDERSON ET AL., supra note 2, at 139 (using a palette of symbols to signify all sorts 
+of different evidential influences, while showing just a tiny fragment of a case’s proof by limiting itself 
+to proof of opportunity (6) on the identity probandum (4) in a case of murder (1)): 
+ 
+The authors, however, were trying to represent through “argument visualization” the theoretical 
+analysis by a lawyer in preparing a case, a lawyerly task that benefits from almost any increase in 
+rigor. 
+63 See, e.g., id. at 107 & n.38 (accepting that compound propositions must be believed as less 
+certain than the weakest component), 251, 256–57 (seeming to accept Bayes’ theorem for combining 
+evidence), 103–04, 381 (leaving the conjunction paradox unsolved). Although the authors by their 
+second edition have claimed to be agnostic as to the appropriate logical system, see id. at 250–61, they 
+never abandon traditional probability. See also id. at xx–xxi (discussing the book’s appendix on 
+probability theory).  
+ Electronic copy available at: https://ssrn.com/abstract=3411623 20 
+ 
+The shift would also have finally illuminated the cognitive black box of evidence 
+processing.64 
+So, I can simplify their Wigmorean charts by trying to represent the processing 
+of  evidence  only  from  the  factfinder’s  perspective.  I  want  to  diagram  how  the 
+factfinder should logically link, in a feasible and accurate way, each piece of evidence 
+to the particular element through a series of inferred multivalent beliefs. I do so in 
+Figure 3. A real-life example will come in Figure 4. 
+ 
+FIGURE 3: REPRESENTATION OF INFERENTIAL REASONING 
+ 
+Figure 3 starts at the bottom with a piece of “probative evidence,” so called 
+because it tends to prove or disprove an element in the claim or defense with some 
+weight and credibility. It could be part or all of any evidence, testimonial or real.65 
+                                                
+64 The authors’ allegiance to traditional probability prevents them from ever resolving the 
+logically correct way to combine chained inferences, pieces of evidence, or separate elements—leaving 
+these within the black box. See id. at 106 (“Again putting aside questions concerning the degree of 
+additional strength provided when two propositions converge . . . .”); cf. id. at 103 (“These are questions 
+that Wigmore did not address in any detail.”). 
+65 The evidence could even be statistical. Any such evidence would have to be linked up to the 
+probandum by a chain of inferences, thereby converting into a belief. See FIELD ET AL., supra note 25, 
+at 1512–16 (explaining how a factfinder converts statistical evidence into what I am now calling a 
+ Electronic copy available at: https://ssrn.com/abstract=3411623 21 
+ 
+The piece of probative evidence, E  connects up to the element, P , through a chain 
+1, 1
+of inferences of varying force. The same piece of evidence, if it bears on more than one 
+element, will produce multiple chains.  
+Instead of probative evidence, the book’s authors call E “directly relevant 
+1 
+evidence,”66 but  I  think  “relevant”  adds  nothing  because  irrelevant  evidence  is 
+inadmissible,  while  “direct”  gets  us  unnecessarily  into  the  thicket  of 
+direct/circumstantial evidence.67 The accepted distinction of direct/circumstantial is 
+this: “Direct evidence is evidence which, if believed, resolves a matter in issue,” while 
+for circumstantial evidence, even if “accepted as true, additional reasoning is required 
+to reach the desired conclusion.”68 But others have observed: “Rule No. 1. All evidence 
+is  either  direct  or  circumstantial.  Rule  No.  2.  There  is  no  such  thing  as  direct 
+evidence.”69 The thinking behind Rule No. 2 is that any argument can be further 
+broken down, so that “in reality all evidence is subject to the frailties of circumstantial 
+evidence.”70 Thus, it is best to use direct and circumstantial only as loose terms 
+suggestive of few or many levels of inference. 
+The piece of probative evidence can be positive or negative, building to belief 
+or disbelief, respectively, in the element. Or usually one piece of evidence would add 
+both to the belief and the disbelief. The goal of evidential processing is to use E in 
+1 
+producing a degree of conviction, ranging from 0 to 1, in both a belief and a disbelief 
+in P . Belief and disbelief will undergo comparison at the eventual standard-of-proof 
+1
+phase. 
+The  opponent’s  contradictory  evidence  will  come  in  as  an  ancillary 
+consideration  on  the  proponent’s  chain  of  inferences.  By  contrast,  if  a  piece  of 
+conflicting evidence (that is, one of two items of evidence that could both be true, but 
+that lead to different conclusions) is offered by the opponent, by way of either rival 
+fact or alternative explanation, then a new chain of inferences builds to a belief in 
+                                                
+belief: “After all, rationally converting the statistical evidence into a [belief] represents a substantial 
+task, at least in all but the most fanciful cases. The evidence may have to be connected up with the 
+issue in the individualized case by a series of permissible but uncertain inferences; also, the evidence 
+may have to be discounted for defects in credibility; the probability may have to be adjusted in light of 
+the probative value of the absence of other proof, an effect most often cutting against the proponent.”); 
+Clermont, supra note 29, at 46–48 (discussing combination of statistical and nonstatistical evidence). 
+66 See ANDERSON ET AL., supra note 2, at 62–63 (inventing that term). 
+67 See id. at 76–77 (acknowledging that thicket). 
+68 1 MCCORMICK, supra note 12, § 185, at 1000–01. 
+69 DAVID A. BINDER & PAUL BERGMAN, FACT INVESTIGATION: FROM HYPOTHESIS TO PROOF 77 
+(1984). 
+70 Id. at 79. 
+ Electronic copy available at: https://ssrn.com/abstract=3411623 22 
+ 
+not-P  and the opponent must support each inference, while the other party tries to 
+1
+defeat some of those inferences to create a disbelief in not-P (that is, a belief in P).71 
+1 
+Otherwise, the significance of the probative evidence, E  and the element, P , 
+1, 1
+is apparent. But the middle steps require more explanation, which follows. 
+1.  Inferences 
+In Figure 3, evidence E is linked to the element by a reasoning chain indicated 
+1 
+by inferred propositions E, F, G, and P . The factfinder would formulate the chain by 
+1
+the logical process of abduction, with the lawyers working hard to prod the factfinder 
+into following the most favorable route for their side.72  
+The logical step from proposition to proposition is inference.73 The chain of 
+reasoning  can  be  long,  that  is,  many  inferences  may  lie  between  evidence  and 
+probandum.74 Although chains can be more complex than drawn, they are all subject 
+to the same analysis.75  
+Each of the propositions may be to some degree false and thus create doubt 
+interposed between evidence E  and the element P .76 The doubt could arise because 
+1 1
+the inference rests on a wobbly generalization, which has been further undermined 
+by ancillary considerations that question the generalization’s quality. Accordingly, 
+                                                
+71 On conflicting and contradictory evidence, see ANDERSON ET AL., supra note 2, at 69–70. 
+72 See 5 CHARLES SANDERS PEIRCE, COLLECTED PAPERS OF CHARLES SANDERS PEIRCE: PRAGMATISM 
+AND PRAGMATICISM 106 (Charles Hartshorne & Paul Weiss eds., 3d ed. 1932) (“Abduction is the process 
+of forming an explanatory hypothesis.”). Very similar deconstruction of thought has gone into creating 
+software for intelligence analysis. See, e.g., T. Alan Keahey & Stephen G. Eick, A Visualization 
+Architecture for Intelligence Analysis (SPIE 2004), available at https://doi.org/10.1117/12.539241. The 
+role of abduction is discussed by Diane Cluxton, Stephen G. Eick & Jie Yun, Hypothesis Visualization 
+(IEEE 2004), available at https://ieeexplore.ieee.org/document/1382915. Cf. ANDERSON ET AL., supra 
+note 2, at 56–58 (discussing abduction in fact investigation). 
+73 See 1A O’MALLEY ET AL., supra note 19, § 12:05 (instructing that “inferences are simply 
+deductions or conclusions which reason and common sense lead the jury to draw from the evidence 
+received in the case”).  
+74 See Morgan, supra note 16, at 943–45 (giving an example). On combining these so-called 
+catenate inferences, see ANDERSON ET AL., supra note 2, at 107–08. 
+75 Alternative generalizations supporting an inference seem complex. See SCHUM, supra note 57, 
+at 85 (“These additional linkages involving the elements of argument are extremely important in our 
+attempts to capture a wide array of important and interesting subtleties in evidence.”). If freed from 
+the misleading implications of traditional probability, however, we can collapse the alternatives into 
+a single chain by the MAX rule. The resultant single chain will be the strongest route from evidence 
+to element. See infra text accompanying note 108. Likewise, alternative or disjunctive elements are 
+subject to same treatment. 
+76 ANDERSON ET AL., supra note 2, at 61 (making precisely this point). 
+ Electronic copy available at: https://ssrn.com/abstract=3411623 23 
+ 
+the factfinder must proceed by formulating a belief function for each proposition, as 
+explained next. 
+2.  Generalizations 
+ Generalizations supply justification for each reasoning step upward, so that 
+every  inference  is  founded  upon  a  generalization.  The  factfinder  uses  the 
+generalization to infer from the prior proposition in the chain of reasoning to a 
+posterior proposition. Generalizations commonly are inductive if-then statements 
+that are beliefs about the world. They often rest on a probabilistic assertion, but they 
+always are subject to some question as to their quality and expressible as a degree of 
+belief. The generalization acts as a major premise for deductive, or syllogistic-like, 
+reasoning along these lines (the minor premise is the prior proposition and the 
+conclusion is the posterior proposition): 
+Most [Many?] a’s are b’s 
+X is an a 
+X is likely [might be?] a b. 
+These generalizations can be entered in evidence, or be judicially noticed, to the limits 
+of  the  rules  of  evidence.  Most  are  implicit,  however,  with  their  induction  often 
+occurring intuitively; the factfinder is permitted to bring to bear common knowledge, 
+although  not  personal  knowledge,  in  formulating  generalizations. 77  Obviously, 
+generalizations can be dangerous, especially if implicit and unexpressed.78 They 
+might be speculative in origin or vague in phrasing. They are apt to be value-laden 
+stereotypes drawing on myths and prejudices. In any event, use of generalizations is 
+endemic to inferential reasoning.79 
+The inference is only as strong as the generalization’s strength and accuracy.80 
+It is critical to identify expressly the generalization upon which an inference depends 
+in order to determine the force of the inference and thereby identify the weak points 
+                                                
+77 See J. Alexander Tanford, An Introduction to Trial Law, 51 MO. L. REV. 623, 700 (1986) 
+(distinguishing common experience from personal experience). 
+78 See ANDERSON ET AL., supra note 2, at 276 (using “Generalizations are dangerous” as section 
+heading); Elizabeth Thornburg, (Sub)Conscious Judging, 76 WASH. & LEE L. REV. ___, 3 (forthcoming 
+2019), available at https://ssrn.com/abstract=3350037 (arguing that factfinders are “influenced in their 
+thinking by factors such as heuristics, implicit biases, and cultural cognition”). 
+79 See BINDER & BERGMAN, supra note 69, at 82–89 (discussing inferential reasoning); ALEX STEIN, 
+FOUNDATIONS OF EVIDENCE LAW 96 (2005) (“The generalization factor is not intrinsically problematic 
+. . . . Weight of generalizations that fact-finders use derives from the empirical instances systematically 
+exhibiting the factual pattern that purports to be a generalization. The word ‘systematically’ embraces 
+two criteria: that of number and that of variety. A recurrent factual pattern acquires the generalization 
+status when both the number of its individual instances and their variety increase . . . .”). 
+80 See ANDERSON ET AL., supra note 2, at 264–65 (distinguishing between strength and accuracy 
+of a generalization). 
+ Electronic copy available at: https://ssrn.com/abstract=3411623 24 
+ 
+in the reasoning. A qualified or amorphous generalization might give only weak 
+support to the inference. Indeed, the more cautious and precise and hence accurate 
+the generalization, the weaker the support for the inference is likely to be.81 
+In Figure 3, generalizations (labeled G  through G ) are associated with each 
+1 4
+of the four links in the chain of reasoning from evidence E  to element P , running 
+1 1
+throughpropositions E, F, and G. Thus, generalization G  justifies the inference of 
+  2
+proposition F from proposition E. This generalization might say: “If an event like E 
+occurs, then [usually, frequently, often, etc.] a result of F will follow.”82 That is, if E 
+were true, the factfinder would believe F to a degree x that reflects the quality of the 
+generalization. The belief in F would thus measure the certainty of inferring from E 
+to F. It is a conditional belief, which assumes E to be true. In other words, x = 
+Bel(F|E), which may be read as the degree of belief in F if E is fully believed.  
+3.  Ancillary Considerations 
+Ancillary  evidence  and  other  considerations  comprise  reactions  to  a 
+generalization. Like a generalization, an ancillary consideration can derive from 
+evidence actually introduced by any party, or it can spring from an interjection of 
+judicial notice or of the factfinder’s critical common sense. The ancillary consideration 
+can undermine or strengthen the generalization’s major premise.83 It will entail its 
+own chain of questionable inferences in linking up to the premise. The various 
+ancillary considerations bearing on the generalization’s premise must be combined 
+with the original data underlying the premise, by the weighted-arithmetic-averaging 
+method described in Part II, to produce a composite degree of belief that will lead to 
+the next conditional degree of belief in the inferential chain.84 
+In Figure 3, ancillary considerations A  lie between E  and E. Just because 
+1 1
+evidence  E   says  that  event  E  occurred  does  not  establish  that  E  did  occur.  A 
+1
+generalization G would be that evidence is usually trustworthy. But obviously, there 
+1 
+is here a matter of “credibility.” Credibility means the extent to which we believe 
+what  the  probative  evidence  says.  Credible  testimonial  evidence  should  be  on 
+personal knowledge and have (1) veracity (testimony in accordance with witness’s 
+beliefs), (2) objectivity (testimony not based on expectations or desires), and (3) 
+sensitivity (testimony resting on good sensory evidence); credible real evidence should 
+be (1) authentic (that is, it is what it purports to be), (2) accurate (and based on a 
+sufficiently sensitive sensing device), and (3) reliable (or repeatable).85 Ancillary 
+                                                
+81 Id. at 264 (making precisely this point). 
+82 Id. at 62 (making precisely this point). 
+83 See id. at 62–63, 380 (using the term “ancillary evidence” or “indirectly relevant evidence”).  
+84 See SCHUM, supra note 57, at 83–85 (discussing complex combinations of evidence).  
+85 See ANDERSON ET AL., supra note 2, at 63–70 (discussing credibility generally). 
+ Electronic copy available at: https://ssrn.com/abstract=3411623 25 
+ 
+considerations  would  raise  any  of  these  features  of  credibility  to  undermine  or 
+strengthen the generalization. 
+Ancillary  considerations  can  affect  the  higher-level  inferences  too.  These 
+considerations would attack or reinforce the corresponding generalization. In a sense, 
+they  thereby  address  the  credibility  of  the  generalization.  Thus,  although  A  
+1
+determines what might be called the primary credibility of E , A through A can also
+1 2  4   
+bear on credibility. They do so by addressing the accuracy of their corresponding 
+generalization. 
+4.  Example: Sacco & Vanzetti 
+A well-known legal example of inferential reasoning comes from the infamous 
+case of Sacco and Vanzetti.86 Those Italian immigrants and anarchists were convicted 
+of and executed for the robbery and fatal shooting of two payroll guards in South 
+Braintree, Massachusetts, on April 15, 1920. A few weeks after the shooting, they 
+were arrested on unrelated suspicions. Sacco was then carrying a pistol. Much later 
+they were charged with the murders. 
+The big issue at the murder trial was identity. One of the arresting officers, 
+Connolly, testified about Sacco’s behavior upon arrest.87 The factfinder had to connect 
+that testimony with the identity element. The path of reasoning proceeded through 
+Sacco’s supposed consciousness of guilt, on which the prosecution had to rely heavily 
+in order to prove his identity as one of the murderers.88 But that path revealed many 
+sources of uncertainty.89 
+                                                
+86 On this case, see id. at 21–23, 124–25, 160, 251–52, 285–86, 335–36; HERBERT B. EHRMANN, 
+THE  CASE  THAT  WILL  NOT  DIE:  COMMONWEALTH  VS.  SACCO  AND  VANZETTI  (1969);  OSMOND  K. 
+FRAENKEL, THE SACCO-VANZETTI CASE (1931); FELIX FRANKFURTER, THE CASE OF SACCO AND VANZETTI 
+(1927); G. LOUIS JOUGHIN & EDMUND M. MORGAN, THE LEGACY OF SACCO AND VANZETTI (1948); JOSEPH 
+B. KADANE & DAVID A. SCHUM, A PROBABILISTIC ANALYSIS OF THE SACCO AND VANZETTI EVIDENCE 
+(1996); ROBERT H. MONTGOMERY, SACCO-VANZETTI: THE MURDER AND THE MYTH (1960); FRANCIS 
+RUSSELL, TRAGEDY IN DEDHAM: THE STORY OF THE SACCO-VANZETTI CASE (1962); THE SACCO-VANZETTI 
+CASE: TRANSCRIPT OF THE RECORD OF THE TRIAL OF NICOLA SACCO AND BARTOLOMEO VANZETTI IN THE 
+COURTS OF MASSACHUSETTS AND SUBSEQUENT PROCEEDINGS 1920–7 (1928); WILLIAM YOUNG & DAVID 
+E. KAISER, POSTMORTEM: NEW EVIDENCE IN THE CASE OF SACCO AND VANZETTI (1985). 
+87 See 1 THE SACCO-VANZETTI CASE, supra note 86, at 753 (reprinting transcript of introduction of 
+evidence). 
+88 See 2 id. at 2257 (charging the jury: “Therefore, the mind, being conscious of every bodily act 
+theretofore committed, it knows whether or not such act is one of innocence or guilt. If it indicates 
+guilt, that is evidence of consciousness of a guilty act, and evidence of a consciousness of a guilty act 
+is evidence tending to prove commission of such guilty act, and evidence of the commission of a criminal 
+act tends to prove the identity of the author of such criminal act.”). 
+89 See SCHUM, supra note 57, at 75–92 (composing inferential chain adapted here). 
+ Electronic copy available at: https://ssrn.com/abstract=3411623 26 
+ 
+ 
+FIGURE 4: INFERENTIAL REASONING IN SACCO & VANZETTI 
+ 
+Figure 4 is admittedly complicated. And it is the tip of the iceberg, because a 
+chain or chains had to be constructed for every piece of probative evidence in the long 
+trial. But it is not unrealistic. The diagrammed chain is a necessary minimum. The 
+factfinder could not properly avoid the task of inferring from each piece of evidence 
+to the element or elements that the evidence tended to prove or disprove.  
+ Electronic copy available at: https://ssrn.com/abstract=3411623 27 
+ 
+To  begin  somewhere,  the  generalizations  involved  in  Figure  4  would  run 
+something like this: 
+G = Events to which an officer testified under oath usually occurred  
+1 
+G = Arresteeswith a concealed weapon sometimes attempt to draw it 
+2   
+G  = Arresteeswho draw a weapon usually intend to use it  
+3  
+G  = Arresteeswho use a weapon often intend to escape 
+4  
+G = Arrestees who intend to escape usually are conscious of having 
+5   
+committed a criminal act 
+G   =  Arrestees who  intend  to  escape  and  are  conscious  of  having 
+6  
+committed a criminal act frequently will be conscious of having committed a 
+serious crime, like a robbery and shooting  
+G  = Arresteeswho are conscious of having committed a serious crime 
+7  
+often will be conscious of having committed the charged crime 
+G  = Arrestees with consciousness of guilt as to the charged crime 
+8
+usually committed it 
+As to each generalization, ancillary considerations are relevant. For a prime 
+example, A  bears on the credibility of Connolly’s testimony.90 Ancillary chains of 
+1
+inferences as to his veracity, objectivity, and sensitivity would feed into the G  
+1
+generalization.  Also,  ancillary  evidence,  such  as  the  facts  that  Connolly  never 
+mentioned Sacco’s hand movements until Connolly testified91 and that pressures 
+existed  for  him  to  testify  a  certain  way,  would  undercut  G .  Similarly,  A  
+1 2
+considerations contain multiple strains, including evidence F*. For other examples, 
+the A  pieces of evidence that Sacco was carrying a pistol at arrest and that Sacco 
+6
+was a despised radical who had been involved in distributing anarchist literature 
+seriously undercut generalization G that hewas likely conscious of committing some 
+6   
+other  serious  offense,  while  the  A   ancillary  consideration  that  the  prosecutors’ 
+7
+evidence had suggested no other serious crime committed by Sacco would support 
+generalization G that the serious crime in consciousness was the charged crime. 
+7 
+Other pieces of evidence E  etc., such as lies Sacco told police officers, would 
+2,
+also show Sacco’s consciousness of guilt (K). And, independently of his consciousness 
+of guilt, still other evidence E , etc., such as bullet forensics, would help support or 
+k
+undercut identity (P ). 
+1
+                                                
+90 See id. at 109–12 (discussing the testimony’s credibility). 
+91 See YOUNG & KAISER, supra note 58, at 67–70, 162–63 (making this observation). 
+ Electronic copy available at: https://ssrn.com/abstract=3411623 28 
+ 
+B. Probative Force 
+ 
+The “probative force” of evidence means how strong the piece of evidence is in 
+favoring or disfavoring some element in the case at hand.92 In Figure 3, G , G , G , 
+1 2 3
+and G  and A ,A , A  and A  all contribute to determining the probative force of E
+4 1   2 3, 4 1 
+onP . The force will depend on (1) the weight and credibility of the evidence, which 
+  1
+reduces to analysis of (2) the force of each necessary inference from E , through E, F, 
+1
+and G, to P , as determined by the strength of the generalization and as ancillarily 
+1
+affected by its accuracy, and (3) the force of the whole chain of inferences taken 
+together.  Yet,  in  trying  to  measure  probative  force,  one  will  encounter  great 
+disagreement among legal theorists about how grading of probative force should be 
+done. Here this Article moves into uncharted territory. 
+First, to begin with definitions, evidence is relevant if, taken as true, it allows 
+us to revise, upward or downward, our belief in some element.93 The “likelihood ratio” 
+expresses the relative likelihood of the existence of the given item of evidence upon 
+the alternative assumptions that the fact to be proved exists and that the fact does 
+not  exist,  or  Bel(P |E )  ÷  Bel(P |not-E ). 94 The  likelihood  ratio  thus  conveys 
+1 1 1 1
+relevance by showing whether the evidence allows the factfinder to revise a prior 
+belief in the probandum (before the new item of evidence, which is here zero) to form 
+a different posterior belief or disbelief (after taking the new evidence into account). 
+To be more precise, the “weight” of the evidence measures the extent of that revision, 
+once matters of primary credibility are put to the side.95 The factfinder’s fixing the 
+weight of the evidence will inevitably be a bit of a stab at judgment. But reinject the 
+primary credibility, and we have the raw materials for estimating probative force. 
+Second, moving to (2), assessment of belief in a specific inference presents a 
+challenge. As already explained, the factfinder will believe the step in going, say, from 
+E to F to a degree x, which depends on the strength of the generalization G  as 
+2
+adjusted for its accuracy revealed by ancillary considerations A . The probative forces 
+2
+                                                
+92 See ANDERSON ET AL., supra note 2, at 71, 226–29, 384–85 (defining “probative force”). 
+93 See FED. R. EVID. 401(a) (defining “relevant”). 
+94 See 1 MCCORMICK, supra note 12, § 185, at 996–98 (discussing “likelihood ratio”). To be less 
+Bayesian, perhaps the likelihood ratio should be defined in terms of beliefs and disbeliefs, see infra 
+text accompanying note 136, or [Bel(P1|E1) ÷ Bel(not-P1|E1)] ÷ [Bel(P1|not-E1) ÷ Bel(not-P1|not-E1)]. 
+Moreover, speaking in terms of beliefs and disbeliefs, rather that Bayes’ theorem, avoids the “analytic 
+gap between epistemic relevance and probability” that troubled Michael S. Pardo, The Nature and 
+Purpose of Evidence Theory, 66 VAND. L. REV. 547, 583 (2013). See L. Jonathan Cohen, Some Steps 
+Towards a General Theory of Relevance, 101 SYNTHESE 171, 181 (1994) (“Anything that can sanction 
+a reason, even if an incomplete or inconclusive reason, for accepting a particular type of proposition as 
+a correct answer, or for rejecting it as an incorrect answer, to an askable type of question can count as 
+a criterion of relevance.”). 
+95 On “credibility,” see supra text accompanying note 85. 
+ Electronic copy available at: https://ssrn.com/abstract=3411623 29 
+ 
+of the multiple ancillary considerations need to be combined, and then combined with 
+the generalization’s strength, by the weighted-arithmetic-averaging method to be 
+described in Part II. So, measuring the conditional belief x in that step will likely also 
+be a rough process.96 
+Third, the biggest stumbling block, or source of disagreement, concerns how to 
+combine the inferential steps into a belief function. Conditional beliefs in the steps to 
+E, F, G, and P  have to be accepted in order to establish the element. The process is 
+1
+conjunction, as each step in the chain must be accepted. The evidence’s affirmative 
+probative force so reduces to a problem of conjoining a string of degrees of belief, 
+resolved next. 
+1.  Product Rule 
+Classical  logic  would  not  even  hesitate  at  the  conjunction  problem.  The 
+probability operation for a AND b is multiplication of the probabilities of independent 
+events, and multiplication of Prob(a) by Prob(b|a) for interdependent events. This 
+simple calculation, which many people call collectively the product rule, is the right 
+way to compute odds for future events.  
+In trying to perform the legal task of finding facts, however, the logical and 
+practical problems of applying probability and its product rule become legion.97 The 
+most obvious is that the product rule would start producing nonsensical results for 
+law cases as the number of conjoined facts starts increasing.98 Proof would become 
+nearly impossible. Indeed, you would end up believing almost nothing in the world, 
+as just about any belief rests on a chain of conjoined inferences: 
+Wigmorean analysis provides a technique for identifying and making 
+explicit the generalizations involved at each step of an argument. At the same 
+time,  that  analysis  may  cumulatively  seem  like  an  invitation  to  extreme 
+skepticism.  It  regularly  provides  strong  ammunition  for  attacking  an 
+opponent’s argument and for questioning one’s own. So many generalizations 
+seem so vulnerable in so many respects that one may be led to the conclusion 
+that all arguments about evidence are built on shifting sands.99 
+                                                
+96 Combining disbeliefs will involve the MAX rule, as later explained. See infra text accompanying 
+note 108. 
+97 See Clermont, supra note 20, at ___ 3-6, 50-51 (contrasting traditional probability unfavorably 
+with multivalent logic). 
+98 See Branion v. Gramly, 855 F.2d 1256, 1264 (7th Cir. 1988) (rejecting multiplication of odds in 
+a legal case by saying: “Every event, if specified in detail, is extremely improbable; indeed, with enough 
+detail it is unique in the history of the universe. It is always possible to take some probabilities, small 
+to start with, and multiply them for effect.”). 
+99 ANDERSON ET AL., supra note 2, at 102. 
+ Electronic copy available at: https://ssrn.com/abstract=3411623 30 
+ 
+The book Analysis of Evidence suggests that the practicing lawyer need not 
+worry  about  this  philosophical  point.100 But  I  disagree.  The  point  raises  major 
+theoretical101 and practical102 difficulties. Conjoining found facts is a universal and 
+constant  task  in  factfinding,  as  this  discussion  of  combining  inferential  steps 
+illustrates. Conjunction is necessary for any fact resting on multiple inferences, and 
+every found fact rests on multiple inferences because every finding begins with an 
+inference about the credibility of the evidence. The reality is thus that conjunction is 
+a necessary act in every fact found by a legal factfinder!103 Moreover, the task of 
+conjunction extends well beyond trial, into pretrial devices and other legal-factfinding 
+settings inside and outside courts, as well as into settlement negotiations and other 
+law-office applications of law that depend on expected factfinding. Finally, we all 
+intuitively combine facts in countless settings of daily life.  
+The point here is so important that it bears repeating. Conjunction is not an 
+arcane oddity. Any thought worthy of being called a thought entails reasoning by 
+conjoined inferences. René Descartes would never have been able to get beyond, or 
+even to, “I think, therefore I am.”104 No belief worthy of being called a belief would 
+survive the application of the product rule. Descartes would never have been able to 
+infer his way to a belief in God.105 Therefore, the law too must get conjunction right, 
+for the sake of efficiency, fairness, and accuracy. 
+                                                
+100 See id. at 102–03 (saying such problems are “not an immediate concern for the practicing 
+lawyer”); Risinger, supra note 18, at 811 (“[A]rguing either radical skepticism or the primacy of some 
+form of philosophical idealism will not cut any ice in a courtroom.”). 
+101 See Michael S. Pardo, The Paradoxes of Legal Proof: A Critical Guide, 99 B.U. L. REV. 233, 
+280–82, 288–89 (2019) (arguing that paradoxes, like conjunction, force one to grapple with the 
+fundamental issues). The product rule would lead to other silliness, such as the aggregation paradox. 
+See Alon Harel & Ariel Porat, Aggregating Probabilities Across Cases: Criminal Responsibility for 
+Unspecified Offenses, 94 MINN. L. REV. 261 (2009) (building on the aggregation paradox); Ariel Porat 
+& Eric A. Posner, Aggregation and Law, 122 YALE L.J. 2 (2012) (same). These theorists would have us 
+convict defendants on the basis of a series of almost-proven crimes. But see Kevin M. Clermont, 
+Aggregation of Probabilities and Illogic, 47 GA. L. REV. 165 (2012) (resolving the aggregation paradox). 
+102 Many dismiss the conjunction paradox as a mere theoretical wrinkle without practical worry, 
+arguing for example that most cases involve a single disputed issue and that multiple issues are 
+seldom independent. But see Clermont, supra note 20, at ___ 34-36 (rebutting a number of such 
+theorists). 
+103 See supra text accompanying note 69 (“There is no such thing as direct evidence.”). 
+104 See SIMON BLACKBURN, THINK 19–20 (1999) (explaining that the premise of thinking rests on 
+inference from alternative possibilities: a mind that doubts or a deception of a mind by the Evil One). 
+105 See id. at 34 (reconstructing the argument as: “I have the idea of a perfect being. This idea 
+must have a cause. A cause must be at least as perfect as its effect. So something at least as perfect as 
+my idea caused it. Therefore such a thing exists. But the thing must be perfect, that is, God.”).  
+ Electronic copy available at: https://ssrn.com/abstract=3411623 31 
+ 
+2.  MIN Rule 
+Multivalent logic recognizes that combining beliefs is a mathematical task 
+different  from  combining  odds. 106  The  highly  developed  and  widely  accepted 
+mathematics for combining degrees of beliefs instructs that the conjunction has a 
+degree of belief equal to the weakest of the conjoined beliefs, in accordance with the 
+so-called MIN rule that appears as a basic operator of the multivalent-belief logic 
+system.107 This conjunction operator is a more general replacement for the product 
+rule, which appears as a special rule where all values can only be 1 or 0. Moreover, 
+the same MIN rule applies whether the beliefs are independent or interdependent, 
+unlike the product rule. So, if a person believes a and believes b, then by the principle 
+of conjunctive closure the person believes a and b together, although of course not 
+more than he or she believes a or b separately.108 
+The new degree of belief will be the minimum of the affirmative beliefs to be 
+conjoined, and the new degree of disbelief will be the maximum of the disjoined 
+disbeliefs. The belief measure for conjunction of beliefs is Bel(E AND F) = MIN(Bel(E), 
+Bel(F)); in Figure 5, the belief in the conjunction of the beliefs in propositions E and 
+F is Bel(E). The belief measure for disjunction of disbeliefs follows the so-called MAX 
+rule, so that Bel(not-E OR not-F) = MAX(Bel(not-E), Bel(not-F)); in Figure 5, the belief 
+in the disjunction is Bel(not-E). Belief and disbelief will range from 0 to 1, and they 
+will add to one or normally less. The uncommitted belief reflects uncertainty.  
+                                                
+106 See Huber, supra note 38, at 10 (stating “that fair betting ratios should indeed obey the 
+probability calculus, but that degrees of belief, being different from fair betting ratios, need not”). 
+107 See Clermont, supra note 29, at 50–51 (discussing operators). Philosophers and logicians agree 
+with the mathematicians. See COHEN, supra note 28, at 89–91, 220–22, 265–67 (arguing that the 
+conjunction of two or more propositions has the same inductive probability as the least likely conjunct); 
+BERTRAND RUSSELL, HUMAN KNOWLEDGE: ITS SCOPE AND LIMITS 359–61 (1948) (arguing comparably 
+that his “degrees of credibility” do not follow the product rule of traditional probability); Dubois & 
+Prade, A Set-Theoretic View, supra note 57, at 403 (rejecting the application of “arguments deriving 
+from the study of statistical experiments”); Susan Haack, The Embedded Epistemologist: Dispatches 
+from the Legal Front, 25 RATIO JURIS 206, 217–18 (2012) (arguing comparably that her “degrees of 
+warrant”  do  not  follow  the  product  rule  of  traditional  probability);  John  MacFarlane,  Fuzzy 
+Epistemicism, in CUTS AND CLOUDS: VAGUENESS, ITS NATURE, AND ITS LOGIC 438 (Richard Dietz & 
+Sebastiano Moruzzi eds., 2010) (arguing against the product rule and in favor of the MIN rule). For a 
+formal proof in multivalent logic that the MIN and MAX rules make sense, see Clermont, supra note 
+29, at 51 n.32, 67–68. 
+108 See Simon J. Evnine, Believing Conjunctions, 118 SYNTHESE 201, 201, 214, 222 (1999) (stating 
+the principle as “If S is rational, then if S believes A and S believes B, then S believes A and B,” and 
+defending the principle as generally valid); Hannes Leitgeb, The Review Paradox: On The Diachronic 
+Costs of Not Closing Rational Belief Under Conjunction, 48 NOÛS 781 (2014) (similar). These theorists 
+attempt the near-impossible task of deriving the intuitive principle of conjunction closure while 
+assuming bivalence. If they were to recognize that beliefs are multivalent, then the principle would 
+appear as a given. 
+ Electronic copy available at: https://ssrn.com/abstract=3411623 32 
+ 
+ 
+FIGURE 5: APPLICATION OF MIN OPERATOR 
+ 
+Why do beliefs combine differently from odds? Probability, built on bivalent 
+logic, is a so-called additive system, meaning that p as the chance of truth and 1–p as 
+the chance of falsity add to one.109 Multivalent belief and disbelief normally add to 
+less  than  one,  making  belief  function  theory  into  a  nonadditive  system.  This 
+distinction  proves  critical,  because  the  product  rule  prevails  only  in  additive 
+systems.110 The reason is that the product rule depends on its assumption that to the 
+degree anything is not proven true, it is false rather than merely not proven. Let me 
+explain. 
+On the one hand, the probabilistic odds of a dictate under bivalence the odds 
+of not-a, and so conjoining a and b means increased odds of not-a or not-b. That is, 
+assuming truth/falsity will somehow be revealed, the complement of the probabilistic 
+chance of a’s being revealed as true is the chance of a’s being revealed as false. The 
+chance of a’s being revealed as false interacts with the chance of b’s being revealed as 
+false, so that the chance of a or b being revealed as false goes up, and the chance of a 
+                                                
+109 Additivity is one of probability’s three basic Kolmogorov axioms: “If two events cannot happen 
+jointly, the probability that one or the other occurs is equal to the sum of their separate probabilities.” 
+ANDERSON ET AL.,  supra  note  2,  at  251;  see  Hájek,  supra  note  28,  §  1 (listing  the  axioms  of 
+nonnegativity, normalization, and additivity). In an additive system, like bivalent logic built on the 
+law of the excluded middle, a set and its complement add to the universe, or one. Thus, the probability 
+that an event will happen and the probability that it will not happen add to one. By contrast, 
+multivalent logic, as employed in belief functions, rejects as an assumption the law of the excluded 
+middle and its consequence of additivity. Thus, degrees of belief and disbelief in a fact, where the 
+factfinder retains some belief as uncommitted between true and false, do not add to one.  
+110 The product rule derives from the givens of probability, which are the bivalence assumption 
+and Kolmogorov’s three axioms including additivity, and so it is inoperative when those conditions do 
+not hold. See Brian R. Gaines, Fuzzy and Probability Uncertainty Logics, 38 INFO. & CONTROL 154, 
+155–59, 161 (1978) (saying that “both multiplication/addition, and max/min, connectives may be seen 
+to arise from constraints on an underlying probability logic”). 
+ Electronic copy available at: https://ssrn.com/abstract=3411623 33 
+ 
+and b being true goes down, by a multiplicative amount in accordance with the 
+product rule.  
+On the other hand, under multivalent logic, if one believes a and one believes 
+b, then by the principle of conjunctive closure one believes a and b together. A belief 
+is an evidence-based measure of sureness about the real world. The complement of a 
+belief is not a disbelief, but it is instead the degree to which the belief was not proven. 
+As the factfinder shifts from evidence of a to evidence of b, the sureness as to a does 
+not slip. The degree of a’s not being proven has no effect on or interaction with the 
+degree of b’s not being proven.  
+How does the MIN rule work? Think first of separate beliefs. A typical legal 
+test asks whether a violation of some procedural law occurred and whether it affected 
+outcome. No one would ever think of applying the product rule, and so nobody would 
+require an exaggerated showing on the two requirements.  
+Next, the beliefs in inferences E and F are not totally separate beliefs, in that 
+F is a conditional belief dependent on E. But they conjoin the same way. Let → mean 
+implies. Theorists have derived an inference rule that says if α and (α → β) are proved 
+at degree λ and μ, respectively, then we can assert β at degree MIN(λ, μ).111 So, if one 
+views E as a belief and also views the inference (E → F) as a conditional belief, then 
+the belief in F will be the minimum of those two beliefs. As one goes up the chain of 
+inferences, one will believe the latest inference to the extent of the minimum of the 
+preceding beliefs. That is, one will believe P to the extent of the weakest link in the 
+1 
+chain. 
+In sum, conjoining beliefs is fundamentally different from figuring joint odds. 
+The logical fact is that probability of truth and degree of belief are different measures. 
+The mathematical fact is that degrees of belief follow the MIN rule, not the product 
+rule. One calculates to a different result not by some magical shift of perspective, but 
+because one is conjoining beliefs rather than probabilities. 
+3.  Correct Approach 
+Should the factfinding process treat the inferences E, F, G, and P as bivalent 
+1 
+probabilities or as multivalent beliefs? The proper approach is to view them not as 
+events that must all happen together to produce a result, but as degrees of belief that 
+coexist. If one accepts that the process involves conjoining multivalent beliefs, then 
+theory holds that multivalent mathematics will give the right answer. Because legal 
+factfinding is dealing with beliefs, and not odds, the law should combine beliefs by 
+the MIN and MAX rules, and not the product rule. That is, the MIN rule is the correct 
+approach  for  conjunction  because  it  gives  the  accurate  calculation.  It  combines 
+                                                
+111 See GIANGIACOMO GERLA, FUZZY LOGIC: MATHEMATICAL TOOLS FOR APPROXIMATE REASONING 
+113–16 (2001) (describing so-called necessity logic, which is an offspring of possibility theory). 
+ Electronic copy available at: https://ssrn.com/abstract=3411623 34 
+ 
+factfindings  while  still  taking  account  of  their  uncertainties  and  carrying  them 
+forward into the conjunction. To do this, the factfinder must employ a nonadditive 
+system, where belief and disbelief do not necessarily add to one and where some belief 
+can remain uncommitted. Just as the MIN rule says, a conjoined belief is proven only 
+to the degree that no contradictory disbelief is entertainable—and no contradictory 
+belief is entertainable all the way to the degree measured by the largest sum of 
+disbelief and uncommitted belief on any component finding.112 The product rule 
+instead discards uncertainties before multiplication. It therefore gives the wrong 
+answer on which to base decision. 
+A simple example can demonstrate the accuracy of the MIN rule. Say that 
+Bel(a) = 0.70 and Bel(not-a) = 0.30 on perfect evidence, and that Bel(b) = 0.04 and 
+Bel(not-b) = 0.01 on very imperfect evidence. Then, Bel(a AND b) = 0.04. If instead 
+one were to use probabilities, Prob(a) = 70% and Prob(b) = 80%.113 Applying the 
+product rule then yields a 56% probability for the conjunction. Which is the more 
+accurate representation of the strength of the conjunction, a representation on which 
+one will base future actions? Given strong and weak weakness like this, has the 
+proponent  made  a  weak  showing  of  the conjunction,  say  .04,  or  a  fairly  strong 
+showing, say 56%? It is easy to see that probability theory introduced an error when 
+it discarded uncertainties and converted the weak showing on b to 80%. An 80% 
+chance on airtight evidence is very different from an 80% chance on thin evidence. 
+Legal inferential reasoning is thus rightly viewed as involving links in a chain 
+whose strength together is the strength of its weakest link. This calling for this 
+application of the MIN rule is normative. Although the MIN rule could be descriptive 
+of actual practice, the safest thing to say about conjunction is that humans tend not 
+to be overly logical.114 However, one might safely go further to say that nothing in 
+                                                
+112 See Huber, supra note 38, at 14 (discussing conjunction and disjunction). Huber argues that 
+shifting from Shafer’s mathematical formulas to compatible set theory, such as possibility theory, see 
+supra note 57, makes the MIN and MAX rules easier to picture. Thus, if Bel(E) expresses a degree of 
+membership in the set of fully believed facts, 1−Bel(E) is the possibility or entertainability of not-E 
+given uncertainty. If one then tries to picture Bel(E  F), it will exist where neither not-E nor not-F is 
+possible, which by the MAX rule is the maximum possibility of the two propositions not-E and not-F. 
+See id. (“The idea is, roughly, that a proposition is⋂ a t least as possible as all of the possibilities it 
+comprises, and no more possible than the ‘most possible’ possibility either.”). Alternatively put, E and 
+F will be conjoinedly necessary where each of E and F is necessary, which is measurable by the MIN 
+rule. That is, wherever not-E or not-F is possibly true, then the conjunction of E and F cannot be 
+necessarily true. See Dubois & Prade, A Set-Theoretic View, supra note 57, at 402–03 (discussing the 
+relation of belief functions and possibility theory). 
+113 Normalizing the beliefs is a means to perform the pignistic transform. See supra note 49 and 
+accompanying text. 
+114 Compare DANIEL KAHNEMAN, THINKING, FAST AND SLOW 156–65 (2011) (discussing the so-
+called conjunction fallacy),  with Ralph Hertwig  & Gerd Gigerenzer, The “Conjunction Fallacy” 
+Revisited: How Intelligent Inferences Look Like Reasoning Errors, 12 J. BEHAV. DECISION MAKING 275, 
+ Electronic copy available at: https://ssrn.com/abstract=3411623 35 
+ 
+practice suggests that legal factfinders apply the product rule in legal inferential 
+reasoning, as shown by humans’ ready willingness to form inferential beliefs that 
+would never survive the product rule. Empirical testing is sketchy, but likewise 
+provides no evidence that humans use the product rule for combining degrees of 
+belief.115 In one experiment, subjects had to judge the degree to which objects such as 
+cars and wine barrels were “metallic containers” and, three days later, the degree to 
+which they were “metallic objects” and “containers”; the subjects tended to favor the 
+MIN rule over the product rule.116 In sum, it is not likely that humans default to the 
+MIN rule, but it is conceivable that rough and ready factfinding emphasizes the 
+weakest conjoined fact.117 
+Let  me  explain  the  normative  approach  in  a  different  way.  Uncertain 
+propositions fall mainly into one of two piles: one of bivalent measures for which the 
+product rule suffices, and another of multivalent measures for which rationality 
+requires the more general MIN and MAX rules. The probability of revealed truth, 
+with all views committed between true and false, falls into the first pile. The belief in 
+finding truth, with its accompanying nonbelief and disbelief, goes into the second pile. 
+The theorist could argue coherently for putting legal factfinding in either pile, a 
+decision that then dictates the proper combination rule. However, based on extant 
+doctrine  expressed  in  judicial  instructions  and  cases  that  mandate  element-by-
+element decisionmaking, there is little doubt that the law has cast legal factfinding 
+into the second pile.118  
+                                                
+275 (1999) (“We conclude that a failure to recognize the human capacity for semantic and pragmatic 
+inference can lead rational responses to be misclassified as fallacies.”). 
+115 See Rami Zwick, David V. Budescu & Thomas S. Wallsten, An Empirical Study of the 
+Interpretation of Linguistic Probabilities, in FUZZY SETS IN PSYCHOLOGY 91 (Tamás Zétényi ed., 1988) 
+(concluding that people do not naturally use the product rule).  
+116 See U. Thole, H.-J. Zimmermann & P. Zysno, On the Suitability of Minimum and Product 
+Operators for the Intersection of Fuzzy Sets, 2 FUZZY SETS & SYS. 167 (1979); cf. Evnine, supra note 
+108, at 214 (“Take any two propositions that are of no special logical or emotional significance to 
+someone, say that grass is green and that snow is white. I contend (this is intended as an empirical 
+observation about our practice) that if we have good grounds for attributing belief in each of these to 
+a person, then, absent any special circumstances, that is all we need to attribute to that person a belief 
+in their conjunction. Or if, for example, we are summing up a position someone has just explained at 
+some length, we can do so by attributing to that person a large conjunctive belief. This conjunctive 
+belief describes in a single proposition a number of different propositions that were expressed severally 
+over a period of time.”). Other experiments give some support to the MAX rule for disjunction. See 
+Zwick et al., supra note 115, at 98, 115 (discussing a previous study and reporting a new one). 
+117 See Zwick et al., supra note 115, at 114–16 (finding an averaging method employed for 
+conjunction). 
+118 See, e.g., In re Corrugated Container Antitrust Litig., 756 F.2d 411, 416–17 (5th Cir. 1985) 
+(requiring proof of each element to a preponderance); infra text accompanying note 145 (quoting 
+instruction). 
+ Electronic copy available at: https://ssrn.com/abstract=3411623 36 
+ 
+I contend that the law’s choice was the wise one. The law has no cogent interest 
+in the odds for betting on unattainable truth, a measurement that ignores all kinds 
+of meaningful uncertainty. Choosing the second pile avoids the many difficulties of 
+dealing in probabilities. Moreover, as already explained, the second pile fits the 
+image, and so clarifies the theory, of legal factfinding—a process that aims to measure 
+the  degree  of  belief  established  by  the  evidence,  while  leaving  some  belief 
+uncommitted to reflect uncertainty. Finally, whatever the law wants, it will get 
+beliefs from its factfinders. They are painfully conscious of uncertainty when they 
+pronounce what they believe. They are not about to project the odds of a revelatory 
+event that is difficult even to verbalize. 
+Therefore, when an inference rests on an inference from a piece of evidence, 
+the conjoined strength of belief drops to the likelihood of the least likely inferential 
+step. The conjoined belief in the element is as strong as weakest link, fixing the 
+affirmative probative force of the piece of evidence. If the piece of evidence supports 
+a disbelief in the element, the disbelief is as strong as the greatest disbelief in the 
+inferential reasoning. I thus argue that multivalent logic is the correct way to proceed 
+in this first step of evidence processing, and I further argue it is feasible for human 
+factfinders and may encapsulate what they actually do when inferring from an item 
+of evidence to an element of the case. 
+II.  AGGREGATING PIECES OF EVIDENCE 
+The combined probative force of the pieces of evidence on an element can nudge 
+down (as by conflict or contradiction) or up (as by convergence or corroboration)119 
+with a new piece of evidence.120 In the Sacco & Vanzetti example of evidence of 
+consciousness of guilt, we have seen how other evidence E , etc., such as eyewitness 
+k
+testimony and bullet forensics, would help support or undercut the same element of 
+identity, P . 
+1
+Some aggregating of evidence takes place when inferring from a single piece of 
+evidence to an element.121 But now our focus shifts to aggregating separate pieces of 
+evidence that bear on a single element. As a normative matter, then, how should the 
+                                                
+119 On these types of evidence, see supra text accompanying note 71 & infra text accompanying 
+note 137. 
+120 See Al-Adahi v. Obama, 613 F.3d 1102, 1105 (D.C. Cir. 2010) (“Those who do not take into 
+account conditional probability are prone to making mistakes in judging evidence. They may think 
+that if a particular fact does not itself prove the ultimate proposition (e.g., whether the detainee was 
+part of al-Qaida), the fact may be tossed aside and the next fact may be evaluated as if the first did 
+not exist.”). 
+121 See  supra  text  accompanying  notes  84  &  96  (combining  generalization  with  ancillary 
+considerations). 
+ Electronic copy available at: https://ssrn.com/abstract=3411623 37 
+ 
+factfinder aggregate evidence to calculate the new composite probative force of that 
+evidence taken together? Figure 6 represents the aggregation of all evidence on P . 
+1
+FIGURE 6: REPRESENTATION OF AGGREGATING EVIDENCE 
+ 
+This mental process of aggregating evidence is completely distinguishable from 
+the  above-treated  process  of  conjoining  beliefs.  Aggregating  evidence  does  not 
+centrally  involve  conjunction,  where  each  belief  must  be  accepted,  but  instead 
+calculates how items of reinforcing or undercutting evidence add to or subtract from 
+one another to form a composite belief (and a composite disbelief) in P .  
+1
+Aggregating evidence is perhaps easier than conjoining beliefs to picture, as it 
+seems simpler and more intuitive, but it is much harder to formalize. On the one 
+hand, conjoining (and disjoining) beliefs follows directly from the basic operators of 
+the logic system. The product rule governs in bivalent systems, because those systems 
+are additive. For multivalent beliefs the operator would be the MIN rule, because 
+belief function theory is nonadditive. On the other hand, aggregating evidence is a 
+mathematical problem whose solution must be derived under the prevailing logic 
+system, be it bivalent or multivalent. The solution is Bayes’ theorem under classical 
+ Electronic copy available at: https://ssrn.com/abstract=3411623 38 
+ 
+logic, but becomes an even more complicated formula under multivalent logic’s belief 
+function theory. 
+A. Bayes’ Theorem 
+Among  those  theorists  who  view  evidence  probabilistically,  the  dominant 
+answer for aggregating evidence invokes Bayes’ theorem.122 It links the perceived 
+probability before and after observing new evidence. By mathematically updating the 
+initial probability with the new evidence, one gets an updated probability.  
+The starting point for Bayes’ theorem is Prob(A), the prior probability of A. 
+Then the posterior probability of A, after accounting for new evidence B, is the 
+conditional probability Prob(A|B), which may be read as the probability that A will 
+occur if B is known certainly to have occurred. Prob(A|B) calculates to be Prob(A) 
+multiplied by the support B provides for A, a support that Thomas Bayes (or really 
+Pierre Simon Laplace) equated to Prob(B|A) ÷ Prob(B). The measures Prob(A) and 
+Prob(B) are the probabilities of observing A and B independently of each other. So, 
+here is the theorem: 
+Prob(A|B) = [Prob(B|A) • Prob(A)] ÷ Prob(B) 
+The Bayesian likelihood ratio is defined as the effect of the new evidence on the odds 
+of A. The odds of A are Prob(A) ÷ Prob(not-A), so that the effect on the odds, or the 
+likelihood ratio, is Prob(B|A) ÷ Prob(B|not-A).123 
+Despite its internal mathematical soundness, and despite the many insights it 
+generates for law, most observers from many disciplines have voiced serious doubts 
+about  whether  Bayes’  theorem  should  be  seen  to  play  a  broad  role  in  legal 
+factfinding.124 Like any probability-based equation dealing with legal evidence, the 
+problems of Bayes’ theorem are numerous. First, and most fundamental, is that the 
+theorem leaves no place for epistemic uncertainties, thus painting the world as being 
+black and white even though most of the world appears in shades of gray. It does not 
+handle  well  the  situation  of  incomplete,  inconclusive,  ambiguous,  or  dissonant 
+                                                
+122 See CLERMONT, supra note 21, at 120–21 (laying out the basics of Bayes’ theorem). 
+123 See Richard O. Lempert, Modeling Relevance, 75 MICH. L. REV. 1021, 1022–25 (1977) (deriving 
+the likelihood ratio). 
+124 See, e.g., SHARON BERTSCH MCGRAYNE, THE THEORY THAT WOULD NOT DIE (2011) (recounting 
+the centuries of controversy generated by Bayes’ theorem); Nancy Pennington & Reid Hastie, Juror 
+Decision-Making Models: The Generalization Gap, 89 PSYCHOL. BULL. 246, 262–68 (1981) (discussing 
+its problems); Glenn Shafer, The Construction of Probability Arguments, 66 B.U. L. REV. 799, 809–16 
+(1986) (same). Compare Paul Bergman & Al Moore, Mistrial by Likelihood Ratio: Bayesian Analysis 
+Meets the F-Word, 13 CARDOZO L. REV. 589, 590 (1991) (attacking), with D.H. Kaye, Commentary, 
+Credal Probability, 13 CARDOZO L. REV. 647 (1991) (defending), and Lempert, supra note 3, at 440–50 
+(same). 
+ Electronic copy available at: https://ssrn.com/abstract=3411623 39 
+ 
+information, and has to use a fudge factor to account for the state of the evidence.125 
+That is, it is built on additive bivalent odds, and so does not work with nonadditive 
+multivalent beliefs. Second, and a more wonky example, is that the theorem fails to 
+give the factfinder an initial prior probability as a starting point. In the proper state 
+of initial ignorance in a civil case, a popular starting point is to posit that the 
+plaintiff’s claim has a 50/50 chance. That starting point unfortunately comports with 
+neither the actual probabilities nor the law’s instructions; in pure probabilistic form, 
+it introduces the logical problem of making a feather’s weight of evidence sufficient 
+to carry the burden of production, as well as the burden of persuasion over a silent 
+defendant; and it produces inconsistencies when there are more than two hypotheses 
+in play.126 Third, and most obvious, is that the theorem has no claim to be a realistic 
+representation of how legal factfinders do or could aggregate evidence. 
+B. Dempster-Shafer Theory 
+Belief function theorists in their work mainly focus on this problem of how to 
+aggregate items of evidence. They try to develop mathematical tools for aggregating 
+pieces of evidence to determine a degree of belief. Their stimulus is the realization 
+that Bayes’ theorem is a gross oversimplification for aggregating uncertain evidence, 
+one intentionally built onto traditional probability to shear off most of the uncertainty 
+and thereby make all the evidence easily commensurable. 
+Many of those theorists forward the prominent Dempster rule to govern the 
+task.127 That rule is complicated, because it abstractly addresses the problem in very 
+general terms (Bayes’ theorem turns out to be a special case of the Dempster rule).128 
+I could reprint its central formula, but it would be meaningless without many obscure 
+definitions. Suffice it to say, the Dempster rule aggregates the belief functions from 
+                                                
+125 See Lea Brilmayer & Lewis Kornhauser, Review: Quantitative Methods and Legal Decisions, 
+46 U. CHI. L. REV. 116, 135–48 (1978) (laying out the logical problems). 
+126 See State v. Spann, 617 A.2d 247, 254 (N.J. 1993) (saying that “.5 assumed prior probability 
+clearly is neither neutral nor objective”); Clermont, supra note 149, at 368–69 (discussing the situation 
+of a lack of proof); Lempert, supra note 3, at 462–67 (noting that employing 50/50 as the appropriate 
+odds when ignorant of the true facts can cause many problems). On problems with choosing any 
+different prior probability, see Jaffee, supra note 42, at 980–85. 
+127 See SHAFER, supra note 41, at 6, 25, 57–67 (“[W]e construct a belief function to represent the 
+new evidence and combine it with our ‘prior’ belief function—i.e., with the belief function that 
+represents our prior opinions. This method deals symmetrically with the new evidence and the old 
+evidence on which our prior opinions are based: both bodies of evidence are represented by belief 
+functions, and the result of the combination does not depend on which evidence is the old and which 
+is the new.”); Barnett, supra note 58, at 197, 198–204 (explaining the rule). 
+128 For a comparison of Bayesian probability judgments and belief functions, see Glenn Shafer & 
+Amos  Tversky,  Languages  and  Designs  for  Probability  Judgment,  in  CLASSIC  WORKS  OF  THE 
+DEMPSTER-SHAFER THEORY OF BELIEF FUNCTIONS 345 (Ronald R. Yager & Liping Liu eds., 2008). 
+ Electronic copy available at: https://ssrn.com/abstract=3411623 40 
+ 
+different pieces of evidence into a new belief function by orthogonal sum, a process 
+practically beyond the ken of the ordinary factfinder.  
+Nevertheless, the Dempster rule has proved to be theoretically inappropriate 
+for many kinds of evidence.129 Accordingly, the Dempster rule is quite contested,130 
+generating many competitors.131 In fact, there is no one correct way to aggregate 
+evidence  into  a  new  belief  function,  as  each  alternative  rule  makes  certain 
+assumptions  about  the  natures  of  the  different  pieces  of  evidence  and  their 
+uncertainty. In particular, the competing rules differ in how they handle conflicting 
+evidence. Almost all are even more complicated than the Dempster rule.132  
+Professor Shafer himself suggested one of the simplest alternatives.133 It is 
+called  the  discount-and-combine  rule.  It  works  when  the  evidence  is  highly 
+conflicting, as in a legal case. The “discount” step diminishes each belief derived from 
+an item of evidence in accordance with the belief’s unreliability. “The obvious way to 
+use discounting with Dempster’s rule is to discount belief functions at different rates 
+before  combining  them—discounting  at  higher  rates  those  belief  functions  one 
+particularly distrusts and whose influence one wants to reduce.”134 The “combine” 
+step averages the discounted beliefs. To illustrate, let Beld(a) be the belief in the 
+i
+probandum a, generated from an item of evidence, i, and derived by multiplying 
+                                                
+129 See, e.g., Kari Sentz & Scott Ferson, Combination of Evidence in Dempster-Shafer Theory 17 
+(Sandia  Nat’l  Labs.  2002),  available  at  https://prod-ng.sandia.gov/techlib-noauth/access-
+control.cgi/2002/020835.pdf (“Suppose that a patient is seen by two physicians regarding the patient’s 
+neurological symptoms. The first doctor believes that the patient has either meningitis with a 
+probability of 0.99 or a brain tumor, with a probability of 0.01. The second physician believes the 
+patient actually suffers from a concussion with a probability of 0.99 but admits the possibility of a 
+brain tumor with a probability of 0.01. Using . . . Dempster’s rule, we find that . . . Bel (brain tumor) = 
+1. Clearly, this rule of combination yields a result that implies complete support for a diagnosis that 
+both physicians considered to be very unlikely.” (relying on Zadeh, Book Review, supra note 57, at 82)). 
+130 See, e.g., Dubois & Prade, A Set-Theoretic View, supra note 57, at 403 (“If subjective probability 
+theory is acknowledged as being too restrictive to model uncertainty judgments, then Shafer’s 
+subjectivist interpretation of upper and lower probabilities can be questioned on the same grounds. 
+From a mathematical point of view, [Shafer’s] theory of evidence is nothing but the rules of probability 
+theory  applied  to  imprecise  statements,  while  classical  probability  theory  leaves  no  room  to 
+imprecision. As a consequence the rules of combination of bodies of evidence are given by the rules of 
+probability theory, and what is behind the problem of validating Shafer’s theory as a theory of 
+measurement of subjective uncertainty is the validity of the rules of (subjective) probability theory 
+(and especially the rule of additivity).”). 
+131 See Sentz & Ferson, supra note 129, at 17–27 (describing thirteen alternatives, including 
+possibility theory).  
+132 See id. at 8–13 (generalizing). 
+133 See SHAFER, supra note 41, at 251–55 (laying out this alternative); Sentz & Ferson, supra note 
+129, at 17–18 (same).  
+134 SHAFER, supra note 41, at 252–53. 
+ Electronic copy available at: https://ssrn.com/abstract=3411623 41 
+ 
+Bel(a) from the item by its discount factor, d, where 0 ≤ d ≤ 1. Then, the average 
+discounted belief based on n items of evidence is Beld(a) = [Beld (a) + Beld (a) + … + 
+1 2
+Beld (a)] ÷ n. 
+n
+A similar alternative for conflicting evidence would be weighted arithmetic 
+averaging.135 It is the only other alternative that has any claim to feasibility. The 
+“weighting” step credits each belief from an item of evidence in accordance with its 
+significance. The “averaging” step divides the sum of the weighted beliefs by the total 
+of the weights assigned, which removes the distorting effect of the weighting. Let 
+Belw(a) be the belief in the probandum a, generated from an item of evidence, i, and 
+i
+derived by multiplying Bel(a) from the item by its weight factor, w, where 0 ≤ w. Then, 
+the average belief based on n items of weighted evidence is Belw(a) = [Belw (a) + 
+1
+Belw (a) + … + Belw (a)] ÷ [w  + w  + … + w ], or: 
+2 n 1 2 n
+Belw(a) = [w Bel (a) + w Bel (a) + … + w Bel (a)] ÷ [w  + w  + … + w ] 
+1• 1 2• 2 n• n 1 2 n
+In weighted arithmetic averaging, what is meant by “significance”? It is not 
+the probative force of the item of evidence, because the inferential reasoning process 
+has already accounted for that factor. It is instead something revealed by the belief 
+function itself. If a belief is much stronger or weaker that its corresponding disbelief, 
+the item of evidence is especially clear. That is, if the ratio of belief to nonbelief is 
+either big or small, it should naturally get a higher w.136 Obviously, according a w 
+will constitute another stab at judgment in the course of the reasoning process, but 
+high accuracy in w is not critical as the effect of the weights is moderated by the 
+formula’s denominator. 
+Obviously, combining small beliefs generated by weak evidence with strong 
+beliefs  will  lower  the  overall  degree  of  belief,  even  if  the  combination  involves 
+weighting. Recall, however, all that matters is the relative sizes of belief and disbelief, 
+not their absolute sizes. Weighted arithmetic averaging, in this regard, seems clearly 
+superior to probabilistic combination, whereby tangential evidence is converted into 
+betting odds and hence rendered indistinguishable from strongly direct evidence for 
+the purpose of Bayes’ theorem. 
+One insight generated by weighted arithmetic averaging is that a second, 
+independent piece of evidence by itself will have no effect on belief if it generates the 
+                                                
+135 See  Scott  Ferson  &  Vladik  Kreinovich,  Representation,  Elicitation,  and  Aggregation  of 
+Uncertainty in Risk Analysis—From Traditional Probabilistic Techniques to More General, More 
+Realistic  Approaches:  A  Survey  75–77  (2001),  available  at 
+https://core.ac.uk/download/pdf/46729549.pdf (laying out this alternative); Sentz & Ferson, supra note 
+129, at 27 (mentioning this as one of the thirteen alternatives). This alternative does not rely on 
+additivity. See supra note 130. 
+136 Cf. Ferson & Kreinovich, supra note 135, at 75 (“[W]ider intervals correspond to worse 
+measurements, with larger systematic error. In this case, it makes sense to assign smaller weights to 
+these bad measurements, thus decreasing their impact on the aggregation result.”). 
+ Electronic copy available at: https://ssrn.com/abstract=3411623 42 
+ 
+same level of belief as the first piece of evidence. That insight about redundant, 
+duplicative, or cumulative evidence might trouble some readers as being nonintuitive. 
+The concern here is not interdependent corroborating evidence, which heightens 
+credibility and will come in as an ancillary consideration on some chain of inferences. 
+The concern is converging evidence, that is, separate items of evidence that support 
+one probandum.137 If one item leads to a 0.30 belief in P  and another item also 
+1
+induces a 0.30 belief, do we believe P  more than 0.30? No. Even under Bayes’ 
+1
+theorem, the posterior probability remains the same after introduction of additional 
+evidence of equal probability.138 Still, such cumulative evidence is relevant, because 
+it will result in counting the repetitive 0.30 belief more heavily when averaged with 
+all the other evidence. 
+C. Correct Approach 
+The various pieces of evidence bearing on a probandum each produce a degree 
+of belief and of disbelief. We should aggregate the pieces’ probative force in a manner 
+consistent with belief function theory. Weighted arithmetic averaging serves that 
+function, while being able to handle conflicting evidence and being comprehensible 
+enough to employ. So, logic says to take the belief function produced by each piece of 
+evidence, and then aggregate all the beliefs by weighting their significance and by 
+averaging. Do the same for disbeliefs, and we have created a new composite belief 
+function for P . 
+1
+Happily,  this  averaging  method  fits  human  capabilities  and  inclinations. 
+Factfinders might intuitively use it already. Interestingly, it very much resembles 
+the  early  psychology  theory  of  how  factfinders  actually  find  facts:  information 
+integration theory.139 Experiments showed that mock jurors’ output conformed with 
+this approach: the human decisionmaker making a finding would begin with an 
+initial impression, or predisposition, and then would process  additional units of 
+information; each of these, including the predisposition, would receive a scale value 
+as to evidential strength, which was seemingly a measure of the probability of the 
+                                                
+137 On converging and corroborating evidence, see ANDERSON ET AL., supra note 2, at 106–07; 
+COHEN, supra note 28, at 94–95, 280–81. 
+138 For a sophisticated Bayesian discussion of cumulative evidence, see Lempert, supra note 123, 
+at 1041–52. 
+139 See  NORMAN H. ANDERSON, FOUNDATIONS OF INFORMATION INTEGRATION THEORY  (1981) 
+(providing a conceptual introduction to a theory that scales stimuli by evaluation, weights them by 
+importance, and algebraically combines them to form an overall judgment); Norman H. Anderson, 
+Cognitive Algebra: Integration Theory Applied to Social Attribution, 7 ADVANCES IN EXPERIMENTAL 
+SOC. PSYCHOL. 1 (1974) (providing experimental support). In NORMAN HENRY ANDERSON, MORAL 
+SCIENCE  85  (2017),  https://psychology.ucsd.edu/_files/norman-anderson-book/Chapter%204.pdf 
+(“Substantial support for averaging theory has been found in experiments on legal judgment.”), he 
+updates his theory and experimentally extends it to the legal context. 
+ Electronic copy available at: https://ssrn.com/abstract=3411623 43 
+ 
+fact’s  existence  if  the  informational  unit  were  true;  each  would  also  receive  a 
+weighting factor, which was seemingly a measure of evidential importance that 
+somehow took into account its credibility and tellingness; and the decisionmaker 
+would then combine these into a weighted arithmetic mean that measures the fact’s 
+likelihood.140 Now, the jurors may be viewing some items of evidence holistically, or 
+they  likely  are  not  doing  this  calculation  consciously,  but  their  output  seems 
+consistent  with  having  proceeded  by  weighted  averaging.  The  following  thus 
+represents the judged likelihood based on k units of information: 
+ 
+The differences from belief function theory’s weighted arithmetic averaging are that 
+belief function theory treats multivalent beliefs rather than probabilities, moves the 
+predisposition into the proof process as generalizations and ancillary considerations, 
+redefines S as the degree of belief or disbelief, and provides a better definition for W. 
+What the belief function and information integration theories suggest is that 
+it is both correct and natural for factfinders to look at the probative forces of all 
+evidence bearing on a probandum and then average them. Each item of evidence 
+would have produced a degree of belief and a degree of disbelief, that is, a belief 
+function regarding the element. But obviously the factfinders would not weight all 
+the items of evidence the same: before averaging, the factfinders would weight each 
+item  according  to  its  evidential  significance.  So,  the  factfinders  would  roughly 
+calculate a weighted arithmetic mean to create a composite belief function for the 
+element.  
+Therefore,  because  weighted  arithmetic  averaging  is  a  mathematically 
+acceptable approach to the problem of aggregating pieces of evidence and because it 
+seems suited to the uncertain beliefs and conflicting evidence encountered in legal 
+cases, I choose it over its more complex competitors. I thus argue that weighted 
+arithmetic averaging is the logical way to proceed in this second step of evidence 
+processing, and that it is also feasible for human factfinders and may encapsulate 
+what they actually do when aggregating all evidence bearing on an element of the 
+case. 
+III.  COMBINING ELEMENTS 
+                                                
+140 See, e.g., Martin F. Kaplan, Cognitive Processes in the Individual Juror, in THE PSYCHOLOGY 
+OF THE COURTROOM 197, 198–200 (Norbert L. Kerr & Robert M. Bray eds., 1982) (“The process of 
+information evaluation, weighing, and integration is central to understanding the juror’s cognition . . 
+. .”); Martin F. Kaplan & Gwen DeArment Kemmerick, Juror Judgment as Information Integration: 
+Combining Evidential and Nonevidential Information, 30 J. PERSONALITY & SOC. PSYCHOL. 493, 497 
+(1974) (“[T]he information provided to a juror . . . possesses both scale value and weight . . . .”). 
+ Electronic copy available at: https://ssrn.com/abstract=3411623 44 
+ 
+A legal case will involve more than one element (a finding necessary for a claim 
+or defense to succeed under the substantive law), as shown in Figure 7. In the Sacco 
+& Vanzetti example, we focused on the element of the accused’s identity (P ). But the 
+1
+prosecution also had to prove beyond a reasonable doubt the other elements: the 
+victim’s death (P ) by unlawful force (P ) with malice aforethought (P ). 
+2 3 4
+ 
+FIGURE 7: REPRESENTATION OF COMBINING ELEMENTS 
+ 
+This step of combining elements would proceed by the conjunction/disjunction 
+methods of Part I rather than by the weighted-arithmetic-averaging method of Part 
+II. If the elements were to be combined, they would be joined by the MIN and MAX 
+rules, because the elements are all necessary.141 But does it matter if any such 
+combination occurs before or after the application of the standard of proof? 
+A. Atomistic Processing 
+Once the factfinder  has developed a belief function for each  element, the 
+factfinder is ready to move from the processing phase to the evaluation phase. There 
+the factfinder must apply the standard of proof to reach a decision. And there this 
+Article on evidential processing meets up with all my prior work on evaluation.142  
+To apply the standard of proof, the factfinder will compare belief to disbelief. 
+For example, a civil case’s preponderance standard asks the natural question that 
+the law seems to pose by “more likely than not?”: do you believe the burdened party’s 
+allegation  more  than  you  disbelieve  it? 143 This  believed-more-than-disbelieved 
+standard calls for constructing separate beliefs for a and not-a while leaving some 
+                                                
+141 See Clermont, supra note 20, at ___ 26–33 (justifying use of MIN and MAX rules). 
+142 See id. at ___ n.23, ___ n.161 (citing my prior work on the evaluating phase). 
+143 Higher standards of proof would demand a greater predominance of belief in relation to 
+disbelief. See id. at ___ 22–25 (discussing clear and convincing evidence and beyond a reasonable 
+doubt). 
+ Electronic copy available at: https://ssrn.com/abstract=3411623 45 
+ 
+belief uncommitted, and then comparing the sizes of the beliefs in a’s truth and falsity 
+while ignoring the uncommitted belief. A preponderance of the evidence therefore 
+means that Bel(a) > Bel(not-a), not that Bel(a) > 0.50. If Bel(a) > Bel(not-a), I would 
+say I believe a, or I do not have enough information to disbelieve a. Indeed, finding 
+an element to exist will follow from a smallish belief’s being found to exceed an even 
+smaller belief in its contradiction.144 To continue with my running example, the 
+factfinder should find a if Bel(a) = 0.40, when Bel(not-a) appears as 0.20 and the 
+uncommitted belief equals 0.40. 
+The law finally intrudes here, specifying a course of decision rather than 
+leaving factfinding to the factfinder’s common sense. This is a pattern civil jury 
+instruction: 
+Plaintiff has the burden in a civil action, such as this, to prove every 
+essential element of plaintiff’s claim by a preponderance of the evidence. If 
+plaintiff should fail to establish any essential element of plaintiff’s claim by a 
+preponderance  of  the  evidence,  you  should  find  for  defendant  as  to  that 
+claim.145 
+That is, the law tells the factfinder to proceed element-by-element. Simply put, if each 
+element passes the standard of proof, then the whole case passes. So, if the factfinder 
+believes  P , believes  P , believes  P ,  and believes  P ,  then  the  law believes  the 
+1   2   3   4  
+conjunction of those elements. The law is so perfectly consistent with multivalent 
+logic that it had to have been built on that logic. 
+According to the law, then, the factfinder need not combine the elements. It 
+compares belief and disbelief for each element. If belief prevails on each element, the 
+burdened party wins. 
+B. Holistic Processing 
+                                                
+144 If the plaintiff has carried the burden of production and if the plaintiff’s proof is perceptibly 
+stronger than the defendant’s after taking into account any failure to produce available evidence, see 
+supra note 55, decision must go for the plaintiff. The court cannot choose not to decide, and a decision 
+for the plaintiff is less likely an error than decision for the defendant would be. See Larry Laudan, 
+Strange Bedfellows: Inference to the Best Explanation and the Criminal Standard of Proof, 11 INT’L J. 
+EVIDENCE & PROOF 292, 304–05 (2007) (“The trier of fact cannot say, ‘Although plaintiff’s case is 
+stronger than defendant’s, I will reach no verdict since neither party has a frightfully good story to 
+tell.’ Under current rules, if the plaintiff has a better story than the defendant, he must win the suit, 
+even when his theory of the case fails to satisfy the strictures required to qualify his theory as the best 
+explanation.”). 
+145 3 O’MALLEY ET AL., supra note 19, § 104:01; see Ronald J. Allen & Sarah A. Jehl, Burdens of 
+Persuasion in Civil Cases: Algorithms v. Explanations, 2003 MICH. ST. L. REV. 893, 897–904 (criticizing 
+Dale A. Nance, Commentary, A Comment on the Supposed Paradoxes of a Mathematical Interpretation 
+of the Logic of Trials, 66 B.U. L. REV. 947, 949–51 (1986) (finding the pattern jury instruction 
+ambiguous)). 
+ Electronic copy available at: https://ssrn.com/abstract=3411623 46 
+ 
+By contrast, holistic theorists contend that the human factfinder ignores the 
+law’s instructions and evaluates the case as a whole.146 If they are correct, then the 
+factfinder has to combine the elements to get a sense of the whole case. To the extent 
+the holistic factfinder proceeds with any accuracy, it would have to be intuitively 
+conjoining the beliefs and disbeliefs in all the elements, before applying the standard 
+of proof.  
+How does one conjoin beliefs? As explained in Part I, the mathematics for 
+combining beliefs instructs that the conjunction has a degree of belief equal to the 
+weakest of the conjoined beliefs. The mathematics also instructs that a disjunction 
+has a degree of belief equal to the strongest of the disjoined beliefs. If the belief in 
+each element is stronger than its corresponding disbelief, the conjunction of all the 
+elements’ beliefs is normally stronger than the disjunction of all the disbeliefs. If each 
+element is more likely than not, then the elements’ conjunction normally should be 
+more likely than not. Or, more generally, if each element passes the standard of proof, 
+then the elements’ conjunction should pass the standard of proof. So, the atomistic 
+and the holistic approaches should work out to the same outcome.147  
+C. Correct Approach 
+I thus argue that in the main, element-by-element application of the standard 
+of proof is the logical way, and a feasible way, to proceed in this third step of evidence 
+processing. The factfinder need not combine the elements. The result is that there 
+will be no step #3. The factfinder can proceed directly from step #2’s belief-function-
+for-each-element to the standard-of-proof phase. 
+Although it would make little difference to the logical outcome if a human 
+factfinder were to apply the standard of proof to the whole case only after conjoining 
+the  elements,  the  more  systematic  element-by-element  approach  has  practical 
+advantages. Telling factfinders to proceed element-by-element should make their 
+path to decision more careful and diligent.148 It would also make instructing them on 
+how to proceed simpler and more comprehensible. 
+                                                
+146 See supra note 20 (discussing the story model). 
+147 See Clermont, supra note 20, at ___ 27, 33–34, 44–45 (elaborating this conclusion). 
+148 Particular care, or institutional change, is necessary where a legal rule requires an affirmative 
+decision before proceeding to another legal rule. See Kevin M. Clermont, Rules, Standards, and Such, 
+67 BUFF. L. REV. ___, ___ 22–23 (2020) (describing this kind of decision). An example would be 
+determining intellectual disability before the issue of the death penalty. See John H. Blume, Sheri 
+Lynn Johnson, Paul Marcus & Emily Paavola, A Tale of Two (and Possibly Three) Atkins: Intellectual 
+Disability and Capital Punishment Twelve Years After the Supreme Court's Creation of a Categorical 
+Bar, 23 WM. & MARY BILL RTS. J. 393, 409–12 (2014) (finding that juries are more apt to find no-
+disability than judges, who are trained to go issue-by-issue). One explanation might be that juries, 
+following the story model, answer the overall question of death worthiness rather than focusing on 
+ Electronic copy available at: https://ssrn.com/abstract=3411623 47 
+ 
+There is at least one hiccup in concluding in favor of an element-by-element 
+instruction.  The  MIN/MAX  analysis,  which  is  a  little  more  complicated  than 
+described so far,149 produces a difficulty when a fairly strong disbelief, which is 
+nonetheless insufficient under the standard of proof to overcome the belief in the 
+element, is bigger than a sufficient belief on another element.150 For example, in a 
+hypothesized civil case, if Bel(a) = 0.40 and Bel(not-a) = 0.20, and if Bel(b) = 0.20 and 
+Bel(not-b) = 0.00, then Bel(a AND b) = 0.20 and Bel(not-a OR not-b) = 0.20. Thus, the 
+element-by-element approach would produce a result (proponent wins) different from 
+the  logical  approach  (proponent  loses).  The  law  rejects  the  logical  outcome  by 
+insisting on element-by-element application of standard of proof, but there are a 
+number of reasons to think the law might still be optimal. 
+First,  the  logical  outcome  is  arguably  overcautious.  The  instinct  of  most 
+observers is that the proponent should win after convincingly prevailing on each 
+element. The proponent would prevail under a probability theory.151 Given humans’ 
+natural handling of the conjunction problem,152 the proponent would win in real life, 
+whether  the  factfinder  took  an  atomistic  or  holistic  approach  to  beliefs  or  to 
+probabilities. Maybe the law should be wary of going against such strong intuition.  
+Second, the law would not want to, and does not, charge its factfinders to 
+perform  the  difficult  mental  task  of  comparing  conjunction  and  disjunction  of 
+elements. Disjunctive disbelief in a series of elements is difficult even to verbalize. 
+Moreover, the comparison on the basis of the whole case might involve comparing a 
+belief in one element to the disbelief of a different element, which is apt to stymie any 
+factfinder.  The  law’s  element-by-element  method  is  more  comprehensible  (and 
+corralling) than any holistic method, and it works out to be largely equivalent. 
+Third, the exceptional situation of the hypothesized case would not be common. 
+Under a set of coherent beliefs and disbeliefs, if b is less likely than a, then not-a 
+                                                
+intellectual disability alone. See also Jeffrey J. Rachlinski, Chris Guthrie & Andrew J. Wistrich, 
+Probable Cause, Probability, and Hindsight, 8 J. EMPIRICAL LEGAL STUD. (SPECIAL ISSUE) 72 (2011) 
+(providing another illustration). 
+149 See Kevin M. Clermont, Trial by Traditional Probability, Relative Plausibility, or Belief 
+Function?, 66 CASE W. RES. L. REV. 353, 385–89 (2015) (discussing the MIN and MAX rules for belief 
+functions).  
+150 The complication does not become a serious concern in connection with the chains of inferences 
+of Part I. There the factfinder is trying to fix the probative force of evidence, without instructions to 
+evaluate inference-by-inference; and anyway the force of any one piece of evidence will usually be 
+diluted by other evidence. Here in Part III, the critical effect of a fairly large but insufficient disbelief 
+could be determinative under the standard of proof. 
+151 Normalizing the beliefs yields Prob(a) = 67% and Prob(b) = 100%. See supra note 49 and 
+accompanying text. Applying the product rule then yields a 67% probability of the conjunction. 
+152 See supra text accompanying note 114. 
+ Electronic copy available at: https://ssrn.com/abstract=3411623 48 
+ 
+should normally be less likely than not-b. Given this rarity, trying to impose whole-case 
+logic on factfinders might not be worth the candle. For conjoining beliefs in elements, the 
+law  apparently,  and  wisely,  makes  a  simplifying  assumption  in  the  pursuit  of 
+workability.153  
+Fourth, I note that the step of evaluating elements coincides with a switch in 
+commonly employed legal images: law and lawyers tend to shift unconsciously from 
+a style of thinking that conforms with belief functions (used by factfinders when 
+processing evidence, with acute awareness of uncommitted belief) to a form of speech 
+that conforms with fuzzy logic (used by lawyers, when discussing the output of 
+evidence processing as “more probable than not” or whatever, having set aside the 
+uncommitted belief).154 Fortunately, belief functions and fuzzy logic are compatible, 
+being alternative versions of multivalent logic and each applying the MIN and MAX 
+rules.155 Belief functions differ from fuzzy logic in their treatment of uncertainty. 
+Belief functions treat all uncertainty front and center in terms of uncommitted belief, 
+while fuzzy set theory moves any second-order imprecision, that is, uncertainty about 
+the estimate of degree of membership, into the additional dimension of a so-called 
+ultra-fuzzy set. It is fuzzy logic’s separation of first-order uncertainty from second-
+order imprecision that makes the operation of its MIN and MAX rules simpler in 
+appearance. This switch in logical frameworks is not necessary, but the switch both 
+conforms to the law’s imagery and makes it easier to picture and discuss what is going 
+on.156 So, by normalizing the degrees of belief, we can speak of fuzzy beliefs being the 
+likelihood that a fact is true and a complementary likelihood that it is false, while we 
+remain in a nonadditive system. In terms of those fuzzy beliefs, we can at least feel 
+more comfortable with the notion that if the belief in each element is stronger than 
+                                                
+153 See Rott, supra note 53, at 310–11 (assuming contraposition, when conjoining belief functions, 
+so that if b is less likely than a, then not-a should be less likely than not-b); cf. COHEN, supra note 28, 
+at 114, 221, 256, 267 (assuming contraposition for his inductive probability, which leads to the 
+conclusion that “the plaintiff proves his over-all case on the balance of probability if, and only if, he 
+thus proves each of his component points”). 
+154 See HAACK, supra note 42, at 57 (illustrating the legal system’s usages). 
+155 See supra note 57 (supporting the compatibility of the logical versions). For a mathematical 
+defense of a complete switch from belief functions to fuzzy logic, and for the simplifying assumptions 
+on which the switch rests, see Didier Dubois & Henri Prade, Consonant Approximations of Belief 
+Functions, 4 INT’L J. APPROXIMATE REASONING 419, 419, 421 (1990) (“Viewing a fuzzy set as a 
+consonant random set, it is shown how to construct fuzzy sets that may act as approximations of belief 
+functions.”).  
+156 See MIRCEA REGHIŞ & EUGENE ROVENTA, CLASSICAL AND FUZZY CONCEPTS IN MATHEMATICAL 
+LOGIC AND APPLICATIONS 354 (1998) (referencing belief functions and fuzzy logic, and observing: “In 
+order to treat different aspects of the same problems, we must therefore apply various theories related 
+to the imprecision of knowledge.”); SCHUM, supra note 57, at 41, 200–01 (disbelieving that it is “possible 
+to  capture  all  of  this  behavioral  richness  within  the  confines  of  any  single  formal  system  of 
+probabilities”). 
+ Electronic copy available at: https://ssrn.com/abstract=3411623 49 
+ 
+its corresponding disbelief, the conjunction of all the elements’ beliefs is stronger than 
+the disjunction of all the disbeliefs. 
+CONCLUSION 
+Once one recognizes that degrees of belief capture the output of factfinding, 
+and that traditional probability does not, the way to represent the logic of factfinding 
+becomes fairly obvious. Abandoning probabilistic images—going from bivalent logic 
+to multivalent logic—is mentally and emotionally challenging, however, so the proper 
+reasoning has remained hidden behind theorists’ acceptance of a cognitive black box. 
+This Article can then be the first to provide a complete account of how to reason 
+logically from evidence to a decision on facts. 
+First, the factfinder should connect each item of evidence to a fact to be proved 
+by constructing a chain of inferences. Each inference rests on a generalization, which 
+ancillary considerations can strengthen or undercut. By multivalent logic’s rules for 
+conjunction and disjunction, the factfinder’s degree of overall belief in the fact to be 
+proved will be as strong as the weakest inference in the chain, while the degree of 
+disbelief will be as strong as the strongest disbelief in the chain of reasoning. A belief 
+function amalgamates the belief and the disbelief, along with uncommitted belief that 
+reflects uncertainty, to give a final measurement of the probative force of the item of 
+evidence on the fact to be proved.  
+Second, the factfinder must aggregate the probative force of all the items of 
+evidence that bear on any one fact to be proved. To do so, the factfinder should 
+compute a weighted arithmetic mean of the belief functions for all the items: gather 
+all  the  items’  belief  functions,  weight  beliefs  and  disbeliefs  in  accordance  with 
+evidential significance, and divide their separate sums by the sum of the weights. The 
+result is a composite belief function for the element. 
+Third, the factfinder should apply the appropriate standard of proof to each 
+element. This means that the factfinder would proceed directly to the evaluation 
+phase, which will involve a standard of proof that compares the degree of belief from 
+the element’s composite belief function with the degree of disbelief. Evaluation does 
+not require a combining of the elements. 
+In sum, the factfinder should construct a chain of inferences to produce a belief 
+function for each item of evidence bearing on an element, and then by weighted 
+average produce for each element a composite belief function ready for the element-
+by-element standard of proof. Mapping this normative method for processing legal 
+evidence is a worthy undertaking. More significantly, the mapping provides further 
+demonstration  of  how  embedded  the  multivalent-belief  model  is  in  our  law. 
+Traditional probability has a tight hold on modern legal minds, although not on the 
+law itself. Accepting multivalent beliefs in lieu of bivalence’s probabilism would solve 
+so many theoretical problems, disarm so many criticisms of the law, and just explain 
+so much for us that one must wonder why it meets such resistance. 
+ Electronic copy available at: https://ssrn.com/abstract=3411623 

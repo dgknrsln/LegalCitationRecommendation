@@ -1,0 +1,1394 @@
+Dissecting liabilities in adversarial surgical robot
+failures: A national (Danish) and European law
+perspective
+K. Rosager Ludvigsen1 and Shishir Nagaraja2
+1Department of Computer and Information Sciences, University of
+Strathclyde, kaspar.rosager-ludvigsen@strath.ac.uk
+2Department of Computer and Information Sciences, University of
+Strathclyde, shishir.nagaraja@strath.ac.uk
+July 2020Abstract
+Over the last decades, surgical robots have risen in prominence and
+usage. They are not merely tools, but have also become advanced in-
+struments and have gained network connectivity. Being connected to a
+networkexposestherobottocyberattacks,whichcandamagethepatient
+or the operator. These injuries are normally caused by safety failures,
+such as accidents with industrial robots, but cyberattacks are caused by
+security defects instead. Surgical robots are increasingly sold and used
+in the European Union, so we decide to uncover whether this change has
+been considered by European Union law, and which legal remedies and
+actions a patient or manufacturer would have in a single national legal
+system in the union.
+We ﬁrst conduct a case study, where we analyse which legal remedies
+a patient can make use of, if they are injured by a surgical robot caused
+by a cyberattack in the national legal system. We also explore whether
+cybersecurity and cyberattacks are considered by the upcoming Medical
+Device Regulation of the European Union.
+We show that the selected national legal system is adequate to deal
+withthistypeofincident. Thisisbecauseofitsﬂexibilityandinacertain
+approach even to ignore the distinction between safety and security to
+the beneﬁt of the patient, and in one situation to remove liability from
+the manufacturer by nullifying its status as party. Otherwise, unless the
+operatororotherpartieshavemadethecyberattackmorelikelytooccur,
+the manufacturer is liable.
+Weﬁndthattheregulationdoesnotdirectlyconsidersecuritydefects,
+requiring interpretation and use of guidance to show it. Considering the
+real risk cyberattacks pose on medical equipment, we ﬁnd this to not be
+adequate. We further ﬁnd that the regulators of medical devices, includ-
+ing surgical robots, will not necessarily have adequate staﬀ or rules of
+enforcement,asthishasbeenlefttothememberstatestosolve. But,we
+also ﬁnd, due to the comprehensive amount of rules that can be applied
+cumulatively, together with the possibility for further rules and compli-
+ance later on, that these issues could be solved in the future.1 Introduction
+In a world with an increased use of robot technology, surgeons are not the only
+oneswhosehandsareusedoperateonpatients. Surgicalrobotsarehereaswell,
+and oﬀer assistance and unique approaches to treatment not possible before,
+with minimally invasive surgery being the primary technique. Two examples
+would be laparascopy done by the da Vinci systems1 and the Magellan system
+being used for cardiosurgery2 (Bergeles and Yang 2014). Surgical robots are
+widely used for a range of treatments (Holder, Khurana, Harrison, et al. 2016),
+for example for hernia and intestinal cancer3.
+Thesurgeonandthepatientarenottheonlyrelevantpartieswhenitcomes
+to the surgical robots. Engineers, programmers, nurses, lawyers and a whole
+range of other staﬀ are needed during the design, production, operation and
+maintenance of them, and if accidents happen to the patient or people sur-
+rounding it. This also applies to the research, and keeping up with the devel-
+opments in both the technical, healthcare and legal sphere is diﬃcult, which is
+why guidance on it always needed.
+SurgicalrobotsareincreasinglysoldandusedintheEuropeanUnion,which
+meansthatbothitslegalframeworkaswellasthoseineachmemberstateapply
+to them.
+We will therefore apply both European Law and national law, in this case
+Danish law, to the issues that cyberattacks on surgical robots that lead to
+injuries present. This gives us the overarching picture for manufacturers in the
+union,aswellastheindepthperspectiveonwhenthecyberattackissuccessful,
+and someone has to cover the damages done to the patient.
+Surgical robots are considered cyberphysical systems (CPS), because they
+are robots that interface with the physical world, with their tools being used
+directlyonthepatient. Theriskofinjuryordamagecausedbytherobot,dueto
+internal failure or deterioration is called safety, for both patient or anyone else
+surroundingtherobot. Safetyfailurescanleadtoinjury, butcyberattacksfrom
+individuals or organizations outside of the hospital are now able to as well4.
+We can express this as security defects causing safety complications. This is a
+constant threat as such attacks change and come from many angles.
+We will not answer how the attacks can be prevented, but approaching the
+issue from a practical point of view is maintained. These cyberattacks and
+security issues are prevented with legal frameworks, and when injury occurs,
+remedies within law exist to mend the damage caused. While most literature
+mention the possibility of this, we take a closer look at some of the issues these
+situations would present in a national court, as well as the rules concerning the
+prevention on a European level.
+1Operationbysmallincisionsintoabdomenorpelviswiththeaidofacamera.
+2Surgeryontheheartandgreatvessels.
+3A da Vinci surgical robot from a small Danish hospital broke the record with 426 per-
+formedsurgeriesin2019,anditismainlyusedforsaidtreatments.
+4Suchasunwantedmovementoftoolsinsidethepatient,orthemachinestoppingentirely
+(Alemzadeh,Chen,etal.2016)WethereforeaskhowtheserobotsareregulatedatanEuropeanUnionlevel,
+and whether the rules consider the cybersecurity aspect. We would also like to
+know how an accident involving a cyberattack is considered from the patient’s
+pointofviewwithinanationallegalsystem,tokeepitaspragmaticaspossible.
+Connectedsurgicalrobotsareconsideredmedicaldevices,whichmeansthey
+are to be regulated by the European Medical Device Regulation (hereafter the
+Medical Device Regulation), 2017/745, since they ﬁt the deﬁnition of ”medical
+devices for human use” seen in article5 1(1)6.
+The legal remedies that we analyse to gain compensation for injuries caused
+by a cyberattack on a surgical robot in Danish law are: Product liability and
+reimbursement outside of contract lawsuits, and a ”Patient Reimbursement”
+case.
+The paper is built up as follows: We deﬁne surgical robots, adversarial
+failuresandadversariesinsection2. Onthebasisofthesedeﬁnitions,weanalyze
+whether the three diﬀerent legal remedies in Danish law, that can be used to
+recover damages from a cyberattack on a connected surgical robot are possible
+to use in practice in section 3. In the same context, we identify and try to
+uncover whether and how the future Medical Device Regulation from EU-law
+handlethesameissuesandcybersecurityinregardstosurgicalrobotsinsection
+4. We quickly discuss the NIS Directives relevance in regards to the topic in
+section 5. In section 6 we try to extract principles that can used for other
+jurisdictions from our analysis, and in section 7 we take a short look at related
+and future work, with concluding remarks in section 8.
+We ﬁnd that seeking compensation with product liability in Danish law is
+likely. A lawsuit based on reimbursement outside of contract is likely as well,
+but proving the link between careless behaviour and the injury can be diﬃcult.
+An administrative case in Patient Reimbursement system is very possible how-
+ever, because it disregards the nature of the cyberattacks, and merely requires
+that it is proven that the surgical robot ”fails”. Overall, we see that even if a
+cyberattack is diﬃcult to prove, the approach of the Patient Reimbursement,
+the ﬂexibility of the Reimbursement outside of contract and the idea of defects
+allow patients to recover damages in practice.
+We also ﬁnd that the Medical Device Regulation does not literally address
+the cybersecurity issues that both surgical robots and other devices gain from
+network connectivity. They can be interpreted to be included with help from
+guidance on cybersecurity, but because the rules are not explicit, there is a risk
+that the threats to patient health are not prioritized. We ﬁnd that the lack
+of explicit oversight concerning cybersecurity occur to the regulators7 as well,
+which raises doubts whether security compliance can be enforced.
+5Abbreviatedtoart.
+6Thisregulationwaspostponedwithayearto26/05/2021.
+7Nationalauthoritiesthatoverseecompliance,seeart. 101.Scope of this paper: In law, we work with subjects, which here consist of
+manufacturers and regulators, who act on the medical devices as such, and
+the opposing subject of the patient. We exclude importers, distributors and
+others that have special rules, since they will not aﬀect the cybersecurity of
+surgical robots.8 This paper will not consider the same issues with the Medical
+DeviceDirective,orregulation2017/746oninvitrodiagnosticmedicaldevices9.
+Furthermore,wechoosenottoincludeuntetheredmicrosurgeonsinouranalysis,
+even if they are closely related to surgical robots as such. Finally, we do not
+discusstheinteractionsbetweentheNISdirective10 andDanishorEU-lawuntil
+section 5.
+2 Deﬁnitions
+In this section we deﬁne what connected surgical robots are, how they are con-
+sideredcyberphysicalsystems,whatadversarialandnon-adversarialfailuresare,
+and which adversaries would try to induce these failures.
+2.1 Surgical Robots
+The two terms active surgical robotics and telerobotics are closely related and
+generallyexplainwhatweseeassurgicalrobots(Hocksteinetal.2007)(Bergeles
+and Yang 2014). Active surgical robotics means robots with pre-programmed
+data and computer-generated algorithms that function without real-time op-
+erator input (Hockstein et al. 2007).11 While also containing these features,
+telerobotics additionally emphasizes a remote control of a robot by a human.
+Control of the robot can be completely manual, or supervisory, the latter
+requiring substantial intelligence and/or autonomy for the robot (Niemeyer,
+Preusche, and Hirzinger 2008). A telerobotic system has an operator-site and
+a remote-site. The operator-site usually has an acoustic display, a visual dis-
+play, a tactile display and a haptic display. Remote-site usually has acous-
+tic/visual haptic/kinesthetic-tactile sensors or actuators (Niemeyer, Preusche,
+and Hirzinger 2008). For this paper, we focus on telerobotics, which we will
+merely call connected surgical robots, since they require a network connection
+to function properly.
+8Unlesstheyinstall/changethesoftwareonthedevices.
+9Whichhasnotbeenpostponed,andmayincludespeciﬁcsurgicalrobots.
+10Directive2016/1148,concerningmeasuresforahighcommonlevelofsecurityofnetwork
+andinformationsystemsacrosstheUnion.
+11Anexampleoftheﬁrstgenerationofactualroboticsurgicalsystems,couldbetheexperi-
+mentalPUMA200manipulatorfrom1988,whichwoulddeﬁneentryorientationandlocation
+of a surgical needle. The operator would then insert the needle as deﬁned by the robot
+(BergelesandYang2014).2.2 Cyberphysical Systems
+Asmentioned,connectedsurgicalrobotsarecyberphysicalsystems(CPS),which
+means they seamlessly integrate computation and physical components into
+their operation (NSF 2014). A generic description would be: the lowest level
+starts with sensors and actuators, which are connected to a ﬁeld or a sensor
+network, all of which would be managed by a control system, that itself would
+be bound to a control system network (Kobara 2016). The human machine in-
+terfacewouldexistatthislevel,whichwouldbewheretheoperatorofasurgical
+robot would reside. Autonomous cars, smart grids and IoT devices all ﬁt these
+criteria, but with these features come many vulnerabilities, which are included
+withtheconnectiontoanetworkortheinternet. Astheyhavephysicalcompo-
+nents, thesedevicescaninteractandaﬀectthehealthofhumans, andsocanan
+adversary that successfully attacks the system. This shows that connected sur-
+gical robots, in this context, can be considered safety-critical systems, because
+of the potential risks imposed on the patient (Alemzadeh, Raman, et al. 2016).
+CPS consists of many hardware and software systems combined, and each
+can be manipulated from the outside, even if it is loosely isolated from the
+internet (Kobara 2016). To put this into perspective, from 2000 to 2013, 144
+deaths caused by adverse eﬀects related to surgical robotic operations were
+reported in the US (Barry et al. 2012).12
+2.3 Adversarial failures
+GiventheextensivedevelopmentsinCPS,wecanassumeitishardformanufac-
+turers,doctors,hospitals,robotoperators,engineers,lawyers,andpolicymakers
+to keep up with the developments in the world of these systems. However, as
+these solutions become popular, there is ever greater need to understand how
+they fail, since this is fundamental to any litigation and assignment of respon-
+sibility. Any action that is intentional and seeks to induce failure, is considered
+a cyberattack. In this context, we decide to classify failures as primarily ad-
+versarial and non-adversarial failures. Failures refer to what the cybersecurity
+system fails to prevent.
+Adversarial failures are caused by an active adversary who attempts to in-
+duce failures to attain their goals, such as manipulating the surgeon’s com-
+mands, inferring the surgical procedure to compromise patient privacy, or the
+theft of intellectual property such as the robot’s algorithm or trade-sensitive
+datalikethesurgeon’sinputs. Thereexistsothertaxonomiesforsecurity(Rizvi
+et al. 2018) (Quarta et al. 2017) (Papp, Ma, and Buttyan 2015) (Aslam, Kr-
+sul, and Spaﬀord 1996) (Al. 1994) and safety (Vasic and Billard 2013), but we
+feel that a separate taxonomy is needed, due to the speciﬁc issues that con-
+nected surgical robots pose. Our proposed categories of adversarial failures for
+connected surgical robots are as follows:
+1. ManipulationAttacks. Theadversarycovertlymodiﬁestheinstructionsto
+12Noneofthesewerecausedbycyberattacks,asfarasweknow.get a diﬀerent desired response. This is understood in the broadest sense,
+since it can be initiated in any part of the CPS that connected surgical
+robots consist of. This was tested in practice on the RAVEN II open
+platform,whichissimilartocurrentconnectedsurgicalrobots(Alemzadeh,
+Chen, et al. 2016). The attacks were injections of unintended user inputs,
+or motor torque commands, which required access to the master console
+or control software. The eﬀect of this failure would be unintended jumps,
+movements or for the robot to completely stop.
+2. Subverting robotic control. The adversary hijacks or otherwise makes
+changes in the robot’s control. This is diﬀerent from manipulation, since
+this can be done on the network the robot receives signals from, and
+focusesonthecontrol, notmanipulatingexistingactions. Apracticaltest
+worthmentioning,doneonthesameconnectedsurgicalroboticplatformas
+before(Bonacietal.2015),wherepacketsweredelayedorchangedbetween
+the operator and robot, and using this technique, they were also able to
+hijack the surgical robot13. While the ﬁrst two can only cause delays
+in movements, the latter completely enables the adversary to do as they
+please, potentially harming the patient.
+3. Reprogramming the robot. The type of access that is needed to manipu-
+late the robot, may also allow access to change the software as well. The
+failure consists of changes in software on any level, and while we do not
+havepracticalexamplesforconnectedsurgicalrobots,theseverityofsuch
+failuresonthepatientoroperationingeneralislargeenoughtoraisecon-
+cern. The possible enabling of other failures or other newly programmed
+actions are great, and this only shows how important maintenance and
+routine validation of equipment is.
+4. Theft of trade-secrets. This is seen as the attackers recreating the un-
+derlying technique of surgery by collecting surgical control instructions
+over time. This failure can be done initiated over the network or inside
+the surgical robot. While it cannot harm the patient, it is theft of the
+techniques used by surgeons currently, and could in the future constitute
+the basis for data sets that AI or machine learning algorithms can use to
+replace the operator entirely. Collecting this without the consent of the
+surgeon is both unethical and most likely violates rules on trade-secrets,
+anditconstitutesanissuethatwillgenerallyneedtobeaddressedfurther
+on.
+5. Poisoning the feedback loop. The adversary covertly modiﬁes the camera
+and/orothersensoryoutputssenttothesurgeon. Sensoryinputsarecur-
+rentlyvitalforshowingwheretheprocedureinsidethepatientisat,aswell
+as what the surgeon is currently doing. If any of these are changed, the
+13This was done by fooling the robot to believe that input believing packet loss was oc-
+curring, but not enough to interrupt the operation, and it would then only be able to be
+controlledbythepacketssentbytheadversary.riskofinjuryofthepatientincreases. Thediﬃcultyofresettingorreturn-
+ing the robot to its initial position is further hampered by any feedback
+being oﬀ or wrong, which makes this a dangerous failure.
+6. Software vulnerabilities. Any vulnerability that an adversary can make
+use of to commit further attacks on, is considered a failure as such. It is
+also the broadest, since it covers any part of the connected surgical robot
+and its accessories. Unlikely the failures above, this is passive and not
+necessarily caused by the adversary, but instead enables them to cause
+failures because of it.
+Figure 1: Illustration of Adversarial failures, which includes what is compro-
+mised, here integrity, conﬁdentiality and availability.2.3.1 Non-adversarial failures
+We do not discuss non-adversarial failures in this paper, but we choose to list
+them for completeness. Non-adversarial failures are caused by the correct op-
+eration of the robots as per the speciﬁcation, but where an unsafe outcome is
+caused nonetheless. We see them as:
+1. The robot works in unintended ways because of failures in motor calibra-
+tion or sensory defects.
+2. The robot causes a denial of service on itself whilst legitimately trying to
+accomplish the assigned task.
+3. The robot has an incremental bias which creeps in due to shifts in belt
+tensions, gear wear-and-tear and other electro-mechanical reasons.
+4. The robot fails to handle shifts in lighting, shadows, tilt of surface level,
+noise, mist or other environmental noise in the visual or acoustic plane.
+5. The robot fails to perform due to inability to function in poor network
+conditions or being operated in network conditions (jitter, throughput,
+and bandwidth) that are quite diﬀerent from what it was tested on.
+2.4 Adversarial model
+The identity of the adversary, the party that seeks to cause adversarial failures,
+havediﬀerentprioritiesandfocuses,sowehavedecidedtoassumecertainthings
+about them. Adversaries are traditionally modelled.
+Our adversarial model includes cybercriminals, disgruntled employees, ter-
+rorists/activists/organized criminal groups, and nation states (Cardenas 2009),
+aswellascompetingsurgicalrobotmanufacturers. Wechoosetohavethewidest
+range of actors possible, since the choice of them and which failure they want
+to induce, can change the outcome of the analysis in the following sections.
+As shown, we assume that stronger players can induce many failures, while
+competitors and disgruntled employees would only do a few. We leave out any
+attacks that can cause injury from those two, since none of them would have
+the intention to cause them in the ﬁrst place. Cybercriminals and organized
+criminals groups overlap, and can generally both create all failures except for
+softwarevulnerabilities,butweassumethattheftoftrade-secretswouldbedone
+only by the organized party. Terrorists/activists would want to create as much
+of an uproar as possible, which is why they would go for failures that cause
+this. And nation states are capable of everything, with the highest amount of
+resources at their disposal.
+2.5 Legal Sources
+In the next sections, we make use of a range of legislation and regulations.Figure 2: Illustration of which adversarial failures the adversaries make use of.
+Since connected surgical robots are sold both at a national and European
+level, we include the overarching rules as well as national rules for litigation.
+The Danish legislation includes rules for suing manufacturers, as well as
+law for public authorities since one approach to compensation is through an
+administrative system.
+2.5.1 EU-law
+Directive85/374/EEConproductliability,directive93/42/EEConmedicalde-
+vices,regulation1215/2012onjurisdictionandtherecognitionandenforcement
+of judgements in civil and commercial matters, directive 2016/1148 (the NIS
+Directive), regulation 2017/745 on medical devices and regulation 2020/561 on
+amending regulation on medical devices, as regards the dates of application of
+certain of its provisions.
+2.5.2 Danish Law
+Law of product liability14, law of public administration15, law of healthcare16,
+law on medicinal equipment17, the NIS law18, and the act of complaint and
+reimbursement access in the healthcare sector19.
+14LBKnr. 261,20/03/2007,notationforDanishlaw.
+15LBKnr. 995,22/04/2014.
+16LBKnr. 433,22/04/2014.
+17LBKnr. 139,15/02/2016.
+18LOVnr. 436,08/05/2018.
+19LBKnr. 995,14/06/20183 Case: Danish law
+In the following section we show how patients can use applicable law to recover
+their damages from a cyberattack on a connected surgical robot. We show
+whether a lawsuit with product liability, reimbursement outside of contract or
+a case in the Patient Reimbursement system in Danish law will be likely to
+succeed, and we do so from the perspective of the patient as the claimant, and
+the manufacturer as the defendant.
+3.0.1 Initial comments
+RobotsassuchinDanishlawdonothavelexspecialis20madeforthem,andout-
+side the implementation of the NIS directive cybersecurity and cyberattacks do
+not have any either. Directives are implemented into national law, not directly
+used like regulations, see art. 288 in the TEU21.
+Before one makes use of the most general approach to compensation, two
+othertypesmustbeconsidered,asthesearelex specialis,albeitnotforcyberat-
+tacks or cybersecurity. We therefore go through product liability, then patient
+reimbursement below.
+However,bothspecializedapproachesbuildonthethoughtsfromreimburse-
+mentoutsideofcontract. Thistypeoflawsuitisbasedoncaselaw. Thepatient
+can always fall back on this, if the others are deemed to have a low chance to
+succeed. This type of lawsuit requires that 4 speciﬁc case law based criteria for
+reimbursement are fulﬁlled: someone who is liable, quantiﬁable damage, a link
+between the responsible and the damage and that the link is adequate (Eyben
+and Isager 2013). These have to be fulﬁlled cumulatively, and in order. The
+defendantmayhaveactedcarelessly,andtheadversarialfailurecauseddamage,
+and a link between the two is made likely, but if the link is not adequate, the
+cased will be ruled in favour of the defendant. We will come back to this last
+approach after the other two.
+Both the lawsuits will be part of civil litigation, which initially leaves the
+patient at a disadvantage in terms of providing evidence. But this changes as
+we will show below.
+3.1 Product liability
+If a product is defective, and causes damage, a lawsuit on the basis of product
+liability can be initiated. Defect is deﬁned as the product being less safe than
+a person is entitled to expect22.
+If a patient being treated by a medical device that fails due to a defect and
+gets injured, we know that the patient is entitled to directly sue the manufac-
+turer instead of the hospital in Danish law. This was answered more than forty
+20Specializedlegislation.
+21TreatyoftheFunctioningoftheEuropeanUnion.
+22Seeart. 1intheProductLiabilityDirective,or§5intheimplementationlaw.years ago in the case U.1960.576H23, where two patients kept the manufacturer
+ofoxygenmachinesliableforthedamagethatwascausedonthemastheywere
+hospitalized.
+Product liability can be sought in three ways in Danish law. The ﬁrst is
+on the basis of the product liability directive, the second is through a case law
+based approach that existed before the directive24, and the third is the oldest
+and is product liability through contract.
+3.1.1 Product liability directive lawsuit
+Lawsuits for product liability are usually initiated on the basis of the Product
+Liability Directive in Danish law (Andersen and Lookofsky 2010). Since it is a
+directive, it has to be implemented into Danish law, which was done with the
+law of product liability. We therefore refer to the relevant paragraphs therein.
+First, weseethatthesurgicalrobotandaccessoriesareincludedbythelaw,
+see § 3.
+Secondly, we must consider whether the manufacturer is exempted from
+responsibility. Connected surgical robots that are not considered goods are
+exempted, see § 3. This refers to idiosyncratic surgical robots that cannot
+be moved without destroying them. The defendant can further argue, that if
+the surgical robot has not been put into circulation, has been designed to be
+used by a single hospital, or that due to the state of the art the time it was
+impossible to discover the defect, they are not responsible, see § 7, part 1. The
+last is especially important, since this enables the defendant to argue against
+any adversarial failures caused by new or unusual means, but the burden of
+proof for this is incredibly high, as it is the knowledge of the entire industry,
+not just what the single manufacturer knew at the time.
+If none of these apply, we go through the rest of the process. The burden of
+proof is on the claimant, who would have to prove that a defect exists, see § 6.
+They also have to prove the damage as well as the link between the defect and
+the damage. The responsibility is objectively on the manufacturer. A defect is
+deﬁned as the product being less safe than a person is entitled to expect, and
+the patient would claim that they can expect for the surgery to only fail due to
+mistakes by the operator or mechanical or safety failures. Three considerations
+canmodifythisassessment,whicharethemarketingoftheproduct,itsintended
+andexpecteduseandthetimeatwhichitwasputintocirculation,see§5,part
+1. Marketing is irrelevant to this claimant, but intended and expected use will
+include some unusual considerations when it comes to the last exemption from
+§ 7. Since the use of such a robot naturally will include maintenance of any
+level of software, the idea of release of the product into circulation becomes
+void, when considering cybersecurity aspects, unless it is impossible to defend
+against, without designing new products, such as adversarial failures caused by
+quantum computing.
+23NotationforDanishcaselaw.
+24Alsocalleddelictbasedproductliability.Identifying the defect is crucial, which would require that the claimant ob-
+tains proof of the three adversarial failures that potentially can cause an injury
+on the patient. These are manipulation attacks, subversion of robotic control
+and poisoning of the feedback loop. We will continue to use these further down
+as well. They could require original design documentation, which an expert
+witness could show would risk speciﬁc manipulation of the robot or subversion
+of the control of the robot over the network, as well as poisoning of the feed-
+back loop given from visual and haptic sources. Another approach, which is
+even more appropriate, is res ipse loquitur25, proving that the injury was not
+causedbyhumanorothererror. Thiswouldforcethedefendanttoeitherargue
+that it was caused by a safety defect, which would make no diﬀerence for the
+injured party other than a new lawsuit, or make them argue why the failure
+had not happened. The claimant would then claim that since it could never be
+caused by human error or a safety defect, it must have been a defect that the
+defendant is responsible for. Since this is a civil lawsuit, in the situation where
+the defendant decides to deny all claims and not argue, the claimant is likely
+to succeed, as silence on the matter speaks against the defendant, considering
+the severity of the damage which is human injury. This is further supported by
+the role this and reimbursement outside of contract lawsuits present, since they
+would be used in situations without insurance.
+The claimant would then have to prove the damage had occurred, which we
+assumetheyareableto,buttheywouldalsohavetoprovethelinkbetweenthe
+defect and it.26. The claimant can choose to argue for a direct or indirect link.
+For the link to be direct, it has to be physically seen or decipherable from log
+ﬁles. For it to be indirect, it has to be derivable from the situation. We have
+two cases that illustrate the duality of the indirect link. Lawsuits from the case
+law based approach are free to be used in the directive based approach, even if
+the legal sources for it are diﬀerent.
+In the case U.1939.16H, cattle owned by the claimant died after being fed
+blacktreacle. Outofasetamountofcattle,onlythosefedwiththeblacktreacle
+producedbythedefendantdiedthefollowingweek. Theclaimantclaimed,after
+havingusedanexpertwitnessthatshowedthattheywereatgoodhealthbefore
+being poisoned, that they had not been overfed or otherwise damaged by the
+claimant,thatthecattlewhichwerenotfedwithitsurvived,andthatpoisoning
+fromtheblacktreaclecouldthereforebetheonlycauseofdeath. Theargument
+wasbuiltsobecauseavetatthetimecouldnotclinicallyproveit,whichiswhy
+the link is indirect. Black treacle acts as supplement, and is not supposed to
+have any drawbacks. The defendant argued, that the claimant had not proven
+this suﬃciently, but did not provide additional reasoning for why this was so.
+The Danish Supreme Court found, that there could be no other reason for the
+deaths occurring, and followed through with the claims of the claimant. This
+case is referenced frequently, and has a high level of authority.
+InthecaseU.2003.1706H,theclaimant’srosesthatwerefedwithpeatman-
+25Eliminationofotherfactorsthantheoneyouwanttoindirectlyprovecausedit.
+26Thelinkasweseeithere,isnotthesameastheoneinreimbursementoutsideofcontract.ufactured by the defendant experienced distorted growth. The parties agreed,
+thatthedistortedgrowthwascausedbyoxygendeprivation. Anexpertwitness
+broughtbythedefendantmadeitclear,thatthecontentsofthepeatwereﬁtfor
+use. The claimant used same argumentation as from above, that is, that due to
+the circumstances, the peat causing it is the only plausible outcome. Supreme
+Court found that just because the distorted growth stopped after a change in
+peat, did not mean that the peat caused it, nor that the peat could have been
+diﬀerent than how it was described, and that the peat was not diﬀerent than
+what was previously agreed and delivered between the parties. This case has a
+highlevelofauthorityaswell,whileitshowstheoppositesituationfrombefore.
+If we apply case law, we see that unless the claimant has access to log ﬁles
+that show adversarial failure, and/or design documentation that shows which
+defences and adversarial failures that were considered, the claimant should try
+to argue for an indirect link. They are likely to succeed with this, since the
+concept of the same product suddenly having a defect, the argument from the
+secondcase,doesnotapplytoadversarialfailuresthatarecausedbyinadequate
+defences.
+Thedefendanthasanothercaselawbasedtooltheycanmakeuseof,whichis
+the test for whether the defect is ”systemic damage” (Andersen and Lookofsky
+2010), which if true, shows that the product cannot be considered defective.
+Thedistinctionbetweendangeranddefectisexplainedbelow, buthasnoeﬀect
+on the test. The defendant would have to build their procedure around the test
+being fulﬁlled, which equates to two questions answered with a yes. These are:
+• Are the dangers known? The danger of manipulation attacks, subversion
+of robotic control and poisoning of the feedback are all known, but they
+are not necessarily known for each type of connected surgical robot. It
+has be known for the product. The claimant would claim, that they are
+not known and ask for documentation for this otherwise. The defendant
+wouldargue,thattheunderlyingriskofanytypeofcyberattack,warrants
+public knowledge of the dangers. But the defendant is unlikely to prove
+anything with such a general argument, since it is product speciﬁc. We
+know from case law, especially from U.2015.572H27, that known refers
+to the product only, and any vague statements are not accepted by the
+judges.
+• Are the dangers unavoidable? By unavoidable, it refers to whether the
+scientiﬁc and technical community deems these to be so. The defendant
+would claim, that all adversarial failures are generally unavoidable be-
+cause of new techniques and vulnerabilities. The argument of constant
+development would be used. The claimant would retort to this, that cer-
+tain adversarial failures are more preventable than others. The exception
+27Groundbreaking case, where a claimant tried to sue the manufacturer of a big tobacco
+brand for the cancer that the excessive use of cigarettes had caused. They failed, because
+the damage caused to her was considered systemic, because it was both known by everyone
+concerningtheproduct,andunavoidableifyousmokedit.would generally be subversion of robotic control. The exception is there,
+because the manufacturer cannot perfectly control the network that the
+connected surgical robot receives commands over. They are however able
+to build suitable defences against the rest, even if doing so in CPS is
+diﬃcult.
+Itisunlikelythatbothquestionsinthistestcanbeansweredwithyes,since
+the public at large does not know that these adversarial failures can occur to
+connected surgical robots, but certain adversarial failures may be considered
+unavoidable. Most importantly, the judges have to be convinced of this, and
+even if both could be answered with a yes, that does not mean that the judges
+will decide to allow the test.
+3.1.2 Product liability lawsuit via case law
+Initially, it has to be mentioned that The European Court of Justice (ECJ)
+has concluded, that this approach can only be used where the product liability
+directive does not apply, see for example case C-183/0028 where a Spanish set
+of product liability rules that put the patient/consumers in a more favorable
+position, was ruled to violate the directive (Andersen and Lookofsky 2010).
+This means that this approach can only be used on connected surgical robots,
+that are not covered by the directive, see § 3 from the law of product liability.
+In practice this would limit it to completely custom made surgical robots, as
+well as those that cannot be moved without being destroyed.
+While the test of systemic damage, and the use of case law from earlier,
+still apply to this approach, there are certain diﬀerences in how the defect is
+deﬁned. Both the deﬁnition of defect from above can be used, as well as the
+old term ”danger” (Andersen and Lookofsky 2010). If the product can injure
+user or third person, it is considered dangerous. But to be defective, it has to
+be ”unreasonably dangerous”.
+This implies that some products are inherently dangerous to use, but it is
+the manner of danger outside of this that determine it. A good analogy would
+be candy, it is not unreasonably dangerous that excessive consumption makes
+youfat. Anysoftwaresystemordevicethatisconnectedtotheinternetorlocal
+network, pose a direct danger to the patient due to the known vulnerabilities
+and possibilities of abuse it contains. But for it to be unreasonable, it has to
+have a risk to occur often or commonly, which so far seems to not be the case
+here.
+Wealsonoticethatmanyotherlegalareasneglecttoidentifyandseeadver-
+sarialfailuresasunreasonablydangerousinDanishlaw, whichfurthersupports
+that it is not. The use of ’defect’ from the directive is therefore appropriate,
+sinceunreasonablydangerwouldnotcoveradversarialfailures,andbecausethe
+terms can be used interchangeably in both approaches.
+Otherwise, the case would proceed as above depending on the adversarial
+failure that is possible to prove or imply by the claimant.
+28NotationforcaselawfromtheECJ.3.1.3 Lawsuit on product liability in contract based on case law
+The contractual approach is next. It is also based oﬀ case law. If possible,
+this type of lawsuit would completely circumvent the rules laid out above, and
+instead merely focus on analogies to the Danish law of purchases, which would
+lead to cases where the evaluation of the sale of a proper product was met or
+not. This would apply to the patient as a third party, and allow a lawsuit.
+To make use of this, the claimant must ﬁrst prove that there exists a contract
+between them and the operator or manufacturer. Clearly, the patient has not
+signedanythingwitheitherinwrittenform, buthasthepatientdonesoorally?
+To assume the patient has accepted an oral contract with the hospital or the
+doctor, there has to be a so called “meeting of the minds” (Gomard, Godsk
+Pedersen, and Ørgaard 2015) in Danish law. Such a meeting must here include
+the accept of treatment being done in part or partially by a surgical robot, and
+thegeneralriskoffailureofthemachineoranaesthetics. Whethertheyhaveto
+disclosetheriskofadversarialfailuresisunlikely,sincetherehavebeenrecorded
+0ofthemonsurgicalrobotsinDenmark. However, theclaimantisnotlikelyto
+provethatthisexists,sinceDanishhealthcarelawdoesnotworkwithcontracts
+between these two parties in the context of private law. This means that the
+judge would dismiss the case on the basis of a lack of a contract.
+3.1.4 Comments on Evidencing
+Likeexpressedabove,provingthatthedefectexistsintheproduct,andwhether
+thelinkexistsbetweenthedefectandtheinjuryarecomplicatedfortheclaimant.
+Initially, they do not posses the necessary design documentation or ﬁles that
+show, that the adversarial failure caused their injury. Like in other cases, they
+can show that nothing else could have caused the failure, such as expert wit-
+nesses or even the operators that worked with the robot at the time, or system
+admins. This would force the defendant has to provide some of documentation
+directly or otherwise face the its opponents claims unopposed.
+Furthermore, theEuropeanMedicalDeviceRegulation29 hasaspecialfunc-
+tion in regards to proofs in these cases. In art. 10(14), paragraph 3, if the
+regulator determines damaged occurred, it can upon request transfer all docu-
+mentationthatithasaccesstothepatient/representatives,requiringtherebeing
+apublicinterestindisclosuretooverruleanyviolationofdataprotectionrights
+andwithoutviolatingintellectualpropertyrights. Whilethishasnotbeenused
+in practice, it more or less acts as a right for the patient. This can be used
+both here and in the lawsuit further down. The idea of intellectual property
+rights can be stretched far, which can practically limit the amount that can be
+shared. But since civil lawsuits in Danish law can be held behind closed doors,
+documentation that in an open case would violate those rights can be used, if
+deemed possible by the regulator. The court decides on whether it is appro-
+priate, if contested by the defendant. Public interest refers to what it literally
+reads as, which means that it has to potentially aﬀect more than the claimant,
+29Regulation2017/745.orhaveconsequencesotherwise,whichadversarialfailuresonconnectedsurgical
+robots warrant.
+3.2 Patient Reimbursement
+The act of complaint and reimbursement access in the health-sector deﬁnes the
+structure and the requirements for patient reimbursement cases.
+Themeanstodosoiscalled“patientreimbursement”,whichisnotalawsuit,
+but instead an administrative way to receive compensation. This is facilitated
+by the Patient Reimbursement Authority30, which is ﬁnanced and run by the
+Danish state and private parties, and it solely considers and decides on cases in
+regards to patient injury31. It does so in the manner as any public authority
+would, via the principle of oﬃciality32 in Danish public law. It includes the
+collection of evidence by the authority if necessary, and perfect application of
+existing law and committing to the correct decision.
+The patient applies for patient reimbursement on the authority’s website.
+This means that in this case, the only parties are the patient and the state,
+since the subject of such cases can only be the one who initiates it, and the
+state is by default the one who compensates.
+The objective liability for this damage rest on the regions that run the hos-
+pitals, which in practice means the state, see § 29.
+Thetypesofdamagesthatareconsideredarelaidoutin§20,part1. Sinceit
+isnotcausedbytheoperator,thedamagesustainedhastobecausedby“errors
+or failures in technical apparatus”. Any type of failure, whether it was caused
+by neglect or other, are considered to be covered by this type of damage. The
+damage has to be caused “most likely” by the failure or neglect, see § 20 part
+1. This is especially important, when the patient was considerably weakened,
+andtheinjurylikelywouldnothavecausedanydamagehadtheynotbeensick.
+The patient would here be advised to make sure, that the evidence necessary is
+seen by the authority. Otherwise, the only criterion would be, that the damage
+was more likely to be caused than not.
+Anadversarialfailureinducedbyanadversaryintothesekindsofsystemsis
+possible,andaninjurycausedbyitalwaysestablishesalinkbetweenthefailure
+and the injury. But if the adversary is able to hide those details, the operator
+canstillattestthatthemachinefailed,soitwouldthengofromacybersecurity
+to a safety case, of which there is well established practice that supports the
+patient, as well as the literal reading of § 20, part 1.
+After the application has been sent, the authority would then collect infor-
+mation from the hospital where the injury took place, including documentation
+created by the operator of the connected surgical robot. The patient is free
+to provide further evidence, but since the authority has responsibility to make
+the right decision, they do not need to. If they want to, the patient is able to
+30Staﬀincludesdoctorsandlawyers.
+31See§§32and33intheact.
+32Thisprincipleisnotcodiﬁed,butseenincaselaw,literatureandOmbudsmand’spractice.access33 whichdocumentationtheauthoritybasetheirdecisionon,andhaltthe
+process until they have provided further proof. But this is supposed to be the
+exception.
+The decision can be appealed to the courts, or to the appeal board driven
+by the resort ministry34.
+Theamountoneisabletorecoveriscomparabletoasuccessfullawsuit,and
+applyingforitisfree. Onlycompensationforquantiﬁabledamageandpainand
+suﬀering is possible, as the Danish deﬁnition of tort is not applicable here. If
+the patient accepts the judgement, and does not act further, they will receive
+the compensation at the date of the decision.
+As long as the patient sustained quantiﬁable damage, and the connected
+surgical robot has sustained a failure, even if it cannot be proven to have been
+caused by an adversarial one, they are able to receive compensation.
+But what if adversarial failures on surgical robots become commonplace?
+This could lead to this method not being possible, either because of a change
+intheact, orbecausetheadministrativepracticewouldinterpretitswayoutof
+it, such as assuming that adversarial failures would not qualify.
+3.2.1 Comments on Evidencing
+Proving it in the Patient Reimbursement environment is diﬀerent, as seen with
+theinﬂuenceofpubliclawandthelackofcourtrules. Therefore,thefullburden
+of proof does not lie on the patient, but on the authority. Since they merely
+need to decide on whether equipment encountered an error or failed, seeing
+the failure and damage occur would be suﬃcient. However, it is unlikely that
+they have individuals educated to read the logs that such adversarial failures
+will create, but they can require the hospital/manufacturer to explain this to
+them. Cooperation with the Danish regulator 35 is possible as well, since the
+sharing of documentation between such parties is allowed. They will have all
+documentation necessary for the surgical robots to be put into circulation on
+the European market.
+Inthenextsection,wegobacktoalawsuitthatisalwayspossibletoproceed
+but maybe not succeed.
+3.3 Reimbursement Outside of Contract
+The default for seeking compensation in Danish law, is reimbursement outside
+of law, where the four requirements, liability (through acts of carelessness),
+quantiﬁable damage, a link between the responsible and the damage and that
+the link is adequate have to be fulﬁlled. Unlike the examples above, there
+is no objective responsibility, only culpa which the manufacturer must have
+committed36 (Eyben and Isager 2013).
+33EquivalenttoaFreedomofInformationRequest,orothernationaltools.
+34Relevant ministerial organ, usually under the Minister of Health, but each government
+decidestheirownstructure.
+35TheDanishMedicinesAgencyinthiscase.
+36Whichistranslatedintocarelessnessinsteadofnegligence.Traditionally the standard for what is not careless, is what a bonus familias
+pater37 would do. However, this is criticized in Danish law (Eyben and Isager
+2013)38, and the standard is gradually moving towards a focus on the breach of
+rules (both legal and otherwise) or the “normal right to act”. This is deﬁned
+or at least elaborated on in case law, but it has not speciﬁcally been done for
+manufacturers of CPS.
+3.3.1 Fulﬁllment of Criteria
+For the lawsuit to be successful, the patient that was injured by a connected
+surgical because of an adversarial failure, has to make it likely for the court
+that the criteria mentioned earlier are fulﬁlled. The defendant will attempt to
+disprove this in various ways, which we will show below.
+First, the claimant has to show that the defendant acted carelessly in rela-
+tion to the adversarial failure. Like mentioned earlier, there does not exist lex
+specialis they can have broken here, which would normally be enough to show
+carelessness.
+The claimant will not initially have any documentation concerning what
+considerations were taken about the prevention of adversarial failures in the
+company. But they can bring forth the argument, that the manufacturer failed
+to act to prevent the adversarial failure from occurring. This assumes this was
+made clear ﬁrst, and if not, the claimant can say the same about the safety
+aspect that allowed the patient to be injured. The evaluation of carelessness
+is broad, so the claimant could also bring out the danger of a surgical robot,
+thatwarrantstheutmostcautioninbothitsdesignandlaterservicegiven. The
+defendant can either choose to bring out the documentation that shows, that
+they did consider the one adversarial failure that caused the injury, but could
+also go for the approach where they do not reveal which one.
+Like in product liability, this is a disadvantage, since silence or dismissal
+does not prove anything in a civil lawsuit39. Due to the severity of the injury
+and of the big risk it poses, as both the da Vinci and Magellan systems can
+cause internal hemorrhage, the barrier to show carelessness is further lowered.
+The ﬁnal nail in the coﬃn would be the support of ”responsibility based on
+profession” that is seen in case law regarding safety in this area (Eyben and
+Isager 2013). We can apply from safety to security, due to the consequences of
+it being the same.
+InthecaseU.2010.1350H,thedefendanthadinstalledventilationequipment
+at the address of the claimant, but a ﬁre developed after the defendant had left
+the property. This had happened due to a known defect with smoke cartridges
+after the installation, and the defendant knew this both from sector and own
+experience. The judge concluded, that because of this knowledge and because
+theyareconsideredprofessionalsinthebusiness,theyactedcarelesslyandwere
+37Translatestotheidealfamilydad.
+38DefendedbyLangbo,LarsBoinaspeciﬁccontext,butthereasoningisaseasilyreached
+bynotusingtheterm.
+39Unlesstheclaimsareunreasonableoroutofproportion.therefore responsible40. Had this been between two consumers, the act would
+not have been considered careless. In a security context, this means that if it is
+known that manipulation attacks, subversion of robotic control and poisoning
+of the feedback loop is possible, any professional must make all attempts to
+prevent it, and must prove they have done so, as to not be kept liable. The
+claimant is therefore likely to be able to fulﬁll this criteria.
+Another clear way to show carelessness is to have violated or otherwise not
+complied with rules put down in law. Even if the case is not about personal
+data, if the defendant had breached this as well, the bar for proving what is
+mentioned is mentioned is further lowered, but not entirely clear if there had
+been lex specialis to breach. On the other hand, the defendant could bring out
+theargument,thatathirdpartyhadnotcompliedwithcybersecuritylegislation
+such as the NIS directive. They would have to prove, that if the breach of
+cybersecuritybythehospital,causedtheadversarialfailureormademuchmore
+likely, they would not liable. If this was the case, such a lawsuit would require
+the claimant, after having a verdict going against them to sue the operator
+(hospital) of the surgical robot instead.
+We assume that any injury sustained is quantiﬁable, which means that the
+secondcriterionisfulﬁlled. Theclaimantwouldneedreportsfromhospitalstaﬀ
+andcouldalsogetasecondopinionontheinjury. Thiswillbecontestedbythe
+defendant, who might bring an expert witness, to scrutinize the documentation
+provided by the claimant, but this is rarely worth the costs.
+The next issue becomes whether there is a link between the careless be-
+haviour and the injury. The claimant has to prove, that the careless behaviour
+directly or indirectly likely caused the damage. Like in product liability, this
+is usually the most diﬃcult part for the claimant to prove in a lawsuit, but
+their use of the term diﬀer. In reimbursement outside of contract, the claimant
+merelyhastomakeitmorethanlikely,thatthecarelessnesscausedthedamage.
+The defendant can attempt to prove, that the injury would have occurred
+no matter what they had done, which brings us back to the diﬀerent adversar-
+ial failures. If the failure is subversion of robotic control, there are situations
+where the manufacturer could not have implemented defences that could have
+prevented it. In that situation, it would only be the network administrator and
+therefore the hospital, that could have prevented it, which makes the claimant
+unlikely to succeed. But in regards to the other two, the claimant can argue
+that the chance of the adversarial failure occurring would have been lower, had
+the defendant actively attempted to prevent it.
+The defendant can retort, that the injury would have occurred regardless of
+theirbehaviour. Thisisrelatedtotheideaofconditiosinequanon41,wherethe
+act of carelessness must have made it more than likely for the injury to occur.
+Todothis,theywouldhavetheprovethattheadversarialfailurewasimpossible
+to prevent, therefore making the link impossible to prove for the claimant. But
+the burden to prove this is very high.
+40Wedonotmakeuseoftherestofthecase.
+41Arequirement,withoutitnoneispossible.The defendant can bring a tangential issue out, which is whether there are
+competing causes for the damage. They can argue, that there always exists a
+risk for anadversary to cause an adversarial failure, regardlessof their mistake,
+forexamplecausedbythefailureofsoftwarevulnerabilitiesingenericoperating
+systemsontheirdevices. Butthedefendantwouldagainneedtoprovethis,and
+vaguegeneralstatementsabout”technicaladvancements”and”newtechniques”
+from hackers are too vague, and do not constitute a competing cause. Even if
+they can prove, that an update of software they do control caused the failure,
+this does not equate to the judge supporting the argument, nor does it refute
+the compelling argument made by the claimant.
+A piece of safety case law can further show how complicated the matter is.
+In the case U.2011.354Ø, the ship of the defendant was captured by Somalian
+pirates. The claimants, the employees of the ship, claimed that the captain
+hadnotestablishedincreasedsurveillanceofthedangerouswaters,andhadnot
+taughtthecrewtousethealarmsdesignedforthesesituation. Thejudgeagreed,
+butfoundthedefendanttonotbeliable,eveniftheyhadactedcarelessly,since
+the capture would have occurred regardless. If we apply this to our situation,
+it can be used by the defendant if they can prove, that the adversarial failures
+would have happened regardless of their careless behaviour. The analogy from
+pirates to adversaries is adequate, but yet again requires that the defendant re-
+vealsalldetailsthatcouldshow,thatthecyberattackwasoverwhelmingenough
+to warrant them not being liable. We will return to this in section 3.4. But it
+is unlikely to succeed in court.
+If the adversarial failure was caused inside the connected surgical robot,
+the link between carelessness and the injury is likely for the claimant to prove
+in court, because indirect proving would be possible, since a third party (the
+hospital)posseslocaldatathatcanlikelyshowthefailure,orduetoanindirect
+proof of it.
+The last criterion is adequacy. Is it adequate that the link between the
+carelessbehaviourandthedamageexists? Thisquestionisusuallyansweredby
+case law, but this speciﬁc area has not been considered by the Danish courts.
+The claimant can argue, that because the defendant is a professional party,
+with objective liability and special role in both the product liability directive
+and the Medical Device Regulation, and because the harm is bodily, that the
+link is more adequate than not (Eyben and Isager 2013). The defendant would
+bring forth, that they should not be responsible for any kind of cyberattack
+directed at their produced machines, and that this should fall on the end user.
+But even if this is stated contractually, this does remove the fact they are the
+only party capable of eﬀectively preventing some of the adversarial failures,
+which would lead to the judge most likely dismissing the last argument. The
+actions of third parties has been heavily discussed in the literature (Eyben and
+Isager 2013), and it is clear, that if a third party, such as the operator, caused
+the adversarial failure to occur by their actions, the defendant cannot be held
+liable. But situations where the action just made it more likely, does not mean
+that the defendant is oﬀ the hook. The defendant must prove this, easiest
+done with expert witnesses or compelling documentation, that could show forexample show why the cybersecurity or network security levels of the hospital
+were inadequate.
+Nonetheless, it is likely that the link, if proven, is adequate nonetheless.
+We see, that the patient can prove that the manufacturer acted carelessly,
+that an injury occurred, that a link between their injury and the carelessness,
+and it is likely that it is adequate. Unless the adversarial failure is subversion
+of robotic control, a lawsuit is likely to succeed.
+3.3.2 Comments on Evidencing
+Like before, the hardest parts of these lawsuits are proving the existence of
+the failure, and whether the manufacturer is responsible. Through case law,
+we know that the judges are willing to reverse the burden of proof, especially
+when they feel like they have a very low chance of uncovering the “hidden
+proof” (Eyben and Isager 2013). This refers to situations, where the actors
+that cause the damage are wholly owned and used by the other party, which
+the claimant here would have no way of proving anything about. This is also
+called presumption of responsibility, and it leads to a situation where, if the
+defendant cannot prove that they did not act carelessly, they will be considered
+liable (Eyben and Isager 2013). To reach this the claimant must encourage the
+ideainthemindofthejudge, thatthenecessarydocumentationtheyneed, will
+never come out of the defendant, unless they make use of this tool. But this
+tool is rarely used, and since we showed above that the case can most likely be
+decidedwithoutreversingtheburdenofproof,itisunlikelytobeused. Butthe
+claimant should use it in the situation where the case would fail on proving the
+link, since the reversal would merely require the defendant failing to prove they
+did not act carelessly.
+An example from case law would be U.2009.1652V, where an amusement
+park had to prove that their ride was correctly designed, instead of the injured
+party. They could not do so, which meant that they had to cover damages.
+The courts can also choose to tighten the evaluation of carelessness, or as-
+sumeresponsibilitytobeobjectivebecauseofthecircumstances, withacentral
+case for this being U.1957.109H. In it, a 14-year-old girl dropped out from an
+amusementparkride,andgotinjured. Shedidsobecausethebackoftheseatin
+the ride failed, and as she did not cause unusual strain to the seat, the supreme
+court concluded that the park was to cover her damages, since the seat was not
+strong enough for the task is was made for, and the park could not disprove
+this. While the judges at the time did not call it tightening of the evaluation of
+carelessness, it is later seen as such.
+Thiscanbeusedbyaclaimanttoargue,thatiftheconnectedsurgicalrobot
+andtheinfrastructurearounditallowattacksthatcancausebodilyharm,they
+are not secure enough for their usage. But the distinction between what the
+manufacturer is expected to be able to defend against, which we considered
+earlier, is still apparent here. Like in the case where the manufacturer can only
+reinforce what they has control over, and nothing more. If this was to happen,
+it would allow the patient not to use resources to prove the ﬁrst criterion.3.4 Adversary speciﬁc aspects
+Terrorist organizations, nation states, cybercriminals and organized criminal
+groups all require additional considerations.
+Iftheadversarialfailuresareinducedbypartieswhoarecoveredbycriminal
+legislation, here terrorists/cybercriminals and organized criminal groups, the
+cases would be diﬀerent in practice. The police and prosecutors would collect
+evidence at ﬁrst, which would make the burden of proof for both patient and
+manufacturer considerably lighter, since reimbursement and product liability
+cases can make of the evidence collected. Additionally, if organized criminals
+induced the failure(s), additionalresourceswouldbe delegated to the investiga-
+tion, and the potential punishments would be higher. Same goes for terrorists,
+since they are covered by anti-terror legislation.
+Both they and nation states as adversaries can cause force majeure. This
+term in Danish law covers very unusual situations, where normal practice may
+notapply,whichmeansthemanufacturerislikelytonotbekeptliable. Stuxnet-
+like (Falliere, Murchu, and Chien 2011) malware can be a concrete example of
+sophisticated malware, that in practice would lead to situations where force
+majeure would be called by the defendant. The mentioned malware is an ex-
+ample of an attack that led to all our mentioned adversarial failures, at once,
+and similar overwhelming attacks from nation states cannot reasonably be ex-
+pected to be defended against. This is what the defender of the manufacturer
+wouldargue. Actsofterrorcarryasimilarconnotation,anditwouldmostlikely
+lead to force majeure situations, unless the cyberattacks were simple and easily
+preventable.
+But the adversary will matter, since a cybercriminal causing a failure is one
+thing, but a named terrorist organization causing it is completely diﬀerent to
+a judge. The amount of resources available to prosecute organized criminal
+groups is higher as well, since they too have special legislation imposed upon
+them, which might lead to a lighter burden of proof for the patient.
+4 The European Medical Device Regulation
+Inthissection,wewillintroduceselectedobligationsandrightsformanufactur-
+ers and regulators in the Medical Device Regulation42. We also relate them to
+the adversaries and adversarial failures, as well as some general cybersecurity
+considerations.
+4.1 Background
+TheMedicalDeviceRegulationisdesignedtoachieveabalancebetweenahigh
+level protection of health for patients and users, as well as high standards for
+quality and safety of medical devices43. This ﬁts the scope of the regulation,
+42Regulation2017/745.
+43Seepreamble2intheregulation.stated in art. 1(1), being a focus on laying down rules for placing medical
+devices on the market.
+A regulation is a binding legal instrument, that is enforceable by the states
+and the EU, and usable (enforceable) by the relevant authorities as presented
+literally. Thisisderivedfromart. 288intheTEU,whichalsodeﬁnesdirectives
+asbinding,buthavethemrelyonthe“formandmethods”ofthememberstates,
+with this generally meaning that the implementation is left to them instead.
+It is natural to ask whether surgical robots are included within the regula-
+tion. Wenotethatart. 1(1)includesany“medicaldevicesforhumanuse”. This
+clearlyencompassesconnectedsurgicalrobots. Additionally,surgicalrobotsare
+notincludedinart. 1(6),whichconstitutesthenegativedeﬁnitions(exclusions).
+4.1.1 Accessories
+Accessories of surgical robots will be governed by the same rules as the robots
+they are used with, see art. 1(1). However, we must deﬁne what accessories
+are in this context as stated in art. 2(2). Any traditional accessory that is
+also a medical device, such as respirators that could be used during operation,
+are covered in art. 2(2) ﬁrst part. But the second part expands and includes
+anything that is “to speciﬁcally and directly assist in the medical functionality
+ofthemedicaldevice(s)”. Tobeconsideredanaccessory,itmustspeciﬁcallyand
+directlyassistwiththemedicalfunctionalityofthesurgicalrobot,fortelerobotic
+surgery this is both the encrypted connection, the local network that enables it
+and the operator screen and equipment that controls it elsewhere.
+Figure 3: Example of accessories of a surgical robot.This does not mean that the accessories, if not directly a part of the con-
+nected surgical robot, are under the responsibility of the manufacturer. The
+operator or end user must maintain and keep them updated, and a separate
+evaluation on whether they would be considered medical devices is taken by
+the member state, see preamble 8 in the regulation. The regulator that decides
+resides in the place of business of the accessory manufacturer. But if the ac-
+cessories, such as speciﬁc equipment for the physical part of the surgery, are
+a direct part of the robot, the manufacturer is responsibility for any safety or
+security issues they present.
+4.1.2 Entry into force
+As of the time of writing, the application of the Medical Device Regulation has
+beenpostponed44. Despitethis,wehavedecidedtouseitinsteadoftheexisting
+medical device directive, since that will be obsolete by 26/05/2021.
+4.2 Guidance on Cybersecurity
+Like national law, EU-law has additional documentation and guidance that
+can be used by diﬀerent parties aﬀected by it. One of these the is guidance
+on cybersecurity for medical devices, which is made by the Medical Device
+Coordination Group (MDCG)45. Guidance can be seen as legally binding46, a
+tool to guide interpretation or at least act as guidelines for the parties. We
+make use of it for interpretation speciﬁcally.
+The MDCG, while having created this, does not make legally binding guid-
+ance, as there is nothing stating this in the regulation, but in the future art.
+103(8) does allow them to create recommendations or opinions in emergencies.
+For this reason, we have to view the guidance on cybersecurity as soft law47.
+Whiletheregulationdoesnotexplicitlyconsiderthesafetytosecurityprob-
+lems, the guidance does on page 10. It equates security risks having a safety
+impact,whichhereforuswouldrefertodamagetoapatientcausedbyanadver-
+sarialfailure. Itarguesthatbecauseofthis, AnnexIhastobothbeinterpreted
+in a safety as well as a security manner.
+4.3 Manufacturers
+Surgical robots can be put on the market by several diﬀerent parties, and as
+mentionedearlier,wehavechosenthemanufacturerasthemostimportantone,
+due to their central role in the robot’s life cycle. As a general rule, the manu-
+facturer answers only to the regulator in its place of business, see art. 10(14).
+However, any patient in any member state can sue any manufacturer, because
+44DescribedinRegulation2020/561,whichwascreatedtogiveaﬀectednationalregulators
+timeandresourcestorespondtotheCovid-19crisis.
+45Establishedbyart. 103inthisregulation.
+46This is prevalent in national law, if the guidance is purely made for a speciﬁc public
+authority,butcanbeproblematictoalwaysimposeinEU-law.
+47Alegalsourcethatisnotbinding,butcanaﬀecthowothersourcesareinterpreted.of the rule of special jurisdiction from art. 7 in regulation 1215/201248.
+We have selected several obligations 49 which are:
+1. The system of risk management, art. 10(2).
+2. The system for quality management, 10(9).
+3. Sole responsibility for devices, 10(1)(12)(13)(14).
+4. A system for ﬁnancial responsibility, 10(16).
+5. Annex I speciﬁc obligations.
+The system of risk management. This is deﬁned in Annex I, section 3. It
+is a continuous iterative process through the surgical robot’s entire life cycle.
+The system has to identify and analyse all foreseeable hazards, estimate and
+evaluate risks associated with/occurring during intended use and the future,
+eliminate or control those and evaluate this information and combine it with
+the data gathered from the post-market surveillance system50.
+The term hazard does not literally include adversarial failures, but since
+they can cause hazards in a safety manner, like the surgical robot jumping
+or possible getting hijacked which risks the patient and anyone nearby, they
+should naturally be included. Theft of trade-secrets or software vulnerabilities
+cannot directly causephysicalharm, and should therefore notbe included. But
+from this, all other adversarial failures must be eliminated or controlled. The
+guidance summarizes these parts of the system as a circular information ﬂow,
+consisting of a risk management plan, assessment, risk control, evaluation, re-
+view(s) before release and post-market activities, see p. 17. But this is not
+directly derived from the regulation.
+The system of quality management. While this system includes the risk
+management above, it also has others elements that are relevant to us. Firstly,
+identiﬁcationofapplicablegeneralsafetyandperformancerequirements/exploration
+of options to address it. This is mandated, and must be addressed separately
+from the rest. Secondly, the post-market surveillance system, which in cyberse-
+curity terms must catch all incidents moving forward.
+Soleresponsibility. Thetermsoleresponsibilityreferstothemanufacturer’s
+role as both the creator, controller in art. 10(12) in the sense that any non-
+compliance on the device has to be relayed to the regulator, and as a partner
+with the regulator, since they have to cooperate and follow requests given in
+48Regulationonjurisdictionandtherecognitionandenforcementofjudgementsinciviland
+commercialmatters.
+49Weomitclinicalevaluations/investigations.
+50Asseeninart. 83,whichrequiresmanufacturerstohaveasysteminplaceforsurveillance
+ofthepost-marketsituationoftheirdevice,beitacademicortechnicaldata.art. 10(14). This ﬂips back to art. 10(1), which solely states that the devices
+should be designed and manufactured to comply with the regulation. Generic
+software, other than it being being updated, is not included, as is accessories
+that are also medical devices. But other accessories are.
+Asystemforﬁnancialresponsibility. Thisisdeﬁnedinart. 10(16),where
+compensationschemesspeciﬁctoeachcountryarementioned,whichusuallyin-
+volvesinitialinsurancecoverage,butalsoproductliabilitylawsuitsandnational
+law. Theriskclass,typeandsizeofthemanufacturerplaysaroleinwhichmea-
+sures,likeinsurance,thattheyhavetoundertake,butthearticletakesnational
+protective measures into account – this includes Patient Reimbursement from
+earlier. This shows that the regulation leaves all legal remedies and considera-
+tions concerning litigation up to the member states and insurance solutions.
+Annex I. By itself, this annex further deﬁnes requirements for the medical
+devices, and according to the guidance and if read literally, section 17 on elec-
+tronic programmable systems should be the focus when it comes to connected
+surgical robots. Section 17.1 requires that the devices are designed for repeata-
+bility, reliability and performance. If a single “fault” is found, it has to be
+eliminated or reduced as much as possible. Whether fault only refers to non-
+adversarial failures or the opposite is unclear, but considering the guidance’s
+emphasis on this part, an interpretation that sees it as adversarial failures is
+appropriate. Thisissupportedbysafetyfaultsbeingthefocuselsewhere. Since
+these requirements are not part of the risk management system, this further
+emphasizes that any adversarial failure that can aﬀect the three terms above
+mustbeprevented,whichmeansthatthefailureoftheftoftrade-secretsislikely
+to not be considered.
+Section17.2requiresthesoftwareusedindevicestobedeveloped/manufactured
+with “state of the art”. State of the art is used sparingly in the regulation, but
+hasnotbeenincludedinanyofthecentralarticles. Thetermequatestoregular
+updates and maintenance of the software, and it has to consider the life cycle
+of the device and information security, veriﬁcation and validation of it. The
+three last categories would imply that it should catch all adversarial failures,
+withsecuritypreventingmanipulationattacksandsubversionofroboticcontrol
+and perhaps theft of trade-secrets, veriﬁcation catching reprogramming of the
+robot and poisoning of the feedback loop, and validation51 reinforcing whether
+the security is adequate or not. State of the art would then prevent software
+vulnerabilities by regularly identifying and erasing them. However, state of the
+art only requires what term encompasses, which also means that anything that
+theindustrydoesnotknoworwhatisnotexpectedofit,itdoesnotrequirethe
+manufacturer to do. This includes which adversaries that should be defended
+against,withnationstatesbeingimpossibletoincludebecauseoftheirimmense
+power.
+51Referstotestingofcybersecurity.Section 17.4 requires that the manufacturers decide on minimum require-
+ments for hardware/IT networks characteristics/IT security measures, that al-
+lows the software to run as intended. This allows the manufacturer to techni-
+callysetstandardsthatcouldbeproblematicinthelongrun,sinceitmightnot
+prevent more complicated and dangerous developments.
+Now we move on to the rights of regulators, and how that plays into the
+cybersecurity of connected surgical robots.
+4.4 Regulators
+The other subject, the regulator, is deﬁned as the competent authority, which
+the member states designate themselves, see art. 101. We select several rights
+from the regulation which are:
+1. Right to request documentation and punish the manufacturer if they do
+not cooperate, art. 10(14).
+2. Market surveillance activities, art. 93.
+3. Evaluationofdevicessuspectedofpresentinganunacceptableriskorother
+non-compliance, art. 94
+4. Procedure for dealing with devices presenting an unacceptable risk to
+health and safety, art. 95.
+5. Other non-compliance, art. 97.
+Art. 10(14). Thispartofthearticlecontainsthespecialrightforthepatient
+in its paragraph 3, but we focus on 1 and 2. In paragraph 1, the manufacturer
+must provide documentation to demonstrate conformity of the device, or sam-
+ples free of charge or access to the device. Further, they have to cooperate on
+any corrective action to eliminate or reduce risk for devices they put on the
+market.
+Ifthisisinsomewaynotpossible,theregulatorhastherightinparagraph2,
+totakeallappropriatemeasurestoprohibit/restrict/withdraw/recallthedevice,
+seeart. 10(14)secondparagraph. Therightisnotbuiltupasanimmediateuse
+offorce,butrathertheopposite. Itisinsteadbasedontrustinthemanufacturer
+fulﬁlling the requests from the regulator dutifully. It is not speciﬁed whether
+the regulator has the necessary knowledge or personnel, to request actions or
+documentationthatrelatestocybersecurity, butbecauseoftheexistenceofthe
+guidance this might be the intention.
+Market surveillance activities. This activity resembles what most are fa-
+miliarwithfromnationalfoodregulationauthorities. Reviewofdocumentation,
+physical or laboratory checks are possible, as is requesting documentation from
+other parties than the manufacturers and unannounced inspections. How this
+can be applied to cybersecurity cannot be literally read, but considering thewide power the regulator has it is theoretically able to thoroughly review and
+inspect risks that might lead to adversarial failures.
+Art. 94. If the regulator takes notice of there being an unacceptable risk to
+the health/safety of patients/others, or if the device seems to not comply in
+general, they then carry out a more thorough investigation that includes the
+complete check of compliance of the regulation. Whether this includes penetra-
+tiontestingorothervalidationmeasuresofthedeviceswouldbeintriguing,but
+the possibilities exist if the threat of cyberattacks increase, or if post-market
+surveillance has shown speciﬁc issues.
+Art. 95. If the regulators are conﬁrmed in their suspicions, they ﬁrst ask
+the manufacturer to take all appropriate and duly justiﬁed corrective actions
+to restore compliance, and until then, themselves proportionally restrict the
+availability of the device. The latter means recalling the device in practice.
+And if this is not done, this loops back to art. 10(14), where the regulators can
+forcefully remove the robot from the market.
+Art. 97. If the evaluation showed other non-compliance, the regulator can
+react in a similar fashion. The requirement for unacceptable risk to health etc.,
+is not present here, but the powers are the same. This is interesting, because
+this can potentially include adversarial failures that do not have a risk to the
+healthandsafetyofanyone,forexampletheftoftrade-secretsandsoftwarevul-
+nerabilities. It remains to be seen how this can be used in regards to connected
+surgical robots.
+4.5 Discussion of the regulation
+It is no secret, that the Medical Device Regulation does not literally mention
+cybersecurity, adversarial failures or even robots. This is because it is a EU
+regulation, which strives to encompass all possible medical devices, seen in art.
+1(1). We do not criticize or comment on this, but it is also the legal framework
+for connected surgical robots for the foreseeable future. No one would doubt
+that the regulation improves and continues what the directive did52. But we
+have to discuss the speciﬁc ﬁndings, negative and positive, that we have found.
+The regulation chooses to not have a focus on utmost prevention of adver-
+sarial failures ex ante 53, and explicitly does not say this outside of the annex
+and vaguely in other spots. If it had done this, both the safety and security of
+the patient would have been the focus. However, the safety of the patient is
+not mentioned in art. 1, which shows that it is not the scope of the regulation.
+This does not mean that issues cannot be addressed in practice by the manu-
+facturers and regulators, and preamble 101 leaves room for further legislation
+down the line, to ensure the goals of the regulation, which could include rules
+52Seepreamble4.
+53Issuessolvedbefore.for cybersecurity speciﬁcally. Future case law at ECJ can also further address
+these issues.
+The choice of leaving many important cybersecurity issues to a guidance is
+likely deliberate. But the future of healthcare is in the ﬁeld of CPS, which will
+have issues with adversarial failures. The decision to equate safety issues with
+security issues because of cybersecurity, in a guidance instead of the regulation
+is not adequate considering the guidance is not legally binding. But as shown,
+theguidancefunctionswellasatooltointerpretarticlesandtheannex. Andit
+is possible that there will be lex specialis that manages the speciﬁc issues that
+theﬁeldpresentslater,buttheyareunlikelytoinitiallyberegulations,andwill
+therefore have less weight in the world of EU-law.
+4.5.1 In regards to manufacturers
+Even with quality and risk management systems, deﬁned rights for regulators
+and tight obligations for manufacturers, and a forced state of the art idea in
+place,onemustdoubtifthemanufacturerswouldstillprefertolettheaccidents
+happen, and let litigation solve any issues later. Prevention is mentioned in the
+regulation,butifitfailstoenforcepreventioninspeciﬁctechnical,yetphysically
+dangerousaspects,suchasthoseCPSrepresentwhenadversarialfailuresoccur,
+it ends up having to solve these issues as they happen.
+However, the regulation does succeed in stating separate obligations to re-
+inforce cybersecurity, with the same systems and the requirements in Annex I
+cumulatively functioning together.
+4.5.2 In regards to regulators
+Ascanbeseen,regulatorsdonothavetoexplicitlyfulﬁlanycybersecurityobli-
+gations54, but the question remains whether they can each suﬃciently inspect
+and regulate the cybersecurity of connected surgical robots. There is not a lit-
+eralrequirementforthisintheregulation. Art. 101merelydeﬁneshowthatthe
+regulator has to be designated, but there is nothing concerning speciﬁc special-
+ized staﬀ that can handle cybersecurity. This is widely diﬀerent compared to
+regulations such as the GDPR55 which lays down a rigorous structure. Instead,
+the MDCG are supposed to coordinate eﬀorts across the EU, but they are not
+speciﬁed enough to inspect or enforce practice in art. 103.
+It is clear that the regulators rely on documentation and information gath-
+ered by the manufacturers and its partners, as seen in clinical evaluations and
+investigations56 which we have not covered, but as shown they also posses sev-
+eral rights that in the future could be central. Inspections, requests to correct
+issuesandthesharingofalldocumentationbetweenallregulatorsfromallpossi-
+blemanufacturersviatheMDCGandtheirsystems,aswellasforcefullymoving
+dangerous medical devices oﬀ the market by any means, show that the system
+54Outsideofmaintainingandbeingpartofthevariousinformationsharingsystems.
+55GeneralDataProtectionRegulation,2016/679.
+56SeeChapterVIintheregulation.anditsplayersmaysolvesomeoftheissueswehaveshownwiththeregulation.
+This includes the special right for patients in art. 10(14), mentioned earlier,
+thatenablesthemtomakeuseofthedocumentationgatheredbytheregulators
+as well.
+5 The NIS Directive
+Operators and users of surgical robots, be it private or public hospitals, have
+to fulﬁll the requirements set out in this directive. This is because they are
+consideredoperatorsofessentialservices,astheyfulﬁllart. 5(2)inthedirective.
+Their service is essential for critical societal activities, make use of network and
+information systems, and an incident would have signiﬁcant disruptive eﬀects
+ontheprovisionofthatservice. Thelastrequirementisseenwherepatientdata
+is not available, equipment like surgical robots that rely on access to a network
+loosing it, and most importantly, adversarial failures on equipment. They are
+further seen as operator of essential services in Annex I, 6. Because of this,
+states decide on appropriate and proportional technical measures to prevent
+risks, incidents and notiﬁcation of incidents to authorities in art. 14.
+In a Danish context, all hospitals report directly to the Danish Financial
+Supervisory Authority and Center for Cybersecurity.
+But this does not concern the manufacturers of surgical robots. At most,
+due to their provision of maintenance of the robot, they are considered digital
+serviceproviders. Butlikeessentialserviceproviders,manufacturerswouldhave
+to fulﬁll similar obligations as those in art. 14, but from art. 16 instead. But
+only from where the manufacturer has its place of business, see art. 18. In
+a Danish context this would imply, that only Danish produced surgical robots
+would come under Danish jurisdiction.
+Thisshows,thattherewasnoreasontoincludeconsiderationsfromtheNIS
+directiveinthispaper,sincetheywouldnotapplydirectlyasthemanufacturers
+of most surgical robots are not currently placed in Denmark.
+But the NIS directive is mentioned and emphasized by the guidance on
+cybersecurity attached to the Medical Device Regulation, but since its imple-
+mentation is done on a country to country basis, listening the approach to the
+directive for every member state is outside the scope of this paper.
+6 International Perspectives
+Since the types of cyberattack that can hit surgical robots and CPS will be
+the same in every jurisdiction, any considerations about possible legal remedies
+is relevant. And while most principles from our used law cannot be applied
+elsewhere,theideasbehindthemshouldbeconsidered. Exportingthenewrules
+from the regulation is currently not wise, as it has not been tried in practice.
+However, what was shown in Danish law is tried and true.Letting an injured patient or their family choose between traditional litiga-
+tion in courts, which has high initial costs, and an administrative system that
+is free, and potentially can recover the same exact amount of damages as one
+would get in court, should be interesting to other countries. Especially when it
+isabletoembracenewtechnologybydisregardingit,anddismissthesafetyand
+securitydiﬀerences,andonlyfocusonthefactthattheconnectedsurgicalrobot
+failed during operation. But, it is required that there exists public law in the
+background,thatforcestheauthoritytoconductafullandproperinvestigation,
+evenifthepatientisunabletoproveanything. Ifsuchasystemisinplace, and
+it always stands by what we have shown, it will always catch all patients that
+might get injured due to adversarial failures in the future.
+We could express this as three principles:
+1. If a surgical robot fails, for any reason other than the patient themselves
+causing it, the patient shall have their damages fairly covered.
+2. Regardless of whether the healthcare provider or third party caused the
+injury, the liability always rests on the healthcare system at large.
+3. Compensation can only occur, if the surgical robot is directly or indirectly
+used by a national healthcare system, where the system, whether state run,
+fullyprivatizedoranythinginbetween,paystoacompensationschemewithout
+question.
+They expresses the rules fully, and include an evaluation of fairness, as well
+as requiring them to be part of a national system, so that the state can com-
+pensate initially. It does have a central weakness, which is common in admin-
+istrative systems, since its practice can change based on the decisions it makes.
+Indeed, this makes the system highly ﬂexible, but at the risk of changing the
+interpretation to not see cyberattacks as failures.
+Even if the healthcare system was to be partially or fully privatized, as long
+as this administrative system was still in place, and all hospitals dutifully pro-
+videdalldocumentationandwerepartiesinacomprehensiveinsurancesystem,
+the idea of full compensation presented would still be possible. This is because
+the principles implicitly require full enforcement and cooperation, but if these
+lack, it is not possible to run in practice.
+The principles have room for a diﬀerent system of contracts/tort or reim-
+bursementideaintheideaof”fairly”. Systemswithobjectiveorlooserliability
+forhealthcareproviders,willnothaveissuessincetheliabilityisalwaysassumed.
+This is stated in principle 2.
+7 Future and Related Work
+In this section, we look at important related work and future work that is
+necessary to due because of this paper.7.1 Related Work
+There is a limited amount of work surrounding liability and surgical robotics.
+Beglinger,Christopherhaswrittenanote(Beglinger2020),whichexploresnon-
+adversarial failures and liability for surgical robots in an American perspective.
+It draws many useful insights from the legal sphere of product liability, as well
+asshowingtheholesthatgetcreatedspeciallywithaccidentsinvolvingthesede-
+vices. Itfurthershowedthatthereexistsroomfornationalanalysisinacademia
+considering surgical robots, whether connected or not.
+Holder, Chris et al. (Holder, Khurana, Harrison, et al. 2016) (Holder, Khu-
+rana, Hook, et al. 2016) have in their two part series on robots and legal impli-
+cations also addressed surgical robots. They serve as the best introduction of
+what we have discussed from a high level, as well as an introduction to surgical
+robotics as such.
+7.2 Future work
+In the future, if adversarial failures become commonplace, this might lead to
+it not being considered a defect or a failure in the Patient Reimbursement sys-
+tem. Considerations on this topic outside or inside of the CPS sphere or as
+interdisciplinary work is highly needed, since more infrastructure rely on it.
+Analysis on when a cyberattack constitutes a defect in diﬀerent bodies of
+EU memberstates’ law is necessary as well, since it is not clear whether the
+product liability directive answers this. A general discussion of cybersecurity
+and defects on an international level is needed too.
+Another area that needs further work is the Medical Device Regulation in
+general. Even if it itself declares that it has not changed signiﬁcantly since its
+directive form in preamble 4, but rather been reinforced, this does not mean
+that it will not be applied diﬀerently in practice. Wording means everything
+in EU-law, and the clearer we are on what it means, the better, inside as well
+as outside cybersecurity related issues. Like we touched upon earlier, research
+intowhatconstitutesaccessoriestomedicaldevicesisnecessary,aswellaswhich
+responsibilitiesthemanufacturesoftheaccessorieshave,evenconsideringfuture
+guidelines or case law.
+8 Concluding Remarks
+Having surgical robots connected to the internet seems like a nightmare come
+true. Adversaries now have access to the very instruments that save lives, and
+can potentially manipulate or at least disturb the surgery. In this paper, we
+found that legal remedies do exist in Danish law, if one was injured because of
+a cyberattack on a connected surgical robot. The remedies are either lawsuits
+or an administrative procedure.
+First, we ﬁnd that the issue of proving anything in court can be a major
+obstacle for both types of lawsuits. Design documentation, log ﬁles and other
+documentation that the manufacturer has access to, is not initially able to thepatient. Butbecausecivillawsuitsrelyonfreeargumentationfrombothparties,
+the patient can indirectly force such proof out, or from 2021 with the help of
+the regulator via the Medical Device Regulation art. 10(14). This is show in
+Danish case law in both types of lawsuits to be possible, even if it came from
+safety instead of security practice.
+We found a lawsuit based on product liability possible, if it was based on
+the EU directive or case law based approach in Danish law, but not if it was
+based on contract. It requires that the surgical robot is put into circulation,
+so completely custom made versions are exempted. Especially the use of res
+ipse loquitur, which is showing that nothing else but an adversarial failure or a
+cyberattack could have caused it would indirectly show that the defect exists.
+This, supported by case law, would show the link between the defect and the
+injury, but the defendant has one last defense they can ask for which is the
+case law based test of ”systemic damage”. If the danger cyberattacks pose
+are known, and unavoidable, the defect is not considered to be so. But both
+questions have to be answered with a no in most situations, because the risk of
+cyberattacks are not know by the public for the product, and only subversion
+of robotic control as a cyberattack can be considered unavoidable. Therefore,
+the defendant is unlikely to be able to use the test.
+We showed that the patient is able to sue for damages via reimbursement
+outside of contract, but proving the link between the attack and the injury is
+diﬃcult. Indeed, if the cyberattack was subversion of robotic control, which
+involves factors outside CPS, the link is likely impossible to prove. And the
+patient can further attempt to argue, that the needed knowledge is kept so
+closelytotheotherparty,thatitwouldbebettershownifthejudgereversesthe
+burdenofproof,whichwouldbypassallneedstoproveanycriterianecessaryto
+usethisapproach,andinsteadforcethemanufacturertoprovethatthesurgical
+robot is designed appropriately. Else, we found that the rest of the criteria
+requiredforthisapproacharelikelytobetrue,whichmeansthatthisapproach
+is possible to proceed with in court.
+And ﬁnally, the most secure way to cover damages, is to make use of the
+Patient Reimbursement system. Instead of suing the manufacturer of the robot
+that was attacked, the patient can choose to submit a free application to the
+Danish Patient Reimbursement Authority, and get their damages fully cov-
+ered57. This is only between the state and the patient. It is sure to succeed,
+because the rules surrounding this dictate, that if the machine fails, no matter
+the cause, the patient is entitled to have all their damages fairly covered.
+Thisshows,thatwhilecybersecurityandcyberattackshavenotbeenexplic-
+itlyconsideredinanyofthelegislationorcaselaw,theycanstillﬁttheexisting
+legal framework.
+We can illustrate which remedies were possible and which were not:
+57Iftheyweredeemedtohavebeeninjured.Law Product Liability Patient Reimbursement Reimbursement in
+court
+Unlikely 0 0 0
+Likely X X X
+Highly likely 0 X 0
+On a more negative note, we showed that the European Medical Device
+Regulationthatgovernssurgicalrobotsdoesnotconsidercybersecurityaspects,
+if one reads it literally. There are considerations about the health and safety of
+patients, but not speciﬁcally about the risk that cyberattacks pose. Only the
+guidance that comes with the regulation, as well as a expanded interpretation
+onitsrulesoftheriskandqualitymanagementcomeclosetooutrightrequiring
+a focus on security. This is the classical example of a broad piece of legislation,
+with all the issues that come with it.
+But, like other EU-law, there is a possibility that the Union can take sub-
+sidiary measures to ﬁll out what the regulation misses58. We interpret several
+requirements as including cybersecurity, and since several state elimination of
+risks and security levels, they have a higher chance to work in a cumulative
+manner. One set of requirements can have its issues, but when it is stated in
+botharticlesandinAnnexI,thisincreasesthechanceofithavingadiscernible
+eﬀect. Furthermore, there is the possibility of future legislation down the line,
+as well as a wide toolbox for the regulators to inspect, withdraw and generally
+keep a close eye upon the connected surgical robots if they are willing to do so.
+The latter has yet to be seen, and while useful, there is no guarantee that the
+regulators have the staﬀ or ﬁnances for it.
+We argue, that manufacturers of surgical robots are, at most, considered
+digital service providers in regards to the NIS directive, and that it has no
+impact on our analysis as such.
+In terms of lessons for other systems, we argue that the model seen in the
+Patient Reimbursement system is the most appropriate to deal with the issues
+cyberattacksonconnectedsurgicalrobotspresently,aslongasthereexistspub-
+lic law in the background that assure proper proving and procedure, and that
+theparties, whetherprivateorstaterun, alwaysfundthecompensationscheme
+and provide documentation.
+58Seepreamble101.References
+[AKS96] Taimur Aslam, Ivan Krsul, and Eugene H. Spaﬀord. “Use of A
+TaxonomyofSecurityFaults”.In:Proceedings of the 19th National
+Information Systems Security Conference (1996), pp. 551–560.
+[AL10] MadsBrydeAndersenandJosephLookofsky.Lærebog i obligation-
+sret. 4th. Vol. 1. Karnov Group, 2010.
+[Al94] CARLE.LANDWEHRet.Al.“ATaxonomyofComputerProgram
+SecurityFlaws”.In:ACMComputingSurveys 26.3(1994),pp.211–
+251.
+[Ale+16a] Homa Alemzadeh, Daniel Chen, et al. “Targeted attacks on tele-
+operated surgical robots: Dynamic model-based detection and mit-
+igation”. In: Proceedings - 46th Annual IEEE/IFIP International
+Conference on Dependable Systems and Networks, DSN 2016 395
+(2016), pp. 395–406. doi: 10.1109/DSN.2016.43.
+[Ale+16b] Homa Alemzadeh, Jaishankar Raman, et al. “Adverse events in
+robotic surgery: A retrospective study of 14 years of fda data”. In:
+PLoS ONE 11.4 (2016), pp. 1–20. issn: 19326203. doi: 10.1371/
+journal.pone.0151470.
+[Bar+12] Michael J. Barry et al. “Adverse eﬀects of robotic-assisted laparo-
+scopic versus open retropubic radical prostatectomy among a na-
+tionwiderandomsampleofmedicare-agemen”.In:JournalofClin-
+ical Oncology 30.5 (2012), pp. 513–518. issn: 0732183X. doi: 10.
+1200/JCO.2011.36.8621.
+[Beg20] Christopher Beglinger. “Note A Broken Theory : The Malfunction
+TheoryofStrictProductsLiabilityandtheNeedforaNewDoctrine
+in the Field of Surgical Robotics”. In: (2020), pp. 1041–1094.
+[Bon+15] Tamara Bonaci et al. “To Make a Robot Secure: An Experimental
+Analysis of Cyber Security Threats Against Teleoperated Surgical
+Robots”. In: (2015), pp. 1–11. arXiv: 1504.04339. url: http:
+//arxiv.org/abs/1504.04339.
+[BY14] ChristosBergelesandGuangZhongYang.“Frompassivetoolhold-
+ers to microsurgeons: Safer, smaller, smarter surgical robots”. In:
+IEEETransactionsonBiomedicalEngineering 61.5(2014),pp.1565–
+1576. issn: 15582531. doi: 10.1109/TBME.2013.2293815.
+[Car09] AlvaroA.etal.Cardenas.“ChallengesforSecuringCyberphysical
+Systems”.In:Computer Audit Update 2009.3(2009),pp.3–6.issn:
+09602593. doi: 10.1016/0960-2593(92)90002-5.
+[EI13] BovonEybenandHelleIsager.Lærebogierstatningsret.7th.Jurist-
+og økonomforbundets Forlag, 2013.[FMC11] Nicolas Falliere, Liam O. Murchu, and Eric Chien. “W32. stuxnet
+dossier”.In:SymantecSecurityResponse14.February(2011),pp.1–
+69. url: http://large.stanford.edu/courses/2011/ph241/
+grayson2/docs/w32%7B%5C_%7Dstuxnet%7B%5C_%7Ddossier.
+pdf.
+[GGØ15] BernhardGomard,HansViggoGodskPedersen,andAndersØrgaard.
+Almindelig kontraktsret. 4th. Jurist- og økonomforbundets Forlag,
+2015.
+[Hoc+07] N. G. Hockstein et al. “A history of robots: From science ﬁction
+to surgical robotics”. In: Journal of Robotic Surgery 1.2 (2007),
+pp. 113–118. issn: 18632483. doi: 10.1007/s11701-007-0021-2.
+[Hol+16a] Chris Holder, Vikram Khurana, Faye Harrison, et al. “Robotics
+and law: Key legal and regulatory implications of the robotics age
+(Part i of II)”. In: Computer Law and Security Review 32.3 (2016),
+pp. 383–402. issn: 02673649. doi: 10.1016/j.clsr.2016.03.001.
+url: http://dx.doi.org/10.1016/j.clsr.2016.03.001.
+[Hol+16b] ChrisHolder,VikramKhurana,JoannaHook,etal.“Roboticsand
+law:Keylegalandregulatoryimplicationsoftheroboticsage(part
+II of II)”. In: Computer Law and Security Review 32.4 (2016),
+pp. 557–576. issn: 02673649. doi: 10.1016/j.clsr.2016.05.011.
+url: http://dx.doi.org/10.1016/j.clsr.2016.05.011.
+[Kob16] Kazukuni Kobara. “Cyber physical security for Industrial Control
+SystemsandIoT”.In:IEICETransactionsonInformationandSys-
+tems E99D.4 (2016), pp. 787–795. issn: 17451361. doi: 10.1587/
+transinf.2015ICI0001.
+[NPH08] Gu¨nter Niemeyer, Carsten Preusche, and Gerd Hirzinger. “Teler-
+obotics”.In:SpringerHandbookofRobotics.2008.Chap.31.Pp.741–
+757.
+[NSF14] NSF. Cyber-Physical Systems PROGRAM SOLICITATION NSF
+20-563. Tech. rep. 2014, pp. 1–20.
+[PMB15] Dorottya Papp, Zhendong Ma, and Levente Buttyan. “Embedded
+systems security: Threats, vulnerabilities, and attack taxonomy”.
+In: 2015 13th Annual Conference on Privacy, Security and Trust,
+PST 2015 (2015), pp. 145–152. doi: 10.1109/PST.2015.7232966.
+[Qua+17] Davide Quarta et al. “An Experimental Security Analysis of an
+Industrial Robot Controller”. In: Proceedings - IEEE Symposium
+on Security and Privacy (2017), pp. 268–285. issn: 10816011. doi:
+10.1109/SP.2017.20.[Riz+18] Syed Rizvi et al. “Securing the Internet of Things (IoT): A Se-
+curity Taxonomy for IoT”. In: Proceedings - 17th IEEE Interna-
+tionalConferenceonTrust,SecurityandPrivacyinComputingand
+Communications and 12th IEEE International Conference on Big
+Data Science and Engineering, Trustcom/BigDataSE 2018 (2018),
+pp. 163–168. doi: 10.1109/TrustCom/BigDataSE.2018.00034.
+[VB13] Milos Vasic and Aude Billard. “Safety Issues in Human-Robot In-
+teractions”. In: 2013 IEEE International Conference on Robotics
+and Automation (2013).

@@ -1,0 +1,818 @@
+– DRAFT DECEMBER 2019 – 
+Forthcoming in Paul Torremans (ed), Intellectual Property Law and Human Rights, 4th edition (Wolters Kluwer, 2020) 
+ 
+What is Left of User Rights? – Algorithmic 
+Copyright Enforcement and Free Speech in 
+the Light of the Article 17 Regime 
+ 
+Sebastian Schwemer* and Jens Schovsbo† 
+ 
+ 
+ABSTRACT 
+Article 17 of the Directive on copyright and related rights in the Digital Single 
+Market (the DSM Directive) has strengthened the protection of copyright holders. 
+Moving forward, online content-sharing providers will be responsible for copyright 
+infringement unless the use of works on their platforms is authorized or if they have 
+made ‘best efforts’ to obtain an authorization and prevent the availability of unli-
+censed works. At the same time, the Directive has made it clear that users of 
+protected works shall be able to rely on the existing limitations and exceptions 
+regarding quotation, criticism and review and caricature, parody or pastiche. The 
+Directive even casts these limitations and exceptions as user rights. This paper 
+points out that copyright’s limitations and exceptions have traditionally consti-
+tuted a corner stone in the internal balancing of the interests of users against rights 
+holders and with a clear view of safeguarding the interests of free expression and 
+information protected by the Charter. Given the overall purpose of the DSM Di-
+rective in strengthening the position of rights holders, there is a dire risk that the 
+benefits of the limitations and exceptions evaporate in the attempts of platform 
+operators to escape liability by use of algorithmic enforcement. The article uses the 
+recent decisions of the CJEU in Pelham, Funke Medien and Spiegel Online to draw 
+attention to the central importance of the limitations and exception as the primary 
+channel for fundamental rights analyses in copyright. It is finally pointed out how 
+the DSM Directive –despite of its on-the-paper recognition of users’ rights– is most 
+likely going to lead to a devaluation of those same rights. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+* Industrial PostDoc, Ph.D., Centre for Information and Innovation Law (CIIR), University of Copenhagen. 
+† Professor, LL.D., Ph.D., Centre for Information and Innovation Law (CIIR), University of Copenhagen. 
+  1 – DRAFT DECEMBER 2019 – 
+Forthcoming in Paul Torremans (ed), Intellectual Property Law and Human Rights, 4th edition (Wolters Kluwer, 2020) 
+1.  INTRODUCTION 
+Article 17 of the Directive on copyright and related rights in the Digital Single Market1 (here-
+inafter ‘DSM Directive’) aims to strengthen the position of copyright holders vis-à-vis platform 
+to fill an alleged value gap which has been argued to have arisen because of legal uncertainty 
+and inefficient enforcement mechanisms. Seen from the perspective of fundamental rights, such 
+an endeavour is in itself unproblematic or even laudatory: After all, the Charter of Fundamen-
+tal Rights of the European Union’s2 (hereinafter ‘Charter’) Article 17(2) recognizes copyright 
+as a fundamental right itself and mechanisms which ensure that copyright functions as antici-
+pated by the legislator should be hailed as a natural extension of the acceptance of the system 
+in itself.  
+ 
+However, it is important to bear in mind that there is an intimate relationship between sub-
+stantive law and enforcement mechanisms, or to phrase it more succinctly: between law as it 
+appears in the books and law in action. As seen from such a perspective, legal analyses should 
+include i.a. the institutional setting of the substantive law. This setting may either be ‘too 
+weak’ in the sense that rights holders are not actually able to enforce their rights against users 
+to the extent that the legislator has anticipated. Also, it may be ‘too strong’ in the sense that 
+rights holders are able to overextend protection to claim more than their share e.g. by limiting 
+user rights. Both positions – the former of ‘under enforcement’ and the latter of ‘over enforce-
+ment’ – are problematic.  
+ 
+It is our starting point for the following, that whereas Article 17 may be seen as a response to 
+a problem of ‘under enforcement’, the role which online sharing platforms are supposed to play 
+implies a risk of ‘over enforcement’.3 These risks have been pointed out many times in the long 
+and at times tumultuous process which led to the adoption of Article 17 and the debate is far 
+from over. By way of example, just a week after the Directive had been published in the Official 
+Journal, Poland brought an action under Article 263 TFEU against Article 17 before the Court 
+of Justice seeking partial annulment.4 Specifically, the action is directed against the Article’s 
+provision regarding best efforts to ensure the unavailability unlicensed works as well as the 
+prevention of re-uploads after takedowns respectively.5 The action is based on the Republic’s 
+view that the provision infringes the freedom of expression and the freedom of information 
+guaranteed in Article 11 of the Charter.6 In a similar vein, in March 2019, the UN Special 
+Rapporteur on the promotion and protection of the right to freedom of opinion and expression, 
+David Kaye, criticized the provision for its incompatibility with human rights, noting that 
+‘[m]isplaced confidence in filtering technologies to make nuanced distinctions between copyright 
+ 
+1 Directive (EU) 2019/790 on copyright and related rights in the Digital Single Market [2019] OJ L 130, pp. 92–
+125.  
+2 Charter of Fundamental Rights of the European Union [2012] OJ C 364, pp. 1–22. 
+3 See in this context e.g. CJEU in C-360/10, Belgische Vereniging van Auteurs, Componisten en Uitgevers CVBA 
+(Sabam) v Netlog, ECLI:EU:C:2012:85, para. 50, that measures ‘could potentially undermine freedom of infor-
+mation, since that system might not distinguish adequately between unlawful content and lawful content.’ 
+4 Case C-401/19, Republic of Poland v European Parliament and Council of the European Union (2019/C 
+270/24), OJ C 270, p. 22. The Polish action is also to be seen against the national political background. The Di-
+rective’s Article 17 has been a prominent topic in the general public and during national elections. 
+5 Art. 17 (4)(b) and Art. 17 (4)(c), in fine. 
+6 Interestingly, the Republic chose not to invoke the right to conduct business. 
+  2 – DRAFT DECEMBER 2019 – 
+Forthcoming in Paul Torremans (ed), Intellectual Property Law and Human Rights, 4th edition (Wolters Kluwer, 2020) 
+violations and legitimate uses of protected material would escalate the risk of error and cen-
+sorship’.7 Also, the German Minister of Justice, Katharina Barley, had expressed concerned 
+about the compatibility of Article 17 with fundamental rights, but had given in to vote in 
+favour. Germany, in its extensive statement accompanying its Council vote, noted that ‘[t]he 
+aim must be to make the “uploadfilter” instrument largely superfluous.’8 Going even further, 
+this is substantiated by the Council vote, where The Netherlands, Luxembourg, Poland, Italy 
+and Finland voted against the Directive due to concerns that ‘the final text of the Directive 
+fails to deliver adequately on the above-mentioned aims’ and ‘[m]ost notably we regret that 
+the Directive does not strike the right balance between the protection of right holders and the 
+interests of EU citizens and companies.’9 The scholarly community, too, has since early in the 
+legislative process raised fundamental rights concerns in relation to the European Commission’s 
+proposal from September 2016 as well as the final text from May 2019.10 Senftleben, for exam-
+ple, criticizes the ‘remarkable transformation of the function of copyright law … [which] degen-
+erates into a censorship and filtering instrument.’11  
+ 
+In this contribution, we join the conversation. Article 17 addresses the triangular relation be-
+tween rights holders, online content-sharing service providers (OCSSPs) and users. Much of 
+the criticism is related to the Article’s interface with the E-Commerce Directive’s12 prohibition 
+of general monitoring obligations13 and fundamental rights. Here, we are not addressing the –
+principal– upstream question of compatibility of potential content filtering with fundamental 
+rights. Instead, we focus on the relation between OCSSPs and the issues of freedom of expres-
+sion, freedom of information and freedom of arts. More specifically, we focus on the role of 
+copyright’s limitations and exceptions in the scheme set up by Article 17. These provisions, 
+which stem from the international copyright conventions where they are anchored in the three-
+ 
+7 UNHR, EU must align copyright reform with international human rights standards, says expert (11 March 
+2019), https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=24298&LangID=E. 
+8 Council of the European Union, Statement by Germany, (5 April 2019), point 8, https://data.consilium.eu-
+ropa.eu/doc/document/ST-7986-2019-ADD-1/en/pdf. 
+9 Council of the European Union, Joint statement by the Netherlands, Luxembourg, Poland, Italy and Finland, (5 
+April 2019), https://data.consilium.europa.eu/doc/document/ST-7986-2019-ADD-1/en/pdf. 
+10 See e.g. Sophie Stalla-Bourdillon et.al., Open Letter to the European Commission - On the Importance of Pre-
+serving the Consistency and Integrity of the EU Acquis Relating to Content Monitoring within the Information 
+Society (September 30, 2016), https://ssrn.com/abstract=2850483; Martin Senftleben et al., The Recommendation 
+on Measures to Safeguard Fundamental Rights and the Open Internet in the Framework of the EU Copyright Re-
+form, 40 E.I.P.R. 3 (2018), pp. 149–163; Christina Angelopoulos, On Online Platforms and the Commission's New 
+Proposal for a Directive on Copyright in the Digital Single Market, (January 2017), https://ssrn.com/ab-
+stract=2947800; João Quintais et al., Safeguarding User Freedoms in Implementing Article 17 of the Copyright in 
+the Digital Single Market Directive: Recommendations From European Academics, (November 11, 2019), 
+https://ssrn.com/abstract=3484968. 
+11 Martin Senftleben, Bermuda Triangle – Licensing, Filtering and Privileging User-Generated Content Under the 
+New Directive on Copyright in the Digital Single Market, (April 4, 2019), https://ssrn.com/abstract=3367219, p. 
+5. 
+12 Directive 2000/31/EC of the European Parliament and of the Council of 8 June 2000 on certain legal aspects of 
+information society services, in particular electronic commerce, in the Internal Market [2000] OJ L 178, pp. 1–16 
+(hereinafter the ‘E-Commerce Directive’ or ‘ECD’). 
+13 Art. 15 ECD. 
+  3 – DRAFT DECEMBER 2019 – 
+Forthcoming in Paul Torremans (ed), Intellectual Property Law and Human Rights, 4th edition (Wolters Kluwer, 2020) 
+step-test, have traditionally constituted a centrepiece of copyright’s internal safeguards of us-
+ers’ interests. In the following we revisit the limitations and exceptions14 in the light of Article 
+17, which has at the same time instituted a regime of algorithmic enforcement and bolstered 
+the system of limitations and exceptions by recasting some of them as user rights and imposing 
+procedural obligations on OCSSPs to safeguard those rights.  
+ 
+ 
+2.  THE REGIME OF ARTICLE 17 
+ 
+2.1.  Introduction 
+The background for Article 17 DSM Directive on the ‘Use of protected content by online 
+content-sharing service providers’ is a peculiar one: the intermediary liability exemption rules 
+of the E-Commerce Directive have allegedly led to a failure in the copyright market:15 based 
+on the notice-and-takedown regime, online content sharing platforms have been argued to have 
+enjoyed an unfair advantage when negotiating (music) licensing deals with rights holders.16 In 
+a nutshell, this very specific issue of a potential ‘value gap’ in relation to the use of musical 
+works on platforms like Youtube17, is the context of Article 17.  
+ 
+According to Article 17(1) DSM Directive, Member States shall provide that an OCSSP per-
+forms an act of communication to the public or an act of making available to the public for 
+the purposes of this Directive when it gives the public access to copyright-protected works or 
+other protected subject matter uploaded by its users.18 In other words, affected services are 
+directly liable for copyright infringements by user uploads. In these situations, the horizontal 
+liability exemption rules are thrown overboard.19 Thus, affected platforms can no longer invoke 
+Article 14 E-Commerce Directive for the copyright-relevant acts of their users and licensing 
+ 
+14 The DSM Directive introduces several new limitations and exceptions. Given our focus on the specific Art. 17-
+context, these are outside the scope of our contribution. Also, Article 25 DSM Directive on the relationship with 
+exceptions and limitations provided for in other directives is outside the scope.  
+15 It is notable that the question whether Youtube can be considered ‘passive’ and thus falls under the liability 
+exemption rules of Art. 14 ECD, has only recently been subject to a reference to the CJEU, see case C-682/18,  
+Youtube and case C-500/19, Puls 4 TV. Related question had previously been answered by the Court in Joined 
+Cases C-236/08 to C-238/08, Google AdWords, ECLI:EU:C2010:159 at para. 107, and Case C-324/09 (eBay) 
+ECLI:EU:C:2011:474, para. 113. 
+16 See e.g. Stan Liebowitz, Economic Analysis of Safe Harbor Provisions (prepared for CISAC, February 27, 2018). 
+See also the problem definition in the Commission’s Impact Assessment: ‘Rightholders have no or limited control 
+over the use and the remuneration for the use of their content by services storing and giving access to large 
+amounts of protected content uploaded by their users’, European Commission, Commission Staff Working Docu-
+ment, Impact Assessment on the modernisation of EU copyright rules, Brussels, 14.9.2016 SWD (2016) 301 final, 
+PART 1/3, p. 137 and p. 143. 
+17 Effectively, the scope of Art. 17 is broader, though: ‘online-content sharing service providers’ (OCSSPs) defined 
+in Art. 2 nr. 6 DSM Directive, likely also encompasses other platforms like Facebook, Slideshare (sharing of 
+presentations), Pinterest (image sharing), Snapchat, Instagram, erotic streaming sites like Pornhub etc. 
+18 The unclarity of what constitutes a communication to the public has also been identified as obstacle by Com-
+mission in European Commission, Towards a modern, more European copyright framework, COM(2015) 626 final, 
+p. 9. On case law on communication to the public more broadly, see João Pedro Quintais, Untangling the hyper-
+linking web: In search of the online right of communication to the public, 21 J. World Intell. Prop. 5-6 (2018), pp. 
+385–420. 
+19 Art. 17(3) DSM Directive.  
+  4 – DRAFT DECEMBER 2019 – 
+Forthcoming in Paul Torremans (ed), Intellectual Property Law and Human Rights, 4th edition (Wolters Kluwer, 2020) 
+becomes the legislative default option for the use of copyright-protected works in these situa-
+tions, too.20 
+ 
+Instead of the traditional Article 14 E-Commerce Directive liability exemption regime for ‘host-
+ing’21, Article 17(4) stipulates the cumulative conditions under which an OCSSP is not liable 
+for content uploaded by its users.22 Firstly, Article 17(4)( a) stipulates that affected services 
+need to demonstrate their best effort to obtain licenses for user-uploaded content. This is the 
+main trajectory foreseen by the Directive to achieve its goals.23 Secondly, according to Article 
+17(4)(b) DSM, affected services need also to have ‘made, in accordance with high industry 
+standards of professional diligence, best efforts to ensure the unavailability of specific works 
+and other subject matter for which the rightholders have provided the service providers with 
+the relevant and necessary information’. Thirdly, in any event, affected services need to have 
+‘acted expeditiously, upon receiving a sufficiently substantiated notice from the rightholders, 
+to disable access to, or to remove from their websites, the notified works or other subject 
+matter, and made best efforts to prevent their future uploads in accordance with point (b)’ 
+according to Article 17(4)(c).24 
+ 
+In this way it follows from Article 17 that it is the duty of OCSSPs to ‘filter’ unlicensed works 
+and prevent their upload or re-upload. Compared to earlier versions in the legislative process, 
+where technical means were directly mentioned, the final version of the Directive refrains from 
+prescribing that the mechanism is implemented by using algorithmic solutions. Thus, there 
+exists in fact no ex lege obligation for the affected parties to rely on algorithms. However, given 
+the practical infeasibility of handling the large number of user uploads, the difficulty to identify 
+previously blocked content without technical means, and the reference to ‘high industry stand-
+ards’25, the use of such algorithmic solutions is likely, akin to a de facto imposition. 
+ 
+ 
+20 On licensing, see Martin Husovec & João Quintais, How to License Article 17? Exploring the Implementation 
+Options for the New EU Rules on Content-Sharing Platforms, IViR Working Paper (1 October 2019), 
+https://ssrn.com/abstract=3463011. 
+21 Art. 14(1) E-Commerce Directive on hosting reads: ‘Where an information society service is provided that con-
+sists of the storage of information provided by a recipient of the service, Member States shall ensure that the ser-
+vice provider is not liable for the information stored at the request of a recipient of the service, on condition that:  
+(a) the provider does not have actual knowledge of illegal activity or information and, as regards claims for dam-
+ages, is not aware of facts or circumstances from which the illegal activity or information is apparent; or  
+(b) the provider, upon obtaining such knowledge or awareness, acts expeditiously to remove or to disable access to 
+the information.’ 
+22 On the one hand, Art. 17 (4) DSM Directive is somewhat awkward in the context of copyright, systematically 
+it fits with much better within the E-Commerce Directive, where intermediary liability exceptions are horizontally 
+addressed and to which Art. 17 is represents a sector-specific carve-out. On the other hand, Art. 17 (1) DSM Di-
+rective introduces a substantive right and Art. 17 (2) DSM Directive a limitation of that right.  
+23 I.e. to ‘foster the development of the licensing market between rightholders and ... .’, see Recital 61 DSM Di-
+rective. See also Statement by Germany, supra note 8, para. 10, ‘in the European compromise, licensing is the 
+method chosen to achieve… .’ 
+24 Art. 17(5) specifies that ‘best efforts’ have to be ‘proportionate’, meaning that the concept should take into ac-
+count the type and size of the service, the type of content, and the costs of rights clearance given the existing li-
+censing options on the market.  
+25 Youtube, for example, has had an algorithmic content regulation system, ‘ContentID’, in place since 2007. For 
+an overview on content identification technologies, see Annex 12 in European Commission, Commission Staff 
+Working Document, Impact Assessment on the modernisation of EU copyright rules, Brussels, 14.9.2016 SWD 
+(2016) 301 final, PART 3/3, pp. 164–174. 
+  5 – DRAFT DECEMBER 2019 – 
+Forthcoming in Paul Torremans (ed), Intellectual Property Law and Human Rights, 4th edition (Wolters Kluwer, 2020) 
+Outside this novel liability exemption scheme in Article 17(4) DSM Directive, the sharing of 
+user uploads is given Article 17(1) DSM Directive thus only permissible if a) permission has 
+been granted or b) the use is covered by a specific limitation or exception.  
+ 
+2.2.  Article 17’s fundamental rights interface and limitations and exceptions 
+The protection of intellectual property rights (IPR) is enshrined in Article 17(2) of the Charter 
+where after ‘Intellectual property shall be protected [as property]’. As it will be explained below 
+on the ‘constitutionalisation’ of EU IPR, the Court of Justice of the European Union (CJEU) 
+has established a reading where after IPRs are neither inviolable nor offer ‘absolute protec-
+tion’.26 Instead courts should balance the (property) rights of rights holders against the pro-
+tection of other fundamental rights such as the protection of personal data and of private life 
+(EU Charter Articles 7 and 8) and the freedom of expression and information (Charter Article 
+11).  
+ 
+Compared to earlier IP-related secondary EU legislation such as the InfoSoc Directive, funda-
+mental rights are referenced explicitly in the DSM Directive.27 In recital 84, for example, the 
+DSM Directive stipulates broadly: 
+‘This Directive respects the fundamental rights and observes the principles recognised in par-
+ticular by the Charter. Accordingly, this Directive should be interpreted and applied in ac-
+cordance with those rights and principles.’28  
+In addition to the general acknowledgment of fundamental rights, the Directive comes with 
+several specific references related to the Article 17-mechanism, notably in recital 70 (emphasis 
+added): 
+‘The steps taken by online content-sharing service providers in cooperation with rightholders 
+should be without prejudice to the application of exceptions or limitations to copyright, in-
+cluding, in particular, those which guarantee the freedom of expression of users. Users should 
+be allowed to upload and make available content generated by users for the specific purposes 
+of quotation, criticism, review, caricature, parody or pastiche. That is particularly important 
+for the purposes of striking a balance between the fundamental rights laid down in the Charter 
+of Fundamental Rights of the European Union (‘the Charter’), in particular the freedom of 
+expression and the freedom of the arts, and the right to property, including intellectual prop-
+erty. Those exceptions and limitations should, therefore, be made mandatory in order to 
+ensure that users receive uniform protection across the Union. It is important to ensure that 
+ 
+26 See Case C-70/10, Scarlet Extended SA v Société belge des auteurs, compositeurs et éditeurs SCRL (SABAM), 
+ECLI:EU:C:2011:771, para. 43. See also the EU Charter Art. 17(1) in fine which makes it clear that the ‘use of 
+property may be regulated by law in so far as is necessary for the general Interest protection’. This also applies to 
+IPR. 
+27 Since the Lisbon Treaty, also other recent secondary legislation unrelated to IP, acknowledges fundamental 
+rights and more specifically the freedom of expression, see e.g. recitals 16 and 48 of Directive 2010/13/EU on the 
+coordination of certain provisions laid down by law, regulation or administrative action in Member States con-
+cerning the provision of audiovisual media services [2010] OJ L 95, pp. 1–24 (Audiovisual Media Services Di-
+rective) and recital 153 of Regulation (EU) 2016/679 on the protection of natural persons with regard to the pro-
+cessing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data 
+Protection Regulation) [2016] OJ L 119, pp. 1–88. 
+28 And in the same wording already in the Commission’s proposal from September 2016, see European Commis-
+sion, Proposal for a Directive on copyright in the Digital Single Market, COM/2016/0593 final - 2016/0280 
+(COD), (Brussels, 14.9.2016), recital 45. 
+  6 – DRAFT DECEMBER 2019 – 
+Forthcoming in Paul Torremans (ed), Intellectual Property Law and Human Rights, 4th edition (Wolters Kluwer, 2020) 
+online content-sharing service providers operate an effective complaint and redress mechanism 
+to support use for such specific purposes.’ 
+Compared to the Commission’s Proposal from September 2016, this constitutes a significant 
+strengthening of user rights. In its Explanatory Memorandum, the Commission commented on 
+the improved bargaining situation of rightsholders and noted that ‘the Directive has a limited 
+impact on the freedom to conduct a business and on the freedom of expression and information, 
+as recognised respectively by Articles 16 and 11 of the Charter, due to the mitigation measures 
+put in place and a balanced approach to the obligations set on the relevant stakeholders.’29 
+ 
+The most distinct feature relates to this latter point, namely the balancing within Article 17 
+(7) and (9), which has only been introduced relatively late in the legislative process. As it has 
+already been explained above, under the DSM Directive, sharing of user uploads is only per-
+missible if a) permission has been granted or b) if the use is covered by a specific limitation or 
+exception. Additionally, Article 17 (7) stipulates: 
+‘The cooperation between online content-sharing service providers and rightholders shall not 
+result in the prevention of the availability of works or other subject matter uploaded by users, 
+which do not infringe copyright and related rights, including where such works or other subject 
+matter are covered by an exception or limitation. 
+Member States shall ensure that users in each Member State are able to rely on any of the 
+following existing exceptions or limitations when uploading and making available content 
+generated by users on online content-sharing services: 
+quotation, criticism, review; 
+use for the purpose of caricature, parody or pastiche.’ 
+As it can be seen (cf. the word ‘shall’), the exceptions or limitations regarding quotation, 
+criticism, review and use for the purpose of caricature, parody or pastiche, which we know from 
+the InfoSoc Directive, are mandatory in the sense that Member States shall ensure that users 
+are able to rely on them.30 Whereas it has been argued previously in the literature by Geiger 
+that the CJEU had already in earlier decisions provided for (substantive) ‘users right’s’31, it is 
+quite remarkable that recital 70 makes the point so clear.32 
+ 
+29 Ibid., Explanatory Memorandum, p. 9. See also European Commission, supra note 16, pp. 154–155, noting that 
+‘[t]he freedom of expression and information may be affected negatively in cases where the services limit user up-
+loaded content in an unjustified manner (for example when an exception or a limitation to copyright applies or 
+the content is in public domain) or when the technologies fail to identify the content correctly.’ 
+30 It has been suggested that the concepts (quotation: Art. 5(3)(d) InfoSoc Directive; caricature, parody or pas-
+tiche: Art. 5(3)(k) InfoSoc Directive) in Art. 17(7) should be considered autonomous EU concepts which are to be 
+interpreted consistently across the directives and in line with CJEU case law, see João Quintais et al., supra note 
+10. 
+31 Christophe Geiger and Elena Izyumenko, The Constitutionalization of Intellectual Property Law in the EU and 
+the Funke Medien, Pelham and Spiegel Online Decisions of the CJEU: Progress, But Still Some Way to Go!, Cen-
+tre for International Intellectual Property Studies (CEIPI) Research Paper No. 2019-09, (21 October 2019), p. 10 
+ff.; Senftleben, supra note 11, p. 8, more critically, notes that ‘the scope of this obligation and the consequences of 
+insufficient support for relevant copyright limitations remain unclear. The expression “are able to rely on” need 
+not be understood in the sense of a hard obligation to ban filter systems that are incapable of distinguishing be-
+tween a permissible parody and an infringing copy.’ 
+32 In relation to consumer rights, it has been noted that ‘consumers remained largely off copyright law’s radar 
+screen’, see Bernt Hugenholtz & Natali Helberger, No Place Like Home for Making a Copy: Private Copying in 
+European Copyright Law and Consumer Law, 22 Berkeley Technology Law Journal 1061 (2007), p. 1077. In 2014, 
+  7 – DRAFT DECEMBER 2019 – 
+Forthcoming in Paul Torremans (ed), Intellectual Property Law and Human Rights, 4th edition (Wolters Kluwer, 2020) 
+ 
+Apart from strengthening the specific limitations and exceptions by casting them as user rights, 
+Article 17 also contains procedural safeguards of these rights, which we explore in depth below. 
+OCSSP’s are thus obliged to support users when they engage in quotation etc., see recital 70. 
+Additionally, platforms are required to inform users in their terms and conditions of the user’s 
+right to use works under exceptions or limitations.33 
+ 
+2.3.  The role of limitations and exceptions in the light of the case law of the CJEU 
+In order to understand the background to the Directive we now turn to the case law of the 
+CJEU on the interface between copyright and fundamental rights and the ‘constitutionalisa-
+tion’34 of EU IPR. The literature on this topic is abundant and here we focus just on the most 
+recent developments (namely Pelham, Funke Medien and Spiegel Online). Suffice therefore to 
+note that following the decisions from the CJEU in Promusicae35, Scarlet Extended,36 UPC 
+Telekabel37 and Deckmyn38, the Court had established a balancing of interests as the central 
+mechanisms for the ‘constitutionalisation’ of IPR.39 Unlike in a traditional IPR analysis, the 
+constitutional balancing uses the –as seen form a copyright perspective– external norms and 
+values of fundamental rights’ norms to interpret copyright law. As seen in this perspective, the 
+weight on the rights holder’s side of the scale is provided by the right to property. On the other 
+side of the scale, one might find the rights to freedom of expression and information. The 
+nature of the interests and their weights cannot, however, be gauged once and for all but must 
+be determined through a case-by-case analysis. The test is based on a principle of neutrality 
+(no ‘absolute protection of IPR’) and it’s open-endedness lies at the very heart of the test and 
+enables court to draw on arguments found outside of the IPR framework and well-established 
+basic assumptions (the ‘author-centeredness of copyright’).40 These position now have to be re-
+evaluated in the light of the most recent developments in the case law from the CJEU.  
+ 
+the copyright unit within the European Commission was moved from its traditional proximity to other property 
+rights in DG MARKT to the DG CONNECT, meaning a closer proximity to units working on Internet- and inter-
+nal market related aspects, see Sebastian Felix Schwemer, Licensing and Access to Content in the European Un-
+ion, (Cambridge University Press 2019), pp. 15–16.  
+33 Art. 17(9) para. 4 DSM Directive. 
+34 See on the term ‘constitutionalisation’ the foundational paper Christophe Geiger, ‘Constitutionalising’ Intellec-
+tual Property Law? The Influence of Fundamental Rights on Intellectual Property in the European Union, Inter-
+national Review of Intellectual Property and Competition Law (2006) 37(4), pp. 371–406. 
+35 Case C-275/06, Productores de Música de España (Promusicae) v Telefónica de España SAU, 
+ECLI:EU:C:2008:54.  
+36 Supra, note 26. 
+37 Case C-314/12, UPC Telekabel Wien GmbH v Constantin Film Verleih GmbH and Wega Filmproduk-
+tionsgesellschaft mbH, ECLI:EU:C:2014:192. 
+38 Case C-201/13, Johan Deckmyn and Vrijheidsfonds VZW v Helena Vandersteen and Others, 
+ECLI:EU:C:2014:2132.  
+39 On the ‘fair balance’ doctrine, see e.g. Christina Angelopoulos & Stijn Smet, Notice-and-fair-balance: how to 
+reach a compromise between fundamental rights in European intermediary liability, Journal of Media Law, 8:2 
+(2016), pp. 266 ff. 
+40 Based on Jens Schovsbo, "Mark My Words"—Trademarks and Fundamental Rights in the EU, 8 U.C. Irvine L. 
+Rev. 555 (2018). 
+  8 – DRAFT DECEMBER 2019 – 
+Forthcoming in Paul Torremans (ed), Intellectual Property Law and Human Rights, 4th edition (Wolters Kluwer, 2020) 
+ 
+2.3.1.  Pelham41, Funke Medien42 and Spiegel Online43 
+The three judgments were handed down on the same day (29 July 2019) by the Great Chamber 
+and all were based on Opinions from Advocate General (AG) M. Szpunar. The facts of the 
+‘trinity’ of cases are quite diverse: Pelham (or Metall auf Metall case) concerned the sampling 
+of a piece of music composed by the German band ‘Kraftwerk’44; Funke Medien dealt with the 
+right to use allegedly copyright protected ‘parliament briefings’ (‘the Afghanistan papers’); and 
+Spiegel Online with hyperlinking to copyright protected material as part of the reporting by a 
+media outlet. However, the answers in all cases had to be found in the intersection between 
+national and EU copyright and fundamental rights law.  
+ 
+As seen from the perspective of this contribution, the central aspect of the judgments was the 
+way the CJEU limited the freedom of national courts to rely on the Charter to go ‘outside’ of 
+the catalogue of exceptions established by the InfoSoc Directive. By way of example in Funke 
+Medien, the Court stated that the freedom of information and freedom of the press, enshrined 
+in Article 11 of the Charter, ‘are not capable of justifying, beyond the exceptions or limitations 
+provided for in Article 5(2) and (3) of [the InfoSoc Directive], a derogation from the author’s 
+exclusive rights of reproduction and of communication to the public, referred to in Article 2(a) 
+and Article 3(1) of that directive respectively.’ In other words: The fair balancing between 
+creators’ interests and users’ interests, which lies at the core of the ‘constitutionalisation’, has 
+been internalized via the limitations and exceptions. It is in interpreting those provisions that 
+courts may draw on various legal sources e.g. fundamental rights. In this way, one can describe 
+the decision as leaving the door open to the constitutionalisation but also making clear that 
+the constitutional door only gives way to a room which has been built according to the blue-
+print found in the InfoSoc Directive.  
+ 
+When it comes to the interpretation of the limitations and exceptions themselves, the freedom 
+of Member States depends on the wording of the individual provisions. Even if some discretion 
+is left to national courts, however, the CJEU in Funke Medien made it clear that such freedom 
+would often be (even at some points ‘highly) ‘circumscribed’ in several regards (paras. 45 ff.) 
+e.g. by ‘the general principles of EU law, which include the principle of proportionality, from 
+which it follows that measures which the Member States may adopt must be appropriate for 
+attaining their objective and must not go beyond what is necessary to achieve it’ (para. 49). 
+Also Member States cannot rely on any discretion enjoyed by them according to a directive so 
+as to ‘compromise the objectives of that directive’ (para. 50). At the same time, however, 
+Member States must make sure that the effectiveness of the exceptions and limitations is safe-
+guarded and a fair balance of rights and interests between the different categories of rights 
+holders, as well as between the different categories of rightholders and users of protected subject 
+matter, is secured (para. 51). Furthermore, a fair balance must to be struck between the various 
+ 
+41 Case C-476/17, Pelham GmbH and Others v Ralf Hütter and Florian Schneider-Esleben, ECLI:EU:C:2019:624. 
+42 Case C-469/17, Funke Medien NRW GmbH v Bundesrepublik Deutschland, ECLI:EU:C:2019:623. 
+43 Case C-516/17, Spiegel Online GmbH v Volker Beck, ECLI:EU:C:2019:625. 
+44 The original Kraftwerk song can be accessed here: https://www.youtube.com/watch?v=JlatOPOMlyA. The 
+sampling song “Nur mit Dir” here: https://www.youtube.com/watch?v=_KQLxP-UX_Y. In the national German 
+Metall auf Metall saga and music sampling see also Bernd Justin Jütte and Henrike Maier, A human right to 
+sample–will the CJEU dance to the BGH-beat?, Journal of Intellectual Property Law & Practice (2017), pp. 784–
+796. 
+  9 – DRAFT DECEMBER 2019 – 
+Forthcoming in Paul Torremans (ed), Intellectual Property Law and Human Rights, 4th edition (Wolters Kluwer, 2020) 
+fundamental rights protected by the European Union legal order (para. 53). Importantly even 
+the ‘three-step-test’ in InfoSoc Directive Article 5(5) –which here serves to limit the effect of 
+the limitations– is seen as constituting an element of the overall fair balancing (para. 61).  
+ 
+The effectiveness of limitations and exceptions depends not just on their exact wording but 
+also on the willingness of national courts to consider the conditions for the application to be 
+fulfilled. As seen from a traditional and dogmatic view, Kur has pointed out that there is a 
+‘normative drag’ from IPR’s inner structure and hierarchy of norms and interests that, so to 
+speak, compels a narrow interpretation of limitations and limitations.45 Such an interpretation 
+of course limits the impact of the limitations and exceptions and would as seen from a norma-
+tive perspective furthermore stress the secondary importance of users’ interests vis-à-vis those 
+of rights holders. It has been argued that as seen from a ‘constitutional’ (and thus ‘neutral’) 
+starting point one would need to give up on any presupposed modality for the interpretation 
+of limitations and exceptions: If users’ interests in access are as highly ranking as rights holders’ 
+interests in protection, then the baseline for establishing which is the ‘main rule‘ – ‘freedom of 
+information’ or ‘exclusivity’ – has evaporated and one is left with empty scales and a balancing 
+of interests.46 In such a situation, one cannot a priori indicate whether to interpret the norm 
+favouring users or authors ‘narrowly’ (or ‘broadly’).47  
+ 
+The CJEU has on several occasions made it clear that limitations and exceptions should be 
+interpreted narrowly based on what we called a ‘traditional and dogmatic’ argumentation 
+above.48 The Court revisited the issue in Funke Medien where it was asked to consider whether 
+(as the Court decided to frame the question) a national court may under certain circumstances 
+‘depart from a restrictive interpretation of [an exception] in favour of an interpretation which 
+takes full account of the need to respect freedom of expression and freedom of information, 
+enshrined in Article 11 of the Charter’ (para. 65). In answering that question, the Court first 
+remarks that ‘is certainly the case, as the referring court notes, that any derogation from a 
+general rule must, in principle, be interpreted strictly’ (para. 89). This reconfirms the starting 
+point of strict interpretation of limitations and exceptions. It is only against this backdrop that 
+ 
+45 See in particular Annette Kur, Limitations and exceptions under the three-step test – how much room to walk 
+the middle ground?, pp. 208–261 in: Annette Kur and Marianne Levin, Intellectual Property Rights in a Fair 
+World Trade System – Proposals for Reform of TRIPS, (Edward Elgar 2011), pp. 212 ff. 
+46 See Christophe Geiger et al., Limitations and Exceptions as Key Elements of the Legal Framework for Copy-
+right in the European Union – Opinion on the Judgment of the CJEU in Case C-201/13 Deckmyn, International 
+Review of Intellectual Property and Competition Law (2015) 46(3), 93–101, point 23-27; Jonathan Griffiths, Tak-
+ing power tools to the acquis – the Court of Justice, the Charter of Fundamental Rights and European Union cop-
+yright law, pp. 144–174 in Christophe Geiger, Craig Allen Nard and Xavier Seuba, Intellectual property and the 
+Judiciary (Edward Elgar, 2018), and Jens Schovsbo, Constitutional Foundations and Constitutionalization of IP 
+Law - A Tale of Different Stories?, [2015] ZGE/IPJ 7 383, p. 391. 
+47 This view is even supported by the case law of the European Court of Human Rights in Ashby Donald v. 
+France App No. 36796/08 (ECtHR 2013), which according to Thom Snijders and Stijn van Deusen, The Road 
+Not Taken – the CJEU Sheds Light on the Role of Fundamental Rights in the European Copyright Framework – 
+a Case Note on the Pelham, Spiegel Online and Funke Medien Decisions, IIC (2019) 50, pp. 1176–1190, p. 1185 
+‘frames copyright enforcement measure in general as derogations from the freedom of information and freedom of 
+expression’ and as such open to external scrutiny via Art. 10 ECHR.  
+48 E.g. C-527/15, Stichting Brein v Jack Frederik Wullems, ECLI:EU:C:2017:300, paras. 62 f. and C-265/16, 
+VCAST Limited v RTI SpA, ECLI:EU:C:2017:913, paras. 31 f. See also C-435/12, ACI Adam BV and Others v 
+Stichting de Thuiskopie and Stichting Onderhandelingen Thuiskopie vergoeding, ECLI:EU:C:2014:254, paras. 20 
+ff.  
+  10 – DRAFT DECEMBER 2019 – 
+Forthcoming in Paul Torremans (ed), Intellectual Property Law and Human Rights, 4th edition (Wolters Kluwer, 2020) 
+the Court states that even the limitations and exceptions could be said to ‘confer rights on the 
+users of works or of other subject matter’ (para. 70). Also those rights, however, should be 
+balanced in a fair manner against ‘the rights and interests of rights holders, which must them-
+selves be given a broad interpretation’ (ibid.). Having thus established narrowness as the prin-
+ciple of interpretation for limitations and exceptions and broadness as the principle for the 
+rights and interests of rights holders, the Court concludes that the interpretation of the excep-
+tions and limitations involved in the case must allow ‘their effectiveness to be to safeguarded 
+and their purpose to be observed’ in order ‘to ensure observance of fundamental freedoms’ 
+(para. 71).  
+ 
+In this way the Court would seem to assume the traditional hierarchal view on the interests of 
+rights holders at the top and users’ interest below. Thus, even though the Court apparently 
+accepts that sometimes conflicts between IPR and fundamental rights may occur, one should 
+–when within the copyright system– assume that priority has been given to the exclusionary 
+powers of rights holders at the immediate expense of users. This is the baseline, and that 
+position, which constitutes copyright’s pièce de résistance, cannot be challenged on the basis 
+of the Charter.49 
+ 
+Arguably these remarks, which seem to diminish the role and function of the limitations and 
+exceptions and to subscribe to the traditional and dogmatic perception of copyright as being a 
+system ‘for the protection of rights holders’, are not easy to align with the statements that the 
+limitations and exceptions aim at securing an overall fair balance (above) and with the con-
+ceptualization of limitations and exceptions as user rights.50 
+ 
+2.3.2.  Summing up 
+At the same time that the Court canonised the inclusion of fundamental rights to copyright’s 
+internal analyses, it also gave a kiss of death to any attempts to rely on fundamental rights 
+analyses to provide for an external system of checks and balances to be used to e.g. expand or 
+substitute the predefined system of copyright protection or to deviate from the settled practice 
+of a narrow interpretation of limitations and exceptions.  
+ 
+In this way, and as pointed out by Geiger and Izyumenko, the judgments emphasize the central 
+function of limitations and exceptions to the overall balancing of fundamental rights concerns 
+into the copyright analyses.51 The judgements primarily achieves this in two ways: 
+ 
+Firstly, the CJEU states that the limitations in Article 5 of the InfoSoc Directive ‘confer rights 
+of the users of works or other subject matter’52: limitations and exceptions, in other words, 
+constitute user rights. What the Court had hinted at in earlier decision is here being unfolded. 
+ 
+49 On this central point the CJEU may be on collision course with the ECtHR, see ECtHR, 10 January 2013, 
+Ashby Donald and Others v. France, CE:ECHR:2013:0110JUD003676908 and to this point Geiger & Izyumenko, 
+supra note 31, p. 26. This might also be the view of AG Spuznar in Funke Medien, see point 40: ‘However, there 
+may be exceptional cases where copyright, which, in other circumstances, could quite legitimately enjoy legal and 
+judicial protection, must yield to an overriding interest relating to the implementation of a fundamental right or 
+freedom.’  
+50 Geiger & Izyumenko, supra note 31, pp. 20 f.  
+51 Ibid., p. 6. 
+52 Funke Medien, supra note 42, para. 70, and Spiegel Online, supra note 43, para. 54. 
+  11 – DRAFT DECEMBER 2019 – 
+Forthcoming in Paul Torremans (ed), Intellectual Property Law and Human Rights, 4th edition (Wolters Kluwer, 2020) 
+The decisions anchor the limitations and exceptions from the InfoSoc Directive rules on the 
+use by the press (Article 5(3)(c)) and quotation for criticisms and review (Article 5(3)(d)) 
+directly in the Charter. Arguably, Article 17 DSM Directive has already anticipated this de-
+velopment by making it clear that the specific limitations concerning quotation, criticism, re-
+view, caricature, parody or pastiche are mandatory (‘unwaiveable’), see above.  
+ 
+Secondly, the importance of limitations and exceptions is underlined by the Court’s rejection 
+of the use by national courts of fundamental rights as external balancing tools. The Court thus 
+makes it clear that it is the Directive that in an exhaustive way indicates the pathway for 
+finding a ‘fair balance between, on the one hand, the interest of the holders of copyright and 
+related rights in the protection of their intellectual property rights and, on the other hand, the 
+protection of the interests and fundamental rights of users of protected subject matter as well 
+as of the public interest.’53 Therefore, the full lifting of the fundamental rights interests and 
+concerns has to be done by the internal balancing tools i.e. limitations and exceptions.  
+ 
+ 
+3.  PROCEDURAL SAFEGUARDS OF LIMITATIONS AND EXCEPTIONS 
+Besides the copyright-internal balancing system of limitations and exceptions, Article 17 DSM 
+Directive also foresees an institutionalized system of checks and balances in form of procedural 
+safeguards. These mechanisms do not concern substantive copyright, but rather its exercise 
+and are foreseen at several levels: (1) at the platform level, (2) at the out-of-court level, and 
+(3) at the judicial authority or court level. 
+ 
+At the platform level, Member States are in Article 17(9) DSM Directive mandated to provide 
+that ‘online content-sharing service providers put in place an effective and expeditious com-
+plaint mechanism that is available to users of their services in the event of disputes over the 
+disabling of access to, or the removal of, works or other subject matter uploaded by them.’54 
+The mechanisms of this first procedural safeguard are further circumscribed in Article 17(9) 
+para. 2 DSM Directive, where after complaints ‘shall be processed without undue delay, and 
+decisions to disable access to or remove uploaded content shall be subject to human review.’55 
+Especially the latter human review-criterion is interesting, as it implies that everything leading 
+up to a dispute can be processed by the platform in an automated fashion by algorithms.56 It 
+is further specified in recital 70, that these mechanisms should allow ‘users to complain about 
+the steps taken with regard to their uploads, in particular where they could benefit from an 
+exception or limitation to copyright in relation to an upload to which access has been disabled 
+ 
+53 Pelham, supra note 41, para. 59, no identical wording in Funke Medien, supra note 42, but see para. 57 and 
+also para. 74 (with reference to Ashby Donald and Others v. France and on this supra note 49).  
+54 Emphasis added. Note that the requirement is on Member States, compared to the ensuring of unavailability 
+which is on the platforms. This first aspect resembles the Commission’s original proposal from September 2016, 
+where it suggested in Art. 13(2) that ‘Member States shall ensure that the service providers ... put in place com-
+plaints and redress mechanisms that are available to users in case of disputes over the application of the measures 
+... .‘, see European Commission, supra note 28. 
+55 Emphasis added. On a critique of the ‘elastic timeframe’ see Senftleben, supra note 11, p. 9. In its Council vote, 
+Germany suggests the timeframe to be understood ‘as rapidly as possible’, see Statement by Germany, supra note 
+8, point 7. 
+56 See similarly Commission Recommendation (EU) 2018/334 of 1 March 2018 on measures to effectively tackle 
+illegal content online, 6.3.2018, [2018] L 63/50, points 20 and 27 in relation to proactive measures on human over-
+sight and in the context of data protection see e.g. Art. 22 (3) GDPR. 
+  12 – DRAFT DECEMBER 2019 – 
+Forthcoming in Paul Torremans (ed), Intellectual Property Law and Human Rights, 4th edition (Wolters Kluwer, 2020) 
+or that has been removed’ (emphasis added). Furthermore, the provision stipulates a justifica-
+tion-duty on rights holders. The reasons for a rights holder’s request to make content unavail-
+able needs to be ‘duly justified’.57 The decision at this level remains with the platform, but as 
+Senftleben notes, ‘[t]he underlying legal assessment, however, is likely to be cautious and de-
+fensive … [and] a generous interpretation of copyright limitations serving freedom of expression 
+seems unlikely, even though a broad application of the right of quotation and the parody 
+exemption would be in line with CJEU jurisprudence.’58 In other words, there exists a risk of 
+over enforcement.59 
+ 
+In addition to the platform-based procedural safeguards, also out-of-court redress mechanisms 
+for the impartial settlement of disputes are to be put in place by Member States.60 Finally, this 
+out-of-court mechanism is ‘without prejudice to the rights of users to have recourse to efficient 
+judicial remedies … .’61 Specifically in relation to exceptions and limitations, ‘Member States 
+shall ensure that users have access to a court or another relevant judicial authority to assert 
+the use of an exception or limitation to copyright and related rights.’62 Member States enjoy a 
+considerable amount of discretion when implementing the procedural safeguards and such 
+mechanisms might also be informed by the stakeholder dialogues and the Commission’s guid-
+ance on the application of Article 17.63 
+ 
+Conceptually, it is unclear whether these procedural safeguards should be understood as inde-
+pendent additions to the limitation and exception safeguards or rather as a further specification 
+of those safeguards. Recital 70 of the DSM Directive puts Article 17(9) in the context of situ-
+ations where ‘in particular [users] could benefit from an exception or limitation’ (emphasis 
+added). Thus, one the one hand, the existence of these specific procedural safeguards relating 
+to the institutional setting can be interpreted as an admirable attempt to create procedural 
+transparency and safeguards. Without such setup, user rights might end up under- or even 
+unenforced. The existing regime under the E-Commerce Directive does not directly put any 
+restrictions on platforms on what content they remove. Seen in a broader European interme-
+diary liability exemption perspective, where the notice-and-takedown regime based on Article 
+ 
+57  Art. 17(9) para. 2 DSM Directive. 
+58 Senftleben, supra note 11, p. 9. 
+59 For empirical work on over-enforcement see e.g. Kris Erickson & Martin Kretschmer, Empirical approaches to 
+intermediary liability, CREATe Working Paper 2019/6, (2019), p. 10 ff.; Jennifer Urban, Joe Karaganis, & Bri-
+anna Schofield, Notice and Takedown: Online Service Provider and Rightsholder Accounts of Everyday Practice, 
+64 J Copyright Soc'y (2017); Sharon Bar-Ziv and Niva Elkin-Koren, Behind the Scenes of Online Copyright En-
+forcement: Empirical Evidence on Notice & Takedown, 50 Connecticut Law Review (2017); specifically in the con-
+text of YouTube and parodies, see Kris Erickson & Martin Kretschmer, This Video is Unavailable: Analyzing 
+Copyright Takedown of User-Generated Content on YouTube, 9 JIPITEC 75 (2018) and Sabine Jacques et al., 
+An Empirical Study of the Use of Automated Anti-Piracy Systems and Their Consequences for Cultural Diver-
+sity, 15(2) SCRIPTed (2018), pp. 277–312.  
+60 Art. 17(9) para. 2 DSM Directive. 
+61 Ibid. 
+62 Art. 17(9) para. 2 DSM Directive. 
+63 Art. 17(10) DSM Directive reads: ‘As of 6 June 2019 the Commission, in cooperation with the Member States, 
+shall organise stakeholder dialogues to discuss best practices for cooperation between online content-sharing ser-
+vice providers and rightholders. … When discussing best practices, special account shall be taken, among other 
+things, of the need to balance fundamental rights and of the use of exceptions and limitations. For the purpose of 
+the stakeholder dialogues, users' organisations shall have access to adequate information from online content-shar-
+ing service providers on the functioning of their practices with regard to paragraph 4’ (emphasis added). 
+  13 – DRAFT DECEMBER 2019 – 
+Forthcoming in Paul Torremans (ed), Intellectual Property Law and Human Rights, 4th edition (Wolters Kluwer, 2020) 
+14 of the E-Commerce Directive has lacked a counter-notice idea or general procedural safe-
+guards, such attempt is to be welcomed and strengthening the enforcement of user rights vis-
+à-vis content moderation practices by large online platforms. On the other hand, however, their 
+very existence implies an understanding of Article 17(7) that the mechanisms foreseen in Article 
+17(4) DSM Directive will inevitably lead to false-positives, i.e. to situations where platforms 
+will falsely take-down or block content which is covered by a limitation or exception.64 In other 
+words, it can also be understood as a confession that –in practice– automatically distinguishing 
+copyright violations from legitimate uses will be a challenging exercise.  
+ 
+At least from the lawmaker’s perspective, procedural safeguards in themselves are seen as a 
+means of mitigating negative impact on fundamental rights. Already the Commission’s Impact 
+Assessment accompanying the Proposal from 2016, for example, noted that procedural safe-
+guards will mitigate the negative impact on freedom of expression and information.65 Similarly, 
+Germany in its Statement accompanying its Council vote notes that ‘[e]ach permanent “stay 
+down” mechanism (“uploadfilter”) must comply with the principle of proportionality. Proce-
+dural guarantees, in particular, could be considered, for example when users notify that they 
+are lawfully uploading content from third parties.’66 In other words, the procedural safeguards 
+are in itself a weight on the scale of the fundamental rights balance. 
+ 
+ 
+4.  CONCLUDING REMARKS: WHAT IS LEFT OF USER RIGHTS? 
+The limitations and exceptions contained in Article 5 InfoSoc Directive constitute user rights 
+and courts are obliged to interpret those in the light of fundamental rights norms. In relation 
+to these user rights, as seen, the DSM Directive’s Article 17 contains both an internalized 
+system of checks and balances with limitations and exceptions and a somewhat externalized 
+system of procedural safeguards. For the specific limitations and exceptions consisting of ‘quo-
+tation, criticism, review, caricature, parody or pastiche’, the DSM Directive has made it clear 
+that these are unwaivable and also that OCSSP’s are under a specific obligation to safeguard 
+those. The Commission’s proposal for the Directive from September 2016 did not contain the 
+reference to limitations and exceptions and neither procedural safeguards to the same extent 
+as the final provision in the DSM Directive from May 2019. Previously optional limitations 
+and exceptions from the InfoSoc Directive are fully harmonized within the Article 17-frame-
+work. And both, internalized and externalized safeguards, act as an expression of user rights 
+as a balancing factor in the reconciliation of fundamental rights. But do these safeguards 
+enough to balance the tensions between conflicting fundamental rights?  
+ 
+On a more principal level, a first aspect relates to a more upstream issue of the Article 17 
+mechanism. Both strands of safeguards, limitations and exceptions as well as procedural safe-
+guards, come in at a relatively late stage. However, neither address the one very central –
+upstream– challenge of Article 17 from a fundamental rights perspective: the de lege reliance 
+ 
+64 In the Council vote, Germany lays outs its reading of Art. 17(7) and (8) ‘that protective measures must not 
+impede the permitted use of protected content’, see Statement by Germany, supra note 8, point 7. To this point 
+see also European Commission, Impact Assessment, supra note 16, pp. 153 ff. 
+65 European Commission, Impact Assessment, supra note 16, pp. 153–154, reading ‘[t] his negative impact should 
+be mitigated by the fact that the services would be obliged to put in place the necessary procedural safeguards for 
+the users which in the majority of cases already exist in the related context of notice and take down requests.’ 
+66 Statement by Germany, supra note 8, point 8. 
+  14 – DRAFT DECEMBER 2019 – 
+Forthcoming in Paul Torremans (ed), Intellectual Property Law and Human Rights, 4th edition (Wolters Kluwer, 2020) 
+onstay down mechanisms and de facto reliance on filtering algorithms in the first place.67 As 
+Elkin-Koren points out: ‘Algorithmic copyright enforcement has tilted the balance of copyright 
+law. It has changed copyright default: if copyrighted materials were once available unless 
+proven to be infringing, today materials that are detected by algorithms are removed from 
+public circulation unless explicitly authorized by the right holder.’68 This more principal issue 
+is not directly dealt with by the two –downstream– safeguards we have addressed in this 
+contribution. Instead, a third user-oriented safeguard is coming into play with Article 17(8), 
+where it is stipulated in a somewhat declaratory fashion that the application of Article 17 DSM 
+Directive may not lead to any general monitoring obligation. This prohibition of general mon-
+itoring contained in Article 15 E-Commerce Directive69 is again to be seen as a result of a 
+balancing between fundamental rights (in particular Articles 7 and 8, 9, 10, and 14 of the 
+Charter).70 Could an explanation be that the balancing of interests in limitations and excep-
+tions is somehow relevant ‘upstream’ and ‘overrides’ or already contains the balancing of con-
+flicting fundamental rights in relation to Article 15 E-Commerce Directive, too? 
+ 
+To further explore this argument, let us take one step back from the specific copyright system 
+for a moment: The takedown of unlawful (or even unwanted) content has become topical in 
+relation to a variety of subject matter such as hate speech71, terrorist content and others. In 
+this development, there is a call for ‘enhanced responsibility’.72 In the Commission’s Recom-
+mendation (EU) 2018/334, proactive –i.e. algorithmic content– mechanisms, akin the one in-
+troduced in Article 17 of the DSM Directive, are subject to a variety of safeguards and consid-
+erations.73 Similarly, also the Commission’s proposal for a Regulation on Terrorist Content74, 
+compared to Article 17 DSM Directive, is much more reluctant as to the instances when inter-
+mediaries should rely on proactive mechanisms in the first place.75 The DSM Directive, on the 
+ 
+67 On the issue of notice and stay-down in relation to freedom of expression, see e.g. Jennifer M. Urban, Joe Kara-
+ganis, & Brianna L. Schofield, Notice and Takedown in Everyday Practice, UC Berkeley Public Law Research Pa-
+per No. 2755628 (2016). On the applicability and compliance of the Commission’s proposed Art. 13 in relation to 
+notice and stay-down with Art. 8 and 10 of the ECHR, see Felipe Romero-Moreno, ‘Notice and staydown’ and 
+social media: amending Article 13 of the Proposed Directive on Copyright, International Review of Law, Comput-
+ers & Technology, (2019), 33:2, pp. 187–210, p. 194 f.  
+68 Niva Elkin-Koren, Fair Use by Design, UCLA Law Review 64 (2017), pp. 1082–1100, p. 1093. 
+69 The prohibition of general monitoring in Art. 15 ECD has been subject to a surprisingly low number of refer-
+ences before the Court of Justice. In a case unrelated to IP rights, the Court of Justice recently ruled that plat-
+forms can be ordered to remove information that is ‘identical’ or ‘equivalent’ to content which is declared unlaw-
+ful, see case C-18/18 Glawischnig-Piesczek v. Faebook Ireland Limited, [2019] ECLI:EU:C:2019:821, para. 53. 
+70 In Scarlet v Sabam, supra note 26, and Sabam v Netlog, supra note 3, for example, the Court of Justice refers 
+to the right to protection of personal information (Art. 8 of the Charter) and the freedom to receive or impart in-
+formation (Art. 11 of the Charter). 
+71 On the freedom of expression and hate speech, see Federica Casarosa, Freedom of Expression and Countering 
+Hate Speech, Handbook on the Techniques of Judicial Interactions in the Application of the EU Charter, Euro-
+pean University Institute, (2019). 
+72 European Commission, Communication on Tackling Illegal Content Online - Towards an enhanced responsibil-
+ity of online platforms, COM(2017) 555 final, (Brussels, 28.9.2017). 
+73 See e.g. Commission Recommendation (EU) 2018/334, supra note 56, points 19 and 20. 
+74 On the proposed Terrorist Content Regulation, see also Alexandra Kuczerawy, The proposed Regulation on 
+preventing the dissemination of terrorist content online: safeguards and risks for freedom of expression, CiTiP (5 
+December 2018). 
+75 See Thomas Riis & Sebastian Felix Schwemer, Leaving the European Safe Harbor, Sailing Towards Algorithmic 
+Content Regulation, 22 Journal of Internet Law 7, (2019), pp. 12–16. 
+  15 – DRAFT DECEMBER 2019 – 
+Forthcoming in Paul Torremans (ed), Intellectual Property Law and Human Rights, 4th edition (Wolters Kluwer, 2020) 
+other hand, offers little discretion: once an online content sharing platform falls within the 
+scope of the Directive, the Article 17 regime applies.  
+ 
+This raises the question, why the enforcement of copyright-protected works requires less safe-
+guards to be reconciled with conflicting fundamental rights. Besides a political reality, which 
+is outside our scope, a simple answer at hand is that limitations and exceptions, which are to 
+be respected by and partly harmonized by the Directive, are already an expression of that 
+internalized balancing of conflicting fundamental rights. Or put differently: in a copyright-
+specific context, limitations and exceptions are the ‘only’ tool for finding a fair balance between 
+conflicting fundamental rights. And this, indeed, is in line with the Court of Justice’s case law 
+confirmed in Pelham, Funke Medien and Spiegel Online on these ‘user rights’ and the extent 
+to which fundamental rights can (not) be invoked as external limitations to copyright. 
+ 
+On a more granular level, a second aspect relates to the importance of procedural safeguards 
+in the Article 17-regime. If procedural safeguards in itself are relied upon as a weight in the 
+balancing of fundamental rights as described above, the ‘default’-scale is leaning towards right 
+holders’ protection: users are, in a way, awarded a secondary procedural protection in an at-
+tempt to find a new equilibrium. As Frosio notes, ‘the introduction of a complaint and redress 
+mechanism turns a traditionally ex ante review mechanism into an ex post mechanism while 
+content is taken down proactively regardless of the fairness of the use of the protected content, 
+the application of exceptions or limitations or the public domain status of the works.’76 But 
+then, non-derogatory user rights and procedural safeguards –undoubtedly a good intention and 
+a strengthening in itself– are hardly more than a drop in the bucket. If in the context of Article 
+17(4) DSM Directive, indeed, over-enforcement is unavoidable, the system comes with great 
+legal uncertainty and wiggle room in practice. Article 17 DSM Directive constitutes a change 
+of perspective from alleged under-enforcement copyright-protected works in certain situations, 
+to a situation where over-enforcement via algorithmic content enforcement is deemed accepta-
+ble given safeguards (limitations and exceptions and procedural). So, what is left of user rights? 
+ 
+According to the DSM Directive, Member States shall ensure that users are able to rely on the 
+exceptions and limitations, see Article 17(7). Also, the Directive shall ‘in no way affect legiti-
+mate uses’ and platforms shall inform users that they can use works under limitations and 
+exceptions, see Article 17(9). In this way, the DSM Directive provides users with procedural 
+safeguards. It is, however, far from clear how users should enforce their rights under the Di-
+rective. The DSM Directive does not specify the legal consequences of a platform’s failure to 
+live up to its obligations to ensure user rights. This stands in stark contrast to the situation of 
+rights holders, where both international and EU legislation have boosted enforcement during 
+the past many years. The TRIPS agreement77, for instance, devotes a full part (No. III) to the 
+‘Enforcement of IPR’, which obliges members to ensure that enforcement procedures are avail-
+able to permit effective action against any act of infringement of IPRs. In the same vein, the 
+ 
+76 Giancarlo Frosio, Reforming the C-DSM Reform: A User-Based Copyright Theory for Commonplace Creativity, 
+(7 November 2019), https://ssrn.com/abstract=3482523, p. 17. 
+77 Trade Related Aspects of Intellectual Property Rights, available at https://www.wto.org/english/docs_e/le-
+gal_e/27-trips_03_e.htm. 
+  16 – DRAFT DECEMBER 2019 – 
+Forthcoming in Paul Torremans (ed), Intellectual Property Law and Human Rights, 4th edition (Wolters Kluwer, 2020) 
+Enforcement Directive78 explains that effective and harmonized enforcement mechanisms are 
+necessary to ensure that the substantive law on IP is applied effectively in the community.79  
+ 
+Against this background, it is remarkable that the DSM Directive does not attempt to ensure 
+that the user rights, which arise under the limitations and exceptions regarding quotation, 
+criticism, review, caricature, parody or pastiche are not backed up with enforcement tools ad 
+modum those found in the Enforcement Directive. As seen in the light of the system set up by 
+the DSM Directive and the general ‘tilting of the balance’ (as per Elkin-Koren) in favour of 
+rights holders, the lack of attention to the enforcement of the rights and interests of users 
+undermine not just the effects of the limitations and exceptions. It also serves as a reminder 
+that no rights are worth more than the level to which they can be enforced. The DSM Directive 
+may have provided users with strong ‘rights’ but without matching duties for platforms or a 
+harmonised system for the enforcement of those user rights. 
+ 
+ 
+78 Corrigendum to Directive 2004/48/EC of the European Parliament and of the Council of 29 April 2004 on the 
+enforcement of intellectual property rights, (2004) OJ L 195, pp. 16–25. 
+79 Ibid., Preamble point 3. 
+  17 

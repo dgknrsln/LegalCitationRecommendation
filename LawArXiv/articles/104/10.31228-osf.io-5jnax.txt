@@ -1,0 +1,2033 @@
+\\jciprod01\productn\C\CRN\103-2\CRN201.txt unknown Seq: 1 24-JAN-18 10:54
+SEMI-CONFIDENTIAL SETTLEMENTS IN CIVIL,
+CRIMINAL, AND SEXUAL ASSAULT CASES
+Saul Levmore & Frank Fagan†
+Settlement is more likely if parties are free to set its terms,
+including a promise that these terms will remain secret be-
+tween them. State sunshine-in-litigation laws work to defeat
+this incentive for confidentiality in order to protect third parties
+from otherwise unknown hazards. The intuition is that a
+wrongdoer should not be able to pay one plaintiff for silence at
+the expense of other victims. This Article begins by showing
+that the intuition is often wrong or overstated. A plaintiff who
+can assess a defendant’s vulnerability to future claims can
+extract a large enough settlement to provide substantial deter-
+rence, and at a much lower cost to the legal system. The
+argument does not transfer well to most criminal cases, where
+the defendant might pay, not to avoid other claims, but to
+avoid incarceration, which offers no direct benefit to the set-
+tling victim. It is further complicated in sexual assault cases,
+where the plaintiff might settle too quickly in order to protect
+her privacy. The discussion works toward the idea that in
+some settings semi-confidentiality—the disclosure of the sub-
+stance of settlement but not the magnitude of monetary pay-
+ments—is superior to both secrecy and transparency. The
+right amount of confidentiality is a function of the parties’
+interest in privacy, the likelihood that the wrongdoing is part
+of a pattern unknown to the settling plaintiff, and the accuracy
+of the litigation process that settlement seeks to bypass. We
+are able to identify cases where law ought to allow (even)
+criminal cases to be settled privately and confidentially, and
+also  cases  where  even  sexual  assault  victims  should  be
+steered  away  from  confidential  settlement  and  toward
+translucency.
+† Saul Levmore is the William B. Graham Distinguished Service Professor at
+the University of Chicago Law School; Frank Fagan is Associate Professor of Law,
+EDHEC Business School, France. We are grateful for comments offered by
+Anthony Casey, William Hubbard, Lior Strahilevitz, and Alex Weber, and for sug-
+gestions received at the 2017 American Law and Economics Association Annual
+Meeting, and the faculty workshops at the University of Chicago, UC Davis, and
+EDHEC.
+311\\jciprod01\productn\C\CRN\103-2\CRN201.txt unknown Seq: 2 24-JAN-18 10:54
+312 CORNELL LAW REVIEW [Vol.103:311
+INTRODUCTION ........................................... 312 R
+I. IS THERE A PROBLEM WITH CONFIDENTIAL SETTLEMENTS
+OF CIVIL LAWSUITS?................................ 314 R
+A. Deterrence and the Price of Confidentiality .... 314 R
+B. Pattern Recognition and Confidentiality ....... 322 R
+II. PRIVATE SETTLING OF CRIMINAL WRONGDOING......... 323 R
+III. FALSE CLAIMS AND MORAL HAZARDS: CRIMINAL AND
+CIVIL CASES ...................................... 328 R
+IV. SEXUAL ASSAULT CASES AND UNIVERSITY DISCIPLINARY
+PROCESSES ....................................... 332 R
+V. BETWEEN CONFIDENTIALITY AND TRANSPARENCY ....... 339 R
+A. Translucency in Civil Cases................... 339 R
+B. Translucency for Misdemeanors .............. 345 R
+C. The Translucency Ideal ....................... 347 R
+VI. TOWARD A GENERAL MODEL: PATTERNS, PRIVACY, AND
+ADJUDICATION ACCURACY........................... 350 R
+CONCLUSION ............................................ 354 R
+INTRODUCTION
+To the extent that law is a public good, settlements—and
+for that matter any failure to pursue legitimate claims to trial
+and then all the way through an appeals process—are troub-
+ling. On the one hand, settlements and private arbitration pro-
+ceedings can save costs, and so long as they are reached in the
+shadow of the law, they can accomplish most of what law aims
+to do. There is ample evidence that law not only respects par-
+ties’ liberty to settle disputes but also encourages settlement.1
+Where it does not, it must recognize that parties can often come
+to an agreement before any legal claim is filed, and thus pre-
+empt law’s involvement. Either way, settlements deprive the
+world of information that judicial decisions might convey, and,
+where settlement is secret, third parties may not even know of
+hazards or facts that are known to the settling parties but
+costly for others to rediscover.2 Put this way, a part of our
+conclusion is already foreshadowed: it is sensible for law to
+allow some private settlements, but it is also prudent to put
+some constraints on confidentiality. But there is a counter-
+vailing factor. When a party seeks to settle a matter in confi-
+1 See Leandra Lederman, Precedent Lost: Why Encourage Settlement, and
+Why Permit Non-Party Involvement in Settlements?, 75 NOTRE DAME L. REV. 221,
+257–58 (1999).
+2 For the classic and wild position against settlement, in favor of more and
+more due process and judicial decisions, and by implication against turning the
+other cheek, see generally Owen M. Fiss, Against Settlement, 93 YALE L.J. 1073
+(1984).\\jciprod01\productn\C\CRN\103-2\CRN201.txt unknown Seq: 3 24-JAN-18 10:54
+2018] SEMI-CONFIDENTIAL SETTLEMENTS 313
+dence, its counterparty can often extract a price that serves
+third-party interests. This novel point suggests that there are
+cases where law, counterintuitively, ought to allow or even wel-
+come confidential agreements to settle disputes—even where
+the matter arises because one of the parties is a serious and
+repeat wrongdoer. Deterrence may be obtained in place of sun-
+shine as a disinfectant. Information is valuable, to be sure, but
+the higher price a party pays for secrecy might deter misbehav-
+ior as successfully as any legal remedy, and the latter normally
+comes at a greater social cost. For example, this Article argues
+that an employer who catches an embezzling employee might
+be allowed to accept payments from the employee in return for
+not calling in the police. Similarly, but less controversially, an
+injured party can and should often be able to extract a larger
+settlement  from  a  tortfeasor  in  return  for  confidentiality.
+Where a state’s “sunshine-in-litigation law” stands in the way,3
+it ought to be modified to provide for semi-confidentiality, or
+revelation of the subject matter but not the precise terms of
+settlement. A much harder question is whether the accused
+party in a university’s sexual assault disciplinary case ought to
+be able to bargain with the accuser to avoid the risk of expul-
+sion from the university. When does a case belong to the vic-
+tim, and how might a victim’s ability to extract payment for
+confidentiality advance the goals of the legal system?
+A useful thought experiment is to imagine and compare
+legal systems that choose among the following rules: (1) the
+frequency and confidentiality of settlement, including arbitra-
+tion proceedings, is entirely in the litigants’ hands; (2) confi-
+dentiality is restricted by courts or by statutory sunshine (in
+litigation) laws that require revelation of obvious hazards, like
+dangerous  consumer  products  and  intentional  wrongdoers;
+and (3) nonpublic dispute resolution is permitted, but taxed—
+perhaps by legislating that payments made as part of com-
+pletely  confidential  settlements  are  nondeductible.  Finally,
+though the list could be longer, there is the possibility that (4)
+confidentiality is normally respected as to the amount of a
+settlement but not its subject matter. The first two of these
+options are prevalent, but this Article suggests that the last
+two—one presently unknown and the other barely seen4—are
+likely superior.
+3 Florida was the first of some twenty states to prohibit confidentiality agree-
+ments that bring about the concealment of public hazards “that [have] caused and
+[are] likely to cause injury.” FLA. STAT. §69.081(2) (2016).
+4 See infra notes 49–50 and accompanying text. R\\jciprod01\productn\C\CRN\103-2\CRN201.txt unknown Seq: 4 24-JAN-18 10:54
+314 CORNELL LAW REVIEW [Vol.103:311
+Part I develops the idea that confidentiality can promote
+deterrence, and that state sunshine-in-litigation laws may be
+misguided. Part II considers whether confidentiality can ever
+be desirable in criminal matters where the criminal might pay
+the victim to avoid incarceration. Part III assesses the problem
+of false claims when victims are paid for confidentiality and can
+therefore collect more than their losses. Part IV then applies
+the insights about deterrence and false claims to sexual as-
+sault cases decided on university campuses under the rules
+encouraged by the Department of Education. The discussion
+then turns in Part V to the advantages of semi-confidentiality.
+Third-party interests might be served even as wrongdoers are
+somewhat deterred by paying for translucency—secrecy with
+respect to the amount of a settlement but transparency as to its
+substance. Part VI generalizes the problem and describes the
+parameters of an optimal confidentiality rule.
+I
+IS THERE A PROBLEM WITH CONFIDENTIAL SETTLEMENTS
+OF CIVIL LAWSUITS?
+A. Deterrence and the Price of Confidentiality
+Why  do  defendants  often  seek  confidentiality?  At  first
+blush it seems that a wrongdoing defendant and a willing, self-
+interested, knowledgeable plaintiff can collude to keep valuable
+information from other victims, and in the process compromise
+the deterrence function of law. In the case where a wrongdoer
+is a tortfeasor who may have injured a number of victims, a
+promise  of  confidentiality  elicited  from  one  settling  victim
+might  allow  this  defendant  to  continue  to  misbehave;  the
+wrongdoer is under-deterred because, by hypothesis, similarly
+situated victims will not know that they can bring suits. The
+straightforward idea is that the public ought to know of dan-
+gers, and defendants must be deterred from repeat wrongdo-
+ing. The prospect of imitative, multiple lawsuits or judicially
+supervised class actions serves this purpose.
+Note that the presence of a disadvantaged, ill-informed
+third party is not normally enough to bar confidentiality. The
+same defendant might also have breached a contract with a
+vendor, and then negotiated a payment to avoid suit by the
+disappointed vendor. Other vendors may benefit from knowl-
+edge of this breach and settlement,5 but there is no require-
+5 We call it a settlement whether or not it was preceded by the formal filing of
+a claim for breach of contract.\\jciprod01\productn\C\CRN\103-2\CRN201.txt unknown Seq: 5 24-JAN-18 10:54
+2018] SEMI-CONFIDENTIAL SETTLEMENTS 315
+ment  of  disclosure.  If  the  breaching  party  fears  some
+reputational loss, it can ask for a confidentiality clause. Courts
+will respect and facilitate this agreement; if the vendor is found
+to have revealed the terms of settlement after agreeing to confi-
+dentiality, it may be forced by the terms of the clause to dis-
+gorge  some  or  all  of  the  compensation  it  received  for  the
+contractual breach.6 Such confidentiality agreements are more
+common in tort cases than in contract cases, but in both set-
+tings courts will likely refer to the “public policy favoring settle-
+ments.”7 This policy is supported by the commonly-held view
+that trials are expensive and hardly free of error.8
+When settlement involves filed tort claims, some jurisdic-
+tions bar confidentiality if it will cover up information that is
+likely to help other people avoid serious injury.9 Possible modi-
+fication of these sunshine-in-litigation statutes is discussed in
+Parts IV and V. The statutes might also be motivated by the
+fear that likely defendants will know they can settle claims
+confidentially  and  therefore  be  under-deterred  from  taking
+proper precautions in the first place.
+Closer analysis shows, however, that the connection be-
+tween confidential settlements and the deterrence of antisocial
+behavior is more complicated. Confidentiality may, counterin-
+tuitively, enhance deterrence, or at least be inconsequential.
+Imagine, for example, that consumer A is injured by manufac-
+6 See, e.g., Gulliver Sch., Inc. v. Snay, 137 So. 3d 1045, 1046–48 (Fla. Dist.
+Ct. App. 2014) (holding that the breach of a settlement’s confidentiality provision
+requires partial disgorgement of the settlement proceeds).
+7 Hinshaw v. Super. Ct., 58 Cal. Rptr. 2d 791, 796 (1996). More generally, a
+presumption of liberty to contract allows a seller to make an offer conditional on
+confidentiality even though third parties suffer increased search costs.
+8 See Joshua P. Davis, Applying Litigation Economics to Patent Settlements:
+Why Reverse Payments Should Be Per Se Illegal, 41 RUTGERS L.J. 255, 256–57
+(2009) (“Litigation can resolve the respective rights of the parties in an authorita-
+tive manner. But it is costly and risky.”); Kent D. Syverud, ADR and the Decline of
+the American Civil Jury, 44 UCLA L. REV. 1935, 1939 (1997) (discussing how the
+negative public perception of civil jury trials—that such trials are unpredictable,
+expensive, and tend to either overcompensate or undercompensate plaintiffs—
+has led to the decline of the civil jury trial).
+9 See, e.g., ARK. CODE ANN. §16-55-122(a) (West 2017) (providing that con-
+tracts or agreements that prohibit the disclosure of environmental hazards violate
+public policy and are not enforceable); FLA. STAT. §69.081(3)–(4) (2016) (prohibit-
+ing courts from entering orders or judgments that conceal public hazards and
+providing that contracts or agreements that prohibit the disclosure of public
+hazards violate public policy and are not enforceable); LA. CODE CIV. PROC. ANN.
+art. 1426(D) (2017) (providing that contracts or agreements that prohibit the
+disclosure of public hazards violate public policy and are not enforceable); WASH.
+REV. CODE §4.24.611(4)(b) (2017) (providing that confidentially provisions are
+subject to a balancing test that must consider the potential risk of public
+hazards).\\jciprod01\productn\C\CRN\103-2\CRN201.txt unknown Seq: 6 24-JAN-18 10:54
+316 CORNELL LAW REVIEW [Vol.103:311
+turer M’s product, and suffers a loss of 100. A claims that the
+product was defective. There is the likelihood that 999 other
+consumers  are  similarly  injured.  An  open  trial  pitting  A
+against M, or a transparent settlement between the parties, will
+enable these other victims to bring claims against M. M’s total
+liability will be 100,000, an accurate reflection of the harm
+caused by M and, ex ante, the right amount to guarantee that
+M, and other manufacturers, will be properly deterred in the
+first place. Absent information about the A-M lawsuit and set-
+tlement, these other injured consumers may not know that
+their injuries were caused by M’s product or they may not know
+that  the  product  is  defective.  The  former  seems  plausible
+where, for example, a drug produced by M engenders a side
+effect that is not generally known to be associated with M’s
+drug.10 M is therefore eager to attach a confidentiality clause
+to the settlement with A in order to avoid further liability of
+99,900.  Confidentiality  in  this  case  seems  socially
+undesirable.
+The preceding analysis, with its conventional conclusion,
+ignores A’s likely behavior, or bargaining ability, once A per-
+ceives that M values confidentiality. A, or A’s experienced at-
+torney, should in principle demand close to 100,000 in return
+for the confidentiality clause. If A can extract that entire bene-
+fit from M, then M is properly deterred, just as if M expected to
+pay damages to all 1000 injured consumers.11 Indeed, the
+confidentiality provision may even be socially efficient because
+it obviates numerous lawsuits between M and other victims.
+To be sure, these other victims, who by hypothesis do not know
+to sue M, go uncompensated and may waste resources search-
+10 In  principle,  adverse  side  effects  must  be  reported  under  21  C.F.R.
+§314.80 (regulating post-marketing reporting of adverse drug experiences). How-
+ever, reporting depends on the ability of patients and physicians to draw a con-
+nection between a side effect and the drug, and then some determination that the
+reported incident is plausibly traced to the drug. When a company fails to report
+an adverse drug experience (such as when it secretly settles a case), the FDA will
+pursue advisory action (such as issuing a warning letter), judicial action (includ-
+ing injunctions, civil damages, and criminal prosecutions), or administrative ac-
+tion (such as withdrawing drug approval or barring the company from submitting
+any future drug applications). See Stuart L. Friedel & Joseph A. Sena Jr., Pharma
+Challenges: Adverse Event Reporting and Social Media, BNA (Oct. 26, 2012),
+https://www.bna.com/pharma-challenges-adverse-event-reporting-and-social-
+media/ [https://perma.cc/9Z59-QN3R].
+11 More precisely, knowing that A or another plaintiff will extract such a
+payment for confidentiality, encourages M to take greater precautions at the
+outset. M knows that it is costly to pay out 1000 claims, but it can be just as
+costly to pay one claim enhanced by a huge premium for the confidentiality
+thought necessary to suppress the other claims. M will take into account the
+probability of at least one informed plaintiff filing suit.\\jciprod01\productn\C\CRN\103-2\CRN201.txt unknown Seq: 7 24-JAN-18 10:54
+2018] SEMI-CONFIDENTIAL SETTLEMENTS 317
+ing for the source of their injuries. But the central point is that
+a confidential agreement between M and A surely does not
+entirely let M escape the consequences of its actions, and may
+even deter M just as well as any other tort-and-settlement re-
+gime. The key element here is that A perceives the value of
+confidentiality to M, and can extract roughly the same total
+payments M would have paid to other injured parties with good
+claims.
+There are alternatives to the A-M settlement with a large
+premium for confidentiality. First, as already noted, the law
+might simply bar confidentiality. In some cases, A will refuse to
+settle without receiving a premium for confidentiality, and then
+A’s public suit against M will stimulate many other individual
+suits. In other cases, however, M will be under-deterred, and
+perhaps entirely so, because plaintiffs like A face high legal
+costs and because M’s wrongdoing is difficult to uncover.12
+Alternatively, the legal system might favor a class action; A
+and A’s attorney might succeed in serving as the class repre-
+sentative. In many situations this creates an inefficient race to
+be the first to file suit. Even if A discovers the connection
+between A’s injury and M, once A files, other attorneys can seek
+to represent other members of the putative class. The process
+of  assembling  a  class  action  is  inconsistent  with
+confidentiality.
+A third approach is to allow A to recover the entire amount
+of M’s gain from misbehavior, if that is substantial, or the en-
+tire amount of damages suffered by A and the 999 other vic-
+tims.  This  remedy,  drawn  from  the  law  of  restitution  and
+unjust enrichment, is not unlike one that allows A to extract a
+confidentiality premium from M, but it puts courts in the posi-
+tion of assessing the aggregate damage done by M or the benefit
+provided by A. Neither scheme necessarily creates a moral
+hazard; A is over-compensated, but A may not know in advance
+the connection between the other victims’ injuries and M. That
+each victim can file likely creates an inefficient race, the way
+the promise of a patent can create duplicative efforts among
+inventors,13 but again inasmuch as the task here is to en-
+courage someone to uncover the connection between injuries
+12 See, e.g., Andrew F. Daughety & Jennifer F. Reinganum, Secrecy and
+Safety, 95 AM. ECON. REV. 1074, 1074 (2005) (providing a model where firms
+reduce product safety over time when wrongdoing remains secret).
+13 On the inefficiency of patent law races, see Brian D. Wright, The Economics
+of Invention Incentives: Patents, Prizes, and Research Contracts, 73 AM. ECON. REV.
+691, 693–700 (1983).\\jciprod01\productn\C\CRN\103-2\CRN201.txt unknown Seq: 8 24-JAN-18 10:54
+318 CORNELL LAW REVIEW [Vol.103:311
+and M’s behavior, and to deter M in the first instance, there is
+less of a risk of duplication.14
+Finally, law could bar confidential settlements but reward
+A on a case-by-case basis, assessing the work A put into the
+search for the cause of A’s (and others’) injuries, and deploying
+a multiplier to offset the probability of failure. Courts are un-
+likely to be adept at the necessary calculations. Comparable
+rewards are used for salvage and rescue in admiralty law, but
+in that setting, factfinders can over time observe the state of the
+salvage industry. It would be far more difficult to calculate the
+risks that A assumes in searching for the cause of injury, and
+to  know  whether  there  is  substantial  over-  or  under-
+investment.
+We leave for another day a complete analysis of these alter-
+natives. For the purpose of this Article, it is enough to see that
+there are situations where A can extract a payment from M in
+return for confidentiality; where this premium can serve to de-
+ter M; and where this premium will not generate either a signif-
+icant moral hazard or an inefficient race to be the first to file or
+extract. It is the method that promises the lowest legal costs
+and that leaves the least room for error in the legal system. To
+be sure, A’s settlement is jarring because it does not provide
+compensation to the other 999 persons who remain in the dark
+about the source of their injuries. Nor is there a guarantee that
+A will guess correctly the amount of M’s exposure, and thus
+extract an amount that provides proper deterrence. An ideal-
+ized class action, as well as some other alternatives, can do
+better on these fronts. On the other hand, class actions and
+the other alternatives come with enormous legal costs. Our
+aim is to show that the deterrence value of confidential settle-
+ments has been under-appreciated, and then to explore the
+implications of this insight.
+There are several important deficiencies in this optimistic
+story, and these shortcomings may explain why judicial deci-
+sions,  legislative  histories,  and  academic  commentary  have
+failed to notice or come to grips with this defense of confidential
+settlements. A, and even M, cannot be certain that other vic-
+tims require the information provided by the settlement. Confi-
+dentiality is worth less to M (and therefore to A) the more other
+14 Consider, too, that A and other victims cannot be sure that they are the
+first who have approached M—or that M will pay a premium for confidentiality.
+While the deterrence effect of secret settlements will decrease as knowledge of
+similarly-situated victims decreases, so does duplicative effort in chasing secrecy
+premiums.\\jciprod01\productn\C\CRN\103-2\CRN201.txt unknown Seq: 9 24-JAN-18 10:54
+2018] SEMI-CONFIDENTIAL SETTLEMENTS 319
+claimants will discover M’s legal vulnerability without knowl-
+edge of the A-M settlement. If, for example, G is injured be-
+cause of a toy made by T, it is hard to see how other injured
+families require knowledge of the G-T agreement in order to
+identify T as the cause of their losses. The source of a child’s
+injury will be obvious. In the wake of another child’s injury,
+that family will easily develop a theory of the case resembling
+that which brought G to file a claim and then to settle with T.
+Potential claimants probably still gain something from knowl-
+edge of a G-T settlement; the dollar amount of that settlement,
+combined with information they may be able to obtain about
+the severity of G’s injuries, reveals something about T’s eager-
+ness to avoid trial or T’s prediction as to whether its toy will be
+found defective. To the extent that these arguments suggest
+that confidential settlements are at times poor substitutes for
+trials, they also show that confidentiality may not be terribly
+valuable to M. In turn, legal intervention against confidential
+agreements in these circumstances is of little value.
+In other cases, as where A is convinced that his automobile
+malfunctioned and caused an accident, it is more likely that
+confidentiality is of value to M. Confidentiality will prevent
+wasteful  strike  suits  from  other  consumers  and  lower  M’s
+costs—especially when A is unable to assess the extent to
+which the malfunction is a one-off event or something that
+other consumers would wish to know.15 On the other hand, if
+the malfunction is real and widespread, M can take precaution-
+ary steps going forward—and M knows that other injuries will
+generate other plaintiffs. There is probably a spectrum across
+which confidentiality is more valuable to M as other claimants
+gain more from knowledge of an A-M settlement. It might be
+appropriate to say that there is an information asymmetry driv-
+ing M’s preference for confidentiality, but this deemphasizes
+both A’s ability to extract value from the better-informed M as
+that asymmetry narrows, and the likelihood that such settle-
+ments come close to deterring M in reasonable fashion.
+Even where confidentiality is very valuable to M, the par-
+ties will not normally know how many claims like A’s are forth-
+coming. A might have enough data to estimate that M faces
+15 Public agreements reveal information that can be leveraged in future strike
+suit negotiations, including a party’s propensity to settle. Although defendants
+can discourage strike suits by litigating more often, pursuing this strategy is
+wasteful. Note that secrecy and a settlement with A might also keep other con-
+sumers from duplicating A’s investigation and litigation costs, but again the ques-
+tion at this point in the discussion is whether A can extract, from M, a large part of
+the value of secrecy.\\jciprod01\productn\C\CRN\103-2\CRN201.txt unknown Seq: 10 24-JAN-18 10:54
+320 CORNELL LAW REVIEW [Vol.103:311
+100,000 in liability because of the likelihood of side effects from
+its drug, but when A tries to extract something close to this
+sum in return for A’s promise of silence, M will reason that
+there are a number of people in A’s situation, and M must find
+it worthwhile to buy silence from all of them. M might pay up to
+9000 to each of ten knowledgeable victims in return for confi-
+dentiality, but M will not pay much more than that, and A (and
+even perhaps M) does not know how many ways the pot must
+be divided in negotiations with M. Significantly—though again
+surprisingly absent from the settlement literature—is the ob-
+servation that a confidentiality clause loses value when M is
+paying off a number of victims. The clause will provide that if A
+breaks the agreement, A must return the settlement amount,
+and courts can be expected to uphold this contract.16 But
+what if both A and B independently extract settlements from M
+by agreeing to confidentiality, and then B blurts? B certainly
+forfeits his settlement, but it is unlikely that A will have agreed
+to a settlement that requires A to refund her settlement if B
+breaks his agreement with M. We have not seen such an agree-
+ment, calling for the return of settlement money when another
+party breaches a separate confidentiality agreement, and if
+there were such a contract, it is possible that courts would not
+enforce it against A. Moreover, as M divides the gains from
+confidentiality among several informed plaintiffs, like A and B,
+each has diminished financial incentive to uphold the confi-
+dentiality agreement. Again, this makes confidentiality less
+valuable to M, and therefore to all the parties. In turn, it be-
+comes less clear whether payments for confidentiality provide
+the same deterrence as those required in numerous lawsuits or
+in a class action on behalf of those similarly situated to A.
+Sunshine laws or refusals to enforce confidentiality agreements
+can thus be understood as means of ensuring the appropriate
+level of deterrence. Of course, if M would rather go to trial than
+settle transparently, then the overall effect may be to discour-
+age settlement. In turn, deterrence is a function of plaintiffs’
+ability to get to court and prevail in trials.
+Although sunshine-in-litigation laws appear to be moti-
+vated by the fear that confidentiality will allow M to harm new
+victims, the better case for transparency is probably based on
+the second idea noted above: the level of deterrence. It seems
+unlikely that even with confidentiality M will continue to manu-
+16 Note that M might collude with B to blurt when M no longer values the
+confidentiality agreed to by A. Courts might take this into account when evaluat-
+ing confidentiality agreements.\\jciprod01\productn\C\CRN\103-2\CRN201.txt unknown Seq: 11 24-JAN-18 10:54
+2018] SEMI-CONFIDENTIAL SETTLEMENTS 321
+facture dangerous products or allow them to continue to circu-
+late, because every future injury creates a new claimant who
+may trace the problem to M without knowledge of A’s lawsuit or
+settlement. In most cases, once M is informed of a hazard
+because of a lawsuit filed by A, M will evaluate the risk and,
+when appropriate, alter its product, issue a recall, or at least
+warn potential victims, because the precaution is less expen-
+sive than potential liability from further injuries that might be
+avoided. There are two kinds of cases in which this optimism is
+unsupported. The first is where M thinks that no one but A will
+see the connection A has made between the injury and M. Side
+effects of a pharmaceutical seem like the best example, al-
+though as a practical matter M is obligated by statute to report
+side effects and bad outcomes that come to its attention, and
+the penalty for noncompliant secrecy is high.17
+The second category is where M does not believe that it has
+made a defective product,18 or that A’s injury truly derives from
+M’s product, but M fears that news of A’s claim will bring forth
+other claimants who also, but incorrectly, trace their injuries,
+real or imagined, to M. In these cases, M may settle with A
+because M fears irrationality and error within the legal system.
+M  may  also  fear  a  disproportionate  cost  to  its  reputation.
+Thus, imagine a case in which A claims a side effect from a
+vaccine or from power lines made or installed by M even though
+there is overwhelming scientific evidence against the causal
+link claimed by A. M might pay A, subject to a confidentiality
+agreement, even though M thinks the claim baseless.
+17 21 C.F.R. §314.80 (2016) (detailing the Food and Drug Administration’s
+reporting requirements for adverse reactions to approved drugs). Depending on
+the circumstances of the reporting, the FDA might issue a warning at its discre-
+tion, or pursue legal action. Alternatively, a third party can take legal action. For
+example, New York Attorney General Eliot Spitzer initiated a civil suit under state
+consumer protection laws against GlaxoSmithKline for allegedly failing to disclose
+studies regarding the side effects of the drug Paxil, leading to fines of $3 billion.
+See U.S. Dep’t of Justice, GlaxoSmithKline to Plead Guilty and Pay $3 Billion to
+Resolve Fraud Allegations and Failure to Report Safety Data, OFFICE OF PUB. AF-
+FAIRS  NEWS  (July  2,  2012),  https://www.justice.gov/opa/pr/glaxosmithkline-
+plead-guilty-and-pay-3-billion-resolve-fraud-allegations-and-failure-report
+[https://perma.cc/5JND-P3YX]; Katie Thomas & Michael S. Schmidt, Glaxo
+Agrees to Pay $3 Billion in Fraud Settlement, N.Y. TIMES (July 2, 2012), http://
+www.nytimes.com/2012/07/03/business/glaxosmithkline-agrees-to-pay-3-bil
+lion-in-fraud-settlement.html [https://perma.cc/7J49-VHXF].
+18 Even if M thinks there is a defect, it might be of the kind that does not
+appear in all identical products. A few items on an assembly line might suffer
+from metal fatigue, or develop cracks, while the others are just fine.\\jciprod01\productn\C\CRN\103-2\CRN201.txt unknown Seq: 12 24-JAN-18 10:54
+322 CORNELL LAW REVIEW [Vol.103:311
+B. Pattern Recognition and Confidentiality
+In some cases the plaintiff is at a bargaining disadvantage
+because it is difficult to assess the defendant’s exposure. Imag-
+ine that a celebrity, C, sexually assaults W. W brings a civil
+suit19 and C offers a settlement conditional on confidentiality.
+W does not know whether the value of a confidentiality agree-
+ment  derives  from  the  potential  loss  to  C’s  reputation  or
+whether C also has reason to fear that other complainants will
+come forward once they learn that their own experiences might
+be part of a pattern of sexual misbehavior. In contrast, A, the
+conventional tort victim, was able to assess M’s exposure by
+analyzing its sales volume and bargaining for a confidential
+settlement that approaches the full deterrence value of claims
+against M in a transparent world. But W knows comparatively
+less than A, and C surely knows more about the existence of
+other complainants than does his accuser, W. The accused
+celebrity, C, might reason that others do not want to suffer the
+costs of coming forward if their chances of success are low. C,
+however, knows that if a number of women come forward, each
+is more likely to be believed, and consequently they will suffer
+lower costs. In short, W can extract some payment from C, but
+without information about whether C is in fact a serial wrong-
+doer, W is often unable to extract a high settlement. In turn, C,
+and others like him, is insufficiently deterred.
+The preceding intuitions about deterrence and pattern rec-
+ognition are encouraged by asking what law’s response is and
+should be to private settlements of claims where there is no
+special pattern problem. In the civil context, one-off cases do
+not normally cause defendants to offer anything for confidenti-
+ality. Setting aside cases where there is a privacy interest, it is
+the pattern potential that makes the information valuable to
+others and costly to the settling party. In criminal cases, and
+perhaps with respect to most intentional torts, there is more of
+a sense of bad types and good types. The legal system gathers
+information  about  prior  arrests  and  convictions  because  it
+finds the information useful; private settlements may be partic-
+ularly undesirable.
+19 The lack of evidence may have convinced W that no criminal prosecution
+would succeed. Alternatively, the statute of limitations for a criminal suit, but not
+for a civil suit, may have been tolled.\\jciprod01\productn\C\CRN\103-2\CRN201.txt unknown Seq: 13 24-JAN-18 10:54
+2018] SEMI-CONFIDENTIAL SETTLEMENTS 323
+II
+PRIVATE SETTLING OF CRIMINAL WRONGDOING
+Imagine that a storekeeper, S, suffers an armed robbery at
+the hands of AR. S is prepared to call the police and show
+incontrovertible video evidence, but AR, discovering that the
+robbery was filmed by a hidden camera, contacts S or even
+returns to discuss matters and offers $5000 to settle the matter
+if S will agree to complete confidentiality. Most legal systems
+assign a monopoly power over criminal law to the state, so that
+the nascent criminal complaint might not seem like something
+that S can settle, but it can be difficult for the state to learn of a
+crime or to obtain a conviction without S’s (uncompensated)
+cooperation and then testimony at trial. As a matter of legal
+doctrine, if S extracts a payment much greater than the value
+of what AR has taken, S runs a risk, albeit more in theory than
+in practice, that she will be open to a charge of extortion for
+having taken more than her “claim of right” allowed.20 The
+doctrine seems aimed at cases where the victim of a theft
+tracks down the thief and repossesses her belongings. If the
+victim enters the thief’s property, for instance, the former can-
+not take for herself as many things as she likes, and if she does
+so she is a thief or robber herself.
+In practice, if the armed robber and storekeeper bargain for
+a payment in return for a confidentiality agreement, law’s prob-
+lem is more likely to be the under-deterrence of the robber than
+the storekeeper’s enrichment or “crime” of extortion, and espe-
+cially so if AR initiates the bargain. Put in terms of deterrence,
+S’s ability to extract a settlement from AR is thought to be
+insufficient to deter AR in optimal fashion inasmuch as S does
+not internalize the cost of future robberies by AR. This feature
+of criminal or intentional wrongdoing is not new. In the legal
+code found in Exodus, both intentional wrongs and negligence
+generate remedies, but only the penalties set down for negli-
+20 See generally Kristine Cordier Karnezis, Annotation, Robbery, Attempted
+Robbery, or Assault to Commit Robbery, as Affected by the Intent to Collect or
+Secure Debt or Claim, 88 A.L.R. 3d 1309, §4[a] (1978) (noting that when acting
+within a claim of right, the one who takes lacks the intent to steal). The discus-
+sion here assumes that the same is true for extortion rather than behavior that
+looks like a robbery. A criminal claim against S seems especially unlikely where
+AR initiates the private bargain, as it become hard to describe S as an extortionist.
+Finally, if AR promises future payment, or S accepts payment and then later
+decides to report AR to the police, there is the question of whether law will enforce
+the AR-S contract. It is easy to imagine a refusal to enforce, as refusal falls far
+short of labeling S a criminal. On the other hand, nonenforcement in the event of
+breach rewards S, though it is likely to deter a subset of these private settlements
+in the future.\\jciprod01\productn\C\CRN\103-2\CRN201.txt unknown Seq: 14 24-JAN-18 10:54
+324 CORNELL LAW REVIEW [Vol.103:311
+gence are described as avoidable through settlement between
+the private parties.21 For example, when an ox that was known
+by its owner to have gored and caused injury on a previous
+occasion gores again and kills a human, the penalty applied to
+the owner who failed to restrain his animal is severe, but the
+family of the victim could accept monetary payment in lieu of
+the  remedy  provided  by  law.22  Similarly,  in  Hammurabi’s
+Code, when a doctor negligently injured or killed a patient, the
+legislated “eye for an eye” approach was apparently and widely
+avoided by negotiated payment.23 In contrast, we have no tex-
+tual statement or evidence that robbery or murder could be
+privately settled under those early codes. Those wrongs are
+regarded as crimes against the community, and that label may
+capture the idea that a criminal is likely to strike again, while
+the mistakes made by a builder or owner of oxen are one-off
+events. An alternative explanation is that the builder and oxen
+owner are thought to be deterred by monetary payments, while
+intentional wrongdoers are more often thought to be out of
+control and undeterrable except by removal from the commu-
+nity. Both distinctions track the idea that an injured party and
+alleged tortfeasor, like A and M, can settle their tort suits,
+perhaps secretly yet still in the shadow of the legal system, but
+the robber and storekeeper should not.
+Another way to think of the matter is that the modern
+legislature has decided to deter and punish the robber with
+incarceration rather than financial assessments. With some
+misdemeanors, as with securities fraud, antitrust claims, and
+white-collar crime more generally, the legislature or the prose-
+cutor offers the wrongdoer a choice between paying a fine and
+imprisonment.24 Violent crimes, or perhaps simply those asso-
+21 See Exodus 21–22 (Revised English Bible); see also Saul Levmore, Rethink-
+ing Comparative Law: Variety and Uniformity in Ancient and Modern Tort Law, 61
+TUL. L. REV. 235, 266–73 (1986) (discussing negligence and strict-liability rules in
+Exodus).
+22 Exodus 21:28–30 (Revised English Bible):
+When an ox gores a man or a woman to death, the ox must be put to
+death by stoning, and its flesh is not to be eaten; the owner of the ox
+will be free from liability. If, however, the ox has for some time past
+been a vicious animal, and the owner has been duly warned but has
+not kept it under control, and the ox kills a man or a woman, then
+the ox must be stoned to death, and the owner put to death as well.
+If, however, the penalty is commuted for a money payment, he must
+pay in redemption of his life whatever is imposed upon him.
+23 See Levmore, supra note 21, at 263. R
+24 See, e.g., 15 U.S.C. §1 (2012) (providing fines or imprisonment for certain
+anti-trust violations); 15 U.S.C. §78ff (2012) (providing fines or imprisonment for
+certain types of securities fraud); KY. REV. STAT. ANN. §534.040 (West 2017) (pro-
+viding that “a fine may be levied in lieu of imprisonment” for misdemeanors).\\jciprod01\productn\C\CRN\103-2\CRN201.txt unknown Seq: 15 24-JAN-18 10:54
+2018] SEMI-CONFIDENTIAL SETTLEMENTS 325
+ciated with many low-income perpetrators, do not come with
+that choice.25 Given this decision, a private party like the
+storekeeper should not be able to choose for the robber that
+which the state has ruled out.
+But there are other perspectives. Perhaps the state would
+offer a choice, or would much prefer to attach financial penal-
+ties to many crimes, if only to save on incarceration costs, but
+is stymied by the fact that so many convicted wrongdoers do
+not have the means to pay. The law finds it unseemly, or politi-
+cally impossible, to incarcerate the poor while allowing more
+affluent wrongdoers to buy their way out of prison. It is barely
+possible that the law would allow the storekeeper and robber to
+bargain privately if it thought that the latter could be as effec-
+tively deterred by monetary payments as by incarceration—so
+long as the ability of some wrongdoers to pay their way out of
+prison is hidden from view. In any event, it is plain that the
+typical robber’s financial circumstances mean that the store-
+keeper will be unable to extract a high settlement. The store-
+keeper  might  selfishly  prefer  a  modest  payment  over  the
+wrongdoer’s incarceration, but the state’s deterrence interest
+requires that the storekeeper and robber not be allowed to
+bargain out of sight of the law and certainly not for some trivial
+amount that will fail to deter wrongdoers.
+Intuitions might change in the case where the storekeeper
+bargains not with a robber but with an employee, EM, who is
+caught embezzling. Again, imagine that wrongdoer and victim,
+EM and S, bargain to avoid calling in the police and to allow EM
+to continue as an employee after making amends. There are
+several reasons why confidentiality-for-pay should be more ac-
+ceptable in this situation than where AR and S bargain. First,
+the employed embezzler has the means to make substantial
+payments, and money might serve as an efficient deterrent.
+Second, by continuing to employ the wrongdoer, the store-
+25 Serious white-collar crimes are often resolved by the state’s extraction of
+very large penalties from wrongdoers accused of securities fraud and other such
+matters. See, e.g., Peter MacKenna, Financial Institutions Fraud, 54 AM. CRIM. L.
+REV. 1333, 1357–59 (2017) (detailing several billion dollar settlements in securi-
+ties fraud cases). We might set these aside because the state does the extracting
+and there is certainly no extra payment for confidentiality. Indeed, the large fine,
+or settlement, is advertised as a deterrent to wrongdoing. But there is room to
+argue that these are simply cases where the law recognizes that financial pay-
+ments can deter just as well as incarceration, and with much lower social cost.
+Law does not offer conventional robbers a choice between making large payments
+and incarceration because it is politically and morally difficult to allow the wealthy
+to “buy their way” out of prison. In the case of securities fraud, there are few poor
+people to ruin the visual landscape.\\jciprod01\productn\C\CRN\103-2\CRN201.txt unknown Seq: 16 24-JAN-18 10:54
+326 CORNELL LAW REVIEW [Vol.103:311
+keeper internalizes a good part of the cost and danger associ-
+ated with a serial wrongdoer whose pattern would be revealed
+and perhaps halted but for the confidentiality agreement. In
+principle, a potential embezzler is deterred because he knows
+that apprehension leads either to imprisonment or, through
+bargaining, to a significant financial loss. The employer ex-
+tracts payment but also keeps the wrongdoer close at hand; he
+or she absorbs the cost of monitoring this employee; and he or
+she will be the most likely to suffer from further wrongdoing. If
+this second feature is missing, and the employer extracts pay-
+ment but discharges the employee, law must count on the de-
+terrence  provided  by  the  payment  extracted  from  the
+wrongdoer. It would be unsurprising if it were in just such
+cases that law regarded the employer as illegally extorting from
+the employee, though this is hard to imagine in cases where the
+embezzler initiated the bargain.26
+A third option is for S and EM to bargain—but to be re-
+quired to report their bargain to the state. If the problem with a
+confidential agreement is that the storekeeper gives insufficient
+consideration to third-party interests, then perhaps the state
+should be offered the opportunity to veto the private bargain. It
+might normally approve the private bargain—as it does the
+settlement of contract and tort claims—both because it saves
+the costs of further investigation and incarceration, and also
+because it has no good means of forcing employers to report
+crimes in the first place. Law might recognize that the em-
+ployer’s extraction serves to deter embezzlers. In theory, the
+state could condition its approval on the continued employ-
+ment of the wrongdoer for a period of years. This sort of servi-
+tude can create a risk of exploitation by the employer, but at
+least here the employee can quit and risk criminal charges.
+Disclosure  of  private  bargains  with  criminals  is  hard
+enough to encourage and even require; an opportunity for the
+state to approve or veto such private bargains is completely
+impractical. To make an evaluation, the state needs to know
+the identity of the wrongdoer, and this identification is an im-
+portant part of what the accused will pay to avoid.27 One possi-
+bility is for the state to permit private bargains involving first-
+26 For one thing, the employer might claim that he or she was afraid to turn
+down the embezzler’s offer. Moreover, claim-of-right cases always involve initia-
+tion  and  action  by  the  victim;  here  the  alleged  extortionist  would  be  the
+respondent.
+27 The state could promise to record for the purpose of identifying repeat
+offenders, but not to use the information for other purposes. The accused would
+pay to avoid this list as well.\\jciprod01\productn\C\CRN\103-2\CRN201.txt unknown Seq: 17 24-JAN-18 10:54
+2018] SEMI-CONFIDENTIAL SETTLEMENTS 327
+time offenders and to require disclosure simply to separate
+repeat and one-off offenders. A first-time wrongdoer might
+then pay more for nondisclosure to avoid classification as a
+repeat offender, so that the system must rely on the employer’s
+security concerns in order to motivate the employer to report
+the transaction. Few employers want to hire serial embezzlers.
+The employer may not be ready to accept payment in return for
+nondisclosure because the employer wants to know if this is
+truly a first-time offender or because the wrongdoer may later
+on have reason to reveal that the employer did not disclose
+when law required disclosure.28
+Generally speaking, it is in victims’ self-interest to report
+criminal wrongdoing to the police when there is reason to fear
+further harm from the wrongdoer, where there is a decent pros-
+pect that the police will catch the wrongdoer and law will force
+the return of lost property or other restitution, or where the
+victim hopes to collect from an insurer. Where there is an
+ongoing relationship, crimes are often unreported; an employer
+who suspects or discovers low-level embezzlement or theft will
+often dismiss but not report the employee.29 A call to the police
+brings on costs, and especially so where the accused doubles
+down and makes a counterclaim—which law might resolve in-
+correctly. In these cases, the law ought to welcome private
+bargains between victim and wrongdoer, as this option pro-
+vides more reliable deterrence. In any event, it seems clear that
+what  motivates  the  bargain  between  a  storekeeper  and  an
+armed robber or embezzler is objectionable; the parties seek to
+substitute  private  profit  for  criminal  prosecution  and
+incarceration.
+We do not suggest that criminal law should be reconfigured
+to allow or even encourage private agreements between armed
+robbers and storekeepers. Unlike the case of A and M’s tort
+settlement, victims of armed robberies are unlikely to extract
+sufficiently  large  settlements  from  financially  distressed
+criminals. The very reason that the modern state resorts to
+incarceration is likely to stand in the way of obtaining sufficient
+28 The situation resembles legal attempts to combat bribery by making it a
+crime on just one side of the transaction. If, for example, it is a crime to receive a
+bribe, then the bribed party must worry that the bribing party will later on report
+the bribe, or threaten to do so. See infra note 53. R
+29 See Paul Bonny et al., Revisiting Employee Fraud: Gender, Investigation
+Outcomes and Offender Motivation, 22 J. FIN. CRIME 447, 452 (2015) (“For a variety
+of reasons, organisations are not readily disposed towards reporting employee
+fraud, instead resolving instances of offending by terminating the employment
+relationship.”).\\jciprod01\productn\C\CRN\103-2\CRN201.txt unknown Seq: 18 24-JAN-18 10:54
+328 CORNELL LAW REVIEW [Vol.103:311
+deterrence through private extractions. On the other hand, the
+state has difficulty encouraging or even compelling some vic-
+tims to come forward.30 If it pays them directly, their credibility
+is often reduced—though no one seems to object to restitution.
+There will, therefore, be cases where private agreements pro-
+vide more deterrence than the criminal law, and it is for this
+reason that the law ought to tolerate some experimentation
+with private agreements in lieu of criminal charges. The em-
+ployer-embezzler case is a potential example because the vic-
+tim  is  in  a  position  to  internalize  third-party  harms.
+Meanwhile, the claim-of-right doctrine needs rethinking.31 The
+more serious concern is that the victim will collect too little to
+deter the wrongdoer.32
+III
+FALSE CLAIMS AND MORAL HAZARDS: CRIMINAL AND
+CIVIL CASES
+When a victim profits from the identification of a criminal,
+there is the problem of moral hazard. If an employer can ex-
+tract payments from an embezzling employee, as suggested in
+Part II, then an employer might wrongfully accuse an employee
+of embezzlement or tempt the employee by entrusting him with
+bundles of cash. An unprincipled employer might have an eye
+on profiting from a misstep by the employee followed by accu-
+sation and negotiation in the shadow of the criminal law. Sim-
+ple restitution, which is what law normally provides alongside
+criminal punishment, avoids this moral hazard because it does
+not leave the accuser better off than before the alleged crime. It
+offers a reward for coming forward, because the victim might be
+30 Cf. U.S. DEP’TOF JUSTICE, BUREAUOF JUSTICE STATISTICS, BJS BULL NO. NCJ
+238536, SPECIAL REPORT: VICTIMIZATIONS NOT REPORTED TO THE POLICE, 2006–2010,
+at 2 (2012) (reporting percentages of victimizations that were not reported to
+police and reasons victims gave for not reporting violent crime victimizations).
+31 The doctrine is at its best when it discourages a second round of violence
+between the original criminal and victim. If the law allows the victim to over-
+collect, the victim may be tempted to pursue the criminal or look for the criminal’s
+property. In turn, the criminal will prepare for this attack. The conventional
+limitation on “hot pursuit” addresses this problem, though it is aimed at the
+question of physical harm inflicted after a property crime. The doctrine is proba-
+bly misguided if applied to peaceful bargains between the parties.
+32 In principle, private and public remedies can be combined. The employer
+and embezzler, for example, might gain the state’s consent to their negotiated
+payments so long as the wrongdoer serves a short time in prison. We do not
+pursue such combinations in part because of the intuition that one major benefit
+of settlement is the cost savings derived from avoiding trial and involving the
+criminal law system.\\jciprod01\productn\C\CRN\103-2\CRN201.txt unknown Seq: 19 24-JAN-18 10:54
+2018] SEMI-CONFIDENTIAL SETTLEMENTS 329
+made whole with the help of the law, but it does not enable the
+victim to earn a tidy profit.
+We do not mean to put excessive weight on this moral
+hazard risk. Employers who falsely accuse their employees
+risk counterclaims and a loss of employee morale. There are,
+after all, other situations where employers might gain from
+falsely accusing and then discharging an employee. For exam-
+ple, an employee might be on the verge of earning an accumu-
+lated bonus or vacation time; an employee might be paid more
+than his marginal product, but protected from discharge by age
+discrimination law. In these situations, there is a moral haz-
+ard, but it does not seem sufficient to tempt widespread misbe-
+havior  by  employers.  Nevertheless,  in  cataloguing  the
+advantages and disadvantages of confidentiality agreements or
+of agreements to avoid the criminal law, if deterrence (with
+attendant savings of trial and incarceration costs) is on the
+positive side of the ledger, it is appropriate to note that false
+claims ought to be placed on the negative side.33
+Returning to civil cases, moral hazard is again a concern—
+but not a showstopper—wherever the victim can collect more
+than compensatory damages. When the tort victim, A, bar-
+gains with M, A does not know in advance that M will pay
+handsomely for silence; M may opt for trial or already face
+other plaintiffs with similar claims. Second, M has reason to
+investigate the circumstances of A’s injury and to turn suspi-
+cions about self-injury into a claim that A was comparatively
+negligent. Third, where personal injury is involved—and this
+seems to be the focus of sunshine-in-litigation statutes—law
+often contemplates punitive damages and thus seems to dis-
+count  the  moral  hazard  problem  in  favor  of  deterrence  or
+strongly  expressive  remedies;  confidential  settlements  thus
+have good, or at least familiar, company. A deterrence perspec-
+tive offers a fourth reason to be untroubled by moral hazard.
+Even if A manufactures a claim against M, when M pays for
+confidentiality it is often because M thinks that A’s claim will
+resonate with juries and encourage other claims. Allowing a
+payment that produces profit for A is, in the end, likely to deter
+M in the first place, and that is a major accomplishment. Fi-
+nally, M can always go to trial, so that there is an upper limit on
+A’s power to extract.
+33 The false claims problem does not alone explain much. A storekeeper may
+have incontrovertible evidence of AR’s crime, but law will still reject private settle-
+ment for reasons discussed earlier. See supra Part II.\\jciprod01\productn\C\CRN\103-2\CRN201.txt unknown Seq: 20 24-JAN-18 10:54
+330 CORNELL LAW REVIEW [Vol.103:311
+Nevertheless, if victims or even witnesses are to be re-
+warded for coming forward to report wrongdoing, it is probably
+better for the payment to come openly from the legal authority
+than for it to come secretly from the accused, who hopes that a
+confidential agreement will keep the police and criminal law
+system at bay. Private payments offer deterrence, as we have
+stressed, but without the safeguards of criminal procedure and
+the ability to counterclaim for defamation and other causes of
+action, they risk generating false claims. This preference for
+public over private resolution is clearest where the costs of
+public law are low. Thus, if tort suits could be greatly stream-
+lined, law would (and should) be less likely to favor settlements
+of the kind we depicted between A and M. The more efficient a
+legal system, the less is the social gain from avoiding it by way
+of confidential settlement agreements.
+If the legal system can be counted on to be reliable and
+relatively free of interest-group corruption, then confidential
+settlements might be accepted only where they preempt legal
+actions that are likely to end in money payments between the
+settling parties. A settlement between A and M, the injured
+victim and presumed tortfeasor, is in the shadow of a trial with
+the same adversaries. A may be hoping for payments that sub-
+stitute for those that would be made to other injured parties,
+but it is not obvious that law should object so long as the
+defendant is properly deterred. In contrast, the storekeeper
+who seeks payment from a robber or embezzler is at least in
+part capitalizing on the fact that incarceration is very costly to
+the wrongdoer and of no direct benefit to the victim, whose
+testimony is essential for conviction. If the law wanted to offer
+financial motivation to victims and other witnesses, it could
+simply  offer  payments,  as  it  occasionally  does  with
+whistleblowers. When it does not, it is because it fears that
+private enrichment will decrease credibility or even bring about
+false claims, and that these costs exceed any additional deter-
+rence that could be availed. Note that the law’s disinclination
+to sort robbers according to their ability to pay in order to avoid
+incarceration is not much of an explanation; paying for testi-
+mony is surely less expensive than paying for incarceration. In
+sum, it is easy to understand an aversion to confidential agree-
+ments  between  armed  robbers  and  their  victims  against  a
+background in which the state generally declines to award fi-
+nancial inducements to victims.
+False claims and moral hazards can also be assessed by
+way of the time-honored distinction between negligence and\\jciprod01\productn\C\CRN\103-2\CRN201.txt unknown Seq: 21 24-JAN-18 10:54
+2018] SEMI-CONFIDENTIAL SETTLEMENTS 331
+intentional wrongdoing. Law seems most comfortable allowing
+a victim to collect multiple damages when the defendant is an
+intentional wrongdoer and the evidence of his or her wrongdo-
+ing is out of plaintiff’s control.34 If so, then there is a kind of
+precedent for high-priced confidentiality agreements. If M* is
+an intentional wrongdoer who places a high value on staying
+out of court, the injured party, A, can extract a high settle-
+ment.35 The concern is not that A will profit but rather that A
+will extract too little. A high settlement, like punitive damages,
+deters wrongdoers like M* in contexts where moral hazard is
+unlikely because the wrongdoer who acts intentionally rarely
+injures a victim who contributes to the problem. Put differ-
+ently, there is an intuition that intentional wrongdoing is worse
+than negligence, so that the legal system should be called in
+and not bypassed by confidential agreements. But an alterna-
+tive view is that intentional wrongdoing is less likely to generate
+or interact with moral hazard problems, so that high, confiden-
+tial settlements—in the manner of punitive damages—are rela-
+tively tolerable, if not attractive.
+The distinction, if any, between negligent and intentional
+wrongdoing can be tested by returning once again to our store-
+keeper, S, and considering her transactions with customers
+whose checks are rejected for insufficient funds. Retail stores
+often give notice that they will charge twenty-five dollars or
+even fifty dollars for a returned check. Some states have laws
+barring charges above a specified amount.36 The normal fee is
+greater than the average fee that a bank would charge to the
+depositor, but it is probably not more than that fee plus the
+value of the time spent by the store employee tasked with con-
+tacting the customer and obtaining payment. If S has reason
+to think that the bad-check writing was intentional, and thus
+criminal fraud, then S is also likely to find that the customer
+will not quickly make good on the check and fee. In that case, S
+has reason to contact the police. Cases in which companies
+34 Cf. Doug Rendleman, Commercial Bribery: Choice and Measurement Within
+a Remedies Smorgasbord, 74 WASH. & LEE L. REV. 369, 445–49 (2017) (suggesting
+that in some cases, multiple damages serve to deter intentional wrongdoers).
+35 A law and economics approach favors punitive, or multiple, damages when
+defendants think they can often escape detection or lawsuit. Law does not seem
+to reflect this insight, so the case for high and confidential settlements is not as
+close as it could be to punitive damages.
+36 In Missouri, for example, an institution may add a service charge of no
+more than twenty-five dollars. See MO. REV. STAT. §570.120.1 (2016). Some
+states, such as California, also allow legal action for bad checks, though certain
+conditions must be met and the maximum recovery is $1500. See CAL. CIV. CODE
+§1719 (West 1998).\\jciprod01\productn\C\CRN\103-2\CRN201.txt unknown Seq: 22 24-JAN-18 10:54
+332 CORNELL LAW REVIEW [Vol.103:311
+profit handsomely by collecting fees from bad-check writers
+seem to involve collection companies rather than storekeepers,
+so there is no indication of a false claim or moral hazard
+problem.
+IV
+SEXUAL ASSAULT CASES AND UNIVERSITY DISCIPLINARY
+PROCESSES
+Sexual assault cases outside of university disciplinary sys-
+tems can find their way into civil and criminal courts. In these
+forums, as in university disciplinary settings, many victims are
+eager to preserve their privacy and are therefore at a bargaining
+disadvantage. The level of deterrence that might be expected in
+most tort cases is unlikely to be met here because defendants
+who would otherwise pay for confidentiality know that their
+adversaries also value privacy. The balance of power is indeter-
+minate, though frequent withdrawals of claims, or even private
+settlements, are to be expected. Sexual assault victims are
+encouraged to come forward in the criminal system by a (lim-
+ited)  promise  that  they  can  remain  (publicly)  unidentified,
+though in a tightly-knit community this is often impossible.
+States might enable privacy either by statute or by way of
+judges deciding to keep some part of a record sealed.37 Ideally,
+the promise of privacy—often supported by journalistic con-
+ventions38—encourages meritorious claims. It is apparent that
+both sides might be willing to pay for privacy, but law is in-
+clined to enable only one side’s anonymity.
+Sexual assault cases processed on university campuses
+are like fraud and employment discrimination matters in civil
+courts, not only because of the recently imposed preponder-
+ance-of-the-evidence standard,39 but also because the pattern
+problem is paramount, and because there is an information
+37 For example, the Crime Victims Protection Act amended Florida law to
+make all court records that could reveal the victim’s identity exempt from public
+disclosure. Crime Victims Protection Act of 1994, FLA. STAT. §119.071(2)(h)
+(2016) (amended 2000). However, states cannot always suppress disclosure of
+victims’ identities. See, e.g., Fla. Star v. B.J.F., 491 U.S. 524, 541 (1989) (holding
+that the First Amendment protects a newspaper against a claim for damages
+under state law where the newspaper truthfully but accidentally revealed the
+victim’s identity).
+38 See, e.g., Fla. Star, 491 U.S. at 528 (noting The Florida Star’s internal
+policy against publishing the names of sexual offense victims).
+39 See Jacob Gersen & Jeannie Suk, The Sex Bureaucracy, 104 CALIF. L. REV.
+881, 901 (2016) (stating that universities “must investigate and adjudicate stu-
+dent sexual assault cases to fulfill their Title IX obligations,” and the process must
+use a preponderance-of-the-evidence standard).\\jciprod01\productn\C\CRN\103-2\CRN201.txt unknown Seq: 23 24-JAN-18 10:54
+2018] SEMI-CONFIDENTIAL SETTLEMENTS 333
+asymmetry between the parties who might bargain to preempt
+decisions by the authorities. The asymmetry is not relevant in
+all cases, because a serious claim need not be a part of a
+pattern, but in many cases, the accused knows better than the
+accuser whether there is a pattern of wrongful behavior that
+can come to light if multiple accusers come forward. A given
+victim cannot easily discern the value of confidentiality to the
+accused. In contrast, the tort plaintiff, A, may not know how
+many others have linked M to their injuries, but A has some
+idea of M’s sales volume and an expert can help A assess M’s
+exposure in preparation for reaching a confidentiality agree-
+ment. Even an employer often has a good sense of the incarcer-
+ation risk his employee-embezzler faces,40 though perhaps not
+of the latter’s subjective valuation of liberty. None of this is
+true for the victim of sexual assault—and any advertising or
+public search for other victims will expose the offender in a way
+that makes it harder for the victim to extract payment for confi-
+dentiality. The victim can offer confidentiality only by foregoing
+a search for a pattern of misbehavior. We do not mean to imply
+that the victim is eager or even willing to extract payment from
+the  perpetrator;  indeed,  campus  cases  involve  victims  who
+seem to place high value on emotional and institutional sup-
+port as well as the removal of an offender from campus. The
+storekeeper and tort victim encountered in the earlier Parts of
+this Article are likely to place much lower value on institutional
+support and removal; their defendants are likely to have an
+easier time bargaining for confidentiality. Nevertheless, it is
+instructive (and of practical interest) to consider confidentiality
+agreements between victims and those they accuse of sexual
+assault—as well as other matters adjudicated on campuses.
+Imagine that Y engages in sexual activity with X when X is
+unable to provide true consent. Subsequently, X initiates a
+complaint against Y within a university’s disciplinary system.
+After the Title IX investigator questions the parties, Y (in an
+unusual move, to be sure) offers X a monetary settlement that
+includes a confidentiality agreement,41 and X then withdraws
+her complaint. The argument for respecting the confidentiality
+40 Having rejected confidential agreements in typical criminal cases, like AR-
+S, we do not consider repeat offender (“three strikes”) statutes, which can obvi-
+ously influence these bargains. A strong argument against confidentiality there,
+is that the police have much better information than does the storekeeper about
+the criminal’s past and future career plans. The employer in the text’s example is
+unlikely to continue employing a repeat offender.
+41 If the university has imposed a no-contact order, as is common, the parties
+can bargain through their attorneys.\\jciprod01\productn\C\CRN\103-2\CRN201.txt unknown Seq: 24 24-JAN-18 10:54
+334 CORNELL LAW REVIEW [Vol.103:311
+agreement and withdrawal is that future victims may be less
+inclined to file complaints if they discover that, once initiated,
+they cannot be halted. But given that the penalty Y faces
+within the disciplinary system does not inure to X’s direct ben-
+efit, and is likely intended to provide a measure of campus
+safety (in addition to deterrence and retribution), it seems im-
+prudent for the university to enable Y to pay X in order to end
+the matter. Even if financial consequences can deter Y from
+sexual misbehavior, deterrence requires that X extract a sub-
+stantial settlement from Y. This seems unlikely because Y
+knows that X is not eager to recount her experience to stran-
+gers and subject herself to questioning. Put differently, even if
+we do not analogize the case to that involving the storekeeper
+and armed robber, because we think that the victim of sexual
+assault identifies more with other similarly situated victims
+than does the typical victim of a robbery, there is reason to fear
+that X will not extract enough, in return for a promise of confi-
+dentiality, to deter Y. X might well reason that Y faces suspen-
+sion from the university and will pay a good deal for X to
+withdraw her claim, but at the same time Y knows that X wants
+to avoid the emotional costs attached to a hearing. X also may
+not know whether her complaint against Y enables other vic-
+tims to succeed with similar accusations.42 In short, because
+the accuser in these cases is likely to value privacy far more
+than plaintiffs in most civil and criminal suits, accusers may
+settle too quickly and cheaply to serve the deterrence goal.
+A very different argument against confidential settlement is
+that there is a danger of false claims. As in the claim against
+the alleged embezzler, and unlike that against the armed rob-
+ber, there is rarely incontrovertible evidence against the wrong-
+doer.  The  prospect  of  profit  as  well  as  protection  of  (the
+complainant’s) privacy raises the danger of a false claim.
+Note also that the conventional reason for allowing and
+enabling confidential settlements—that they save on trial and
+error costs—is very weak here. These hearings are short af-
+fairs, so they are not associated with high costs, at least not of
+the conventional kind. To be sure, the parties may anticipate
+significant  emotional  costs,  but  that  is  true  for  accused
+criminals and prosecution witnesses in many criminal cases,
+and it is rarely taken to be a separate argument in favor of plea
+bargains.
+42 See supra subpart I.B for our earlier discussion of sexual assault cases
+against celebrity defendants.\\jciprod01\productn\C\CRN\103-2\CRN201.txt unknown Seq: 25 24-JAN-18 10:54
+2018] SEMI-CONFIDENTIAL SETTLEMENTS 335
+An important countervailing argument, as expressed at the
+outset of this discussion, is that victims may hesitate to bring
+claims (even more than they do at present) if they learn that
+they  cannot  withdraw  from  the  adjudicatory  process.  The
+question for Title IX officers and university counsel is whether
+this single argument outweighs the others, or whether Title IX
+should be read to grant the complainant the right to withdraw a
+claim.43 We suspect it does not and, indeed, that if a university
+were certain that the accused, Y, had paid cash to the accuser,
+X, it would proceed with a disciplinary hearing and try to man-
+age with the evidence at hand. It might even choose to disci-
+pline any student who failed to appear at a hearing.
+It can be useful to compare these claims to other matters
+that come before similar disciplinary boards. Familiar cases
+pit a student against the university because of alleged misbe-
+havior such as vandalism or plagiarism. The university is a
+party as well as a provider of law. Financial settlements are
+inappropriate not because of under-deterrence, but either be-
+cause of the danger that wealthy students will buy their way
+out of disciplinary charges or because the university’s imparti-
+ality will be questioned if it stands to gain money in a system
+with no appeals. In cases involving academic dishonesty, a
+student or faculty member might accuse a student of violating
+a university rule; neither state nor federal courts are inclined or
+well-suited to these claims.44
+Imagine that a faculty member accuses a student of plagia-
+rism, and the university begins to investigate and schedules a
+disciplinary hearing. Now the faculty member withdraws the
+43 Title IX is silent with respect to a right to withdraw a complaint, though
+universities sometimes provide for withdrawal. See Title IX of the Education
+Amendments of 1972, 20 U.S.C. §§1681–1688 (2012); see, e.g., Eastern Va. Med.
+Sch., Title IX/Sex Discrimination Reporting and Complaint Process, at Section
+III.G., http://www.evms.edu/about_evms/leadership/general_counsel/legal_
+and_compliance/legalcompliance_policies__information/title_ix/complaint_pro-
+cess/ [https://perma.cc/C29D-XQ66] (“The Reporting Party may withdraw a Re-
+port or Grievance at any time. EVMS may, however, still have a duty to
+investigate matters (to the extent possible without the Reporting Party’s coopera-
+tion) and take appropriate action.”).
+44 When a disappointed party challenges the university’s procedures and
+determinations, courts are generally deferential to the university’s rules and
+norms. See, e.g., Fellheimer v. Middlebury Coll., 869 F. Supp. 238, 244 (D. Vt.
+1994) (concluding that a disciplinary action or procedure is “fundamentally un-
+fair, arbitrary or capricious” if it deviates from established university rules); Holert
+v. Univ. of Chi., 751 F. Supp. 1294, 1301 (N.D. Ill. 1990) (holding that a disci-
+plined  student  is  “entitled  only  to  those  procedural  safeguards  that  the
+[u]niversity agreed to provide”); Boehm v. Univ. of Pa. Sch. of Veterinary Med., 573
+A.2d 575, 578 (Pa. Super. Ct. 1990) (holding that there was no basis for interfer-
+ing with the right of a private school to impose its own punishments for cheating).\\jciprod01\productn\C\CRN\103-2\CRN201.txt unknown Seq: 26 24-JAN-18 10:54
+336 CORNELL LAW REVIEW [Vol.103:311
+allegation and says that she and the student have settled the
+matter. Would the university dismiss the case? If the faculty
+member insists that after some recent discussion with the stu-
+dent she realized that her assignments had been unclear re-
+garding the use of various sources, and the student simply
+misunderstood the rules, then there would be little point in
+pursuing the charge previously brought against the student.
+But what if the faculty member says nothing of the sort and
+there is suspicion that the student paid the faculty member,
+perhaps because a wealthy parent had traveled to campus and
+met with the instructor? Alternatively, what if the student,
+once charged, files a claim of harassment against the faculty
+member, and then the two bargain and agree to the mutual
+withdrawal of all claims? The startling possibility of payment
+offers some deterrence, and it seems objectionable to allow the
+parties to convert into cash or avoid a remedy determined by
+the authority. It would be objectionable if the instructor an-
+nounced that she and the student had agreed that the charge
+would be withdrawn on condition that the student’s family do-
+nates a specified amount to a given charitable cause, and it is
+certainly objectionable if the payment profits the instructor.
+Indeed, the university’s suspension and expulsion remedies
+ought to be less convertible to cash than the penalties faced by
+a robber or embezzler because it is implausible that the most
+efficient and politically acceptable penalties are fines. In con-
+trast to the university, which prefers suspension and similar
+remedies, it is likely that with respect to many crimes the state
+regards its principle remedy, incarceration, as a second-best
+remedy. Note that the faculty member, like the storekeeper,
+gains nothing when the student is disciplined in the conven-
+tional, nonmonetary fashion. If faculty and students can bring
+claims of academic dishonesty against one another and then
+settle privately, there is a distinct problem of false claims be-
+cause the claimant suffers no injury and yet stands to profit
+from the accused’s fear of conviction, trial costs, or loss of
+reputation. It seems unwise to respect a confidential agree-
+ment in this context; it converts a university’s chosen remedy,
+such  as  suspension  or  expulsion,  into  a  private  monetary
+payment.45
+45 The situation is not quite like the storekeeper-robber negotiation. In that
+case, even with incontrovertible evidence, we do not want to allow private parties
+to convert the state’s chosen remedy into cash. But here, the university might be
+willing to offer a choice between payment and suspension for some violations, but
+it is inhibited by its inability to separate credibly its judicial and other functions.\\jciprod01\productn\C\CRN\103-2\CRN201.txt unknown Seq: 27 24-JAN-18 10:54
+2018] SEMI-CONFIDENTIAL SETTLEMENTS 337
+To be sure, in this case, as in the sexual assault context,
+we are unlikely to know whether the accused actually bought
+his way out of a nonmonetary remedy. But the prospect of
+confidentiality, or private settlement itself, surely encourages
+payments in both settings.46 If settlement is acceptable for
+sexual assault claims but not for plagiarism, it is again because
+of the great preference given to rules that encourage victims to
+report and bring claims of sexual assault in the first place. A
+further distinction is that few sexual assault cases can proceed
+intelligibly without the participation of the complainant and
+respondent, while many cases of academic dishonesty could go
+forward on the basis of the written evidence available to the
+adjudicator.
+An interesting feature of these university cases is that
+while the parties may bargain for confidentiality, and even
+agree not to discuss the case and not to denigrate one another,
+the university has acquired enough information to watch for
+patterns of misbehavior. In the tort case between A and M,
+unless the parties go to trial, it is difficult to know whether
+there is any merit to A’s claim. The same is true for a sexual
+assault case against a celebrity, as discussed in subpart I.B.
+But here the university’s own investigator has interviewed the
+parties and has often questioned witnesses and friends of the
+protagonists. The university cannot know whether a discipli-
+nary committee would have found the respondent responsible
+under the prevailing preponderance-of-the-evidence standard,
+but it has much more information than does the legal authority
+in most tort, assault, or embezzlement cases. We might regard
+the private agreement as semi-confidential because the univer-
+sity knows everything but the terms of the settlement. Simi-
+larly, even if the university chooses to cease prosecution of the
+academic dishonesty case sketched above, the university has
+information about the behavior of the student who was ac-
+cused. It would be unfair to say that the accused is essentially
+convicted without a hearing—because no university discipline
+is meted out—but if another claim is brought against the same
+If there were incontrovertible evidence of wrongdoing, private payments might be
+acceptable.
+46 See generally Gregg Stevens & Lorin Subar, Confidentiality in Settlement
+Agreements Is a Virtual Necessity, 29 GP SOLO 24 (2012), https://www.american
+bar.org/publications/gp_solo/2012/november_december2012privacyandcon
+fidentiality/confidentiality_settlement_agreements_is_virtual_necessity.html
+[https://perma.cc/PDJ9-9GLS] (discussing reasons why plaintiffs and defend-
+ants find confidentiality to be worth the cost and virtually a requirement of
+settlement).\\jciprod01\productn\C\CRN\103-2\CRN201.txt unknown Seq: 28 24-JAN-18 10:54
+338 CORNELL LAW REVIEW [Vol.103:311
+accused, the university is sure to take into account the earlier
+case, though it was dismissed. This semi-confidentiality, ex-
+panded upon in the next Part, should not distract us from the
+concern about insufficient deterrence. That concern is height-
+ened in the campus sexual assault case by the observation that
+victims bear costs in adjudication and might therefore not ex-
+tract as much from—or deter—their wrongdoers as do settling
+victims of other wrongs.
+In these campus cases, the accused might well be willing to
+pay more for the promise of full confidentiality, but that re-
+quires bargaining with the accuser before any complaint is
+reported to the Title IX investigator. Moreover, as a practical
+matter, victims are unlikely to want to communicate with those
+they accuse; one consequence of beginning the disciplinary
+process is the (oft desired) benefit of a no-contact order be-
+tween the parties.47 In turn, the accused is often caught by
+surprise. Many sexual interactions take place close to the con-
+sent/no-consent line,48 and it is unlikely that many people are
+sufficiently confident that they will be accused as to cause
+them to initiate bargains for payment in return for confidential-
+ity. Where the sexual interaction ends badly and a party does
+have reason to think that an accusation is forthcoming, the
+best defense is likely to be a quick departure, silence, or apol-
+ogy. An offer of settlement is insensitive and unwise—unless it
+is simply an offer to stay far away from the other party, a
+homemade no-contact agreement.
+Settlement is more likely in cases where each party has
+brought a claim against the other. X accuses Y of nonconsen-
+sual sex, but Y accuses X of the same, claiming both parties
+were inebriated, or Y accuses X of harassing him by filing a
+false claim in the wake of a collapsed relationship. Each party
+may firmly believe the truth of his or her allegations, and each
+avoids the emotional costs and risk of unfavorable judgment by
+settling the case and withdrawing the complaint. Their settle-
+ment may have a monetary component, especially where law-
+yers’ fees are involved, but the important motivation is (apt to
+be the desire) to steer clear of university discipline, and per-
+haps also to avoid the emotional toll of a hearing. If the univer-
+sity allows the withdrawal, it is because it is impractical to
+proceed without the parties, because to disallow withdrawal
+risks chilling future claims, and because the university has
+47 The order is a private one with no state involvement. A party who violates
+the order risks further discipline by the university.
+48 See Gersen & Suk, supra note 39, at 889–90. R\\jciprod01\productn\C\CRN\103-2\CRN201.txt unknown Seq: 29 24-JAN-18 10:54
+2018] SEMI-CONFIDENTIAL SETTLEMENTS 339
+already obtained enough information about the interaction to
+assess a pattern of wrongdoing or a threat to “campus safety,”
+both now and in the event of another accusation against one of
+the parties.
+V
+BETWEEN CONFIDENTIALITY AND TRANSPARENCY
+A. Translucency in Civil Cases
+In the torts context, there are some cases where it is the
+victim who prefers privacy—apart from the possibility of using
+privacy as a means of extracting a greater settlement—and
+others where it is the defendant who prefers anonymity or other
+forms of confidentiality. There are several reasons why the
+defendant may value confidentiality, especially with regard to
+substantial  settlements.  It  might  raise  litigation  costs  for
+(other) plaintiffs; it hides the signal about the substantive claim
+from other parties who have not connected their injuries to
+defendant’s behavior; it keeps defendant’s assessment of its
+exposure in court hidden from other plaintiffs who might nego-
+tiate or litigate differently if they were well informed; and it
+protects the firm’s reputation.
+There are certainly cases where defendants are happy to
+advertise large settlements. Thus, a defendant enmeshed in
+litigation over an oil spill is dealing with a substantive matter
+that is already known to the public. A large payment might
+enhance rather than detract from its corporate image, and it
+might satisfy regulators and legislators who would otherwise
+prepare to impose further burdens on the identified polluter.
+In contrast, a law firm that settles a discrimination claim initi-
+ated by a female partner might prefer confidentiality for all the
+reasons noted above. Publicity might hurt the firm when it
+recruits new employees; it might dissuade some clients from
+engaging the firm; it might suggest to other women at the firm
+that the firm has indeed discriminated against women, and
+they ought to file or threaten to bring claims; and it might
+cause women who think they were the victims of discrimination
+by the firm to make or increase demands because they now
+perceive the firm’s vulnerability or inclination to settle. The
+discussion in Part I emphasized that the firm’s gains from con-
+fidentiality might translate into a higher payment to the first
+complainant in this case; in turn, if she agrees to confidential-
+ity, the firm is further deterred by the prospect of such a larger
+payment. Ideally, if she can extract something close to the full
+value of confidentiality, there will be a social gain because of\\jciprod01\productn\C\CRN\103-2\CRN201.txt unknown Seq: 30 24-JAN-18 10:54
+340 CORNELL LAW REVIEW [Vol.103:311
+the savings in trial and negotiation costs with other plaintiffs.
+The first successful complainant is rewarded for discovering a
+key fact or cause, and for giving the firm reason and opportu-
+nity to change its ways and protect against future losses.
+The preceding description may be too optimistic, but it is
+unlikely to be entirely misguided. It suggests the possibility of
+a middle ground; the defendant firm might pay for some confi-
+dentiality (and thus be deterred to a degree), but it might be
+prevented from keeping everything hidden from other possible
+victims. We have applied the term semi-confidential to agree-
+ments in which the precise settlement terms of sexual assault
+cases are secreted by the parties, but where the convening
+authority is aware of the original claims and testimony of the
+parties.  Indeed,  the  authority  in  those  campus  cases  has
+about all of the information it needs to discern a troubling
+pattern of behavior. In most civil cases, however, the legal
+authority has not undertaken any investigation, and so it has
+no information. A compromise, or semi-confidential, approach
+must aim to liberate some information that is useful to third
+parties or the state while still encouraging the defendant to
+settle—at a price that packs some deterrence punch.
+The most obvious compromise is to allow the amount of
+settlement to be confidential, but not its subject matter. There
+are certainly other compromises between transparency and
+confidentiality;  the  parties’  locations  or  identities  might  be
+withheld, as they are in some countries,49 or confidentiality
+could be limited to the subject matter—rather than the amount
+of settlement. But the intuition behind the suggestion that law
+support semi-confidentiality, or translucency, with respect to
+the amount of settlement, is that doing so might minimize error
+costs while retaining the deterrence value of disclosure. The
+defendant firm pays to keep evidence of its vulnerability secret;
+its reputation and other interests might also be preserved if
+third parties are in the dark about the settlement amount.
+After all, many firms make modest payments to avoid litigation,
+and news of a very large settlement is usually required to at-
+49 In France, for example, litigant identity is protected in divorce proceedings;
+criminal prosecution involving sexually transmitted diseases or nursing of chil-
+dren; some defamation claims; and cases involving minors, victims of sexual
+assault, or persons who have been the subject of plenary adoption. See Salome´
+Cordier & Marie Castagne´, L’Anonymisation des De´cisions de Justice, LE PETIT
+JURIST, Section II.A.1, https://www.lepetitjuriste.fr/wp-content/uploads/2011/
+05/L%E2%80%99anonymisation%20des%20d%C3%A9cisions%20de%20jus
+tice.pdf [https://perma.cc/DY8A-G9SM].\\jciprod01\productn\C\CRN\103-2\CRN201.txt unknown Seq: 31 24-JAN-18 10:54
+2018] SEMI-CONFIDENTIAL SETTLEMENTS 341
+tract attention and trigger presumptions of bad behavior.50
+Confidentiality  regarding  settlement  amount  is  normally  of
+greater value to the defendant, and thus to the settling plaintiff,
+because news of a settlement amount sets a floor for later
+settlements with other plaintiffs. Disclosure’s effects, however,
+operate along several dimensions, and the suggestion that se-
+crecy as to the monetary component of confidentiality agree-
+ments may correctly balance deterrence and error is not easy to
+justify. But it is certainly possible that allowing complete confi-
+dentiality, both for settled cases and for payments in return for
+releases before claims are filed, has negative effects on unin-
+formed third parties and under-deters wrongdoers because vic-
+tims  do  not  recognize  how  much  they  can  extract.  This
+Article’s  suggestion  is  that  in  these  cases,  law  should  en-
+courage translucency; defendants (even in the pre-filing stage)
+should be encouraged to disclose information but not asked to
+disclose the amount of payment to a settling party. This trans-
+lucency  proposal  presupposes  that  a  plaintiff  cannot  ade-
+quately assess the total liability the defendant faces in the
+event  that  other  plaintiffs  are  fully  informed;  the  plaintiff,
+therefore, will not extract the full value of secrecy to the defen-
+dant, and may not extract enough to properly deter this and
+other defendants. Translucency rewards plaintiffs in propor-
+tion to their injuries and encourages all of them to come for-
+ward  with  their  individual  claims.  On  the  other  hand,  by
+keeping the amount of settlement secret, plaintiffs base their
+claims more on information related to their injuries and less on
+information related to the settling behavior of the defendant.
+Note,  too,  that  inasmuch  as  strike  suit  plaintiffs  are  en-
+couraged by blockbuster settlements, translucency may reduce
+their incentives to file.51
+50 If disclosure of settlement amounts raises costs (errors) more than benefits
+(deterrence or correctly aimed compensation), then greater secrecy is desirable.
+This conclusion assumes a kind of monotonicity or single-peaked preference such
+that it is not yet better to have total transparency.
+51 While various translucency proposals can require disclosure, or allow se-
+crecy with respect to any number of settlement features, our distinguishing sub-
+ject matter from the amount of settlement focuses directly on gaining deterrence
+while minimizing error. In most cases, other features of litigation and settle-
+ment—including jurisdiction, presiding judge, parties’ attorneys, and length of
+negotiations—impact  deterrence  and  error  weakly  and  unevenly.  Essential
+claims and bargaining outcomes are far more important. Similarly, our proposal
+for translucency in sexual assault cases, discussed supra Part IV and infra Part V,
+is based upon the observation that privacy is of special importance to the parties
+in these cases, and is likely to affect the incentive to bring a claim. There may be
+other specialized settings where effective translucency proposals might revolve
+around particular settlement features in order to optimize deterrence and error.\\jciprod01\productn\C\CRN\103-2\CRN201.txt unknown Seq: 32 24-JAN-18 10:54
+342 CORNELL LAW REVIEW [Vol.103:311
+Any disclosure requirement, whether partial or complete,
+runs the risk of driving bargains earlier in time or further un-
+derground. But there are ways to encourage translucency.
+One of these is to make it a requirement of professional respon-
+sibility; the same rules that allow attorneys to withhold some
+information from their present clients because of prior confi-
+dentiality agreements to which the attorneys were privy could
+require attorneys to disclose information to the authorities or
+to third parties of whom they are aware. A second strategy is to
+refuse to enforce agreements that violate the disclosure re-
+quirement. The defendant who seeks confidentiality might be
+expected to withhold payments until the end of the quiet pe-
+riod, and now the plaintiff will fear that payment will not be
+made as promised. This is a weak strategy because the parties
+can resort to third-party intermediaries. A third strategy is to
+attach a penalty to any failure to abide by sunshine laws and,
+in this case, to partial sunshine requirements, for it stands to
+reason that our suggestion is that sunshine laws be trimmed to
+require disclosure of the substance but not the terms of settle-
+ments where there is reason to think that serious third-party
+injury is at stake.52 The penalty for nondisclosure might carry
+with it a free pass for any party that reveals the other’s viola-
+tion.53 A fourth strategy is simply to make it clear that courts
+will not enforce full confidentiality agreements; if M values con-
+fidentiality, M is counting on the settling plaintiff, A, not to
+disclose out of fear that A will then have breached the contract
+52 In the sexual assault context, translucency encourages victims to bring
+claims by allowing them to keep their identities secret. In the tort context, trans-
+lucency discourages strategic suits while information about the substance of a
+claim is shared for the benefit of third-party safety.
+53 A similar set of strategies pertains to anti-bribery laws. See, e.g., OECD,
+THE CRIMINALISATIONOF BRIBERYIN ASIAANDTHE PACIFIC44 (2011) (noting that in the
+Philippines, an offer or solicitation of bribery constitutes attempted bribery, and
+carries a significantly lower penalty than the full offense); see also id. at 43 (noting
+that a number of Asia-Pacific countries carry lower penalties for offering rather
+than receiving a bribe); OECD, THE OECD CONVENTIONON BRIBERY: A COMMENTARY
+247–48 (Mark Pieth, Lucinda A. Low & Peter J. Cullen eds., 2007) (noting the
+same for a number of European countries). In the United States, the Department
+of Justice provides incentives for corporations to self-report any violations of the
+Foreign Corrupt Practices Act (FCPA), trading a reduction in punishment for
+cooperation with investigators. See U.S. Dep’t of Justice, Criminal  Division
+Launches New FCPA Pilot Program, OFFICE OF PUBLIC AFFAIRS ARCHIVES (Apr. 5,
+2016),  https://www.justice.gov/opa/blog/criminal-division-launches-new-fcpa-
+pilot-program [https://perma.cc/G6H7-QCX7]. Reducing the penalty for self-re-
+porting companies is crucial to the enforcement of anti-bribery laws. In an OECD
+study of 427 bribery cases, 31% were detected through self-reporting compared to
+only 13% discovered by law enforcement. OECD, OECD FOREIGN BRIBERY REPORT:
+AN ANALYSISOFTHE CRIMEOF BRIBERYOF FOREIGN PUBLIC OFFICIALS 15 (2014).\\jciprod01\productn\C\CRN\103-2\CRN201.txt unknown Seq: 33 24-JAN-18 10:54
+2018] SEMI-CONFIDENTIAL SETTLEMENTS 343
+with M and be required to forfeit the amount received from M as
+specified in the confidentiality agreement. This remedy is not
+as powerful as it first seems because A does not usually gain
+from disclosure.
+A novel strategy to promote translucency (or transparency
+for that matter) is to use the tax code. Payments by businesses
+can be allowed as deductible only if the substance or topic of
+the settlement has been disclosed in accord with the policy of
+translucency. Note that it will be hard for parties to hide and
+take deductions for large payments unless the settling claim-
+ant is a vendor or other party to whom the firm might make
+ordinary and necessary payments in the course of business. In
+principle, payments made under agreements that violate state
+sunshine laws might in any event not be deductible under
+federal law because tax law allows deductions only for ordinary
+and necessary expenses and not for fines or illegal payments,
+as determined by state (or local or federal) law.54 Thus, a deliv-
+ery firm may reimburse its drivers for speeding tickets or even
+for fines payable because they drove recklessly or under the
+influence of alcohol, but these payments are nondeductible for
+both the drivers and the firm. Similarly, at least the premium
+paid by M to A in return for confidentiality ought not to be
+deductible by M, if the confidentiality violates sunshine laws or
+the translucency standard suggested here.
+Most extant sunshine laws, it should be noted, do not stop
+at translucency; they aim for transparency where a defendant
+has engaged in a pattern of wrongdoing that individual victims
+have trouble discerning on their own. They are also useful or
+best understood as corrective deterrents aimed at cases where
+a defendant, like M, believes that no one but the settling plain-
+tiff, A, will see the connection A has made between the injury
+and the defendant’s behavior. M must also count on profes-
+sional responsibility rules to prevent rather than require A’s
+attorney from sharing information with other clients.55 At the
+54 See 26 U.S.C. §162(f) (2012) (“No deduction shall be allowed [as a business
+expense] for any fine or similar penalty paid to a government for the violation of
+any law.”); id. at §165(c) (noting that fines and penalties are not deductible as
+“losses of individuals”).
+55 But thus far the rules encourage settlement, and do not require an attor-
+ney to do his or her best with respect to a subsequent client’s case. See MODEL
+RULES OF PROF’L CONDUCT r. 1.6(C) (AM. BAR ASS’N 2016) (“A lawyer shall make
+reasonable efforts to prevent the inadvertent or unauthorized disclosure of, or
+unauthorized access to, information relating to the representation of a client,”
+which includes information learned during settlement negotiations); see, e.g.,
+D.C. Bar, Eth. Op. 335 (2006) (advising that settlement provisions prohibit a
+party’s lawyer from disclosing the amount and terms of the settlement); see also\\jciprod01\productn\C\CRN\103-2\CRN201.txt unknown Seq: 34 24-JAN-18 10:54
+344 CORNELL LAW REVIEW [Vol.103:311
+same time, we have suggested that M often has reason to fear
+false  claims  by  plaintiffs  who  might  imitate  A.  Mandatory
+transparency, as required by some sunshine laws, likely goes
+too far because news of A’s claim will bring forth claimants who
+erroneously,  irrationally,  or  strategically  believe  M  injured
+them. M may already be optimally deterred, or justly and re-
+tributively sanctioned, but now transparency generates fur-
+ther, unsupported claims. To the extent that they mandate full
+disclosure, sunshine laws implicitly suppose that the social
+benefits of additional lawsuits, which may or may not include
+more payments to victims, exceed the costs of additional litiga-
+tion and greater error in the legal system. Translucency offers
+a compromise between confidentiality and sunshine laws, and
+the translucency proposal advanced here extends to agree-
+ments beyond the reach of sunshine laws to payments made
+before any claims are filed. In fact, Texas’s sunshine law in-
+structs courts not to seal documents, including pre-filing set-
+tlement terms, where there is reason to guard against “any
+probable adverse effect that sealing will have upon the general
+public health or safety,” but specifically excludes “all reference
+to any monetary consideration.”56 The Texas statute has re-
+ceived  attention  because  of  the  litigation  it  has  spawned,
+though the translucency feature seems unnoticed by courts
+and commentators.57
+Note that the enforcement tool offered by tax law allows
+many interpersonal claims to go untouched, and this is fitting
+because they are rarely indicative of patterns of wrongdoing.
+MODEL RULESOF PROF’L CONDUCT r. 1.8(b), r. 1.9 (establishing a duty not to reveal
+information relating to the representation of current and former clients). Such
+restrictions do not put the attorney in conflict with the duties owed to future
+clients. Note that, under these rules, a second client will be no better off going to
+another unconflicted attorney.
+56 TEX. R. CIV. P. 76a (2016).
+57 See generally Robert C. Nissen, Open Court Records in Products Liability
+Litigation Under Texas Rule 76a, 72 TEX. L. REV. 931 (1994) (examining the legisla-
+tive history, structure, strengths, weaknesses, case law, and effect of Rule 76a).
+Texas’s courts have held that settlement amounts are not the proper subject of
+discovery. See Ford Motor Co. v. Leggat, 904 S.W.2d 643, 649 (Tex. 1995). But
+see In re Cont’l Ins. Co., 994 S.W.2d 423, 428 (Tex. App. 1999) (permitting discov-
+ery of settlement amounts when they may negate or offset insurance carrier’s
+liability). Courts and commentators seem to think it is unfair or unproductive to
+force the disclosure of settlement amounts, because a subsequent settling plain-
+tiff will take the prior settlement amount as a starting point, thus freeriding on it
+after a fashion. Perhaps no plaintiff will want to settle early. See Andrew D.
+Miller, Comment, Federal Antisecrecy Legislation: A Model Act to Safeguard the
+Public from Court-Sanctioned Hidden Hazards, 20 B.C. ENVTL. AFF. L. REV. 371,
+373–78 (1993) (suggesting that the secrecy of settlement agreement terms pre-
+vents future plaintiffs from gaining an unfair advantage).\\jciprod01\productn\C\CRN\103-2\CRN201.txt unknown Seq: 35 24-JAN-18 10:54
+2018] SEMI-CONFIDENTIAL SETTLEMENTS 345
+Thus, when individuals D and E have a minor road accident,
+and D is apparently at fault, small and even modest claims are
+often settled without any notice given to the police or to either
+driver’s insurer.58 D seeks to avoid higher insurance premi-
+ums, inasmuch as drivers are experience rated, and may also
+seek to avoid attention if there are outstanding arrest warrants
+for D, if D is an undocumented immigrant, if D is driving with-
+out a valid license, or if D is on a trip that D’s employer or
+spouse would find objectionable. In these cases, common intu-
+itions track the argument in this Article. Few people regard E
+as  immoral  if  E  senses  D’s  reluctance  and  bargains  for  a
+homespun remedy that gives E somewhat more money than it
+will cost to repair E’s automobile. The overcompensation de-
+ters D in a manner that creates no moral hazard risk because E
+cannot identify vulnerable drivers in advance. Moreover, the
+legal system shares in the savings associated with avoiding
+trial. D’s payments would not be deductible in any form, so it is
+inconsequential but also untroubling to note that under the
+proposal advanced here, D cannot deduct the payment to E.
+There is, however, no logical connection between deduct-
+ibility and translucency, and the former is simply one way of
+encouraging the latter. Law could try to penalize complete con-
+fidentiality in a variety of ways, and it can encourage translu-
+cency  or  transparency  with  direct  rewards,  as  it  does  for
+whistleblowers, or with indirect rewards, as it does when it
+offers reductions in penalties or favorable plea bargains in re-
+turn for cooperation in criminal cases.
+B. Translucency for Misdemeanors
+A useful comparison is to shoplifting. Shopkeepers do not
+always report those they have caught, but we have never heard
+of a shoplifter and storekeeper agreeing to a payment beyond
+restitution to settle the matter confidentially.59 It may be that
+58 Most auto insurance contracts require immediate notification of all acci-
+dents, but the remedy for breach is that the insurer can choose to terminate the
+contract. In most cases, the insurer does not know of the breach and, in any
+event, if it wants to terminate the contract, it can usually find some reason to do
+so. Similarly, when the contract is renewed, or the insured moves to another
+insurer, the new contract is entered into with the insurer unaware of the unre-
+ported accident. Substantial accidents involving personal injury, fatality, or prop-
+erty damage of more than $1500 (in Illinois, for example) must by statute be
+reported  to  the  police. See  625  ILL.  COMP.  STAT.  5/11-406(a)  (2016).  The
+threatened remedy for nondisclosure is that the state can suspend the non-
+discloser’s driver’s license, but this is rare.
+59 Homespun remedies are not unknown for other misdemeanors. A young
+vandal might agree to work in the victim’s store as a way of making amends, much\\jciprod01\productn\C\CRN\103-2\CRN201.txt unknown Seq: 36 24-JAN-18 10:54
+346 CORNELL LAW REVIEW [Vol.103:311
+the shopkeeper who does call in the police demonstrates a sort
+of irrationality; the profit-maximizing strategy is probably to
+free ride on other merchants and not to waste time reporting
+and testifying. Shopkeepers may fear that if they seek to ex-
+tract payment, they will be accused as extortionists or robbers
+who have exceeded their claims of right. This is unfortunate; it
+is plausible that something resembling a fine, payable to the
+victim-reporter, is the best available deterrent. The criminal
+law system does not seem well-suited to misdemeanors when
+the wrongdoer has limited means. We would certainly advise
+someone who was caught shoplifting and who risked arrest to
+offer supercompensation, perhaps in the form of purchases in
+the store, in return for a promise not to call the police. Law’s
+plausible goals seem better served by this remedy than by epi-
+sodic processing in the formal legal system—and all the more
+so where overreaction by the police is a social concern. If confi-
+dentiality in this case is troubling then, again, a kind of trans-
+lucency seems superior; the shopkeeper reports the wrongdoer
+in the interest of pattern recognition, and might even be re-
+warded for doing so by law’s allowing a fraction of the penalty
+payment to go unreported on the storekeeper’s tax return. If
+the shopkeeper demands a truly extortionary payment, the
+shoplifter  can  always  take  his  chances  and  refuse  to  pay,
+knowing that the police might be called. A central reporting
+system might also be translucent in the sense that records
+could be expunged after a specified period, because the pur-
+pose of the record keeping is to allow future victims (and the
+legal authorities) to react differently if the wrongdoer they face
+is a serial criminal of the sort best handled not through private
+apology, restitution, and rehabilitation, but through profes-
+sional monitoring and punishment.
+We have already discussed the possibility and danger of
+confidentiality agreements with respect to more serious crimi-
+nal wrongdoing, where in the absence of a bargain the victim is
+quite likely to call the police. If there are settings where confi-
+dentiality agreements are imaginable, as was arguably the case
+regarding the embezzler discussed in Part III, law might decide
+that translucency is the superior rule. It allows the employer to
+deter the embezzler with a financial incentive, but would also
+as deadbeats of yesteryear stayed to wash dishes in the restaurant’s kitchen.
+Monetary payments, however, are rare. We can find no sign of a shopkeeper
+announcing ex ante that shoplifters who are apprehended by the store’s security
+guards will be required to pay a multiple of the value of anything taken—or the
+police will be called.\\jciprod01\productn\C\CRN\103-2\CRN201.txt unknown Seq: 37 24-JAN-18 10:54
+2018] SEMI-CONFIDENTIAL SETTLEMENTS 347
+allow the state to gather useful information and protect others
+from a serial wrongdoer. Law could encourage partial reporting
+by guaranteeing a kind of transactional immunity, providing
+that  information  about  confidential  settlements  will  not  be
+used to pursue wrongdoers, or at least not one who was party
+to the agreement.
+C. The Translucency Ideal
+Assume, then, a rule of translucency requiring A and M to
+disclose only the precise subject matter of their agreement,
+which will often be a restatement of the legal claim filed by A.
+As discussed, M might be motivated by a variety of induce-
+ments, including the prospect of deducting payments made to
+A.60 Think, for example, of claims that the prescription medi-
+cation Viagra causes blindness by restricting blood supply to
+the optic nerve. If A and M (in this case, Pfizer) settle a claim,
+the disclosure might be: “The claim filed by A against M for
+damages, in the form of loss of sight, that A believes he suffered
+as a result of taking Viagra, has been settled. The parties have
+agreed not to discuss the terms of settlement.” Potential claim-
+ants can see the connection A has made between his injury and
+M’s behavior, and they are free to follow or conduct further
+research on the matter. Pfizer is free to point out that the few
+men who developed blindness had diabetes or other preexisting
+conditions, so that it is hardly clear that Viagra has this dan-
+gerous side effect. Moreover, consumers who contemplate us-
+ing  Viagra,  whether  by  prescription  or  in  the  active
+aftermarket, might rethink the matter and avoid the drug.
+Translucency as expressed through a neutral and searchable
+website provides more information than these users could have
+obtained from newspaper stories or the initial filing of lawsuits
+alone. They now know that Viagra’s manufacturer paid at least
+a modest settlement to one plaintiff. Other plaintiffs may also
+60 The notion of encouraging settlements but requiring some information for
+third parties could be advanced by allowing the parties to secret only the amounts
+of large settlements, whether pre- or post-filing, such as those exceeding $10,000.
+This exemption serves to lower administrative costs. Under current law, while the
+application of sunshine laws varies by state, even broadly construed sunshine
+laws often require a weighing of the parties’ interests and the public interest, thus
+limiting their application to larger claims that can be said to affect the public as a
+whole. See, e.g., WASH. REV. CODE ANN. §4.24.611(4)(b) (West 2017) (requiring
+that when determining whether information surrounding product liability suits
+should be divulged to the public, a “court shall balance the right of the public to
+information regarding the alleged risk to the public from the product or sub-
+stance . . . against the right of the public to protect the confidentiality of informa-
+tion” with trade secrets.).\\jciprod01\productn\C\CRN\103-2\CRN201.txt unknown Seq: 38 24-JAN-18 10:54
+348 CORNELL LAW REVIEW [Vol.103:311
+have received settlements and simply decided to keep their
+medical  condition,  performance  anxiety,  or  newly  acquired
+wealth private. A confidentiality agreement would have re-
+quired filing in order to be enforceable. Note, in passing, that
+neither transparency nor translucency need go so far as to
+sacrifice a plaintiff’s reasonable preference for privacy. Most of
+A’s  identifying  characteristics  are  of  little  interest  to  other
+parties.
+In all of these cases, the fact of settlement and the nature
+of the underlying claim provide different information than does
+the amount of settlement. If B learns that A extracted a settle-
+ment from M far in excess of what might be expected from the
+injuries A is known to have suffered, then B is on notice that M
+is paying to keep people like B from coming forward. M seeks
+to avoid numerous trials and reputational loss. On the other
+hand, if B knows only that M has paid some nontrivial amount
+to A, B has useful information about the likelihood that his own
+injuries are connected to M’s behavior in a way that might
+make litigation or negotiation worthwhile. M might only have
+compensated A, or paid a fraction of A’s actual losses. The
+point is that knowledge of the substance of A’s settlement with
+M may help B discover the cause of his own injury and facilitate
+a payment from M. But knowledge of the amount of the A-M
+settlement probably adds less socially useful information than
+it encourages strategic suits and wasteful litigation. Much de-
+pends on the nature of M’s business and the variety of its
+products and services. In some cases, disclosure of the settle-
+ment amount would be more useful to B than disclosure of the
+substance of the A-M settlement. In other cases, the reverse is
+true. In both cases, the less that is revealed to B and to others,
+the greater the expected (confidential or translucent) payment
+to A. This payment serves as a deterrent. Plaintiffs like B have
+private information about their own claims, including medical
+costs, property losses, and emotional losses, and these do not
+depend on the wrongdoers’ settlements with prior plaintiffs. If
+A underestimates the connection between M and other victims,
+or otherwise fails to drive a hard bargain, M can purchase
+silence from A for less than its full deterrent value. Translu-
+cency drives up the costs of settlement, whether A underesti-
+mates its value or not, and can deter M ex ante or provide
+compensation to individual victims ex post.61
+61 A further distinction is that secrecy can encourage multiple plaintiffs to
+search for valuable settlements in a way that is wastefully duplicative and can
+encourage M to take socially inefficient precautions. A may be able to discern\\jciprod01\productn\C\CRN\103-2\CRN201.txt unknown Seq: 39 24-JAN-18 10:54
+2018] SEMI-CONFIDENTIAL SETTLEMENTS 349
+Still,  there  are  cases  where  complete  confidentiality  or
+complete transparency is preferable to translucency. The sim-
+plest of these cases is where even modest disclosure is expected
+to unleash so many strategic or misguided lawsuits that M is
+induced to take precautions, including product recalls, that are
+in fact socially inefficient. M may now be induced to recall a
+product in order to prevent further injuries and lawsuits that
+would arise only because of the disclosure.62 M calculates that
+the cost of additional care is worthwhile simply to reduce its
+litigation costs; M would have preferred to pay for confidential-
+ity in order to discourage baseless but costly lawsuits, and
+confidentiality would have been socially efficient. At the other
+extreme are cases where anything less than full disclosure pro-
+tects M from socially efficient suits, and encourages M not to
+take socially efficient precautions to prevent further injuries.
+The inefficiency can also be of the ex ante kind; the inability to
+enter  into  binding  and  complete  confidentiality  agreements
+might cause M to take greater but inefficient precautions at the
+outset. In contrary cases, the prospect of secreting some infor-
+mation causes M to take insufficient precautions at the outset.
+The  central  idea  is  that  confidentiality,  translucency,  and
+transparency may each have their moments, but law must or-
+dinarily choose a rule, or at least assign one rule to types of
+cases as the sunshine laws have sought to do. This Article has
+suggested that the deterrence power of payments for confiden-
+tiality is underappreciated, so that a move away from the trans-
+parency of sunshine laws to something a little more respectful
+of private bargains is worth trying. Translucency is a compro-
+mise that aims to deter defendants with higher settlements but
+provide enough disclosure to encourage socially efficient pre-
+caution-taking as well as fewer wasteful, strategic claims.
+Translucency (or even full transparency) is easiest to de-
+fend where it helps reveal a pattern of misbehavior, as observed
+in the claim against the serial sexual assaulter, and as is likely
+to be the case in many discrimination claims. Employees who
+have suffered discrimination, like victims of sexual assault and
+harassment, may perceive that it is costly to bring claims. If,
+however, they can easily learn not only of the existence of other
+some of the value of secrecy to M, but not its full amount. To the extent that
+translucency reveals the true value of secrecy, duplicative search costs for ineffi-
+cient confidential settlements are reduced.
+62 If the assumption about M’s behavior is correct, then a recall or other
+precaution is socially inefficient and undertaken simply to prevent baseless law-
+suits. If M’s behavior is imperfect, then disclosure of the substance of the settle-
+ment might stimulate desirable precautions.\\jciprod01\productn\C\CRN\103-2\CRN201.txt unknown Seq: 40 24-JAN-18 10:54
+350 CORNELL LAW REVIEW [Vol.103:311
+claims but also of their settlement for nontrivial sums, they
+may come forward in search of similar compensation, and help
+reveal a pattern of wrongdoing.63
+The more the law requires disclosure, the fewer settle-
+ments there will be, and in civil cases—unlike the criminal
+context—the longstanding policy appears to be in favor of set-
+tlement rather than in favor of reporting to law enforcement
+authorities. If law wanted to discourage confidential agree-
+ments, it could make the payments by M nondeductible; pay-
+ments that arise out of tort suits or in settlement of these suits
+are generally deductible because they substitute for (deducti-
+ble) precaution costs rather than for fines or other penalties
+where the aim is to discourage the underlying behavior en-
+tirely.  This  tax  treatment  would  discourage  settlement  be-
+cause, on the margin, M knows that transparency followed by
+other suits that will settle or go to trial generate costs, but
+deductible costs.
+VI
+TOWARD A GENERAL MODEL: PATTERNS, PRIVACY, AND
+ADJUDICATION ACCURACY
+As we have seen, the beneficial effects of permissible se-
+crecy depend on context. This Article has identified specific
+cases where law should prefer translucency, transparency, or
+secrecy; we now offer a general framework that incorporates
+these examples and facilitates analysis of new cases.
+Consider a policymaker who wishes to maximize the social
+value of settlements. There are four categories of benefits and
+costs: (1) the deterrence value of settlement—which must al-
+ways be compared to the deterrence value of trials and judg-
+ments; (2) the related value of plaintiffs’ incentives to bring
+claims; (3) the cost of false claims; and (4) the cost of adminis-
+tering law. Note that the social value of deterrence is analyti-
+cally identical to the concept of efficient precautions in tort law.
+63 Imagine a claim for back wages by an employee who claims that the dis-
+criminatory practice of her employer prevented her promotion and higher earn-
+ings. These higher earnings would have been deductible to the employer as an
+ordinary and necessary business expense. In turn, payment in settlement of the
+claim, or payment as the result of a judgment, would also be deductible. Now
+assume that law requires translucency or more. One way to encourage compli-
+ance is to refuse to enforce confidentiality agreements that are not disclosed as
+required. Defendants would pay less because they would know that a settling
+employee who breached the agreement would not be required by law to return the
+settlement amount. The text suggests that another means of discouraging confi-
+dentiality would be to disallow deductions for payments made following undis-
+closed agreements.\\jciprod01\productn\C\CRN\103-2\CRN201.txt unknown Seq: 41 24-JAN-18 10:54
+2018] SEMI-CONFIDENTIAL SETTLEMENTS 351
+An efficiency-minded policymaker seeks to minimize the total
+cost of accidents. Precautions are encouraged with liability
+rules, but only when they are cost-justified. Similarly, the poli-
+cymaker should require (or not require) disclosure of settle-
+ments  so  as  to  minimize  the  cost  of  antisocial  behavior,
+including litigation, settlement, and administrative costs. Dis-
+closure is costly, so it should be required only when cost-justi-
+fied. It creates benefits (by deterring antisocial behavior) and
+costs (by chilling legitimate claims and encouraging false ones).
+Thus, parametric assumptions must be made in order to reach
+a conclusion about the value of a particular sunshine regime.
+This decision is simplified somewhat by the observation, dis-
+cussed in subpart I.B and Part IV, that disclosure creates
+greater deterrence benefits when it reveals a pattern of antiso-
+cial behavior. In turn, pattern recognition encourages legiti-
+mate  claims  because  it  reduces  private  discovery  costs.
+Victims can more easily identify wrongdoers and bring viable
+claims. Law must be on guard against false claimants, but the
+more there is a pattern of wrongdoing, and liability is difficult
+to assess, the more costly is secrecy of settlement between the
+wrongdoer and a victim.
+When wrongdoing is episodic and not a predictor of future
+wrongdoing, transparent or translucent sunshine laws are of
+little value; if a defendant pays for confidentiality, it is because
+the defendant fears false claims or some reputational loss. The
+other two categories of benefits and costs fall out of the picture
+because, by hypothesis, the wrongdoing is a one-off event.64 If
+the defendant pays handsomely for a confidential settlement,
+the payment itself provides a substantial deterrent. Without a
+pattern, legitimate follow-on claims cannot be chilled by se-
+crecy because victims’ ability to discern wrongdoing remains
+unchanged. On the other hand, public settlement may en-
+courage strike suits to the extent that opportunistic plaintiffs
+are able to discern the settlement behavior of defendants. In
+legal domains that do not exhibit patterns of wrongdoing, law
+should therefore accommodate the parties’ bargain for secrecy.
+This is especially so where the costs of administering law are
+high inasmuch as disclosure can encourage more lawsuits.
+64 Plaintiffs who value privacy in episodic claims still retain bargaining power
+to adequately deter defendants who value their reputation and fear litigation.\\jciprod01\productn\C\CRN\103-2\CRN201.txt unknown Seq: 42 24-JAN-18 10:54
+352 CORNELL LAW REVIEW [Vol.103:311
+  Deterrence  P Incentive False Claims Admin. Costs KeyExamples 
+Secrecy     
+Pattern Y  Low  Sufficient Low Low AR-S, Em-S,  
+Generic A-M, X-Y 
+Pattern N  High  Sufficient Low Low
+     
+Privacy H  High  Sufficient Low Low
+Privacy L  High  Sufficient Low Low
+     
+Adj. Acc. H High  Sufficient Low Low
+Adj. Acc. L  Lower  Indeterminate Indeterminate Low
+     
+Transparency     
+Pattern Y  High  Sufficient High Higher A-M
+Pattern N  High  Sufficient Low Higher
+     
+Privacy H  High  Insufficient High Higher X-Y
+Privacy L  High  Sufficient Low Higher
+     
+Adj. Acc. H High  Sufficient Low Higher
+Adj. Acc. L  Low  Indeterminate Indeterminate Higher
+     
+Translucency     
+Pattern Y  High  Sufficient Low Lower A-M
+Pattern N  High  Sufficient Low Lower
+     
+Privacy H  High  Sufficient Low Lower Em-S. X-Y 
+Privacy L  High  Sufficient Low Lower
+     
+Adj. Acc. H High  Sufficient Low Higher
+Adj. Acc. L  Low  Indeterminate Indeterminate Higher
+FIG. 1: THE EFFECTS OF PATTERNS, PRIVACY, AND ADJUDICATION
+ACCURACY (ADJ. ACC.) ACROSS DISCLOSURE REGIMES.
+Inferior outcomes in bold.65
+The discussion in Part IV explained why pattern revelation
+in sexual assault cases is important for deterrence, but man-
+dated disclosure in those cases may chill claims or lead to
+insufficient settlements that do little to deter wrongdoers. Our
+analysis suggests that a second parametric assumption is re-
+quired for evaluating sunshine laws, that is, parties’ valuation
+of privacy. When this value is high, and pattern recognition
+matters, a translucent approach that protects plaintiff’s pri-
+vacy leads to optimal deterrence. This is because translucency
+encourages victims to bring claims. Similarly, when the cost of
+65 AR-S and EM-S refer to the armed robber- and embezzler-storekeeper
+examples, discussed supra Part II; A-M refers to the consumer-manufacturer
+example, discussed supra subpart I.A; X-Y refers to the sexual assault example,
+discussed supra Part IV.\\jciprod01\productn\C\CRN\103-2\CRN201.txt unknown Seq: 43 24-JAN-18 10:54
+2018] SEMI-CONFIDENTIAL SETTLEMENTS 353
+false claims is high (and pattern recognition matters), a trans-
+lucent approach that partially protects defendant privacy max-
+imizes  the  social  value  of  settlements.66  Disclosure  of  the
+claim’s subject matter, and not its amount, reveals a pattern of
+wrongdoing that reduces private discovery costs but dampens
+plaintiff  incentives  to  file  non-viable  claims.  In  particular,
+these incentives are reduced because less information is re-
+vealed about a defendant’s settlement behavior than in a re-
+gime  requiring  transparency.  Note  that  disclosure  of  the
+amount but not the subject of the claim would reveal less about
+patterned wrongdoing and more about settlement behavior.
+Disclosure of the number of claims, but not their subject mat-
+ter or dollar amount, would produce the same inferior result.
+Plaintiffs’ capacity to assess defendants’ exposure to liabil-
+ity, and thus drive a bargain that properly deters defendants, is
+the driving force in the argument for confidential settlement as
+deterrent. When that capacity is high, victims have less need
+for disclosure of prior settlements. Law can rely on settlements
+to deter wrongdoers, and law can enjoy lower administrative
+costs. A heightened ability to assess wrongdoing is thus an
+exception to the general result that where there is serial (or
+patterned)  wrongdoing,  law  should  disfavor  secret  settle-
+ments.67 Still, as discussed in Part II, this optimistic conclu-
+sion requires that there be at least one victim who perceives the
+number of other victims and the extent of their injuries. Such a
+victim can extract a settlement that sufficiently deters the de-
+fendant. In the absence of an effective plaintiff of this sort, a
+wrongdoer is properly deterred only by multiple claims, or a
+class action, so that sunshine (on settlements) is desirable.
+Again, if the plaintiffs value privacy, translucency may be supe-
+rior to transparency.
+In addition to patterns and privacy, a third and final pa-
+rameter is adjudication accuracy. When facts are difficult to
+discern, administrative costs are high.68 In turn, (1) deterrence
+66 We recognize that some case types may require an assumption that victim
+privacy is more socially valuable than injurer privacy. This is particularly so when
+the social benefits of deterrence exceed the social costs of false claims. The
+opposite is true when the competing quantities of both statements are reversed.
+67 While a more general approach would dispose of pattern recognition alto-
+gether and consider plaintiffs’ ability to assess exposure in its stead, we think that
+the specificity gained through the discussion of patterns is analytically valuable.
+See supra subpart I.B.
+68 Where laws are difficult to discern and adjudication may, over time, pro-
+duce accurate judgment, parties are likely to choose litigation. See George L.
+Priest, The Common Law Process and the Selection of Efficient Rules, 6 J. LEGAL
+STUD. 65, 67–68 (1977).\\jciprod01\productn\C\CRN\103-2\CRN201.txt unknown Seq: 44 24-JAN-18 10:54
+354 CORNELL LAW REVIEW [Vol.103:311
+is weak because parties are uncertain of legal outcomes; (2)
+plaintiffs can be chilled by high discovery costs—unless they
+perceive that defendants’ costs are even greater; and (3) false
+claims will rise as plaintiffs play the litigation lottery, though
+the increase is offset somewhat by burdens and standards of
+proof. Unsurprisingly, this is the setting where private settle-
+ment is most beneficial, as it can provide deterrence at a lower
+cost than litigation, and in situations where litigation may fail
+to provide any deterrence at all. In turn, permissive confidenti-
+ality encourages these desirable settlements. A legal system
+that is accurate and efficient has little need for settlements, but
+as costs and inaccuracy rise, private settlement is attractive—
+and especially so once it is understood that the settling plaintiff
+can extract value in return for confidentiality, and thus con-
+tribute to law’s deterrence goal.
+CONCLUSION
+This Article began by asking whether there is a problem
+with confidential settlements of civil lawsuits. The answer is
+nuanced—as it is for criminal and sexual assault cases—be-
+cause each type of disclosure regime generates its own mix of
+identifiable benefits and costs. The plain observation that set-
+tlements reduce the cost of administering law provides a de-
+fault regime of permissible secrecy, and has surely encouraged
+courts to favor settlement and therefore to allow confidentiality
+at the expense of third parties. Disclosure is most important
+when there is a pattern of wrongdoing that a settling plaintiff
+cannot assess. When a plaintiff’s incentive to file is low and a
+false claimant’s incentive to file is high, disclosure must be
+tempered with privacy protections that encourage legitimate
+claims and discourage false ones. On the other hand, deter-
+rence may benefit from secrecy when the facts of a dispute are
+obscure and courts cannot adjudicate claims accurately.
+The title of this Article is misleading, as it describes the
+back half of our discussion, aimed at readers who reject our
+first claim: that confidential settlements may be desirable be-
+cause the price of confidentiality is a payment that promotes
+law’s deterrence goals. In many cases, including most that
+involve tortfeasors and their victims (whether in a potential
+large-scale tort or in a two-party road accident), the strong
+intuition in favor of—and legislated sunshine laws requiring—
+disclosure aimed to benefit third parties is likely wrong. Law-
+yers like disclosure and the signals that it provides, but lawyers
+are professionally inclined to underestimate the costs and dis-\\jciprod01\productn\C\CRN\103-2\CRN201.txt unknown Seq: 45 24-JAN-18 10:54
+2018] SEMI-CONFIDENTIAL SETTLEMENTS 355
+taste most people associate with trials. They are also inclined
+to think that legal procedures get at the truth, while laypeople
+are often fearful of legal errors, and thus eager to settle cases in
+ways that will bring on few others.
+This Article has not insisted that by paying a premium for
+confidential settlements, wrongdoers are optimally deterred.
+Indeed, it has explained why the deterrence is imperfect. But
+even this imperfect deterrence is enough to suggest that law
+ought to be nudged away from transparency and toward trans-
+lucency. This is clearest in civil cases where law and judicial
+behavior reflect a strong policy in favor of settlement. In crimi-
+nal and university discipline cases, where there is no such
+policy, where a pattern of misbehavior might be hidden by con-
+fidentiality, and where the law might have reason for its reme-
+dies and not want private parties to convert them to cash, there
+are few cases where confidential settlement is warranted.

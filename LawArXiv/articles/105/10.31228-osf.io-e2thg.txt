@@ -1,0 +1,1672 @@
+Getting Data Subject Rights Right
+Getting Data Subject Rights Right
+A submission to the European Data Protection Board from 
+international data rights academics, to inform regulatory 
+guidance
+by Jef Ausloos, Michael Veale and René Mahieu
+© 2019 Jef Ausloos, Michael Veale and René Mahieu
+Everybody may disseminate this article by electronic means and make it available for download under the terms and 
+conditions of the Digital Peer Publishing Licence (DPPL). A copy of the license text may be obtained at http://nbn-resolving.
+de/urn:nbn:de:0009-dppl-v3-en8.
+Recommended citation: Jef Ausloos, Michael Veale and René Mahieu, Getting Data Subject Rights Right, 10 (2019) JIPITEC 
+283 para 1.
+Summary
+a step back and makes recommendations on the 
+broader issues surrounding the accommodation of 
+We are a group of academics active in research and  data subject rights in general.We strongly advise 
+practice around data rights. We believe that the  the EDPB to consider the following points in its 
+European Data Protection Board (EDPB) guidance  Guidance:
+on data rights currently under development is an 
+important point to resolve a variety of tensions  2  The interpretation and accommodation of data 
+and grey areas which, if left unaddressed, may  subject rights should follow established CJEU case 
+significantly undermine the fundamental right to  law requiring an ‘effective and complete protection 
+data protection. All of us were present at the recent  of the fundamental rights and freedoms’ of data 
+stakeholder event on data rights in Brussels on 4  subjects and the ‘efficient and timely protection’ 
+November 2019, and it is in the context and spirit of  of their rights.
+stakeholder engagement that we have created this 
+document to explore and provide recommendations  3  The right of access plays a pivotal role in enabling 
+and examples in this area. This document is based on  other  data  rights,  monitoring  compliance  and 
+comprehensive empirical evidence as well as CJEU  guaranteeing due process. Analysis of guidance, 
+case law, EDPB (and, previously, Article 29 Working  cases, and legal provisions indicates data controllers 
+Party) guidance and extensive scientific research  cannot constrain the right of access through unfair 
+into  the  scope,  rationale,  effects  and  general  file format, scope limitations, boiler-plate response, 
+modalities of data rights. and that where data sets are complex, they should 
+facilitate tools to enable understanding.
+A. Main Takeaways 4  The right to erasure is not accommodated by 
+anonymising personal data sets. In case the same 
+personal data is processed for different processing 
+1  The first half of this document lists recommendations  purposes some of which may not be subject to the 
+for the four data subject rights mentioned in the  right to erasure, data controllers should interpret 
+EDPB’s plan to draft guidelines: right of access (Article  erasure requests as a clear signal to stop all other 
+15); right to rectification (Article 16); right to erasure  processing purposes that are not exempted.
+(Article 17); and the right to restriction of processing 
+(Article 18). The second half of this document takes 
+3 283  2020Jef Ausloos, Michael Veale and René Mahieu
+5  The right to object offers a context-dependent  12  We can see this principle in operation in relation to 
+and individualised re-assessment of the relevant  data rights which are prerequisites to others. The 
+processing purposes, specifically in relation to the  Court held that the right of access is a pre-requisite 
+data subject’s concrete situation. Data controllers’  to the ‘rectification, erasure or blocking’ of data, and 
+potential compelling legitimate interests should be  thus the existence (and extent) of the right of access 
+detailed, publicly declared and foreseeable, in order  must allow effective use of other data rights.4
+to be able to override data subjects’ clear desire to 
+stop the respective processing operation. 13  The Court has also held that provisions of data 
+protection law must be interpreted as to give 
+6  The right to restriction of processing — currently  effect to the efficient and timely protection of 
+ignored by most data controllers — should be  the data subject’s rights.5 Furthermore, it is critical 
+prioritised in time and effectively ‘freeze’ any  to consider data rights in light of the overarching 
+further processing operations. Information society  principles of transparency and fairness in the 
+services should offer this through an interface. GDPR. Data controllers are not permitted to frustrate 
+data subjects in their attempts to benefit from the 
+7  The right to rectification applies to opinions and  high level of protection that follows from their 
+inferences of the data controller, including profiling,  fundamental rights. Indeed, they have to both 
+and must consider that the vast majority of data is  implement data rights6 as well as facilitate the 
+highly subjective. exercise of such rights.7
+8  (Joint) controllers have an explicit duty to facilitate  14  Relatedly, the Court has also highlighted that 
+the exercise of data subject rights and cannot  data protection should be understood within the 
+require specific forms or legislative wording as a  framework of the responsibilities, powers and 
+precondition for accommodating them. capabilities of a data controller.8 As the European 
+Data Protection Board has already pointed out, 
+9  Restrictions or limitations on how data rights are  ‘information society or similar online services that 
+accommodated (eg rights and freedoms of others,  specialise in automated processing of personal data’ 
+excessiveness, repetitiveness) need to be foreseeable  are highly capable at classifying, transmitting and 
+and interpreted narrowly and specifically in light  managing personal data in automated ways, and as 
+of the concrete and specific right, data subject and  a result9 meet data rights in an effective, complete, 
+context at hand. efficient, and timely manner.
+B. Background 15  Finally, the Court has also linked the ability to 
+effectively exercise data subject rights with the 
+10  Data subject rights are of critical importance in  fundamental right to effective judicial protection 
+the European data protection regime. Throughout  in Article 47 Charter. Specifically, it stressed that 
+all discussions of their scope and limits, it must be  ‘legislation not providing for any possibility for an 
+recalled that rights are not simply a way to police 
+that sufficient data protection is occurring, but they  de  Protección  de  Datos  (AEPD)  and  Mario  Costeja  González 
+are an intrinsic part of the fundamental right to data  EU:C:2014:317 [53]; Case C-73/16 Peter Puškár v Finančné 
+protection enshrined in the Charter of Fundamental  riadite stvo Slovenskej republiky and Kriminálny úrad finančnej 
+rights, which states that:  správy EU:C:2017:725 [38].
+ľ
+Everyone has the right of access to data which has been  4  Case C434/16 Peter Nowak v Data Protection Commissioner 
+collected concerning him or her, and the right to have it 
+EU:C:2017:994 [57]; Case C-553/07 College van burgemeester en 
+rectified.1
+wethouders van Rotterdam v MEE Rijkeboer EU:C:2009:293 [51].
+11  Data rights must, in general, be implemented with 
+5  Case C-49/17 Fashion ID GmbH & CoKG v Verbraucherzentrale 
+several observations of the Court of Justice of the 
+European Union in mind.2 The Court has held that  NRW eV EU:C:2019:629 [102].
+one of the key objectives of data protection law 
+6  GDPR, art 25 (‘Data protection by design and by default’).
+is the effective and complete protection of the 
+fundamental rights and freedoms of natural persons 
+with respect to the processing of personal data.3 7  GDPR, art 12(2).
+1  Charter, art 8(2). 8  Google Spain  (n  3)  [38];  Case  C136/17  GC and Others v 
+Commission nationale de l’informatique et des libertés (CNIL) 
+2  We refer to the Court of Justice as the Court in the remainder  EU:C:2019:773 [37].
+of this article.
+9  Article 29 Working Party, ‘Guidelines on the Right to Data 
+3  Case C-131/12 Google Spain SL and Google Inc v Agencia Española  Portability (WP 242)’ (13 December 2016) 12.
+3 284  2020Getting Data Subject Rights Right
+individual to pursue legal remedies in order to have  personal data. Firstly, this right can, in principle, 
+access to personal data relating to him, or to obtain  be considered as a sine qua non for meaningfully 
+the rectification or erasure of such data, does not  exercising other data subject rights in Chapter 
+respect the essence of the fundamental right to  III of the GDPR. More specifically, data subjects 
+effective judicial protection, as enshrined in Article  will only be able to properly consider whether 
+47 of the Charter.’10 Technical and organisational  to invoke their right to rectification (Article 16), 
+arrangements, and arrangements of controllership,  erasure (Article 17), portability (Article 20) when 
+must be understood in light of this Article 47  they know what personal data is processed exactly, 
+obligation. for what purposes, whom it was shared with, and so 
+on. The ‘enabling role’ of the right of access was also 
+repeatedly confirmed by the Court.14 In effect, this 
+C. The Right of Access (Article 15) means that any restrictions or conditions placed on 
+or around the right to access have a knock-on effect 
+on the entire data protection regime.
+16  The right of access has been integral to data 
+protection laws since the very early days. It was  18  Secondly, the right of access is an important tool that 
+already positioned as ‘an essential minimum element  private individuals can use to monitor controllers’ 
+in the protection of privacy’ in two Council of Europe  compliance with the general principles governing 
+resolutions from the early 1970s.11 The right of  the processing of personal data, notably Articles 
+access is also explicitly recognised in international  5-6 of the GDPR. Compliance with core provisions 
+data protection instruments such as the OECD’s  of the regulation, such as purpose limitation, data 
+1980 Guidelines on the Protection of Privacy and  minimisation,  accuracy  and  storage  limitation 
+Transborder Flows of Personal Data,12 and the  principles15 will be easier to verify after obtaining 
+Council of Europe’s 1981 Convention.13 Importantly,  access. This monitoring role of the right of access is 
+the OECD guidelines stress that data subjects have  explicitly recognised in recital 63 of the GDPR, which 
+a right to have their personal data communicated  emphasises that
+to them (a) within a reasonable time; (b) at no 
+(excessive) charge; (c) in a reasonable manner; and   “a data subject should have the right of access to personal 
+(d) in a readily intelligible form. data which have been collected concerning him or her, and to 
+exercise that right easily and at reasonable intervals, in order 
+to be aware of, and verify, the lawfulness of the processing.” 
+17  The right of access constitutes a cornerstone in 
+achieving the effective and complete protection  As such, the right of access effectively complements 
+of  the  fundamental  rights  and  freedoms  of  the data protection authorities mandate to monitor 
+natural persons with respect to the processing of  and enforce the application of the GDPR (Article 57(1)
+a), by enabling a broader number of stakeholders 
+10  Case  C-362/14  Maximillian  Schrems  v  Data  Protection  to verify GDPR compliance. Max Schrems’ actions 
+Commissioner EU:C:2015:650 [95]. against  Facebook  provide  a  useful  illustration 
+of the effectiveness of this remedial function. 
+11  Council of Europe - Committee of Ministers, ‘Resolution (73)  After filing an access request with the company, 
+22 on the Protection of the Privacy of Individuals Vis-à-Vis  Schrems received an enormous PDF file (including 
+Electronic Data Banks in the Private Sector’ (26 September  data thought to previously have been erased) and 
+1973);  Council  of  Europe  -  Committee  of  Ministers,  initiated proceedings before the Irish DPA. Among 
+‘Resolution (74) 29 on the Protection of the Privacy of  others, this access request served as a catalyst 
+Individuals Vis-a-Vis Electronic Data Banks in the Public  which eventually led the CJEU to invalidate the Safe 
+Sector’ (20 September 1974). Harbour decision.16 This role is especially important 
+given the under-resourced and over-burdened sate 
+12  OECD,  Recommendation  of  the  Council  concerning  of many supervisory authorities.17 It needs to be 
+Guidelines  governing  the  Protection  of  Privacy  and 
+Transborder Flows of Personal Data (2013) [C(80)58/FINAL,  14  Rijkeboer (n 4) [51]; Nowak (n 4) [57].
+as amended on 11 July 2013 by C(2013)79], principle 13 on 
+Individual Participation. 15  GDPR, arts 5(1)(b–e).
+13  Convention for the Protection of Individuals with regard  16  Schrems I (n 10).
+to  Automatic  Processing  of  Personal  Data  (opened  for 
+signature 28 January 1981, entered into force 1 October  17  See  generally  European  Data  Protection  Board,  ‘First 
+1985) 108 ETS, art 8. The convention was modernised in 2018  Overview on the Implementation of the GDPR and the Roles 
+(Protocol amending the Convention for the Protection of  and Means of the National Supervisory Authorities’ (Report 
+Individuals with regard to Automatic Processing of Personal  presented to the European Parliament’s Civil Liberties, 
+Data (opened for signature 10 October 2018) 228 CETS) and  Justice and Home Affairs Committee (LIBE), 26 February 
+the relevant provision can now be found in Article 9. 2019).
+3 285  2020Jef Ausloos, Michael Veale and René Mahieu
+stressed however, that well-resourced supervisory  21  In older data systems, where the number of points on 
+authorities are key to the effective functioning of  any given individual was considerably smaller than it 
+data rights. often is today, a simple print-out or summary would 
+suffice to give the data subject oversight as to the 
+19  The  importance  of  the  right  of  access  is  not  content of the data undergoing processing.21 Today, 
+restricted to those purposes explicitly mentioned  however, many data systems collect such a large 
+in the recitals.18 For example, the right of access  number of data points, that only a format that 
+also functions as a due process guarantee. Personal  allows the data subject to analyse data themselves 
+data is often collected to serve as input for making  will allow them to have sufficient oversight over 
+decisions about people. Such decisions range from  the data processing being undertaken.
+which advertisement is shown, whether and under 
+which conditions a loan is given, to whether one  22  Firstly, it can and should be understood as part of the 
+qualifies for social security. The right of access to  principle of fairness that a data controller should not 
+personal data is historically also predicated on the  transform data from the machine-readable format 
+idea that people should be empowered and able to  they hold it in22 into a format that makes it more 
+assess and contest decisions made about them.19  difficult for the data subject to navigate. Information 
+It is a response to these decisions being based on  society services can only analyse the data they hold about 
+increasing collection and digitalisation of data  individuals by virtue of its machine-readable nature. To 
+relating to individuals. refuse individuals the same ability exacerbates the 
+informational and power asymmetries that the 
+right of access, and the fundamental right of data 
+I.  Data Format of Access Requests protection in general, seeks to rebalance.
+23  In  particular,  data  controllers  should  not 
+20  The format of data provided pursuant to the right of  transform data from common machine-readable 
+access is very important for the effective use of the  formats (eg JSON, CSV) into PDF formats. Portable 
+right by the data subject. It should be considered that  document format, or ‘PDF’, is a file designed for 
+data subjects who exercise their rights have different  printing, not for analysis. The A29WP recognised this 
+legitimate reasons for doing so and that they have  in their guidance on the right to portability, stating 
+different backgrounds and capabilities. It follows  that
+that the data format which is most appropriate to 
+these different situations must vary accordingly. We  As an example, providing an individual with .pdf versions of 
+therefore recommend that the layered approach  an email inbox would not be sufficiently structured. E-mail 
+data must be provided in a format which preserves all the 
+advocated by the A29WP in the context of privacy 
+meta-data, to allow the effective re-use of the data. As such, 
+statements/notices,20  should  equally  apply  to 
+when selecting a data format in which to provide the personal
+information provided through Article 15 access 
+requests. Following this insight, we analyse first (in 
+the remainder of 3.1) the limits of relying on PDFs to 
+provide access, the need to provide access to all data,  21  This  is  not  to  say  that  many  systems  have  not  been 
+and the benefits of doing so in a machine readable  considerably complex in relation to subject access rights 
+format; and second (in 3.2) why the complexity  for many decades, see eg Graham Greenleaf and Roger 
+of data processing should not be accepted as an  Clarke, ‘Database Retrieval Technology and Subject Access 
+argument to limit the access to all data, but rather  Principles’ (1984) 16 The Australian Computer Journal.
+to put an obligation on the data controller to provide 
+the conditions necessary to render the complex data  22  In its Guidelines on Transparency, the A29WP (Article 
+intelligible.  29  Working  Party,  ‘Guidelines  on  transparency  under 
+Regulation 2016/679’ (n 20) 25) refers to Recital 21 of 
+Directive 2013/37/EU for a definition: ‘A document should 
+be considered to be in a machine-readable format if it is in 
+18  Case C434/16 Peter Nowak v Data Protection Commissioner  a file format that is structured in such a way that software 
+EU:C:2017:582, Opinion of AG Kokott [39]. applications  can  easily  identify,  recognise  and  extract 
+specific data from it. Data encoded in files that are structured 
+19  See Alan F Westin and Michael A Baker, Databanks in a Free  in a machine-readable format are machine-readable data. 
+and Fair Society (Quadrangle Books 1972), which argues  Machine-readable formats can be open or proprietary; they 
+for the introduction of the right of access based on due  can be formal standards or not. Documents encoded in a file 
+process argument, and which was very influential on the  format that limits automatic processing, because the data 
+development of data protection law, also in Europe. cannot, or cannot easily, be extracted from them, should 
+not be considered to be in a machine-readable format. 
+20  Article 29 Working Party, ‘Guidelines on Transparency  Member States should where appropriate encourage the 
+under Regulation 2016/679’ (11 April 2018) 19–20. use of open, machine-readable formats.’
+3 286  2020Getting Data Subject Rights Right
+data, the data controller should consider how this format 
+impaired users. The guidance should be very clear 
+would impact or hinder the individual’s right to re-use the 
+data.23 that screenshots in general are not an appropriate 
+manner of providing access rights for services which 
+24  Because PDFs are designed for printing, they are  rely heavily on the automatic processing of personal 
+notoriously difficult to extract data from — so much  data, such as information society services.
+so, that table extraction from PDFs is an academic 
+area of study, which researchers even deploy neural  26  The common practice of limiting access to the 
+networks and deep learning for in an attempt to  data that is visible through the interfaces, which 
+solve.24 Transforming data into PDFs unwantedly  is available to support staff has other limiting 
+only disadvantages the data subject and forecloses  implications for the right of access. First, not all 
+analysis opportunities. Even formats such as HTML,  the personal data processed in a system may be 
+ODF, ODT, XLSX or DOCX are more reusable and can  visible through the interface used for day-to-
+be parsed by machines. day operations. Second, support staff may only 
+have access to a subset of all the systems in which 
+25  Furthermore, PDFs score extremely poorly for  personal data is processed. Just because personal 
+individuals who need accessible information  data is not used in a day-to-day business practice 
+online. Individuals who require or are assisted by  by frontline workers, it is not an appropriate 
+accessible information include those with cognitive  reason to exclude it from access. If data is held, it 
+disabilities, those with vision impairments, those  falls within the scope of the right to access.
+with physical disabilities and those with hearing 
+impairments. 25 A study of 100 blind screen-reader  27  A specific area of concern in this regard is ‘deleted’ 
+users found that inaccessible PDFs were one of the  data. In many common implementations of database 
+main causes of frustration while browsing the Web.  software, the processing operation that is commonly 
+26 Accessible PDFs in practice are rarely found, are  referred to as ‘deleting’ merely changes a label 
+difficult to create and often require consultants  attached to a data-point. For example, an individual 
+and in-depth planning and expert knowledge. 27 In  may have pressed a ‘delete’ button on a social media 
+general PDFs are not tools that lends themselves  post, or an old address may seem ‘deleted’ when 
+to accessibility across the population.28 In the  overwritten with a new address, but that does not 
+authors’ experience, many data controllers provide  necessarily mean associated data is deleted from 
+screenshots of databases as visible to their support  the controller’s servers. While this practice may, 
+staff — a format which is both unable to be re-used by  depending on the circumstances, be appropriate, it 
+the data subject, and totally inaccessible to visually  is important to stress that such data still exists in 
+the system, and therefore falls under the reach of 
+the right of access to personal data. On websites and 
+23  Article 29 Working Party, ‘Guidelines on the right to data  apps today, this data may have even been typed and 
+portability (WP 242)’ (n 9) 14. then deleted (without ever having pressed ‘submit’ 
+or ‘send’), or only partially uploaded (from the 
+24  See generally Shah Khusro and others, ‘On Methods and  user’s point of view), yet still retained by the data 
+Tools of Table Detection, Extraction and Annotation in PDF  controller. 29
+Documents’ (2015) 41 Journal of Information Science 41. For 
+a recent example of a neural network powered PDF parsing 
+tool, see L Hao and others, ‘A Table Detection Method for 
+PDF Documents Based on Convolutional Neural Networks’ 
+(April  2016)  2016  12th  IAPR  Workshop  on  Document  29  Drew  Harwell,  ‘Start  a  Post,  Then  Delete  It?  Many 
+Analysis Systems (DAS) 287. Websites  Save  It  Anyway.’,  Washington  Post  (18 
+December  2018)  <https://www.washingtonpost.com/
+25  cf Gian Wild and Daniel Craddock, ‘Are PDFs an Accessible  technology/2018/12/18/start-post-then-delete-it-many-
+Solution?’ in Computers Helping People with Special Needs  websites-save-it-anyway/>  accessed  17  November  2019; 
+(Lecture Notes in Computer Science, Klaus Miesenberger  Tony Romm, ‘Facebook Says a New Bug Allowed Apps to 
+and others eds, Springer International Publishing 2016) 355. Access Private Photos of up to 6.8 Million Users’, Washington 
+Post (14 December 2018) <https://www.washingtonpost.
+26  Jonathan Lazar and others, ‘What Frustrates Screen Reader  com/technology/2018/12/14/facebook-says-new-bug-
+Users on the Web: A Study of 100 Blind Users’ (2007) 22  allowed-apps-access-private-photos-up-million-users/> 
+International Journal of Human–Computer Interaction 247. accessed 17 November 2019; Steven Englehardt and others, 
+‘No Boundaries: Exfiltration of Personal Data by Session-
+27  Erin  Brady  and  others,  ‘Creating  Accessible  PDFs  for  Replay Scripts’ (Freedom to Tinker, Centre for Information 
+Conference Proceedings’ in Proceedings of the 12th Web for All  Technology  Policy,  Princeton  University,  15  November 
+Conference (W4A ’15, New York, NY, USA, ACM 2015). 2017)  <https://freedom-to-tinker.com/2017/11/15/no-
+boundaries-exfiltration-of-personal-data-by-session-
+28  ibid. replay-scripts/> accessed 17 November 2019.
+3 287  2020Jef Ausloos, Michael Veale and René Mahieu
+A social network is asked for to provide a copy of  these children could be a similar data record to John’s 
+all data held about an individual, which includes 
+own, nested in the ‘children’ key. This format is not 
+posts, lists of friends, advertising interests and the 
+tabular, and to convert it to tabular data would 
+history of log-ins to the site. Because all of this data 
+generally lose information. This is because each 
+is processed automatically by the social network, and 
+record might have different ‘keys’ (think columns 
+readily available to the social network in a machine 
+readable format, the social network is obliged not  in a table), and a different number of values for each 
+to render it less machine readable or accessible to  key (think cells).
+individuals with visual impairments by placing it into 
+a PDF file or a similar format complicating machine  32  To illustrate the policy challenges, and guidance 
+readability, such as an image or screenshot. requirements, of datasets such as those in JSON 
+Proposed Example format, we will provide a truncated extract from an 
+access request to a popular music service and data 
+II. Rendering ‘Raw’, Necessarily  controller, Spotify. Spotify provided telemetry data 
+to one of the authors in mid-2018 on the basis of a 
+Complex Data Intelligible
+data access right. The telemetry data Spotify held 
+from the previous six months alone amounted to 
+28  Often, data is necessarily complex. Datasets include,  845 megabytes of plain text files (TXT files in JSON 
+for example, those which record varied data subject  structure). The following entry appears to relate to 
+activity over time, such as their interaction with  the adding of a single song (‘No Man is Big Enough 
+information society services. Such interactions may  for My Arms’ by Ibeyi) to a playlist. The actual entry 
+not be classed within a single variable (eg clicked,  for this single action was 171 lines long, only 66 
+played, watched) but may consist of multiple bundled  illustrative lines are reproduced here.
+and nested variables, some with multiple values. 
+29  Complexity of data should not be a reason not to 
+{
+provide the ‘raw’, maximally complex, data upon 
+        “pid”: {
+request. However, it may be a reason to develop a 
+            “description”: “”, 
+layered approach for individuals who may not be 
+            “value”: “1217”
+able to parse the dataset.
+        }, 
+        “time”: {
+30  In many cases, raw data will likely be represented              “description”: “”, 
+within the data controller in a flexible format such as              “value”: “1525786006.15”
+JSON. A JSON file is simply a way of arranging a text          }, 
+        “message”: {
+file in a human-readable, yet machine-parseable, way 
+            “item_uri”: {
+as to describe a flexible data object. For example, the 
+                “description”: “URI of item that was added and only the first 
+below is an entry from John Smith, which contains  if multiple.”, 
+some biographical information about John.                 “value”: “spotify:track:3nPOISgqtO1hl7nNxAZi7K”
+            }, 
+            “source”: {
+{
+                “description”: “The view uri which led to add to playlist.”, 
+  “firstName”: “John”,
+                “value”: “\u0003\u0001\u0000\u0001\ufffdDd\ufffdo\ufffd\
+  “lastName”: “Smith”, ufffd\u0012\ufffdt’\
+  “age”: 27,                  ufffd\u0006Ey\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u000f}\
+  “phoneNumbers”: [ ufffd\u001bLi\u0012\
+    {                  ufffdO\u0019\ufffdp\ufffd\ufffd\ufffd\ufffd4\ufffd\ufffddX\
+u0002\ufffd\ufffd\
+      “type”: “home”,
+                 ufffd`”
+      “number”: “212 555-1234”
+            }, 
+    },
+            “message_version”: {
+    {
+                “description”: “”, 
+      “type”: “mobile”,
+                “value”: “4”
+      “number”: “123 456-7890”
+            }, 
+    }
+            “playlist_uri”: {
+  ],
+                “description”: “The uri of playlist added to or null.”, 
+  “children”: [],
+               “value”: “\u0003\u0001\u0000\u0001O\ufffd/&\ufffdE.\
+  “spouse”: null ufffd@\ufffd\
+} u001a\ufffd\ufffd\ufffd\ufffd\ufffd\”\ufffd\ufffd\u0005\u0014f\
+ufffd\ufffd\ufffd5f\
+Example of a JSON file extract
+31  Observe that, for example, in a JSON a nested 
+structure is present: more than one telephone 
+number is provided, and if John Smith had children, 
+3 288  2020Getting Data Subject Rights Right
+ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u001c\
+u0011\ufffdY[\ufffd\ 34  Other data are less clear or completely opaque, such 
+ufffd\ufffd\ufffd\u0011\ufffdn<\u007fN\ufffdb\ufffd\u0015\ufffd\ as: 
+u0017Y\ufffd’p\
+ufffd\ufffd\ufffd\r2”
+•  client revision number (‘845100696’)
+            }, 
+•  connection  ID  assigned  by  the  AP 
+            “time”: {
+                “description”: “Unix timestamp”,  (‘28539029148205306’)
+                “value”: “1525786006” •  rid (‘7795720745’)
+            }, 
+            “number_items”: {
+                “description”: “Number of items added.”, 
+                “value”: “1”
+            },  35  Some data is technically obfuscated. For example: 
+            “context_source”: {
+               “description”: “URI representing action context source”, 
+                “value”: 
+- public IP address of the connected node (‘\u0003\b\u0000\u0001\
+ “\u0003\u0001\u0000\u0001\ufffd\u0003\ufffd\ufffd\ufffd\ufffd\
+ufffd\ufffd\u000e\ ufffd\ufffdw\ufffd\ufffd\ufffdZWI\ufffd\ufffd\ufffd\ufffd^u\
+u0013\ufffd|\ufffd\ufffd\ufffdP\ufffd>\ufffd:\ufffd2\ufffd\ufffd~?\
+ufffd\ufffd2\ufffd\ ufffd\ufffd*\ufffd:\ufffd\ufffd\ufffd\ufffd\ufffdv\ufffd\ufffd\
+u0007\ufffd\u0012,’&\ufffd\ufffdMM}\ufffd\ufffdOP\ufffd\ufffd\ ufffdx\ufffd\ufffd?{\ufffd\u0006\ufffd\ufffd’)
+ufffd\ufffdc\ufffdV\f\
+ufffd:\ufffd\ufffd\r\ufffdY*\ufffdN\ufffd\ufffd\tU”
+- URI representing action context source (‘\u0003\u0001\u0000\
+            }
+u0001\ufffd\u0003\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u000e\
+        }, 
+        “rid”: { u0013\ufffd|\ufffd\ufffd\ufffdP\ufffd>\ufffd:\ufffd2\ufffd\ufffd~?\
+            “description”: “”,  ufffd\ufffd2\ufffd\u0007\ufffd\u0012,’&\ufffd\ufffdMM}\ufffd\
+            “value”: “7795720745” ufffdOP\ufffd\ufffd\ufffd\ufffdc\ufffdV\f\ufffd:\ufffd\ufffd\r\
+        }, 
+ufffdY*\ufffdN\ufffd\ufffd\tU’)
+        “identData”: {
+            “ip_addr”: {
+                “description”: “public IP address of the connected node”, 
+                “value”: 
+“\u0003\b\u0000\u0001\ufffd\ufffdw\ufffd\ufffd\ufffdZWI\ufffd\ 36  Both of these variables are among several in the text 
+ufffd\ufffd\
+which are filled with ‘escaped’ Unicode characters 
+ufffd^u\ufffd\ufffd*\ufffd:\ufffd\ufffd\ufffd\ufffd\ufffdv\ufffd\
+ufffd\ufffdx\ufffd\ with no clear representation (eg ‘\ufffd’). Even when 
+ufffd?{\ufffd\u0006\ufffd\ufffd” these are removed, we could not understand the 
+            },  meaning of these sequences. If there is a decoding 
+            “conn_country”: {
+mechanism for these variables, it was not provided 
+                “description”: “the country looked up with GeoIP by the AP”, 
+to the data subject. The specific song that was added 
+                “value”: “GB”
+            },  was only accessible through the Spotify identifier, 
+            “tcp_port”: { which can be resolved manually through the Spotify 
+                “description”: “public TCP port of the connected node”, 
+App, and requires further interaction with the 
+                “value”: “59918”
+service (and, of course, further data collection on 
+            }, 
+            “platform”: { this interaction by Spotify).
+                “description”: “platform of the connected node”, 
+                “value”: “iOS 11.3 (iPhone9,1)”
+37  Whereas it is important for data controllers to be 
+            }, 
+able to provide all personal data they have on a 
+            “version”: {
+                “description”: “”,  data subject in raw format, it is equally important 
+                “value”: “10” that they ensure data subjects can easily access 
+            },  and understand such data (Article 12(1)). This 
+        }
+is  particularly  important  with  regard  to  data 
+    }
+controllers of complex data-ecosystems as illustrated 
+Extract from the Spotify Telemetry Data provided to one 
+of the authors above. We therefore recommend the EDPB to stress 
+that accommodating the right of access should – 
+where needed – include the tools rendering the 
+entire data-set understandable. Put differently, the 
+33  Some of this data comes with a relatively clear  layered approach heavily advocated by the A29WP in 
+description, such as:  the context of privacy statements/notices,30 equally 
+applies to subject specific information provided 
+•  the country chosen by the user at registration time  through Article 15 access requests.
+(‘GB’)
+•  Number of items added (‘1’)
+•  platform  of  the  connected  node  (‘iOS  11.3 
+(iPhone9,1)’) 30  Article  29  Working  Party,  ‘Guidelines  on  transparency 
+under Regulation 2016/679’ (n 20) 19–20.
+3 289  2020Jef Ausloos, Michael Veale and René Mahieu
+38  In some cases, the risk of processing, and the  services.35 Access to these opinions and inferences 
+requirement for the data controller to facilitate  is key to a variety of other rights and obligations in 
+rights and design data protection into processing  the GDPR, such as rectification, objection, erasure, 
+systems,  may  require  a  bespoke  exploration  as well as the broad assessment of fairness and non-
+interface to be designed for such complex datasets.  discrimination.36 Access rights are pre-requisites 
+However, particularly if the guidance determines  to so many other potentially applicable rights and 
+that some data controllers would not be required to  checks, that providing them is key to effective 
+create such tools, it is key that they release data  oversight and the principle of transparency.
+in a format which allows such tools to be made 
+by third parties. This requires, for example, that  42  It is worth noting that two recent relevant CJEU 
+the datasets (such as the Spotify example above) are  cases, YS and Others37 and Nowak,38 do not clearly 
+stable in their format (so that analysis tools made  map onto issues of access to inferences in the 
+by civil society do not break), well-documented (so  digital economy. Because both concern the Data 
+that faithful analysis tools can be created), and not  Protection Directive, they do not distinguish profiling 
+contingent on hidden datasets for understanding  from other forms of opinion-forming. In particular, 
+(such as reference dataset linking song names to  recital 72 of the GDPR emphasises that: 
+identifiers).
+Profiling is subject to the rules of this Regulation governing 
+the processing of personal data, such as the legal grounds for 
+III. Opinions and Inferences
+processing or data protection principles.39
+39  The fact that opinions and inferences can qualify  Profiling is defined as: 
+as personal data has been confirmed by the CJEU, 
+which noted that the term ‘any information’ in the  any form of automated processing of personal data consisting 
+definition of personal data includes information  of the use of personal data to evaluate certain personal aspects 
+relating to a natural person, in particular to analyse or predict 
+that is ‘not only objective but also subjective, in the 
+aspects concerning that natural person’s performance at 
+form of opinions and assessments, provided that it 
+work, economic situation, health, personal preferences, 
+‘relates’ to the data subject’.31 The test of whether 
+interests, reliability, behaviour, location or movements40
+data ‘relates’ to an individual is satisfied where it is 
+linked to a person ‘by reason of its content, purpose  43  Profiling is seen as an activity which increases the 
+or effect’.32 risk of data processing to data subjects rights and 
+freedoms, indicated by, for example, significant 
+40  Access to opinions about individuals can become  decisions based (even in non-solely automated 
+contentious in cases where those opinions are  ways) on profiling triggering the requirement for 
+expressed in a professional context by third parties,  a data protection impact assessment.41 The A29WP, 
+such as written or oral evidence provided as part of  in guidance endorsed by the EPDB, list ‘[e]valuation 
+a human resources dispute, yet recorded on a file  or scoring, including profiling and predicting’ 
+about individuals. In those cases, it is an instance  as a criterion for the determination of high-risk 
+of ‘mixed personal data’ and should be navigated  processing.42 
+as such. This is dealt with later in this document.33
+35  See generally Lilian Edwards and Michael Veale, ‘Slave to 
+41  Opinions  or  inferences  formed  of  the  data  the Algorithm? Why a “Right to an Explanation” Is Probably 
+subject by the data controller, however, should  Not the Remedy You Are Looking For’ (2017) 16 Duke Law & 
+not  merit  a  similar  exemption.  In  practice,  Technology Review 18.
+these inferences can range from a quantitative or 
+‘predictive’ assessment of employment performance  36  GDPR, recital 71.
+using manual or automated surveillance tools34 to 
+profiling of data subjects by information society  37  Joined  Cases  C141/12  and  C372/12  YS  v  Minister  voor 
+Immigratie, Integratie en Asiel and Minister voor Immigratie, 
+31  Nowak (n 4) [34]. Integratie en Asiel v M and S EU:C:2014:2081.
+32  ibid [35]. 38  Nowak (n 4).
+33  See section 3.4. 39  GDPR, recital 72.
+34  See generally Ifeoma Ajunwa and others, ‘Limitless Worker  40  GDPR, art 4(4).
+Surveillance’ (2017) 105 Calif L Rev 735; Lilian Edwards and 
+others, ‘Employee Surveillance: The Road to Surveillance  41  GDPR, art 35(3)(a).
+is Paved with Good Intentions’ (SSRN Scholarly Paper, 18 
+August 2018). 42  Article 29 Working Party, ‘Guidelines on Data Protection 
+3 290  2020Getting Data Subject Rights Right
+44  Neither  Nowak  or  YS and Others  can  be  easily  columns instead, each of which contains a number 
+construed as profiling, as both were cases of manual,  between -1 and 1. It would be possible to plot these 
+rather than automated, processing. Legal analysis  10,000 points on a 3D scatter plot, and the idea is that 
+of the type in YS and Others would not fall under the  ‘similar’ users are clustered together. In practice, 
+profiling definition. It also seems doubtful that a  the number of dimensions is much larger — often 
+traditional examination, such as that in Nowak, would  thousands — but the concept is the same. In 1000D 
+fall under the concept of profiling (unless it was  space, rather than 3D space, many more nuanced 
+marked automatically). Consequently, we have not  characteristics can be caught: for example, on some 
+seen the Court provide judgements clearly analogous  dimensions, users might be clustered in practice by 
+to profiling. Profiling is therefore a distinct activity  language, while in others, they might be clustered 
+which distinguishes many inferences and opinions  by ethnicity, and in others, by interests. Yet each 
+made in the context of the digital economy from  column is not a clear variable such as this: it is the 
+existing case-law: it is a situation where risk is  emergent property of ‘similarity’ which is important, 
+heightened and the need to provide strong data  and therefore the columns are not interpretable 
+protection is also heightened. without the rows to understand what the clusters 
+mean in practice. 
+45  Furthermore, when executing an access right, 
+where inference is a human understandable score  48  In embedding systems, how individuals are being 
+or category, context must be provided as to  profiled, and the opinions formed about them, are 
+the alternatives that the individual could have  not in some human-readable inference, but are 
+been categorised as. This is important for rights  instead based on their proximity and similarity to 
+such as rectification where they apply in this  others.44 The Guidance must address how individuals 
+context, or assessing whether such categorisations  can access the way they are being profiled in such 
+are potentially discriminatory, as without this  systems.  In  particular,  it  must  be  emphasised 
+knowledge, they would not know the alternative  that this is a dataset of personal data, not an 
+options available. automated decision system as per GDPR Article 22. 
+46  The EDPB should, however, be aware that a particular  Each individual is attached to a record of hundreds 
+challenge exists in practice as many data controllers  or thousands of data points that place them in 
+do not explicitly infer human-understandable  relation to other individuals, and which has been 
+data about the data subject, but infer data  calculated in advance, ready for use at a later stage. 
+which is used to shape and sort them, which  The automated system is simply looking at the 
+only machines can ‘understand’. For example, a  distance between the co-ordinates of one individual 
+common tool in this area is the ‘embedding’, where  and another, and that would be the ‘logic’ of the 
+data records are plotted as ‘points’ in such a way that  processing. The data points are not the logic of 
+the distance between them is an indicator of their  processing, and therefore the data points fall 
+similarity or dissimilarity to each other. This is a  wholly within the right of access.
+common practice in advertising and recommender 
+systems.43 49  In particular, it is concerning that data controllers 
+are seeking to use complex processing, such as 
+47  An embedding is a simple but important technology.  embeddings, in order to practically render access 
+Imagine 10,000 users, and each has 10 characteristics  rights  unhelpful  in  understanding  the  ways 
+which are known about them, such as their age,  individuals are being profiled, and opinions formed 
+location, and so on. This is a 10,000 x 10 table.  against them. 
+An embedding turns these users into vectors of 
+geometric points. Many methods, including neural 
+networks, are possible to do this. The end product is 
+a table with 10,000 rows, but with, for example, three 
+Impact  Assessment  (DPIA)  and  Determining  Whether 
+Processing is “Likely to Result in a High Risk” for the 
+Purposes  of  Regulation  2016/679  (WP  248  Rev.01)’  (4 
+October 2017) 9.
+43  See for example the description of the system used by 
+Pinterest at Stephanie deWet and Jiafan Ou, ‘Finding Users 
+Who Act Alike: Transfer Learning for Expanding Advertiser 
+Audiences’ in Proceedings of the 25th ACM SIGKDD International 
+Conference on Knowledge Discovery & Data Mining (KDD ’19,  44  See  further  Solon  Barocas  and  Karen  Levy,  ‘Privacy 
+New York, NY, USA, ACM 2019). Dependencies’ [2019] Washington Law Review.
+3 291  2020Jef Ausloos, Michael Veale and René Mahieu
+A social network uses vector embeddings to assess  a member of parliament that a complaint submitted 
+the similarity between two data subjects. These  to the Constitutional Court could not be subject to 
+embeddings are stored alongside a user ID. According  a document release request by an NGO because it 
+to the layered approach, the entire vector for that  included personal data was in violation of Article 10 
+user should be provided (so that the data subject  of the Convention, on the grounds that individuals 
+can compare to other data subjects if they wish)  in public life should not be able to stop the genuine 
+regardless of what the controller believes the utility  disclosure of documents on the basis that their 
+of this to the data subject to be, but also, a system to  opinions on public matters constituted private data 
+help users understand what these embeddings mean  which could not be disclosed without consent.46
+for them, such as the nature of the other individuals 
+they are clustered near, should be provided. 52  In the UK, the Court of Appeal has ruled that even 
+where a third party has refused to consent to data 
+Proposed Example released on the basis of an access request, that does 
+not mean there is a rebuttable presumption against 
+release, but that the case should be balanced on 
+A political party has categorised a data subject as 
+a ‘Pragmatic Liberal’ using a machine learning  importance and merits.47 
+classifier. In the access request, the data controller 
+lists  all  possible  other  classifications  for  this  The Information Commissioner also counsels in this 
+individual, so that the data subject understands this  direction, stating that:
+opinion within its context.
+depending on the significance of the information to the 
+Proposed Example
+requester, it may be appropriate to disclose it even where 
+the third party has withheld consent.48
+53  Furthermore, the focus on the above is that the data 
+IV. Mixed Personal Data’ Should Only 
+controller should seek consent from third parties 
+Justify Refusal in Limited Cases
+in an access request. A data controller should not 
+have a blanket policy to refuse to seek such consent. 
+For an information society service, where such a 
+50  Much personal data relate to more than one person.  process can be easily automated, that is especially 
+This includes, for example, data such as: true.
+•  reputation systems, where a rating relates to the 
+A data subject requests the rating information 
+rated and the rater; from individuals on a ratings platform. The data 
+•  ambiently collected data, such as from sensors or  controller retains such data. The data controller has 
+‘smart speakers’; an obligation to ask the relevant raters for consent to 
+•  message data, which relates to the sender and  release this data, rather than refuse the data subject 
+recipient, and may also mention and relate to third  access to this data. The controller then must assess, 
+parties; with reference to the significance of the information 
+to the requester, whether this data should be 
+•  data as part of a professional duty or relationship, 
+released. Such an assessment must not be a blanket 
+such as notes taken by a medical professional about 
+policy, but must co#nsider individual circumstances.
+a patient.
+Proposed Example
+51  This data often causes challenges when the right 
+of access is invoked.It is important to note that  V. Access to Sources and 
+significant case-law in this area exists from the 
+Recipients of the Data
+European Court of Human Rights, which has, in 
+general, favoured the individual seeking access to 
+data over third parties seeking to limit its release. In 
+Gaskin, the ECtHR ruled that just because no consent  54  While discussion of the right of access mostly 
+had been obtained from all third parties in the data,  focuses on the right to access the data itself, it is 
+it did not mean that it could not be released, and  important to stress that the right, on the basis of 
+that there was a need for an independent authority 
+to exist to make the final call; otherwise there would  46  Társaság a Szabadságjogokért v Hungary App no 37374/05 
+have been a breach of Article 8 of the Convention.45  (2009).
+In Társaság a Szabadságjogokért v Hungary, the claim by 
+47  DB v General Medical Council [2018] EWCA Civ 1497 [70].
+48  Information Commissioner’s Office, ‘Subject Access Code of 
+45  Gaskin v United Kingdom [1990] EHRR 36. Practice’ (9 June 2017) 40.
+3 292  2020Getting Data Subject Rights Right
+Article 15(1)(a–f) also encompasses the obligation on  subjects to learn more about their particular 
+data controllers to provide additional information  situation upon request. This also follows from the 
+regarding the processing of data. Of particular  Court’s case law in Nowak51 and Rijkeboer52.
+importance in relation to the data subject’s ability 
+to monitor the controller’s compliance with data  57  The issue is illustrated by the way in which Facebook 
+protection legislation, as well as her ability to  responds  to  access  requests:  With  respect  to 
+effectively exercise her other data subject rights  information about the data categories that Facebook 
+are the right to know the recipients, as well as the  holds about Mr. XYZ: this depends on how he uses 
+sources of the data undergoing processing. the Facebook Products. The data categories and 
+their sources are clearly set out in our Data Policy 
+In  line  with  these  goals  and  building  on  the  (accessible via https://www.facebook.com/policy.php)
+earlier position taken by A29WP,49 the provided 
+information should include the actual named  58  Even when specifically asked not to simply recite 
+sources and actual named recipients of the data  their privacy policy, Facebook still does. When 
+subject’s personal data in particular. Without  explicitly requested to provide ‘a complete and 
+such information, data subjects are not able to  detailed overview of all the different ways personal 
+know where and how their personal data has  data have been and will be processed (not your 
+been disseminated. Currently only a very small  general privacy policy, but a list of which of my 
+proportion of data controllers provides such data  data were used for which concrete purpose) as well 
+when requested.50 as the exact lawful ground (art.6 (1) GDPR) for each 
+processing purpose’, Facebook responds:
+VI. Responses to Access Requests  59  We understand that Mr XYZ would like a complete 
+Need to be Specific and Tailored and detailed overview of all the different ways in 
+which his personal data have been processed and 
+will be processed, including the legal basis relied on 
+55  Controllers  very  frequently  accommodate  (at  by Facebook. Whilst Mr XYZ indicates he does not 
+least part of) access requests by reciting generic  seek our “general privacy policy”, we’d like to clarify 
+information already available in the privacy policy/ that the information requested by him is detailed in 
+notice/statement. This clearly appears from the  this document and our legal bases fly out. 
+combined empirical work of the authors, as well 
+as the many personal experiences from other  60  Facebook’s response is problematic because:
+data subjects. Article 15(1) lists eight categories of 
+information that can be requested, on top of the  a)  it refers to its privacy policy, which manifestly 
+actual personal data being processed. When asked  does not link exactly what personal data is 
+for some of this information in an individual access  used for exactly what purpose and under 
+request, controllers will often answer in a very  what lawful ground each individual purpose 
+generic way. This is highly problematic in light of the  falls.
+different functions of the right of access (eg enabling 
+the exercise of other rights, evaluating compliance),  b)  it fails to provide a tailored answer to the 
+and its relation to the information obligations under  data subject in particular, who wishes to 
+Articles 13-14. know what exact information was collected 
+for what purposes and under what lawful 
+56  Whereas Articles 13-14 can be considered ex ante  ground, for his particular situation.
+obligations on controllers’ shoulders, Article 15 is 
+an ex post right of data subjects. In other words,  61  In light of the above, we strongly recommend the 
+Articles 13-14 contain transparency requirements  EDPB to make it very clear in their guidelines that the 
+that need to be complied with by controllers upfront,  right of access in Article 15 requires controllers 
+and necessarily need to relate to all potential data  to tailor the information to the specific situation 
+subjects. The added value of Article 15 is that it  of the data subject making the request. This 
+provides the possibility for individual data  means that each data subject can ask, for example: 
+(a) what exact purposes their specific personal data 
+has been processed for; (c) the exact (categories of) 
+recipients their personal data has been disclosed to; 
+49  Article  29  Working  Party,  ‘Guidelines  on  transparency  and (g) what source their specific personal data were 
+under Regulation 2016/679’ (n 20) 37. obtained from.
+50  René LP Mahieu and others, ‘Collectively Exercising the  51  Nowak (n 4) [56].
+Right of Access: Individual Effort, Societal Effect’ (2018) 7 
+Internet Policy Review. 52  Rijkeboer (n 4) [69].
+3 293  2020Jef Ausloos, Michael Veale and René Mahieu
+D. The Right to Erasure (Article 17)
+context and circumstances of each individual case,56 
+its outcome can also change over time.57 In order to 
+assess whether or not a dataset is truly anonymous, 
+I.  Anonymisation as Erasure 
+one will reasonably have to take into account the 
+is Inadequate risk of re-identification over time.58 When the data 
+on the Concept of Personal Data’ (Article 29 Working 
+62  Anonymisation is often considered a valid way  Party 20 June 2007) 15; Article 29 Working Party, ‘Working 
+to evade the applicability of the GDPR. Indeed, as  Document on the Processing of Personal Data Relating to 
+recognised in Recital 26, data protection rules should  Health in  Electronic Health Records (EHR)’ (15 February 
+not apply to ‘anonymous information, namely  2007)  29;  Article  29  Working  Party,  ‘Opinion  05/2014 
+information which does not relate to an identified  on Anonymisation Techniques’ (n 53) 5 et seq; Pagona 
+or identifiable natural person or to personal data  Tsormpatzoudi, ‘Eksistenz D7.4 Intermediate Report for 
+rendered anonymous in such a manner that the data  D7.5’ (Deliverable, CiTiP 27 November 2015) 14.
+subject is not or no longer identifiable’. In its 2014 
+Opinion on anonymisation techniques, the A29WP  56  Important  factors  to  take  into  account  in  this  regard 
+also stressed that ‘anonymisation results from  are: Who will the ‘anonymised’ dataset be shared with? 
+processing personal data in order to irreversibly  How will it be processed? What other data will/might 
+prevent identification’.53 it be combined with? What are the means that a likely 
+attacker would have? See also Article 29 Working Party, 
+63  The GDPR incorporated the A29WP’s Opinion as  ‘Opinion 05/2014 on Anonymisation Techniques’ (n 53) 
+well as CJEU jurisprudence54 when stating that  10.”event-place”:”Brussels”,”abstract”:”In  this  Opinion, 
+anonymisation of personal data entails making it  the WP analyses the effectiveness and limits of existing 
+irreversibly impossible to identify the data subject,  anonymisation techniques against the EU legal background 
+having regard to all the means likely reasonably to be  of  data  protection  and  provides  recommendations  to 
+used.55 This test does not only depend on the relevant  handle these techniques by taking account of the residual 
+risk of identification inherent in each of them.\nThe WP 
+53  Article 29 Working Party, ‘Opinion 05/2014 on Anonymisation  acknowledges  the  potential  value  of  anonymisation  in 
+Techniques’ (10 April 2014).”authority”:”Article 29 Working  particular as a strategy to reap the benefits of ‘open data’ 
+Party”,”event-place”:”Brussels”,”abstract”:”In this Opinion,  for individuals and society at large whilst mitigating the 
+the WP analyses the effectiveness and limits of existing  risks for the individuals concerned. However, case studies 
+anonymisation techniques against the EU legal background  and research publications have shown how difficult it is to 
+of  data  protection  and  provides  recommendations  to  create a truly anonymous dataset whilst retaining as much 
+handle these techniques by taking account of the residual  of the underlying information as required for the task.\
+risk of identification inherent in each of them.\nThe WP  nIn the light of Directive 95/46/EC and other relevant EU 
+acknowledges  the  potential  value  of  anonymisation  in  legal instruments, anonymisation results from processing 
+particular as a strategy to reap the benefits of ‘open data’  personal data in order to irreversibly prevent identification. 
+for individuals and society at large whilst mitigating the  In doing so, several elements should be taken into account 
+risks for the individuals concerned. However, case studies  by data controllers, having regard to all the means “likely 
+and research publications have shown how difficult it is to  reasonably” to be used for identification (either by the 
+create a truly anonymous dataset whilst retaining as much  controller or by any third party
+of the underlying information as required for the task.
+In the light of Directive 95/46/EC and other relevant EU  57  Particularly in the long run, Narayanan and others explain 
+legal instruments, anonymisation results from processing  there is no technical basis for believing de-identification 
+personal data in order to irreversibly prevent identification.  techniques will be effective. Arvind Narayanan and others, 
+In doing so, several elements should be taken into account  ‘A Precautionary Approach to Big Data Privacy’ in Serge 
+by data controllers, having regard to all the means “likely  Gutwirth and others (eds), Data Protection on the Move: 
+reasonably” to be used for identification (either by the  Current Developments in ICT and Privacy/Data Protection (Law, 
+controller or by any third party Governance and Technology Series, Springer Netherlands 
+2016).  Similarly,  Barocas  and  Nissenbaum  explain  ‘[a]s 
+54  Case C-582/14 Patrick Breyer v Bundesrepublik Deutschland  data sets become increasingly linked, anonymity is largely 
+EU:C:2016:779 [46]. In this case, the Court agreed with the AG  impossible to guarantee in the future.’ Solon Barocas and 
+that anonymisation hinges on whether ‘identification of the  Helen Nissenbaum, ‘Big Data’s End Run around Anonymity 
+data subject was prohibited by law or practically impossible  and  Consent’  in  Privacy,  Big  Data,  and  the  Public  Good: 
+on account of the fact that it requires a disproportionate  Frameworks for Engagement  (Cambridge  University  Press 
+effort in terms of time, cost and man-power, so that the risk  2014).
+of identification appears in reality to be insignificant.’
+58  eg  due  to  the  development  of  ICTs  and/or  likelihood 
+55  Recital 26 (both in the GDPR and Directive 95/46 before  of  identification  through  future  combining  with  other 
+that). Also see: Article 29 Working Party, ‘Opinion 4/2007  databases. Article 29 Working Party, ‘Opinion 05/2014 on 
+3 294  2020Getting Data Subject Rights Right
+controller has no a priori means of distinguishing  environment, with ever-increasing data processing 
+between anonymous and personal data in a mixed  capabilities, no guarantees can be given that any 
+dataset, it will need to treat the entire set as personal  data-point might be (re-)connected to an identifiable 
+data.59 natural person in the future. We therefore agree with 
+the A29WP’s 2014 Opinion stating that anonymised 
+64  We  believe  data  controllers  often  confuse  datasets can still present residual risks to data 
+anonymisation with erasure, and this creates a  subjects,61 and believe it is much more useful to look 
+range of challenges. at anonymisation as a sliding scale rather than 
+a binary.62 Erasure, on the other hand and when 
+65  Firstly, many data formats in the modern digital 
+economy simply cannot be anonymised. This  Is There Need (and Room) For a New Concept of Personal 
+is substantiated by an overwhelmingly rich and  Data?’  in  Serge  Gutwirth  and  others  (eds),  European 
+growing body of literature.60 Indeed, in an online  data protection: in good health? (Springer 2012); Yves-
+Alexandre de Montjoye and others, ‘Unique in the Crowd: 
+Anonymisation Techniques’ (n 53) 8–9.”event-place”:”Br The Privacy Bounds of Human Mobility’ (2013) 3 Scientific 
+ussels”,”abstract”:”In  this  Opinion,  the  WP  analyses  Reports 1376; Arvind Narayanan and Edward W Felten, ‘No 
+the  effectiveness  and  limits  of  existing  anonymisation  Silver Bullet: De-Identification Still Doesn’t Work’ [2014] 
+techniques  against  the  EU  legal  background  of  data  White Paper; Barocas and Nissenbaum (n 57); Narayanan, 
+protection  and  provides  recommendations  to  handle  Arvind, ‘What Should We Do about Re-Identification? A 
+these techniques by taking account of the residual risk  Precautionary  Approach  to  Big  Data  Privacy’  (Freedom 
+of  identification  inherent  in  each  of  them.\nThe  WP  to  Tinker,  19  March  2015)  <https://freedom-to-tinker.
+acknowledges  the  potential  value  of  anonymisation  in  com/blog/randomwalker/what-should-we-do-about-
+particular as a strategy to reap the benefits of ‘open data’  re-identification-a-precautionary-approach-to-big-data-
+for individuals and society at large whilst mitigating the  privacy/> accessed 24 February 2016; Yves-Alexandre de 
+risks for the individuals concerned. However, case studies  Montjoye and others, ‘Unique in the Shopping Mall: On 
+and research publications have shown how difficult it is to  the Reidentifiability of Credit Card Metadata’ (2015) 347 
+create a truly anonymous dataset whilst retaining as much  Science  536;  Antoinette  Rouvroy,  ‘“Of  Data  and  Men”. 
+of the underlying information as required for the task.\ Fundamental Rights and Freedoms in a World of Big Data’ 
+nIn the light of Directive 95/46/EC and other relevant EU  (11 January 2016) 21; Sophie Stalla-Bourdillon and Alison 
+legal instruments, anonymisation results from processing  Knight, ‘Anonymous Data v. Personal Data—a False Debate: 
+personal data in order to irreversibly prevent identification.  An EU Perspective on Anonymization, Pseudonymization 
+In doing so, several elements should be taken into account  and  Personal  Data’  (2017)  34  Wisconsin  International 
+by data controllers, having regard to all the means “likely  Law Journal 284; Luc Rocher and others, ‘Estimating the 
+reasonably” to be used for identification (either by the  Success of Re-Identifications in Incomplete Datasets Using 
+controller or by any third party Also see: Douwe Korff,  Generative Models’ (2019) 10 Nat Commun 1.
+‘Data Protection Laws in the EU: The Difficulties in Meeting 
+the  Challenges  Posed  by  Global  Social  and  Technical  61  Article  29  Working  Party,  ‘Opinion  05/2014  on 
+Developments’ (Comparative Study on Different Approaches  Anonymisation Techniques’ (n 53) 4.”authority”:”Article 
+to New Privacy Challenges, in Particular in the Light of  29 Working Party”,”event-place”:”Brussels”,”abstract”:”In 
+Technological Developments, European Commission - DG  this  Opinion,  the  WP  analyses  the  effectiveness  and 
+Justice 2010) 48. limits of existing anonymisation techniques against the 
+EU  legal  background  of  data  protection  and  provides 
+59  The A29WP gives the example of internet access providers  recommendations to handle these techniques by taking 
+who can generally not know what IP address does and does  account of the residual risk of identification inherent in 
+not allow identification. Article 29 Working Party, ‘Opinion  each of them.\nThe WP acknowledges the potential value 
+on Personal Data’ (n 55) 16–17. of anonymisation in particular as a strategy to reap the 
+benefits of ‘open data’ for individuals and society at large 
+60  See generally (including the many references in): P Ohm,  whilst mitigating the risks for the individuals concerned. 
+‘Broken Promises of Privacy: Responding to the Surprising  However, case studies and research publications have shown 
+Failure of Anonymization’ (2010) 57 UCLA Law Review  how difficult it is to create a truly anonymous dataset whilst 
+1701; Douwe Korff and Ian Brown, ‘Comparative Study  retaining as much of the underlying information as required 
+on Different Approaches to New Privacy Challenges , in  for the task.\nIn the light of Directive 95/46/EC and other 
+Particular in the Light of Technological Developments’  relevant EU legal instruments, anonymisation results from 
+(Final Report, 20 January 2010) 28; Arvind Narayanan and  processing personal data in order to irreversibly prevent 
+Vitaly  Shmatikov,  ‘Myths  and  Fallacies  of  “Personally  identification. In doing so, several elements should be taken 
+Identifiable Information”’ (2010) 53 Communications of the  into account by data controllers, having regard to all the 
+ACM 24; Paul M Schwartz and Daniel J Solove, ‘PII Problem:  means “likely reasonably” to be used for identification 
+Privacy  and  a  New  Concept  of  Personally  Identifiable  (either by the controller or by any third party
+Information, The’ (2011) 86 NYU L Rev 1814; Mario Viola de 
+Azevedo Cunha, ‘Review of the Data Protection Directive:  62  See (the references in): Nadezhda Purtova, ‘The Law of 
+3 295  2020Jef Ausloos, Michael Veale and René Mahieu
+executed properly, is a binary and data controllers  Anonymisation can thus be used to disempower 
+should in principle be required to irretrievably  data  subjects.  Anonymisation  may  prevent 
+remove all personal data from their system rather  individuals ‘from understanding, scrutinising, and 
+than merely anonymising it. questioning the ways in which data sets are used 
+to organise and affect their access to resources and 
+66  Secondly, it is important to remember that, since  connections to a networked world.’67 Indeed, as the 
+data protection is an intent-agnostic regime (see  authors have demonstrated elsewhere, some data 
+further section 9.4, this document) there are many  controllers argue that they cannot accommodate 
+motivations for erasure. Some of these concern  data subject rights because they allegedly have no 
+confidentiality, which (proper) anonymisation may  way of reidentifying the data subject, effectively 
+help to meet. Yet these are not all the concerns a data  disempowering individuals.68
+subject might have. Since its origins, data protection 
+law has also — arguably primarily — been seen as a  68  Furthermore, the proportionality of anonymisation 
+regime for regulating the imbalances that emerge  rather than erasure should be read in the context 
+from informational power.63 of the many hurdles to successful erasure in Article 
+17. If such hurdles are overcome (which in many 
+67  Informational power is tied up with notions of  cases are difficult and raise uncertainties about how 
+‘group’ or ‘categorical’ privacy.64 An individual, for  to proceed, see section 4.2, this document), then a 
+example, may not wish for information to be known  data subject should be entitled to erasure, and not 
+and processed around a community, neighbourhood  less than that. Erasure is possible when no valid 
+or demographic she is part of.65 She may wish to erase  processing purposes remain: these purposes 
+data not to obscure herself, but to obscure the groups  include purposes where anonymisation and 
+she constitutes from a data controller she does not  aggregation, which themselves are processing 
+favour or trust. Anonymisation instead of erasure  operations, are utilised.
+disempowers her. It states that her data can still be 
+utilised, valorised, for example ‘anonymised’ into  69  Thirdly, the right to erasure does not explicitly 
+machine learning models,66 while she has specifically  mention  anonymisation  as  constituting  an 
+stated she no longer wants that data to be accessible  equivalent measure. This becomes clear when 
+to the data controller in any form. comparing the language of Article 17 – clearly 
+dictating erasure per se – with other provisions that 
+use the language of recital 26 on anonymisation – i.e. 
+data no longer permitting identification – such as the 
+storage limitation principle (Article 5(1)(e)) and its 
+Everything. Broad Concept of Personal Data and Future  different mutations in Article 11 and 89.
+of EU Data Protection Law’ (2018) 10 Law, Innovation and 
+Technology 40.
+II. Interpreting Erasure as Objection
+63  See eg the work of Stefano Rodotà, former chairman of 
+the Article 29 Working Party, in particular Stefano Rodotà, 
+Elaboratori  Elettronici  E  Controllo  Sociale  [Computers  and  70  The right to erasure tackles the underlying data 
+Social Control] (Societa Editrice Il Mulino 1973) and in  involved in a processing operation. Because the same 
+Germany: Wilhelm Steinmüller and others, Grundfragen des  data can and is often processed in many different 
+Datenschutzes Gutachten im Auftrag des Bundesmnisteriums des  ways, often with a different lawful ground, erasure 
+Innern (BT-Drs. VI/3826 1971). may fail if the data controller can retain a valid 
+64  See  generally  Anton  Vedder,  ‘KDD:  The  Challenge  to  67  Seda  Gürses,  ‘The  Spectre  of  Anonymity’  in  Renée 
+Individualism’ (1999) 1 Ethics and Information Technology  Turner (ed), Sniff, scrape, crawl . {on privacy, surveillance 
+275; Linnet Taylor and others (eds), Group Privacy: New  and our shadowy data-double} (Mute Publishing Ltd 2012) 
+Challenges of Data Technologies (Philosophical Studies Series,  3; 5; Seda Gürses, ‘Can You Engineer Privacy?’ (2014) 57 
+Springer International Publishing 2017). Communications of the ACM 20.
+65  See further Edwards and Veale (n 35) 46–48. 68  Specifically, Apple denies access requests with regard to Siri 
+voice data it collects and stores for up to two years, because 
+66  It is worth noting that such anonymisation may also not  they say they do not have the tools in place to re-connect 
+be valid, as machine learning models can ‘remember’ data  such voice data to the user. Even if this argumentation 
+they have been trained on, or in some cases such as support  can be contested significantly, it does raise a considerable 
+vector machines, simply store it as part of their model. See  hurdle  to  data  subject  empowerment.  See  particularly 
+generally  Michael  Veale  and  others,  ‘Algorithms  that  Michael Veale and others, ‘When Data Protection by Design 
+Remember: Model Inversion Attacks and Data Protection  and Data Subject Rights Clash’ (2018) 8 International Data 
+Law’ (2018) 376 Phil Trans R Soc A 20180083. Privacy Law 105.
+3 296  2020Getting Data Subject Rights Right
+lawful ground for data processing. Even if one of the  74  In this context, it is also important to recall the Court’s 
+grounds in Article 17(1) applies, this might not lead  view that rights must be protected in an ‘efficient 
+to effective erasure. It is therefore important that  and timely’ manner.71 An efficient manner is one 
+the guidance clarifies how to resolve situations in  which does not require the data subject to expend 
+which erasure is requested, but the controller claims  unnecessary energy in order to secure protection 
+it can further process the respective personal data  of their rights. An efficient, timely approach here 
+for different purposes. would be to require data controllers to interpret 
+‘failed’ erasure attempts, due to residual legal 
+71  Even where data controllers offer data subjects a  bases, as a clear signal to object. The controller 
+right to erasure, it is often unclear what personal  would then be required to re-substantiate its claim 
+data it applies to exactly and under what circumstances  to have a continued lawful ground for further 
+the right can be invoked. As illustrated in Table 1  processing said personal data.
+below, the applicability of the right to erasure 
+inherently  depends  on  what  lawful  ground 
+is relied on for which processing purpose(s)  An  employee  at  work  has  their  ‘screen  time’ 
+relating  to  what  specific  personal  data  in  monitored by an employer who produces aggregate 
+particular. The vast majority of privacy notices/ activity about the different tasks workers engage in. 
+statements of information society services fails to  The employer utilises a piece of software to undertake 
+clearly link these components (simply listing what  such tracking, and claims that such monitoring falls 
+personal data is processed separately from what  within its legitimate interests. An employee requests 
+purposes they process personal data for and/or the  the erasure of this data. However, recent data is 
+lawful grounds relied on), rendering it very hard  also used for the purposes of security and access 
+to effectively exercise the right to erasure. This  control, as the installed software has more than 
+is made even more challenging by the practice of  one purpose, and the data controller believes such 
+data controllers to ‘switch’ between, for example,  security presents a compelling legitimate interest, 
+consent and legitimate interests.69 It is exacerbated  meaning that not all the data can be erased. The 
+by the ‘list’ approach to Article 13/14, whereby data  data controller must interpret the erasure request 
+controllers provide a list of lawful bases (often copied  as erasure insofar as possible and treat the remaining 
+straight from the GDPR), a list of data categories, and  portions of the request as a request to object (or, 
+a list of data processing operations, without cross- if appropriate, withdraw consent) in relation to 
+referencing them in any way. processing operations for which the data subject’s 
+prevail in a balancing test.
+72  In order for the right to erasure to have any 
+meaningful role, data controllers should make  Proposed Example
+it very clear upfront (eg in their privacy notice/
+statement) what personal data it applies to and 
+III. Availability of erasure 
+under what circumstances. This obligation also 
+follows from the transparency principle (Article 5(1) does not absolve from 
+(a)), purpose limitation principle (Article 5(1)(b)) and  other GDPR obligations
+transparency requirements in Articles 13–14. Table 
+170 (see next page) describes the complexity of the 
+‘erasure triggers’. These illustrate the importance  75  In principle, the right to erasure is only a last resort 
+of making the functioning of the right to erasure  solution, empowering data subjects to request 
+clear to data subjects. It is also not clear that data  erasure in situations where their personal data 
+controllers understand these distinctions. ought to have been erased already in the first place. 
+This clearly appears from the six situations listed in 
+73  Making it clear which data a data subject can, and  Article 17(1), which all im-/explicitly refer to other 
+cannot, erase is important because without this, the  provisions in/outside the GDPR that already imply 
+data subject cannot easily make an informed choice  erasure (cf. Table 2 next page).
+as to whether they should use a particular service, 
+or engage with a particular data controller. 76  In the authors’ experience, data controllers often 
+appear to use the availability of data subject rights 
+69  See eg Privacy International, ‘Submission to the Information  as a red herring. Yet, offering data subjects a 
+Commissioner:  Request  for  an  Assessment  Notice/ right to erasure does not absolve data controllers 
+Complaint of AdTech Brokers Criteo, Quantcast and Tapad  from having to comply with key data protection 
+(the ’AdTech Data Brokers’)’ (8 November 2018). principles such as purpose limitation (Article 5(1)
+(b)), data minimisation (Article 5(1)(d)), or storage 
+70  Jef Ausloos, The Right to Erasure in EU Data Protection  limitation (Article 5(1)(e)). Indeed, many privacy 
+Law. From Individual Right to Effective Protection (Oxford 
+University Press forthcoming). 71   Fashion ID (n 5) [102].
+3 297  2020Jef Ausloos, Michael Veale and René Mahieu
+Legal Basis  Relation  Erasure Triggers 
+(a) Consent  When consent is relied on as lawful ground, the most relevant  a) purpose expiration 
+right to erasure trigger will be b), i.e. withdrawing consent.  b) consent withdrawal 
+When consent was given in the context of ISS while the data  d) unlawful processing 
+subject was a child, the last trigger f) could also be used.  e) legal obligation 
+Theoretically, triggers a) (purpose expiration), e) (legal  f) consent withdrawal in 
+obligation), and d) (unlawful processing) will also be applicable.  context of ISS offered to 
+Given the difficulty of demonstrating expiration of purposes or  children 
+unlawfulness in practice, it seems much more straightforward 
+to simply rely on the less ambiguous withdrawal of consent to 
+obtain erasure. 
+(b) Contract  When necessity for the performance of a contract is relied on as  a purpose expiration 
+lawful ground for processing, the most relevant trigger to rely  b consent withdrawal 
+on will be a purpose expiration (which will generally occur at  d unlawful processing 
+the latest upon rescinding the contract). Trigger d) may also be  e legal obligation 
+relevant when the lawful ground is not valid (anymore). To the 
+extent this ground overlaps with the first lawful ground on 
+consent, trigger b) might also be of some relevance. Finally, it 
+cannot be excluded that an external legal obligation imposes 
+erasure, even when processing is still necessary for 
+performance of a contract (so trigger e) remains open). 
+(c) Legal  (d) Vital  These two lawful grounds are largely outside the control of any  a) purpose expiration 
+Obligation  Interests  of the parties involved. The most relevant triggers therefore  d) unlawful processing 
+will be a) (purpose expiration) and e (legal obligation). As  e) legal obligation 
+always, trigger d) remains available in those situations where 
+the lawful ground is incorrectly relied upon in the first place. 
+(e) Task in Public  Compared to the previous two, this lawful ground leaves more  a) purpose expiration 
+Interest  room for interpretation as to the scope of processing  c) right to object 
+operations that it may cover. So, on top of triggers a (purpose  d) unlawful processing 
+expiration), e (legal obligation) and d (unlawful processing),  e) legal obligation 
+data subjects will also be able to request erasure on the basis of 
+trigger c, following a right to object. 
+(f) Legitimate  Contrary to the previous three, the last lawful ground leaves  a) purpose expiration 
+Interests  considerable freedom to controllers to define their interests  c) right to object 
+and purposes. Particularly triggers a) (purpose expiration), c  d) unlawful processing 
+(right to object) and d) (unlawful processing) will be relevant,  e) legal obligation 
+though e) (legal obligation) remains open as well. 
+T able  1: Right to Erasure Trigger by Legal Basis
+ 
+Right to erasure triggers  Cross-references 
+Article 17(1)  Articles  Recitals 
+(a) Purpose expiration  5(1)b,  c  and  e;  6(4);  13(2)a;  39; 50 
+14(2)a 
+(b) Consent withdrawal  4(11); 6(1)a; 7; 8; 9(2)a  32; 42 
+(c) Right to object  21  69; 70 
+(d) Unlawful processing  4(11); 5(1)a; 6(1); 7; 8; 9  32; 65; 69 
+(e) Legal obligation  6(1)c  10; 45 
+(f) Minors’ withdrawal of consent in ISS  7; 8  38 
+context 
+Table 2: Right to Erasure Triggers and relevant GDPR provisions 
+ 
+3 298  2020Getting Data Subject Rights Right
+notices/statements appear to offer data subjects a  interests are not an ‘easy’ alternative to consent, but 
+right to erasure mainly pro forma only, while at the  require substantive and public justification.76 The 
+same time acknowledging a vast data processing  Information Commissioner’s Office has expressed 
+apparatus. concern that particularly online, data controllers 
+seeing legitimate interests as the ‘easy option’ lack 
+77  Indeed, important research in behavioural sciences  a ‘full understanding of what legitimate interests 
+has demonstrated that the perceived control data  requires’.77
+subjects have over their personal data through tools 
+such as the right to erasure, may paradoxically lead  80  Because individuals are asked to formulate and 
+to lower concerns over data processing practices and  provide ‘grounds’ specific to their situation, which 
+a false sense of security, which in turn may lead to  will be weighed against any compelling legitimate 
+revealing even more (sensitive) information.72 grounds of the data controller, it should be the case 
+that the legitimate interest of the data controller 
+are laid out in advance in accordance with Article 13 
+E. The Right to Object (Article 21)
+and 14. Article 13(1)(d) states that data controllers 
+must provide the data subject with ‘the legitimate 
+78  The  right  to  object  offers  data  subjects  an  interests pursued by the controller or by a third 
+opportunity to oppose the further processing of their  party’. 
+personal data for specific purposes. It comprises a 
+much stronger focus on the specific context in an  81  This is an important component for the individual 
+individual situation than the ex-ante (and more  in determining whether and how to make the case 
+generic) balancing as prescribed by Article 6(1)(f).73  for their right to object. It should be considered 
+Even though processing may be ‘lawful’ under Article  contrary  to  the  fairness  principle  for  a  data 
+6(1)(e–f) GDPR, the right to object offers a context- controller, in balancing the right to object against 
+dependant and individualised re-assessment. This  potential compelling legitimate grounds, to rely 
+can be derived both from the use of the broader term  on a legitimate interest which has not been clearly 
+‘grounds’ (as opposed to interests as contained in  declared to the data subject in advance. This could 
+Article 6(1)(e)-(f))74 and the words ‘relating to his  put the data subject in a position where they chose 
+or her particular situation’ (as opposed to a more  a particular service provider and enabled them to 
+generic situation in Article 6(1)(f)).75 In light of this,  process data about themselves under Article 6(1)
+we recommend the EDPB to require data controllers  (f), unaware of the interests of the controller and 
+to clearly demonstrate any argument against the  unable to foresee their own capacity to object in the 
+right to object in relation to the specific situation  face of these undeclared legitimate interests. This is 
+of the data subject, rather than a generic statement. particularly key because legitimate interests operate 
+in the context of ‘necessity’, which is a concept 
+that must be scrutinised in relation to determining 
+I.  Compelling Legitimate 
+whether or not processing is lawful.78
+Interests Must be Detailed, 
+Public and Foreseeable
+79  The right to object is available to data subjects 
+with regard to processing operations that rely on 
+legitimate interests as a lawful ground (Article 
+6(1)(f)). As emphasised by the A29WP, legitimate 
+72  Laura Brandimarte and others, ‘Misplaced Confidences: 
+Privacy  and  the  Control  Paradox’  (2012)  4  Social 
+Psychological and Personality Science 1948550612455931.
+76  Article 29 Working Party, ‘Opinion 06/2014 on the Notion 
+73  See also Damian Clifford and Jef Ausloos, ‘Data Protection  of Legitimate Interests of the Data Controller under Article 
+and the Role of Fairness’ (2018) 37 Yearbook of European  7 of Directive 95/46/EC’ (Opinion, European Commission 9 
+Law 130.  April 2014).
+74  The language used implies that the term ‘grounds’ here can  77  Information Commissioner’s Office, ‘Update Report into 
+be understood as broader than ‘interests’ (i.e. given the fact  Adtech and Real Time Bidding’ (20 June 2019) 18.
+that the data subject grounds to object appear to include; 
+context, interests rights and freedoms). 78  See eg Case C-13/16 Valsts policijas Rīgas regiona pārvaldes 
+Kārtības policijas pārvalde v Rīgas pašvaldības SIA ‘Rīgas 
+75   See in this regard also Google Spain (n 3) [75]–[76]. satiksme’ EU:C:2017:336 [30] and the case-law cited.
+3 299  2020Jef Ausloos, Michael Veale and René Mahieu
+A wayfinding transport application sequence, upon  have the right – more broadly – to challenge 
+download, informs a data subject that they process  controllers’ compliance with any of the GDPR’s 
+location data on the basis of Article 6(1)(f) for the  requirements (even if it does not qualify as a 
+purposes of building an aggregated, anonymised  specific right in Chapter III). This is already reflected 
+dataset to help the company provide traffic data  in the implied right in Article 18(1)(b) to object 
+within the app. Later, the data controller receives  to ‘unlawful’ processing,85 and Article 17(1)(d) to 
+an objection request from this data subject relating  erase personal data processed without an adequate 
+to the use of location data for this purpose. The data  lawful ground.86 As DPAs, such as the Information 
+controller carries out a balancing test, and argues  Commissioner’s Office in the UK, are requesting that 
+that while the data subject’s objection request  individuals ‘raise a concern’ with an organisation 
+overrides the legitimate interest of in-app traffic  before they will take action, clarification on the 
+data, the controller also provides this aggregated,  modalities for data subjects to challenge data 
+non-personal data to local governments and planning  controllers’ compliance with key provisions 
+agencies, and this represents a compelling legitimate  (such as the data protection principles in Article 
+ground. However, because the data controller had  5 and the lawfulness requirement in Article 6) 
+not already declared this specific, albeit genuine,  is particularly important.87 In particular, the 
+legitimate interest, the right to object must be  guidance should specify what the obligation of a 
+upheld. controller to respond to such claims of unlawful 
+processing should be.
+Proposed Example
+F. The Right to Restriction of 
+II. Objection and Processing 
+Processing (Article 18)
+‘Necessary for the 
+Performance of a Contract’
+84  Restriction of processing means ‘the marking of 
+stored personal data with the aim of limiting their 
+82  The right to object only has a limited scope of  processing in the future’.88 The data subject has the 
+application, as it only applies to situations where  right to restrict processing while they are waiting for 
+processing is based on either one of the last two  an assessment of the accuracy or the efficacy of the 
+lawful  grounds  in  Article  6(1).  It  is  therefore  right to object, as well as in situations where they 
+unsurprising that since the entry into force of the  claim the processing is unlawful (to ensure retention 
+GDPR, many controllers whose business model relies  of evidence of unlawfulness) and where the data 
+heavily on personalisation (and advertisement) have  subject wishes to ensure the data still exist for the 
+shifted from relying on either consent79 or legitimate  establishment, exercise or defence of legal claims.89 
+interests,80 to necessity for the performance of a  Despite many such requests, we have encountered 
+contract.81 Reliance on this ground effectively strips  not a single data controller that acknowledged, 
+data subjects from the ability to withdraw their  let alone accommodated, the right to restriction 
+consent82 or object83 to said processing. In light of  of processing.
+the recent EDPB guidance on the lawful basis of 
+necessity for contract,84 many controllers may be 
+illegitimately relying on this ground. 
+85  Noting that the data subject shall have the right to obtain 
+83  With that in mind, it would be valuable if the  from the controller restriction of processing where ‘the 
+guidance could specify that data subjects also  processing is unlawful and the data subject opposes the 
+erasure of the personal data and requests the restriction of 
+79  GDPR, art 6(1)(a). their use instead’.
+80  GDPR, art 6(1)(f). 86  Noting that ‘the data subject shall have the right to obtain 
+from the controller the erasure of personal data […] the 
+81  GDPR, art 6(1)(b). personal data have been unlawfully processed’
+82  GDPR, art 7(4). 87  See Information Commissioner’s Office, ‘Raising a Concern 
+with an Organisation’ (24 September 2019) <https://ico.org.
+83  GDPR, art 21. uk/your-data-matters/raising-concerns/> accessed 11 June 
+2019.
+84  European Data Protection Board, ‘Guidelines 2/2019 on 
+the Processing of Personal Data under Article 6(1)(b) GDPR  88  GDPR, art 4(3).
+in the Context of the Provision of Online Services to Data 
+Subjects (Version 2.0)’ (8 October 2019). 89  See generally, GDPR, art 18.
+3 300  2020Getting Data Subject Rights Right
+I.  Restriction Timeframe for  In automated filing systems, the restriction of processing 
+should in principle be ensured by technical means in such 
+Information Society Services
+a manner that the personal data are not subject to further 
+processing operations and cannot be changed.92
+85  Information society services encompass any service  89  For example, where an individual has objected 
+normally provided for remuneration, at a distance,  to tracking or profiling, and has in the meantime 
+by electronic means and at the individual request of  restricted processing, this should mean that the 
+a recipient of services.90 In many cases, data subjects  continual processing stops in the meantime, 
+will already be verified to use the service through  and that no more profiles are built, updated or 
+having logged in. applied. In practice, this does not occur. 
+86  The right to restrict processing is an interim measure. 
+Particularly given the automated way information  III. Necessary processing, legitimate 
+society services function, it is important to give effect  interests and the right to restrict
+to this interim measure. In Fashion ID, the Court was 
+clear that provisions of data protection law must 
+be interpreted as to give effect to the ‘efficient and  90  Data controllers must be able to stop processing 
+timely’ protection of the data subject’s rights.91 As a  of data that is subject to the right to restriction 
+consequence, the right to restrict processing must  in an interim period. This must be technically and 
+always be interpreted and enforced as to give effect  organisationally feasible within their systems, in 
+to its nature as an interim measure.  light of the requirements in Articles 24-25 GDPR.
+The right to restrict must therefore be prioritised in  91  In this context, we note the recent 14m EUR fine 
+time, and subject to a considerably tighter timeframe  levied by the DPA of Berlin in relation to a failure 
+than, for example, the right to object it is linked  of data protection by design. In this case, a data 
+to. Where it is feasible to automate restriction in  controller operated an archiving system that was 
+this interim period, it may be incumbent on a data  unable to erase data. Such a system was held to be in 
+controller, on the basis of data protection by design  breach of Article 25.93 Similarly, a processing system 
+and  the  risk-based  approach  throughout  data  which is unable to implement an interim period of 
+protection, to do so. restricted data processing would quite clearly also 
+fall foul of Article 25 in a similar manner.
+II. In the context of continuous  92  We believe that the clearest way to deal with this 
+processing and profiling issue is to state that all data that has the potential 
+to be restricted must be technically possible 
+to restrict, with the exception of data which the 
+87  The right to restrict processing is likely to impose  data controller can reliably continue to process 
+different  technological  and  organisational  for the reasons laid out in Article 18(2) without the 
+requirements on different data controllers. For  authorisation of the data subject, namely (i) for the 
+example, for an organisation operating a customer  establishment, exercise or defence of legal claims or 
+relations management (CRM) system, a flagged,  for the protection of the rights of another natural or 
+restricted profile can quite easily be separated from  legal person; and (ii) for reasons of important public 
+normal processing activities. interest of the Union or of a Member State.
+88  Many firms in the modern digital economy operate 
+under conditions of continual processing, and do 
+so under grounds including legitimate interests. 
+This is the situation where the right to restrict is 
+the most important, yet we are concerned that 
+data controllers are disregarding the right to 
+restriction of processing. The GDPR states:
+90  Directive (EU) 2015/1535 of the European Parliament and of 
+the Council of 9 September 2015 laying down a procedure  92  GDPR, recital 67.
+for the provision of information in the field of technical 
+regulations and of rules on Information Society services  93  Berliner  Beauftragte  für  Datenschutz  und 
+(Text with EEA relevance), art 1(1)(b). Informationsfreiheit,  ‘Berliner  Datenschutzbeauftragte 
+verhängt Bußgeld gegen Immobiliengesellschaft’ (711.412.1, 
+91  Fashion ID (n 5) [102]. 5 November 2019).
+3 301  2020Jef Ausloos, Michael Veale and René Mahieu
+A data controller providing an app processes telemetry  business perspective. This is particularly the case 
+data, such as the data subject’s behaviour inside the app,  for profiling in the digital economy, for example in 
+on the basis of legitimate interests. The data subject  the area of advertising ‘interests’. In these cases, 
+has logged into this app, and submits a request for  the right to data protection will be likely to prevail, 
+restriction, and a request for objection in relation to  particularly given the highly subjective nature of 
+the telemetry purposes. The data controller has no  profiling and predictive inference techniques.95 For 
+means to prioritise restriction in time over the objection  example, in the context of the digital economy, an 
+request, and besides, has not installed functionality in  individual may be classified as ‘male’ by a predictive 
+the app to prevent all telemetry data processed under  system: this should be open for an individual to 
+the legitimate interest ground to cease. Consequently,  rectify.
+the data controller is in breach of the GDPR.
+98  It should be recalled that the data subject retains 
+Proposed Example the right to erase the ‘original’, pre-rectified 
+data that is retained by the data controller, or 
+to object to its use, and the procedures for each of 
+G. The Right to Rectification 
+these rights act as balances for the interests at stake 
+(Article 16) in that situation.
+93  In this section, we look only at one element of the  H. Recognising Rights
+right to rectification: the right to rectify in the 
+context of inferences and opinions.
+99  Data rights can come in a variety of forms and 
+manners, and the guidance must clearly address 
+I.  Opinions and Inferences issues in practice that relate to the recognition of 
+rights.
+94  Inferences  and  opinions  are  considered  to  be 
+personal data by the CJEU.94 As with all data rights,  I.  Requiring a Specific Request 
+the right to rectification should generally apply  Form or Format Should 
+to  inferences  and  opinions  unless  justified 
+Not Be Permitted
+exceptions grounded in law exist.
+95  In some cases, the data controller may disagree 
+with the attempt to rectify data by the data subject.  100 Both the data controller and processor have an 
+This may be the case, for example, where a third  explicit obligation to facilitate the exercise of data 
+party has provided an opinion to an employer  subject rights (Articles 12(1) and 28(3)(e)). In light 
+about an individual’s inappropriate behaviour in  of this obligation, it is certainly to be encouraged 
+the workplace. In this case, balancing is clearly  that tools be developed in order to make data subject 
+justified, as Charter rights could be implicated, such  rights more accessible to data subjects (eg privacy 
+as Articles 11, 12, 15 and 21. dashboards, forms, ‘download my data’ functions, 
+etc). However, data controllers or processors 
+96  The EDPB should avoid permitting either the  cannot force data subjects to exercise their rights 
+data subject or the data controllers can act as  in one way or another as long as the requirements 
+the ‘arbiter of truth’ in contentious cases. Where  under the GDPR are complied with. Moreover, 
+the data controller has good reasons to disagree with  practice shows that when data subjects request 
+the data subject concerning a proposed rectification,  access to additional information not included in 
+the best solution is to oblige both opinions to co- ‘download my data’ functionalities (but mentioned 
+exist in the data processing system, and to oblige  in Article 15), they are often ignored.96
+the data controller in line with the accuracy 
+and fairness principles to consider both the 
+rectified and the original data in downstream 
+data processing. In this sense, rectification is an 
+addendum rather than a replacement. 
+95  See generally Solon Barocas and Andrew D Selbst, ‘Big Data’s 
+97  It should not, however, be considered a ‘good  Disparate Impact’ (2016) 104 California Law Review 671.
+reason’ simply because the inference would be 
+convenient to retain in its current form from a  96  See eg Jef Ausloos and Pierre Dewitte, ‘Shattering One-Way 
+Mirrors – Data Subject Access Rights in Practice’ (2018) 8 
+94   Nowak (n 4) [34]. International Data Privacy Law 4.
+3 302  2020Getting Data Subject Rights Right
+II. Accurately Recognising Data 
+and  allocation  of  responsibilities,99  from  the 
+Subjects’ Intent Without 
+perspective of a data subject exercising his/her 
+Legislative Wording rights it is less relevant.
+103 Article 28(3)(e) dictates that processors need to 
+101 Following on from the previous point, it is important  assist the controller in accommodating data subject 
+that data subjects cannot be expected to use the  rights, notably by adopting ‘appropriate technical 
+exact wording of the GDPR in order for their  and organisational measures, insofar as this is 
+rights to be effectively accommodated. Indeed,  possible’. This should be interpreted as allowing a 
+the Commission’s first objective when officially  data subject to invoke his/her right to erasure vis-
+announcing its plans for a data protection reform  à-vis processors as well. Whereas they are not the 
+concerns the strengthening of data subject rights.97  ones responsible to effectively accommodate 
+In light of the Court’s emphasis on ensuring an  the data subject’s rights, processors are liable 
+‘effective and complete protection’, it is therefore  to assist controllers in doing so.
+necessary that data controllers act on the apparent 
+intent of data subject requests, and cannot require  104 In sum, the plurality of actors processing personal 
+them to use the exact phrasing (or article references)  data should not hinder the effective exercise of data 
+of the GDPR. The guidance should be clear about  subject rights. Data subjects can approach processors 
+what a data controller should do upon receiving a  and/or (joint) controller(s) with their rights, even 
+request which is vague, but could be interpreted  though that entity might not be the one who is 
+as a right to restrict, object, erase, port or access. ultimately responsible to accommodate such claims 
+in casu. Even when the complexity of a processing 
+chain causes the data subject to invoke their right 
+III. Joint Controllers and  vis-à-vis the ‘wrong’ controller, the latter should still 
+Processors Must Pass on  be required to forward the request (Article 19). This 
+process can be made easier with a single point for 
+and Deal with Data Rights
+request to be made by data subjects, or forwarded to 
+by joint controllers. Notwithstanding the possibility 
+for data subjects to direct their requests to each 
+102 Article 26 of the GDPR clarifies the concept of joint  joint controller, the EDPS recommends to establish 
+controllers: ‘[w]here two or more controllers jointly  a single contact point to which data subjects may 
+determine the purposes and means of the processing  forward their requests in exercising their rights.’100 
+of personal data, they are joint controllers [...]’.98 The  The  burden  of  enabling  effective  use  of  data 
+article further requires such joint controllers to  subject rights, especially in complex networks of 
+delineate, in a transparent manner, their respective  processing, should be on the various controllers and 
+responsibilities in light of complying with the GDPR.  processors.101
+Importantly, data subjects can exercise their 
+rights (to erasure) vis-à-vis any of the joint 
+controllers, regardless of the arrangement (of 
+respective roles and responsibilities) between 
+these controllers (Article 26(2)). In other words, 
+even  though  ‘joint  controllership’  might  have 
+considerable ramifications as to GDPR compliance
+99  Brendan Van Alsenoy, ‘Allocating Responsibility among 
+Controllers,  Processors,  and  “Everything  in  between”: 
+The Definition of Actors and Roles in Directive 95/46/EC’ 
+(2012) 28 Computer Law & Security Review 25; Korff (n 
+97  European  Commission,  ‘Communication  from  the  58) 61. The latter author highlighting issues arising from 
+Commission  to  the  European  Parliament,  the  Council,  joint controllership between entities located in different 
+the European Economic and Social Committee and the  jurisdictions.
+Committee of the Regions A Comprehensive Approach 
+on Personal Data Protection in the European Union’ (4  100  European Data Protection Supervisor, ‘Guidelines on the 
+November 2010). Concepts of Controller, Processor and Joint Controllership 
+under Regulation (EU) 2018/1725’ (7 November 2019) 30–31.
+98  The concept of ‘joint controllership’ only first made an 
+appearance during the legislative process of Directive 95/46  101  Rene Mahieu and others, ‘Responsibility for Data Protection 
+(inserted by the European Parliament) Article 29 Working  in a Networked World: On the Question of the Controller, 
+Party, ‘Opinion 1/2010 on the Concepts of “Controller” and  Effective and Complete Protection and Its Application to 
+“Processor”’ (Article 29 Working Party 16 February 2010)  Data Access Rights in Europe’ (2019) 10 J Intell Prop Info 
+17–18. Tech & Elec Com L 84.
+3 303  2020Jef Ausloos, Michael Veale and René Mahieu
+II. Excessiveness Exemptions 
+A news website uses an installed third-party tracker 
+Relate to Requests’ Nature, 
+which gathers data about website visits against 
+persistent identifiers. A data subject contacts the  Not Burden or Intent
+news website to ask for access to data collected by 
+these trackers. As the website is a joint controller 
+with the organisations who maintain the code for  108 Article  12(5)  allows  data  controllers  to  refuse 
+the trackers, it is the websites responsibility to pass  to act upon a right where ‘requests from a data 
+the access request on to every tracking organisation  subject are manifestly unfounded or excessive, in 
+they have a joint controllership arrangement with. particular because of their repetitive character’. 
+Where they do this, the ‘controller shall bear the 
+Proposed Example burden of demonstrating the manifestly unfounded 
+or excessive character of the request.’
+I.  Illegitimate Refusal of Rights
+109 The A29WP have noted, in guidance endorsed by 
+the EDPB and in relation to another right (i.e. to 
+105 The principle of effective and complete protection  data portability), that for the cases of information 
+and the status of data protection as a fundamental  society services which specialise in automated data 
+right both point to a strong consideration of necessity  processing, ‘there should be very few cases where 
+where rights are being refused or restricted. In  the data controller would be able to justify a refusal 
+practice, we believe the scope of refusing rights  to deliver the requested information, even regarding 
+is narrower than many data controllers currently  multiple data portability requests.’103
+understand and practice.
+110 They  also  note  that  the  cost  of  building  the 
+infrastructure to comply with these requests is 
+I.  Prima Facie Limits of the ‘Rights 
+irrelevant to the notion of ‘excessive’ requests. 
+and Freedoms of Others’ In particular, they state that ‘the overall system 
+implementation costs should neither be charged to 
+106 The right to access a copy of personal data and the  the data subjects, nor be used to justify a refusal to 
+right to portability are both limited by paragraphs  answer portability requests.’104
+stating that the stated aspects of these rights ‘shall 
+not adversely affect the rights and freedoms of  111 An argument that a ‘manifestly unfounded or 
+others.’102 This requires some considerations of,  excessive’  request  might  be  construed  as  one 
+among other issues, the privacy and data protection  which relates to any sufficiently large or complex 
+interests of third parties (see further, section 3.4 this  processing operation sets a dangerous precedent 
+paper). that some data processing activities are ‘too big to 
+regulate’. This logic would mean to say that some 
+107 However, it should be clarified in the guidance that  processing activities are at such a global scale, and 
+this consideration is not present for other rights,  so complex, and producing and capturing so much 
+such as the right to object or restrict processing.  data about individuals, that they escape the reach 
+A different and more specific balancing arrangement  of fundamental rights such as the right to access. 
+is in place for the right to erasure. As a consequence,  This seems perverse: the more impactful and the 
+the guidance should indicate that the right to  more sizeable the activity, surely the higher 
+object or restrict processing should not be unduly  the acceptable cost of compliance on the data 
+hindered by the privacy interests of others. controller, and the more urgent and pressing the 
+need to provide data subjects with oversight and 
+control rights. 
+A ‘smart speaker’ analyses voice recordings on 
+the basis of legitimate interests to improve the  112 Where such processing implicates a high number 
+quality of speech recognition in certain languages.  of users, this would likely count as ‘large scale’ 
+A data subject who uses the device in a communal  processing posing a high risk under the GDPR, and 
+area requests the right to object to this processing  thus has little ground to be manifestly ‘unfounded’. 
+purpose. The data controller does not need to seek  According to the GDPR compliance should scale up in 
+the approval of the other members of the household,  relation to high risk processing, not down.105
+whose voices are also picked up by this speaker in an 
+indiscriminate manner, in order to process this right. 103  Article 29 Working Party, ‘Guidelines on the right to data 
+portability (WP 242)’ (n 9) 9–10.
+Proposed Example
+104  ibid 15.
+102  GDPR, arts 15(4), 20(4). 105  GDPR, art 24.
+3 304  2020Getting Data Subject Rights Right
+III. Repetitive Requests May  IV. Data Rights are Intent-Agnostic/
+Be Justified in Situations of  Motive-Blind
+Continuous Processing
+115 Access rights have commonly been used in relation 
+113 In the case of information society services in  to highly specific pieces of information, often as 
+particular,  personal  data  is  constantly  being  part of disputes that might be related to issues of 
+collected, amended, transformed and applied. As  criminal,106 employment,107 immigration,108 trust109 
+a result, any provisions which assume static, long  or defamation proceedings.110 These types of cases 
+term, unchanging datasets must, in order to preserve  can create, in the words of Advocate General Bobek, 
+the fairness principle and the technology-neutral  ‘certain intellectual unease as to the reasonable use 
+nature of the GDPR, be read in light of modern data  and function of data protection rules’.111
+processing practices.
+116 National courts have also held specifically that 
+114 As  a  result  of  this  situation  of  ‘continuous  data rights are purpose-blind. Courts in England 
+processing’, the rights of access, rectification and/ and Wales have long supported the ‘purpose-blind’ 
+or erasure may be of permanent relevance as  nature of data rights.112 The Court of Appeal of 
+well. The guidance should therefore be mindful  England and Wales held that there is no ‘no other 
+to clearly constrain the scope of Article 12(5)  purpose’ [than privacy or data protection] rule 
+GDPR, allowing controllers to refuse to act or  that requires data subjects to specify a reason for a 
+charge fees for accommodating data subject rights  subject access request or refrain, for example, using 
+when they are ‘excessive, in particular because of  it for litigation.113 Courts ‘should not enquire into or 
+their repetitive character’. When personal data,  permit investigation of the purpose for which a SAR 
+and how it is processed, constantly changes,  has been made’.114 The ICO has further stated that 
+repeatedly exercising data subject rights should  there is nothing in data protection legislation ‘that 
+not be considered excessive. Instead, it may be  limits the purposes for which a SAR may be made, or 
+upon controllers to ensure an automated and  which requires the requester to tell you what they 
+easy manner to facilitate the accommodation of  want the information for’.115
+those rights. This is also relevant for the right to 
+data portability (not within the scope of the planned  106  Kololo v Commissioner of Police for the Metropolis [2015] EWHC 
+guidance), which may actually require controllers  600 (QB). Lin & Anor v Commissioner of Police for the Metropolis 
+such as social networks to implement protocols for  [2015] EWHC 2484 (QB).
+enabling interoperability (essentially allowing for 
+a constant stream of ‘access rights’ in a machine- 107  Ittihadieh v 5-11 Cheyne Gardens RTM Company Ltd & Ors [2017] 
+readable format). EWCA Civ 121.
+108  Joined  Cases  C141/12  and  C372/12  YS  v  Minister  voor 
+A gaming platform runs a dynamic data collection  Immigratie, Integratie en Asiel and Minister voor Immigratie, 
+and scoring system which determines an individual’s  Integratie en Asiel v M and S EU:C:2014:2081.
+visibility to other players. This data is updated every 
+day, and the score is updated accordingly. A data  109  Dawson-Damer & Ors v Taylor Wessing LLP [2017] EWCA Civ 74.
+subject makes two requests within a month for this 
+changing data. The data controller is not permitted  110  Rudd v Bridle & Anor [2019] EWHC 893 (QB).
+to refuse the request on the basis that it is ‘excessive, 
+in particular because of [its] repetitive character’,  111  Case C-13/16 Valsts policijas Rīgas re iona pārvaldes Kārtības 
+because the data processing operation is of a similar  policijas  pārvalde  v  Rīgas  pašvaldības  SIA  ‘Rīgas  satiksme’ 
+ģ
+character. Instead of refusal, the data controller must  EU:C:2017:43, Opinion of AG Bobek, para 93.
+either honour the requests or justify refusal under 
+some other basis. This is proportionate as, in line with  112  See eg Durham County Council v D [2012] EWCA Civ 1654 [16]; 
+the obligation of data protection by design (Article  Guriev v Community Safety Development (UK) Ltd [2016] EWHC 
+25), the data controller should be implementing  643 (QB) [67]–[72]; Dawson-Damer & Ors v Taylor Wessing 
+technical and organisational measures to ensure  LLP [2017] EWCA Civ 74 [105]–[113]; Ittihadieh v 5-11 Cheyne 
+data rights keep pace with data processing, such as  Gardens RTM Company Ltd & Ors [2017] EWCA Civ 121 [104]–
+providing more regular access to the personal data  [110]; DB v General Medical Council (n 47) [79].
+through, for example, an API or automated data 
+download. 113  Dawson-Damer & Ors v Taylor Wessing LLP (n 112) [104]–[114].
+Proposed Example 114  Guriev v Community Safety Development (UK) Ltd (n 112) [70].
+115  Information Commissioner’s Office, ‘Subject access code of 
+3 305  2020Jef Ausloos, Michael Veale and René Mahieu
+Arden LJ, in Dawson-Damer, stated an important general 
+118 The only situations where commercial interests 
+reason why access rights should not be subject to an analysis 
+of intent noting that ‘a “no other purpose” rule would have  (alone) may effectively block data subject rights, will 
+undesirable secondary consequences, such as non-compliance  be when accommodating these rights would affect 
+by data controllers with SARs on the grounds that the data  the essence of a fundamental right in the Charter or at 
+subject had an ulterior purpose.’116 the very least not be proportionate stricto sensu.121 The 
+two most relevant fundamental rights in the present 
+The CJEU, in YS and Others, did not comment on  context are the freedom to conduct a business 
+the fact that the individual was seeking to use the  (Article 16 Charter) and the right to (intellectual) 
+documents they sought in litigation as a factor which  property (Article 17 Charter). Both of these have 
+would disqualify the access right from succeeding.117 repeatedly been declared not to be absolute rights, to 
+be considered in relation to their social function.122 
+All evidence suggests that, as a general rule, they are 
+V. Freedom to Conduct a  not self-sufficient to override individual freedoms 
+Business is Unlikely to  in the Charter,123 such as the rights to privacy 
+(Article 7), data protection (Article 8), or freedom 
+Override Data Subject Rights
+of expression (Article 11).124 Indeed, pursuant to 
+Article 52(3) – which aligns Charter provisions 
+with those in the ECHR – it would be difficult to 
+117 Data subject rights may effectively pit data subjects’  claim economic objectives alone can constrain 
+rights, freedoms and interests against the economic  fundamental rights/freedoms representing essential 
+freedoms of the data controller. The right of access  values in a democratic society.125 Only when, in light 
+may challenge trade secrecy, and the rights to object 
+and erasure may conflict with various economic  Technology and Privacy: The New Landscape (MIT Press, 1997) 
+and property interests. From a data protection  219–241; Spiros Simitis, ‘From the market to the polis: The 
+perspective, the ensuing balancing act shifts in favour  EU Directive on the protection of personal data’ 80 Iowa Law 
+of the data subject by default upon invoking said  Review (1995) 445–469.
+right.118 As emphasised repeatedly by the Court,119 at 
+least in delisting cases the economic interests of the  121  Ausloos (n 70) ch 6.
+search engine operator are trumped by the rights, 
+freedoms and interests of data subjects by default.  122  See for example, the following cases, and the case-law cited: 
+This also appears from the general drafting of the  Case C-554/10 Deutsches Weintor eG v Land Rheinland-Pfalz 
+GDPR, which took a rigorous ‘fundamental human  EU:C:2012:526 [54]; Case C-101/12 Herbert Schaible v Land 
+rights’ approach, implying that ‘data protection  Baden-Württemberg EU:C:2013:661 [28]; Case C-283/11 Sky 
+automatically trumped other interests and could  Österreich GmbH v Österreichischer Rundfunk EU:C:2013:28 
+not be traded-off for economic benefits.’120 [45].
+practice’ (n 48) 55. 123  See similarly: Peter Oliver, ‘The Protection of Privacy in 
+the Economic Sphere before the European Court of Justice’ 
+116  Dawson-Damer & Ors v Taylor Wessing LLP (n 112) [108]. (2009) 46 Common Market Law Review 1443, 1481.
+117  See generally Joined Cases C141/12 and C372/12 YS v Minister  124  Serge Gutwirth, ‘De Toepassing van Het Finaliteitsbeginsel 
+voor Immigratie, Integratie en Asiel and Minister voor Immigratie,  van de Privacywet van 8 December 1992 Tot Bescherming 
+Integratie en Asiel v M and S EU:C:2014:208. van  de  Persoonlijke  Levenssfeer  Ten  Opzichte  van  de 
+Verwerking van Persoonsgegevens’ [The Application of 
+118  After all, it is a direct expression of their informational  the Purpose Specification Principle in the Belgian Data 
+autonomy,  implicating  the  fundamental  right  to  data  Protection Act of 8 December 1992]’ (1993) 1993 Tijdschrift 
+protection in Article 8 Charter. voor Privaatrecht 1409, 1431.1431.”,”plainCitation”:”Serge 
+Gutwirth, ‘De Toepassing van Het Finaliteitsbeginsel van de 
+119  Google Spain (n 3); Case C507/17 Google LLC v Commission  Privacywet van 8 December 1992 Tot Bescherming van de 
+nationale de l’informatique et des libertés (CNIL) EU:C:2019:772. Persoonlijke Levenssfeer Ten Opzichte van de Verwerking 
+van Persoonsgegevens’ [The Application of the Purpose 
+120  Federico  Ferretti,  ‘Data  Protection  and  the  Legitimate  Specification Principle in the Belgian Data Protection Act of 
+Interest of Data Controllers: Much Ado about Nothing or  8 December 1992]’ (1993 Some call the rights in Article 16–17 
+the Winter of Rights?’ (2014) 51 CML Rev 843, 852. This work  of the Charter ‘peripheral rights’ that are always overridden 
+refers to Joined Cases C-465/00, C-138/01 and C-139/01  by data protection rights. See eg Hielke Hijmans, ‘The 
+Rechnungshof  v  Österreichischer  Rundfunk  and  Others  European Union as a Constitutional Guardian of Internet 
+EU:C:2003:294. See also Dorothee Heisenberg, Negotiating  Privacy and Data Protection’ (PhD Thesis, University of 
+Privacy (Lynne Rienner, 2005) chapters 1–3; Viktor Mayer- Amsterdam 2016) 196, 216–17, 258.
+Schonberger, ‘Generational development of data protection 
+in  Europe’,  in  Philip  Agre  and  Marc  Rotenberg  (eds),  125  Paul P Craig and Gráinne De Búrca, EU law: text, cases, 
+3 306  2020Getting Data Subject Rights Right
+of Article 52(1), a specific legal provision ordains  in other cases, they do not exist. As a result, this can 
+processing for commercial purposes and/or raises  only be interpreted as a contextual provision which 
+obstacles to invoke certain data subject rights, does  requires consideration of the ability for these rights 
+it seem realistic that a controller can legitimately  to be exercised in a data subject’s specific situation.
+not accommodate data subject rights purely on the 
+basis of commercial interests.126  121 While the data controller should be flagging these 
+rights to facilitate the data subject’s awareness and 
+119 In relation to this, attention should be given to a  use of them — a common EU law trope found in areas 
+decision by the Supreme Court of the Netherlands,  such as airline and rail delay rights129 — this is not 
+which did not accept exemptions based on a claim by  the only role of this provision. Given that the data 
+a company that received requests based on alleged  subject often (although not always) has a choice 
+harm to their freedoms or rights. In Dexia127 it did  as to whether to engage with a data controller, 
+not accept three instances of this argument. First  such as putting themselves to actively consent to 
+the high cost associated with responding to a single  processing or contract with the controller, or to 
+access is not (in itself) a reason to exempt access.  move within a zone where processing on the basis 
+Second, the fact that an organisation may receive  of, for example, legitimate interests is likely to occur, 
+a high number of requests is not accepted as a  the purpose of the GDPR’s information rights is to 
+reason to restrict access. Third, the fact that data  provide information to help the data subject decide 
+subjects have been incited to use their rights by a  whether they wish to enable such data processing. 
+consumer protection programme and have made use  A core piece of that information is whether that 
+of a request template provided by that programme  specific processing can be objected to, erased, 
+cannot be invoked. ported or accessed.130
+122 The data controller should have pre-empted how to 
+VI. Rights a Controller Expects  deal with rights in relation to all data they process, 
+to Refuse Must be Flagged  and the principles of fairness and transparency 
+require that this information be provided ahead, 
+as per Arts 13/14/25
+read in line with the specific requirements of Article 
+13-14 not subsequent to processing. Furthermore, 
+as there will be times where individuals have not 
+120 An important, but underappreciated, aspect of the  been informed of their rights under either Article 
+GDPR is found in the parts of Articles 13–15 which  13 or 14,131 the data controller should be prepared to 
+require data controllers to declare the existence of  reveal this information upon request under Article 
+certain GDPR rights.128 These parts have usually been  15.132
+interpreted as copy-pasting the GDPR into, say, a 
+privacy policy. It is quite clear however, that in some 
+cases, in respect to some data, these rights exist, and 
+and materials (Oxford Univ Press 2011) n 221. Gutwirth (n 
+124) 1430–31; Orla Lynskey, ‘Regulating “Platform Power”’ 
+(Working Paper, LSE Legal Studies Working Paper, LSE 21 
+February 2017) 25–26; Hijmans (n 124) 258. The last author 
+refers to Craig and De Búrca who explain that permitting 
+economic objectives to limit the scope of fundamental  129  Regulation (EC) No 261/2004 of the European Parliament 
+rights, would go against ECHR jurisprudence. See: Paul  and of the Council of 11 February 2004 establishing common 
+P Craig and Gráinne De Búrca, EU law: text, cases, and  rules on compensation and assistance to passengers in the 
+materials (Oxford Univ Press 2011) n 221. event of denied boarding and of cancellation or long delay 
+of flights, and repealing Regulation (EEC) No 295/91 (Text 
+126  This can be the case, for example, when the controller can  with EEA relevance) OJ L 46/1, art 14; Regulation (EC) No 
+invoke a legal obligation to process the personal data as a  1371/2007 of the European Parliament and of the Council of 
+lawful ground (GDPR, art 6(1)(c)) and/or as an exemption  23 October 2007 on rail passengers’ rights and obligations OJ 
+to the right to erasure (GDPR, art 17(3)(b)). Regardless,  L 315/14, art 29.
+further processing in this context will be constrained to 
+what the legal obligation requires only (again reiterating  130  See generally Veale and others (n 68) 118.
+the importance of the need for a granular approach).
+131  Such as in the situations envisaged in GDPR, art 14(5)(b) 
+127  Hoge Raad (29 June 2007) NL:HR:2007:AZ4663; Hoge Raad (29  (‘the provision of such information proves impossible or 
+June 2007) NL:HR:2007:AZ4664. would involve a disproportionate effort’).
+128  GDPR arts 13(2)(b), 14(2)(c), 15(1)(e). 132  GDPR, art 15(1)(e).
+3 307  2020Jef Ausloos, Michael Veale and René Mahieu
+A data controller in response to an Article 15  doing so would be in breach of the security principle, 
+request informs the data subject, by data category  and therefore not something they are willing to 
+and processing purpose, where the right to request  countenance.136 
+rectification, erasure, restriction or objection exists. 
+Where no possibility for a request exists — such as  126 In cases where, by design or not, verification is 
+the lack of right to object to data necessary for a  imperfect, data controllers must take a realistic 
+contract, such as credit card data processed for the  risk-based approach to release, which does not 
+purposes of fulfilling a future payment, the data  disempower data subjects. In many cases, the 
+controller makes this clear in their response. impact of accidental release of data to someone 
+other than the data subject, particularly where the 
+Proposed Example data subjects are inherently difficult to identify, will be 
+low, and possible to monitor on an aggregate level. 
+J.  Verifying Data Subjects
+II. Rights-Dependent 
+123 Verification of data subjects is an important part of  Verification Burden
+exercising data rights, however academic research 
+and the authors’ experience show that verification  127 Different rights have different levels of consequence 
+approaches taken by many data controllers today  for data subjects if they are applied by mistake or 
+are not compliant with the principles of the GDPR.133 fraudulently. For example, the rights of access and 
+portability can lead to sensitive data disclosure, and 
+it is important that verification is an effective and 
+I.  Authentication should not 
+secure process.137
+be an unnecessary obstacle 
+128 Other  rights,  such  as  erasure,  restriction  and 
+to data subject rights
+objection are more contextual in nature. Misapplied 
+erasure might, for certain kinds of data, result in an 
+124 Many controllers engage in singling-out of the  inability for the genuine data subject to establish or 
+data subject for the purpose of service delivery or  substantiate legal claims, or affect the availability 
+analysis but have not built a system with which to  of services, or cause the loss of important personal 
+identify data subjects for the purposes of exercising  data. Yet for many kinds of data which already have 
+their rights. In some cases, they simply refuse to  limited storage retention, erasure will merely hasten 
+build a system that can be accessed by the user,  deletion which should have occurred anyway. For 
+despitehaving access to the specific user and device  example, the impact on an individual’s rights and 
+from their server.134 Examples of this are documented  freedoms of the incorrect erasure of web-tracking 
+by two of the authors in a recent academic paper.135 data, or app telemetry data, is significantly lower 
+than the impact of accidental disclosure of this data.
+125 In other cases, such as in the case of wireless 
+analytics or targeting advertising, data controllers  129 The lack of negative consequences for the data 
+have established a system where their business  subject is perhaps most stark where the data is being 
+model can operate with imprecise targeting or  processed on the basis of legitimate interests of the 
+singling out of individuals (which nonetheless is  data controller, as the individual did not explicitly 
+highly individualised over time). The impact of this  request this processing be carried out, and therefore 
+imprecise, but personalised targeting is that the  in many cases their interest in the processing will 
+data controller can claim that providing data rights  be minimal.
+would be imprecise too, but the consequences of 
+130 Where the right to object is being applied, as the 
+133  Coline Boniface and others, ‘Security Analysis of Subject  data are still being stored but simply not processed 
+Access  Request  Procedures  How  to  Authenticate  Data  for  the  objected-to  purposes,  the  process  is 
+Subjects Safely When They Request for Their Data’ [2019]  generally reversible in the case that verification 
+Annual Privacy Forum, Jun 2019, Rome, Italy. was incorrect. As a result, the right to object or 
+to restrict processing should, in general, require 
+134  See eg Veale and others (n 68); Chris Norval and others,  a lower burden of verification than access and 
+‘RECLAIMING Data: Overcoming App Identification Barriers  erasure. The Guidance should also lay out the 
+for Exercising Data Protection Rights’ in Proceedings of the 
+2018 ACM International Joint Conference and 2018 International  136  See eg the example of Transport for London in ibid.
+Symposium on Pervasive and Ubiquitous Computing and Wearable 
+Computers (UbiComp ’18, New York, NY, USA, ACM 2018). 137  See generally Andrew Cormack, ‘Is the Subject Access Right 
+Now Too Great a Threat to Privacy?’ (2016) 2 European Data 
+135  See Veale and others (n 68). Protection Law Review 15.
+3 308  2020Getting Data Subject Rights Right
+K. Concluding Remarks
+circumstances in which the right to erasure 
+should require less of a burden of verification 
+than the right of access. In particular, the  133 In this document we have laid out our understanding 
+controller  should  need  to  demonstrate,  in  – considering case-law, the provisions and the 
+accordance with the principles of accountability  regulatory guidance thus provided – of the extent 
+and fairness, compelling reasons as to why they  of data rights and the context in which they must 
+are requesting detailed verification from a data  operate. There are strongly held views on the 
+subject for the right to object. matter, not least from industry, but these must be 
+very carefully considered in light of the fundamental 
+rights framework underpinning data protection. The 
+III. Verifiability, Fairness and 
+system of data rights is both intrinsically important 
+Data Protection by Design and key as an enabler of the entire data protection 
+regime. They are going to be more important than 
+131 The GDPR’s risk-based approach, and its by-design  ever in the years to come in mitigating the power 
+approach, are not currently widely recognised and  asymmetries that have emerged, and in many cases 
+followed in relation to verification systems for data  appear to be worsening, between individuals and 
+rights. The method used for authentication should  their representations in data. The Guidance therefore 
+be proportionate to avoid abusive identity checks.138  should ensure data rights are the strong tools the 
+For  example,  controllers  such  as  information  text and case-law intend them to be, in order to 
+society services, which due to users explicitly  uphold fundamental rights in the information age.
+requesting the service often have login credentials 
+or an existing verification system, should not, in 
+general, require a higher level of verification. If 
+controllers request a higher level of verification  CCoooorrddiinnaattiinngg  AAccaaddeemmiiccss::
+than required to access the service, they must 
+Jef Ausloos, Postdoctoral Researcher
+justify this in relation to the accountability 
+and fairness principles, and minimise both the  Institute for Information Law, University of Amsterdam
+burden on the user (in line with ‘efficient and 
+timely protection’) and personal data processed  René Mahieu, PhD Candidate
+(in line with data minimisation) in the process. Law, Science, Technology & Society (LSTS), Vrije Universiteit 
+Brussel
+132 Furthermore, data controllers often ask for a 
+government issued identification document in  Michael Veale, Lecturer in Digital Rights & Regulation
+situations where it is clearly disproportionate.  Faculty of Laws, University College London and the Alan Turing 
+In many cases, for example when an individual is  Institute
+seeking data connected to an identifier (eg a cookie 
+ID) and the controller has no knowledge of the 
+real identity of the data subject, it is unclear what 
+purpose the government ID serves. Moreover, asking 
+for a government ID entails unnecessary risk as 
+data controllers may not have secure systems set 
+up to receive such data, and often in the authors’ 
+experience request it through email. Furthermore, in 
+many cases, a data subject will be requesting data on 
+the basis that they do not trust the data controller, 
+and wish to consider their options in terms of eg 
+objection, erasure or the withdrawal of consent. 
+In these cases, the need to provide sensitive data 
+to the data controller may be unfairly dissuading 
+data subjects from exercising their rights. Some 
+recommendations of national DPAs recommend 
+controllers  to  request  a  government  ID.  The 
+Guidance should make clear that a government-
+issued ID should only be required when this is 
+proportionate. This would also provide reassurance 
+to data controllers who may feel obliged to ask for 
+such information.
+138  Boniface and others (n 133).
+3 309  2020

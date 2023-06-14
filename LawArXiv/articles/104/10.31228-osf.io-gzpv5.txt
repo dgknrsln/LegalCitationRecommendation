@@ -1,0 +1,531 @@
+ 
+ 
+ 
+ 
+Public Law and Legal Theory Research Paper Series 
+Research Paper No. #16-18 
+ 
+ 
+ 
+Laird v. Tatum and Article III Standing in 
+Surveillance Cases 
+ 
+ 
+ 
+Jeffrey L. Vagle  
+UNIVERSITY OF PENNSYLVANIA 
+ 
+ 
+ 
+ 
+ 
+ 
+This paper can be downloaded without charge from the Social Science Research Network 
+Electronic Paper collection:  http://ssrn.com/abstract=2791261.    
+LAIRD V. TATUM AND ARTICLE III STANDING IN 
+SURVEILLANCE CASES 
+Jeffrey L. Vagle∗ 
+TABLE OF CONTENTS 
+INTRODUCTION ........................................................................... 1055 
+I.  ARMY SURVEILLANCE OF DOMESTIC POLITICS ........................ 1056 
+II.  LAIRD V. TATUM AND THE QUESTION OF STANDING ............. 1058 
+III.  JUSTICE REHNQUIST AND RECUSAL ...................................... 1062 
+IV.  LAIRD’S LEGACY .................................................................... 1063 
+INTRODUCTION 
+Plaintiffs seeking to challenge government surveillance programs 
+have faced long odds in federal courts, due mainly to a line of Su-
+preme Court cases that have set a very high bar to Article III standing 
+in these cases.1  The origins of this jurisprudence can be directly 
+ 
+ ∗   University of Pennsylvania Law School.  Thanks to Ryan Calo, Danielle Citron, Woody 
+Hartzog, Orin Kerr, Seth Kreimer, Brett Max Kaufman, Rita Siemon, and Ben Wizner for 
+their comments on earlier drafts. 
+ 1  The “case or controversy” requirement of Article III standing doctrine has developed to 
+require that plaintiffs demonstrate “injury in fact” that is “certainly impending,” a difficult 
+task for those seeking to challenge government programs whose secrecy often prohibits 
+access to supporting evidence.  See, e.g., Alan Butler, Standing Up to Clapper:  How to In-
+crease Transparency and Oversight of FISA Surveillance, 48 NEW ENGL. L. REV. 55, 69–70 
+(2013); Donald L. Doernberg, “We the People”:  John Locke, Collective Constitutional Rights, 
+and Standing to Challenge Government Action, 73 CAL. L. REV. 52, 53 (1985); Heather Elliott, 
+The Functions of Standing, 61 STAN. L. REV. 459, 461 (2008); William A. Fletcher, The Struc-
+ture of Standing, 98 YALE L.J. 221, 222 (1988); Gene R. Nichol Jr., Rethinking Standing, 72 
+CAL. L. REV. 68, 102 (1984); Cass R. Sunstein, What’s Standing after Lujan?  Of Citizen Suits, 
+“Injuries,” and Article III, 91 MICH. L. REV. 163, 168 (1992); Stephen I. Vladeck, Standing 
+and Secret Surveillance, 10 J.L. & POL’Y FOR INFO SOC’Y 551, 552 (2014). 
+      While it is beyond the scope of this Essay, it is worth noting here that standing doc-
+trine has long been a favorite topic of argument within law review articles.  For a list, see 
+Nichol, supra, at 68 n.3.  Black letter standing doctrine—to the extent there is such a 
+thing—begins with the basic rule that a plaintiff may only have standing before a federal 
+court if she has satisfied the “case or controversy” requirement of Article III, by showing 
+ 
+1055 
+ Electronic copy available at: http://ssrn.com/abstract=2791261 1056  JOURNAL OF CONSTITUTIONAL LAW  [Vol. 18:3 
+traced to Laird v. Tatum, a 1972 case where the Supreme Court con-
+sidered the question of who could sue the government over a surveil-
+lance program, holding in a 5-4 decision that chilling effects arising 
+“merely from the individual’s knowledge” of likely government sur-
+veillance did not constitute adequate injury to meet Article III stand-
+ing requirements.2  Federal courts have since relied—and built—
+upon Laird to deny standing to plaintiffs in surveillance cases, includ-
+ing the 2013 Supreme Court decision in Clapper v. Amnesty Interna-
+tional USA.3  But the facts behind Laird illuminate a number of im-
+portant  reasons  why  it  is  a  weak  basis  for  surveillance  standing 
+doctrine.  It is therefore a worthwhile endeavor, I think, to reexamine 
+Laird in a post-Snowden context in order to gain a deeper under-
+standing of the Court’s standing doctrine in surveillance cases. 
+I.  ARMY SURVEILLANCE OF DOMESTIC POLITICS 
+The facts behind Laird originated with a January 1970 article in 
+The Washington Monthly, titled CONUS Intelligence:  The Army Watches 
+Civilian Politics.4  The article was written by Christopher Pyle, a lawyer 
+and  former  Army  military  intelligence  officer,  who  revealed  that 
+ 
+that she has suffered an “injury in fact,” that her injury has been caused by the conduct 
+found in the complaint, and that her injury is redressable by the court.  See, e.g., Massa-
+chusetts v. EPA, 549 U.S. 497, 516 (2007) (“Congress has the power to define injuries and 
+articulate chains of causation that will give rise to a case or controversy. . . . In exercising 
+this power, however, Congress must at the very least identify the injury it seeks to vindi-
+cate and relate the injury to the class of persons entitled to bring suit.” (citations omitted) 
+(internal quotation marks omitted)); Lujan v. Defenders of Wildlife, 504 U.S. 555, 581 
+(1992) (“[T]he party bringing suit must show that the action injures him in a concrete 
+and personal way. . . . [This requirement] preserves the vitality of the adversarial process 
+by assuring both that the parties before the court have an actual . . . stake in the outcome, 
+and that ‘the legal questions . . . presented will be resolved. . . .’”); Valley Forge Christian 
+Coll. v. Ams. United for Separation of Church and State, Inc., 454 U.S. 464, 472 (1982) 
+(noting the difference between actual injury redressable by the court, which tends to be a 
+legal question presented to the court, and standing, which “assures an actual factual set-
+ting in which the litigant asserts a claim of injury in fact”). 
+ 2  Laird v. Tatum, 408 U.S. 1, 11 (1972). 
+ 3  See Clapper v. Amnesty Int’l USA, 133 S. Ct. 1138, 1143 (2013) (denying standing on the 
+theory that injuries due to surveillance were “too speculative”); Hein v. Freedom From 
+Religion Found., Inc., 551 U.S. 587, 593 (2007) (denying standing in a taxpayer lawsuit); 
+Schlesinger v. Reservists Comm. to Stop the War, 418 U.S. 208, 220 (1974) (denying 
+standing where the lawsuit was based on complaints held in common with all members of 
+public).  But see United States v. United States Dist. Court for E. Dist. of Mich., 407 U.S. 
+297, 299, 323–34, 326 (1972) (Douglas, J., concurring) (acknowledging Laird yet concur-
+ring that judicial approval was required prior to the initiation of government domestic 
+searches or surveillance, in accordance with applicable U.S. law). 
+ 4  Christopher H.  Pyle, CONUS Intelligence:    The  Army  Watches Civilian Politics,  WASH. 
+MONTHLY, Jan. 1970. 
+ 
+ Electronic copy available at: http://ssrn.com/abstract=2791261 Feb. 2016]  LAIRD V. TATUM AND ARTICLE III STANDING  1057 
+“[t]he U.S. Army has been closely watching civilian political activity 
+within the United States.  Nearly 1,000 plainclothes [Army] investiga-
+tors . . . keep track of political protests of all kinds—from Klan rallies 
+in North Carolina to anti-war speeches at Harvard.”5  Further, Pyle 
+claimed that the Army kept “files on the membership, ideology, pro-
+grams, and practices of virtually every activist political group in the 
+country.”6  Army officials initially denied Pyle’s claims, but Congress, 
+the press, and the public were becoming increasingly unimpressed 
+with the integrity of military leadership at that time, especially after 
+the November 1969 revelations of the My Lai Massacre and the sub-
+sequent attempted cover-up by U.S. officials.7  The article sparked in-
+quiries from dozens of senators and congressmen, and the Army’s 
+general counsel responded by asserting that he had ordered the Ar-
+my Intelligence Command at Fort Holabird, Maryland to destroy its 
+civilian surveillance databases.8  He failed to mention, however, that 
+the Army continued to maintain volumes of “Counterintelligence” in-
+formation on paper, microfilm, and regional databanks on “Organi-
+zations of Interest and Individuals of Interest,” which included details 
+on thousands of organizations and individuals, from the John Birch 
+Society, to the Urban League, to Martin Luther King, Jr.9 
+It is no surprise that these revelations elicited a strong response 
+from Americans.  Since the founding, U.S. citizens have been ambiva-
+lent when it comes to a standing military, with the Third Amendment 
+being  a  tangible  recognition  of  this  philosophy.10    The  nation’s 
+ 
+ 5  Id. 
+ 6  Id.; see also SUBCOMM. ON CONSTITUTIONAL RIGHTS, MILITARY SURVEILLANCE OF CIVILIAN 
+POLITICS, S. REP. NO. 87-312, at 4–5 (1973) (discussing the history of military surveil-
+lance). 
+ 7  By the end of the 1960s, the U.S. government was losing what little support they once had 
+among the American people for the interminable war in Vietnam.  This growing anti-
+military and anti-government sentiment exploded when the news of the My Lai Massa-
+cre—and the Army’s initial attempts to cover it up—became publicly known.  See generally 
+JOSEPH GOLDSTEIN ET AL., THE MY LAI MASSACRE AND ITS COVER-UP:  BEYOND THE REACH 
+OF LAW? 29 (1976) (discussing the May Lai Massacre and the Army’s attempt to cover it 
+up); WILLIAM R. PEERS, THE MY LAI INQUIRY 3, 5, 9 (1979) (same). 
+ 8  At the time of Pyle’s article, Congress was beginning to take an early interest in the issue 
+of government computer databases, with inquiries into security clearances for scientific 
+personnel as well as the growing number of Secret Service databases.  Pyle’s article gave 
+Senator Sam Ervin, then chairman of the Senate Constitutional Rights Subcommittee, the 
+fodder to move forward with hearings.  Christopher H. Pyle, CONUS Revisited:  The Army 
+Covers Up, THE WASH. MONTHLY, July 1970, at 49–58. 
+ 9  Id.; see also SUBCOMM. ON CONSTITUTIONAL RIGHTS, MILITARY SURVEILLANCE OF CIVILIAN 
+POLITICS, S. REP. NO. 87-312, at 4–5 (1973); Clay Risen, Spies Among Us, 78 AM. SCHOLAR 
+49, 49–51, 60 (2008).  
+ 10  See JOAN M. JENSEN, ARMY SURVEILLANCE IN AMERICA, 1775–1980, at 72–75 (1991) (“The 
+ambivalence of the War Department about its first officer spy hero before World War I re-
+ 
+ 1058  JOURNAL OF CONSTITUTIONAL LAW  [Vol. 18:3 
+Founders were not naïve, however, and allowed for the provision, 
+under Article I, Section 8 of the Constitution, of statutory procedures 
+for the use of the military to restore public order.11  These proce-
+dures, however, were constrained to three possible uses:  (1) the Pres-
+ident may use federal forces upon a request by a state legislature to 
+restore civil order, (2) the President may deploy federal forces to 
+combat a rebellion against the federal government, and (3) the Pres-
+ident may use federal forces if a state denies constitutional rights to a 
+part of that state’s population.12  There is no such provision for the 
+use of federal troops to surveil U.S. citizens prior to any legal com-
+mitment by the President.  Congress further strengthened this sepa-
+ration when it passed the Posse Comitatus Act of 1878, which forbade 
+the use of military forces in law enforcement, except when expressly 
+authorized by Congress.13  It should be noted, however, that, begin-
+ning with the Reagan Administration, the increasing use of federal 
+military forces in the war on drugs has weakened this barrier.14 
+II.  LAIRD V. TATUM AND THE QUESTION OF STANDING 
+North Carolina Senator Samuel Ervin, Jr., chairman of the Sub-
+committee on Constitutional Rights of the Senate Committee on the 
+Judiciary,  held  extensive  inquiries  regarding  Pyle’s  allegations  in 
+1971, placing a large body of testimony and documentation regard-
+ing Army surveillance into the public record.15  A number of organi-
+ 
+flected the ambivalence of the American government and people.”); William S. Fields & 
+David T. Hardy, The Third Amendment and the Issue of the Maintenance of Standing Armies:  A 
+Legal History, 35 AM. J. LEGAL HIST. 393, 431 (1991). 
+ 11  See Robert Reinders, Militia and Public Order in Nineteenth-Century America, 11 J. AM. 
+STUDIES 81, 83 (1977) (stating that Article I, Section 8, paragraphs 15–16 reflected a 
+compromise among the Framers which allows for a national role in public security). 
+ 12  Id. at 83–84. 
+ 13  Sean J. Kealy, Reexamining the Posse Comitatus Act:  Toward a Right to Civil Law Enforcement, 
+21 YALE L. & POL’Y REV. 383, 384 (2003). 
+ 14  Enacted in 1981, the Military Cooperation with Law Enforcement Officials Act encour-
+aged military agencies to supply intelligence, equipment, and training to civilian police 
+departments.  Pub. L. No. 97–86 § 905, 95 Stat. 1115 (codified as amended at 10 U.S.C. 
+§§ 371–82 (2012)).  In the 1980s and 1990s, Congress continued to expand the military’s 
+ability to work directly with civilian law enforcement, through such legislation as the Na-
+tional Defense Authorization Act, which authorized and funded direct National Guard 
+participation in drug operations.  See EVAN MUNSING & CHRISTOPHER J. LAMB, JOINT 
+INTERAGENCY TASK FORCE—SOUTH:  THE BEST KNOWN, LEAST UNDERSTOOD INTERAGENCY 
+SUCCESS 10–11, INSTITUTE FOR NATIONAL STRATEGIC STUDIES (2011); Kealy, supra note 
+13, at 383. 
+ 15  Federal Data Banks, Computers and the Bill of Rights:  Hearings Before the Subcomm. on 
+Constitional Rights of the S. Comm. on the Judiciary, 92nd Cong. 1 (1971) [hereinafter Federal 
+ 
+ Feb. 2016]  LAIRD V. TATUM AND ARTICLE III STANDING  1059 
+zations and people mentioned as surveillance targets in the Army 
+documents initiated a suit challenging the constitutionality of these 
+Army surveillance programs in February 1970.16  The plaintiffs, in-
+cluding Arlo Tatum, then Executive Secretary of the General Com-
+mittee for Conscientious Objectors, sought injunctive and declaratory 
+relief  from  Secretary  of  Defense  Melvin  Laird  and  several  high-
+ranking Army officials.17  The defendants immediately filed motions 
+to dismiss with the district court, refusing to discuss the specific Army 
+intelligence  activities,  but  assured  the  court  of  their  legality,  and 
+claimed that the Laird plaintiffs had failed to state claims upon which 
+relief could be granted.18 
+In their complaint, the Laird plaintiffs did not assert that the Army 
+had made any attempts to directly control protest or speech.  Instead, 
+they argued that the Army’s domestic surveillance programs created 
+with them an inhibiting force on First Amendment liberties.19  In-
+deed, in his concurring opinion in Lamont v. Postmaster General, Jus-
+tice William Brennan stated that the “inhibition as well as prohibition 
+against the exercise of precious First Amendment rights is a power 
+denied to government.”20  This was exactly what the Laird plaintiffs 
+sought to challenge:  a nationwide domestic surveillance program, 
+conducted by the Army, creates a “dragnet which may enmesh any-
+one.”21 
+District of Columbia District Court Judge George Hart, Jr. heard 
+oral argument on the motions in April 1970.22  The plaintiffs had 
+brought with them a number of former Army military intelligence 
+agents who were prepared to testify on their behalf on the nature and 
+scope of the Army’s civilian surveillance programs.23  Judge Hart, 
+however, refused to allow the plaintiffs to present any witnesses, and 
+concluded on the papers that the surveillance activity in question was 
+ 
+Data Banks Hearings]; see also Lawrence M. Baskir, Reflections on the Senate Investigation of 
+Army Surveillance, 49 IND. L.J. 618, 618–21 (1974) (discussing Senator Ervin’s inquiries). 
+ 16  Military Surveillance:  Hearings Before the Subcomm. on Consitutional Rights of the S. Comm. on 
+the Judicary, 93rd Cong. 1, 79–82 (1974) [hereinafter Military Surveillance Hearings] (state-
+ment of John H.F. Shattuck, National Staff Counsel, American Civil Liberties Union). 
+ 17  Tatum v. Laird, 444 F.2d 947, 948–49 (D.C. Cir. 1971), rev’d, 408 U.S. 1 (1972); Military 
+Surveillance Hearings, supra note 16, at 79–82; Pyle, supra note 8, at 49, 54–55. 
+ 18  Laird, 444 F.2d at 948–49. 
+ 19  See Ralph Michael Stein, Laird v. Tatum:  The Supreme Court and a First Amendment Challenge 
+to Military Surveillance of Lawful Civilian Political Activity, 1 HOFSTRA L. REV. 244, 246 
+(1973). 
+ 20  Lamont v. Postmaster General, 381 U.S. 301, 309 (1965). 
+ 21  Herndon v. Lowry, 301 U.S. 242, 263 (1937). 
+ 22  See Stein, supra note 19, at 247. 
+ 23  Id. 
+ 1060  JOURNAL OF CONSTITUTIONAL LAW  [Vol. 18:3 
+no more intrusive than collecting clippings of news media reports, 
+which was constitutional.24  Judge Hart granted the Army’s motion to 
+dismiss, finding that the plaintiffs had not alleged any unconstitu-
+tional conduct on the part of defendants.25 
+The Laird plaintiffs appealed this ruling, and the D.C. Court of 
+Appeals remanded the case back to the District Court for an eviden-
+tiary hearing, finding that “[b]ecause the evil alleged in the Army in-
+telligence system is that of overbreadth . . . and because there is no 
+indication that a better opportunity will later arise to test the consti-
+tutionality of the Army’s action, the issue can be considered justicia-
+ble at this time.”26  The court further stated that “[t]he compilation of 
+data by a civilian investigation agency is thus not the threat to civil 
+liberties or the deterrent on the exercise of the constitutional right of 
+free speech that such action by the military is,” and ordered the Dis-
+trict Court to re-hear the case.27 
+The defendants appealed the order of the Court of Appeals to the 
+Supreme Court, which granted certiorari on the issues of justiciability 
+and standing.28  The plaintiffs asked the Court to affirm the Court of 
+Appeals order for an evidentiary hearing, arguing that the record as 
+it existed was not sufficient for a determination of the constitutional 
+issues before the District Court.  In addition to the parties’ briefs, a 
+group of twenty-nine former military intelligence officers and agents 
+filed an amicus brief with the Court.29  In their brief, the amici in-
+formed the Court that the Army’s domestic surveillance programs 
+went far beyond mere newspaper article clippings, and included such 
+activities as widespread agent infiltration into civilian groups, agents 
+posing as journalists with falsified identification, and assigning agents 
+to stake out Martin Luther King, Jr.’s gravesite and keep records of 
+visitors.30 
+In June 1972, Chief Justice Warren Burger issued the majority (5-
+4) opinion of the Court, reversing the Court of Appeals order, and 
+thus affirming the District Court’s dismissal of the plaintiffs’ action.31  
+The Court agreed with the defendants’ claim that their surveillance 
+programs were put into place in the anticipation of civil disorder, 
+ 
+ 24  Id. at 247–48. 
+ 25  Laird, 444 F.2d at 948–49, 962–63; Stein, supra note 19, at 248. 
+ 26  Laird, 444 F.2d at 955–56. 
+ 27  Id. at 957. 
+ 28  Laird v. Tatum, 408 U.S. 1, 3 (1972). 
+ 29  See Stein, supra note 19, at 250 (discussing the amicus brief). 
+ 30  Id. at 250–51. 
+ 31  Laird, 408 U.S. at 2–3. 
+ Feb. 2016]  LAIRD V. TATUM AND ARTICLE III STANDING  1061 
+with no actual or threatened injury by these programs.  More relevant 
+to this Essay, however, the Court held that the plaintiffs did not have 
+standing to sue, stating that 
+[The plaintiffs’] approach would have the federal courts as virtually con-
+tinuing monitors of the wisdom and soundness of Executive action; such 
+a role is appropriate for the Congress acting through its committees and 
+the ‘power of the purse’; it is not the role for the judiciary, absent actual 
+present or immediately threatened injury resulting from unlawful gov-
+ernmental action.32 
+This opinion was a dramatic departure from First Amendment 
+precedent, where courts had created a standard of justiciability in 
+First Amendment cases that was less restrictive than in cases where 
+constitutional rights were not at stake.  For example, in Reed Enterpris-
+es v. Corcoran, the court held that “[w]here the plaintiff complains of 
+chills and threats in the protected First Amendment area, a court is 
+more disposed to find that he is presenting a real and not an abstract 
+controversy.”33  In Dombrowski v. Pfister, the Supreme Court held that 
+First Amendment rights were “of transcendent value to all society, 
+and  not  merely  to  those  exercising  their  rights,”  noting  that 
+“[b]ecause of the sensitive nature of constitutionally protected ex-
+pression, we have not required that all those subject to overbroad 
+regulations risk prosecution to test their rights.”34  It is also notewor-
+thy that, prior to Laird, the Supreme Court had flatly rejected a “bal-
+ancing test” between constitutionally protected expression and na-
+tional security: 
+Faced with a clear conflict between a federal statute enacted in the inter-
+ests of national security and an individual’s exercise of his First Amend-
+ment rights, we have confined our analysis to whether Congress has 
+adopted a constitutional means in achieving its concededly legitimate 
+legislative goal. . . . [W]e have in no way “balanced” those respective in-
+terests.  We have ruled only that the Constitution requires that the con-
+flict between congressional power and individual rights be accommodat-
+ed by legislation drawn more narrowly to avoid the conflict.35 
+In his dissent in Laird, Justice William Douglas observed that the 
+majority’s conclusory opinion was “too transparent for serious argu-
+ment,” and stated “[o]ne need not wait to sue until he loses his job or 
+until his reputation is defamed.  To withhold standing to sue until 
+that time arrives would in practical effect immunize from judicial 
+scrutiny all surveillance activities, regardless of their misuse and their 
+ 
+ 32  Id. at 15. 
+ 33  Reed Enters. v. Corcoran, 354 F.2d 519, 523 (D.C. Cir. 1965). 
+ 34  Dombrowski v. Pfister, 380 U.S. 479, 486 (1965). 
+ 35  United States v. Robel, 389 U.S. 258, 268 n.20 (1967). 
+ 1062  JOURNAL OF CONSTITUTIONAL LAW  [Vol. 18:3 
+deterrent effect.”36  In a separate dissent, Justice Brennan, joined by 
+Justices Potter Stewart and John Marshall, strongly disagreed with the 
+majority’s denial of standing, stating “[r]espondents may or may not 
+be able to prove the case they allege.  But I agree with the Court of 
+Appeals that they are entitled to try.”37 
+III.  JUSTICE REHNQUIST AND RECUSAL 
+In addition to the flawed reasoning by the majority in Laird re-
+garding standing and justiciability in First Amendment cases, a seri-
+ous  impartiality  question  was  raised  by  then-Justice  William 
+Rehnquist’s participation in the majority opinion.  Prior to his 1972 
+appointment to the Supreme Court, Rehnquist was an Assistant At-
+torney General in the Department of Justice’s Office of Legal Coun-
+sel (“OLC”).38  While he was with the OLC, Rehnquist appeared be-
+fore Senator Ervin’s 1971 hearings on the very subject matter raised 
+in Laird.39  During these hearings, Rehnquist testified as to the legality 
+of the military domestic surveillance programs, and directly opined 
+on the Laird case, then before the D.C. Court of Appeals: 
+My only point of disagreement with [Senator Ervin] is to say whether as 
+in the case of Tatum v. Laird that has been pending in the Court of Ap-
+peals here in the District of Columbia that an action will lie by private cit-
+izens to enjoin the gathering of information by the executive branch 
+where there has been no threat of compulsory process and no pending 
+action against any of those individuals on the part of the Government.40 
+The  opinion  given  by  then-Assistant  Attorney  General  Rehnquist 
+bears a striking similarity to the conclusion later reached by the Laird 
+Court:  chilling effects alone do not warrant standing. 
+The Laird plaintiffs sought the recusal of Justice Rehnquist based 
+on the clear appearance of bias, citing the Code of Judicial Conduct, 
+which states, in part, that “[a] judge should perform the duties of his 
+office impartially and diligently,” and “should disqualify himself in a 
+proceeding in which his impartiality might reasonably be questioned, 
+ 
+ 36  Laird, 408 U.S. at 24, 26 (Douglas, J., dissenting). 
+ 37  Id. at 40 (Brennan, J., dissenting). 
+ 38  See Jeffrey W. Stempel, Rehnquist, Recusal, and Reform, 53 BROOK. L. REV. 589, 592 (1987) 
+(describing Justice Rehnquist’s role as head of the Justice Department’s Office of Legal 
+Counsel to the White House). 
+ 39  See id. (discussing Justice Rehnquist’s testimony before the Senate Committee); Military 
+Surveillance Hearings, supra note 16, at 90 n.3 (explaining that Justice Rehnquist’s decision 
+in Laird was controversial due to his testimony before the Senate Committee); Federal Data 
+Banks Hearings, supra note 15, at 597 (providing Justice Rehnquist’s testimony before the 
+Senate committee). 
+ 40  Federal Data Banks Hearings, supra note 15, at 864–65. 
+ Feb. 2016]  LAIRD V. TATUM AND ARTICLE III STANDING  1063 
+including but not limited to instances where . . . he has a personal bi-
+as or prejudice concerning a party, or personal knowledge of disput-
+ed evidentiary facts concerning the proceeding.”41  In October 1972, 
+Justice Rehnquist issued an unprecedented sixteen-page memoran-
+dum where he denied the motion for recusal, acknowledging that 
+“fair  minded  judges  might  disagree”  about  this  matter.42  Justice 
+Rehnquist further noted that his recusal could result in “the principle 
+of law presented by the case [remaining] unsettled.”43  This last point 
+was clearly erroneous, however, as a divided Court in Laird would on-
+ly ensure an evidentiary hearing at the District Court level, which 
+would make a record for later review, possibly by the Supreme Court. 
+CONCLUSION:  LAIRD’S LEGACY 
+Our courts have long operated under the assumption that the 
+Constitution requires that conflicts between legislative power and in-
+dividual rights can only be accommodated by legislation that is drawn 
+more narrowly so as to avoid that conflict—it is government that must 
+adjust to the Constitution, not the other way around.  As Chief Justice 
+John Marshall observed in McCulloch v. Maryland, “[l]et the end be 
+legitimate,  let  it  be  within  the  scope  of  the  constitution,  and  all 
+means which are appropriate, which are plainly adapted to that end, 
+which are not prohibited, but consist with the letter and spirit of the 
+constitution, are constitutional.”44  The Laird Court failed to live up to 
+this standard when it refused to grant Article III standing to citizens 
+who sought to show that the Army’s domestic surveillance programs 
+did not conform with the Constitution.  This seriously flawed opinion 
+has become the basis for similar denials of standing for those seeking 
+to challenge government surveillance programs.  As Justice Douglas 
+observed in his Laird dissent, “[t]his case involves a cancer in our 
+body politic.”45 
+It didn’t take long for courts to embrace Laird as a useful tool to 
+dismiss cases where plaintiffs sought to challenge government surveil-
+lance programs, especially where the complaints rested on a First 
+Amendment chill from political profiling by law enforcement.  Some 
+judges took exception to a broad interpretation of Laird, but objec-
+ 
+ 41  CODE OF JUDICIAL CONDUCT FOR UNITED STATES JUDGES CANON 3, 3(C)(1) (1972). 
+ 42  See Note, Justice Rehnquist’s Decision to Participate in Laird v. Tatum, 73 COLUM. L. REV. 106, 
+121 (1973) (quoting Justice Renquist’s justification for denying the motion). 
+ 43  Id. at 123 (quoting Justice Rehnquist). 
+ 44  McCulloch v. Maryland, 17 U.S. 316, 421 (1819). 
+ 45  Laird v. Tatum, 408 U.S. 1, 28 (1972) (Douglas, J., dissenting). 
+ 1064  JOURNAL OF CONSTITUTIONAL LAW  [Vol. 18:3 
+tions largely showed up in dissenting opinions.  For the most part, 
+early interpretations of Laird sympathized with the government’s view 
+of surveillance claims. 
+For example, about a month after the Supreme Court handed 
+down its decision denying Article III standing to the plaintiffs in 
+Laird, the United States Court of Appeals for the Fourth Circuit cited 
+the decision in a case involving the open surveillance of demonstra-
+tions and meetings by the Richmond, Virginia police, which included 
+the photographing of participants for the purposes of establishing 
+and maintaining police files, which were then shared with other law 
+enforcement agencies.46  The plaintiffs in Donohoe objected to the po-
+lice surveillance, arguing that the presence of police officers and use 
+of police photographers violated their First Amendment rights by in-
+hibiting their ability to freely speak and associate.47  The Richmond 
+police argued that they had a duty to “know who the leaders (of the 
+demonstrations) are” in order to determine whether any demonstra-
+tors were “dangerous.”48  The police further pointed out that they on-
+ly attended meetings held on public streets and spaces, and did not 
+attend a series of protest meetings held at a local church (although 
+they did park a police car outside the church to take photographs of 
+everyone entering and leaving the meeting).49 
+The Donohoe plaintiffs asserted that, despite (and because of) the 
+fact that the Richmond police were conducting their surveillance in 
+the open, participation in these demonstrations and meetings was 
+chilled.50  The court, however, disagreed, observing that the plaintiffs 
+made no claims that could provide a basis for standing, and stated 
+that just because the police presence and photography made the par-
+ticipants “nervous” or “felt uncomfortable” was not enough to estab-
+lish any First Amendment harms under Laird.51  The court also dis-
+missed the testimony of a meeting attendee who stated that the FBI 
+told his employer that he had participated in a demonstration, stating 
+that “[i]t is common knowledge . . . that the FBI maintains its own 
+surveillance of demonstration groups” and there was “no evidence 
+that the FBI had actually secured this information from the Rich-
+mond police department.”52  The Donohoe court cited Laird, holding 
+ 
+ 46  See generally Donohoe v. Duling, 465 F.2d 196 (4th Cir. 1972). 
+ 47  Id. at 197. 
+ 48  Id. at 198. 
+ 49  Id. at 198–99. 
+ 50  Id. at 199. 
+ 51  Id. at 199–200. 
+ 52  Id. at 200. 
+ Feb. 2016]  LAIRD V. TATUM AND ARTICLE III STANDING  1065 
+that standing cannot arise “‘merely from the individual’s knowledge 
+that a governmental agency was engaged in certain activities or from 
+the individual’s concomitant fear that, armed with the fruits of those 
+activities, the agency might in the future take some other and addi-
+tional action detrimental to that individual.’”53  To put it plainly, “al-
+legations of a subjective ‘chill’” from the presence of government 
+agents photographing meeting participants for inclusion in police 
+files “will not suffice.”54 
+Not every judge agreed with this interpretation.  In Fifth Avenue 
+Peace Parade Committee v. Gray, Judge James Oakes dissented from the 
+majority  opinion  following  Laird,  observing  in  rather  understated 
+tones that “[t]here has been detected a tendency in recent times to 
+justify invasion of constitutional rights on the basis of national securi-
+ty.”55  These rights, which include the “right . . . peaceably to assem-
+ble,  and  to  petition  the  Government  for  a  redress  of  grievanc-
+es . . . necessarily  implied  a  right  to  freedom  in  political 
+associations.”56  Judge Oakes articulated the premise that 
+a group, even a huge group, of people who want to go to the seat of gov-
+ernment to protest a war and who do so peaceably have the right not to 
+have their name (and hence their views against the administration or the 
+Congress or the courts or the policies of any in relation to the war) listed 
+in  some  dossier  or  table  or  catalog  of  protesters  and  disseminated 
+throughout all the major branches of the ‘security system’ of the United 
+States.57 
+Judge  Oakes  distinguished  Laird  on  the  basis  that  the  Supreme 
+Court’s decision should be “‘narrow[ly]’ limited to general surveil-
+lance without specific misuse of data.”58 
+That is to say, the Laird majority, in Judge Oakes’s words, “serious-
+ly underestimated the size and scope of [government] intelligence 
+activities which included gathering public and private information on 
+hundreds of thousands of ‘politically suspect’ persons,” and might 
+have decided differently had they the benefit of Senator Ervin’s hear-
+ings and “Watergate-allied events” at the time of their decision.59  One 
+could make an argument that the Burger Court would not have de-
+cided  differently  in  Laird,  even  if  the  caustic  repercussions  of 
+ 
+ 53  Id. at 201 (emphasis omitted) (quoting Laird, 408 U.S. at 11). 
+ 54  Id. at 202. 
+ 55  480 F.2d 326, 333 (1973) (Oakes, J., dissenting) (citations omitted). 
+ 56  Id. at 334. 
+ 57  Id. 
+ 58  Id. at 336. 
+ 59  Id. at 336–37. 
+ 1066  JOURNAL OF CONSTITUTIONAL LAW  [Vol. 18:3 
+COINTELPRO,60 Watergate, and the many post-Cold War govern-
+ment intelligence abuses were made public at the time.  But perhaps, 
+in a post-Snowden world where issues of government surveillance are 
+perhaps even more pressing than in the days of Laird, we should be 
+asking these same questions of the Roberts Court. 
+ 
+ 
+ 60  COINTELPRO was the FBI’s acronym for their large-scale, secret Counterintelligence 
+Program, which used techniques originally approved for use against foreign enemies and 
+applied them against domestic political groups.  The program was started by FBI Director 
+J. Edgar Hoover in 1956 and originally targeted the Communist Party, with the intent to 
+“disrupt” or “neutralize” organizations and individuals.  COINTELPRO quickly expanded 
+to include any individual or group Hoover considered to be “subversive,” leading the 
+Church Committee to later observe that the program “demonstrates the dangers inherent 
+in the overbroad collection of domestic intelligence.”  SETH ROSENFELD, SUBVERSIVES:  
+THE FBI’S WAR ON STUDENT RADICALS, AND REAGAN’S RISE TO POWER 16, 213–14 (2012). 
+ 

@@ -1,0 +1,1021 @@
+______________________________________________________________________________
+______________________________________________________________________________ 
+ 
+ 
+ 
+ 
+FACES AND FINGERS: AUTHENTICATION 
+ 
+ 
+ 
+ 
+ 
+Nathan Reitinger* 
+ 
+ 
+ 
+Abstract 
+ 
+One of the most shocking outcomes of the pre-digital 
+law  versus  post-digital  world  is  the  currently 
+unconfirmed holding that although law enforcement 
+may not compel the production of a password to unlock 
+a mobile device, a finger, and likely a face, is fair game.  
+You may be forced to “look” at your iPhone or “press” 
+your finger against its fingerprint reader, but recitation 
+of your password is off the table.  Both logically and 
+legally this result is quizzical.  Merging these divergent 
+outcomes, which both end in the same result—access—
+is the aim of this Essay, using as fodder a technical 
+understanding of “authentication,” the organic statute 
+behind device unlock.  Because the sine qua non of 
+authentication  is  identification  and  verification, 
+unlocking a device necessarily imparts a truth telling: 
+an expression of exclusivity, ownership, and control.  
+These qualities are inherently testimonial; therefore, 
+compelled  device  unlock  based  on  a  fingerprint  or 
+facial scan should be deemed to infringe upon the Fifth 
+Amendment’s protection against self-incrimination. 
+ 
+ 
+                                                 
+* Ph.D. Candidate, University of Maryland, Department of Computer Science.  M.S., 
+Computer Science Security Track, Columbia University ’19.  J.D., Michigan State 
+University College of Law ’15. 
+ 
+Copyright © 2020 Journal of High Technology Law and Nathan Reitinger. 
+All Rights Reserved. ISSN 1536-7983. 
+ ______________________________________________________________________________
+______________________________________________________________________________ 
+ 
+ 
+62                                          JOURNAL OF HIGH TECHNOLOGY LAW                [Vol. XX: No. 1 
+ 
+ 
+I.  Introduction 
+ 
+Imagine you have the desire to protect digital information 
+stored on a mobile device.  Would you feel comfortable using a mobile 
+device with an unlock feature automatically triggered by an infrared 
+scan of your face?  Stated concretely, if you own an iPhone with 
+FaceID, should you anticipate being compelled to look at your phone, 
+thus permitting access to those unsavory Google search queries1 or 
+poorly thought-through selfies?2  Indeed, the only mechanism standing 
+between the law and your secrets is your phone’s “lock” screen—
+instantly, automatically, and, once set up, unstoppably “unlocked” 
+with a simple glance.  
+At face value, the answer to this question turns on the Fifth 
+Amendment’s ability to protect physical features.  Historically, this 
+has played out through a game of analogy: is the compulsion more like 
+surrendering a physical key or a mental key?3  If the key involves no 
+state-of-mind component (i.e., a physical feature), then the compulsion 
+is likely non-testimonial and does not violate the Fifth Amendment.4  
+However, if the key does involve some quantum of mental state, then 
+the  compulsion  is  likely  testimonial,  protected  by  the  Fifth 
+Amendment.5 
+                                                 
+1 Perhaps it was one of these searches: “Where to buy the world’s largest baking 
+dish? How to properly tie a woman to a rotating life-size barbeque spit? How to 
+chloroform a girl?”  See Rahul Bhagnari, When Does Your Google Search Become 
+a  Crime,  ACLU  (May  13,  2015),  archived  at  https://perma.cc/MD39-6RS9 
+(querying Google to feed a fantasy may not be enough to be considered a smoking 
+gun, but the evidence does have a tendency to make its way into court).  
+2 See Associated Press, Teen Who Took Selfie with Murdered Friend Learns Fate 
+(May 15, 2017), archived at https://perma.cc/PFA9-SDWA (discussing a case where 
+an eighteen-year-old shot his friend and then took a selfie with the dying teen).  This 
+selfie later took on the term “death selfie.”  Id.  
+3 See Kendall Howell, The Fifth Amendment, Decryption and Biometric Passcodes, 
+LAWFARE  (Nov.  27,  2017),  archived  at  https://perma.cc/GH9S-CQMA 
+(expressing the increasing hurdle that law enforcement are now regularly facing 
+when it comes to extracting data from a person’s device).  Further, this issue is no 
+longer just about obtaining a passcode, but possibly a biometric verification.  Id.  
+4 See id. (noting that courts agreed with the decision that the “Fifth Amendment does 
+not protect against the production of physical features or acts”); see also infra Part 
+II. 
+5 See id. (finding that so long as the communication “explicitly or implicitly, relate[s] 
+a factual assertion or disclose[s] information,” then it is considered testimonial); see 
+also infra Part II. 
+ ______________________________________________________________________________
+______________________________________________________________________________ 
+ 
+ 
+2020]                                      FACES AND FINGERS: AUTHENTICATION                                63 
+ 
+ 
+In  this  vein,  courts  consider  passwords  to  be  testimonial, 
+meaning it is unlawful to compel the production of a special phrase, 
+but  fingerprints  non-testimonial,  making  it  lawful  to  compel  the 
+placement of a finger on a mobile device.6 Although this conclusion is 
+not consistent across the board, a trend is identifiable.7  And in terms 
+of a face, which easily places itself in the physical camp, the game of 
+analogy would likely return a non-testimonial, just-tell-me-where-to-
+look answer.8 
+                                                 
+6 See Commonwealth v. Baust, No. CR14-1439, 2014 WL 10355635, at *4 (Va. Cir. 
+Ct. Oct. 28, 2014) (“In this case, the Defendant cannot be compelled to produce his 
+passcode to access his smartphone but he can be compelled to produce his fingerprint 
+to do the same.”). 
+7 See e.g., In re Single-Family Home & Attached Garage, No. 17M85, 2017 WL 
+4563870, at *2 (N.D. Ill. Feb. 21, 2017). 
+The government does not seek authority to force the individuals to 
+enter passcodes into the devices if necessary to unlock them, 
+apparently  recognizing  that  this  would  violate  the  Fifth 
+Amendment. It is only if the Apple device has been configured in 
+advance  to  unlock  in  response  to  the  individual’s  unique 
+fingerprint (the biometric passcode), that the government asserts 
+the Fifth Amendment does not apply. In its view, law enforcement 
+would  be  compelling  a  mere  physical  act  rather  than  a 
+communicative act.  
+Id.  Nevertheless, this court disagreed with the government, concluding that both acts 
+are implicit testimony, which result in the individual unlocking the device.  Id. 
+8 See Pratik Parikh, iPhone X: Unlocking the Self Incrimination Clause of the Fifth 
+Amendment, 45 RUTGERS COMP. & TECH. L.J. 58, 87–88 (2019) (finding that 
+passwords are protected, but fingers and faces are likely not); Erin M. Sales, The 
+“Biometric Revolution”: An Erosion of the Fifth Amendment Privilege to Be Free 
+from  Self-Incrimination,  69  U.  MIAMI.  L.  REV.  193,  222  (2014)  (explaining 
+that“[p]recedent indicates that people will simply have less constitutional protection 
+in testimonial evidence that may be contained in their mobile consumer devices”) 
+(emphasis added); Laurent Sacharoff, Unlocking the Fifth Amendment: Passwords 
+and Encrypted Devices, 87 FORDHAM L. REV. 203, 241 (2018) (proposing that the 
+government only be able to compel a suspect to hand over information that they 
+already  know  is  on  the  device);  Efren  Lemus,  When  Fingerprints  Are  Key: 
+Reinstating  Privacy  to  the  Privilege  Against  Self-Incrimination  in  Light  of 
+Fingerprint Encryption in Smartphones, 70 SMU L. REV. 533, 554 (2017) (finding 
+that current law would place finger and face based authentication in the physical and 
+therefore permissible camp—though disagreeing with this conclusion for privacy-
+based reasons).  But see Madeline Leamon, Unlocking the Right Against Self-
+Incrimination:  A  Predictive  Analysis  of  21st  Century  Fifth  Amendment 
+Jurisprudence,  64  WAYNE  L.  REV.  583,  584–85  (2019)  (concluding  that  the 
+testimonial  qualities  of  biometric  locks  warrant  protection  under  the  Fifth 
+   ______________________________________________________________________________
+______________________________________________________________________________ 
+ 
+ 
+64                                          JOURNAL OF HIGH TECHNOLOGY LAW                [Vol. XX: No. 1 
+ 
+ 
+Missing from the debate, however, is a technical understanding 
+of the “why” behind device unlock.  What are the properties driving 
+the  mechanics  of  device  unlock,  and  why  are  those  properties 
+necessary for the mechanism to be considered “good enough” for 
+public use?  The simple answer here is authentication—the means of 
+identifying and verifying users.9  
+Following a brief legal overview of compelled device unlock, 
+this short Essay unpacks the technical underpinnings of authentication 
+in the context of FaceID.  FaceID is Apple’s newest unlock mechanism 
+which, in simple terms, uses a face as a key.10  This understanding is 
+then  applied  to  the  constitutional  inquiry,  concluding  that  the 
+primitives of authentication necessarily impart a substance in and of 
+itself.  Authentication, in this sense, is a form of truth telling—an 
+expression of exclusivity, ownership, and control.  Compelling the use 
+of a finger or face to unlock a phone should not be deemed different 
+than compelling the recitation of a password.  Whether finger, face, or 
+                                                 
+Amendment); Kara Goldman, Biometric Passwords and the Privilege Against Self-
+Incrimination,  33  CARDOZO  ARTS  &  ENT.  L.J.  211,  226–27,  234–35  (2015) 
+(imploring that fingerprints when used to unlock a phone should be considered 
+testimonial because it is taking on the job of a traditional numeric or alphabetic 
+password). 
+9 The term “authentication” takes on a different definition in the computer science 
+literature as opposed to the legal literature, which often uses the term authentication 
+when considering evidence.  Compare Authentication, TECHTERMS (July 13, 2018), 
+archived at https://perma.cc/WZ7W-4WWQ (defining authentication in computer 
+science literature as “the process of verifying the identity of a person or device”), 
+with Authentication Law and Legal Definition, USLEGAL (Jan. 11, 2020), archived 
+at https://perma.cc/U96T-65XW (defining authentication in legal literature as a 
+“testimony by a proper party that a document is what it is purported to be and that 
+the party attesting to it is qualified to do so”).  Authentication here may be thought 
+of as “you are who you say you are.”  See infra Part III Section B. 
+10 See Face ID Security, APPLE (Nov. 2017), archived at https://perma.cc/B5XW-
+JVK2 (describing how iPhone FaceID works). 
+With a simple glance, Face ID securely unlocks iPhone X. It 
+provides  intuitive  and  secure  authentication  enabled  by  the 
+TrueDepth camera system, which uses advanced technologies to 
+accurately map the geometry of your face. Face ID confirms 
+attention by detecting the direction of your gaze, then uses neural 
+networks for matching and anti-spoofing so you can unlock your 
+phone with a glance. Face ID automatically adapts to changes in 
+your appearance, and carefully safeguards the privacy and security 
+of your biometric data. 
+Id. 
+ ______________________________________________________________________________
+______________________________________________________________________________ 
+ 
+ 
+2020]                                      FACES AND FINGERS: AUTHENTICATION                                65 
+ 
+ 
+phrase, all are a form of truth telling, and thus should be deemed 
+protected under the Fifth Amendment. 
+ 
+II.  Testimonial Communication: Truth Telling 
+ 
+  “No person . . . shall be compelled in any criminal case to be a 
+witness  against  himself.”11   Although  three  independent  inquiries 
+spring  from  this  one  constitutional  sentence,12 the  jurisprudential 
+fireworks  have  mostly  been  reserved  for  the  last,  a  testimonial 
+communication.  Further, the Supreme Court has graced us with a fair 
+share of its own communication in discussing the acts that constitute 
+the meaning of “testimonial.” 
+  In one of the first cases to draw a hard line, Holt v. United 
+States,13 the Court found the act of putting on a blouse to see if it would 
+fit the defendant to be non-testimonial.14  The Court disagreed with 
+defendant’s  argument  that  the  action  was  unconstitutionally 
+compelled, or, as the defendant argued, an “extravagant extension of 
+the Fifth Amendment.”15  In support of its decision, the Court stated 
+that  prohibiting  compulsion  to  extract  communications  from  a 
+defendant is distinct from the use of a defendant’s body as evidence.16  
+If the use of a defendant’s body as evidence was prohibited, then it 
+                                                 
+11 U.S. CONST. amend. V. 
+12 An (1) incriminating (2) compulsion of (3) testimonial communication.  See 
+United States v. Doe, 670 F.3d 1335, 1341 (11th Cir. 2012); see also Doe v. United 
+States, 487 U.S. 201, 212 (1988) (discussing how the historical underlying policies 
+regarding the self-incrimination privilege were to prevent a suspect from being 
+compelled into producing information that would incriminate them).  
+13 218 U.S. 245 (1910). 
+14 See id. at 252–53. 
+A question arose as to whether a blouse belonged to the prisoner. 
+A witness testified that the prisoner put it on and it fitted him. It is 
+objected that he did this under the same duress that made his 
+statements inadmissible, and that it should be excluded for the 
+same reasons. But the prohibition of compelling a man in a 
+criminal court to be witness against himself is a prohibition of the 
+use of physical or moral compulsion to extort communications 
+from him, not an exclusion of his body as evidence when it may 
+be material. The objection in principle would forbid a jury to look 
+at a prisoner and compare his features with a photograph in proof. 
+Id. 
+15 See id. at 252. 
+16 See id.  
+   ______________________________________________________________________________
+______________________________________________________________________________ 
+ 
+ 
+66                                          JOURNAL OF HIGH TECHNOLOGY LAW                [Vol. XX: No. 1 
+ 
+ 
+would in essence “forbid a jury to look at a prisoner and compare his 
+features  with  a  photograph.”17   From  there,  the  rest  was  easy: 
+providing a blood sample,18 voice or hand-writing exemplar,19 or 
+required  presence  in  a  police  line-up 20  were  all  deemed  non-
+testimonial.  
+  The identifiable theme, beyond physicality, was that neutral 
+actions  (i.e.,  those  having  no  bent  toward  substance  in  and  of 
+themselves) are not protected by the Fifth Amendment.  As stated in 
+Hubbell v. United States,21 although the contents of a document may 
+be privileged, the “‘act of production’ may implicitly communicate 
+statements of fact.”22  This is to say, physical features merely exist, 
+and requiring them to be plainly displayed—regardless of the feature’s 
+identifying23 characteristics—does not  give rise to constitutionally 
+protected substance or facts. 
+  More recently, however, less-clear cases have attempted to blur 
+this line.  One of the most interesting, In re Grand Jury Subpoena to 
+Sebastian Boucher, decided in 2007 (“Boucher I”) and revised in 2009 
+(“Boucher II”),24 involved access to a computer containing illegal 
+content.  Although the computer had been consensually accessed by a 
+security guard unveiling illicit material, on later inspection, encrypted 
+files put a hard-stop to the investigation.25  Law enforcement could not 
+practically  or  theoretically26 view  these  files  without  a  passcode, 
+                                                 
+17 See id. at 253.  
+18 See Schmerber v. California, 384 U.S. 757, 761 (1966).  
+19 See Gilbert v. California, 388 U.S. 263, 266–67 (1967).  
+20 See United States v. Wade, 388 U.S. 218, 222–23 (1967). 
+21 167 F.3d 552 (D.C. Cir. 1999), aff’d, 530 U.S. 27 (2000). 
+22 See United States v. Hubbell, 530 U.S. 27, 37 (2000) (stating that the “act of 
+production” is the act of producing documents in response to a subpoena).  
+23 See United States v. Hubbell, 167 F.3d 552, 574–75 (D.C. Cir. 1999), aff’d, 530 
+U.S.  27  (2000)  (citing  Schmerber  v.  California,  384  U.S.  757,  764  (1966)).  
+Identification in this sense is not the same as using the evidence for a truthtelling 
+effect. While a person’s hand or a person’s finger communicates—this is my hand or 
+my finger—the individual proffering the hand is merely being “compelled to make 
+himself available as a source of ‘real or physical evidence.’”  Id.  “For purposes of 
+Fifth Amendment analysis, it is dispositive that the government has no need to rely 
+upon the witness’s truthtelling to secure the evidence it seeks.”  Id.   
+24 See In re Grand Jury Subpoena to Sebastien Boucher (Boucher I), No. 2:06-mj-91, 
+2007 WL 4246473, at *2 (D. Vt. Nov. 29, 2007), rev’d (Boucher II), No. 2:06-mj-
+91, 2009 WL 424718 (D. Vt. Feb. 19, 2009).  
+25 See Boucher II, 2009 WL 424718, at *4–6.  
+26 Assuming a thirty-character password, the number of guesses it would take to find 
+the  password  is  591,222,134,364,399,413,463,902,591,994,678,504,204,696,392, 
+ ______________________________________________________________________________
+______________________________________________________________________________ 
+ 
+ 
+2020]                                      FACES AND FINGERS: AUTHENTICATION                                67 
+ 
+ 
+which the defendant did not want to divulge.27  Although the district 
+court seemed to find favor with the defendant’s Fifth Amendment 
+argument, it eventually pivoted, finding that although the files were 
+protected by the Fifth Amendment, the computer had already been 
+inspected, and therefore the “foregone conclusion” applied.28 
+  The foregone conclusion has its roots in Fisher v. United 
+States,29 where an accountant attempted to have documents withheld 
+that were already known in existence and location to the government.30  
+The  Court  ruled  in  favor  with  the  government,  finding  that  the 
+documents were not being compelled for “truth telling” purposes.  
+Rather, the government already “knew” of the documents’ existence 
+and merely needed the metaphorical lock to be released.31  Likewise, 
+                                                 
+694,759,424.  See Aloni Cohen & Sunoo Park, Compelled Decryption and the Fifth 
+Amendment: Exploring the Technical Boundaries, 32 HARV. J. L. & TECH. 169, 176–
+79 (2018).  
+An encryption algorithm is a procedure that, given a piece of 
+information  (sometimes  called  a  ‘plaintext’)  and  a  password 
+(sometimes called a ‘secret key’), produces an encryption [i.e. an 
+encrypted  version  of  the  plaintext]  (sometimes  called  a 
+‘ciphertext’). A decryption algorithm is a procedure that, given an 
+encryption  and  a  password,  produces  the  original  piece  of 
+information (i.e. the plaintext).  
+Id.  The quoted material refers to symmetric encryption, where a “secret key” is used 
+for both encrypting a piece of plaintext and decrypting a piece of ciphertext.  Id.  
+Other forms of encryption exist (e.g., asymmetric encryption), which use two 
+different secret keys for encryption and decryption.  Id.; see also Panayotis Vryonis, 
+Explaining Public-Key Cryptography to Non-Geeks: It’s Not as Complicated as it 
+Sounds,  MEDIUM  (Aug.  27,  2013),  archived  at  https://perma.cc/RBU7-FJMX 
+(providing a high-level, easily-digestible overview of asymmetric encryption). 
+27 See Boucher II, 2009 WL 424718, at *4–6. 
+28 See Boucher I, 2007 WL 4246473, at *8–9 (comparing entering a password into a 
+computer with merely asking a person to enter the password into the computer).  
+Unfortunately, this leads to the “forbidden trilemma; incriminate [oneself], lie under 
+oath, or find [oneself] in contempt of court.”  But see Orin S. Kerr, Compelled 
+Decryption and the Privilege Against Self-Incrimination, 97 TEXAS L. REV. 767 
+(2019)  (discussing  the  foregone  conclusion  doctrine,  which  “limits  the  Fifth 
+Amendment protection to cases in which the government is trying to use the target’s 
+testimony to convict him”).  Further, divulging a password implicitly communicates 
+ownership and control—a truth telling warranting protection.  See Boucher II, 2009 
+WL 424718, at *9–10. 
+29 425 U.S. 391 (1976).  
+30 See id. at 394–95, 411. 
+31 See id.  
+   ______________________________________________________________________________
+______________________________________________________________________________ 
+ 
+ 
+68                                          JOURNAL OF HIGH TECHNOLOGY LAW                [Vol. XX: No. 1 
+ 
+ 
+the government in Boucher II had enough knowledge of the illegal 
+material’s existence (i.e., these files had already been seen) to bypass 
+the Fifth Amendment’s privilege and compel production of the court-
+deemed mental state (i.e., the password). 
+  Exemplifying  the  above  concerns  culminates  in  Justice 
+Stevens’s dissent in Doe v. United States.32  Here, the majority found 
+that compelling a defendant to sign a consent decree releasing banking 
+records was not testimonial because it was not an implicit or explicit 
+factual assertion disclosing incriminating information.33  It is notable 
+that the Court focused heavily on the language of the consenting 
+instrument.  “[T]he form does not acknowledge that an account [exists] 
+or that it is controlled by petitioner. Nor does the form indicate whether 
+documents or any other information relating to petitioner are present 
+at the foreign bank . . . . The form does not even identify the relevant 
+bank.”34  Again, this comes from the through-line in Fisher—truth 
+telling.    The  majority  argued  that  the  release  form  permitting 
+disclosure was not used for its “truth telling” effect.  In other words, 
+the form was viewed as more of a logistical lock to the substance rather 
+than the substance in and of itself.  But it is on this point—a point 
+further exemplified by the properties of authentication35—that Justice 
+Stevens disagreed.  
+  Justice Stevens noted how the defendant’s forced signature on 
+the release was necessarily tied to a statement of fact.  “The [consent 
+decree] itself may not betray any knowledge petitioner may have about 
+the circumstances of the offenses being investigated by the grand jury, 
+but it nevertheless purports to evidence a reasoned decision by Doe to 
+authorize  action  by  others.”36   Although  implied  ownership  is  a 
+somewhat tenuous form of authorization, and not enough for the 
+majority  to  disallow  the  compulsion,  it  is  enough—according  to 
+                                                 
+32 487 U.S. 201 (1988).  
+33 See id. at 208–10.  
+34 Id. at 215.  
+35 Id. at 216. 
+Nor would his execution of the form admit the authenticity of any 
+records produced by the bank. Not only does the directive express 
+no view on the issue, but because petitioner did not prepare the 
+document, any statement by Doe to the effect that it is authentic 
+would not establish that the records are genuine. Authentication 
+evidence would have to be provided by bank officials.  
+Id. (internal citation omitted). 
+36 Id. at 219 (Stevens, J., dissenting). 
+ ______________________________________________________________________________
+______________________________________________________________________________ 
+ 
+ 
+2020]                                      FACES AND FINGERS: AUTHENTICATION                                69 
+ 
+ 
+Justice Stevens—to warrant a pause.  This gave rise to Justice Stevens 
+noting how a defendant may be “forced to  surrender  a key to  a 
+strongbox  containing  incriminating  documents,  but  [may  not  be] 
+compelled to reveal the combination to his wall safe—by word or 
+deed.”37  
+  Indeed,  Justice  Stevens’s  statement  has  become  the 
+cornerstone of a growing body of case law viewing the testimonial–
+non-testimonial  distinction  as  hinging  on  a  physical–mental 
+distinction.38  We can see this in United States v. Kirschner,39 where a 
+defendant was permitted to withhold his computer password from the 
+government because it imbued his state of mind.40  Further, this is also 
+seen in Commonwealth v. Baust,41 where the court found a passcode 
+protected by the law (i.e., a content of the mind), but a fingerprint 
+unprotected by the law (i.e. a mere physical attribute).42  The trend 
+continued in State v. Diamond,43 where the court held that compelling 
+a defendant to use a finger to unlock a phone “is no more testimonial 
+than  furnishing  a  blood  sample,  providing  handwriting  or  voice 
+exemplars, standing in a lineup, or wearing particular clothing.”44  
+  Additionally,  the  physical–non-physical  distinction  is 
+currently the favored approach by law enforcement.  For example, in 
+a district court in California, pursuant to a warrant, a defendant was 
+required to “place his face in front of an iPhone X” that was found in 
+his  possession during the course of  an execution of a  warrant.45  
+Similarly, a memorandum with a genesis of the Central District of 
+California argued that using a fingerprint to unlock a device is simply 
+and solely a physical endeavor—something entirely beyond the fingers 
+of the Fifth Amendment.46  
+                                                 
+37 Id.  
+38 See supra note 7 and accompanying text.  
+39 823 F. Supp. 2d 665 (E.D. Mich. 2010). 
+40 See id. at 668 (compelling a defendant to utter a password is a testimonial 
+communication). 
+41 No. CR14-1439, 2014 WL 10355635, at *4 (Va. Cir. Ct. 2014). 
+42 See id.   
+43 905 N.W.2d 870 (Minn. 2018). 
+44 Id. at 873. 
+45 See Affidavit in Support of Search Warrant, No. 2:18-mj-707, ¶ 40 (Sept. 19, 
+2018), archived at https://perma.cc/NF7F-2Y7J. 
+46  Memorandum  of  Points  and  Authorities  (May  9,  2016),  archived  at 
+https://perma.cc/SZ8E-H76Z (noting how fingerprints are physical in nature). 
+   ______________________________________________________________________________
+______________________________________________________________________________ 
+ 
+ 
+70                                          JOURNAL OF HIGH TECHNOLOGY LAW                [Vol. XX: No. 1 
+ 
+ 
+  Rejecting this trend, however, and understanding the nuance of 
+Justice Steven’s statement, is In re Single-Family Home & Attached 
+Garage.47   In  this  case,  the  court  looked  beyond  the  superficial 
+physical–non-physical inquiry and asked “whether, under the specific 
+facts and circumstances presented, the act [being compelled] implicitly 
+conveys incriminating information unknown to the government.”48  
+Here,  the  government  “request[ed]  that  the  court  authorize  law 
+enforcement to press the fingers [of several subjects found] at the 
+Subject Premises to the Touch ID sensor of any Apple brand device[s] 
+found at the Subject Premises.”49  Curtly, law enforcement wanted to 
+conduct a brute-force, guess-and-check method to see which suspects 
+matched which phones, and then search the contents of those phones 
+once unlocked.  
+  Viewing an “unlock” as more of a symbolic act, as found in the 
+Fisher case’s dicta, the court was able to see this for what it really is: 
+an  expression  of  ownership—a  statement  of  substance  in  and  of 
+itself.50  The court noted how, in today’s age, a simple fingerprint can 
+reproduce the entire contents of a device.51  At minimum, a fingerprint 
+expresses  current  possession  and  control  over  a  device.52   True 
+enough, the holding here is limited by this court’s statement on the 
+trial-and-error method to be used by the government.53  Nonetheless, 
+In re Single-Family Home & Attached Garage marks an important 
+pushback against a growing trend to demarcate constitutionality based 
+on physical or mental compulsion.  
+ 
+ 
+ 
+                                                 
+47 No. 17M85, 2017 WL 4563870 (N.D. Ill. Feb. 21, 2017). 
+48 Id. at *22–23.  
+49 Id. at *2. 
+50 See id. at *22–23 (“[T]he individual necessarily communicates information to the 
+government when he unlocks the device and thereby produces the contents: that he 
+has accessed the device before (at a minimum to set up the biometric passcode), and 
+currently possesses and controls the device and its contents.”); Fisher, 425 U.S. 391 
+(1976).  
+51 See In re Single-Family Home & Attached Garage, 2017 WL 4563870, at *5. 
+52 See id. (explaining that the person whose finger can open the device implicitly 
+communicates that they control and possess that device). 
+53 See id. at *9.  Without evidence demonstrating that a specific Apple device belongs 
+to the specific individual who will be forced to unlock it (making the testimonial 
+aspect of the production a foregone conclusion), the compelled act would violate the 
+Fifth Amendment.  Id. 
+ ______________________________________________________________________________
+______________________________________________________________________________ 
+ 
+ 
+2020]                                      FACES AND FINGERS: AUTHENTICATION                                71 
+ 
+ 
+III.  Keys and Locks 
+ 
+Surprisingly, the Fifth Amendment debate we find ourselves in 
+is driven by technologies that themselves have received scant attention 
+in the conversation.  Yet, passwords, pins, fingers, and faces have all 
+been  subject  to  incredible  amounts  of  research  in  the  technical 
+literature.54  More importantly, the overarching principle behind all of 
+these technologies—authentication—is given the left-swipe by many 
+courts.  Bridging  that  gap,  and  in  turn  offering  a  more  nuanced 
+understanding of the issues, this Essay uses FaceID as a vehicle for 
+digging into the ins and outs of locks—specifically, biometric locks.
+   
+A.  Biometrics 
+ 
+  The public’s familiarity with biometrics is not owed to a new 
+invention,  but  an  old  technology  that  has  recently  been  given  a 
+facelift.55  The facelift comes from a culmination of two specific 
+advances: (1) neural networks and (2) sensors.56  In turn, the ability to 
+“recognize” faces was first introduced at technical conferences, which 
+approached human-level quality and allowed for mass public use.  
+  Using a neural network for facial recognition goes something 
+like this: the neural network takes as input the image of a face and 
+produces as output a prediction of whose face it is. 57  Under the covers, 
+                                                 
+54 See generally WILLIAM STALLINGS & LAWRIE BROWN, COMPUTER SECURITY: 
+PRINCIPLES AND PRACTICE (Pearson, 3d ed. 2015) (discussing authentication in 
+terms  of  security—a  backbone  consideration  in  all  systems);  ABRAHAM 
+SILBERSCHATZ,  PETER  BAER  GALVIN  &  GREG  GAGNE,  OPERATING  SYSTEMS 
+CONCEPTS  685–89  (John  Wiley  &  Sons,  Inc.,  9th  ed.  2013)  (examining 
+authentication in terms of an operating system—the means by which computers 
+operate). 
+55 See  Andrew  Bud,  Facing  the  Future:  The  Impact  of  Apple  FaceID,  2018 
+BIOMETRIC  TECH.  TODAY  5,  5  (2018)  (setting  forth  how  “[f]ace-matching 
+authentication has been in the market for many years”).  Numerous companies have 
+offered some version of face-matching technology over the past 15 years.  Id.; see 
+also W. Zhao et al., Face Recognition: A Literature Survey, 35 ACM COMPUTING 
+SURVEYS 399 (2003). 
+56 See Bud, supra note 55, at 5; Zhao et al., supra note 55, at 399; Face ID Security, 
+supra note 10, at 3 (discussing at a high level the neural network and TrueDepth 
+sensors involved in FaceID).  
+57 See Steven M. Bellovin, Preetam K. Dutta & Nathan Reitinger, Privacy and 
+Synthetic Datasets, 22 STAN. TECH. L. REV. 1, 23–29 (2019) (discussing the 
+   ______________________________________________________________________________
+______________________________________________________________________________ 
+ 
+ 
+72                                          JOURNAL OF HIGH TECHNOLOGY LAW                [Vol. XX: No. 1 
+ 
+ 
+this involves: (1) creating a mathematical representation of the image; 
+(2) running this representation through a series of pre-set filters,58 
+which highlight features in the image like edges or straight lines (i.e., 
+feature hunting); and (3) using the result of step two’s feature hunting 
+to drop the images into labeled buckets.59  If the bucket is the same one 
+that the user created when setting up FaceID, then the phone will 
+unlock. 
+  The above summary is what researchers from Facebook and 
+Tel Aviv University demonstrated in 2014, vastly improving the state-
+of-the-art technology for facial image recognition at the time.60  In fact, 
+shortly after their paper came out, Google released their own research 
+relying  on  a  similar  technique  which  demonstrated  even  better 
+results.61  However, the problem with both approaches, in terms of 
+public release at the time, was with in-the-wild recognitions, which 
+suffered from factors like pose, illumination, expressions, and facial 
+changes.62  When these factors are present, something else is needed 
+to meet human-level quality classification. 
+  To overcome the difficulties of changing faces and lighting, 
+researchers introduced a series of sensors to give neural networks an 
+additional dimension of feature information.63  In part, this is why 
+                                                 
+processing of using a pre-trained neural network model to recognize hand-drawn 
+digits).  
+58 See id.  Here we are using a pre-trained model which already knows how to 
+recognize a face.  See id. at 29.  Training the model to learn this is another subject 
+entirely.  Id. 
+59 See id.  
+60 See  Yaniv  Taigman  et  al.,  DeepFace:  Closing  the  Gap  to  Human-Level 
+Performance in Face Verification, CONF. COMP. VISION & PATTERN RECOGNITION 
+(2014) (finding, in unconstrained environments, that the machine learning algorithm 
+could perform at accuracy levels of 97.35%). 
+61 See Florian Schroff, Dmitry Kalenichenko & James Philbin, FaceNet: A Unified 
+Embeding for Facial Recognition and Clustering, CONF. COMP. VISION & PATTERN 
+RECOGNITION (2015) (achieving a 99.63% accuracy rate).  
+62 See Madhumita Murgia, Who’s Using Your Face? The Ugly Truth About Facial 
+Recognition,  FINANCIAL  TIMES,  (Sept.  18,  2019),  archived  at 
+https://perma.cc/AS8C-59F5 (describing “wild” photos as natural, unposed and 
+blurred). 
+63  See  Feature  Information,  SAFE  SOFTWARE  (Jan.  12,  2020),  archived  at 
+https://perma.cc/3FFA-VS7Z  (describing  feature  information  as  “information 
+includ[ing] feature type, attributes (both user and format attributes), coordinate 
+system, and geometry details”).  See also S. Rangwala & D. Dornfeld, Sensor 
+Integration Using Neural Networks for Intelligent Tool Condition Monitoring, 112 
+ ______________________________________________________________________________
+______________________________________________________________________________ 
+ 
+ 
+2020]                                      FACES AND FINGERS: AUTHENTICATION                                73 
+ 
+ 
+iPhones  using  FaceID  use  infrared  dot  projections.64   However, 
+truthfully, the dot projections serve a much more important purpose 
+that hints at the core of how the technology is designed—security.  
+  Around the same time as the ground-breaking research on 
+facial recognition was coming to fruition, researchers at University of 
+North Carolina at Chapel Hill65 demonstrated a method of “spoofing” 
+all existing facial recognition systems by using a 3D virtual reality 
+model based on simple Facebook images.66  The spoofing, allowing 
+unauthorized  individuals  to  unlock  systems  relying  on  facial 
+recognition  technology,  was  incredibly  successful  because  facial 
+recognition at the time was solely camera based.67  In fact, even 
+simpler  spoofing  worked  in  2009  by  merely  showing  a  facial 
+recognition system a still picture of a face.68  In response, “liveness” 
+checks were added to most systems, requiring movements like eye 
+blinking or eyebrow raising during use.69  The spoofing research in 
+2016  blew  past  all  liveness  checks  because  of  its  virtual  reality 
+component, using a face that moves and interacts with the world in a 
+realistic but simulated way.70  Therefore, to ensure virtual-reality 
+                                                 
+J. MANUFACTURING SCI. & ENGINEERING 229, 229 (1990) (explaining the process of 
+neural networks being used to integrate information from multiple sensors). 
+64 See Face ID Security, supra note 10, at 3. 
+65 See Yi Xu et al., Virtual U: Defeating Face Liveness Detection by Building Virtual 
+Models from Your Public Photos, 25TH USENIX SECURITY SYMPOSIUM (2016).  
+66 See id. at 505–06.  See also Deep Dive: The Fight to Stop Biometric Spoofing, 
+PYMNTS (Dec. 5, 2019), archived at https://perma.cc/VD8P-MBKU (defining 
+spoofing as the process of “faking biometric identifiers to impersonate legitimate 
+users and gain access”).  
+67 See Yi Xu et al., supra note 65, at 509 (explaining how the researchers outlined 
+three options for overcoming the spoofing: light projection, pulse detection, and 
+infrared illumination).  Apple, at least in part, uses the first option because a pattern 
+of illumination can be detected by the phone; the phone need only send out a pattern 
+of light emissions and check for the corollary response.  Id.; see also Bud, supra note 
+55, at 5–6. 
+68 See Yi Xu et al., supra note 65, at 497; Nguyen Minh Duc & Bui Quang Minh, 
+Your Face is NOT Your Password: Face Authentication Bypassing Lenovo - Asus – 
+Toshiba, BKIS (2009) (discussing an attack model that simply uses a photograph of 
+a person’s face to trick the facial recognition system).  Instead of matching faces with 
+people, these systems of the time—in reality—were  more focused on  merely 
+checking if a face were present in the captured image.  Id. 
+69 See Saptarshi Chakraborty & Dhrubajyoti Das, An Overview of Face Liveness 
+Detection, 3 INT’L J. INFORMATION THEORY 11, 11–12 (2014).  
+70 See Yi Xu et al., supra note 65, at 505–06. 
+   ______________________________________________________________________________
+______________________________________________________________________________ 
+ 
+ 
+74                                          JOURNAL OF HIGH TECHNOLOGY LAW                [Vol. XX: No. 1 
+ 
+ 
+spoofs  failed,  something  else  besides  liveness  was  needed.    The 
+solution, at least for Apple, was the introduction of controlled and 
+measured illumination (i.e., the dot projections), which detect when a 
+device or model was being used instead of a face.71 
+Stepping  back  however,  consider  why  researchers  were 
+concerned about spoofing in the first place.  What good is a key if the 
+lock does not prevent others from entry?  In other words, what are the 
+goals of the lock—why should it be designed one way over another? 
+ 
+B.   Authentication 
+ 
+The answer to these questions is authentication, a concept with 
+roots in cryptography.72  Authentication supplies the purpose behind 
+the key-to-lock mechanism.  In this way, it is like the organic statute 
+giving  rise  to  systems  like  FaceID  and  TouchID.    And  here  is 
+authentication’s statutory text—the lock should be designed to provide 
+both identification (i.e., the presentation of something unique) and 
+verification (i.e., corroboration of the unique identifier).73  These two 
+elements together are found in a Request for Comments’s74 definition 
+of the “authentication process:” 
+ 
+Identification  step:  Presenting  the  claimed  attribute 
+value  (e.g.,  a  user  identifier)  to  the  authentication 
+subsystem.  
+ 
+Verification  step:  Presenting  or  generating 
+authentication information (e.g., a value signed with a 
+                                                 
+71 See Face ID Security, supra note 10, at 3 (“To counter both digital and physical 
+spoofs, the TrueDepth camera randomizes the sequence of 2D images and depth map 
+captures, and projects a device-specific random pattern.”). 
+72 Cryptography’s  own  organic  statute  calls  for  confidentiality,  integrity,  and 
+authentication.  See generally JONATHAN KATZ & YEHUDA LINDELL, INTRODUCTION 
+TO MODERN CRYPTOGRAPHY 3–23 (CRC Press, 2d ed. 2015).  
+73 See STALLINGS & BROWN, supra note 54, at 72.  
+74 The Request for Comments (RFC) is a collection of documents, mostly managed 
+by the Internet Engineering Task Force, regarding the protocols and technical 
+underpinnings of the Internet. For instance, there is an RFC on Hypertext Transfer 
+Protocol (“HTTP”), Internet Protocol (“IP”), and Transmission Control Protocol 
+(“TCP”).  See RFC 2616, archived at https://tools.ietf.org/html/rfc2616 (for HTTP); 
+RFC 791, archived at https://tools.ietf.org/html/rfc791 (for IP); RFC 793, archived 
+at https://tools.ietf.org/html/rfc793 (for TCP). These documents provide specific 
+detail on the standards behind the tools of the Internet. 
+ ______________________________________________________________________________
+______________________________________________________________________________ 
+ 
+ 
+2020]                                      FACES AND FINGERS: AUTHENTICATION                                75 
+ 
+ 
+private key) that acts as evidence to prove the binding 
+between the attribute and that for which it is claimed.75 
+ 
+To  understand  each  of  these  roles,  consider  the  process  of 
+authentication (i.e., logging in) on an operating system.  When a user 
+goes to log in to a computer, the computer accepts as input a keyboard-
+typed password, checks this input with the previously stored password 
+you typed when you first set up the computer, and returns a true or 
+false depending on whether there is a match.76  Access is granted on 
+true and denied on false.77  
+Similarly, FaceID takes as input the scan of a face, the scan is 
+then compared to a scan from when the user initially setup the phone, 
+and the system returns a true or false depending on a match.  The two 
+steps work together: (1) identification through the presentation of 
+something unique like a face; and (2) verification through the means 
+of a matching process. 
+ 
+1.   Identification: You Are Who You Say You Are 
+ 
+  Identification is traditionally acquired in one of three ways:78 
+(1) something the user knows, like a password; (2) something the user 
+possesses, like a token; or (3) something the user is, like a finger or 
+face.79  The reason these identifiers work is because of exclusivity: a 
+                                                 
+75 RFC 4949 (2007), archived at https://tools.ietf.org/html/rfc4949 (providing a 
+glossary of terminology for information system security). 
+76 See Authentication, supra note 9 (“Entering the correct login information lets the 
+website know (1) who you are and (2) that it is actually you accessing the website.”) 
+77 See  id.  (explaining  that  it  is  important  to  use  “uncommon,  hard-to-guess 
+passwords” because if someone knows your email address they may be able to guess 
+your password and gain access). 
+78 As is often the case in computer science, these techniques may be combined to 
+offer a best of both worlds approach.  See, e.g., Andrew Teoh Beng Jin, David Ngo 
+Chek  Ling  &  Alwyn Goh,  Biohashing: Two Factor Authentication Featuring 
+Fingerprint Data and Tokenized Random Number, 37 PATTERN RECOGNITION 2245, 
+2245 (2004).  
+79 See STALLINGS & BROWN supra note 54, at 72.  
+There are four general means of authenticating a user’s identity, 
+which  can  be  used  alone  or  in  combination:  Something  the 
+individual  knows:  Examples  includes  a  password,  a  personal 
+identification number (PIN), or answers to a prearranged set of 
+questions. Something the individual possesses: Examples include 
+   ______________________________________________________________________________
+______________________________________________________________________________ 
+ 
+ 
+76                                          JOURNAL OF HIGH TECHNOLOGY LAW                [Vol. XX: No. 1 
+ 
+ 
+password you alone know, a token you alone have access to, and a 
+physical feature you alone possess.  Importantly, uniqueness is not the 
+end goal here, exclusivity is—something “you alone know.”80  True 
+enough, uniqueness is often gained with exclusivity, but this is not the 
+gravitas of identification.  
+  For example, no matter how unique a text-based password is, 
+consider how simple it would be to guess and check every possible 
+combination of characters in a three character password, otherwise 
+known  as  a  “brute-force”  attack. 81    Thus,  the  first  method  of 
+identification—something the user knows—could  leave password-
+protected content subject to access by someone without authorization.  
+Now consider the second method—something the user possesses, such 
+as the key to a house.  Anyone in possession of the right key can gain 
+access to the house that the key unlocks.  But how do we know that the 
+person in possession is necessarily the person with authorization to 
+access the house?  It doesn’t matter how unique the key is—it matters 
+that the key is in the exclusive possession of the authorized person.  
+Confidence in knowing that the only person in the house is the person 
+authorized to be there is the sine qua non of identification. 
+  Despite the fact that uniqueness is subordinate to exclusivity, 
+creating a password from personal knowledge may nonetheless be 
+appropriate because passwords provide a theoretically large guessing 
+space (typically more than three characters), making it difficult to 
+brute-force the password.82  The same is true for something  you 
+                                                 
+electronic keycards, smart cards, and physical keys. This type of 
+authenticator is referred to as a token. Something the individual is 
+(static biometrics): Examples include recognition by fingerprint, 
+retina,  and  face.  Something  the  individual  does  (dynamic 
+biometrics):  Examples  include  recognition  by  voice  pattern, 
+handwriting characteristics, and typing rhythm.  
+Id.  Although the authors present four versions of identification, the fourth is not as 
+common.  Id. 
+80 This ties into the Fifth Amendment because while exclusivity implies ownership 
+(a substantive, “factual” quality), uniqueness does not.  
+81 See sources cited supra note 26 and accompanying text (discussing the difficulty 
+of guessing an alphanumeric password); see also What’s a Brute Force Attack?, 
+KASPERSKY (Jan. 9, 2020), archived at https://perma.cc/Q5B4-3C9Y (defining a 
+brute-force attack as a process of deciphering a password through trial and error).  
+82 This is why common passwords like “12345” completely defeat authentication’s 
+purpose.    See  The  Importance  of  Strong,  Secure  Passwords,  SECURE  DATA 
+RECOVERY (Jan. 11, 2020), archived at https://perma.cc/DU5L-34YN (setting forth 
+ ______________________________________________________________________________
+______________________________________________________________________________ 
+ 
+ 
+2020]                                      FACES AND FINGERS: AUTHENTICATION                                77 
+ 
+ 
+possess, like a key, which can prevent unauthorized access so long as 
+exclusive possession is maintained.  Along the same lines, the third 
+method of identification is also effective.  Something the user is, such 
+as a face, contains enough unique detail to acquire confidence that no 
+one else has the same facial features, and thus access is exclusively 
+available to the user.83   
+ 
+2.  Verification: Means of Corroboration 
+ 
+  The second part of the two-step process involves the means by 
+which an identity is assessed.  In its simplest form, verification merely 
+requires the computer check whether two “strings” are the same.  
+Pseudocode here is helpful to fully understand what is occurring under 
+the hood:84  
+ 
+1.  previously_stored_password = “12345” 
+2.  instant_password = input(“Type your password: ”) 
+3.   
+4.  if instant_password == previously_created_password: 
+5.      return True 
+6.  else: 
+7.     return False 
+ 
+This simple process is the core of verification—using value equality 
+“==” to see if the newly entered password (i.e. the “instant_password”) 
+is the same as the previously stored password. 
+                                                 
+how passwords are similar to a lock-and-key system).  If a person has the right key, 
+then they are able to gain access.  Id. 
+83 See Gaile G. Gordon, Face Recognition Based on Depth and Curvature Features, 
+IEEE 2 (1992) (discussing the various attributes faces impart—e.g., “nose bridge, 
+nose base, nose ridge, eye corner cavities, convex center of the eye, eye socket 
+boundary, boundary surrounding the nose”). 
+84 This code, based in the coding language of Python, is provided to show how simple 
+it is to accomplish the second part of the two-step process.  See Derrick Kearney, 
+First  Steps  with  Python,  REAL  PYTHON  (Jan.  11,  2020),  archived  at 
+https://perma.cc/C2BB-N58R.  On line #1 we store the original, previously-created 
+password captured between parenthesis as a “string” of characters. On line #2 we 
+have the computer ask the user for a new, instantly-entered password.  Id.  The two 
+passwords are compared for equality on line #3, and either a successful result (line 
+#5) or an unsuccessful result (line #7) is returned.  Id.  
+   ______________________________________________________________________________
+______________________________________________________________________________ 
+ 
+ 
+78                                          JOURNAL OF HIGH TECHNOLOGY LAW                [Vol. XX: No. 1 
+ 
+ 
+The process is more complicated for biometrics, which is why 
+the use of neural networks is needed.85  But if we remove a layer of 
+abstraction, it is easy to see why neural networks are helpful—they 
+provide feature hunting.86  To be able to recognize a face, you need to 
+be able to tell one face apart from another.  Although most faces look 
+similar (i.e. two eyes, one nose and a mouth), there is a need to be able 
+to  distinguish  faces  in  order  to  recognize  them.    Teasing  out 
+uniqueness, the core of the “means” of authentication, is exactly what 
+neural networks are best for.  Thus, this is why a neural network is 
+required for facial recognition, and the same reason why Apple needed 
+to include an extra “neural engine” processing chip (i.e. a neural 
+network workhorse) on phones with FaceID.  
+  In sum, for both passwords and faces, the end-result of the 
+verification step is the same.  A previously stored value is compared 
+to a new value, resulting in either true (i.e. access granted) or false (i.e. 
+access denied).  Here, biometric authentication systems are provided 
+with the requisite amount of uniqueness and are merely tasked with 
+checking that uniqueness against previously stored uniqueness. 
+  Putting  it  all  together,  facial  scans,  fingerprint  scans,  and 
+passwords are all used for the purpose of establishing authentication.87  
+The primitives of this concept—identification and verification—are 
+the bedrock on which these devices run, making them a key component 
+in any dispute on whether a fingerprint tap, or face scan is permissibly 
+compelled.  
+ 
+ 
+ 
+ 
+                                                 
+85 See Paul Berry, Biometrics and Artificial Neural Networks: How Big Data 
+Collection Works in Your Favor, CHICAGO POL’Y REV. (Mar. 4, 2014), archived at 
+https://perma.cc/D8GH-T4RL (defining neural networks as security guards).  Neural 
+networks study and learn the unique traits and slight  variances of a specific 
+population, and are subsequently able to accept or deny access.  Id.  
+86 Neural networks are able to help identify facial features, which can be classified 
+as feature hunting.  See Kushan Ahmadian and Marina Gavrilova, Chaotic Neural 
+Network for Biometric Pattern Recognition, 2012 HINDAWI PUB. CORP. 1 (2012) 
+(introducing a more thorough study on neural networks for facial recognition 
+technology).   
+87  See  Robert  Snelick,  Large-Scale  Evaluation  of  Multimodal  Biometric 
+Authentication Using State-of-the-Art Systems, 27 IEEE 450 (2005) (acknowledging 
+that authentication is not a new concept, but a well-studied and highly documented 
+one). 
+ ______________________________________________________________________________
+______________________________________________________________________________ 
+ 
+ 
+2020]                                      FACES AND FINGERS: AUTHENTICATION                                79 
+ 
+ 
+IV.   Authentication == Truth Telling 
+ 
+If unlocking a device with either a face or fingerprint scan did 
+not impart any quantum of truth telling, then its compulsion would not 
+offend the Fifth Amendment.  An inference may be drawn from the 
+decision in Hubbell that if the “unlock” were a neutral action having 
+no implication of truth telling in and of itself, then its compulsion 
+would be appropriate.88  Yet, this is precisely what authentication does; 
+compelling an individual to “place his face in front of an iPhone X” 
+communicates a statement of fact.89 
+ 
+A.  Exclusivity Imparts a Factual Statement 
+ 
+The mechanisms of “unlock” were not created in a vacuum.  
+Just  the  opposite,  the  purpose  behind  these  mechanisms—
+authentication—is a design goal that spans from decades of work.  If a 
+lock on a door did not provide security that only authorized individuals 
+could enter, then the purpose of the lock would be lost.  Likewise, if 
+FaceID were to be easily tricked and unlocked with someone else’s 
+face, then it would be considered a failed technology.  
+Passwords are effective as “something you know” because at a 
+high level they are simply something others do not know.  Similarly, 
+faces are only useful as “something you are” because no one else 
+possesses those unique characteristics in identical form.  FaceID as a 
+feature would be considered a failure if it did not impart exclusivity, 
+ownership, and control—the very qualities separating this act from the 
+physical-based Fifth Amendment cases. 
+ 
+B.  Difference in Kind 
+ 
+Moreover, being compelled to confirm “this is my fingerprint” 
+is very different from confirming “this is my phone.”90  Consider that 
+                                                 
+88 See United States v. Hubbell, 530 U.S. 27, 34–35 (2000) (“The act of exhibiting 
+such physical characteristics is not the same as a sworn communication by a witness 
+that relates either express or implied assertions of fact or belief.”).  
+89 If the foregone conclusion were to apply, however, the result would flip. 
+90 See e.g., sources cited supra notes 21–23 and accompanying text.  The crux of the 
+argument is that requiring a suspect to produce a set of “prints” for matching 
+fingerprints left at the scene of the crime is the same “identification” inherent in 
+matching a fingerprint to an iPhone.  See id.  This point entirely misses Riley’s 
+   ______________________________________________________________________________
+______________________________________________________________________________ 
+ 
+ 
+80                                          JOURNAL OF HIGH TECHNOLOGY LAW                [Vol. XX: No. 1 
+ 
+ 
+mobile  devices  with  cloud  storage  options  have  a  theoretically 
+unlimited amount of storage potential.91  As Riley v. California92 
+appropriately noted, the ability to carry essentially an entire house of 
+personal information in your pocket is not something to be taken 
+lightly.93  The contents of this treasure trove, all of which are implicitly 
+tied to an individual via FaceID or TouchID, are merely a glance or 
+touch away—compelled entry into a no holds barred fishing expedition. 
+Further, if my fingerprint was found at the scene of the crime,94 
+it  would  not  compare  to  the  compelled  presentation  of  all  the 
+information  my  phone  holds  (i.e.  text  messages,  photographs, 
+locations, etc.).95  Compelled unlock does not  merely evidence a 
+“person”—it  is  a  binding  between  an  incredibly  detailed  digital 
+summary and an incredibly unique individual. 
+                                                 
+watershed implication—the digital world is not only different in degree, it is different 
+in kind.  See Riley v. California, 573 U.S. 373, 394 (2014). 
+91 See Bruce Schneier, How the Supreme Court Could Keep Police From Using Your 
+Cellphone to Spy on You, SCHNEIER ON SECURITY (Nov. 27, 2017), archived at 
+https://perma.cc/KV8D-4J4A (claiming that the contents of your phone defining who 
+you are is not an outlandish concept).  “The cellphones we carry with us constantly 
+are the most perfect surveillance device ever invented.”  Id. 
+92 573 U.S. 373 (2014). 
+93 See id. at 394–97 (finding that police having the ability to conduct a warrantless 
+search of a phone, would be like finding a key in the suspects pocket and then 
+conducting a warrantless search of a house).  
+94 Fingerprints are not gathered in mass to reveal the location of a person for the past 
+year, nor does a fingerprint divulge the fact that someone was “sliding into your 
+DMs” last night).  The digital world is different in kind, as Riley notes.  See id.; see 
+also Amy Mackelden, A Comprehensive Guide to Sliding Into Someone’s DMs, 
+COSMOPOLITAN (Dec. 28, 2018), archived at https://perma.cc/9X6Q-7Q4L (“Simply 
+put, [sliding into a DM] refers to a direct message sent on social media, most often 
+Instagram or Twitter, in which a random user or online acquaintance sends an 
+unexpected private message.”). 
+95 Consider the seemingly innocuous Wi-Fi toothbrush.   See Andrew Guthrie 
+Ferguson, The “Smart” Fourth Amendment, 102 CORNELL L. REV. 547, 576–77 
+(2017). 
+Most mornings I wake up and brush my teeth with a smart 
+toothbrush that has the Wi-Fi capability to be connected with a 
+smartphone and beyond. Data about my teeth brushing habits is 
+generated and sent to collecting sensors and receptors. The data 
+reveals something personal about my hygiene habits, reveals a 
+pattern of my waking time and sleeping time, and arises from 
+inside my person (my mouth). The data also derives from my 
+bathroom in my home.  
+Id.  From one simple device, information on location, wake-time, and sleep-time may 
+derive valuable evidence to corroborate or eviscerate an alibi.  Id. 
+ ______________________________________________________________________________
+______________________________________________________________________________ 
+ 
+ 
+2020]                                      FACES AND FINGERS: AUTHENTICATION                                81 
+ 
+ 
+ 
+V.  Conclusion 
+ 
+The  binary  physical–mental  distinction  for  constitutionally 
+compelling  someone  to  unlock  their  device  fails  under  user 
+authentication.  Due to this, odd results like permissible compulsion 
+for fingerprints, but not passwords, occurs.  Authentication imparts a 
+truth telling—a difference in kind from obtaining a set of fingerprints 
+or a DNA swab.  The truth telling implicit in both password recall and 
+biometric authentication is the same,96 and thus the legal result should 
+be as well. 
+ 
+                                                 
+96 Not to mention the perverse incentives of opting to use a potentially less safe 
+method of authentication (i.e., a password) because it provides safer compulsion 
+protection.  See David Sancho, Passwords: Not Going Away Anytime Soon, TREND 
+MICRO (Apr. 30, 2014), archived at https://perma.cc/GU4J-93Y3. 
+ 
+   

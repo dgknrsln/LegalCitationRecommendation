@@ -1,0 +1,1116 @@
+ 
+Intra-Executive Policy Laundering: A New Look at an 
+Old Problem 
+Alvin Y.H. Cheung† 
+ 
+I.     The Traditional Account of Policy Laundering ........ 253 
+A.  Policy Laundering in the Copyright Sphere ....... 253 
+B.  Policy Laundering in Other Fields ...................... 257 
+C.  The Theory Behind Traditional Accounts of Policy 
+Laundering .......................................................... 258 
+II.    Intra-Executive Policy Laundering ............................ 261 
+A.  The Theory Behind Intra-Executive Policy 
+Laundering .......................................................... 261 
+B.  A Hypothetical Example ..................................... 264 
+III.    Intra-Executive Policy Laundering in Action ............ 265 
+A.  When Would Executive Entities Policy 
+Launder? ............................................................. 265 
+B.  Example 1—the Basel Accords .......................... 266 
+C.  Example 2—the European Union and Copyright 
+Reform ................................................................ 268 
+D.  A Counter-Example: When Will an Executive 
+Actor Act Alone? ................................................ 271 
+IV.    Descriptive and Normative Conclusions ................... 272 
+A.  Descriptive Conclusions ..................................... 272 
+B.  Normative Conclusions ...................................... 273 
+C. Beyond the Language of “Laundering” ............... 274 
+ 
+National democratic governance is under siege.  In numerous 
+nation-states, the executive branch has used international fora to 
+advance  domestically  unpopular  policies  and  repatriate  such 
+standards  under  the  guise  of  complying  with  multilateral 
+ 
+† Of the Hong Kong Bar, Barrister (non-practicing); Lawyer, New York Bar.  I am 
+indebted to Professors Benedict Kingsbury and Gráinne de Búrca (both of the NYU School 
+of Law) for their comments on earlier versions of this article, and to Daniel Hemel 
+(University of Chicago Law School) and Alyssa S. King (Yale Law School PhD 
+Candidate) for the discussions that led to this article.  All errors remain solely my own. 250  N.C. J. INT'L L.  [Vol. XLI 
+ 
+obligations.1  “Policy laundering,” as the practice has been called, 
+has most recently come to the fore in the field of intellectual 
+property, where the interaction between international trade law and 
+intellectual property standards has come under increasing scrutiny.2  
+Multinational  corporations  in  industries  reliant  on  robust 
+intellectual  property  protection  have  driven  a  process  of 
+expansionism  through  the  inclusion  of  intellectual  property 
+ 
+provisions in trade agreements.3 The consequences of this corporate 
+involvement  in  trade  negotiations  include  the  imposition  of 
+substantive intellectual property provisions that favor corporate 
+ 
+interests,4 and thedisturbance of the traditional balance between the 
+interests  of  rights  holders  and  the  public  interest  in  access  to 
+knowledge.5 
+As a result, opposition to intellectual property provisions in 
+international trade agreements is based as much on procedure as on 
+substance.6  Opponents of the Anti-Counterfeiting Trade Agreement 
+(“ACTA”) have focused not only on its substantive content, which 
+disregards the need for  flexibility and  exceptions  to  intellectual 
+ 
+property  rights,7 but  also  on  the  process  by  which  these 
+  
+substantive rules were negotiated.8 Similar complaints have dogged 
+the  more  recent  Trans-Pacific  Partnership  (“TPP”)  trade 
+ 
+  1 See, e.g., David Kravets, Copyright Treaty Is Policy Laundering at Its Finest, 
+THREAT  LEVEL  (Nov.  4,  2009),  http://www.wired.com//2009/11/policy-laundering/ 
+[http://perma.cc/S7KQ-4KYD]  (describing  an  instance  of  policy  laundering  with  a 
+copyright treaty). 
+  2 Id. 
+  3 See SUSAN K. SELL, PRIVATE POWER, PUBLIC LAW: THE GLOBALIZATION OF 
+INTELLECTUAL PROPERTY 96–100 (2003) (describing the formation of the Intellectual 
+Property Committee, formed by executives of US-based multinational corporations, and 
+its role in the negotiations leading to the WTO Trade-Related Aspects of Intellectual 
+Property (“TRIPS”) agreement); Margot E. Kaminski, The Capture of International 
+Intellectual Property Law Through the U.S. Trade Regime, 87 S. CAL. L. REV. 977, 979–
+81 (2014) (describing the institutional capture of the United States Trade Representative 
+by private interests). 
+  4 Kaminski, supra note 3, at 979–84. 
+  5 See Peter K. Yu, Six Secret (and Now Open) Fears of ACTA, 64 SMU L. REV. 
+975, 1036–37 (2011). 
+  6 See Eddan Katz & Gwen Hinze, The Impact of the Anti-Counterfeiting Trade 
+Agreement on the Knowledge Economy: The Accountability of the Office of the U.S. Trade 
+Representative for the Creation of IP Enforcement Norms Through Executive Trade 
+Agreements, 35 YALE J. INT’L L. ONLINE 24, 24–25 (2009). 
+  7 See id. 
+  8 See id. 2016  INTRA-EXECUTIVE POLICY LAUNDERING  251 
+agreement—which was finalized on October 5, 2015.9  The final 
+text of the TPP’s intellectual property chapter—and successive 
+leaked texts—have been roundly criticized by experts for their 
+ 
+restrictiveness.10  But concerns about the secrecy in which the TPP 
+was negotiated have become much more potent—and are shared 
+  
+across the political spectrum.11 The secrecy with which agreements 
+such as ACTA and TPP have been negotiated have, as a result, given 
+ 
+  9 Jackie Calmes, Trans-Pacific Partnership Trade Deal Is Reached, N.Y. TIMES 
+(Oct. 5, 2015), http://www.nytimes.com/2015/10/06/business/trans-pacific-partnership-
+trade-deal-is-reached.html  [http://perma.cc/KSQ7-XWBJ].    On  October  9,  2015, 
+Wikileaks released what appeared to be the final text of the TPP’s intellectual property 
+chapter.  TPP Treaty: Intellectual Property Rights Chapter - 5 October 2015, WIKILEAKS 
+(Oct.  9,  2015),  https://wikileaks.org/tpp-ip3/  [http://perma.cc/Z8KA-JLEJ].    On 
+November 5, 2015, the Office of the United States Trade Representative released the final 
+text of the TPP in its entirety.  TPP Full Text, OFF. U.S. TRADE REPRESENTATIVE, 
+https://ustr.gov/trade-agreements/free-trade-agreements/trans-pacific-partnership/tpp-full 
+-text [https://perma.cc/KJ56-J9XX] (last visited Nov. 8, 2015). 
+  10 See, e.g., Jeremy Malcolm & Maira Sutton, Release of the Full TPP Text After 
+Five Years of Secrecy Confirms Threats to Users’ Rights, ELECTRONIC FRONTIER FOUND. 
+(Nov.  5,  2015),  https://www.eff.org/deeplinks/2015/11/release-full-tpp-text-after-five-
+years-secrecy-confirms-threats-users-rights [https://perma.cc/SW69-7KFM] (referring to 
+the officially released TPP text); Michael Geist, Canada Caves on Copyright in TPP: 
+Commits to Longer Term, Urge ISPs to Block Content, MICHAEL GEIST (Oct. 9, 2015), 
+http://www.michaelgeist.ca/2015/10/canada-caves-on-copyright-in-tpp-commits-to-longe 
+r-term-urge-isps-to-block-content/  [http://perma.cc/F3RS-UU29]  [hereinafter  Canada 
+Caves] (criticizing Canadian negotiators for making damaging compromises with respect 
+to the copyright provisions of the leaked version of the final TPP text); Jeremy Malcolm, 
+The Final Leaked TPP Text Is All That We Feared, ELECTRONIC FRONTIER FOUND. (Oct. 
+9,  2015),  https://www.eff.org/deeplinks/2015/10/final-leaked-tpp-text-all-we-feared 
+[http://perma.cc/82Y2-UT7V] (referring to the overwhelmingly rights-holder-friendly 
+nature of the TPP’s intellectual property chapter); Michael Geist, Why the Secrecy on the 
+TPP Talks in Ottawa This Week?  Because There Is Something to Hide, MICHAEL GEIST 
+(July  7,  2014),  http://www.michaelgeist.ca/2014/07/secrecy-tpp-talks-ottawa-week-
+something-hide/  [http://perma.cc/HG9M-ZKGC]  [hereinafter  Something  to  Hide] 
+(suggesting that the secrecy of the proposed agreement is meant to conceal the substance 
+of the proposed agreement, which would change and restrict current Canadian policy). 
+  11 See, e.g., Alec MacGillis, Why Obama’s Big Trade Deal Isn’t a Sure Thing, SLATE 
+(Feb. 2, 2015), http://www.slate.com/articles/news_and_politics/politics/2015/02/demo 
+crats_working_with_tea_party_against_obama_s_trade_deal_the_president.html  [http:// 
+perma.cc/G87B-CF3F] (discussing bi-partisan opposition to the lack of transparency in 
+conducting trade deals via the fast track); David M. Goodman, Progressives and Tea Party 
+Find Common Ground as They Oppose the Trans-Pacific Partnership, NJ.COM (Feb. 16, 
+2015),  http://www.nj.com/opinion/index.ssf/2015/02/opinion_progressives_and_tea_ 
+party_find_common_gro.html [http://perma.cc/U3KW-EMSW] (“TPP—the secret trade 
+deal many haven’t heard of—is also bringing progressives and the Tea Party out in droves, 
+and the noise they are making has the establishment concerned.”). 252  N.C. J. INT'L L.  [Vol. XLI 
+rise to allegations of policy laundering.12 
+Yet  the  current  literature  on  policy  laundering  paints  an 
+incomplete  picture.  Traditional accounts  of  policy  laundering 
+presuppose the existence of a monolithic executive branch, whose 
+primary opponents are the legislative branch and civil society.13  
+Such an account is insufficient to explain instances in which various 
+branches of the executive appear to be at odds with each other. 
+I  argue  that  there  exists  a  distinct  sub-species  of  policy 
+laundering, referred to here as “intra-executive policy laundering.”  
+International regulatory coordination is not only a vehicle through 
+which the executive as a whole seeks to advance its agenda vis-a-
+vis other branches of government—it is also a means through which 
+one executive agency can advance its own substantive agenda, and 
+expand  its  own  domestic  regulatory  authority  vis-a-vis  other 
+executive agencies.  Consequently, executive agencies will compete 
+to coordinate with counterpart agencies in other states, exacerbating 
+the incidence of policy laundering by the executive as a whole.  
+Intra-executive policy laundering also creates greater difficulties 
+for  the  legislature  and  civil  society  in detecting and opposing 
+policy laundering, as they face a multitude of opponents rather than 
+a  monolithic  executive.    Despite  potential  benefits  in  breaking 
+regulatory deadlock and increasing international coordination, this 
+article argues that the lack of transparency and accountability that 
+accompanies intra-executive policy laundering is more pernicious 
+than  that  associated  with  policy  laundering  by  a  monolithic 
+executive.    Ultimately,  however,  the  language  of  “policy 
+laundering” is misplaced, insofar as it emphasizes a substantive 
+policy pursued by an executive entity, rather than the expansion of 
+that entity’s sphere of autonomy. 
+Part I reviews the existing literature on policy laundering, as 
+well as previous literature referring to the phenomenon as the “new 
+raison d’état” and “collusive delegation.”  It contends that the 
+traditional account of “policy laundering” refers to a phenomenon 
+in which the executive has two main objectives: to advance a 
+ 
+  12 See Katz & Hinze, supra note 6, at 33 (describing the ACTA); Something to Hide, 
+supra note 10 (describing the TPP). 
+  13 See  Oriol Costa & Knud Erik Jorgensen, The Influence of International 
+Institutions  on  the  EU:  A  Framework  for  Analysis,  in  THE  INFLUENCE  OF 
+INTERNATIONAL INSTITUTIONS ON THE EU: WHEN MULTILATERALISM HITS BRUSSELS 
+1, 10 (2012). 2016  INTRA-EXECUTIVE POLICY LAUNDERING  253 
+particular  substantive  agenda  and  to  increase  its  net  autonomy 
+(namely the sum of its external autonomy in the international arena 
+and its internal autonomy vis-a-vis the legislature and civil society).  
+Part II provides a brief theoretical account of intra-executive policy 
+laundering.  Part III discusses two examples of policy laundering 
+which cannot be adequately explained by traditional accounts of 
+policy laundering, as well as one counter-example, and explains 
+them with reference to the idea of intra-executive policy laundering.  
+Part IV offers some tentative conclusions. 
+I. The Traditional Account of Policy Laundering 
+The earliest references to “policy laundering” as a phrase date 
+  
+back to 2003.14 Yet the process now called “policy laundering” has 
+been addressed in much earlier academic literature.15 
+However, the phrase “policy laundering” brings one particular 
+aspect to the fore: the attempt to implement substantive policies that 
+would not survive domestic political scrutiny through international 
+fora.  The phrase itself conjures up parallels with money laundering: 
+If “money laundering” describes the cycling of illegitimate funds 
+through  legal  structures  in  order  to  enter  them  into  legitimate 
+circulation, policy laundering similarly involves recycling policies 
+that lack political legitimacy through outside intuitions in order to 
+get them into circulation despite their lack of acceptance.16 This 
+section will first provide examples of policy laundering, both in 
+copyright and in other fields.  It will then outline the theoretical 
+discussion of policy laundering, with reference to the literature on 
+the “new raison d’état” and “collusive delegation.” 
+A.  Policy Laundering in the Copyright Sphere 
+Governments have long sought to advocate particular policies 
+ 
+in international fora.17  However, the defining feature of policy 
+ 
+  14 See infra Part II.A. 
+  15 See infra Part II.A. 
+  16 AIDAN WHITE & BEN HAYES, JOURNALISM, CIVIL LIBERTIES AND THE WAR ON 
+TERRORISM: A SPECIAL REPORT BY THE INTERNATIONAL FEDERATION OF JOURNALISTS 
+AND STATEWATCH 2, 15 (2005), http://www.statewatch.org/news/2005/may/03ifj-
+statewatch.htm [http://perma.cc/TES9-SH4S]. 
+  17 Gus Hosein, Revisiting Policy Laundering and Modern International Policy 
+Dynamics, in RESEARCH HANDBOOK ON GOVERNANCE OF THE INTERNET 260, 265 (Ian 
+Brown ed., 2013).  I acknowledge that executives in presidential and semi-presidential 
+systems have democratic legitimacy of their own; however, addressing their competing 254  N.C. J. INT'L L.  [Vol. XLI 
+laundering is that the laundering executive entity promotes a policy 
+abroad that does not (or does not yet) have domestic consensus or 
+   
+approval.18 The  laundering  entity  then  seeks  to  convince  the 
+domestic legislature to approve the policy, in order to comply with 
+  
+“international obligations.”19 The domestic legislation advocated 
+by the laundering entity may—or may not—be required by the 
+international instruments in question.20 
+The anti-circumvention provisions of the Digital Millennium 
+Copyright Act (“DMCA”) in the United States are a notable early 
+instance  of  policy  laundering  in  the  copyright  realm.    Anti-
+circumvention  refers  to  legal  restrictions  on  the  ability  to 
+circumvent  digital  rights  management  (“DRM”)  technologies.  
+DRM systems, such as the Content Scrambling System (“CSS”) 
+used for DVDs, typically seek to prevent the unauthorized copying 
+ 
+of digital content.21  In principle, such systems could impose other 
+limits on a user’s ability to use digital content, such as limits on how 
+  
+long a user can pause a video.22 However, the nature of DRM—
+which requires the encryption of content to prevent users from 
+accessing it through “unauthorized means,” while simultaneously 
+providing  users  with  limited  access—renders  it  inherently 
+   
+vulnerable  to  circumvention.23 Anti-circumvention  provisions 
+impose legal restrictions on the ability to make, sell, or use methods 
+ 
+of DRM circumvention.24
+Shortly after President Clinton assumed office, the White House 
+established an “Information Infrastructure Task Force” to formulate 
+the administration’s Internet policy.25  The task force included a 
+Working  Group  on  Intellectual  Property,  chaired  by  Patent 
+Commissioner Bruce Lehman.26  Prior to his appointment as Patent 
+ 
+claims to democratic legitimacy is outside the scope of this paper. 
+  18 Id. 
+  19 Id. 
+  20 Id. 
+  21 CORY  DOCTOROW,  CONTENT:  SELECTED  ESSAYS  ON  TECHNOLOGY, 
+CREATIVITY, COPYRIGHT, AND THE FUTURE OF THE FUTURE 6–9 (2008). 
+  22 Id. at 36. 
+  23 See id. at 7. 
+  24 See,  e.g.,  Circumvention  of  Copyright  Protection  Systems,  17  U.S.C. 
+§ 1201(a)(1)(A) (2012) (“No person shall circumvent a technological measure that 
+effectively controls access to a work protected under this title.”). 
+  25 JESSICA LITMAN, DIGITAL COPYRIGHT 90 (2006). 
+  26 Id. 2016  INTRA-EXECUTIVE POLICY LAUNDERING  255 
+Commissioner, Lehman represented the computer software industry 
+on copyright issues; the Lehman Working Group had extensive 
+communications with private-sector copyright lobbyists.27  As a 
+result, the Working Group sought to secure extensive control over 
+digital content for rights holders,28 including anti-circumvention 
+provisions.29  Faced with intense resistance in Congress,30 Lehman 
+lobbied  the  Office  of  the  United  States  Trade  Representative 
+(“USTR”)  to  propose  anti-circumvention  at  the  U.N.  World 
+Intellectual Property Organization (“WIPO”).31  Lehman’s lobbying 
+efforts directly contributed to the inclusion of anti-circumvention 
+provisions in the WIPO Copyright Treaty of 1996 (“WCT”), which 
+formed  the  basis  for  the  corresponding  DMCA  provisions.32  
+Speaking about the DMCA in March, 2013, Lehman was accused 
+of using the WIPO treaty process to avoid Congressional opposition 
+to DRM, to which he responded, “I would say that they’re right.”33 
+As  alluded  to  in  the  introduction,  ACTA  is  a  more  recent 
+example of policy laundering at work.  Negotiated in tight secrecy, 
+the first formal draft of ACTA was published on April 21, 2010 and 
+the final draft in December 2010.34  Even before the formal drafts 
+were released, commentators began to express concerns regarding 
+leaked negotiation texts.35  The final text included provisions that 
+expanded the scope of criminal copyright violations,36 dictated more 
+stringent border measures,37 and encouraged parties to implement 
+ 
+  27 Id. 
+  28 See id. at 90–91. 
+  29 See id. at 92–93. 
+  30 See Bill D. Herman & Oscar H. Gandy, Jr., Catch 1201: A Legislative History and 
+Content Analysis of the DMCA Exemption Proceedings, 24 CARDOZO ARTS & ENT. L.J. 
+121, 130–31 (2006). 
+  31 Parker Higgins & Maira Sutton, How the U.S. Trade Rep Ratchets Up Worldwide 
+Copyright Laws That Could Keep Your Devices Locked Forever, ELECTRONIC FRONTIER 
+FOUND. (Mar. 26, 2013), https://www.eff.org/deeplinks/2013/03/ustr-secret-copyright-
+agreements-worldwide [http://perma.cc/EQ6P-CEUS]. 
+  32 See Herman & Gandy, supra note 30. 
+  33 Higgins & Sutton, supra note 31. 
+  34 See Kenneth L. Port, A Case Against ACTA, 33 CARDOZO L. REV. 1131, 1156 
+(2012). 
+  35 Yu, supra note 5, at 1017. 
+  36 See Anti-Counterfeiting Trade Agreement arts. 23–26, opened for signature 
+May 1, 2011, 50 I.L.M. 243. 
+  37 See id. arts. 13–22. 256  N.C. J. INT'L L.  [Vol. XLI 
+“graduated  response”  schemes  for  online  service  providers 
+(entailing the extra-judicial termination of accounts of subscribers 
+alleged to have engaged in repeat copyright infringement).38  It also 
+created an unelected ACTA Committee to oversee enforcement.39  
+Many of ACTA’s substantive provisions have been rejected by 
+domestic political processes in the United States and elsewhere.40  
+The secretive nature of the process by which ACTA was negotiated, 
+coupled with its IP-maximalist substantive provisions, have given 
+rise to allegations of policy laundering.41 
+The TPP is a still more recent example of policy laundering.  
+Successive texts of the TPP’s intellectual property chapter revealed 
+provisions that overwhelmingly favor the interests of rights-holders, 
+at the expense of users, consumers, and countervailing public policy 
+interests.42  Commentators such as Canadian professor Michael 
+Geist and the Electronic Frontier Foundation, an NGO, have linked 
+the substantive imbalance of these provisions with the lack of 
+transparency surrounding TPP negotiations.43  Flynn and others, 
+ 
+  38 See id. pmbl., art. 27. 
+  39 Id. art. 36.  On the above provisions generally, see Margot E. Kaminski, An 
+Overview and the Evolution of the Anti-Counterfeiting Trade Agreement (ACTA), 21 ALB. 
+L.J. SCI. & TECH. 385, 417–18, 428–29 (2011) (expanding on the creation of the ACTA 
+Committee). 
+  40 See Yu, supra note 5, at 1024. 
+  41 See id. at 1024–28; Port, supra note 34, at 1161–62 (explaining how the ACTA is 
+policy laundering because it circumvented all domestic political processes and normal 
+international treaty making processes); Kravets, supra note 1 (arguing that the ACTA is 
+policy laundering and pointing to the secrecy that surrounded it); Higgins & Sutton, supra 
+note 31 (arguing that Lehman took advantage of the international forum to pass provisions 
+that would not pass domestically). 
+  42 See Malcolm & Sutton, supra note 10; Malcolm, supra note 10; Canada Caves, 
+supra note 10.  For a discussion on earlier leaked draft texts, see Sean M. Flynn et al., The 
+U.S. Proposal for an Intellectual Property Chapter in the Trans-Pacific Partnership 
+Agreement, 28 AM. U. INT’L L. REV. 105 (2012) (explaining the conflicts with public 
+interests in the TPP Intellectual Property chapter); Kimberlee Weatherall, Copyright in the 
+Trans-Pacific  Partnership  Echoes  Past  Mistakes,  CONVERSATION  (Oct.  24,  2014), 
+http://theconversation.com/copyright-in-the-trans-pacific-partnership-echoes-past-mistak 
+es-32 885 [http://perma.cc/6BWS-VJER] (detailing the public policy problems the TPP 
+Intellectual Property chapter creates from an Australian perspective); Trans Pacific 
+Partnership Agreement: Intellectual Property Chapter, ARTICLE 19 (Nov. 28, 2013), http:// 
+www.article19.org/resources.php/resource/37375/en/trans-pacific-partnership-agreement 
+:-intellectual-property-chapter [http://perma.cc/85ZB-SDK8] (commentary by Article 19, 
+an  NGO  devoted  to  freedom  of  expression  and  freedom  of  information  issues, 
+summarizing the leaked Intellectual Property chapter). 
+  43 Something  to  Hide,  supra  note  10;  see  also  Trans-Pacific  Partnership 2016  INTRA-EXECUTIVE POLICY LAUNDERING  257 
+commenting on an early U.S. proposal, gave the blunt assessment 
+that it was “an incredibly unbalanced proposal emanating from an 
+extraordinarily imbalanced process.”44 
+Policy laundering in the copyright sphere has resulted in (or has 
+threatened)  provisions  that  tilt  the  copyright  balance  in  rights-
+holders’ favor, at the expense of the general public.  The DMCA’s 
+anti-circumvention provisions have been used to stifle freedom of 
+expression and academic research.45  In addition, the ambit of anti-
+circumvention (which covers circumvention done to enable what 
+would otherwise constitute fair use under U.S. copyright law) has 
+given rights-holders the ability unilaterally to circumscribe fair use 
+through DRM.46  ACTA and TPP intellectual property provisions 
+are  similarly  unbalanced  in  favoring  the  interests  of  rights-
+holders—without  corresponding  increases  in  exceptions  and 
+limitations  for  the  public  good.    By  presenting  oppressive 
+substantive copyright provisions as a fait accompli required to 
+comply with international obligations, policy launderers circumvent 
+domestic channels for policy-setting and legislative debate and 
+forestall domestic initiatives for copyright reform.47 
+B.  Policy Laundering in Other Fields 
+Instances of policy laundering also occur in a variety of other 
+fields.  Mathias Koenig-Archibugi has argued that Germany and 
+Italy have extensively used the (then) European Community (“EC”) 
+as  a  vehicle  for  laundering  foreign  and  security  policy.48  
+Allegations of policy laundering are also common in the field of 
+national  security;  the  ACLU’s  Policy  Laundering  Project,  for 
+example,  was  formed  to  monitor  and  influence  fields  of                             
+.        .. 
+ 
+Agreement, ELECTRONIC FRONTIER FOUND., https://www.eff.org/issues/tpp [http:// 
+perma.cc/ WH8H-27CC] (last visited Dec. 18, 2015). 
+  44 Flynn et al., supra note 42, at 120.   
+  45 See Unintended Consequences: Fifteen Years Under the DMCA, ELECTRONIC 
+FRONTIER  FOUND.  (Mar.  2013),  https://www.eff.org/pages/unintended-consequences-
+fifteen-years-under-dmca [http://perma.cc/W5EV-MXYN]; DOCTOROW, supra note 21 
+(explaining how the DMCA stifles free expression). 
+  46 See Unintended Consequences, supra note 45. 
+  47 See Yu, supra note 5, at 1025–26. 
+  48 Mathias Koenig-Archibugi, International Governance as New Raison D’État?  
+The Case of the EU Common Foreign and Security Policy, 10 EUR. J. INT’L REL. 147, 
+174 (2004). 258  N.C. J. INT'L L.  [Vol. XLI 
+ 
+surveillance,  identity  documents,  border  controls,  and  terrorist 
+watch-lists.49 
+C.  The Theory Behind Traditional Accounts of Policy 
+Laundering 
+At  first  glance,  policy  laundering  seems  to  have  received 
+academic  attention  only  recently;  the  earliest  references  to  the 
+ 
+phrase  date  back  to  2003.50  Yet  discussion  of  the  underlying 
+phenomenon has a much lengthier history.  As early as 1971, Karl 
+Kaiser warned that the internationalization of formerly domestic 
+issues was “inherently incompatible with the traditional framework 
+ 
+of  democratic  control.”51  Kaiser  argued  that  the  traditional 
+distinction in Western democratic theory between foreign policy—
+which  was  subject  only  to  limited  democratic  control—and 
+domestic politics would become increasingly untenable with the 
+ 
+convergence  between  the  two  areas.52  As  a  result,  malicious 
+executive branches could partially escape responsibility to their 
+respective legislatures by “pointing to the involvement of other 
+governments  and  to  their  shared  responsibility  for  common 
+measures,”53 or prevent legislative or public input into multinational 
+ 
+decision-making before presenting them with a fait accompli.54 
+Even if the executive intended to submit to democratic control, 
+Kaiser  added,  the  system  of  multinational  interactions  is  too 
+complex for executive actors to understand, never mind master.55  
+Although Kaiser assumed that executives might engage in policy 
+laundering with benign intentions,56 later literature has imputed 
+ 
+  49 See Press Release, ACLU, ACLU Announces International Project to Stop 
+“Policy Laundering” (Apr. 13, 2005), https://www.aclu.org/news/aclu-announces-
+international-project-stop-policy-laundering  [https://perma.cc/TSA4-F3E5].    The 
+ACLU’s Policy Laundering website has been shut down. 
+  50 See Ian Hosein, The Sources of Laws: Policy Dynamics in a Digital and 
+Terrorized World, 20 INFO. SOC’Y 187, 187 (2004) (introducing the term “policy 
+laundering”). 
+  51 Karl Kaiser, Transnational Relations as a Threat to the Democratic Process, 25 
+INT’L ORG. 706, 706 (1971). 
+  52 Id. at 707. 
+  53 Id. at 713. 
+  54 Id. at 714. 
+  55 Id. 
+  56 Id.  2016  INTRA-EXECUTIVE POLICY LAUNDERING  259 
+more self-serving motives.57  In a 1994 working paper, Andrew 
+Moravcsik  made  three  key  arguments.58    First,  international 
+negotiations and institutions change the “domestic institutional[,] 
+informational[,] and ideological context in which domestic policy is 
+ 
+made.”59  In  particular,  redefining  “domestic  policy”  issues  as 
+“foreign policy” enabled control of which domestic actors could 
+initiate policy, altered the constitutional and statutory environment 
+in which policy decisions were adopted and implemented, created 
+(or  eliminated)  informational  asymmetries,  and  changed  the 
+ 
+available justifications for policies.60  Second, Moravcsik argued 
+that  such  re-allocation  generally  favors  actors  who  participate 
+directly  and  most  frequently  in  international  negotiations  and 
+  
+institutions—typically executive branches.61 Third, the shift in 
+domestic  power  toward  such  actors  facilitates  international 
+  
+cooperation by encouraging the formation of “executive cartels.”62
+Moravcsik  then  applied  his  framework  to  the  (then)  European 
+Community  and  concluded  that  the  “democratic  deficit”  it 
+engendered was “an integral part of the EC’s institutional design,” 
+  
+in  that  it  conferred  greater  domestic  influence  on  executives.63
+Moravcsik  suggested  that  national  executives  “seek  to  create 
+institutions  that  permit  them  to  control  international  agendas, 
+circumvent domestic ratification, reach decisions in secret, and 
+exploit strong, ambiguous ‘grand strategic’ ideologies,” as well as 
+to  insulate  new  policies  from national interest groups or future 
+  
+governments of a different party.64 However, Moravcsik did not 
+suggest  that  the  primary  motivation  of  national  executives  in 
+entering into international institutions is to maximize their internal 
+autonomy.65 
+Unlike Moravcsik, Klaus Dieter Wolf contended that autonomy 
+ 
+  57 Andrew Moravcsik, Why the European Union Strengthens the State: Domestic 
+Politics and International Cooperation 1–6 (Ctr. for European Studies, Working Paper 
+No. 52, 1994). 
+  58 Id. at 1. 
+  59 Id. at 1. 
+  60 See id. at 6. 
+  61 Id. at 1. 
+  62 Id. at 1–2. 
+  63 Id. at 3. 
+  64 Id. at 58–59. 
+  65 Id. at 58–60. 260  N.C. J. INT'L L.  [Vol. XLI 
+maximization  was  indeed  the  primary  objective  of  national 
+executives.66  In a 1999 article, he referred to a “new raison d’état” 
+ 
+as a threat to democratic governance.67  Wolf argued that state 
+executives voluntarily entered into mutually binding arrangements 
+to manipulate the domestic context and constrain the capacity of 
+civil society to shape events by presenting them with a fait accompli 
+and the simple binary choice to accept or reject it.68 
+Wolf’s  argument  begins  from  two  premises:  (1)  that 
+governments have their own strategic interest in maximizing their 
+autonomy; and (2) that increasing societal demands for participation 
+and the growing prominence of transnational actors restrict that 
+  
+autonomy.69 Wolf argues that governments value the maintenance 
+(or  increase)  of  their  autonomy  over  the  pursuit  of  material 
+preferences––in other words, that they will accept outcomes that 
+detract from the “common good” provided that such outcomes 
+ 
+maximize their autonomy.70  Wolf then sets out various options 
+available to governments for safeguarding internal autonomy before 
+describing  the  possibility  of  using  voluntary  intergovernmental 
+arrangements.71  In Wolf’s account, “[a]s soon as regulations have 
+a  bearing  on  the  internal  political  process,  mutual  self-
+  
+commitment  has  no  longer  merely  restrictive  implications.”72
+Through the use of non-transparent inter-governmental processes, 
+state governments can manipulate the domestic context by tying 
+their hands internationally.73 
+Koenig-Archibugi drew on writing by Kaiser, Moravcsik, and 
+ 
+Wolf in posing the “collusive delegation thesis.”74  The collusive 
+delegation thesis consists of four points.75  First, governments value 
+ 
+  66 See Klaus Dieter Wolf, The New Raison D’État as a Problem for Democracy in 
+World Society, 5 EUR. J. INT’L REL. 333, 336–37 (1999). 
+  67 Id. at 333.  Wolf cites extensive prior literature on, inter alia, the search for external 
+support by governments in support of internal autonomy.  See id. 
+  68 Id. at 335. 
+  69 See id. at 336–40. 
+  70 See id. at 340. 
+  71 See id. at 340–42. 
+  72 Id. at 341 (emphasis added). 
+  73 Id. at 341–43.  Wolf uses the entry into IMF commitments, as well as the 
+Maastricht Treaty, as examples.  Id. 
+  74 Koenig-Archibugi, supra note 48, at 150. 
+  75 Id. at 154. 2016  INTRA-EXECUTIVE POLICY LAUNDERING  261 
+their autonomy in the domestic and international spheres.76  Second, 
+“participation in intergovernmental negotiations and institutions 
+tends to increase governments’ domestic autonomy . . . .”77  Third, 
+governments, when considering whether to engage in international 
+institutions,  consider  the  effects  of  such  engagement  on  their 
+domestic  autonomy  as  well  as  the  direct  benefits  of  such 
+engagement.78  Fourth, when faced with a trade-off between internal 
+and external autonomy, governments will choose the solution that 
+improves their overall autonomy.79 
+The analytical framework of collusive delegation sheds light on 
+the motivations behind traditional accounts of policy laundering.80  
+Although  the  language  of  policy  laundering  suggests  that  the 
+objective  is  to  advance  a  particular  substantive  policy  despite 
+domestic political opposition, the literature on collusive delegation 
+suggests  that  this  is  not,  in  fact,  the  sole  (or  even  primary) 
+objective.81  Although the executive may need to achieve a certain 
+ 
+substantive  outcome  to  legitimize  its  continued  existence,82 a 
+primary objective—if not the primary objective—of the executive-
+as-strategic-actor  in  participating  in  international  fora  is  to 
+maximize its net autonomy (i.e., the sum of its internal and external 
+autonomy).83 
+II. Intra-Executive Policy Laundering 
+A.  The Theory Behind Intra-Executive Policy Laundering 
+The  existing  literature  on  policy  laundering  and  collusive 
+delegation assumes that the executive within a particular State is a 
+monolithic  entity.84    For  instance,  Wolf  offers  “Machiavellian 
+advice  to  a  government  seeking  to  maximize  its  autonomy  in 
+contemporary multi-level governance.”85  The existing literature 
+ 
+  76 Id. 
+  77 Id. 
+  78 Id. 
+  79 Id. 
+  80 See id. 
+  81 Id. at 154–55. 
+  82 See Wolf, supra note 66, at 350. 
+  83 See Costa & Jorgensen, supra note 13. 
+  84 See id. (highlighting the autonomous actions of executives). 
+  85 See Wolf, supra note 66, at 349 (emphasis added). 262  N.C. J. INT'L L.  [Vol. XLI 
+also assumes that the targets of policy laundering are “legislatures, 
+interest  groups  and  other  societal  actors.”86    Although  Kaiser 
+suggested that the rise of transnational relations would increase the 
+role  of  “technical”  ministries  (such  as  financial  regulators)  in 
+foreign policy at the expense of foreign ministries, he did not 
+explore the implications of that development.87  There has also been 
+previous  discussion  of  competition  between  executive  agencies 
+involving international coordination, but without explicitly linking 
+the phenomenon to the broader literature on policy laundering.88 
+This  article  links  the  academic  discussion  of  competition 
+between executive agencies involving international coordination to 
+the literature on policy laundering.  Unlike traditional accounts of 
+policy  laundering,  which  assume  the  existence  of  monolithic 
+governments  with  their  own  interests  and  preferences,  intra-
+executive  policy  laundering  assumes  the  existence  of  diverse 
+interest groups within the executive competing for the power to set 
+executive policy.89  It suggests that the same forces that induce the 
+executive as a whole to engage in policy laundering—namely the 
+desire to maximize internal autonomy vis-a-vis legislatures and civil 
+society, and external autonomy in the international arena—also 
+apply to individual agencies within the executive vis-a-vis other 
+executive  agencies  and  counterpart  regulators  in  other  States.90  
+Although  intra-executive  policy  laundering  may  accompany  or 
+exacerbate  policy  laundering  by  the  executive  as  a  whole,  the 
+formation of the “executive position” for the purposes of the latter 
+form of policy laundering may itself involve intra-executive policy 
+laundering. 
+Theories of regulation provide support for the idea of intra-
+executive policy laundering.  Regardless of whether a particular 
+theory assumes that regulators act in the public interest or in 
+pursuit of their own self-interest, such regulators must nonetheless 
+ 
+  86 Moravcsik, supra note 57, at 1. 
+  87 See Kaiser, supra note 51, at 711–12. 
+  88 See Daniel Hemel, Regulatory Consolidation and Cross-Border Coordination: 
+Challenging the Conventional Wisdom, 28 YALE J. ON REG. 213, 223–25 (2011); Enrico 
+Colombatto & Jonathan R. Macey, A Public Choice Model of International Economic 
+Cooperation and the Decline of the Nation State, 18 CARDOZO L. REV. 925, 925–28 (1996) 
+(discussing internal coordination with regulatory bodies). 
+  89 See Colombatto & Macey, supra note 88, at 930–31. 
+  90 See id. at 929–32. 2016  INTRA-EXECUTIVE POLICY LAUNDERING  263 
+seek autonomy in order to pursue their other objectives.91  As 
+Colombatto and Macey argue, “[a]ll else equal, regulators would 
+prefer not to cede or to share authority with their counterparts 
+from  other  countries.”92    However,  faced  with  domestic 
+policymaking constraints, executive entities have less to lose by 
+entering into international agreements.93  On the contrary, such 
+entities may have much to gain from entry into such agreements.  
+One such benefit is the ability to cloak their desired policies in a 
+veneer of international credibility.94  Another is to restrict the 
+policy options available to other domestic regulators.95  Indeed, 
+many of the premises in Koenig-Archibugi’s collusive delegation 
+thesis  arguably  lend  themselves  to  intra-executive  policy 
+laundering.96  If Koenig-Archibugi’s premises are reframed with 
+reference  to  entities  within  an  executive,  rather  than  to  a 
+monolithic executive, they might be restated in the following 
+terms:  
+1)  Entities  within  the  executive  value  their  capacity  to  act 
+autonomously vis-a-vis competing executive entities (“internal 
+autonomy”),  as  well  as  vis-a-vis  their  counterpart  executive 
+entities in other States (“external autonomy”); 
+2) Participation in international institutions tends to increase the 
+internal  autonomy  of  executive  entities  and  increase  their 
+influence within the executive as a whole; 
+3) When  considering  whether  to  participate  in  international 
+institutions, an executive actor will consider not only whether 
+such international coordination will advance its particular policy 
+preferences, but also its effects on the actor’s internal autonomy; 
+and 
+4) When  deciding  whether  to  participate  in  international 
+institutions, an executive actor will select the option that most          
+ 
+  91 See Hemel, supra note 88, at 227–28. 
+  92 See Colombatto & Macey, supra note 88, at 926 (emphasis added). 
+  93 See Hemel, supra note 88, at 228. 
+  94 See id. at 229–30. 
+  95 See id. at 228–29. 
+  96 See  MATHIAS  KOENIG-ARCHIBUGI  &  MICHAEL  ZÜRN,  NEW  MODES  OF 
+GOVERNANCE  IN  THE  GLOBAL  SYSTEM:  EXPLORING  PUBLICNESS,  DELEGATION  AND 
+INCLUSIVENESS 12–16 (2005) (positing that the three dimensions on which entities decide 
+governance arrangements are publicness, delegation, and inclusiveness). 
+ 264  N.C. J. INT'L L.  [Vol. XLI 
+. 
+advances its overall autonomy (i.e., the sum of its internal and 
+external autonomy). 
+The  differences  between  traditional  accounts  of  policy 
+laundering and intra-executive policy laundering are summarized in 
+the following table: 
+ 
+  Traditional Accounts  Intra-Executive 
+Competing interest 
+Nature of 
+Monolithic executive  groups within  
+Executive 
+executive 
+Laundering 
+Monolithic executive  Entity within executive 
+Entity 
+Maximize autonomy 
+Internal  Maximize autonomy 
+vis-a-vis 
+Autonomy  vis-a-vis 
+legislature and civil 
+Goals  other executive entities 
+society 
+Maximize autonomy 
+External  Maximize autonomy  
+vis-a-vis counterpart 
+Autonomy  vis-a-vis 
+executive entities in 
+Goals  other States 
+other States 
+Impose policy on 
+Impose policy on other 
+Policy Goals  legislature and civil 
+executive entities 
+society 
+B.  A Hypothetical Example 
+Hemel  provides  an  illustration  of  intra-executive  policy 
+laundering (albeit without describing it as such): 
+Imagine three regulators (1, 2, and 3) choose among three policy 
+options (A, B, and C).  Regulator 1 prefers A to B and B to C.  
+Regulator 2’s preference order is B, then C, then A.  Regulator 3’s 
+preference order is C, then A, then B.  All regulators prefer A, B, 
+and C to the status quo, but no single policy option generates a 2016  INTRA-EXECUTIVE POLICY LAUNDERING  265 
+consensus (or even a majority).  The consequence is a voting 
+“cycle”: “policy proposals can just go around and around with no 
+end.”  The cycle will end only if one actor delimits the menu of 
+options. 
+International  institutions  can  enable  domestic  actors  to  assert 
+control over the policy agenda by forcing a choice between two 
+options.    For  example,  regulator  2  and  her  cross-border 
+counterparts may sign an agreement adopting option B.  This 
+forces  regulators  1  and  3  to  choose  between  ratification  and 
+rejection of the accord (B versus the status quo).97 
+In the above hypothetical, Regulator 2 has engaged in intra-
+executive policy laundering in order to impose her chosen policy 
+decision on Regulators 1 and 3. 
+The interaction between intra-executive policy laundering and 
+regular accounts of policy laundering can be illustrated by adding 
+one further element to the hypothetical.  Posit that, in addition to 
+Regulators 1, 2, and 3, there exists a domestic legislature that is 
+opposed to all of options A, B, and C; in other words, it prefers to 
+maintain the status quo.  Once Regulator 2 has laundered her chosen 
+policy (option B)—thus compelling other executive agencies to fall 
+into line—the executive as a whole might then engage in policy 
+laundering (as traditionally understood) by forcing the legislature to 
+accept option B. 
+III. Intra-Executive Policy Laundering in Action 
+A.  When Would Executive Entities Policy Launder? 
+Koenig-Archibugi’s  four  premises  above  (as  adapted)  can 
+provide  several  working  hypotheses  regarding  when  executive 
+entities will engage in intra-executive policy laundering.98  When 
+deciding whether to participate in international coordination, an 
+executive entity will select the option that most advances its overall 
+autonomy.99  This suggests that an executive entity with restricted 
+internal autonomy but expansive external autonomy will be willing 
+to sacrifice some of its external autonomy if the sacrifice will result 
+in a more-than-equivalent increase in internal autonomy—in other 
+words,  it  will  engage  in  intra-executive  policy  laundering.  
+ 
+  97 Hemel, supra note 88, at 228–29 (internal citations omitted). 
+  98 See KOENIG-ARCHIBUGI & ZÜRN, supra note 96. 
+  99 See id. 266  N.C. J. INT'L L.  [Vol. XLI 
+Conversely, an executive entity with expansive internal autonomy 
+will have little incentive to engage in international coordination that 
+will likely decrease its external autonomy. 
+B.  Example 1—the Basel Accords 
+The Basel I and II Accords are notable examples of intra-
+executive policy laundering.  Basel I, which was signed in July 
+1988, imposed common capital standards on banks.100  However, it 
+did  not  impose  common  liquidity  requirements.101    Nor  did  it 
+achieve its purported effect of “levelling the playing field” between 
+American and Japanese banks.102  The background to both Basel I 
+(and  the  subsequent  Basel  II)  show  how  the  Federal  Reserve 
+engaged  in  intra-executive  policy  laundering  to  increase  its 
+autonomy vis-a-vis other American financial regulators, while also 
+advancing its own substantive policy agenda. 
+Multiple  agencies  exercise  regulatory  authority  over 
+commercial  banks  in  the  United  States.    The  Federal  Deposit 
+Insurance Corporation (“FDIC”), the Treasury Department’s Office 
+of  Comptroller  of  the  Currency  (“OCC”),  the  Office  of  Thrift 
+Supervision  (“OTS”),  and  the  Federal  Reserve  each  assume 
+responsibility  for  disparate  parts  of  the  United  States  banking 
+system.103  The Federal Reserve’s domestic regulatory authority is 
+comparatively weak, both in terms of the number of institutions 
+supervised and in terms of the value of bank assets.104  However, it 
+enjoys  far  stronger  international  connections  than  its  domestic 
+regulatory rivals do.  Federal Reserve officials have engaged in 
+regular  meetings  with  other  central  bankers  at  the  Bank  for 
+International  Settlements’  Basel  headquarters  since  1974;105 
+although the OCC and FDIC now each have one seat on the Basel 
+Committee, the Federal Reserve continues to hold two seats on the 
+Committee.106 
+ 
+  100 See BASEL COMM. ON BANKING SUPERVISION, INTERNATIONAL CONVERGENCE OF 
+CAPITAL MEASUREMENT AND CAPITAL STANDARDS 3, 14 (1988), http://www.bis.org/ 
+publ/bcbs04a.pdf [http://perma.cc/6S7X-VA5B]. 
+  101 Hemel, supra note 88, at 231–32. 
+  102 Id. 
+  103 See id. at 232–33. 
+  104 See id. 
+  105 Id. at 235–36. 
+  106 Basel  Committee  Membership,  BANK  FOR  INT’L  SETTLEMENTS, 
+http://www.bis.org/bcbs/membership.htm  [http://perma.cc/A23D-T7J3]  (last  visited 2016  INTRA-EXECUTIVE POLICY LAUNDERING  267 
+Although Federal banking regulators agreed on the need for 
+some  form  of  capital  reserve  regulation  in  the  wake  of  the 
+Continental Illinois National Bank collapse,107 they vociferously 
+disagreed on the appropriate regulatory solution.108  The Federal 
+Reserve’s preferred “risk bucket” approach faced opposition not 
+only from the FDIC, but also from the Reagan Administration.109  
+To break the regulatory deadlock, Federal Reserve Chairman Paul 
+Volcker reached an agreement with his UK counterpart, Bank of 
+England Governor Robin Leigh-Pemberton, to endorse the “risk 
+bucket” approach.110  This agreement ultimately led to the Basel I 
+accord—which endorsed the Federal Reserve’s preferred approach.  
+Competing domestic regulators reluctantly acquiesced.111  
+The Basel II accord represents another example of successful 
+intra-executive policy laundering by the Federal Reserve.112  In 
+1996, then-Federal Reserve Chairman Alan Greenspan came to 
+favor the “value at risk” (“VaR”) model of risk management—a 
+view shared by other central bankers, but not by other U.S. banking 
+ 
+regulators.113 Basel II, released in 2001, adopted the VaR approach; 
+attempts by the OCC and FDIC to block its implementation in the 
+  
+United States were ultimately unsuccessful.114 The result of Basel 
+II was  that “[w]hat had been a three-way fight among domestic 
+regulators . . .  now looked like a quixotic attempt by the FDIC and 
+the  [OCC]  to  roll  back  the  advance  of  cutting-edge  risk-
+management  techniques  that  were  being  implemented  in  other 
+countries.”115 
+Neither Basel I, nor Basel II, lends itself to explanation through 
+a traditional policy laundering analysis.116  The background to both 
+accords  reflects  strong  disagreements  between  Federal  banking 
+regulators, rather than a unified position held by the Executive; the 
+ 
+Nov. 3, 2015). 
+  107 Hemel, supra note 88, at 233. 
+  108 See id. at 233–35. 
+  109 Id. at 234–35. 
+  110 Id. at 236. 
+  111 See id. at 237. 
+  112 Id. at 240. 
+  113 Id. 
+  114 Id. at 240–41. 
+  115 Id. at 241. 
+  116 See id. at 238–41. 268  N.C. J. INT'L L.  [Vol. XLI 
+internal  discord  was  such  that  a  House  of  Representatives 
+subcommittee hearing on Basel II was subtitled “In Search of a 
+ 
+Unified U.S. Position.”117  The Federal Reserve’s limited domestic 
+control over banking regulation led it to engage in intra-executive 
+policy laundering to strengthen its position vis-a-vis other domestic 
+banking regulators.118 
+C.  Example 2—the European Union and Copyright Reform 
+On  December  5,  2013,  the  Internal  Market  and  Services 
+Directorate-General  of  the  European  Commission  launched  its 
+  
+public consultation on copyright reform within the EU.119 The 
+thirty-six-page  consultation  document  covered  a  wide  range  of 
+topics,120 including the territoriality of rights clearances,121 the idea 
+of  a  single  European  copyright  title,122  and  the  creation  of  a 
+registration system for works created within the EU.123  Notably, 
+major consultation topics included limitations and exceptions to 
+copyright (both generally and with reference to specific exceptions 
+  
+such  as  research,  education,  and  access  for  the  disabled),124 as  
+  
+well  as  enforcement and intermediary liability.125 One of the key 
+questions  canvassed  was  whether  the  fact  that  most  of  the 
+limitations and exceptions listed in the EU copyright directives were 
+ 
+  117 The New Basel Accord: In Search of a Unified U.S. Position: Hearing Before the 
+Subcomm. on Fin. Insts. & Consumer Credit of the H. Comm. on Fin. Servs., 108th Cong. 
+1–2,  6–8,  84  (2003),  http://commdocs.house.gov/committees/bank/hba91770.000/ 
+hba91770_0f.htm [http://perma.cc/XE6B-EQM4]. 
+  118 See Hemel, supra note 88, at 249. 
+  119 Public  Consultation  on  the  Review  of  the  EU  Copyright  Rules,  EUR. 
+COMMISSION,  http://ec.europa.eu/internal_market/consultations/2013/copyright-rules/ 
+index_en.htm [http://perma.cc/AXG4-CET9] (last updated July 23, 2014). 
+  120 EUROPEAN  COMM’N,  PUBLIC  CONSULTATION  ON  THE  REVIEW  OF  THE  EU 
+COPYRIGHT  RULES  1  (2013),  http://ec.europa.eu/internal_market/consultations/ 
+2013/copyright-rules/docs/consultation-document_en.pdf [http://perma.cc/Y64Y-X6RX] 
+[hereinafter EU CONSULTATION DOCUMENT]. 
+  121 Id. at 7–10. 
+  122 Id. at 36. 
+  123 Id. at 14. 
+  124 Id. at 16–30. 
+  125 Id. at 34–36.  These latter topics are viewed as stalking horses for a maximalist 
+copyright agenda.  See Paul Keller, Commission Announces Public Consultation on the 
+Review of EU Copyright Rules, COMMUNIA (Dec. 11, 2013), http://www.communia-
+association.org/2013/12/11/commission-announces-public-consultation-on-the-review-of 
+-eu-copyright-rules/ [http://perma.cc/E5KE-P6EB]. 2016  INTRA-EXECUTIVE POLICY LAUNDERING  269 
+optional caused problems, suggesting that the Directorate-General 
+might be open to increasing the number of mandatory limitations 
+and  exceptions.126    Yet  another  Directorate-General  within  the 
+Commission  appears  to  have  been  moving  in  the  opposite 
+direction.127 
+Following the European Parliament’s rejection of ACTA on 
+July 4, 2012, Trade Commissioner Karel de Gucht pledged not to 
+launder ACTA’s online copyright enforcement provisions through 
+the  Transatlantic  Trade  and  Investment  Partnership  (“TTIP”) 
+agreement, then being negotiated with the United States:  
+ACTA, one of the nails in my coffin.  I’m not going to reopen 
+that discussion.  Really, I mean, I am not a masochist.  I’m not 
+planning to do that . . . .  If the Commission advances new basic 
+legislation,  which  I  think  she  should,  we  will  revisit  the 
+question, but I’m not going to do this by the back door.128 
+Private statements by officials in the Directorate-General of 
+Trade paint a very different picture.  In a closed-door meeting with 
+corporate  lobbyists  on  December  5,  2013  on  the  intellectual 
+property  provisions  of  TTIP,  Pedro  Velasco  Martins,  the 
+Commission’s  chief  intellectual  property  negotiator,  reportedly 
+disclosed the existence of a corporate “Christmas list” of intellectual 
+property provisions for TTIP that the Commission was working to 
+implement,  including  upward  harmonization  of  copyright 
+ 
+protection.129  Velasco Martins reportedly referred to criticism by 
+NGOs and the public as “a risk” and considered it desirable to keep 
+the  European  Parliament  and  civil  society  “in  the  dark”  about 
+   
+TTIP’s  IP  provisions.130 The  negotiations  of  TTIP  have  been 
+shrouded in secrecy, with copies of the text only viewable by 
+national and EU representatives in a secure “reading room.”131 
+ 
+  126 EU CONSULTATION DOCUMENT, supra note 120, at 16–18. 
+  127 Id. 
+ 
+  128 TTIP  FAQ:  The  Negotiation  Phase,  2nd Round,  MARIETJE  SCHAAKE, 
+http://archive.is/JraPG [https://perma.cc/CZS8-GC7R] (last updated Oct. 4, 2013); see 
+also EUROPEAN COMM’N, HOW MUCH DOES THE TTIP HAVE IN COMMON WITH ACTA? 
+(2013), http://trade.ec.europa.eu/doclib/docs/2013/july/tradoc_151673.pdf [http://perma. 
+cc/LSA2-KJ5P] (posing and answering questions regarding TTIP and ACTA). 
+  129 E-mail from Ulf Pettersson, Policy Advisor to Amelia Andersdotter MEP, to 
+Greens/European Free Alliance (Dec. 18, 2013, 4:42 PM (GMT+1)), http://icg.greens-
+efa.org/pipermail/hub/2013-December/000083.html [http://perma.cc/PR46-SX2X]. 
+  130 Id. 
+  131 Zachary Davies Boren, TTIP Controversy: Secret Trade Deal Can Only Be Read 270  N.C. J. INT'L L.  [Vol. XLI 
+As  with  the  Basel  accords,  an  analysis  purely  in  terms  of 
+existing accounts of policy laundering is inadequate.  One could 
+argue that the European Commission is behaving as a monolithic 
+executive  entity,  and  that  its  public  consultations  and  private 
+statements are merely two sides of the same coin—a concerted 
+attempt to hoodwink the European Parliament and the broader 
+public.  Yet intra-executive policy laundering provides a more 
+plausible explanation.   
+In particular, several aspects of the Trade Directorate-General’s 
+prior conduct in similar trade negotiations point to the existence of 
+intra-executive  policy  laundering.    The  negotiation  of  IP 
+enforcement provisions in TTIP may exceed the authority conferred 
+by  the  negotiation  mandate  given  to  the  Commission  by  the 
+European Council; the mandate allegedly prohibits the inclusion of 
+ 
+provisions  on  IP-related  criminal  sanctions.132  Insofar  as  the 
+negotiation mandate is ultra vires that mandate, the Commission 
+would be at odds with the European Council.  Such behavior would 
+be  consistent  with  previous  conduct  by  the  Trade  Directorate-
+General, and with bureaucratic politics in  Brussels.  Further, the 
+pending EU-Singapore Free Trade Agreement features provisions 
+ 
+that have been copied, almost word for word, from ACTA.133  The 
+ 
+in  Secure  “Reading  Room”  in  Brussels,  INDEPENDENT  (Aug.  14,  2015), 
+http://www.independent.co.uk/news/world/europe/ttip-controversy-secret-trade-deal-can-
+only-be-read-secure-in-reading-room-in-brussels-10456206.html [http://perma.cc/3UH6-
+HK9X]. 
+  132 Id.  The full text of the negotiating mandate has not been made public.  However, 
+paragraph 30 of the mandate allegedly states, “The Agreement shall not include provisions 
+on  criminal  sanctions.”    PIETER JAN KUIJPER ET AL.,  THE LAW OF EU EXTERNAL 
+RELATIONS 64 (2d ed. 2015); see also Member States Endorse EU-U.S. Trade and 
+Investment  Negotiations,  EUR.  COMMISSION  (June  14,  2013), 
+http://trade.ec.europa.eu/doclib/press/index.cfm?id=918  [http://perma.cc/2KM4-HJVR] 
+(discussing how mandate gives go ahead for the EU to enter into formal bilateral trade 
+negotiations with the United States); MARIETJE SCHAAKE, supra note 128 (quoting 
+paragraph 30 of the approved negotiating mandate). 
+  133 Compare EU-Singapore Free Trade Agreement, EU-Sing., art. 11.44.1–2, May 22, 
+2015,  http://trade.ec.europa.eu/doclib/press/index.cfm?id=961  [http://perma.cc/JR63-
+GMVN] (providing authentic text as of May 2015 of pending agreement), with Anti-
+Counterfeiting Trade Agreement art. 9.1–2, opened for signature May 1, 2011, 50 I.L.M. 
+243, https://ustr.gov/acta [https://perma.cc/GA35-HGGR] (providing final text of the 
+agreement).  See Glyn Moody, European Commission: ACTA Is Dead, Long Live ACTA?, 
+TECHDIRT (Oct. 23, 2013), https://www.techdirt.com/articles/20131022/07350824965/eu-
+acta-is-dead-long-live-acta.shtml  [http://perma.cc/TZ8R-DJTA]  (showing  that  the 
+language was pulled directly from the ACTA). 2016  INTRA-EXECUTIVE POLICY LAUNDERING  271 
+Trade Directorate-General would likely have played a major role in 
+the negotiation  of  both  agreements;  it  would  therefore  not  be 
+surprising that the Directorate-General would seek to revive the 
+failed substantive agenda embodied in ACTA through the inclusion 
+of  its  provisions  in  other  instruments.    In  addition,  there  is  a 
+documented history of rivalry between Directorates-General and 
+failures to coordinate within the Commission.134  Against such a 
+background, an account of policy laundering that considers intra-
+executive rivalry is more convincing than one that presupposes a 
+Commission that speaks with one voice. 
+D.  A Counter-Example: When Will an Executive Actor Act 
+Alone? 
+If the hypotheses in subpart A are correct, an executive entity 
+with extensive internal autonomy would have little incentive to 
+participate in international institutions.  Doing so would merely 
+restrict the entity’s external autonomy, with minor gains in internal 
+autonomy  at  best  (and  perhaps  even  a  reduction  in  internal 
+autonomy). 
+The USTR’s continued use of “Special 301” reports appears to 
+bear out this hypothesis.  The Special 301 regime, created by 
+Congress  in  1988  as  a  response  to  perceived  inadequacies  in 
+international intellectual property enforcement, requires USTR to 
+identify countries that do not adequately protect U.S. intellectual 
+ 
+property interests.135  The Agreement on Trade Related Aspects of 
+Intellectual Property Rights (“TRIPS”) subsequently incorporated 
+minimum standards of intellectual property protection—as well as 
+provisions on enforcement and dispute settlement—into the World 
+  
+Trade Organization framework (“WTO”).136 Yet, despite TRIPS’ 
+entry into force—and despite a WTO dispute regarding the use of 
+unilateral determinations by the United States137—the USTR has 
+ 
+  134 ROGER LEVY, IMPLEMENTING EUROPEAN UNION PUBLIC POLICY 15 (2000); see 
+also Former EU Mandarin Spills the Beans on Commission Intrigue, DEUTSCHE WELLE 
+(Sept. 21, 2007), http://www.dw.de/former-eu-mandarin-spills-the-beans-on-commission-
+intrigue/a-2790009-1 [http://perma.cc/TK9Y-JXBV] (discussing the real power in the 
+Commission). 
+  135 See 19 U.S.C. § 2411 (2015); see also Robert J. Pechman, Seeking Multilateral 
+Protection for Intellectual Property: The United States “TRIPs” over Special 301, 7 MINN. 
+J. GLOBAL TRADE 179, 195–97 (1998) (discussing the development of Special 301). 
+  136 Pechman, supra note 135, at 184–89. 
+  137 For a summary of the relevant WTO dispute, see United States – Sections 301–272  N.C. J. INT'L L.  [Vol. XLI 
+continued to make extensive use of the Special 301 framework.138  
+One plausible explanation is the preservation of internal autonomy.  
+Under the Special 301 framework, the USTR enjoys extensive net 
+autonomy  in  determining  whether  the  United  States’  trading 
+partners adequately protected American intellectual property rights.  
+WTO dispute proceedings, on the other hand, would involve a 
+reduction in the USTR’s external autonomy with no corresponding 
+gain in internal autonomy.  As a result, the USTR had little incentive 
+to abandon the unilateral Special 301 mechanism to advance its 
+substantive agenda. 
+IV. Descriptive and Normative Conclusions 
+A.  Descriptive Conclusions 
+The above examples (and counter-example) of intra-executive 
+policy laundering appear to confirm that the same considerations 
+that  result  in  “collusive  delegation”  or  policy  laundering  by 
+executives as a whole also apply to individual actors within the 
+executive.  To restate the hypotheses stated in Part III.A above: 
+1) An  executive  entity  with  restricted  internal  autonomy  but 
+expansive external autonomy will be willing to sacrifice some of 
+its external autonomy, if this will result in a more-than-equivalent 
+increase in internal autonomy; and 
+2) Conversely,  an  executive  entity  with  expansive  internal 
+autonomy will have little incentive to engage in international 
+coordination that will likely decrease its external autonomy. 
+As an increasing number of policy areas become the subject of 
+international coordination, the collusive delegation thesis suggests 
+that a number of consequences will follow.  First, intra-executive 
+turf battles will increasingly be waged on multiple fronts.  Not only 
+will executive entities compete amongst themselves in the domestic 
+arena,  they  will  also  engage  in  a  “race  to  coordinate”  with 
+counterpart  agencies  in  other  States.139    Second,  increased 
+transnational coordination will tend to favor executive agencies 
+ 
+310  of  the  Trade  Act,  WORLD  TRADE  ORG.,  http://www.wto.org/english/tratop_e/ 
+dispu_e/cases_e/ds152_e.htm [http://perma.cc/CTQ2-X75D] (last visited Sept. 10, 2015). 
+  138 For the latest Special 301 Report, see OFFICE OF THE U.S. TRADE REPRESENTATIVE, 
+EXEC. OFFICE OF THE PRESIDENT, 2014 SPECIAL 301 REPORT (2014), https://ustr.gov/ 
+sites/default/files/USTR%202014%20Special%20301%20Report%20to%20Congress%2
+0FINAL.pdf [https://perma.cc/PDT5-697A]. 
+  139 See Hemel, supra note 88, at 227. 2016  INTRA-EXECUTIVE POLICY LAUNDERING  273 
+with more extensive international connections.  Third, the resulting 
+intra-executive policy laundering may tend to exacerbate policy 
+laundering by the executive as a whole.  Intra-executive policy 
+laundering involves one executive entity entering into agreements 
+with  its  foreign  counterparts;  once  the  policy  agenda  of  the 
+executive as a whole has been set, the international agreement used 
+to set that agenda lends itself to policy laundering as against the 
+legislature and civil society. 
+B.  Normative Conclusions 
+The same criticisms that attend traditional accounts of policy 
+laundering or collusive delegation also apply to intra-executive 
+policy  laundering.    In  particular,  by  giving  an  executive  actor 
+control over the power to initiate policy and creating informational 
+ 
+asymmetries,140 intra-executive policy laundering is likely to have 
+adverse effects on public participation and transparent decision-
+making.  The involvement of a plethora of executive actors, all of 
+whom seek to seize policy initiative and keep other executive actors 
+in  the  dark,  is  likely  to  exacerbate  the  difficulties  faced  by 
+legislatures and civil society in taking (or re-taking) policy initiative 
+or accessing information.  Instead of facing one “opponent,” as is 
+the case in traditional accounts of policy laundering, such actors 
+now face several.  The inability to identify one particular focal point 
+for opposition will also make it more difficult for civil society to 
+muster opposition to a particular policy allegedly being laundered.  
+These developments suggest that intra-executive policy laundering 
+makes it easier for one executive agency—in particular, one with 
+limited domestic autonomy or legitimacy—to impose its view of the 
+common good on other executive bodies, as well as on the public. 
+Yet  intra-executive  policy  laundering  may  have  some 
+redeeming  virtues.    As  with  traditional  accounts  of  policy 
+laundering,  intra-executive  policy  laundering  may  help  achieve 
+“beneficial” substantive outcomes, as well as insulate certain policy 
+   
+decisions  from  domestic  political  forces.141 However,  intra-
+executive policy laundering may have its own distinct benefits.  The 
+creation of an additional layer of competition between executive 
+agencies may help to break the deadlock between multiple agencies; 
+in the hypothetical example in Part II.B above, the adoption of any 
+ 
+  140 See Moravcsik, supra note 57, at 7. 
+  141 See id. at 60. 274  N.C. J. INT'L L.  [Vol. XLI 
+solution would, from a regulatory perspective, be preferable to 
+maintaining the status quo.  From the perspective of transnational 
+cooperation  and  coordination,  intra-executive  policy  laundering 
+will tend to shift the power to set domestic policy agendas in favor 
+of executive entities that are already more inclined to engage in such 
+cooperation or coordination. 
+Nonetheless, troubling questions remain regarding the added 
+layers of secrecy and lack of accountability.  Wolf’s suggestions 
+regarding a deliberative model of democracy as a means of arriving 
+at  a  conception  of  the  common  good—initially  proposed  as  a 
+counter  to  the  “new  raison  d’état”  problem—may  provide  a 
+ 
+possible solution.142  However, a detailed exploration of Wolf’s 
+proposal—and its adaptation to the more complex landscape of 
+intra-executive  policy  laundering—is  beyond  the  scope  of  this 
+paper. 
+C. Beyond the Language of “Laundering” 
+Ultimately,  however,  the  most  useful  contribution  that  the 
+literature on collusive delegation can make to the discussion of 
+policy laundering—both traditional accounts and intra-executive 
+policy laundering—is to provide a more nuanced vocabulary.  The 
+language  of  “policy  laundering,”  with  its  reference  to  money 
+laundering and its emphasis on advancing a particular substantive 
+policy agenda, obscures the underlying objective of institutional 
+autonomy  and  presupposes  a  particular  normative  conclusion.  
+Although the term “policy laundering” has been singularly effective 
+in bringing a phenomenon long discussed in academic literature to 
+the  public  consciousness,  further  exploration  of  the  topic  may 
+demand  that  we  abandon  the  term  for  other,  more  useful 
+terminology. 
+ 
+ 
+  142 See Wolf, supra note 66, at 350–53 (describing provision of public goods and the 
+solution of problems in ways geared to the common good). 

@@ -1,0 +1,1120 @@
+THE PRESUMPTION OF RESULTING TRUST AND BENEFICIARY DESIGNATIONS 41
+THE PRESUMPTION OF RESULTING TRUST 
+AND BENEFICIARY DESIGNATIONS: 
+WHAT’S INTENTION GOT TO DO WITH IT?
+JASON M. CHIN, ARCHIE RABINOWITZ,
+AND AOIFE QUINN*
+When opening an RRSP or RRIF, investors typically designate a beneficiary. We expect that
+when making this choice, most investors intend that their designated beneficiary will indeed
+benefit from the investment on their death. If there is a dispute between the designated
+beneficiary and the investor’s estate, we further expect investors intend that their choice of
+beneficiary will prevail. Surprisingly, this is not the case in many provincial appellate
+courts, which in fact favour the estate in such disputes. More specifically, most Canadian
+courts apply the presumption of resulting trust to beneficiary designations: they assume,
+absent other evidence, that the designated beneficiary holds the proceeds of the RRSP or
+RRIF in trust for the deceased investor’s estate. Only Saskatchewan has taken a contrary
+position. The Alberta Court of Queen’s Bench in Morrison Estate (Re) recently weighed both
+options and endorsed the approach that applies the presumption of resulting trust.
+In this article, we analyze the doctrine of resulting trust, its rationale as presented by several
+leading cases, and empirical evidence evaluating the intentions of Canadian investors. We
+conclude that applying the presumption of resulting trust to beneficiary designations betrays
+both the theory and purpose of the presumption. It also runs counter to the intentions of most
+Canadians and creates uncertainties in millions of beneficiary designations. Finally, we
+present several solutions for bringing the law in line with the intentions of investors and,
+indeed, common sense.
+TABLE OF CONTENTS
+I. INTRODUCTION.............................................. 42
+II. THE RESULTING TRUST AND EQUITABLE PRESUMPTIONS .............. 43
+III. THE PURPOSE OF THE PRESUMPTIONS............................. 44
+A. THE INTENTIONS OF THE TRANSFEROR ........................ 44
+B. HOLDERS OF THE EVIDENCE AND MANAGERS OF ASSETS ......... 48
+C. TRANSACTIONAL CERTAINTY .............................. 49
+IV. THE APPLICATION OF THE PRESUMPTION OF RESULTING TRUST
+TO BENEFICIARY DESIGNATIONS ................................ 49
+A. SASKATCHEWAN: THE PRESUMPTION OF RESULTING TRUST
+DOES NOT APPLY TO BENEFICIARY DESIGNATIONS .............. 50
+B. THE PRESUMPTION OF RESULTING TRUST
+APPLIES TO BENEFICIARY DESIGNATIONS ..................... 50
+V. MORRISON ESTATE (RE)........................................ 53
+A. THE FACTS ............................................. 53
+B. SHOULD THE PRESUMPTION OF RESULTING TRUST
+APPLY TO BENEFICIARY DESIGNATIONS?...................... 53
+C. JUSTICE GRAESSER’S REASONS ............................. 54
+* Jason M Chin, Adjunct Professor, University of Toronto Faculty of Law; Associate, Dentons Canada
+LLP, Toronto. Archie Rabinowitz, Partner, Dentons Canada LLP, Toronto. Aoife Quinn, Articling
+Student, Dentons Canada LLP, Toronto. The authors heartily acknowledge the gracious support of Ian
+Colvin, research librarian.42 ALBERTA LAW REVIEW (2016) 54:1
+VI. THE PRESUMPTION OF RESULTING TRUST 
+SHOULD NOT APPLY TO DESIGNATED BENEFICIARIES ................ 56
+A. THE INTENTION OF THE TRANSFEROR ........................ 56
+B. AN EMPIRICAL EXAMINATION OF DONATIVE INTENT
+IN BENEFICIARY DESIGNATIONS............................. 56
+C. PRACTICAL BENEFIT ..................................... 58
+D. TRANSACTIONAL CERTAINTY .............................. 58
+E. RE SCOTTISH EQUITABLE IS PER INCURIAM ..................... 59
+VII. SOLUTIONS ................................................. 60
+A. JUDICIAL REFORM ....................................... 61
+B. LEGISLATIVE REFORM .................................... 64
+C. REFORM IN PRACTICE .................................... 66
+VIII. CONCLUSION ............................................... 66
+APPENDIX A: EMPIRICAL STUDY ................................ 67
+I.  INTRODUCTION
+When opening Registered Retirement Savings Plans (RRSPs) and Registered Retirement
+Income Funds (RRIFs), investors have a decision to make. They are asked to designate a
+beneficiary — typically their spouse, family member, or estate. This person or entity receives
+the proceeds of the investment when the registered investor dies. It is an important and, on
+its face, simple decision. We believe — and provide empirical evidence supporting our belief
+— that when making this decision, investors intend that their designated beneficiary will
+receive the proceeds of their RRSP or RRIF on their death, and further expect the law will
+respect this stated intention. A line of English and Canadian cases has held otherwise. These
+cases, culminating in Morrison Estate (Re),1 a recent decision of the Alberta Court of
+Queen’s Bench, pose a serious problem to millions of RRSP and RRIF beneficiaries and cut
+to the heart of resulting trust law in Canada and England. 
+Morrison, relying on a poorly understood and conflicting line of English and Canadian
+cases, held that the presumption of resulting trust applies to beneficiary designations. This
+means that, absent other considerations, designated beneficiaries will not benefit from the
+RRSP or RRIF. Instead, the designated beneficiary holds the proceeds on trust for the estate.
+This issue is exacerbated by the Supreme Court of Canada’s decision in Pecore v. Pecore.2
+Pre-Pecore, beneficiary designations from parents to their adult children were presumed gifts
+and thus not subject to the presumption of resulting trust. Pecore, however, eliminated the
+presumption of advancement to adult children. As a result, these adult children may be at
+serious risk of losing their RRSP and RRIF entitlements.
+In this article we suggest that the view in Morrison and the cases it draws on represent an
+illogical application of the resulting trust doctrine. The law of resulting trust is devoted to
+respecting the intentions of transferors. Therefore, applying the presumption of resulting trust
+to beneficiary designations betrays this purpose in a manner that is theoretically unsound and
+dangerous to millions of investors. Moreover, applying the presumption of resulting trust to
+1 2015 ABQB 769, 2015 DTC 5140 [Morrison].
+2 2007 SCC 17, [2007] 1 SCR 795 [Pecore].THE PRESUMPTION OF RESULTING TRUST AND BENEFICIARY DESIGNATIONS 43
+beneficiary designations carries none of the pragmatic and evidentiary benefits that have
+been associated with the presumption. With millions of Canadians contributing billions of
+dollars into RRSPs each year,3 the issues raised in Morrison have serious implications for
+a great number of beneficiaries.
+In supporting the above conclusions, we first review resulting trusts and the presumptions
+that give rise to and avoid them. We then discuss the operation of the presumptions in the
+context of designated beneficiaries in four Canadian provinces and England, which sets the
+stage for Morrison. We go on to review Morrison and suggest that its holding, and the
+Canadian position in general, fails to give effect to the intentions and expectations of most
+Canadians. To support this point, we present original empirical data suggesting that RRSP
+investors intend their designated beneficiaries to receive the proceeds of the RRSP on their
+death, rather than their estate. Finally, we conclude with solutions that will protect designated
+beneficiaries and help ensure investors’ intentions are respected.
+II.  THE RESULTING TRUST AND EQUITABLE PRESUMPTIONS
+Resulting trusts generally arise in two scenarios: when an express trust fails, and when a
+gratuitous transfer has been made.4 In both scenarios, “someone has received an asset at the
+expense of another person and the trust causes the beneficial ownership of that asset to be
+returned to that other person.”5 This article is concerned with the second variety: resulting
+trusts that come about because of gratuitous transfers. This type of trust has vexed both
+courts and academics for several reasons, including the uncertainty surrounding the role of
+intention in bringing about the trust, and whether its operation is purely anachronistic or if
+it can be justified in modern times.6
+Gratuitous transfer resulting trusts operate on the basis of equitable presumptions: on the
+execution of a gratuitous transfer, there is a presumption of a resulting trust. Equity assumes
+bargains (rather than gifts),7 and thus presumes that the recipient holds the asset in resulting
+trust for the transferor. Presently, there are two theoretical accounts concerning the manner
+in which the transferor’s intentions impact the operation of the presumption of resulting trust.
+We discuss these two accounts in the following section, “The Intentions of the Transferor.”
+The presumption of advancement represents an opposing force, preventing the presumption
+of resulting trust from arising. It is based on the nature of the relationship between the
+transferor and recipient, and causes the court to presume the transferor intended a gift. The
+onus thus shifts from recipient to transferor, who must adduce evidence that a gift was not
+intended. If such evidence is adduced, beneficial ownership of the asset results back to the
+transferor.  Both  the  categories  of  relationship  that  give  rise  to  the  presumption  of
+3 Statistics Canada, “Table 1 Registered Retirement Savings Plan Contributors: Canada, Provinces and
+Territories” (13 February 2015), online: <www.statcan.gc.ca/daily-quotidien/150213/t150213b001-eng.
+htm>.
+4 Robert Chambers, “Resulting Trusts in Canada” (2000) 38:2 Alta L Rev 378 at 383–87 [Chambers,
+“Resulting Trusts”]; Donovan WM Waters, Mark R Gillen & Lionel D Smith, eds, Waters’ Law of
+Trusts in Canada, 4th ed (Toronto: Carswell, 2012) at 397–98.
+5 Chambers, “Resulting Trusts,” ibid at 382.
+6 See ibid at 393–95; Robert Chambers “The Presumption of Resulting Trust: Nishi v. Rascal Trucking
+Ltd.” (2014) 51:3 Alta L Rev 667 at 670–73; CD Freedman, “Reassessing Gratuitous Transfers by
+Parents to Adult Children” (2005) 25 Est Tr & Pensions J 174; William Swadling, “Explaining Resulting
+Trusts,” (2008) 124:1 Law Q Rev 72.
+7 Waters, Gillen & Smith, supra note 4 at 405–408.44 ALBERTA LAW REVIEW (2016) 54:1
+advancement and the rationale that underlies the selection of these categories have been
+subject to a great deal of debate. 
+Traditionally, the presumption of advancement applied to transfers from husband to wife
+and from father to child. The Supreme Court of Canada in Pecore both expanded and
+contracted the presumption of advancement. In terms of expansion, the Court held that the
+presumption applies to transfers not only from father to child, but also from mother to child.8
+As discussed below, this expansion of the doctrine flows from the notion that both mothers
+and fathers have a moral obligation to support their children, and are thus equally likely to
+intend  gifts.  In  terms  of  contraction,  the  Supreme  Court  of  Canada  eliminated  the
+presumption of advancement between parents and adult children because the moral
+obligation to assist one’s child is mostly gone once the child reaches adulthood (and indeed,
+may reverse when the parent reaches a certain age).9 Courts and commentators have
+remarked that the equitable presumptions are outdated and that the circumstances they arose
+from have long passed. Still, courts have refrained from abolishing or further limiting the
+presumptions, noting they still have a role to play in modern society. In the following section
+we review these purposes with a view to arguing that, while some of these purposes are
+sound and serve pressing demands in the context of gratuitous transfers, they play no such
+role when applied to beneficiary designations.
+III.  THE PURPOSE OF THE PRESUMPTIONS
+The presumptions of resulting trust and advancement play a variety of roles, some more
+controversial than others. First, the presumptions seek to give life to the intentions of the
+transferor. Second, they are pragmatic, facilitating the management of assets and placing the
+evidentiary burden on the party with greater access to evidence. Finally, they seek to promote
+transactional certainty.
+A. THE INTENTIONS OF THE TRANSFEROR
+Intention, in some form or another, is at the heart of the equitable presumptions.10 The role
+of intention is clearer with the presumption of advancement: the relationship between the
+parties operates as a proxy for intention when actual evidence of intention is thin or non-
+existent. In this respect, the presumption is “a consensus of judicial opinion disclosed by
+reported cases as to the most likely inference of fact to be drawn in the absence of any
+evidence to the contrary.”11 For example, courts learned over time that transfers from father
+to son were, more likely than not, intended to be gifts, and thus treated them as such when
+no other evidence was available. The presumption of resulting trust has attracted a great deal
+more debate,12 which we discuss after a review of the presumption of advancement.
+The presumption of advancement’s foundation in intention13 is clear from both its origins
+and from its modern interpretation. With regard to the presumption as it applies between
+8 Supra note 2 at para 33.
+9 Ibid at paras 36, 40.
+10 Rathwell v Rathwell, [1978] 2 SCR 436 at 451 [Rathwell].
+11 Pettitt v Pettitt (1969), [1970] AC 777 (HL (Eng)) at 823 [Pettitt].
+12 See e.g. supra note 6.
+13 See Freedman, supra note 6 at 191.THE PRESUMPTION OF RESULTING TRUST AND BENEFICIARY DESIGNATIONS 45
+husband and wife, Lord Reid in Pettitt surmised that it arose from the common practice of
+husbands giving gifts to their wives: “[I]t would seem that the judges who first gave effect
+to it must have thought either that husbands so commonly intended to make gifts in the
+circumstances in which the presumption arises that it was proper to assume this where there
+was no evidence.”14
+This presumption between husbands and wives has been abolished by statute in most
+provinces, and where it has not, it has been extremely limited by courts.15 The justification
+for this elimination and narrowing is largely that the presumption does not accord with the
+intent of transferors in modern society. Justice Dickson (as he then was) expressed this view
+in Rathwell: [T]he old presumption of advancement has ceased to embody any credible
+inference of intention.”16
+The presumption of advancement between parents and their children still operates, but has
+evolved with changes in the parent-child relationship. Notably, Waters suggests that the
+presumption initially did not apply to mothers because they lacked the financial resources
+of fathers and thus were less likely to intend any transfer to advance to the child.17 These
+cultural factors are no longer present, resulting in a change in the doctrine. Over time,
+courts18 and commentators19 acknowledged that mothers are just as likely to intend a gift to
+their children. For instance, Justice Rothstein in Pecore stated that, as a result of cultural
+progress, women have the means and obligation to support their children and are thus “no
+less likely to intend to make gifts”20 as compared to fathers. The presumption now applies
+to transfers from mothers to their minor children.
+Gifts to adult children no longer attract the presumption of advancement and this change
+in doctrine was also made by reference to presumed intent. As noted above, Pecore
+eliminated the presumption of advancement between parents and their adult children. The
+Supreme Court of Canada in Pecore focused on one justification for the presumption: a
+parent’s moral obligation to support dependent children. The Supreme Court decided that this
+justification does not hold for adult children — parents do not intend a gift, but rather intend
+that their adult child will manage their assets for them.21
+Justice Abella concurred in Pecore’s result, but would not have narrowed the presumption
+of advancement. She reasoned that while the dependency justification may be less relevant
+for adult children, the justification of parental affection between parent and child endures into
+adulthood. In other words, a gift from a parent to their adult child is intended because parents
+naturally care about their children, young and old.22 C.D. Freedman has a similar view of the
+presumption, opining that parental affection is the “greatest indicator”23 of intent in a transfer
+14 Supra note 11 at 793.
+15 Waters, Gillen & Smith, supra note 4 at 415–18.
+16 Supra note 10 at 452.
+17 Waters, Gillen & Smith, supra note 4 at 418.
+18 Wilson, Re (1999), 27 ETR (2d) 97 (Ont Ct J (Gen Div)) at para 50.
+19 AH Oosterhoff et al, Oosterhoff on Trusts: Text, Commentary and Materials, 6th ed (Toronto: Carswell,
+2004) at 575.
+20 Supra note 2 at para 33.
+21 Ibid at para 36.
+22 Ibid at para 98.
+23 Freedman, supra note 6 at 196.46 ALBERTA LAW REVIEW (2016) 54:1
+between parent and child. While Justice Abella and Freedman disagreed with the majority
+of the Supreme Court of Canada in Pecore, all couched their reasons firmly in intent.
+There are currently two competing views regarding intention’s role in the presumption of
+resulting trust. Under the first (the “negative intent framework”),24 resulting trusts arise
+because the transferor did not intend to pass a beneficial interest. For example, assume A
+makes a gratuitous transfer of property to B. Absent other evidence and a relationship
+triggering the presumption of advancement, equity assumes that A did not intend to pass a
+beneficial interest in that property (that is, negative intent), and thus B holds it in resulting
+trust for A. Robert Chambers provides a useful explanation of the negative intent framework:
+The presumption of resulting trust is an inference regarding the intention of an apparent donor. Proof of
+certain facts (that an apparent gift was made by someone who is not the parent or perhaps husband of the
+donee) leads the court to assume that another fact exists (that the apparent donor did not intend to make a
+gift). Unless disproved, equity responds to that lack of intention by compelling the donee to hold the apparent
+gift on resulting trust for the donor.25
+Intent plays a different role under the second view (the “positive intent framework”).26
+Here, the resulting trust arises because the transferor intended the transferee to hold the
+subject matter in trust. In terms of our example above, the positive intent framework would
+say that A held a positive intention from the outset that B would hold the property in trust
+for him or her. To understand this distinction, a brief historical note is useful.
+The presumption of resulting trust can be traced back to a 15th to 17th century practice
+among English landowners to put title in their properties in the name of another person. This
+other individual would deal with the land for the use and benefit of the transferor (in other
+words a “feoffment of uses”). This arrangement conferred many advantages, including
+avoiding dowers and curtesys, allowing for more complex settlements of land, and avoiding
+forfeiture for treason. It became an extremely common practice.
+As may be expected, it was often unclear when a “use” was created, as opposed to when
+an outright transfer occurred. This uncertainty gave rise to disputes, and the Chancellor found
+it was more convenient to put the onus of proof on the transferee because it is easier to prove
+an overt purchase for value than a “use.” In other words, the Chancellor assumed a “use” in
+favour of the feoffor (that is, the transferor). Statutory reform eliminated uses, but courts
+applied the old rule by analogy to trusts: there was a presumption the transferor intended to
+create a trust in his or her favour.27
+Proponents of the positive intent framework point to the historical underpinnings of the
+presumption, suggesting the rule should stay true to its origin and remain grounded in the
+intention to create a trust in one’s own favour. Those in favour of the negative intent
+24 Chambers, “Resulting Trusts,” supra note 4; Peter BH Birks, “Restitution and Resulting Trusts” in
+Stephen Goldstein, ed, Equity and Contemporary Legal Developments (Jerusalem: Harry and Michael
+Sacher Institute for Legislative Research and Comparative Law, 1992) 335.
+25 Chambers, “Resulting Trusts,” ibid at 395 [emphasis added].
+26 Swadling, supra note 6; Westdeutsche Landesbank Girozentrale v Islington London Borough Council,
+[1996] UKHL 12, [1996] AC 669 (HL (Eng)) [Westdeutsche].
+27 Swadling, ibid at 81;  Chambers, “Resulting Trusts,” supra note 4 at 393.THE PRESUMPTION OF RESULTING TRUST AND BENEFICIARY DESIGNATIONS 47
+framework are less interested in this appeal to history, noting instead that there are several
+resulting trust fact patterns that cannot be explained by positive intention. For example, a
+resulting trust can arise even when the transferor lacks the mental capacity to understand the
+nature of the transfer.28 In such cases, it is difficult to understand how a transferor lacking
+mental capacity could have intended to create a trust.29 Courts have not conclusively decided
+the matter,30 with several suggesting the presumption as a whole is anachronistic and overdue
+for reform.31
+Under either the negative or positive intent framework, applying the presumption of
+resulting trust in the face of a beneficiary designation seems to thwart the intentions of the
+registered account holder. According to the negative intent framework, resulting trusts arise
+because there is no intention to pass a beneficial interest. However, when it comes to
+beneficiary designations, the act itself demonstrates a presence of intention to benefit the
+designated beneficiary. Indeed, the designator signs a form saying: I want a specific person
+to benefit when I pass away.
+Recall that the positive intent framework suggests that resulting trusts arise because of the
+presumption that the transferor intended to create a trust benefiting him or herself. Under this
+framework, the mere act of beneficiary designation also seems to displace the presumption.
+In the case of beneficiary designations, the designating individual named another person or
+entity as beneficiary — they could not have simultaneously intended to set up a trust in their
+own favour. Thus, the presumption of resulting trust should not arise in either the negative
+or positive intent framework. 
+While we do not seek to resolve the longstanding tension between the negative and
+positive intent frameworks, we do note that the negative framework provides a more coherent
+structure for evaluating the role of intent in beneficiary designations. We find the negative
+framework more useful because we are interested in the intentions of lay investors, who
+likely do not intend to create a trust when designating a beneficiary. In other words, if the
+presumption of resulting trust applies to beneficiary designations, and we do not think it
+should, it is almost certainly not because these investors intended to set up a trust for their
+own benefit. This is simply not the way people think about their registered accounts.
+On the other hand, there is a slight chance that these investors, when gratuitously
+designating a beneficiary, intended to retain some interest in the registered account. Later in
+this article, we will report evidence from a study in which we asked participants about
+whether they, as registered investors, intend to give absolutely or retain an interest for
+themselves and their estate. We chose not to ask our participants whether or not they
+28 Goodfellow v Robertson (1871), 18 Gr 572 (Ont Ct Ch).  
+29 Chambers, “Resulting Trusts,” supra note 4 at 391.
+30 For the negative intent framework, see Air Jamaica Ltd v Charlton, [1999] UKPC 20, [1999] 1 WLR
+1399; Twinsectra Ltd v Yardley, [2002] UKHL 12, [2002] 2 AC 164. For the positive, see Westdeutsche,
+supra note 26.
+31 See e.g. Calverley v Green, [1984] HCA 81, 155 CLR 242 [Calverley]; Dullow v Dullow, [1985] 3
+NSWLR 531 at 535 [Dullow]; Lau Siew Kim v Yeo Guan Chye Terence, [2007] SGCA 54, [2008] 2 SLR
+(R) 108 [Lau]. In addition, English and American courts have refused to apply the presumption of
+resulting trust in respect to interests in land: see Restatement (Third) of Trusts: Purchase – Money
+Resulting Trusts § 9 (2003); Lohia v Lohia (2000), [2001] WTLR 101 (HC (QBD)). On this point, “no
+concluded view” was given by the Court of Appeal, see [2001] EWCA Civ 1691 at para 26.48 ALBERTA LAW REVIEW (2016) 54:1
+intended to set up a trust because that would be a very confusing question to ask. Put
+differently, we find that the negative intent framework is simply a more intuitive way of
+thinking about the intentions of lay RRSP and RRIF investors. Indeed, even strong
+supporters of the positive intent framework do not “seek to defend the continuation in the
+modern day of a presumption of declaration of trust where the common experience is that
+citizens do not generally create trusts for themselves.”32
+B. HOLDERS OF THE EVIDENCE AND MANAGERS OF ASSETS
+At times, courts have upheld or narrowed the presumptions, not by reference to intent, but
+for their practical benefits. In particular, courts have suggested that presumed resulting trusts
+are advantageous because they place the burden to supply evidence on those more likely to
+have the evidence — the transferees. Another potential practical benefit posited by courts
+relates to the management of assets. In fact, the presumption of advancement was narrowed
+in Pecore, in part to make it easier for adult children to manage their parents’ affairs.33 As
+with intent, we will later suggest that these practical benefits are inapplicable in the context
+of beneficiary designations.
+1. HOLDERS OF THE EVIDENCE
+As noted above, the presumption of resulting trust was useful in 15th century England
+because it placed the burden of evidence on those more likely to possess that evidence. The
+majority in Pecore relied on the same justification. They stated that in situations in which the
+transferor is deceased and the dispute is between the transferee and a third party, the
+presumption of resulting trust places the burden of proof on the party that is “better placed
+to bring evidence about the circumstances of the transfer.”34 For example, imagine a typical
+resulting trust scenario where the deceased made a gratuitous transfer to a party. That
+transferee then gets involved in a dispute with the deceased’s estate over the transfer. As the
+estate is often not involved in the transfer (and is surprised to find out about it), it is sensible
+to put the burden of proof on the recipient, who is more likely to have some documentation
+or other evidence regarding the putative gift.
+2. MANAGERS OF ASSETS
+The Supreme Court of Canada in Pecore justified the abolition of the presumption of
+advancement between parents and adult children as a way to “facilitate the free and efficient
+management of that parent’s affairs.”35 Pecore came about in the context of a father and
+daughter sharing a joint bank account, and the Court was concerned such an arrangement
+would be mistaken for a gift. In other words, the Court refrained from interfering with an
+increasingly common financial management scheme. While this justification logically applies
+to joint management of a bank account, it is unclear how it would apply to designated
+beneficiaries who do not play a financial management role or have any access to the
+registered account.
+32 Swadling, supra note 6 at 84 [emphasis added].
+33 Pecore, supra note 2 at para 36.
+34 Ibid at para 26.
+35 Ibid at para 34, citing McLear v McLear Estate (2000), 33 ETR (2d) 272 at para 41 (Ont Sup Ct J).THE PRESUMPTION OF RESULTING TRUST AND BENEFICIARY DESIGNATIONS 49
+C. TRANSACTIONAL CERTAINTY
+Courts have also stressed the role the presumptions play in transactional certainty. For
+example, in Plamondon v. Czaban,36 the Alberta Court of Appeal upheld the presumption of
+advancement because of the certainty it yielded in gift-giving. The Court stated that to
+abolish the presumption of advancement and thus subject all gratuitous transfers to resulting
+trusts “would upset a vast number of gifts every day. No expensive Christmas or birthday
+present would be safe.”37 Australian courts have espoused a similar view.38
+Further, Justice Feldman’s dissent in the Ontario Court of Appeal’s decision in Saylor v
+Madsen Estate discussed the continuing relevance  of the presumptions in terms of
+transactional certainty.39 She suggested that while the presumptions may be anachronistic,
+they do provide certainty and predictability by guiding judicial determination of beneficial
+ownership.40 In other words, abolishing the presumptions would give way to uncertainty
+because every case would require a full examination of the circumstances of the transfer.
+This task is especially difficult when the transferor is deceased, as is common in litigated
+disputes. Justice Feldman suggested that if the presumption of resulting trust was abolished,
+transactional certainty could be retained by giving the designating document prima facie
+evidence of intent.41
+IV.  THE APPLICATION OF THE PRESUMPTION OF
+RESULTING TRUST TO BENEFICIARY DESIGNATIONS
+Based on the law reviewed above, it is unclear that the presumption of resulting trust
+should apply to designated beneficiaries. On one hand, no consideration passes and thus
+beneficiary designations are gratuitous transfers in the spirit of joint bank accounts in Pecore.
+On the other hand, the designation of a beneficiary, prima facie, suggests that the transferor
+considered whether a beneficial interest should pass, and indeed intends to pass the interest
+to the designated party. In this vein it seems logical that either the presumption of resulting
+trust would be rebutted by the designation itself, or that it never arises because the transferor
+did intend to pass a beneficial interest (under the negative intent framework), or did not
+intend to set up a trust (under the positive intent framework). Indeed, why bother designating
+anyone if the presumption is that the investment will pass to the owner’s estate?
+Surprisingly, England, Manitoba, British Columbia, and Ontario do apply the presumption
+of resulting trust to beneficiary designations. Only one province — Saskatchewan — takes
+the position that the presumption of resulting trust does not apply to beneficiary designations.
+We review both legal positions, beginning with Saskatchewan’s.
+36 2004 ABCA 161, [2005] 3 WWR 23.
+37 Ibid at para 30.
+38 Nelson v Nelson, [1995] HCA 25, 184 CLR 538 at 601–602, McHugh J; Dullow, supra note 31.
+39 (2005), 261 DLR (4th) 597 [Madsen Estate].
+40 Ibid at para 81.
+41 Ibid.50 ALBERTA LAW REVIEW (2016) 54:1
+A. SASKATCHEWAN: THE PRESUMPTION OF RESULTING TRUST 
+DOES NOT APPLY TO BENEFICIARY DESIGNATIONS
+The position in Saskatchewan, arising from Nelson et al. v. Little Estate, is that the
+presumption of resulting trust does not apply to beneficiary designations.42 In Nelson,
+Mildred Little transferred a bank account into the joint names of herself and her son, James.
+She also designated James as her beneficiary under a RRIF. The evidence, unchallenged by
+James, suggested that Mildred did not intend a gift to James, but rather that both her bank
+account and RRIF were to benefit her grandchildren.43
+The Saskatchewan Court of Appeal drew a distinction between the joint bank account and
+the RRIF. The presumption of resulting trust applied to the funds in the joint bank account
+and thus these funds resulted back to Mildred’s estate. The RRIF was a different story. The
+Court expressly held that the presumption of resulting trust does not apply to RRIFs (but did
+so without explanation). Ultimately however, the RRIF passed to Mildred’s estate due to her
+stated intention.44 England, Manitoba, British Columbia, and Ontario have taken a different
+and more problematic stance.
+B. THE PRESUMPTION OF RESULTING TRUST 
+APPLIES TO BENEFICIARY DESIGNATIONS
+In England, the presumption of resulting trust applies to beneficiary designations. In Re
+A Policy No. 6402 of the Scottish Equitable Life Assurance Society, a decision of the
+Chancery Division, influenced a great deal of the subsequent case law in both England and
+Canada.45 The case involved a curious set of facts. William Sanderson took an insurance
+policy out on his life, with Harriott Stiles as the designated beneficiary. William’s wife died
+a few months later, and two years after that, he married Harriott, who was in fact his
+deceased wife’s sister. The issue to be determined was whether the estate or Harriott was
+entitled to the funds of the insurance policy after William’s death.46
+The Court surveyed cases of purchase money resulting trusts and found that the
+designation of a life insurance beneficiary was no different — something was bought in the
+name of another with no consideration changing hands.47 With no evidence of William’s
+intention beyond the insurance policy itself, the Court held that the insurance proceeds
+should result back to his estate.48 Re Scottish Equitable played a significant role in the
+development of the case law in Manitoba, which agrees that the presumption of resulting
+trust applies to beneficiary designations.
+In the Manitoba Court of Appeal’s decision in Dreger (Litigation Guardian of) v. Dreger,
+the decedent Helena Dreger left behind two adult children (Dwayne and Stephanie) and an
+42 2005 SKCA 120, [2006] 8 WWR 236 [Nelson].
+43 Ibid at paras 2–3.
+44 Ibid at paras 18–19.
+45 (1901), [1902] 1 Ch 282 [Re Scottish Equitable].
+46 Ibid at 283.
+47 Ibid at 286.
+48 Ibid at 287.THE PRESUMPTION OF RESULTING TRUST AND BENEFICIARY DESIGNATIONS 51
+infant daughter (Morgan).49 A large portion of Helena’s holdings were in the form of life
+insurance policies and an RRSP. There was some evidence Helena had told her lawyer that
+she wished the insurance proceeds and RRSP funds to form part of her estate. She also made
+it clear that $5,000 per year should go from her estate to whomever was looking after
+Morgan. Unfortunately for Helena, Dwayne was the named beneficiary for both the life
+insurance policies and the RRSPs, and thus those funds never reached the estate. Worse still,
+without those funds, the estate quickly ran dry, and with it Morgan’s maintenance payments.
+An action was brought in Morgan’s name against Dwayne.50
+ 
+Morgan’s first argument was that Dwayne held the funds as trustee of an express trust for
+the benefit of the estate. The Appellate Court was hamstrung in making this finding,
+however, as the trial judge had found that the decedent never communicated any intent to her
+son that he should act as trustee for the funds in question.51 The Court refrained from
+following a line of United States cases holding that a valid express trust of a life insurance
+policy could be created when the named beneficiary had no prior knowledge he was to hold
+the funds in trust for others.52 US case law is also divided on this issue, but for very different
+reasons than Canadian courts. 
+In the US, the law surrounding resulting trusts is vastly different from that in Canada —
+a resulting trust does not automatically arise from a gratuitous transfer of property. Instead,
+where it appears that the transferor did not intend to make a gift, but instead to retain the
+beneficial interest in the property, a court can find that an express trust arises through the
+words or conduct of the transferor.53 Therefore, in a challenge to a beneficiary designation,
+US courts consider whether an express trust has been created by the transferor. In doing so,
+the court will determine if the transferor intended for the designated beneficiary to hold the
+proceeds in trust for a third party. Intent is typically found by evidence showing that the
+trustee communicated to the beneficiary that he or she was to hold the proceeds in trust.54 In
+some cases, courts have found a trust where there has not been such communication,
+although there are conflicting decisions on this point. Still, all US courts start from a
+presumption of a gift in the proceeds, rather than a presumption of resulting trust.
+The Manitoba Court of Appeal refrained from importing the US position. Instead, the
+Court followed Re Scottish Equitable, and found that designated beneficiaries in registered
+accounts and insurance contracts were subject to the presumptions of resulting trust and
+advancement.55 As this was a pre-Pecore decision, the presumption of advancement applied
+to this transfer from a mother to an adult son, but this presumption was extremely weak,
+“held from falling by nothing more than a spider’s thread.”56
+The Court then went to great lengths to ascertain evidence of intention that would defeat
+that thread. The problem was that Helena was not aware of her medical condition when most
+49 [1994] 10 WWR 293 [Dreger].
+50 Ibid at paras 2, 6, 11, 13.
+51 Ibid at para 14.
+52 Ibid at paras 17–22.
+53 Austin Wakeman Scott, William Franklin Fratcher & Mark L Ascher, Scott and Ascher on Trusts, 5th
+ed (New York: Wolters Kluwer Law & Business, 2006) vol 6 at § 40.2.
+54 Ibid, vol 1 at § 8.2.3.
+55 Dreger, supra note 49 at para 27.
+56 Ibid at para 31.52 ALBERTA LAW REVIEW (2016) 54:1
+of the designations were made, resulting in a lack of contemporaneous evidence of intention
+that the proceeds should ultimately wind up with her estate. However, she did make one
+designation after her cancer diagnosis, and at approximately the same time she instructed her
+lawyer that the proceeds of the RRSP and life insurance contracts should benefit her estate
+and thus her young daughter. The Court decided that “[o]nce it is established that one of the
+four contracts was intended as an estate asset, it is reasonable to draw the inference of a
+similar intention with respect to the earlier contracts.”57
+The British Columbia Superior Court expressly followed Dreger in Neufeld v. Neufeld
+Estate,58 holding that the presumption of resulting trust applies to the designation of a
+beneficiary for the proceeds of a RRIF. There are currently no British Columbia appellate
+court decisions on the issue.
+The Ontario Superior Court of Justice’s decision in McConomy-Wood v. McConomy59
+concerned a dispute between siblings for their parents’ RRIF, valued at nearly $400,000. The
+elder McConomys — Lillian and Douglas — were both stricken with cancer and died within
+months of each other. Lillian outlived Douglas, and about a month before dying she
+designated their daughter Lisa as beneficiary. Lillian’s will did not mention the RRIF. A
+dispute arose between Lisa and her brothers over the proceeds of the RRIF.60
+Justice Herold, despite noting that Pecore and Madsen were in the context of joint bank
+and investment accounts, applied their reasoning regarding the presumptions of resulting
+trust and advancement.61 There was ample evidence that Lillian, during her final days,
+wished for her three children to be treated equally. Justice Herold therefore found that there
+was no need to rely on the presumptions — Lisa held the RRIF proceeds in trust for the
+estate.62 Justice Herold noted that if a presumption did apply, he would follow Pecore and
+refrain from applying the presumption of advancement in the case of an adult child (that is,
+Lisa).63
+In summary, Canada has seen conflicting decisions at the appellate level. In Saskatchewan
+the presumptions do not apply to beneficiary designations, while in Manitoba they do.
+Ontario and British Columbia’s trial level decisions suggest that courts in those provinces
+will apply the presumptions to beneficiary designations. These cases set the stage for
+Alberta’s first chance to consider the issue, which also represents only the second post-
+Pecore case on this point.
+57 Ibid at para 39.
+58 2004 BCSC 25, 5 ETR (3d) 188.
+59 (2009), 46 ETR (3d) 259 [McConomy-Wood].
+60 Ibid at paras 2, 7, 45.
+61 Ibid at para 53.
+62 Ibid at para 58.
+63 Ibid.THE PRESUMPTION OF RESULTING TRUST AND BENEFICIARY DESIGNATIONS 53
+V.  MORRISON ESTATE (RE)
+A. THE FACTS
+John Morrison left his estate to be divided equally among his four children. Just prior to
+his death, John sold his house and split the proceeds equally among the four. John’s most
+valuable asset, however, was a RRIF, and he only designated his son Douglas as a designated
+beneficiary. Douglas received the proceeds of the RRIF, but the tax burden fell on the estate.
+With the combination of losing the proceeds of the RRIF and paying out the taxes on the
+RRIF, there were not enough assets left in the estate to satisfy the specific cash bequests to
+John’s grandchildren.64
+Douglas’ siblings were unhappy about this situation, and brought an application for a
+declaration that Douglas held the RRIF proceeds in trust for the estate. They argued that
+Douglas gave no consideration for the RRIF and thus, pursuant to Pecore, the proceeds
+should result back to the estate.65
+B. SHOULD THE PRESUMPTION OF RESULTING TRUST 
+APPLY TO BENEFICIARY DESIGNATIONS?
+The primary issue facing the Court was whether the presumption of resulting trust applies
+to beneficiary designations as gratuitous transfers. Or, is there something special about
+beneficiary designations that take them outside the realm of the presumptions? Justice
+Graesser noted that “[i]t is frequently said that hard cases make bad law, and there is
+certainly the potential for a hard case such as this to impact many other plan or policy owners
+and their designated beneficiaries.”66
+Indeed, if the presumption of resulting trust applies to beneficiary designations, then
+absent relationships triggering the presumption of advancement, courts must presume that
+the proceeds of RRSPs and RRIFs result to the estate. Pecore rendered this issue even more
+serious by abolishing the presumption of advancement between parents and adult children.
+In other words, if Pecore had retained the presumption of advancement between parents and
+adult children, then adult children could rely on that presumption when designated as a
+beneficiary. A holding applying the presumption of resulting trust in Alberta would place
+designated beneficiaries on shakier ground — they would be forced to adduce evidence that
+their parent intended them to benefit. And given the counterintuitiveness of the rule, who
+would think to retain such evidence? For instance, children named as beneficiaries in their
+parents’ wills are not, as a matter of course, asked to provide evidence of their parents’ intent
+that that gift should pass to them. We expect few would think to secure such evidence. We
+further explore this analogy between beneficiary designations and testamentary dispositions
+when we discuss options for judicial reform.
+Justice  Graesser  equivocated  on  whether  the  presumptions  apply  to  beneficiary
+designations.  Despite  his  misgivings  regarding  the  potential  effects  on  millions  of
+64 Morrison, supra note 1 at paras 6–8, 10–11.
+65 Ibid at para 12.
+66 Ibid at para 22.54 ALBERTA LAW REVIEW (2016) 54:1
+beneficiaries, he stated he was bound by the weight of previous Canadian decisions that
+applied the presumptions.67 Still, there was some evidence of intention, and thus Justice
+Graesser was able to avoid reliance on any presumption.68 Interestingly, however, he tacitly
+accepted the presumption of resulting trust by shifting the onus to Douglas (the respondent
+in the action) to demonstrate that his father intended him to retain the proceeds of the RRIF.69
+Morrison raises questions about the nature of resulting trusts, the rationale for imposing
+them, and whether these rationales apply to beneficiary designations.
+C. JUSTICE GRAESSER’S REASONS
+Justice Graesser reviewed the case law outlined above, and eventually accepted the
+precedents set down in Re Scottish Equitable, Dreger, and McConomy-Wood, while still
+expressing concern about their implications on transactional certainty. In particular, he
+worried their dicta would “create untold uncertainties in what are likely hundreds of
+thousands if not millions of beneficiary designations in Canada.”70 In other words, the Court
+in Pecore did not seem to foresee that its holding would put millions of designated
+beneficiaries at risk.71
+Justice Graesser also noted that the presumptions should not apply to RRSP and RRIF
+beneficiary designations because they bear similarities to beneficiary designations under a
+will. Testamentary gifts cannot be challenged by the presumption of resulting trust because
+it is presumed that the donor intended to give a gift. Beneficiary designations and
+testamentary gifts share many similarities: they do not take effect until the death of the owner
+of the plan; they can be changed by the donor during his or her life; and, they do not confer
+a present proprietary interest in the beneficiary.72 There are therefore many reasons to treat
+beneficiary designations and testamentary gifts similarly.
+Despite the above points, and although he was “sorely tempted” to hold that beneficiary
+designations “should be treated differently from other forms of gifts,” Justice Graesser
+ultimately  accepted  the  position  flowing  from  Re  Scottish  Equitable.73  Put  slightly
+differently, the weight of precedent carried the day: “I am mindful of stare decisis and am
+loathe on the facts of this case to reject what appears to be settled law in England through [Re
+Scottish Equitable] and the Manitoba Court of Appeal in [Dreger].”74
+Still, Justice Graesser did not need to apply the presumptions because he was able to find
+evidence of intention. He did, however, seem to tacitly apply the presumption of resulting
+trust. He framed the legal issue as “has Douglas proven on a balance of probabilities that his
+father intended to give Douglas the RRIF?”75 By placing the onus of proof on Douglas (the
+respondent), the recipient of the RRIF proceeds, Justice Graesser applied the presumption
+67 Ibid at para 66.
+68 Ibid at para 67.
+69 Ibid at para 68.
+70 Ibid at para 53.
+71 Ibid at para 52.
+72 Ibid at para 49.
+73 Ibid at para 66.
+74 Ibid, citing Re Scottish Equitable, supra note 45; Dreger, supra note 49.
+75 Ibid at para 68.THE PRESUMPTION OF RESULTING TRUST AND BENEFICIARY DESIGNATIONS 55
+of resulting trust de facto; he shifted the burden of proof to the gratuitous donee to prove that
+a gift was intended.
+Justice Graesser ultimately relied on ambiguous evidence to find that John intended a gift.
+He stated “that this [was] a very thin finding” with “slightly more evidence of an intention
+to favour Douglas than to have Douglas hold the RRIF as a resulting trust for the estate or
+his siblings.”76 Justice Graesser relied upon: 
+(1) The close relationship between Douglas and his father … at the time of the beneficiary designation;
+(2) The assistance rendered to Mr. Morrison by Douglas  in the time surrounding and immediately following
+Mrs. Morrison’s death; and
+(3) The close temporal connection between the making of the will appointing Douglas and Heather joint
+alternate executors and the signing of the beneficiary designation in favour of Douglas only.77
+This third point — that only Douglas was designated as beneficiary — illustrates why the
+application of the presumption of resulting trust in beneficiary designations is problematic.
+As Justice Graesser noted, there is no need to designate a beneficiary in a RRIF.78 Where
+there is no designated beneficiary, the policy simply transfers to the estate on the death of
+the policyholder. Therefore, if John had really wanted to leave the RRIF to his children in
+equal shares, he could have refused to make a designation. Instead, John made a positive
+choice to change this default position.
+Additionally, Justice Graesser imposed a constructive trust over the proceeds of the RRIF
+in favour of the estate in the amount of the tax paid by the estate on the RRIF. He found
+jurisdiction under Alberta’s Judicature Act79 to fashion an equitable remedy for the
+unfairness of having the estate pay the tax on the RRIF.80 Justice Graesser imposed the
+constructive trust as an equitable remedy on the grounds that either Douglas was unjustly
+enriched by the estate giving him the benefit of paying the tax on his behalf, or that the tax
+paid by the estate resulted from John’s mistaken belief in the consequences of designating
+a beneficiary.81
+As reviewed above, Justice Graesser was live to the dangers of applying the presumption
+of resulting trusts to beneficiary designations. In the face of Canadian and foreign precedent,
+he did not undertake a thorough analysis of these dangers. Further, he did not consider the
+theoretical and practical considerations underpinning the presumptions. We perform this
+analysis in the following section, finding scant reason to apply the presumption of resulting
+trust to beneficiary designations.
+76 Ibid at para 74.
+77 Ibid at para 73.
+78 Ibid at para 71.
+79 RSA 2000, c J-2, s 8.
+80 Morrison, supra note 1 at para 99.
+81 Ibid at paras 105–107.56 ALBERTA LAW REVIEW (2016) 54:1
+VI.  THE PRESUMPTION OF RESULTING TRUST 
+SHOULD NOT APPLY TO DESIGNATED BENEFICIARIES
+As reviewed above, courts have found that the equitable presumptions serve many salutary
+purposes. They operate to fulfill the intentions of the transferor. They may also harmonize
+the law with efficient financial planning and put the burden of evidence on the party with
+greater access to the evidence. Finally, the presumptions can promote transactional certainty.
+In the following section we demonstrate that none of these rationales apply to beneficiary
+designations.
+A. THE INTENTION OF THE TRANSFEROR
+Scholars find that gratuitous transfer resulting trusts are premised either on a lack of intent
+to pass a beneficial interest, or a positive intent to set up a trust in the transferor’s favour. On
+either basis, there is no logic in applying a resulting trust to gratuitous beneficiary
+designations. The act of designating a beneficiary, on its face, establishes intent to transfer
+a beneficial interest and is inconsistent with establishing a trust in one’s own favour. In this
+respect beneficiary designations are clearly distinguishable from the more common fact
+pattern in which a party gratuitously contributes to the purchase price of real or personal
+property, of which legal title is held by another (that is, the purchase money resulting trust).82
+In such cases there is often no evidence of intent to pass a beneficial interest, and thus there
+is reason to subject the transaction to the presumption of resulting trust. The same cannot be
+said for beneficiary designations.
+B. AN EMPIRICAL EXAMINATION OF DONATIVE INTENT 
+IN BENEFICIARY DESIGNATIONS
+Rather than relying solely on our assumptions regarding what investors intend when
+designating beneficiaries, we decided to obtain a more objective assessment. We conducted
+an empirical study of what investors intend when designating beneficiaries for an RRSP. The
+study’s results strongly suggest that when investors designate their adult son or daughter as
+a beneficiary, they intend that person, and not the estate, to receive the proceeds of the RRSP
+on their death.
+1. MATERIALS AND METHODOLOGY
+We asked participants to imagine they were opening an RRSP and had chosen to designate
+their adult son or daughter as the beneficiary. Then we asked if that designation reflected an
+intent that the proceeds of the RRSP should go to their estate, or to the son or daughter they
+designated. Participants then reported their understanding of the terms “estate” and “RRSP,”
+as a check to ensure they understood these concepts. We also asked participants their age and
+about their level of financial knowledge because of the possibility these variables might
+predict whether participants knew about the law surrounding beneficiary designations (see
+Appendix A).
+82 Nishi v Rascal Trucking Ltd, 2013 SCC 33, [2013] 2 SCR 438 at para 21.THE PRESUMPTION OF RESULTING TRUST AND BENEFICIARY DESIGNATIONS 57
+Recent research demonstrates that scientists’ failure to employ best practices has seriously
+biased the publicly available science and presents drastic consequences for law.83 To combat
+this trend, researchers suggest adopting an open and preregistered design (that is, publicly
+commit to a set of procedures that are open to scrutiny).84 We adopted this practice, posting
+our study’s materials and protocols online prior to collecting data.85 We initially planned to
+recruit 100 participants from Amazon’s Mechanical Turk (MTurk)86 platform, which
+provides a demonstrably reliable source of data.87 We did not foresee, however, that few
+Canadians use MTurk and we were only able to collect samples from 14 individuals. As a
+result, we recruited an additional 46 participants from the support staff at a large Toronto law
+firm.
+ 
+2. RESULTS AND CONCLUSION
+Participants overwhelmingly indicated that RRSP beneficiary designation constitutes
+intent that the money from their RRSP should go to the named beneficiary, rather than to the
+estate. In fact, all but two indicated this was the case (97 percent of the sample). Given the
+lack of variation in the intent measure, there is no utility in correlating it with the measures
+of financial fluency. However, it is worth noting that self-reported financial knowledge was
+between little (coded as 2) and some (3) investment knowledge (Mean = 2.40; Standard
+Deviation = .82).88 The average age was 37.96 (Standard Deviation = 12.97).
+The results of this modest study suggest individuals, when designating their adult child
+as beneficiary to an RRSP, intend that adult child to ultimately receive the proceeds of the
+RRSP. In this respect, the study supports our intuitions regarding intent in beneficiary
+designations. It also supports what we expect is common sense among most Canadians: a
+beneficiary designation, on its face, confers a beneficial interest.
+Researchers may wish to follow up on this study by broadening its scope. Participants in
+the present study reported a low to moderate level of investment knowledge. Most were also
+employed at a law firm as administrative assistants, marketers, and various other support
+staff. However, if anything, one would expect employees at a law firm to have a more
+sophisticated understanding of the law than the general population. There is therefore no
+reason to think the general population would be more likely to hold different intentions.
+Taken as a whole, the law flowing from Pecore and Morrison thwarts the intentions of
+those making beneficiary designations. Unlike joint bank accounts (and other forms of
+83 Jason M Chin, “Psychological Science’s Replicability Crisis and What It Means for Science in the
+Courtroom” (2014) 20:3 Psychol Pub Pol’y & L 225.
+84 Eric Eich, “Business Not as Usual” (2014) 25:1 Psychological Science 3.
+85 All materials, data, and preregistration information available online: Jason M Chin, Archie Rabinowitz
+& Aoife Quinn, “Intent for Resulting Trusts in RRSP Beneficiary Designations” (5 May 2016), Open
+Science Framework, online: <https://osf.io/4pw9z/>.
+86 Amazon Mechanical Turk, online: <www.mturk.com>.
+87 Michael Buhrmester, Tracy Kwang & Samuel D Gosling, “Amazon’s Mechanical Turk: A New Source
+of Inexpensive, Yet High-Quality, Data?” (2011) 6:1 Perspectives on Psychological Science 3.
+88 Financial knowledge was coded as follows: 1 – no knowledge; 2 – little knowledge; 3 – some
+knowledge; 4 – a lot of knowledge; 5 – expert. Further, only six participants evidenced no knowledge
+of what an RRSP was by either not defining it or providing an incorrect definition (for example, “savings
+account for guaranteed monthly income”). Seventy-five percent of participants correctly defined estate.
+The latter two findings were provided by a blind coder asked to determine if the definitions provided
+were reasonably accurate.58 ALBERTA LAW REVIEW (2016) 54:1
+property for that matter), adults do not designate beneficiaries to manage their funds while
+simultaneously retaining a beneficial interest — that’s simply not how such designations
+work. Instead, beneficiaries are designated to take ownership of the assets on the death of the
+registered account holder. To apply the presumption of resulting trust to such designations
+ignores and often contradicts the intent of the designating party. This betrayal of intent is
+antithetical to any conception of the law of resulting trusts.
+C. PRACTICAL BENEFIT
+The Supreme Court of Canada in Pecore posited an additional role for the presumption
+of resulting trust: it should “facilitate the free and efficient management of that parent’s
+affairs.”89 Once again, while a rebuttable presumption that the adult child is holding the
+property in resulting trust for the parent may be useful for financial management, the same
+logic simply does not hold for beneficiary designations. Rather, designated beneficiaries play
+a passive and delayed role in elders’ financial planning. This is because, unlike the bulk of
+the gratuitous transfer case law (of which Morrison and its ilk drew from), a beneficiary
+designation does not confer a present legal interest. The presumption of resulting trust
+therefore lends no practical benefit to financial management.
+The Supreme Court of Canada in Pecore also suggested that the application of the
+presumption of resulting trust carried the advantage of placing the burden of evidence on the
+party more likely to possess the evidence.90 This represents a benefit in cases like Pecore,
+where a joint account holder was likely present during the opening of the account and
+involved with his or her parent’s financial affairs. In such cases, the child is probably better
+placed than the estate to adduce evidence. However, the same is not true for designated
+beneficiaries who do not need to be involved or even consulted when they are designated.
+Indeed, in Dreger, the designated beneficiary was not aware he had been designated.91 When
+disputes do arise between the designated beneficiary and the estate, it is likely that the estate
+trustee will have greater access to the deceased’s documents. The designated beneficiary, if
+anything, has less of an evidential advantage and thus the evidence rationale does not apply.
+D. TRANSACTIONAL CERTAINTY
+An additional argument for retaining the presumptions is that they promote certainty and
+predictability. In particular, Justice Feldman in Madsen Estate worried that without the
+presumptions,  transfers  would  be  subjected  to  unstructured  judicial  inquiries  before
+transferees could confidently retain their assets. She suggested an increased number of cases
+would be decided by “the vicissitudes of the anecdotal evidence that may be brought
+forward.”92 While this may be the case with gratuitous transfers of personal property, it does
+not apply to beneficiary designations. They, in all cases, are documented by the account
+holder’s written designation establishing intent to pass a beneficial interest.
+89 Pecore, supra note 2 at para 36.
+90 Ibid at para 26.
+91 Dreger, supra note 49 at para 14.
+92 Madsen Estate, supra note 39 at para 85.THE PRESUMPTION OF RESULTING TRUST AND BENEFICIARY DESIGNATIONS 59
+More uncertainty results from retaining the presumption of resulting trust in beneficiary
+designations. Indeed, Justice Graesser noted in Morrison that the application of resulting
+trust to beneficiary designations would create “untold uncertainties”93 in potentially millions
+of investments. He is likely referring to the fact that because most people assume and intend
+that these designations will be effective, to hold otherwise creates uncertainty.
+E. RE SCOTTISH EQUITABLE IS PER INCURIAM
+Finally, Canada’s position on the application of the presumption of resulting trust traces
+back to dubious authority. This case, Re Scottish Equitable, was deemed “definitive” as to
+whether the presumption of resulting trust applies to beneficiary designations in Manitoba.94
+It was also persuasive in Morrison.95 As shall be seen, however, Re Scottish Equitable (1)
+did not rely on any relevant authority for its main proposition, (2) has been roundly criticized
+in its own jurisdiction, and (3) is inapplicable to the facts in Morrison. 
+First, Re Scottish Equitable did not actually rely on any authority for the principle it is
+cited for in Canada. As reviewed above, Re Scottish Equitable has been cited for the holding
+that the presumption of resulting trust extends beyond gratuitous transfers of real and
+personal property to beneficiary designations. Re Scottish Equitable did not actually rely on
+any cases that made such a leap. Instead, the Chancery Division rested its decision primarily
+on Dyer v. Dyer,96 a purchase money resulting trust case (that is, a resulting trust that arises
+when a person purchases land in the name of another). In that case, Mr. Dyer provided the
+purchase money for land held jointly by his family. The Court in Dyer held that the
+presumption of resulting trust applied in such circumstances.97
+Re Scottish Equitable relied on three other decisions, which were also not beneficiary
+designation cases, but rather gratuitous transfer or purchase money cases involving bonds
+and annuities. Ebrand v. Dancer98 concerned a bond purchased by a grandfather in the name
+of his grandchild. Rider v. Kidder99 was a case of a man purchasing an annuity in the name
+of himself and a woman with whom he was cohabitating. Finally, in Garrick v. Taylor,100 a
+woman bought shares in a joint stock bank and transferred them into the name of an older
+woman with whom she cohabitated. Re Scottish Equitable offered no analysis regarding why
+it was appropriate to apply the presumption of resulting trust to designated beneficiaries, nor
+did it consider the policy implications of doing so. And, of course, the Court could not have
+foreseen the consequences to millions of designated beneficiaries under RRSPs and RRIFs
+across the Atlantic Ocean. 
+Re Scottish Equitable also failed to follow controlling authority, a point for which it was
+subsequently criticized. In particular, it failed to follow a Court of Appeal decision: Cleaver
+v. Mutual Reserve Fund Life Association.101 In that case, the deceased’s executors objected
+93 Morrison, supra note 1 at para 53.
+94 Dreger, supra note 49 at para 25.
+95 Morrison, supra note 1 at para 64.
+96 (1788), 30 ER 42 (Ex Ct) [Dyer].
+97 Ibid at 45.
+98 (1680), 22 ER 829 (Ch).
+99 (1805), 32 ER 844 (Ch).
+100 (1860), 54 ER 556 (Rolls Ct), aff’d (1861) 45 ER 1144 (Ch).
+101 Cleaver v Mutual Reserve Fund Life Association (1891), [1892] 1 QB 147 (CA) [Cleaver].60 ALBERTA LAW REVIEW (2016) 54:1
+to a widow collecting a life insurance policy that the deceased had purchased in her name,
+because she murdered the deceased. While Cleaver is best known for its holding on the rule
+of forfeiture, it also contains an important discussion on the approach to the ownership of life
+insurance policies, and was followed on that point in subsequent cases of the Chancery
+Court.102 The Court of Appeal in Cleaver viewed the issue of designated beneficiaries in life
+insurance policies as governed by contract law. Absent a statutory regime, the wife
+(beneficiary) had no interest in the policy and therefore no standing to sue upon it. In other
+words, the life insurance policy was a contract between the deceased and the insurance
+company, and the beneficiary had no privity to sue on it.103
+Later cases treated Re Scottish Equitable disapprovingly, noting that it failed to rely on
+controlling authority. For instance, in Re Engelbach’s Estate, the Chancery Court declined
+to follow Re Scottish Equitable. In Re Engelbach’s Estate, the issue before the Court was
+whether the deceased’s daughter or the estate was the owner of the life insurance policy. The
+Court declined to afford Re Scottish Equitable any weight because it did not cite Cleaver,
+and it did not consider the point that the wife had never obtained a legal interest in the
+insurance monies.104 
+Finally, Re Scottish Equitable is likely inapplicable in Alberta due to Alberta’s statutory
+insurance regime. Alberta’s Insurance Act provides that upon designation of a beneficiary,
+insurance money never reaches the estate, going directly to the beneficiary:
+Insurance money not part of estate
+666(1) If a beneficiary is designated, any insurance money payable to the beneficiary is not, from the time
+of the happening of the event on which the insurance money becomes payable, part of the estate of the insured
+and is not subject to the claims of the creditors of the insured.105
+Therefore, in the face of Alberta’s insurance regime, the beneficiary in Re Scottish Equitable
+(the sister of the insured’s wife) would have likely prevailed and the funds would not have
+resulted back to the estate. Simply put, Re Scottish Equitable’s holding — that the
+presumption of resulting trust applies to designated beneficiaries in insurance schemes —
+should not have been relied on in Morrison.
+VII.  SOLUTIONS
+Having concluded that the traditional rationales for employing the presumption of
+resulting trust do not apply to beneficiary designations, and that legal precedent for using the
+presumption this way is sparse, what can be done? Below, we provide judicial and legislative
+solutions, as well as solutions that can be implemented by banks.
+102 See e.g. Re Engelbach’s Estate (1923), [1924] 2 Ch 348.
+103 Cleaver, supra note 101 at 152.
+104 Re Engelbach’s Estate, supra note 102 at 354.
+105 RSA 2000, c I-3, s 666(1). Other provinces have similar regimes, see e.g. Insurance Act, RSBC 2012,
+c 1, s 65(1); The Saskatchewan Insurance Act, RSS 1978, c S-26, s 158(1); Insurance Act, RSO 1990,
+c I.8, s 196(1).THE PRESUMPTION OF RESULTING TRUST AND BENEFICIARY DESIGNATIONS 61
+A. JUDICIAL REFORM
+The simplest answer is to give effect to Justice Feldman’s suggestion in Madsen Estate,
+where she said that if the presumptions are abolished, bank documents indicating a right of
+survivorship should serve as prima facie evidence of a gift.106 Justice Abella made the same
+point in her concurrence in Pecore. She suggested that bank accounts confirming a
+survivorship interest “should be deemed to reflect an intention that what has been signed, is
+sincerely meant.”107 She disagreed with Justice Rothstein on this point, who held that banking
+documents are at most “strong evidence”108 of the intent to pass a beneficial interest. In the
+context of designated beneficiaries, which did not appear to be contemplated by the majority
+in Pecore, Justice Abella’s approach is more compelling. One has difficulty conceiving of
+situations in which account holders would not think that designating a beneficiary confers
+a beneficial interest. Indeed, the empirical evidence presented above confirms this suspicion.
+Giving prima facie effect to beneficiary designation documents carries many advantages. As
+mentioned, it respects the intention of the transferor. It also serves as transactional certainty.
+Courts have expressed concern that limiting or abolishing the resulting trust would increase
+the risk of litigation and thus create uncertainty over whether parties can rely on a completed
+transaction. Giving prima facie effect to bank documents would avoid disputes in the same
+manner as a presumption. It may even promote certainty as any dispute would largely be
+governed by reliable documentary evidence, rather than the more indeterminate inquiry
+prescribed in Pecore.109
+The Supreme Court of Canada in Pecore laid out several forms of evidence that courts can
+consider to determine the intent of transferors in joint bank account cases. Most of this
+evidence is far less reliable than a written designation in a bank document. This included
+evidence such as actions subsequent to the transfer, and control and use of the funds in a joint
+bank account.110 When there is documentary evidence of a beneficiary designation, it is hard
+to imagine cases when evidence subsequent to the transfer would be more probative than
+documentary evidence contemporaneous to the designation. The beneficiary designation
+cases reviewed herein support this notion, as courts appear to regularly indulge in protracted
+inquiries into the transferor’s intent, following thin findings and spider threads.
+Moreover, an analogy may be drawn to the evidence regularly relied on in cases of
+contractual interpretation where, as here, the court’s task is to determine the intentions of the
+parties when the agreement was made.111 In this determination, the words of the contract are
+at the centre of the inquiry.112 Subsequent conduct evidence is admissible as an interpretive
+aid, but it is given less weight and is only admissible if the contract is ambiguous on its
+face.113 For example, the British Columbia Court of Appeal issued a caution against affording
+too much weight to subsequent conduct: “In no case is it necessary that weight be given to
+106 Madsen Estate, supra note 39 at para 81.
+107 Pecore, supra note 2 at para 104.
+108 Ibid at para 61.
+109 Ibid at paras 55–70.
+110 Ibid at paras 56–59, 62–66.
+111 Geoff R Hall, Canadian Contractual Interpretation Law, 2nd ed (Markham: LexisNexis, 2012) at 9;
+Consolidated-Bathurst Export Limited v Mutual Boiler & Machinery Insurance Co (1979), [1980] 1
+SCR 888 at 899.
+112 Eli Lilly & Co v Novopharm Ltd, [1998] 2 SCR 129 at para 54.
+113 Hall, supra note 111 at 82.62 ALBERTA LAW REVIEW (2016) 54:1
+evidence of subsequent conduct. In some cases it may be most misleading to do so and it is
+to this danger that allusions are made throughout the recent English cases.”114 This position
+from the well-developed law of contractual interpretation should guide the interpretation of
+beneficiary designations. In other words, primacy should be given to the words of the
+designation.
+Rather  than  the  above  steps,  courts  may  consider  retaining  the  presumption  of
+advancement for beneficiary designations, regardless of the age of the child. As reviewed
+above, there are two rationales for the presumption of advancement to children: a moral
+obligation to support their children, and parental affection. Both of these rationales readily
+apply to beneficiary designations.
+It seems reasonable to assume that many parents designate their children, adult or
+otherwise, as beneficiaries on their registered accounts out of a moral obligation to support
+their children once they have passed away. While empirical evidence would be useful in
+confirming this suggestion, there appears to be a clear distinction between joint bank
+accounts and beneficiary designations in this regard. The rationale for financial management
+identified by the Supreme Court in Pecore is not applicable, and there is no fear that the
+transferor’s assets need to be protected. Moreover, and echoing Justice Abella in Pecore,115
+there is no good reason to ignore the motivation of parental affection. One would expect that
+many, if not most, designations of children as beneficiaries are driven by the intent to benefit
+that child due to love and affection.
+Finally, courts may wish to define beneficiary designations as testamentary dispositions,
+thus removing them from the resulting trust regime  and placing them in the wills
+framework.116 Recall that in Morrison, this is precisely what Justice Graesser considered, but
+ultimately refrained from doing.117 As we discuss below, beneficiary designations have much
+more in common with testamentary dispositions than inter vivos gifts, and in fact likely meet
+the common law tests for testamentary dispositions. Still, courts should exercise caution in
+deeming beneficiary designations as testamentary because provincial statutes contain varying
+levels of formal requirements for testamentary dispositions. If banks are not aware of the
+requirements, the effectiveness of beneficiary designations could be put at risk.
+The common law has established multiple tests to determine whether a disposition is
+testamentary. A particularly well-trod118 version traces to Cock v. Cooke,119 and focuses on
+whether the disposition relies on the death of the transferor: “It is undoubted law that
+whatever may be the form of a duly executed instrument, if the person executing it intends
+that it shall not take effect until after his death, and it is dependent upon his death for its
+vigour and effect, it is testamentary.”120 Similarly, in Elliott v. Turner, the Ontario High
+Court of Justice enunciated four factors suggestive of a testamentary disposition: “1. No
+114 Re Canadian National Railways and Canadian Pacific Ltd (1978), 95 DLR (3d) 242 (BCCA) at 262.
+115 Pecore, supra note 2 at para 100.
+116 For example, upon the death of the donor the gift automatically vests in the beneficiary.
+117 Morrison, supra note 1 at paras 44–48.
+118 Wonnacott v Loewen (1990), 44 BCLR (2d) 23 (CA) [Wonnacott]; Anderson v Patton, [1948] 2 DLR
+202 (Alta SC (AD)).
+119 (1866), 1 LR P & D 241.
+120 Ibid at 243.THE PRESUMPTION OF RESULTING TRUST AND BENEFICIARY DESIGNATIONS 63
+consideration passes; 2. The document has no immediate effect; 3. The document is
+revocable; 4. The position of the deceased and the donee does not immediately change.”121
+By either test, RRSP and RRIF beneficiary designations are testamentary dispositions.
+They depend on the registered account holder’s death to take effect. They are gratuitous (and
+this is, in fact, the source of the conundrum this article has sought to tackle). And there is no
+restriction on the registered account holder’s power to change his or her designation.
+Applying the above principles, many courts have classified beneficiary designations as
+testamentary  dispositions.  These  cases  come  mainly  from  challenges  to  beneficiary
+designations in insurance plans. For instance, in Fontana v. Fontana, the British Columbia
+Supreme Court reviewed the law of testamentary dispositions and was “led inexorably to the
+conclusion that a designation of beneficiary is more closely akin to a will than a gift inter
+vivos and, as such, should be treated in law like a will.”122 Similarly, in David v.
+TransAmerica Life Canada, the Ontario Superior Court of Justice treated a life insurance
+policy as a “testamentary instrument.”123
+Justice Strathy, as he then was, also compared beneficiary designation to testamentary
+dispositions in Richardson (Estate Trustee of) v. Mew: “It is a solemn act, frequently done
+privately, and sometimes without the knowledge of the beneficiary. It does not require the
+consent of the insurer. It is akin to a testamentary disposition.124 Justice Strathy’s statement
+harkens back to the rationale for applying the presumption of resulting trust — it places the
+burden of evidence on the party most likely to possess the evidence. As we noted, and as
+Justice Strathy stated in the above quote, designated beneficiaries need not even know they
+were designated. As a result, there is no reason to think they would have superior access to
+evidence. Further, the private nature of a beneficiary designation has much more in common
+with a testamentary disposition than an inter vivos gift.
+In the context of RRSP beneficiary designations, the plaintiff in Desharnais v. Toronto
+Dominion Bank successfully argued that such a designation was testamentary pursuant to the
+common law test described in Elliott.125 As a result, the beneficiary designation was invalid
+for not meeting the formal requirements for testamentary dispositions in British Columbia’s
+Wills Act.126 While portions of this case were overturned on appeal, the British Columbia
+Court of Appeal expressly noted there was no challenge to the finding that the designation
+was testamentary.127
+Desharnais highlights a potential pitfall with defining all beneficiary designations as
+testamentary dispositions — provincial acts contain varying formal requirements for
+testamentary dispositions. In particular, Prince Edward Island and Nova Scotia require
+121 [1944] 2 DLR 313 at 319 [Elliott].
+122 (1987), 28 CCLI 232 at 236.
+123 2015 ONSC 5192, 11 ETR (4th) 128 at para 60.
+124 (2008), 93 OR (3d) 537 (Sup Ct J) at para 27.
+125 2001 BCSC 1695, 42 ETR (2d) 192 at para 39 [Desharnais SC], rev’d in part 2002 BCCA 640, 3 ETR
+(3d) 221 [Desharnais CA]. Desharnais SC was followed on this point in 2013 in Easingwood v
+Easingwood Estate, 2013 BCCA 182, 361 DLR (4th) 304 at para 48.
+126 RSBC 1996, c 489, as repealed by Wills, Estates and Succession Act, SBC 2009, c 13, s 193 [BC Act].
+127 Desharnais CA, supra note 125 at para 17.64 ALBERTA LAW REVIEW (2016) 54:1
+testamentary dispositions to be signed and witnessed.128 On the other hand, British Columbia
+specifically removes beneficiary designations from these formal requirements (in post-
+Desharnais legislation).129 The remainder of the provinces, including the territories and
+Quebec, do not require witnesses.130
+In light of their statutory regimes, the courts in Prince Edward Island and Nova Scotia
+should take caution in deeming beneficiary designations as testamentary dispositions because
+this would impose additional formal requirements that banks may be unaware of. More
+broadly, the variance in the provincial statutory regimes suggests reform should come in the
+form of amendments to those statutes, rather than from the courts. In other words, provincial
+legislatures are better situated to coordinate changes in the law of beneficiary designations
+with laws regarding formal requirements. The following section considers the issue of
+legislative reform in more depth.
+B. LEGISLATIVE REFORM
+Meddling with the specifics of the presumption of advancement and resulting trust may
+complicate the law. Indeed, several courts — both domestic131 and international132 — have
+refrained from doing so, suggesting the certainty of legislative intervention is preferable. This
+was the case with presumption of advancement between spouses. The legislatures of Alberta,
+New Brunswick, Nova Scotia, Prince Edward Island, Newfoundland, and the Northwest
+Territories have abolished the presumption in favour of comprehensive matrimonial
+legislation. For example, in Alberta, section 36 of the Matrimonial Property Act abolishes
+the presumption of advancement between spouses in actions brought under that Act.133 
+Legislation already regulates beneficiaries in the insurance context. Recall that section
+666(1) of Alberta’s Insurance Act provides that insurance monies go directly to the
+designated beneficiary, bypassing the estate.134 The other common law provinces in Canada
+have enacted similar regimes.135 These laws appear to remove designated beneficiaries of
+insurance plans from the resulting trust regime. Two provinces — British Columbia and
+Prince Edward Island – have gone so far as to expand this legislation to RRSPs and RRIFs.
+British Columbia136 and Prince Edward Island137 succession law acts provide that benefits
+payable to designated beneficiaries from registered investments do not form part of the
+account holder’s estate. Still, there is some uncertainty regarding the scope of these
+provisions. For instance, the BC Act reads:
+128 Waters, Gillen & Smith, supra note 4 at 219.
+129 BC Act, supra note 126, s 1(1).
+130 Waters, Gillen & Smith, supra note 4 at 219.
+131 Pecore, supra note 2 at para 105, Abella J.
+132 Calverley, supra note 31; Dullow, supra note 31; Lau, supra note 31.
+133 RSA 2000, c M-8.
+134 Supra note 105.
+135 See supra note 105.
+136 BC Act, supra note 126, s 95.
+137 Designation of Beneficiaries Under Benefit Plans Act, RSPEI 1988, c D-9, s 9 [PEI Act].THE PRESUMPTION OF RESULTING TRUST AND BENEFICIARY DESIGNATIONS 65
+Benefit not part of estate
+95 A benefit payable to a designated beneficiary or to a trustee appointed under section 92 under a benefit
+plan on the death of a participant does not form part of the participant’s estate and is not subject to the
+claims of the participant’s creditors.138
+Whereas, the PEI Act reads:
+Plan money not part of estate and free from creditors 
+9 Where a beneficiary is designated, any benefit payable to the beneficiary is not, from the time of the
+happening of the event upon which it becomes payable, part of the estate of the participant, and is not
+subject to the claims of the creditors of the participant.139
+As can be seen, the PEI Act contains stronger wording regarding the temporal scope of
+protection, suggesting that from the time of the registered account holder’s death, the funds
+are not part of the estate. In this respect, the PEI Act more closely mirrors protections to
+insurance beneficiaries under the various provincial regimes reviewed above.140 Neither the
+British Columbia nor the Prince Edward Island provisions have been judicially interpreted.
+In McConomy-Wood, the estate beneficiaries argued that legislation similar to that in
+British Columbia and Prince Edward Island would still be defeated by the presumption of
+resulting trust.141 They submitted that, in accordance with such legislation, the proceeds of
+the registered account would bypass the estate and go to designated beneficiary. However,
+that designated beneficiary would then hold the proceeds in trust for the estate beneficiaries,
+absent contrary intention. Essentially, they argued that there is a distinction between legal
+and beneficial ownership, and the legislation was not clear on this issue (as it is with
+matrimonial acts that expressly modify the presumptions).142 Justice Herold did not come to
+a conclusion on this issue in McConomy-Wood, but careful legislative drafting can eliminate
+this uncertainty in any statutory reform effort.
+Legislative reforms should be informed by both matrimonial legislation, which expressly
+addresses the presumptions of resulting trust and advancement, and laws focussed on
+beneficiary designations (for example, British Columbia and Prince Edward Island’s efforts).
+For instance, section 36(1) of Alberta’s Matrimonial Property Act provides that courts “shall
+not apply the doctrine of presumption of advancement.”143 Such clear language is useful for
+married couples seeking to organize their financial affairs. Similarly clear language directing
+courts not to apply the presumption of resulting trust to beneficiary designations would be
+useful for registered investors seeking to navigate conflicting judicial decisions.
+138 Supra note 126, s 95.
+139 Supra note 137, s 9.
+140 See supra note 105.
+141 McConomy-Wood, supra note 59 at paras 50–52, referring to Amherst Crane Rentals Ltd v Perring
+(2003), 241 DLR (4th) 176 at para 8 (which references the BC Act, supra note 126 and the PEI Act,
+supra note 137).
+142 McConomy-Wood, ibid at para 49.
+143 Supra note 133.66 ALBERTA LAW REVIEW (2016) 54:1
+C. REFORM IN PRACTICE
+Absent legislative action, banks and individuals designating beneficiaries may wish to
+take matters into their own hands and create a clear evidentiary record establishing intent.
+The heart of the problem is that it is so obvious that beneficiary designation indicates intent
+(for example, 97 percent of our sample believed this to be the case). As a result of this
+obviousness, it is difficult for investors to foresee the need to take such steps. Justice Abella
+was alert to this issue in her analysis in Pecore, when she wrote: “I think it would come as
+a surprise to most Canadian parents to learn that in the creation of joint bank accounts with
+rights of survivorship, there is little evidentiary value in the clear language of what they have
+voluntarily signed.”144
+This caution dovetails with Justice Feldman’s reasons in Madsen Estate where she
+suggested persons designating beneficiaries would need to take the unintuitive step of writing
+a side letter saying “I really mean it.”145 As a result, it will likely fall to banks to apprise their
+customers of the law and provide them an opportunity and the appropriate paperwork to
+establish their intent that their beneficiary should indeed benefit.
+VIII.  CONCLUSION
+Although the presumptions of advancement and resulting trust have attracted a great deal
+of criticism, courts have, for the most part, retained them due to their policy benefits; they
+can advance interests such as secure financial management and transactional certainty. Still,
+in preserving the presumptions, courts are alive to the issue that the presumptions should
+reflect the default intentions of transferors (that is, what someone giving something to
+another most likely intends, absent other evidence). Theoretical accounts advanced by
+academics also place intention front and centre.
+On their face, beneficiary designations seem to trigger the presumption of resulting trust
+as gratuitous transfers. And, in fact, this is what courts in Manitoba, British Columbia,
+Ontario, and now Alberta have held. However, applying the presumption of resulting trust
+carries none of the policy benefits that the presumptions have been linked with and may
+actually interfere with the goals of secure financial management and transactional certainty.
+More fundamentally, subjecting beneficiary designations to the presumption of resulting trust
+runs contrary to the intention of most Canadians, a conclusion we establish through both
+common sense and empirical evidence. 
+Given this unfortunate development — both in law and policy — we provide several
+solutions courts and legislative bodies may employ to bring the law back in line with the
+expectations of investors. Notably, courts may wish to give legal effect to the common sense
+meaning of beneficiary designation — that it constitutes intent to pass a beneficial interest.
+Alternatively, provincial legislatures may wish to establish statutory regimes prescribing the
+role of the presumptions in beneficiary designations. Until such steps are made, investors
+should consider carefully establishing an evidentiary record to ensure courts can give life to
+their intentions. Finally, with conflicting decisions at the appellate level, this is an area ripe
+for Supreme Court of Canada guidance.
+144 Pecore, supra note 2 at para 104.
+145 Madsen Estate, supra note 39 at para 83.THE PRESUMPTION OF RESULTING TRUST AND BENEFICIARY DESIGNATIONS 67
+APPENDIX A:
+EMPIRICAL STUDY
+SURVEY INSTRUCTIONS: We are interested in what people intend when they open certain
+financial accounts. So please answer the following questions with only your own knowledge
+and intuition and do not refer to any external services.
+1. Imagine you are setting up a Registered Retirement Savings Plan (RRSP). When you
+set up this plan, you are asked to designate a beneficiary. Imagine you designate your
+adult son or daughter as beneficiary (if you do not have an adult so nor daughter,
+imagine you do). Now imagine you write this name down on the appropriate form and
+the RRSP is opened. By making this choice of beneficiary, what is your intent
+regarding where the funds will go when you die?
+a. It means I want the RRSP to go to my estate.
+b. It means I want the RRSP to go the son or daughter I designated. 
+2. In a sentence, what is an RRSP?
+3. In a sentence, what is an estate?
+4. Please choose a response below to indicate your level of investment knowledge.
+a. I have no financial investment knowledge.
+b. I have very little financial investment knowledge.
+c. I have some financial investment knowledge.
+d. I have a lot of financial investment knowledge.
+e. I am a financial investment expert and/or do it as my profession.
+5. What is your age? 

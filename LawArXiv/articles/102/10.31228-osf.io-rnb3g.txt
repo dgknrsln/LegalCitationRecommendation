@@ -1,0 +1,2291 @@
+Limiting the Last-in-Time Rule for Judgments
+Kevin M. Clermont*
+INTRODUCTION  .................................  1
+I.  PROBLEMS OF INCONSISTENT JUDGMENTS  .......  .......... 4
+A.  Claim Preclusion  ................................ 5
+B.  Issue Preclusion  ............................... 6
+C.  Jurisdiction to Determine Jurisdiction ................... 8
+II.  DISSECTING THE LAW'S RESOLUTION .................. 9
+A.  Rationales of the Rule.........................9
+1.  Waiver/Preclusion on Issue of Full Faith and Credit .. 10
+2.  Simplicity of Looking to F-2 on Issue of Respect
+for F-1..................................13
+3.  Reliability of F-2 on the Merits ................ 13
+4.  Finality on the Merits  ...............  ....... 15
+B.  Development of the Rule .............  ............ 16
+1.  Emergence  .....................  ......... 16
+2.  Challenge  .........................  ..... 21
+3.  Retrenchment  ........................ 23
+4.  U.S.  Summary........................29
+C.  Comparative Picture  ..............  ............... 31
+1.  England and Most of Its Progeny  .............. 31
+2.  Civil-Law Countries  ......................... 34
+3.  European Union......................38
+4.  Comparative Summary  ..........  ........... 39
+III.  LIMITING THE RULE FOR FOREIGN-NATION JUDGMENTS.....41
+A.  Nonpreclusive Judgments  ..........  ............ 41
+B.  American v. Foreign Judgments  ..........  .......... 44
+CONCLUSION  ..........................  ........ 53
+INTRODUCTION
+The problem of inconsistent judgments on the same claim or
+issue no longer exists-in theory-thanks mainly to  the law of res
+judicata. True, Edward Coke long ago lamented the "contrarieties  of
+Ziff Professor of Law, Cornell University. I would like to thank for fruitful
+exchanges  Sam Baumgartner,  Zachary Clopton, Stdphanie Francq, Bob Hillman,
+Rosalie Jukier,  Jan Kleinheisterkamp,  Jeff Rachlinski,  Stewart  Schwab,  Harumi
+Takebe,  Barry  Vasios,  and  the  participants  in  Cornell  Law  School's  summer
+faculty workshop.2  THE RE VIEW OF LITIGATION  [Vol. 36:1
+verdicts  and judgments one against  the  other."' But if the problem
+did still exist, it would be serious.  First,  society now recognizes  an
+efficiency  interest  in  avoiding  inconsistent  adjudications.  At  best,
+inconsistency would erode faith in our system of justice and diminish
+acceptability of its output. At worst, inconsistency would put a party
+into  an impossible  situation of conflicting  obligations.  Second,  any
+decrease  in  the  certainty  and  stability  of  repose  would  create
+inefficiency.  Society has  an interest  in  increasing certainty  for the
+purposes of primary conduct; once a court determines legal relations,
+we all need to be able to act in the world with assurance  that those
+relations are indeed fixed to some known extent.  Society also has an
+interest in increasing stability in the judicial system;  we all benefit
+when courts treat prior decisions, from the same or other courts, with
+respect and comity. Third, fairness further argues for equal treatment
+in similar circumstances,  and for furtherance  of reliance  interests by
+consistently adhering to prior adjudication.2
+One of the obvious  purposes  of our  res judicata  law  is  to
+minimize  the possibility  of inconsistent judgments.3  However,  the
+doctrine  cannot  completely  eliminate  that  possibility.  On  the  one
+hand,  res judicata  must  be  raised in  the  subsequent  action  by the
+party who seeks to take advantage  of it.4 If that party fails to assert
+the preclusive effect of the  former adjudication,  a judgment may be
+rendered in the subsequent action that is inconsistent with the former
+judgment. On the other hand,  inconsistent judgments can result even
+when the party entitled to rely upon the initial judgment does  assert
+it, but the subsequent court erroneously or willfully refuses to give it
+preclusive  effect,  or  correctly  refuses under  its  own  conflicts  law.
+The  subsequent  court  may  assert  that  some  requirement  of  res
+judicata  is  lacking  or  some  exception  applies,  and  the  resulting
+relitigation may then produce a different outcome.
+Picture a Mississippi plaintiff who loses a judgment to a New
+York defendant in New York (Forum #1  or F-1). The plaintiff needs
+a more favorable forum. For that purpose,  she brings an action upon
+the same claim in Mississippi (F-2). Mississippi disdains New York
+values and so refuses to recognize,  or give effect to, the New  York
+judgment, holding it unworthy of full faith and credit. Proceeding to
+the merits, the Mississippi court gives judgment for the plaintiff. This
+1.  Ferrer v. Arden (1598)  77 Eng. Rep. 263, 266; 6 Co. Rep. 7a, 9a (CP).
+2.  Cf John C. McCoid, II, Inconsistent Judgments, 48 WASH. & LEE L. REV.
+487, 488-91 (1991) (suggesting some of the following costs are often overstated).
+3.  ROBERT C. CASAD  & KEVIN M. CLERMONT, RES JUDICATA: A HANDBOOK
+ON ITS THEORY, DOCTRINE, AND PRACTICE 31, 33 (2001).
+4.  Id. at 237.Winter 2017] LIMTING LAST-IN-TIME RULE 3
+denial  of full  faith  and credit is unconstitutional,'  so the  defendant
+appeals,  unsuccessfully.  Finally,  the  plaintiff decides  to  go  back
+nearer  the  defendant's  home  in pursuit  of assets  for  enforcement,
+suing upon her Mississippi judgment in New Jersey (F-3).
+Thus  we encounter "inconsistent judgments,"  defined in the
+sense  of F-1  and F-2 judgments,  between the  same parties or their
+privies, that differently decide the same claim or issue and that would
+each  independently  be  preclusive  in  a  new  action  in  F-3.  To  be
+preclusive, both prior courts had to render valid and final judgments
+that are recognizable by F-3, where  "valid" roughly means no more
+than  that  the  rendering  court  possessed jurisdiction  and  afforded
+notice.6  Besides  this  specific  hypothetical,  many  different
+circumstances  can generate inconsistent judgments.
+When inconsistent judgments do come about, how should the
+law handle them? Under the well-known rule followed in the United
+States, when there are two inconsistent judgments, it is generally the
+later judgment that is entitled to res judicata effects.' That is, if by
+failure to assert or apply res judicata two inconsistent judgments are
+rendered,  then the  one later rendered has the  controlling preclusive
+effects.'  This somewhat  arbitrary  practice  is  called  the last-in-time
+rule.  It  forms  part of our  constitutional  doctrine  of full  faith  and
+credit.9
+So our New York defendant will have to pay in New Jersey.'0
+Full faith and credit means that F-3  must bow to an erroneous, even
+unconstitutionally erroneous, judgment by F-2, and thus give no faith
+5.  See Fauntleroy  v.  Lum,  210  U.S.  230  (1908)  (holding  that  Mississippi
+cannot reject a sister-state judgment on the basis of local policy).
+6.  See infra note 120.
+7.  See Parsons  Steel, Inc.  v. First Ala.  Bank, 474 U.S.  518 (1986)  (giving
+strong support for the last-in-time rule in the federal-state-federal  setting).
+8.  On  the  meaning  of  "rendered,"  see  RESTATEMENT  (SECOND)  OF
+JUDGMENTS  §  14  (AM.  LAW  INST.  1982)  ("For purposes  of res judicata,  the
+effective  date of a final judgment is the date of its rendition, without regard to the
+date of commencement  of the action in which it is rendered or the action in which
+it is to be given effect.").
+9.  See RESTATEMENT (SECOND)  OF CONFLICT OF LAWS  § 114 cmt. b (AM.
+LAW INST.  1971) ("The rule ...  is based upon principles of res judicata and of full
+faith and credit.").
+10.  See RESTATEMENT (SECOND)  OF JUDGMENTS  § 15  cmt. c, illus.  1 (AM.
+LAW INST. 1982)  ("A sues B  on a promissory note. B denies that he executed the
+note. There is a trial resulting in a verdict for B, and judgment is rendered in B's
+favor.  A  brings  a  second  action  against  B  on  the  note,  and  B  defaults,  and
+judgment is given for A for the amount of the note and interest thereon. Thereafter
+A brings an action against B on the second judgment. The judgment for.B  in the
+first action is no defense.").4 THE REVIEW OF LITIGATION [Vol. 36: 1
+and credit at all to F-I's judgment.  Shocking? Now imagine that F-2
+is a foreign nation:
+Suppose,  for instance, the first judgment is an
+American judgment.  If the second action takes place
+in Graustark, in the Graustark action one of the parties
+relies on the American judgment,  the Graustark court
+says, "We will not give any credit to the judgment of
+an imperialist court," and so the Graustark court just
+rides over the American judgment.
+In  that  case  it  seems  rather  doubtful  to  me
+whether in the third action,  which takes place  in this
+country  again,  the  court  should prefer  the  Graustark
+judgment to the American judgment."
+Whatever  the  rationales  for  applying  the  last-in-time  rule
+domestically,  should  an  American  F-3  ever  prefer  a  foreign  F-2
+judgment to an American F-1 judgment?
+Part I of this Article will lay out the range of application of
+the last-in-time rule under current law. Part II will question the basis
+for that rule. Part III will argue for proper limitations on the reach of
+the  rule.  The journey  is worthwhile  because  considering  how this
+rather  technical  problem  has  been and  should be  resolved  reveals
+depths  of not only res judicata  and conflicts  theory, but also of the
+legal process entailed in effectuating that theory.
+I.  PROBLEMS OF INCONSISTENT JUDGMENTS
+These  problems  of  inconsistency  arise  in  a  variety  of
+circumstances.  These problems  also involve  the whole  range of res
+judicata, and the last-in-time rule applies throughout.
+Repetitive litigation of a claim can occur  when the plaintiff
+sues again to obtain a better outcome.  More commonly,  the plaintiff
+may  sue  again  to  seek  enforcement  elsewhere.  Alternatively,  the
+defendant may put the claim back in court by pursuing declaratory or
+11.  41 A.L.I. PROC.  277 (1964) (Prof.  Rudolf B.  Schlesinger).  This passage
+comes from the transcript of the American Law Institute's debates on what would
+become  RESTATEMENT (SECOND)  OF CONFLICT OF LAWS  § 114 (AM. LAW INST.
+1971).  Graustark  is a  fictional  country  near Romania  that was the  setting  for
+several novels by George Barr McCutcheon,  including BEVERLY OF GRAUSTARK
+(1904).Winter 2017] LIMTING LAST-IN-TIME RULE 5
+injunctive  relief from the judgment or its enforcement.12 Repetitive
+litigation  of  an  issue  can  occur  when  the  same  issue  arises  in
+subsequent  litigation,  often  in the  course of a different  claim.  The
+issue could  constitute part of the merits,  or it could be a threshold
+issue such as jurisdiction.
+The parties'  incentives that result in inconsistency can cover
+a  broad  range.  They may  fail  to  raise  res judicata  as  a  result  of
+default, out of ignorance, or by way of litigation strategy where one
+or both parties seek a fresh adjudication. Knowing that some law of
+res  judicata  will  be  in  play  also  can  shape  strategy,  especially
+through forum-shopping.
+Sometimes the genesis of the problem is that something has
+gone wrong in the  application  of res judicata, joinder,  lis pendens,
+forum non conveniens,  or antisuit injunctions.  But often, especially
+in international litigation, the genesis lies in the absence of control by
+a  higher  law  or  by  a  higher  court  of F-2's  disrespect  for F-i's
+judgment.
+It is therefore important  to get a handle on what exactly the
+last-in-time rule prescribes in all these circumstances.  I shall lay out
+the prescriptions by surveying the rule's application  across the three
+subdoctrines of res judicata.
+A.  Claim Preclusion
+For a claim preclusion example, imagine a plaintiff who won
+a judgment  but remains  dissatisfied  with  the  amount of damages
+awarded.  Instead of seeking enforcement  of the judgment,  she  may
+sue  again on the original claim.  The defendant relishes  another try,
+especially because he risks less in the second suit (greater damages)
+than does the plaintiff (total loss). Although the claim merged in the
+prior judgment for the claimant,"  neither party asserts res judicata,
+and  so  the  court  holds  another trial  on the  merits  of the  original
+claim.  The judgment reached in this second action might be for the
+defendant. Hence, inconsistent judgments can come into existence.
+First,  if the  same  claim  is  presented  in  a  third action,  the
+question will arise as to which, if either, of the now two inconsistent
+judgments is to be given preclusive effect in the third action. That is,
+if the originally successful plaintiff were now to bring a third action,
+12.  GARY  B.  BORN  &  PETER  B.  RUTLEDGE,  INTERNATIONAL  CIVIL
+LITIGATION IN UNITED STATES COURTS 567, 1144-45 (5th ed. 2011).
+13.  See RESTATEMENT (SECOND)  OF JUDGMENTS  §  17(1)  (AM.  LAW  INST.
+1982) ("[T]he claim is extinguished and merged in the judgment and a new claim
+may arise on the judgment ....  ).6 THE RE VIEW OF LITIGATION [ Vol. 36:1I
+which might  be either  an action on the  original  claim or an action
+upon  the  first  judgment,  could  the  defendant  invoke  the  second
+judgment  as  a defense?  Yes, the  second judgment is entitled to res
+judicata effect under the last-in-time rule.14
+Second, if the defendant had raised the defense of res judicata
+in the plaintiffs second action, but the court had refused to consider
+or uphold it, the result would be the same as if the defense had not
+been raised, unless the second judgment is appealed and reversed."
+Third,  if,  instead  of the  defendant's  winning  the  second
+action in the example, the plaintiff had won a judgment for a greater
+amount than had been  awarded  in the  first action,  maybe  even by
+default,  the  second judgment would  still be  the one  entitled to res
+judicata effect.16
+B.  Issue Preclusion
+Now, for an issue preclusion example, in F-I a fact issue may
+go in favor of A  over B, the issue having been actually litigated and
+determined  and been  essential  to  the judgment.  If the  same  issue
+arises in a second action  in F-2 between  the  same parties but on a
+different claim, and A  fails to raise collateral estoppel or F-2 refuses
+to consider or uphold it, another trial on the merits might produce an
+essential  determination  on  the  issue  in  favor  of B.  For  a  more
+concrete example, imagine  a litigated determination  of the value of
+some  land  for tax purposes.  Both parties  think that  they could  do
+better.  So  they both  would  decline  to  raise  collateral  estoppel  in
+litigation of the different claim for a subsequent  tax year's liability.
+Another trial on the merits might yield a different valuation.'7  Hence,
+again, inconsistent judgments can come into existence.
+First, if the  common  issue  appears  in  a third action in  F-3
+between the same parties on yet another claim, and B raises collateral
+14.  RESTATEMENT OF JUDGMENTS  § 42 cmt. b (AM.  LAW INST.  1942).
+15.  See RESTATEMENT (SECOND) OF JUDGMENTS § 15 cmt. b (AM. LAW INST.
+1982) ("[T]he later of the two inconsistent judgments is ordinarily held conclusive
+in a third action even when the earlier judgment was relied on in the second action
+and the court erroneously held that it was not conclusive.").
+. 16.  See RESTATEMENT  OF JUDGMENTS  § 42 cmt. b, illus. 3 (AM.  LAW INST.
+1942) (giving as an example a $1000 judgment in F-1 and a $600 judgment in F-2,
+where the second judgment is protected by the last-in-time-rule).
+17.  See Donald v.  J.J. White Lumber Co., 68 F.2d 441, 442 (5th Cir.  1934)
+(applying the last-in-time rule).Winter 2017] LIMTING LAST-IN-TIME RULE 7
+estoppel,  what  happens  in  the  face  of  the  two  inconsistent
+judgments? F-3 must accept the determination of F-2.18
+Second,  if F-3 and F-I were in fact the same court, the result
+would still be that the determination of F-2 prevails. So even though
+F-I  acted first,  and even though the proceeding  in F-2  should have
+been  precluded,  the  court  in  F-i  must  ignore  its  own  previous
+determination of the issue. Indeed, the result is the same if F-2 is the
+same  court  as  F-1  or  F-3  or both.19  Although  the  first judgment
+normally would  not be  undone  or otherwise  overturned,  it  would
+stand shorn henceforth of any continuing relief including preclusive
+effects.20
+Third,  if the  third  proceeding  were  not  a  third  action  but
+merely an appeal in F-1  from the  first judgment, perhaps  even then
+the determination of F-2 should govern the disposition of the appeal,
+subordinating the earlier trial court determination in F-i  to the later
+determination of F-2.21 Yet the appellate court in F-I would naturally
+tend to  resist  this  astounding  application  of the  last-in-time  rule.
+Indeed,  the better approach  is for the F-i  appellate  court to review
+the lower-court decision in the ordinary way, treating res judicata as
+any other claim or defense that ordinarily had to have been presented
+below  and  thus  not  bowing  to  F-2.22  But  in  the  future,  F-2's
+judgment would be the one with preclusive effects.
+18.  See RESTATEMENT OF JUDGMENTS  § 42 cmt. c, illus. 5-6 (AM. LAW INST.
+1942)  (giving  specific  examples  in  which  the  judgment  of  F-2  controls);
+RESTATEMENT (SECOND)  OF JUDGMENTS  §  15  cmt.  c,  illus.  3  (AM.  LAW  INST.
+1982) (same).
+19.  See RESTATEMENT OF JUDGMENTS  § 42 cmt.  e  (AM.  LAW INST.  1942)
+(stating that the rule is applicable whether the actions are brought in the same or
+different  states);  RESTATEMENT  (SECOND)  OF CONFLICT OF LAWS  §  114 cmt.  a
+(AM.  LAW INST.  1971)  ("The rule is applicable  irrespective  of whether  the later
+inconsistent judgment is rendered in the same State as the original judgment or in a
+different State.").
+20.  See 2 A.C. FREEMAN, A TREATISE OF THE LAW OF JUDGMENTS  § 629, at
+1327  (Edward  W. Tuttle  ed.,  5th ed.  1925)  (1873)  (noting  that the  intervening
+results of the first judgment should remain in place, to the extent feasible);  18
+CHARLES  ALAN WRIGHT, ARTHUR R. MRLER & EDWARD H.  COOPER, FEDERAL
+PRACTICE AND PROCEDURE § 4404, at 80-81 (2d ed. 2002) (indicating that the first
+judgment stands, subject to relief from judgment or restitution).
+21.  See  18 WRIGHT ET  AL., supra note  20,  § 4404, at 77-78  (noting  this
+situation  presents  a  special problem);  18A  id § 4433,  at  95-96  ("As in other
+settings, it seems better to accept the second trial-court judgment as binding for
+purposes of the last-in-time rule.").
+22.  See, e.g., Sosa v. DIRECTV,  Inc., 437 F.3d 923, 927-28  & n.3 (9th Cir.
+2006)  (considering  also what would happen  if F-i were to reverse);  Canedy v.
+Boardman,  16 F.3d 183,  185  (7th Cir.  1994) ("But because the judgment in this
+case  was first, there is no res judicata issue here."); Am.  Postal Workers Union8 THE REVIEW OF LITIGATION [Vol. 36: 1
+C.  Jurisdictiont o DetermineJ urisdiction
+Finally,  for  an  example  that  involves  the  subdoctrine  of
+jurisdiction to determine jurisdiction,23 P of F-1  might sue D of F-2
+in F-1, which  upon challenge finds  that personal jurisdiction  exists
+over D. F-I  gives judgment for P. Then P brings an action upon the
+judgment in F-2, where D's assets  are.  But on collateral  attack,  D
+asserts that the prior judgment is  invalid.  F-2 finds that F-I  lacked
+personal  jurisdiction,  even  though  the  doctrine  of jurisdiction  to
+determine jurisdiction  should have  foreclosed that  issue.  F-2  gives
+judgment for D. Finally, P sues upon the first judgment in F-3. Upon
+a new collateral attack, the court in F-3 faces inconsistent judgments.
+First, on the  issue of personal jurisdiction,  F-3  must accept
+the determination of F-2 as the last-in-time.24
+Second, even if in the third action P had gone back to F-1  in
+order to utilize the first judgment, F-I would be obliged to respect F-
+2's judgment over its own judgment.25 However, P could now sue on
+his original claim, the statute of limitations permitting.26
+Third, if F-i's judgment  went instead by default, then F-2's
+decision  on  personal  jurisdiction  would  not  be  an  inconsistent
+finding, even if the cases' outcomes were inconsistent.  F-2's finding
+on jurisdiction would be preclusive.  It is in fact the only decision on
+F-i's  personal  jurisdiction,  which  decision  is  binding  under  the
+ordinary rules of issue preclusion.27 Of course, if F-2 had rejected the
+collateral attack, that decision would have issue-preclusive effect.28
+Columbus  Area Local  v.  U.S.  Postal Serv.,  736 F.2d 317,  319  (6th Cir.  1984)
+(holding that dismissal of an action in F-2 did not mandate dismissal in F-1); cf
+Transaero,  Inc. v. La Fuerza Aerea Boliviana,  162 F.3d 724, 731  (2d Cir.  1998)
+(holding that F-1  on remand  must apply F-2's judgment),  cert. denied, 526 U.S.
+1146 (1999);  18 WRIGHT ET AL., supra note 20, § 4404, at 78-80 (treating situation
+where F-2 has entered a preclusive judgment after the  F-1  trial  court has made
+various nonfinal rulings and before any appeal has been taken).
+23.  See generally KEVIN  M. CLERMONT,  PRINCIPLES OF  CIVIL PROCEDURE
+357-63, 377-78 (4th ed. 2015).
+24.  See RESTATEMENT OF JUDGMENTS  § 42 cmt. b, illus.  4 (AM.  LAW INST.
+1942) (giving an example in which F-2's determination  that F-i lacked personal
+jurisdiction controls).
+25.  See Transaero, Inc. v. La Fuerza Aerea Boliviana,  162 F.3d 724, 731 (2d
+Cir.  1998)  (holding that F-i  must apply F-2's judgment),  cert. denied, 526 U.S.
+1146 (1999).
+26.  See McDonald  v.  Mabee,  243  U.S.  90,  93  (1917)  (implicitly  allowing
+plaintiff to sue again on the claim); BORN & RUTLEDGE, supra note 12, at 1093.
+27.  See Transaero, Inc. v. La Fuerza Aerea Boliviana,  162 F.3d 724, 731 (2d
+Cir. 1998) (holding that F-i must apply F-2's finding of F-i's lack of jurisdiction
+and so  withdraw F-i's default judgment),  cert. denied, 526 U.S.  1146  (1999);Winter 2017] LIMITING LAST-IN-TIME RULE 9
+II.  DISSECTING THE LAW'S RESOLUTION
+A.  Rationales of the Rule
+Think again of that last hypothetical:  default judgment in F-I
+and successful collateral attack in F-2. Such a situation,  where there
+are  technically  no  inconsistent  findings  but  the  judgments  are
+fundamentally at odds, is quite common and is commonly treated as
+a variation of the problem of inconsistent judgments. It can arise not
+only when F-2 passes on F-i's invalidity but also where F-2 accepts
+another ground for F-i's nonrecognizability.  F-2's decision on F-I's
+binding effect is controlling.
+Picture  a New York plaintiff who  wins  a judgment by jury
+verdict in New York. The defendant's assets  in New York are few,
+so  the plaintiff needs  to  enforce  the judgment  elsewhere.  For that
+purpose, she brings an action upon the judgment in Mississippi. But
+the Mississippi judge unconstitutionally refuses to recognize the New
+York judgment,  thus  giving judgment  for the defendant  under  the
+influence of local policy.  The plaintiff appeals,  unsuccessfully.  She
+finally decides to go closer to home for enforcement, suing upon the
+first judgment in New Jersey. However, the plaintiff will fail in New
+Jersey.29 As suggested  above, the best explanation  for the result in
+this particular situation rests not so much on any rule for inconsistent
+determinations,  but  rather  on  the  rule  that  F-2's  decision  on  the
+RESTATEMENT (SECOND)  OF CONFLICT OF LAWS  § 114 cmt. b, illus. 2 (AM.  LAW
+INST.  1971)  (saying that  F-2's finding is preclusive  in F-3).  The result rests on
+issue preclusion, not on claim preclusion,  which should not apply to the  special
+cause of action upon a judgment. See RESTATEMENT (SECOND)  OF CONFLICT OF
+LAWS § 110 cmt. a (AM.  LAW INST.  1971) (treating such action's dismissal based
+on nonrecognition as being not on the merits); cf RICHARD H. FIELD, BENJAMIN
+KAPLAN  & KEvIN M.  CLERMONT,  MATERIALS  FOR  A  BASIC  COURSE IN  CIVIL
+PROCEDURE 766 (12th ed. 2017) (saying merger does not apply to a judgment upon
+a judgment).
+For the  similar  treatment  of the  analogous  problems  involving  arbitration
+awards,  see  3  GARY  B.  BORN,  INTERNATIONAL  COMMERCIAL  ARBITRATION
+§26.05[C][8],  at 3636-38,  § 27.02[D],  at 3790-91 (2d ed. 2014). Because of the
+specialized complications of the interplay of res judicata with arbitration practices,
+this Article limits its focus to sequences of only court judgments.
+28.  See Arecibo Radio Corp. v. Puerto Rico,  825 F.2d 589, 592-93 (1st  Cir.
+1987)  (holding  that  F-2's decision rejecting  collateral  attack has normal  issue-
+preclusive effect).
+29.  See RESTATEMENT (THIRD) OF FOREIGN RELATIONS LAW OF THE UNITED
+STATES  § 482(2)(e) reporters'  note 4 (AM. LAW INST.  1987) (stating that a state's
+decision not to recognize a foreign judgment is entitled to full faith and credit in
+other states);  RESTATEMENT (SECOND)  OF JUDGMENTS  § 15 cmt.  c, illus. 2 (AM.
+LAW INST. 1982) (noting that the judgment in F-2 is a defense in F-3).10 THE REVIEW OFL  ITIGATION [Vol. 36:1
+recognizability of F-I's judgment in any other state is binding in F-3
+under the ordinary rules of issue preclusion.
+The value of this illustration is to reveal that the problem of
+inconsistent  judgments  often  involves  two  decisions  in  F-2:  an
+implicit  or express  decision  on whether  to respect  F-i's judgment
+and then a treatment of the merits that differs from F-i's treatment.
+For  those  two  decisions,  different  rationales  arise  to justify  F-3's
+bowing to F-2's judgment as last-in-time.
+1.  Waiver/Preclusion  on Issue of Full Faith and
+Credit
+The party entitled to the benefit of res judicata in the second
+action was in a position to try to avoid the possibility of inconsistent
+judgments. On the one hand, if the benefitee failed to avail himself of
+the  opportunity to invoke res judicata, and so allowed the matter to
+be relitigated,  he should not be entitled to complain when the second
+determination  is treated as conclusive  in a third action.  On the other
+hand, if the benefitee did assert his right to preclude, but the second
+court  denied  it,  he  should have  sought  correction  of any  error by
+appeal from the second court, as with any other error by a trial court.
+The American Law Institute's most recent restatement of the
+rationale  for  the  last-in-time  rule  buys  into  this  line  of waiver
+thinking. It reads thus:
+The  considerations  of  policy  which  support  the
+doctrine of res judicata are not so strong as to require
+that the court apply them of its own motion when the
+party himself has failed to claim such benefits as may
+flow from them. Accordingly,  when a prior judgment
+is  not relied  upon  in  a  pending  action  in  which  it
+would have had conclusive  effect as res judicata, the
+judgment  in  that  action  is  valid  even  though  it  is
+inconsistent with the prior judgment.  It follows that it
+is this later judgment, rather than the earlier, that may
+be successfully urged as res judicata in a third action,
+assuming that other prerequisites are satisfied. Indeed,
+the  later  of  the  two  inconsistent  judgments  is
+ordinarily held conclusive in a third action even when
+the  earlier  judgment  was  relied  on  in  the  secondWinter 2017] LIAITING LAST-IN-TIME RULE 11
+action and the  court  erroneously held that it  was not
+conclusive.30
+Nonetheless,  the  ALI  has  thereby  formulated  a  mighty
+peculiar rationale.  We  are to  apply the  later judgment  because  the
+party who could have benefited from it waived its benefits by failing
+to  urge  the  F-1  judgment  on  the  F-2  court.  However,  the  ALI's
+formulation  goes  on  to  provide  the  same  result  even  though  that
+party  forwarded the  F-1  judgment in the  loudest  terms possible.  It
+seems  that  the  waiver  idea  might  sometimes  give  an  added
+motivation to apply the last-in-time rule. But it seems not to qualify
+as  a rationale,  because  the  last-in-time  rule  applies  even when the
+waiver notion is inapt.
+Therefore,  as  the  ALI shifts to the situation  of the  fighting
+benefitee, its rationale cannot be waiver.  The ALI instead embraces
+the  rationale  of res  judicata. 1  We  should  honor  F-2's  decision
+30.  RESTATEMENT (SECOND)  OF JUDGMENTS  §  15 cmt.  b (AM.  LAW INST.
+1982).
+31.  Similarly,  some authorities  forward the rationale that F-2 has implicitly
+vacated the F-1 judgment.  See RESTATEMENT (SECOND)  OF CONFLICT OF  LAWS
+§ 114  (AM.  LAW  INST.  1971)  (applying  last-in-time  "if the earlier judgment  is
+superseded by the later judgment"); 41 A.L.I. PROC. 278-79 (1964)  (Prof. Michael
+Cardozo  IV) (debating what would become the  Second Restatement's § 114);  1
+FREEMAN, supra note 20, § 102, at 181  (maintaining that in some states the later
+judgment governs, "the presumption being that the first one has been vacated").
+The RESTATEMENT (SECOND)  OF CONFLICT OF LAWS § 114 cmt. b (AM. LAW INST.
+1971) combines the ideas of waiver and vacatur in its rationale:
+The rule of this Section is based upon principles of res judicata
+and of full faith and credit. It is appropriate that the losing party
+should  be  precluded  from  attacking  the  later  inconsistent
+judgment if he has not sought review of this judgment both by
+the appellate courts of the State of rendition and by the Supreme
+Court of the United States or if the judgment has been affirmed
+by these courts. So, if under these circumstances the same issue
+has been  differently  decided  in different  actions  between  the
+parties, the determination that is later in time should control if it
+would  have  this  effect  under  the  local  law  of the  State  of
+rendition.  Similarly,  if the  court  in  the  second  action  gives
+consideration  to  the  earlier judgment  and  decides,  for  some
+reason or other, that this judgment does not bar the action, the
+second judgment should control if it would have this effect under
+the local  law  of the  State  of rendition.  To  be  sure,  the  later
+judgment may be erroneous  and the first judgment correct. But
+the parties had the opportunity to litigate the point at issue before
+the second court to appeal from its judgment and ultimately to
+seek review by the Supreme Court. The parties should be bound
+by the  later judgment  so  long  as  it  remains  unreversed  and12 THE RE VIEW OF LITIGATION [ Vol. 36: 1
+because  it is a "thing adjudged." A decision  on res judicata is itself
+entitled to  preclusive  effect.32  Indeed,  given  the  complexity of res
+judicata decisions under American  law, with its carefully delineated
+rules and narrowly crafted exceptions, there is especially good reason
+to adopt F-2's decision. The point of res judicata is to avoid having
+to reconsider the prior adjudication.  So F-2's decision on res judicata
+should control even when it was clearly oblivious  or wrong on full
+faith and credit.
+Actually,  there  will  be  no  inconsistent  decisions  on  res
+judicata.  F-1  could  not decide  the  res judicata  effects  of its  own
+judgment,  as  only  a later case  can decide  res judicata.33  Thus,  the
+only decision on res judicata is F-2's. Because it is the only decision
+on point, this last-in-time judgment will govern. True, the result on a
+collateral  attack for lack  of jurisdiction might  involve  inconsistent
+jurisdictional decisions from F-I and F-2, but the real issue for F-3 is
+the res judicata effect of F-I's conclusion on jurisdiction under the
+subdoctrine of jurisdiction to determine jurisdiction, and on that issue
+F-2 has given the only decision.
+Rethink the situation  in which  F-2 decided  that res judicata
+by F-i's judgment  did not apply,  because  of some recognizability,
+validity,  finality,  or bindingness  defect.  F-2  had a reason to do  so,
+and F2 often will have been right. The very idea of res judicata, even
+as to an earlier decision about res judicata,  is that F-3 should not get
+involved in deciding whether F-2 was right or wrong. Moreover, F-3
+simply has no authority to say that F-2  was wrong in deciding that
+res judicata did not apply. Only a higher court with jurisdiction over
+F-2 had the authority to review it.
+Perhaps, then, waiver and preclusion can work in tandem as a
+rationale for the last-in-time rule, each rationale  applying separately
+to different  situations.34  First, if the benefitee  of the first judgment
+provided that the judgment would have this effect under the local
+law of the  State of its  rendition.  If the  State  where  the  later
+inconsistent judgment is rendered applies  the ordinary rules of
+res  judicata,  this  State  will  hold  that  the  later  judgment
+supersedes the earlier judgment to the extent that the judgments
+are inconsistent.
+32.  18 WRIGHT ET AL., supran ote 20, § 4404, at 65 & n.29.
+33.  See FIELD ET AL., supra note 27, at 293, 767-68 (explaining that only in a
+second action can res judicata be raised and decided).
+34.  Such a tandem motivation is known to the law: (a) if the defendant fails to
+raise personal jurisdiction correctly, the jurisdictional point is waived; but (b) if the
+defendant raises personal jurisdiction unsuccessfully, the point is precluded by the
+res judicata subdoctrine of jurisdiction to determine jurisdiction. CLERMONT, supra
+note 23, at 359-60, 363.Winter 2017] LIMTING LAST-IN-TIME  RULE 13
+fails  to  invoke  it  in F-2,  then waiver  makes  the  second judgment
+binding.  Second,  if the  benefitee  does  assert it,  but the  F-2  court
+rejects its bindingness, then F-2's decision on res judicata is binding
+and,  consequently,  so  should  its  merits  decisions  be  binding.
+Together, waiver and preclusion really drive the U.S.  acceptance  of
+last-in-time.
+2.  Simplicity of Looking to F-2 on Issue of
+Respect for F-1
+Other  arguments  for  the  last-in-time  rule,  although  hardly
+overwhelming  and  far  less  important  than  waiver/preclusion,  do
+exist.  The  initial  supporting  argument  is  that  looking  at the  later
+judgment involves less judicial effort.35
+If F-3  were  to  take  it  upon  itself to  verify  whether  F-i's
+judgment  should  have  been  preclusive  in  F-2,  it  would  have  to
+reexamine  that  judgment's  recognizability,  validity,  finality,  and
+bindingness,  which F-2's judgment may have already indicated  are
+questionable, and probably also examine whether  the winner in F-i
+had  waived  the  victory  by  not  pushing  it  sufficiently  in  F-2.
+Alternatively,  if F-3  were just to  switch  to  a  first-in-time  rule,  it
+would still have to reexamine  the  recognizability, validity,  finality,
+and bindingness  of F-i's judgment.  By virtue  of waiver/preclusion,
+F-3 can duck these questions and just look to F-2's judgment.
+Admittedly,  F-2's  recognizability,  validity,  finality,  or
+bindingness  might  be  challengeable  too.  But  in  the  situation  of
+inconsistent judgments,  the  status  of F-i's judgment  is  necessarily
+questionable. The status of F-2's judgment might be straightforward.
+Thus, it should on average slightly reduce the litigatory load to look
+to the often less challengeable judgment of F-2 rather than look to F-
+I's questionable judgment.36
+3.  Reliability of F-2 on the Merits
+Another line of argument is that the later judgment is perhaps
+more  apt  to  be  well-contested,  well-informed,  and  correct  on  the
+35.  See William L. Reynolds, The Iron Law ofFull Faith and Credit, 53 MD.
+L. REv. 412, 416 (1994)  (noting that the F-3 court is spared the task of comparing
+the judgments of F-I and F-2 and deciding which is correct).
+36.  See also infra note 214 and accompanying  text (suggesting another way
+that first-in-time is actually the more complicated rule).14 THE RE VIEW OF LITIGATION [ Vol. 36: 1
+merits, as it usually resulted from relitigation and redetermination.37
+Additionally,  if we  abandon  formalism  for realism,  F-2  may very
+well have manipulated its full faith and credit decision because it felt
+that F-1  was  wrong on the  merits.  Although  res judicata does  not
+customarily  look  to  whether  the  prior judgment  was  correct,  the
+lawmaker when  formulating  a rule  of res judicata  need not ignore
+which decisions will on average tend to have been correct.38
+Counterarguments  to this reliability rationale  do exist.  First,
+in the most troubling cases, F-3 will have good reason to think that
+F-2  was  wrong,  especially  on  the  res  judicata  effect  of  F-i's
+judgment.  Any comfort  drawn  from the supposed wisdom of F-2's
+judgment is then likely scant.  Second, the rest of the  world,  as we
+shall  see,39  follows the rule that the first-in-time judgment prevails.
+Therefore,  it  is  at  best  a  weak  reason  to  favor  the  last-in-time
+judgment that it is slightly more reliable.
+Other arguments, along the lines that F-2 somehow gave the
+more legitimate  prior decision,  vaporize  on closer inspection.  One
+such argument stresses that America's  early last-in-time precedents
+arose in a federal nation nurturing full faith and credit, which aimed
+at  converting  the  American  sovereigns  from  a  grouping  of
+"independent  foreign  sovereignties"  into  "integral parts  of a single
+nation."40  The argument runs that this full faith and credit principle
+naturally  implies  looking  at  the  nation's  latest  word  without
+inquiring into whether it was erroneous. However,  one could almost
+as easily argue that full faith  and credit implies  looking at the first
+word,  given  its  having  subsequently  been  disrespected.  Moreover,
+elsewhere in the world, federalism has not led to a last-in-time rule.41
+37.  See 18 WRIGHT ET AL.,  supra note 20, § 4423, at 619. One might think
+that the better-known last-in-time rule for treaties lends some tangential support. It
+extends the principle of leges posteriorsp riores contrariasa brogant (later laws
+abrogate  prior  contrary  laws).  But  the  principle  rests  on  textual,  structural,
+historical,  and  functional  grounds  different  from the grounds  for  full  faith  and
+credit. See generally Julian G. Ku, Treatiesa s Laws: A Defense of the Last-in-Time
+Rule for Treaties and FederalS tatutes, 80 IND. L.J. 319 (2005).
+38.  See RESTATEMENT (SECOND) OF JUDGMENTS § 29 cmt. f (AM. LAW INST.
+1982)  ("Giving a prior determination of an issue conclusive  effect in subsequent
+litigation is justified not merely as avoiding further costs of litigation but also by
+underlying confidence that the result reached is substantially correct.").
+39.  See infra Part II-C.
+40.  V.L. v E.L.,  136  S.  Ct.  1017,  1020 (2016)  (quoting Milwaukee  Cty.  v.
+M.E. White Co., 296 U.S. 268, 277 (1935)).
+41.  See infra text accompanying notes 137 (Canada) & 148 (Germany).Winter 2017] LIMITING LAST-IN-TIME RULE 15
+4.  Finality on the Merits
+One  last rationale  is  quite  different  from waiver/preclusion,
+simplicity,  and reliability.  In order to avoid  relitigation,  one of the
+inconsistent  judgments,  be  it  the  first-in-time  or  the  last-in-time,
+must prevail.  In  other  words,  the  goal  of finality  calls  for having
+some rule in place, even an arbitrary one.
+However, this finality argument is not too strong. Supporters
+of the rule may raise the specter of theoretically endless relitigation,
+but in fact that risk does not exist. The approach could be that neither
+F-I's nor F-2's judgment is binding and that F-3's fresh decision will
+act as the henceforth-preclusive  tiebreaker.  Alternatively, the system
+could provide, with nonfatal consequences  to itself, that inconsistent
+results mean no preclusion ever'on the point. Yet current law usually
+eschews both of these approaches,42 except that inconsistent findings
+may  prevent  any  future  invocation  of  nonmutual  collateral
+estoppel.43
+In sum, the last-in-time rule exists because we would like one
+of the inconsistent judgments to be final, and it might as well be the
+later judgment both on the logic of waiver/preclusion and also in the
+interests of simplicity and reliability.44 The rule is close to being an
+42.  But see Shaw v. Broadbent, 29 N.E. 238, 241  (N.Y.  1891) (holding that
+"one estoppel neutralizes the other, and the. question is left to be tried over"); cf
+Bata v. Bata, 163 A.2d 493, 506 (Del.  1960) (dictum) ("It has been suggested that
+in the face of two conflicting foreign determinations, involving a common question
+but different causes of action, the court of the forum  should disregard both and
+should proceed  at once  to  the  merits.").  No  case has  ever  followed  the  Shaw
+holding,  and  several  have  expressly  rejected  it.  E.g.,  Bd.  of  Dirs.  of  Chi.
+Theological Seminary v. People ex rel. Raymond, 59 N.E. 977, 980 (Ill.  1901).
+43.  See RESTATEMENT  (SECOND)  OF JUDGMENTS  § 29(4)  cmt.  f (AM.  LAW
+INST.  1982) (listing as a discretionary factor against nonmutual preclusion that the
+"determination  relied  on  as preclusive  is  itself inconsistent  with  some  other
+adjudication  of the same  issue"). Nonmutual collateral  estoppel  differs  from the
+problem  of inconsistent judgments  in  that  only one  of the  prior judgments  is
+potentially preclusive in F-3. The inconsistency of determinations is then just an
+argument,  applicable  only  in  the  context  of nonmutuality,  against  giving that
+judgment its normal preclusive effect.
+For another example of nonpreclusion as the solution, the Second Restatement
+provides that where a judgment rests on alternative findings, neither is binding. Id.
+§ 27 cmts. i, o; see FIELD ET AL., supra note 27, at 822-24 (criticizing the Second
+Restatement's approach).
+44.  For such a listing of reasons, see Robi v. Five Platters, Inc., 838 F.2d 318,
+322-23 (9th Cir. 1988) (other citations omitted):
+When two inconsistent judgments exist, it is tempting for a
+court to reexamine the merits of the litigants' dispute and choose
+the result it likes best. There are important reasons to avoid this16  THE RE VIEW OF LITIGATION  [Vol. 36:1
+arbitrary rule for the sake of having a rule, but it is not a particularly
+bad rule.
+B.  Development of the Rule
+1.  Emergence
+The last-in-time rule merely happened. For the kinds of cases
+American  courts  were  encountering,  the  foregoing rationales  made
+last-in-time  seem the natural  solution. The rule's development adds
+to the sense of its arbitrariness.
+Early  on,  the  problem  arose  rarely,  in  state4  and  federal46
+cases.  In the primitive problem's sequence of three actions, all three
+temptation. First, if one party could have raised res judicata, but
+did  not,  that  litigant  must  bear  the  cost  of  its  tactic  or
+inadvertence.  Second, the most recent court to decide the matter
+may have  considered  and rejected  the  operation  of the  prior
+judgment as res judicata, and its decision  should be treated as
+res judicata on  the  preclusive  effect  of the  prior judgment.
+Finally, the last in time rule is supported by the rationale that it
+"'end[s]  the  chain  of relitigation  ...  by  stopping  it where  it
+[stands]'  after entry of the  [most recent]  court's judgment, and
+thereby  discourages  relitigation  in  [yet  another]  court."  Id.
+(quoting  Porter v.  Wilson, 419  F.2d 254, 259  (9th  Cir.1969),
+cert. denied, 397 U.S.  1020,  90 S.  Ct.  1260, 25 L.  Ed.2d 531
+(1970)).  Therefore,  even when  we think  that  the  most  recent
+judgment might be wrong, we still give it res judicata effect, so
+that finality is achieved and the parties are encouraged to appeal
+an inconsistent judgment directly rather than attack it collaterally
+before another court.
+45.  See, e.g., In re McNeil's Estate, 100 P. 1086, 1090 (Cal. 1909) (involving
+a sequence of Pennsylvania, California, and California actions, where the winner in
+F-1 failed to raise the F-i judgment in F-2); Tyrrell v. Baldwin, 6 P. 867, 869 (Cal.
+1885) ("These judgments were rendered in actions between the same  parties, in
+respect  to  the same  subject-matter,  and  the rule  in  such  cases  is  that  the  last
+judgment concludes."); Bank of Montreal v.  Griffin's Estate,  190 Ill. App.  221,
+226 (1914) (involving a sequence of three Illinois actions, where the winner in F-i
+failed to raise the F-I judgment in F-2: "[T]he judgment last in point of time is the
+judgment to which effect must be given ....  );  Cooley v. Brayton,  16 Iowa 10,  19
+(1864) (involving a sequence of three Iowa actions, where the winner in F-1  failed
+to  raise  the  F-1  judgment  in  F-2:  "He  failed  to  do  so,  and he  is,  beyond  all
+question,  bound  and  concluded  by the  latter decree ....  );  Bateman  v.  Grand
+Rapids & I.R. Co., 56 N.W. 28, 29 (Mich.  1893) (involving  a sequence of three
+Michigan actions, where the winner in F-1 failed to raise the F-1 judgment in F-2:
+"Plaintiff had an opportunity, in the replevin case, to plead the former judgment,
+but neglected to do so, and must be held to have waived the estoppel."); Marsh v.
+Mandeville,  28  Miss.  122,  128  (1854)  (involving  a  sequence  of  federal,Winter 2017] LIMTTING LAST-IN-TIME RULE 17
+would likely come in the same jurisdiction,47 although  occasionally
+the  actions  would  be  interjurisdictional  but  still  all  American.48
+Mostly the cases  involved the situation in which the benefitee of the
+F-i judgment  failed to raise  it in F-2, so that the waiver notion by
+itself  made  the  last-in-time  judgment  the  natural  choice.49
+Eventually,  as res judicata doctrine  expanded in scope and the case
+law  accumulated,  some  of the  cases  involved  the  court  in  F-2
+actually  rejecting  F-i's  judgment."o  Still,  the  policy  choice
+underlying the rule received little discussion in the courts.
+A  few of these  cases  emerged  from the  mists of history  to
+obtain some  prominence  as  standard cites.51  Even  cases  not really
+involving inconsistent judgments came to recite the last-in-time rule
+as  established  law.52  Last-in-time  thereby  became  the  accepted
+Mississippi, and Mississippi actions, where the winner in F-I failed to raise the F-I
+judgment in F-2).
+46.  See, e.g., Donald v.  J.J. White Lumber Co., 68 F.2d 441, 442  (5th Cir.
+1934)  (involving  a  sequence  of three  federal  actions,  where the  winner  in F-1
+failed to raise the F-i judgment in F-2: "But the government, for reasons  of its
+own, chose not to rely on it in that suit, and in our opinion thereby waived it, and
+cannot assert it in this case. Where there are two conflicting judgments, the last in
+point of time is the one which controls.").
+47.  See, e.g., Bank of Montreal v. Griffin's Estate,  190 Ill. App.  221  (1914)
+(involving  cases all from the same state); Cooley v. Brayton,  16 Iowa 10 (1864)
+(same); Bateman v. Grand Rapids & I.R. Co., 56 N.W. 28 (Mich. 1893) (same).
+48.  See, e.g., In re McNeil's Estate, 100 P. 1086,  1090 (Cal. 1909) (involving
+a  sequence  of  Pennsylvania,  California,  and  California  actions);  Marsh  v.
+Mandeville,  28  Miss.  122,  128  (1854)  (involving  a  sequence  of  federal,
+Mississippi, and Mississippi actions).
+49.  E.g., Donald v. J.J. White Lumber Co., 68 F.2d 441 (5th Cir. 1934); In re
+McNeil's Estate,  100 P.  1086,  1090  (Cal.  1909);  Bank of Montreal v.  Griffin's
+Estate, 190 Ill. App. 221  (1914);  Cooley v. Brayton,  16 Iowa 10 (1864);  Bateman
+v. Grand Rapids & I.R. Co., 56 N.W.  28 (Mich.  1893); Marsh v. Mandeville, 28
+Miss. 122, 128 (1854).
+50.  See, e.g., Southard v. Southard, 305 F.2d 730, 732 (2d Cir. 1962) ("The
+substantive defense  that the Connecticut divorce  was barred by the requirement
+that that state give full faith  and credit to the Nevada decree was one that could
+have been and indeed apparently was raised in the Connecticut court. Whether that
+court actually passed upon the defense or not, principles of res judicata forbid us
+to consider it. The appellant's opportunity to attack the Connecticut decree on the
+merits died with his failure to appeal ....  ).
+51.  E.g., Tyrrell v. Baldwin, 6 P. 867, 869 (Cal. 1885); Cooley v. Brayton, 16
+Iowa 10 (1864).
+52.  See, e.g., Galvin v. Palmer, 66 P. 572, 573 (Cal. 1901) ("If two judgments
+have  been  entered  in a cause,  and the  record-the judgment  roll-is silent  in
+reference to the reason therefor, the later in point of time must be deemed the true
+and final judgment in the case.");  Cummins v. Mullins, 210 S.W.  170,  172 (Ky.
+1919)  ("Where  there are  two conflicting judgments rendered  by the  same court18 THE REVIEW OF LITIGATION [Vol., 36: 1
+answer, and orthodox enough to appear in early treatises. The leading
+treatise on judgments stated the last-in-time rule from its first edition
+of 187353 until its fifth and last edition of 1925.54 In between another
+treatise stated the rule nicely:
+The last judgment rendered in regard-to a matter is res
+judicata." The  former  judgment  must  be  used  to
+prevent it.. .. But if he does not bring that fact to the
+attention  of the  court, or if he  does  do  so,  and it is
+disregarded,  in either  case the  former judgment,  the
+same as all other defenses, is concluded.56
+Other  treatises reaching  this topic  followed  suit,  similarly  without
+real  explanation  or justification.57  Certainly,  neither  treatises  nor
+cases made reference to any of the  little-known foreign approaches,
+such as the developing first-in-time rule in England.
+In  1886,  the U.S.  Supreme  Court waded in.  The  little-cited
+Dimock v. Revere Copper Co.59 involved three actions, as usual. First
+came  Dimock's  federal  discharge  in  bankruptcy.  Next  came  a
+Massachusetts judgment  in an action by Revere  against Dimock. on
+promissory notes, in which Dimock failed. to bring the discharge  to
+the  attention  of the  Massachusetts  court  and  so  suffered  a  loss.
+Lastly, Revere  sued upon its judgment in New York.  When Dimock
+then invoked the discharge,  New York instead accepted  the last-in-
+time judgment. The U.S.  Supreme Court affirmed:
+upon the same rights of the same parties,  growing out of the same contract,  that
+which is later in time will prevail.").
+53.  A.C. FREEMAN,  A TREATISE ON THE LAW OF JUDGMENTS  § 332, at 294
+(S.F., A.L. Bancroft & Co. 1873) ("Last Judgment Prevails").
+54.  2 FREEMAN, supra note 20, § 629, at 1326 ("[T]he last judgment controls
+and determines the rights of the parties.").
+55.  The cases cited in support were Cooley v. Brayton,  16 Iowa 10 (1864),
+and Bateman v. Grand Rapids & I.R. Co., 56 N.W. 28 (Mich.  1893).
+56.,  1  JOHN M.  VAN  FLEET,  RES JUDICATA:  A TREATISE  ON  THE LAW  OF
+FORMER  ADJUDICATION  § 9,  at 91-92  (Indianapolis,  Bowen-Merrill  Co.  1895)
+(citing no cases for his assertion regarding nonwaiver situations).
+57.  J.C. WELLS, A TREATISE ON  THE DOCTRINES OF RES ADJUDICATA AND
+STARE  DECISIS  § 339,  at 278 (Des  Moines,  Mills  & Co.  1878)  ("[H]e  cannot
+afterward attack the last decree."); see HENRY CAMPBELL BLACK, A TREATISE ON
+THE LAW OF JUDGMENTS,  INCLUDING THE LAW OF RES JUDICATA  (2d ed.  1902)
+(1891) (making no mention of the point).
+58.  See infra text accompanying note 130.
+59.  117 U.S.  559 (1886).Winter 2017] LIMITING LAST-IN-TIME RULE 19
+We  are of opinion that,  having in his hands a
+good  defence  at  the  time  judgment  was  rendered
+against him [in  F-2], namely,  the  order of discharge
+[in  F-1],  and  having  failed  to  present  it  to  a  court
+which  had  jurisdiction  of his  case,  and  of all  the
+defences which  he might have  made,  including this,
+the judgment is a valid judgment, and that the defence
+cannot be set up here in an action on that judgment [in
+F-3].60
+In  1939,  the  Supreme Court took  a giant step further  in its
+leading  case  on  this  problem.  Treinies v.  Sunshine Mining  Co.
+involved  a  fight over mining company stock between  stepdaughter
+and  stepfather.61 First,  a Washington  probate  court,  after making  a
+litigated determination that it had subject-matter jurisdiction, held for
+the  stepfather.62  Second,  he  relied  on  that judgment  in  an  Idaho
+proceeding, but the Idaho court found that the Washington court had
+lacked  subject-matter  jurisdiction.63  The  stepfather  unsuccessfully
+appealed  the  full  faith  and  credit  question  to  the  Idaho  Supreme
+Court and then unsuccessfully petitioned for certiorari.64  On remand,
+the  trial  court  determined  ownership  in  the  stepdaughter,  and  the
+stepfather took no further appeal from that final judgment.65  Third,
+Washington's subject-matter jurisdiction and the parties'  ownership
+questions reappeared in an interpleader  suit in the District of Idaho,
+which applied the last-in-time rule in favor of the stepdaughter.66 The
+U.S.  Supreme  Court  affirmed:  "Even  where  the  decision  against
+validity of the original judgment is erroneous, it is a valid exercise of
+judicial power by the second court. One trial of an issue is enough."67
+Any waiver argument based on a failure to assert res judicata
+in F-2  was  unavailable  on the  facts  of Treinies. Consequently,  its
+holding represents  a significant expansion of the last-in-time  rule to
+nonwaiver situations.  However,  the  Court did not explain or justify
+60.  Id. at 566. Subsequently, the Supreme Court applied the last-in-time rule
+without formulating,  explaining, or justifying it, once citing Dimock, Boynton v.
+Ball,  121  U.S.  457, 463-64 (1887),  but usually not citing Dimock, e.g., Davis v.
+Davis, 305  U.S.  32,  39-40 (1938)  (semble);  Reed v.  Allen,  286 U.S.  191,  199
+(1932).
+61.  308 U.S. 66, 69 (1939).
+62.  Id. at 69-70.
+63.  Id. at 74-76.
+64.  Id. at 74-75.
+65.  Id.
+66.  Id. at 75-76.
+67.  Id. at 78.20 THE REVIEW OF LITIGATION [Vol. 36: 1
+itself. None of the courts or the parties involved in the case expressly
+mentioned  "last-in-time,"  and none cited Dimock. Their debate was
+over whether F-3  should reconsider the duty of F-2 to give full faith
+and credit to F-I's judgment68 or whether full faith and credit to F-
+2's judgment meant ignoring possible errors in that judgment.69  The
+Court  simply barreled  down  the  latter  route  by  assuming  that the
+latest judgment controlled.70
+With Treinies recently  entered  on the books,  the  American
+Law Institute was compelled to address the matter for the first time.
+Its involvement would prove crucial because of the Supreme Court's
+failure to formulate the doctrine explicitly. In fact, through a series of
+four different projects over the years, the ALI has played an outsized
+role in the development of the doctrine.
+In 1942, the Restatement of Judgments  codified and extended
+the Treinies result, by sweepingly providing a last-in-time rule for all
+of res judicata,  whether or not a waiver argument was  available. Its
+blackletter  stated:  "Where  in  two  successive  actions  between  the
+same  parties inconsistent judgments  are rendered,  the judgment  in
+the  second  action  is  controlling  in  a  third  action  between  the
+parties."71 The Restatement  stated  the  rule not  only as  a matter  of
+domestic res judicata  law but also  as  the  law  governing  interstate
+situations.72  The  appended  comments  gave  no  rationale,  and  the
+Restatement  contained no reporter's notes. The  section appeared  in
+essentially  identical  form  in the  initial  drafts 73  and  seems  to  have
+received  no group  attention  or discussion  at the annual meetings.74
+The broad rule apparently was accepted as well-settled.
+68.  Petitioner's Reply to Brief of Respondents Katherine Mason et al. at 13,
+23-24, Treinies v. Sunshine Mining Co., 308 U.S. 66 (1939) (No. 4).
+69.  Brief  of  Respondent,  Sunshine  Mining  Company  at  28-34,  39-43,
+Treinies v. Sunshine Mining Co., 308 U.S.  66 (1939)  (No. 4).
+70.  Subsequently,  Supreme  Court  cases just  applied  the  last-in-time  rule,
+citing Treinies without formulating,  explaining, or justifying the rule. E.g.,  Sutton
+v.  Leib, 342  U.S.  402, 408  & n.7 (1952);  Morris  v. Jones,  329  U.S.  545, 552
+(1947) (also emphasizing the benefitee's failure to have raised the F-i judgment in
+F-2, an argument available on that case's facts).
+71.  RESTATEMENT OF JUDGMENTS  § 42 (AM. LAW INST.  1942).
+72.  Id. cmt. e.
+73.  Id. § 305 (AM. LAW INST. Council Draft No. 1, Jan. 6, 1941) (setting forth
+a draft that differed from the final § 42 only in lacking what is now illustration 4
+and having comments  c  and d in reverse order);  id. (AM.  LAW INST.  Tentative
+Draft No.  1,  Mar.  19,  1941)  (setting  forth  the  same  draft  except  that  it now
+included illustration 4).
+74.  See 19 A.L.I. PROC.  282 (July 1,  1941-June 30,  1942) (mentioning the
+idea only in connection with a different section, with Professor Austin W.  Scott as
+the Reporter responsible for § 42 observing:  "It is the last thing that happens thatWinter 2017] LIMTING LAST-IN-TIME RULE 21
+2.  Challenge
+By  far  the  premier  citation  on  this  subject  is  the  1969
+Harvard Law  Review  article  by  then-Professor  Ruth  Bader
+Ginsburg.7"  It was a simply constructed  article.  She focused on the
+internal  American  approach,  putting  international  litigation  to  the
+side.76 The article proceeded in just two parts.
+The first part recited in detail the four leading Supreme Court
+precedents at that time.77  She showed how those cases enshrined the
+last-in-time  rule.78  It  applied  not  only  where  the  benefited  party
+waived the F-1  judgment by failing to  assert it,  but also where  the
+party  strongly  resisted  F-2's  denial  of full  faith  and  credit.79  It
+applied even where F-I and F-3 were the same courts.80
+The  second part discussed  three  state cases that had flouted
+their seeming duty to apply the last-in-time rule, tending in particular
+to do so when F-i and F-3  were the same courts.81 These cases met
+counts.  That is true where the judgments are inconsistent with each  other,  and  it
+is the last one which makes it binding on the parties even though it is not in the
+first action.");  18 A.L.I. PROC. 382-432 (July 1,  1940-June 30, 1941) (making no
+reference to the section at all).
+75.  Ruth B.  Ginsburg,  Judgments in Search of Full Faith and Credit: The
+Last-in-Time Rule for Conflicting Judgments, 82 HARV. L. REv. 798 (1969).
+76.  Id. at 804-05.
+77.  Sutton v.  Leib,  342 U.S.  402  (1952)  (involving a sequence  of Illinois,
+New York, and Southern District of Illinois marital actions, where F-2 invalidated
+the F-1 judgment of divorce); Morris v. Jones, 329 U.S.  545 (1947)  (involving a
+sequence of Illinois, Missouri, and Illinois liquidation actions, where the benefitee
+of the F-1 judgment failed to raise it in F-2); Treinies v. Sunshine Mining Co., 308
+U.S.  66 (1939)  (involving a sequence of Washington, Idaho, and District of Idaho
+ownership actions, where F-2 erroneously invalidated the F-1 judgment for lack of
+subject-matter jurisdiction);  Dimock v. Revere Copper Co., 117 U.S.  559 (1886)
+(involving a sequence of District of Massachusetts, Massachusetts, and New York
+debt actions, where the benefitee of the F-i judgment failed to raise it in F-2).
+78.  Ginsburg, supra note 75, at 800-11.
+79.  See Treinies, 308 U.S.  at 77 (relating that the benefitee ofF-1 even sought
+certiorari  in  the  U.S.  Supreme  Court  on  F-2's  denial  of full  faith  and credit,
+although that was on an interim appeal rather than on review of the final decree).
+80.  See Morris, 329 U.S.  at 551 ("That determination is final and conclusive
+in all courts.").
+81.  See Ginsburg, supra note 75, 811-19  (discussing Porter v. Porter, 416
+P.2d 564 (Ariz. 1966) (involving a sequence of Arizona, Idaho, and Arizona land
+actions, where the benefitee of the F-1 judgment failed to raise it in F-2); Kessler v.
+FauquierN at'1 Bank, 81 S.E.2d 440 (Va. 1954) (involving a sequence of Virginia,
+Florida,  and  Virginia  marital  actions,  where  F-2  rejected  the  F-1  judgment
+upholding  divorce);  Perry v.  Perry, 318  P.2d  968  (Wash.  1957)  (involving  a
+sequence  of Washington,  Massachusetts,  and Washington marital  actions,  where
+the benefitee of the F-i judgment failed to raise it in F-2)).22 THE REVIEW OF LITIGATION [Vol. 36:1
+with the professor's clear disapproval82 and prompted her to call on
+the Supreme Court to grant certiorari and put down the rebellion.
+A  point made  almost  in passing  in the  article  attracted the
+most attention and still receives regular citation. It was her suggested
+limitation on F-3's full faith and credit obligation to honor the last-
+in-time:
+But  the  Court  has  not  yet  considered  the  ultimate
+question: where credit for the first state's judgment is
+demanded  but  denied  in  the  second  state  and  the
+diligent pursuit of the appellate route concludes with a
+denial  of  certiorari,  does  the  lastin-time  rule  still
+apply? Justification  for the rule depends  on both the
+full faith and credit obligation of the second state, and
+the availability of an impartial  tribunal to correct the
+second  state's  error,  should  it  fail  to  give  the  first
+judgment the respect constitutionally due it. When the
+impartial  arbiter refuses  to  act,  however,  the  second
+82.  See also id. at 819-30 (disapproving three cases where the sequence was
+F-1, F-2, and F-1, and the last court followed the initial F-i judgment even though
+it had not been entitled to full faith and credit, say, because it was nonfinal: Kubon
+v. Kubon, 331  P.2d 636 (Cal.  1958); Colby v.  Colby, 369 P.2d 1019 (Nev. 1962);
+Joffe v. Joffe, 384 F.2d 632 (3d Cir.  1967)); cf 18 WRIGHT ET AL., supra note 20,
+§ 4404,  at 78-80  (treating  situation in F-i  where F-2 has  entered  a preclusive
+judgment after the F- 1  trial court has made various nonfinal rulings and before any
+appeal has been taken).
+83.  Ginsburg, supra note 75,  at 811-19.  Despite her plea, the rebellion still
+simmers. See,  e.g., Medveskas v. Karparis, 640 A.2d 543 (Vt.  1994) (involving a
+sequence  of Vermont,  Massachusetts,  and Vermont  support  actions,  where the
+benefitee of the F-1 judgment had raised it unsuccessfully  in F-2). But see, e.g.,
+Thoma v.  Thoma,  934 P.2d 1066,  1070-71  (N.M.  Ct. App.  1996)  ("Cases like
+Medveskas exemplify the parochial  attitude that the Full Faith and Credit Clause
+was intended to override."). Denial of certiorari without dissent in cases presenting
+the problem during her time on the Court include Stauber v.  McGrath, 555 U.S.
+969 (2008)  (involving a sequence of Ohio, California, and Ohio paternity actions,
+where the benefitee of the F-1 judgment had raised it unsuccessfully in F-2; Ohio
+disregarded the California judgment, and both sides cited her article to the U.S.
+Supreme  Court);  Bruetman v.  Herbstein, 537  U.S.  878  (2002)  (involving  a
+sequence of Southern District of New York, Argentina, and Northern District of
+Illinois  actions,  where  F-3  disregarded  the  foreign-nation's  nonfinal judgment);
+Rash v.  Rash, 528 U.S.  1077  (2000) (applying  below the last-in-time rule to a
+sequence of Florida, New Jersey, and Middle  District of Florida marital actions,
+where the benefitee of the F-1 judgment had raised it unsuccessfully in F-2); and
+Transaero, Inc.  v.  La Fuerza Aerea Boliviana, 526 U.S.  1146 (1999)  (holding
+below that  F-i  must  apply  F-2's  finding  of F-i's  lack  of jurisdiction  and so
+withdraw F-l 's default judgment).  The Supreme Court has cited her article only
+once, in Baker v. Gen. Motors Corp., 522 U.S. 222, 236 n.9 (1998)  (Ginsburg, J.).Winter 2017] LIMITING LAST-IN-TIME RULE 23
+state's rejection  of the  first  state's judgment  should
+not automatically become the national solution to the
+matter in controversy. Rather, the court subsequently
+confronted with the  conflicting judgments  should,  in
+effect, provide the check  unsuccessfully sought from
+the Supreme Court.84
+In her view, if the second action is brought in a different state from
+the  state  of the  first judgment's rendition;  the  court  in the  second
+action refuses to  accord preclusive effect to the  first judgment;  the
+appellate  courts of the second state affirm;  the U.S.  Supreme Court
+denies  certiorari;  the  matter  arises  in  a third  action;  and the  third
+court finds the second court's full faith and credit decision  to be in
+contravention  of the Full Faith  and Credit Clause85  and Act,86 then
+the  third court should  give  full  faith  and credit to  the  first court's
+judgment.
+3.  Retrenchment
+The second version of the Restatement of Conflict of Laws in
+1971  added  a  section  to  treat  inconsistent  judgments.  Expressly
+relying  on  the  Restatement  of Judgments'  provision,  it  stated  an
+elaborated blackletter rule:
+A judgment rendered  in a  State of the  United States
+will not be recognized or enforced in sister States if an
+inconsistent,  but  valid,  judgment  is  subsequently
+rendered in another action between  the parties and if
+the  earlier  judgment  is  superseded  by  the  later
+judgment under the  local law of the  State  where  the
+later judgment was rendered.
+84.  Ginsburg, supra note 75,  at 831-32; see id at 803-04 ("Hence,  such a
+denial  of certiorari  seems  hardly an  appropriate  basis  for  endowing  F-2  with
+ultimate  authority  to  displace  F-i's  adjudication  with  its  own."),  805-06
+("However,  when the national tribunal fails to act,  despite a properly timed and
+formally correct invitation for review,  some of the distinctions between interstate
+and international judgments, significant at earlier stages, lose force....  Rather, the
+recognition forum should attempt to function as surrogate arbiter and view the case
+from the perspective the Supreme Court would have taken had it granted review.").
+85.  U.S.  CONST. art. IV, § 1.
+86.  28 U.S.C.  § 1738 (2012).
+87.  See generally Ginsburg, supra note 75.
+88.  RESTATEMENT  (SECOND)  OF CONFLICT OF LAWS  § 114 (AM. LAW INST.
+1971).24 THE RE VIE WOF LITIGATION [Vol. 36:1
+Significantly, its final comment qualified the scope of the rule: "It is
+uncertain  whether  the  rule  of  this  Section  will  be  applied  to
+judgments  rendered  in  a  foreign  nation." 89  Moreover,  its  initial
+comment ungrammatically  and ambiguously added this qualification:
+"The  rule  of  this  Section  is  applicable  if the  later  inconsistent
+judgment is valid (see  § 92) and, provided at least, that the Supreme
+Court of the United States has not refused to review this judgment."90
+This was  a last-minute  bow to  Professor Ginsburg,  whose  recently
+published article received a "see  generally" citation in the reporter's
+note,  the  only  citation  to  commentary  in  the  note.91  Unlike  the
+Restatement of Judgments' provision on inconsistent judgments, this
+section in the Restatement (Second) of Conflict of Laws received hot
+debate at the annual meeting when first proposed in rather sweeping
+terms.92  The  provision  was  attacked  on  the  ground  that  "it
+encourages  relitigation"  and  "jurisdiction hunting."93 On  a  deeper
+level,  the concerns  were over whether  the section should  extend to
+foreign-nation judgments94 and whether it should extend to domestic
+judgments  denying  full  faith  and credit.95  The  section  accordingly
+evolved  over  time  to  acquire  its  foreign-nation  qualification  and,
+eventually, the Ginsburg qualification.96
+89.  Id. cmt. d.
+90.  Id. cmt. a. A paragraph added to the end of comment b helped to clarify:
+The rule may be different  in  a situation  where the losing
+party has been denied review of the later inconsistent judgment
+by the Supreme Court of the United States. In such a situation, it
+might be thought inappropriate to require that conclusive  effect
+be  given  under full  faith  and  credit  to  the later  inconsistent
+judgment.
+91.  Id. reporter's note.
+92.  See  41  A.L.I.  PROC.  275-81  (1964)  (defeating  a motion to  strike  the
+section).
+93.  Id. at 276.
+94.  See id. at 277 (Prof.  Rudolf B. Schlesinger); see also id. (indicating  that
+the Reporter, Professor Willis L.M. Reese, agreed to qualify the section by adding
+comment d); supra text accompanying note 11.
+95.  See 41  A.L.I. PROC.  276-79  (Messrs.  Sigmund Timberg  & Robert M.
+Benjamin).  The suggestion seemed to be that the section  should apply only to a
+party who failed to raise full faith and credit in F-2 and pursue it all the way to the
+U.S. Supreme Court.
+96.  See RESTATEMENT  (SECOND)  OF CONFLICT OF LAWS § 439a (AM. LAW
+INST.  Tentative Draft No.  10,  1964) (setting forth the original draft, which would
+be applicable to recognizable  foreign-nation judgments and which did not contain
+the Ginsburg qualification); id. (AM.  LAW INST. Preliminary Proposed Final Draft
+No. 1, 1966) (adding the qualification for foreign-nation judgments as comment d);Winter 2017] LIMTTING LAST-IN-TIME RULE 25
+The  American  Law  Institute  revisited  the  problem  of
+inconsistent  judgments  in  1982's  Restatement  (Second)  of
+Judgments.  Its  blackletter  read:  "When  in two  actions  inconsistent
+final judgments are rendered,  it is the later, not the earlier, judgment
+that is accorded conclusive effect in a third action under the rules  of
+res judicata."97  First, as the Judgments project treats only an internal
+law  of res  judicata,  it  does  not  touch  foreign-nation  judgments.
+Second, the drafting effort initially embraced and then abandoned the
+Ginsburg  qualification.98  The initial  reporters,  Professors  Benjamin
+Kaplan  and  David  L.  Shapiro,  posed  her hypothetical  of denied
+certiorari  as the  central question to be faced in drafting the relevant
+section.99 In the preliminary draft submitted to the project's Advisers
+for discussion in October 1972, they followed the earlier Restatement
+of Judgments and the Restatement (Second) of Conflict of Laws, but
+added a comment that would allow F-3 to reconsider F-2's full faith
+and  credit  decision  at  the  behest  of a  party  denied  certiorari."oo
+Almost  immediately,  however,  they  retreated  to  a  mere  cross-
+reference to the reservation of the point in the Restatement (Second)
+of Conflict of Laws. 101  That approach carried forward,102  producing
+no  discussion  at the  annual  meeting.1 03  Essentially,  the  American
+Law Institute punted on Ginsburg.
+id. § 114 (AM. LAW INST. Proposed Final Draft Pt. 1, 1967) (editing out a reference
+to foreign-nation judgments in comment a).
+97.  RESTATEMENT (SECOND)  OF JUDGMENTS § 15 (AM. LAW INST. 1982).
+98.  See id. at 38 n.13  (AM. LAW INST.  Preliminary Survey,  Nov. 26,  1969)
+(explaining that the Second Restatement would reach interstate situations because
+RESTATEMENT OF JUDGMENTS  § 42 cmt. e (AM. LAW INST.  1942) reached them).
+99.  Id. at 36-38.
+100.  Id.  § 41.2 cmt.  e  (AM. LAW  INST.  Preliminary  Draft No. 2, Aug.  30,
+1972) (citing the Ginsburg article):
+However,  the  constitutional  compulsion  should  not  apply  if,
+when  the earlier judgment  was  refused  effect  in the  second
+action, the party injured contended that the refusal was a  denial
+of full faith and credit, and attempted to carry this contention to
+the  Supreme Court of the United States, but that Court refused
+review. In those circumstances a court asked to give effect to the
+later judgment is entitled to consider independently on the merits
+whether the earlier judgment should have been  given  conclusive
+effect under the full faith and credit clause, and if it decides that
+question in the affirmative, to give conclusive effect to the earlier
+rather than the later judgment.
+101.  Id. (AM. LAW INST. Council Draft No. 1, Dec. 21, 1972).
+102.  Id. (AM. LAW INST. Tentative Draft No. 1, Mar. 28, 1973).
+103.  See 50 A.L.I. PROC. 288 (1973)  (giving brief description of the section
+by Justice Kaplan, who observed: "There the rule of the road, which is also, I think26 THE RE VIEW OF LITIGATION [ Vol. 36: 1
+The U.S.  Supreme Court has since returned to the problem of
+inconsistent judgments, and its capstone message  explained that, for
+American judgments,  American law  embodies  the  last-in-time  rule
+seemingly unadorned by exceptions. In the ParsonsS teel case,104 the
+sequence began with plaintiffs suing a bank for fraud in an Alabama
+court. A couple of months later, they sued the bank for the same acts
+under a federal banking  statute  in the  federal  court  for the  Middle
+District of Alabama. The federal action went to judgment first (F-1),
+with a decision for the bank.  The bank then asserted claim and issue
+preclusion  in the  state  action,  but the  state  court  ruled against  res
+judicata  without  giving  reasons  and  awarded  the  plaintiffs
+$4,000,001  in damages (F-2), against which the bank filed post-trial
+motions. The bank immediately returned to the same federal district
+court,  which  decided  that  its  prior judgment  was  claim-preclusive
+and so  issued  an injunction  against enforcement  by the  state-court
+plaintiffs  (F-3).  The  court of appeals  affirmed  in relevant part.  The
+Supreme Court unanimously reversed the federal-court injunction:
+Once the state court has finally rejected a claim of res
+judicata, then the Full Faith and Credit  Act becomes
+applicable and federal courts must turn to state law to
+determine  the  preclusive  effect  of the  state  court's
+decision.
+...  [T]he  Full  Faith  and  Credit  Act  requires  that
+federal  courts  give  the  state-court  judgment,. and
+particularly  the  state  court's  resolution  of the  res
+judicata  issue,  the  same  preclusive  effect  it  would
+have  had  in  another  court  of  the  same  State.
+Challenges  to  the  correctness  of  a  state  court's
+determination as  to the conclusive  effect of a federal
+judgment must be pursued by way of appeal through
+the  state-court  system  and  certiorari  from  this
+Court. 105
+supported in reason, is that it is the later of the two which is controlling in the third
+action.").
+104.  Parsons Steel, Inc. v. First Ala. Bank, 474 U.S. 518  (1986)  (Rehnquist,
+J.).
+105.  Id. at 524-25. On remand the district court concluded that the Alabama
+decision was not preclusive because  it was still nonfinal  and so the  court againWinter 2017] LIMITING LAST-IN-TIME RULE 27
+Maybe  the  ALI  should  have  faced  its  reserved  questions.
+Maybe  the  Supreme  Court  should have  spoken  more  precisely,  to
+avoid being seen as sidestepping those questions. If modem law had
+the gumption to answer, is the Ginsburg exception sound? No.
+Although she had no case support for her exception, hers was
+a  plausible  proposal.  It  was  arguable  that  the  party  claiming  the
+benefit of the first judgment should not be bound by the preclusive
+effect of the second judgment if the Supreme Court denies certiorari.
+After  all,  the  party  could  have  done  nothing  more  to  avoid  an
+inconsistent judgment,  and the nation's neutral arbiter had failed to
+act.  Moreover,  her  hypothetical  has  emotional  force.  It  tempts
+because  it involves a. past error on preclusion when we are trying to
+decide  about  preclusion  and  because  it  inspires  a  distaste  for
+respecting  the  disrespecting  F-2.  At  the  very  least,  her  scenario
+works well to expose,  on peculiarly wrenching facts,  the somewhat
+arbitrarily cruel nature of the last-in-time rule.
+Her solution was to cast preclusion aside as a rationale for the
+last-in-time  rule.  She  in essence  embraced  waiver  as  the  exclusive
+rationale.  She  would apply the  last-in-time  rule only when waiver,
+however  attenuated,  bolstered  the  second  state's  judgment.  To
+accommodate the case law, she had to extend waiver to the extreme
+of requiring the benefitee  to pursue the res judicata  point as  far as
+possible  in F-2,  going after the very  final judgment  all  the way to
+certiorari  whether or not it would be rational to  do so.  Then  if the
+Supreme Court denied audience to the benefitee, the last-in-time rule
+would cease to apply.
+Waiver makes the most sense, however,  if what it means  is
+failure  to  assert res judicata in  F-2 at all.  Prior  cases  had utilized
+preclusion as a partial rationale  for stretching the last-in-time rule to
+situations where the benefitee had in fact asserted res judicata in F-2.
+A  preclusion  rationale  would  honor a  final  decision of F-2  on res
+judicata,  while  her  approach  would  not  if  the  loser  banged
+unsuccessfully on the doors of the U.S.  Supreme Court.
+Her approach collides with the rest  of res judicata  doctrine.
+Res  judicata  frequently  enshrines  erroneous  judgments,  including
+those to which the  Supreme Court has denied certiorari.  It needs to
+do this to accomplish its aims. Errors in applying res judicata are no
+different from any kind of error. They certainly are no more serious
+than errors as to due process,  equal protection, or the jury right, all
+being errors  as  to which  res judicata routinely makes  courts  turn a
+enjoined its enforcement,  and the  court of appeals  affirmed.  First Ala. Bank of
+Montgomery, N.A. v. Parsons Steel, Inc., 825 F.2d 1475 (11th Cir. 1987).28 THE RE VIEW OF LITIGATION [ Vol. 36: 1
+blind eye despite  the denial of certiorari.  Her giving the relentless,
+but  unsuccessful,  res judicata  disputant  a  break  clashes  with  the
+treatment of all other litigants.106
+To  be  consistent  with  the  rest  of res judicata,  we  should
+protect  the  second  judgment  here  by  the  usual  last-in-time  rule.
+Additionally, the other rationales for the last-in-time rule carry over.
+They push toward application  of the usual rule even in her extreme
+scenario. One judgment should prevail as final, without reexamining
+the  merits  of the  prior judgments.  Also,  it  is  more  reliable  and
+simpler to accept the  last judgment.  Yet  Professor Ginsburg would
+have F-3 second-guess  F-2's preclusion decision when certiorari had
+been denied.
+The later case law,  such as  it is,  is against her.  In Porter v.
+Wilson, the Ninth Circuit had to  consider four lawsuits.'07  Arizona
+had issued the first judgment on ownership of a hotel. Idaho decided
+that  Arizona's  judgment  was  not  binding  for  lack  of personal
+jurisdiction  and  so  rendered  an  inconsistent  judgment.'o  Arizona
+then decided  that the Idaho judgment did not deserve  full faith and
+credit and so stuck to its view of the dispute, a decision on which the
+U.S.  Supreme Court denied certiorari.109 The District of Arizona, in a
+new  diversity  action,  decided  that  the  last judgment  was  binding,
+whether  it was  right or  wrong,  and the  court  of appeals  affirmed:
+"Defendants'  basic  error,  it  seems  to  us,  lies  in  the  mistaken
+assumption that it was the role of the federal district court to review
+and revise the decision of the Supreme Court of Arizona on the issue
+presented to that court under the full faith and credit clause."'10
+In  First  Tennessee  Bank  NA.  Memphis  v.  Smith,  a
+Mississippi  probate  judgment  preceded  an  Arkansas  probate
+judgment, which led to a federal interpleader action."'  The Arkansas
+courts, right up to the state supreme court,  had refused to recognize
+the  Mississippi  judgment  because  of lack  of jurisdiction.112  The
+aggrieved  bank  then  had  petitioned  for  certiorari,  but  the  U.S.
+106.  See 18 WRIGHT ET AL., supra note 20, § 4404, at 65-67; cf PETER HAY,
+PATRICK J. BORCHERS & SYMEON C. SYMEONIDES,  CONFLICT OF LAWS § 24.29, at
+1485 (5th ed. 2010) (seeing her suggestion as foreclosed by Treinies).
+107.  419 F.2d 254 (9th Cir. 1969).
+108.  Id. at 255-57.
+109.  Id.
+110.  Id. at 258.
+111.  766 F.2d 255 (6th Cir. 1985).
+112.  Id. at 255-58.Winter 2017] LIMTING LAST-IN-TIME RULE 29
+Supreme Court denied the petition.13 The federal courts applied the
+Arkansas judgment as last-in-time.114
+4.  U.S.  Summary
+Even if some authorities still equivocate on the Ginsburg and
+foreign  exceptions,  the  blackletter  American  rule  for  American
+judgments  is  last-in-time." 5  As  I  have  just argued,  the  Ginsburg
+exception  is  unsound  and unsupported.  But  as  I  shall  soon  argue,
+American courts should be wary about extending the last-in-time rule
+to foreign-nation judgments.116
+Whose  law  is  dictating  this  rule  and  any  exceptions?  The
+governing law is the recognition law of F-3."7  But that law may be
+subject  to external  constraints  imposed by higher law.  That is,  this
+firmly  established  last-in-time  rule,  within  the  United  States,  is  a
+matter of constitutional law under the Full Faith and Credit Clause in
+the interstate  setting;  a matter of the Full Faith and Credit Act and
+federal  res judicata  doctrine  in  the  state-federal,  federal-state,  and
+113.  Id.
+114.  Id.
+115.  See Rash v. Rash, 173 F.3d 1376 (11th Cir. 1999) (involving a sequence
+of Florida, New Jersey, and Middle District of Florida marital actions,  where the
+benefitee of the F-1 judgment had raised it unsuccessfully in F-2), cert. denied, 528
+U.S.  1077  (2000);  Sydoriak v.  Zoning Bd.  of Appeals,  879 A.2d 494, 500  n.7
+(Conn. App. Ct. 2005) (involving a sequence of three Connecticut zoning actions,
+where the benefitee of the F-1 judgment had failed to raise it in F-2); ROBERT L.
+FELIX & RALPH U.  WHITTEN, AMERICAN  CONFLICTS LAW  § 42  (6th ed. 2011);
+HAY  ET  AL.,  supra note  106,  § 24.29,  at  1484-85;  RUSSELL  J.  WEINTRAUB,
+COMMENTARY  ON THE CONFLICT OF LAWS  §11.3  (6th ed. 2010);  18 WRIGHT ET
+AL., supran ote 20, § 4404, at 60 n.23, § 4423, at 619 n.31 (citing many cases). The
+entirety  of discussion  on  the  rule  in  DAVID  L.  SHAPIRO,  CIVIL  PROCEDURE:
+PRECLUSION IN CIVIL ACTIONS 132 n.20 (2001), follows:
+If two  inconsistent  judgments  are  rendered  in  a  single
+jurisdiction, the later of the two is the one entitled to preclusive
+effect.  See RSJ  § 15.  The Supreme  Court,  in  interpreting the
+constitutional obligation of Full Faith and Credit, has made this
+rule applicable to sister state judgments---even when the losing
+party in the  second action  tried without success to  invoke the
+rules of preclusion in that action.  Treinies v.  Sunshine  Mining
+Co., 308 U.S. 66 (1939).
+116.  See infra Part III-B.
+117.  RESTATEMENT  OF CONFLICT OF  LAWS  § 450  cmt.  e  (AM.  LAW INST.
+1934); FELIX & WHITTEN, supra note 115, § 50; see CLERMONT,  supra note 23, at
+434-35 (explaining that in federal diversity actions, F-3's recognition law will be
+the local state's law).30 THE REVIEW OF LITIGATION [Vol. 36:1
+federal-federal  permutations;  or a matter of highly  uniform  state
+law if F-2 and F-3 are the same U.S.  state.119
+This governing law on recognition needs to be distinguished
+from other choices  of law. Recognition  for present purposes means
+only whether  F-3  will look to a prior judgment, provided that it is
+valid, final, and preclusive under applicable law. A valid judgment is
+one  of sufficient  quality  to  withstand  an  attack  in  the  form  of a
+request for relief from judgment,  which  will  typically lie  only  for
+lack  of jurisdiction  or  notice  and  not  for  other  error.120  A  final
+judgment  is  one  that  is not  tentative  or provisional,  which  in the
+United States generally means it was the trial court's last word on the
+merits.121  Preclusion  turns  on  all  the  rules  and  exceptions  of res
+judicata law.122
+When  F-3  faces  the  question  of whether  F-2's judgment  is
+valid and final,  it normally  should  apply the  law  of F-2  (which  is
+subject to any applicable external restraints,  such as due process and
+other federal provisions imposed on and becoming part of the F-2's
+law).123  When F-3  faces  the  question of the  extent or reach of res
+judicata based on F-2's judgment,  it normally should apply the res
+judicata law that F-2 would apply (including any applicable external
+restraints).124 Thus, once over the initial recognition hurdle, the basic
+approach is retroverse, in the sense of turning backward to look at F-
+118.  See FIELD ET AL., supra note 27, at 564, 891-905 (giving controlling law
+for the four basic permutations); see also id. at 905-906 (treating tribal courts).
+119.  RESTATEMENT  (SECOND)  OF JUDGMENTS  § 15  (AM.  LAW INST.  1982).
+Compare K.D. Kerameus, Res Judicata:A  Foreign Lawyer's Impressions of Some
+Louisiana Problems,  35  LA.  L.  REv.  1151  (1975)  (describing  old  civilian
+approach),  with  1  LA.. CIV.  L. TREATISE,  CIVIL PROCEDURE  § 6:7 (2d ed.  2008)
+(describing the state's shift in 1990 to common-law preclusion).
+120.  CLERMONT, supra note 23, at 381-84.
+121.  Id.at384-85.
+122.  Id. at 374-78.
+123.  RESTATEMENT  (SECOND)  OF CONFLICT OF LAWS  §§  92-93,  107  (AM.
+LAW INST.  1971);  RESTATEMENT  (THIRD)  OF FOREIGN RELATIONS  LAW  OF THE
+UNITED STATES §§  481(1), 482 (AM. LAW INST.  1987); see WILLIAM M. RICHMAN,
+WILLIAM  L.  REYNOLDS  &  CHRISTOPHER  A.  WHYTOCK,  UNDERSTANDING
+CONFLICT OF LAWS  § 115 [b], [d] (4th ed.  2013) (discussing determination of lack
+of finality  in a prior  forum and  how personal  and subject-matter jurisdictional
+issues can impact the determination).
+124.  RESTATEMENT (SECOND)  OF CONFLICT OF LAWS  §§  94-97 (AM.  LAW
+INST. 1971) (amended 1988); RESTATEMENT (THIRD) OF FOREIGN RELATIONS LAW
+OF THE UNITED STATES  § 481(1) cmt. c (AM. LAW INST.  1987); see HAY ET AL.,
+supra note  106,  § 24.2,  at 1440-41,  § 24.4,  at 1444-45,  § 24.29,  at  1484  n.4
+(discussing the application of the Restatement provisions).Winter 2017] LIMITING LAST-IN-TIME RULE 3 1
+2's view of its own judgment:  F-3  lets  F-2's law decide  what  F-2
+conclusively adjudicated.1 25
+C.  ComparativeP  icture
+Before  getting  to  how  American  courts  should  treat
+inconsistent foreign-nation judgments, I need to take a look at how
+the rest of the world handles the problem of inconsistent judgments.
+This comparative  study will  shed light backward  on the  rationales
+and  development  of  the  American  last-in-time  rule,  as  well  as
+forward on treatment of foreign-nation judgments.
+In brief, the rest of the world does not follow our last-in-time
+rule. They follow a first-in-time rule. This comparison reinforces the
+feeling that our rule is a rather arbitrary one.
+1.  England and Most of Its Progeny
+English and Commonwealth law on res judicata is middlingly
+expansive.126  It was slower to develop than American law,  and still
+does  not reach  as  far.127  It  provides  fairly narrow  forms  of claim
+preclusion and  mutual  issue preclusion.' 28  Yet,  it seems  poised to
+expand res judicata further.129
+On  the  problem  of  inconsistent  judgments,  England's
+treatises' 30  and international  casesl31 make clear that it follows the
+125.  See  RECOGNITION  AND  ENFORCEMENT  OF  FOREIGN  JUDGMENTS:
+ANALYSIS  AND  PROPOSED  FEDERAL  STATUTE  §  4  (AM.  LAW  INST.  2006)
+(proposing this approach with respect to recognition of foreign judgments); Robert
+C.  Casad,  Issue Preclusion and Foreign Country Judgments: Whose Law?, 70
+IOWA L. REV. 53,  70-76 (1984)  (discussing the application of this approach in a
+foreign-judgment context).
+126.  See  Casad,  supra  note  125,  at  62-63  (discussing  English  and
+Commonwealth law).
+127.  Kevin M. Clermont, Res Judicata as Requisitefor Justice, 68 RUTGERS
+U. L. REV. 1067, 1071-73, 1094-96 (2016).
+128.  Id. at 1094-95.
+129.  See id. at 1095-96 (describing  the move toward claim  preclusion and
+nonparty use of preclusion).
+130.  See  PETER  R.  BARNETT,  RES  JUDICATA,  ESTOPPEL,  AND  FOREIGN
+JUDGMENTS:  THE  PRECLUSIVE  EFFECTS  OF  FOREIGN  JUDGMENTS  IN  PRIVATE
+INTERNATIONAL  LAW  § 4.72 (2001)  ("Certainly  if there  are c6nflicting  foreign
+judgments,  each  pronounced  by  a  court  of competent  jurisdiction,  the  earlier
+judgment is recognized and given effect to the exclusion of the latter judgment.");
+K.R. HANDLEY,  SPENCER BOWER AND  HANDLEY: RES JUDICATA  § 17.15 (4th ed.
+2009) (stating that if the judgments relate to the same  subject matter, the earlier
+prevails over the later).32 THE RE VIEW OF LITIGATION [Vol. 36:1
+first-in-time  approach.  It  seemingly does  so  on the  undertheorized
+idea that once  things are  settled, they should remain settled.  But it
+seems to occur to no one that a subsequent decision of nonpreclusion
+might  itself be entitled to preclusion.  The Privy  Council  explained
+the split from the American approach:
+Some  reference  was  made  in  the  course  of
+argument  to  the  position  in  the  law  of the  United
+States of America, where the last-in-time rule appears
+to be applied in the case of conflicting judgments,  at
+least when the  matter arises  in an inter-state  context
+where  the  "full  faith  and  credit"  clause  of  the
+Constitution  applies....  The  rationale  of the  rule
+appears to be that the second judgment has the effect
+of deciding that the first judgment does not constitute
+res judicata so that the second constitutes res judicata
+of that issue as  well as  of any others  that may have
+been raised. This is so whether or not the issue of res
+judicata was argued in the  second proceeding by the
+party  who  was  successful  in  the  first,  because  on
+ordinary principles a party is not entitled to raise in a
+later proceeding a point which was open to him in an
+earlier one but which he did not take. Their Lordships
+do not consider that the position in the United States
+is of assistance for present purposes ... 132
+Worth noting is that in the international cases generating the
+first-in-time  rule,  the  first  judgment  was  most  often  an  English
+judgment. 
+133
+English  law  provides  the  possibility  of  cross-estoppel,
+whereby the failure by the winner in F-i to raise res judicata in F-2
+will  equitably  estop  that  party,  and  so  F-2  will be  the  preclusive
+131.  See Vervaeke  v.  Smith  [1983]  1  AC  145  (HL) (applying  first-in-time
+rule to  sequence of English judgment, Belgian judgment,  and English action  on
+validity of marriage);  E.D.  & F. Man (Sugar) Ltd. v.  Haryanto [1991]  1  Lloyd's
+Rep.  429  (CA)  (applying  first-in-time  rule  to  sequence  of English judgment,
+Indonesian judgment, and English action on validity of contracts).
+132.  Showlag v.  Mansour  [1995]  1  AC 431, 443  (PC)  (appeal taken  from
+Jersey)  (applying  first-in-time  rule  to  sequence  of English judgment,  Egyptian
+judgment, and Jersey action on who owns bank accounts).
+133.  Note that in all three of the leading cases in the two preceding footnotes,
+the first-in-time judgment was English.Winter 2017]  LIMITING LAST-IN-TIME RULE  33
+judgment.134 In other words, here England applies a last-in-time rule.
+These cross-estoppel  cases most often are domestic cases. Their rule
+makes much  sense.  Failure to raise res judicata is  a solid basis for
+waiver.  Just like any other defense, the benefitee  is obliged to raise
+or lose it.
+Canada,  as  a  federal  country,  provides  an  interesting
+variation.  Its  res  judicata  is  founded  on  the  English  approach,135
+although  it  is  not  immune  to  influences  from the  more  expansive
+American  approach.136  For  two  foreign-nation  judgments  or  two
+intraprovincial  judgments,  a Canadian  province  follows  England's
+first-in-time rule.137
+The  curious  thing  for  an  American,  however,  is  that  the
+Canadian federation does not have a full faith  and credit provision.
+The  provinces  treat  judgments  from  other  provinces  as  foreign
+judgments.138  When  a  province's  judgment  is  inconsistent  with
+another  province's  judgment  or  any  other  foreign  judgment,  the
+134.  See  Langdon  v.  Richards  (1917)  33  TLR  325  (KB)  (holding  the
+government waived its right to res judicata by failing to raise the first judgment in
+the second action in a sequence of three English actions, and then apparently using
+F-2's result to dictate result in F-3); cf Magrath v.  Hardy (1838)  132 Eng. Rep.
+990, 996 (holding in F-2 that a party failing to raise res judicata "has waived any
+benefit he might have derived from the estoppel");  HANDLEY,  supra note  130,  §
+17.16 (seeming to suggest that the cross-estoppel "sets the matter at large" without
+any preclusion, but actually speaking of the situation in F-2).
+135.  See generally DONALD  J. LANGE,  THE DOCTRINE  OF RES JUDICATA  IN
+CANADA  (2000).
+136.  See JANET WALKER ET AL., THE CiviL LITIGATION PROCESS: CASES AND
+MATERIALS  330 (7th ed. 2010) ("Pulled between the traditional rigidity of English
+law and  the modem flexibility of US  law, Canadian courts have developed  this
+area of the law cautiously, borrowing elements from both the United States and the
+United  Kingdom  and  developing  a  distinctively  Canadian  approach  to  issue
+estoppel.").
+137.  See Peter J. Cavanagh & Chloe A.  Snider, Canada, in ENFORCEMENT OF
+FOREIGN JUDGMENTS  IN 29 JURISDICTIONS  WORLDWIDE  2014, at 28,  32  (Mark
+Moedritzer  & Kay C. Whittaker  eds., 2013)  ("Where a foreign judgment that is
+sought to be recognised conflicts with a prior judgment involving the same parties
+or their privies, and each judgment (i) was pronounced by a court of competent
+jurisdiction and (ii)  is final and not open to impeachment, the general rule is that
+the first in time must be given effect to the exclusion of the later in time.").
+138.  See  Konstantinos  D.  Kerameus,  Enforcement  Proceedings, in  16
+INTERNATIONAL ENCYCLOPEDIA OF COMPARATIVE LAW: CIVIL PROCEDURE § 10-9,
+at 8,  § 10-25,  at  19 (Mauro Cappelletti ed., 2014); cf Morguard Invs. Ltd. v. De
+Savoye,  [1990]  3  S.C.R.  1077 (Can.)  (urging  in dicta an approach based on full
+faith and credit).  Registration statutes  do simplify the process of enforcement for
+other  provinces'  judgments.  See Kurt  H.  Nadelmann,  Enforcement of Foreign
+Judgments in Canada, 38 CAN. B. REv. 68 (1960) (discussing registration statutes).34 THE REVIEW OF LITIGATION [Vol. 36:1
+province will follow its own judgment,  regardless  of whether it was
+first or second.139
+2.  Civil-Law Countries
+Civil-law res judicata is relatively narrow in scope. Its aim is
+merely to keep a cause of action, once resolved for either plaintiff or
+defendant,  from  being  reconsidered.  There  is  little  by  way  of
+collateral estoppel  and jurisdiction to determine jurisdiction,  and no
+res judicata as to res judicata determinations.140  However,  there are
+signs  in  a  number  of  countries  of a  doctrine  on  the  brink  of
+expansion."141
+On the problem of inconsistent judgments, a striking aspect is
+the  civil  law's  lack  of discussion  of the  problem  as  a  matter  of
+domestic law. The domestic doctrine,  such as it is today, favors the
+first-in-time  rule.  When  inconsistent judgments  inevitably  came to
+present  themselves  in  international  litigation,  the  civilians  had  to
+confront it consciously.  But defensibly parochial  impulses were then
+in  play,  so  that  the  codes  tended  to  go  with  the  local judgment
+whether first or last.
+Why  does  this  problem  seem  smaller  to  civilians?  The
+explanation  might  be  that  we  are  more  comfortable  in
+acknowledging  inconsistencies.  More probably,  the  problem  arises
+139.  See Ryder  Gilliland  & Peter  Smiley,  Canada, in ENFORCEMENT  OF
+FOREIGN JUDGMENTS  2016, at 2.7 (Oct.  3, 2016), http://www.iclg.co.uk/practice-
+areas/enforcement-of-foreign-judgments/enforcement-of-foreign-judgments-2016/
+canada ("Where there is a conflicting local judgment between the parties or there
+are local proceedings pending between the parties to the extent that the judgment is
+not final and conclusive, a foreign judgment will not be recognised or enforced in
+Canada."); see also Civil Code of Qu6bec, S.Q.  1991, c  64, art 3155 (Can.) ("A
+decision rendered  outside Qu6bec  is recognized  and, where  applicable,  declared
+enforceable  by the  Quebec  authority,  except  in  the  following  cases . ..  (4) a
+dispute between the  same parties, based  on the same facts and having the same
+subject has given  rise to  a decision rendered  in  Qudbec, whether  or not it has
+become final, is pending before a Qu6bec authority, first seized of the dispute, or
+has been decided in a third State and the decision meets the conditions necessary
+for  it  to  be  recognized  in  Qudbec ....").  This  code  provision  extends  the
+preference for local proceedings into the arena of pending cases, so that the foreign
+judgment must bow to a case pending in Quebec. See Can. Post Corp. v. Lpine,
+[2009]  1  S.C.R. 549, para.  55  (Can.) (applying this part of art.  3155(4)  so as to
+prefer a Quebec proceeding over an Ontario judgment).
+140.  See Clermont, supra note  127, at  1096-98 (discussing res judicata  in
+civil law countries).
+141.  See id at 1099-100;  ef Cour de cassation  [Cass.]  [supreme  court for
+judicial matters]  le  civ.,  May  25,  2016,  [2016]  I.L.  Pr.  27,  para.  7  (applying
+jurisdiction to determine jurisdiction to an English judgment).Winter 2017] LIMITING LAST-IN-TIME RULE 35
+less often. Why? I think the major reason is the limited scope of their
+res judicata.  Narrower res judicata means that res judicata will apply
+less  often  in  a  second  action,  to  say  nothing  of  a  third  action.
+Moreover, without collateral estoppel, the problem would arise only
+in  the  more  unlikely  scenario  of repetitive  assertion  of the  same
+cause  of action  involving  the  same parties.  In  such  a  scenario  the
+doctrines  of res judicata and  lis pendens  usually will work well  to
+prevent inconsistency  from arising in the first place.  The doctrines
+will work  even  better  given that  civil-law judges  in F-2  can  raise
+them sua  sponte,142 and given that the judges sitting without a jury
+will avoid inconsistent  determinations  thanks to the prior judgment
+being  admissible  in  evidence  on  the  merits.143  Finally,  civil-law
+countries  define  "inconsistent"  narrowly.'"  The  tendency  is  to
+require  something  like  legal  consequences  that  mutually  exclude
+each other.145
+Take Germany as the prime example.146 Unlike Canadian and
+U.S.  federalism, Germany treats a judgment of any German state as a
+German  judgment,  automatically  enforceable  anywhere  in  the
+country.147  "Conflicts  between  judgments  rendered  by  different
+German  courts  are  usually  resolved  according  to  the  priority
+principle  (Priorititsprinzip)-'first  in  time,  first  in  right."'148
+Although  the  same  principle  applies  to  conflicts  between  foreign
+judgments, when the inconsistency is between any German judgment
+and a foreign judgment, the German judgment prevails. The relevant
+code prohibits recognition  of a foreign judgment between the same
+parties on the  same subject matter if the "judgment is  incompatible
+142.  See PETER L. MURRAY & ROLF STTRNER, GERMAN CIVI  JUSTICE 547-
+49  (2004)  (treating  lis pendens);  Albrecht  Zeuner  &  Harald  Koch,  Effects  of
+Judgments  (Res  Judicata),  in  16  INTERNATIONAL  ENCYCLOPEDIA  OF
+COMPARATIVE LAW: CIVI  PROCEDURE §§  9-34 to -39, -47 (Mauro Cappelletti ed.,
+2014) (treating res judicata, but noting that France is an exception to the sua sponte
+practice).
+143.  Clermont, supran ote 127, at 1099.
+144.  See  MURRAY  &  STORNER,  supra note  142,  at  534-35  (describing
+German law  on res judicata as narrow and discussing the German conception of
+irreconcilable judgments).
+145.  See  Case  145/86,  Hoffman  v.  Krieg,  1988  E.C.R.  645  (defining
+"irreconcilable" judgments as having mutually exclusive legal consequences).
+146.  See  MURRAY  &  STORNER,  supra note  142,  at  525-41  (discussing
+German recognition of foreign judgments).
+147.  Kerameus, supra note 138, § 10-9, at 8, § 10-25, at 18.
+148.  MURRAY  & STORNER, supra note 142, at 534 (citing German Code of
+Civil Procedure [ZPO] Jan. 30, 1877, § 580(7)(a)).36 THE RE VIEW OF LITIGATION [ Vol. 36: 1
+with a judgment delivered in Germany,  or with an earlier judgment
+handed down abroad that is to be recognized."l49
+Basing its recognition  law on Germany's,  Japan follows the
+same  first-in-time  approach.150  Japan  also nicely  demonstrates  the
+unwillingness  of civil-law  courts  to recognize  or enforce  a foreign
+judgment that is inconsistent with a local judgment.  The illustrative
+case  is  Marubeni America  Corp.  v.  Kabushiki Kaisha Kansai
+Tekkasho.'51 In  light of the  occasionally  incensed  reactions  of the
+pertinent  law  review  commentary,1 52  I  do  not present this  case  as
+fully representative  of Japanese law. Nevertheless, the particulars  of
+the case merit consideration.
+In  1968 Jerry Deutsch, an employee of the Boeing Company
+in  Washington  State,  mangled  his  hand  in  a  large  mechanical
+press.153 Boeing had bought the  press from West  Coast Machinery
+Co. (a Washington corporation), which had bought it from Marubeni
+America (a New York subsidiary corporation), which had bought it
+from  Marubeni  Japan  (a  Japanese  parent  corporation),  which  had
+bought  it  from  the  manufacturer  Kansai  Iron  Works  (a  Japanese
+corporation in Osaka).154
+F-1: Deutsch  sued West  Coast and Marubeni  America  in a
+state court of Washington, alleging a defective press and requesting
+149.  ZIVILPROZESSORDNUNG  [ZPO]  [CODE  OF  CIvIL  PROCEDURE],  §
+328(1)(3)  (Ger.).  This code provision  continues on to  make  a foreign judgment
+bow to ongoing German proceedings. See MURRAY & STORNER, supra note 142, at
+526 n.151; cf supra note 139 (describing Canada's similar approach).
+150.  Morio  Takeshita,  The  Recognition  of Foreign Judgments by  the
+Japanese Courts, 39 JAP. ANN. INT'L L. 55, 56, 71 (1996).  For China, a country on
+whose  res judicata  I  have  written, Clermont,  supra note  127,  at  1126-40,  the
+approach to inconsistent judgments will likely develop along the  same civil-law
+lines. See RE HUANG,  INTERREGIONAL RECOGNITION AND ENFORCEMENT OF CIVIL
+AND  COMMERCIAL  JUDGMENTS  244  (2014)  (looking  to  future);  ZHENG  SOPHIA
+TANG, YONGPING XIAO & ZHENGXIN Huo, CONFLICT OF LAWS IN THE PEOPLE'S
+REPUBLIC OF CHINA 169-71 (2016) (same).
+151.  Osaka Chih6 Saibansho [Osaka Dist. Ct.] Dec. 22, 1977, Case No. 4257
+(Wa) of 1975, 361 HANREI TAIMUZU [HANTA]  127 (Japan).
+152.  See Takao  Sawaki,  Battle of Lawsuits: Lis Pendens in International
+Relations, 23 JAP. ANN.  INT'L L.  17,  17-19, 28 & n.25 (1979-1980)  (criticizing
+this case at length); Takeshita, supra note 150, at 71 & n.16 ("This judgment of the
+Osaka District Court seems to be strongly in favor of a Japanese judgment in the
+sense  that  a  foreign  judgment  may  be  rejected  even  if it  was  finally  and
+conclusively given before the relevant Japanese judgment.. . .Giving priority to a
+Japanese  judgment  in  such  a  way  as  the  Osaka  District  Court  ruled  would
+excessively jeopardize the international harmony of decisions . . .. In addition, that
+solution is inconsistent with the principle of resjudicata.").
+153.  Deutsch v. W. Coast Mach. Co., 497 P.2d 1311, 1312 (Wash. 1972).
+154.  Id. at 1312-13.Winter 2017] LIMITING LAST-IN-TIME  RULE 37
+$275,000.'15  By  service  in  Japan,  Marubeni  America  impleaded
+Kansai,  which  attacked  jurisdiction.156  The  Supreme  Court  of
+Washington  upheld jurisdictional power  on the ground  that Kansai
+had  transacted  business  in  Washington  by  building  the  press  to
+Boeing's  extensive  specifications,  by  sending  to  Washington  its
+engineers to test and inspect the press and to oversee repairs, and by
+sending replacement parts to Washington; moreover, the court found
+the  exercise  of jurisdiction  not  to  be  unreasonable  in  view  of
+Kansai's other extensive business in the United States, the burden on
+Marubeni  America,  and the  location  of evidence. 57  On  September
+17,  1974,  the  trial  court  awarded  Marubeni  America  a judgment
+against Kansai for $86,000.1ss
+F-2: Meanwhile,  Kansai  was  not  asleep  in  Japan.  It  sued
+Marubeni America in the Osaka District Court to declare nonliability
+for  indemnification. 159  After  stretching  to  find  jurisdiction,  the
+Japanese court followed precedent to reject a lis pendens defense by
+construing  the word  "court"  in the code's prohibition  to mean that
+the  prior  action  had  to  be  pending  in  a  Japanese  court.160  The
+Washington judgment,  valid and  final  under Washington  law,  was
+not final under Japanese law because there was still time to appeal.161
+On October  14,  1974, the  Osaka District Court ruled that Marubeni
+America had  no right to indemnity under  Japanese  contract or tort
+law. 162
+F-3:  Next,  Marubeni  America  sued  Kansai  upon  its
+Washington judgment in that same Japanese court. In 1977, the court
+rejected  that  claim,  denying  recognition  on  the  ground  that  the
+Washington judgment was inconsistent with a Japanese judgment (its
+own 1974 judgment) and hence was contrary to the public policy of
+Japan, regardless of the two judgments' sequencing.163
+155.  Id. at 1313.
+156.  Id.
+157.  Id. at 1315.
+158.  Sawaki, supra note 152, at 17.
+159.  See JOSEPH W.S. DAvis, DISPUTE  RESOLUTION  IN  JAPAN  349  (1996)
+(describing this common move  "as  a tactic  to thwart the recognition of foreign
+judgments").
+160.  See MINJI SOSHOHO [MINSOHO]  [C. Civ. PRO.] art.  142 ("No party shall
+file a suit concerning a matter presently pending before a court.").
+161.  See TAKAAKi HATTORI & DAN  FENNO HENDERSON,  CIVIL PROCEDURE
+IN  JAPAN  §  7.09[3],  [8][a]  (Yasuhei  Taniguchi  et  al.  eds.,  rev.  2d  ed.  2009)
+(discussing finality prerequisite).
+162.  Sawaki, supra note 152, at 18.
+163.  See MINJI SOSHOHO [MINSOHO]  [C. CIV. PRO.]  art.  118(iii) (stating as a
+requirement for recognition that "the contents of the judgment and the procedures
+for litigation are not contrary to the public order or morals of Japan"); HATrORI &38 THE REVIEW OF LITIGATION [Vol. 36: 1
+By any view,  this ten-year battle  of lawsuits is  not a pretty
+picture. In the U.S.  view, the Japanese court in 1974 should probably
+have  given res judicata effect to the  Washington judgment.  But the
+Japanese  court  refused  to  go  that  route,  and  the  result  was
+inconsistent judgments.  In the Japanese  view, the Japanese  court in
+1977 was likely right in preferring its own prior judgment.
+The  civilians'  preference  for  local  judgments  is  further
+indulged by  their willingness,  as  seen  in Marubeni, to apply  their
+own  law  to  the  validity,  finality,  and  bindingness  of the  foreign-
+nation's  judgment.16  The  result  might  then  be  that  the  foreign
+nation's judgment  never  gets  into  the  running  as  an  inconsistent
+judgment.
+3.  European Union
+Under  the  2015  revision  of  the  Brussels  Regulation,  a
+member  state  must  not  recognize  or  enforcel65  another  member
+state's judgment "if the judgment is irreconcilable  with a judgment
+given between the same parties in the Member State addressed" 66  or
+"if the judgment is irreconcilable with an earlier judgment given in
+another Member State or in a third State involving the same cause of
+action  and  between  the  same  parties,  provided  that  the  earlier
+judgment  fulfils the conditions  necessary  for its  recognition  in the
+Member  State  addressed." 167  Irreconcilability  arises when  the  two
+judgments entail "mutually exclusive legal consequences."168
+The  Regulation  thus  follows  the  first-in-time  rule,  except
+when F-2 and F-3 are courts of the same member state. However, the
+Regulation fails to cover the  situation where F-i  and F-2 are courts
+of the same member state, which leaves the problem to the national
+law of F-1  and F-2.'69 F-3's national  law governs when neither F-1
+HENDERSON, supra note 161,  § .14.03[1][a] & n.260 (discussing this public policy
+exception).
+164.  See FIELD ET AL., supra note 27, at 913-15 (contrasting U.S. and foreign
+approaches); Casad, supra note 125, at 75 (suggesting that foreign countries apply
+their own law, regardless of what they say they are doing).
+165.  Regulation (EU)  No. 1215/2012 of the European Parliament and of the
+Council, 2012 O.J. (L 351) arts. 45-46.
+166.  Id. art. 45(1)(c).
+167.  Id. art. 45(1)(d).
+168.  PETER STONE,  EU PRIVATE INTERNATIONAL  LAW  243  (3d  ed.  2014)
+(discussing  Case  145/86,  Hoffman  v.  Krieg,  1988 E.C.R.  645);  BRUSSELS  IBIS
+REGULATION 919-28 (Ulrich Magnus & Peter Mankowski eds., 2016).
+169.,  See  Case  C-157/12,  Salzgitter  Mannesmann  Handel  GmbH  v.  SC
+Laminorul SA,  [2014] 1  WLR 904, para. 26 (EU) (involving two Romanian courtsWinter 2017] LIMTING LAST-IN-TIME RULE 39
+nor F-2  is  a member  state. The national  law will normally provide
+that first-in-time governs.170
+These  EU  provisions  followed  naturally  from  English  and
+civil-law traditions. First, those traditions follow the first-in-time rule
+(prior tempore, potior jure).171 Second,  the  indulgence  for  local
+judgments  over  foreign  judgments  is  typical  of  international
+conventions. 172
+4.  Comparative Summary
+Occasional  exceptions  aside,  the  national  and  EU  law that
+generally prevails  in  Europe, including in England,173  fits a simple
+and coherent pattern:  the first judgment governs-unless one of the
+inconsistentj udgments is a localj udgment, which then prevails. At a
+glance, the situation there stands in what seems to be stark contrast to
+the law of the United States.
+Why?  In  this  corner  of  the  law,  the  solution  is  path-
+dependent. A legal system's rule arises in a certain context, and then
+it proceeds to have a life of its own.
+as F-i and F-2 and a German court as F-3, with the European court concluding that
+the  EU Regulation  art.  45  did  not apply  and  saying that  "the  recognition and
+enforcement procedures enable a judgment to have the same effect in the Member
+State addressed as it would have had in the Member State of origin").
+170.  See, e.g., MURRAY & STORNER, supra note  142, at 534 (noting that the
+first-in-time rule governs in Germany, but there are exceptions).
+171.  Interestingly, however, the EU sometimes breaks with the orthodox first-
+in-time  line.  Its  Regulation  Concerning  Jurisdiction  and  the  Recognition  and
+Enforcement  of Judgments  in Matrimonial  Matters  and the  Matters of Parental
+Responsibility adopts a last-in-time for judgments on parental responsibility for the
+care and custody of children. No. 2201/2003, 2003 O.J. (L 338) art. 23(e)-(f); see
+STONE, supra note  168,  at 474 ("[T]he Regulation accepts  the inherent nature of
+custody orders, as being open to modification by reason of a subsequent change in
+circumstances.").
+172.  RONALD A. BRAND & PAUL HERRUP, THE 2005 HAGUE CONVENTION ON
+CHOICE OF COURT AGREEMENTS  119-22,  227,  278-79 (2008);  Ginsburg,  supra
+note 75, at 804 & n.33;  cf A GLOBAL LAW ON JURISDICTION AND  JUDGMENTS:
+LESSONS FROM THE HAGUE  305 (John J. Barcel6 III & Kevin M. Clermont eds.,
+2002)  (setting  out  art.  28(1)(b)  of the  draft  jurisdiction-and-judgments  treaty,
+which more  simply provided that recognition or enforcement may be refused if
+"the judgment  is  inconsistent  with  a judgment  rendered,  either  in  the  State
+addressed or in  another  State,  provided that  in the  latter case  the judgment  is
+capable of being recognized or enforced in the State addressed").
+173.  See Mukarrum Ahmed, Brexit and English JurisdictionA greements: The
+Post Referendum Legal Landscape, http://ssm.com/abstract-2839342  (Sept.  15,
+2016)  (discussing the  impact  of the  EU  exit on the  laws  of England);  Andrew
+Dickinson,  Back to  the Future-The UK's EU Exit and the Conflict of Laws,
+http://ssm.com/abstract-2786888  (May 31, 2016) (same).40 THE REVIEW OF LITIGATION [Vol. 36:1
+The  early  cases  in  the  United  States  were  domestic  cases
+involving the benefitee's  failure  to assert res judicata in F-2.174 For
+these,  last-in-time  seemed  the  natural  answer.  Because  of  the
+expansiveness  of  American  res  judicata,  the  cases  presenting
+inconsistent  judgments  multiplied  and  last-in-time  became
+entrenched.  Because America's  devotion to res judicata meant that
+we  should honor decisions  about res judicata,  last-in-time  came  to
+apply  in  situations  where  the  benefitee  asserted  res  judicata
+unsuccessfully in F-2.
+Elsewhere  in the world,  the problem tended to present  itself
+with obviousness in international cases, and parochialism defensibly
+led to a preference for any local judgment.  A lesser devotion to res
+judicata led to a first-in-time rule when the time came to backfill a
+solution  for  the  problem's  rarer  contexts.  This  solution  could  be
+leavened  by  notions  of waiver,  however,  as  achieved  by  cross-
+estoppel in England where a relatively broader res judicata has led to
+a more developed law on inconsistent judgments.
+But perhaps  the  difference  between  the  American  solution
+and  that  of the  rest  of the  world  is  not as  stark  as  a  first  glance
+suggests.  If the United States were not to apply its last-in-time rule
+sometimes  when  a  foreign-nation  judgment  was  involved,  and  if
+other countries would adopt the British notion of cross-estoppel, the
+difference  between  the  United  States  and the  rest  of world would
+become  not at all stark.  Indeed,  the difference  would shrink to the
+realm of cases where F-1  and F-2 are both domestic and F-2 actually
+decided,  rightly or wrongly, to reject the benefitee's  assertion of res
+judicata based on F-i 's judgment. There American law alone opts for
+the last-in-time rather than the first-in-time.
+That small remaining difference is explainable by the driving
+force  of the  American  ardor for res judicata.  It  leads  us  to  apply
+preclusion  even  to  determinations  about  res  judicata.  We  give
+definitive  credit to F-2's resolution of the res judicata effect of F-i's
+judgment,  while  the  rest  of the  world  does  not. Here  lies  the true
+difference  between  the  United  States  and  the  rest  of the  world.
+Because we accept F-2's decision on res judicata,  we choose last-in-
+time as the background rule, and they choose first-in-time.
+174.  See supra II.B.1.Winter 20171 LIMITING LAST-IN-TIME RULE 41
+III.  LIMITING THE RULE FOR FOREIGN-NATION  JUDGMENTS
+Say, first, Pierre of France sues Doug of New York in a New
+York court for a large installment of interest on a French-made loan,
+and he loses by a defense of release of the obligation to pay interest.
+So,  second, for all interest that has by then  fallen in arrears,  Pierre
+sues  Doug  in  France  and  wins  after  the  French  court  refuses  to
+recognize  the  New York judgment  and  finds no release.  Naturally
+enough,  third,  Pierre  sues  Doug  in  New  York  upon  the  French
+judgment to enforce it where Doug's assets are,  and also sues Doug
+upon the underlying claim  for all interest due, but he  encounters  a
+fight over recognition. Doug invokes the  first New York judgment.
+Pierre  invokes  the  second judgment,  even  though  it  likely  is  not
+preclusive under French law on the finding of no-release, 175 to argue
+that the later French decision should prevail over the prior New York
+judgment.
+This hypothetical  emerged during  a classroom  discussion. It
+struck me then as a situation where the arguments for the last-in-time
+rule  vaporized.  The  second  judgment  being  nonpreclusive  and
+foreign  seemed  to  scream  for New  York  to  honor  its  own  prior
+judgment. Now to support that intuitive  outcome,  I shall separately
+consider how the two features of F-2's judgment-it is nonpreclusive
+and it is foreign-together  destroy the rationales for the last-in-time
+rule.
+A.  Nonpreclusive Judgments
+The Pierre v.  Doug hypothetical raises the question  of what
+to  do  with  the  last-in-time  judgment  if  it  is  nonpreclusive.  A
+conceivable  approach  would  be  to  say  it  "doth  put the  matter at
+large," 76 the old expression meaning that no preclusion applies.  The
+idea would be  that the  last-in-time  judgment  controls,  and  it  says
+there  is  to  be  no  preclusion.  But  no  case  takes  that  approach.
+Moreover,  looking to F-2's nonpreclusion would undo the rationale
+175.  Because  these  are  different  claims,  and because  French  res judicata
+provides little in the way of collateral estoppel, the F-2 judgment would probably
+not be issue-preclusive  in F-3  on the claim for interest. FIELD ET AL., supra note
+27, at 886-88; PETER HERZOG & MARTHA WESER, CIVIL PROCEDURE IN FRANCE
+554 n.18 (Hans Smit ed.,  1967); Clermont, supra note 127, at 1096-98; Zeuner &
+Koch, supra note  142, §§  9-70 to -76.  As to defeating the action upon the French
+judgment, see infra note 215.
+176.  2 EDWARD COKE, THE FIRST PART OF THE INSTITUTES OF THE LAWS OF
+ENGLAND;  OR, A COMMENTARY  UPON  LITTLETON § 667, at 352b (London,  J. &
+W.T. Clarke, 19th ed. 1832) (1628).42 THE RE VIEW OF LITIGATION [ Vol. 36: 1
+for  having  some  priority  rule,  namely,  that  one  of the  preceding
+judgments  should  be  the  final  word.  Therefore,  if the  last-in-time
+judgment  is  nonpreclusive,  F-3  should  look  to  the  first-in-time
+judgment if it would be preclusive.
+This  rather obvious qualification  is better handled as part of
+the  rule  rather  than  as  an  exception  to  the  rule.  Accordingly,
+Professor  Ginsburg  could  begin  her  article  with  this  sentence:
+"Under traditional res judicata doctrine,  where  there are  conflicting
+judgments and each would be entitled to preclusive effect if it stood
+alone, the last in time controls in subsequent litigation."177
+Indeed, without a preclusiveness requirement, the last-in-time
+rule would be far too broad. Many subsequent determinations  could
+be  inconsistent  in  some  sense  and  would  potentially undermine  a
+judgment's res judicata effects widely.  Thus, preclusiveness  should
+enter  into  inconsistency's  definition.  That  is,  to  be  inconsistent
+means that the prior judgments would preclusively resolve the claim
+or issue differently in F-3.  If F-I or F-2 does not yield preclusion on
+the  claim or issue, there is no inconsistency,  and hence the  last-in-
+time rule does not come into play. For example, a decision that did
+not get reduced to a judgment would not be considered inconsistent.
+Or  a judgment  that  is  not recognizable,  valid,  or final  would  not
+come  down  to  F-3.  Likewise,  a  decision  in  a  forum  with  a  res
+judicata  law too  narrow to  preclude  the claim  or issue  would  not
+come down to F-3.
+An  illustration would  be where  Driver  1  sues  Driver  2  for
+negligence  and  wins,  establishing  negligence  and  the  absence  of
+contributory  negligence.  Passenger  next  sues Drivers  1  and  2  for
+negligence  in. the  same accident  and wins,  establishing  negligence
+against both.  Then  Driver  1  sues  Driver 2  for contribution  on the
+second judgment based on comparative  fault. Even though Driver 2
+might be able invoke the second judgment against Driver 1  for some
+purposes,178 that judgment did not decide their comparative fault. So,
+Driver  1  should be  able  to  invoke  the  first judgment  to  establish
+Driver 2's sole fault.179
+177.  Ginsburg, supra note 75, at 798 (emphasis added).
+178.  RESTATEMENT (SECOND) OF JUDGMENTS § 38 (AM. LAW INST.  1982).
+179.  Cf Brightheart v. McKay,  420  F.2d  242,  244  (D.C.  Cir.  1969)
+(suggesting this solution); Neenan v. Woodside Astoria Transp. Co., 184 N.E. 744,
+745 (N.Y.  1933) (treating the different situation of pro rata contribution).  The best
+counterargument is that the conflicting determinations call for relitigation, but that
+is not the usual route taken by our res judicata law. See supra notes 42-43.Winter 2017] LIMTING LAST-IN-TIME  RULE 43
+An  international  example lies  in Ackerman v.  Ackerman.180
+First,  the  wife  obtained  a  small  New  York judgment  against  the
+husband for failure to pay support. 81  Second,  she  sued the husband
+in California upon that judgment and for big amounts subsequently
+due,  but  her  attorney  mistakenly  dismissed  that  action  with
+prejudice.1 82  Third,  she  sued  in  England  for  those  subsequent
+amounts  due,  and  the  court  rejected  the  California judgment  and
+awarded her over a million dollars.183  Fourth, she sued back in New
+York upon the English judgment,  and the husband removed  to the
+Southern  District  of New  York  on  the  basis  of diversity.184  The
+husband  argued:  "The  English judgment. . . , not being  that  of a
+sister state, is not constitutionally entitled to full faith and credit, nor
+to superseding effect under the last-in-time rule."185 The district court
+nevertheless applied the  last-in-time rule, observing that the English
+court had proceeded impartially,  sensitively,  and soundly. The court
+of appeals  ducked that  "knotty  question,"l86  and instead ruled that
+New York would look to California res judicata law under which the
+California judgment was not preclusive.187  With the California case
+off the table, there were no inconsistent judgments and so the English
+judgment governed.'88
+Ackerman illustrates the important point that while we search
+for the proper formal rule, we cannot blind ourselves to legal realism.
+Both the district court and the court of appeals wanted to apply the
+English result. They differed only in how to manipulate  the rules so
+as to get there. The widest route to manipulation is nonpreclusion.  A
+court wishing to evade a prior determination would simply identify a
+defect  in the  prior judgment's  recognizability,  validity,  finality,  or
+bindingness,  which  is  often  doable  thanks  to  those  doctrines'
+complicatedness.  So,  where  F-i  faces  a  decision  from  F-2  that
+disrespected  F-i's prior judgment,  F-1  might very  well be  able  to
+ignore  F-2's  "nonpreclusive"  judgment  without openly  flouting  its
+duty to give full faith and credit.'89  This dose of realism thus drives
+180.  676 F.2d 898 (2d Cir. 1982).
+181.  Id. at 899-900.
+182.  Id. at 900-01.
+183.  Id. at 901.
+184.  Id. at 901.
+185.  Id. at 903.
+186.  Id. at 902 n.5.
+187.  Id. at 905 (ruling that the wife had no meaningful opportunity to litigate
+in California).
+188.  Id.
+189.  See,  e.g., First Ala. Bank of Montgomery, N.A.  v.  Parsons Steel, Inc.,
+825  F.2d  1475 (11th Cir.  1987)  (treating,  on remand,  the Alabama judgment as44 THE RE VIEW OF LITIGATION [ Vol. 36: 1
+home  the  significance  of  the  formal  rule's  prerequisite  of
+preclusiveness as a path to the desired result.
+This subsection's  detour into nonpreclusion  allows us  better
+to understand  the  last-in-time rule. The  law in the United States  is
+that  the  last judgment  governs-when  two  prior judgments  offer
+preclusion of a claim or issue but would preclude differently.190  This
+detour  is  also  an  appropriate  introduction  to  foreign-nation
+judgments because often the foreign judgment will be nonpreclusive
+under the foreign nation's narrow res judicata law, and thus not even
+qualify as an inconsistent judgment.
+B.  American v. Foreign Judgments
+"One of the key problems facing international litigants is the
+possibility of irreconcilable judgments or proceedings  arising out of
+parallel  litigation."191  How  should  American  law  address  an
+inconsistent foreign-nation judgment?
+Because  our conflicts  law developed in the interstate setting
+rather  than  the  international  setting,  our  law  does  not  show  an
+instinctive  wariness  of foreign-nation  judgments.  The  last-in-time
+rule  is well-established  enough that American courts  presume  it  to
+apply even to international  litigation, at least when two inconsistent
+foreign-nation  judgments  arrive  at  an  American  court.192  The
+rationales  of the  last-in-time  rule  carry  over from the  all-domestic
+setting to this all-foreign setting.
+non-final  in  a  sequence  of Middle  District of Alabama,  Alabama,  and  Middle
+District of Alabama); cf, e.g., Herbstein v. Bruetman, 266 B.R. 676, 686 (N.D.  Ill.
+2001) (treating, on appeal,  the Argentine judgment as non-final  in a sequence  of
+Southern District of New York, Argentina, and Northern District of Illinois), aff'd,
+32 F. App'x 158 (7th Cir.), cert. denied, 537 U.S.  878 (2002).
+190.  See, e.g., United States v. Wexler, 8 F.2d 880 (E.D.N.Y.  1925) (looking
+to F-i  in a sequence of divorce  for adultery; nonappealable,  nonreviewable,  and
+hence  nonpreclusive  state  naturalization  proceeding  approving  morality;  and
+federal cancellation of naturalization for immorality);  Deere & Co. v. First Nat'l
+Bank of Clarksdale,  12 So. 3d 516, 522 (Miss. 2009) ("We begin by pointing out
+the obvious:  The 'last-in-time'  rule  applies only  where res judicata  could have
+applied."); Algazy v. Algazy,  135 N.Y.S.2d  123 (Sup. Ct.  1954) (disregarding F-2
+and F-3  judgments  in  fourfold  sequence  of Nevada  divorce,  Romanian  decree
+without jurisdiction, French decree without finality, and New York action), aff'd
+mem., 142 N.Y.S.2d  365 (App, Div. 1955).
+191.  S.I. Strong, Recognition and Enforcement of ForeignJ udgments in U.S.
+Courts: Problems and Possibilities,3 3 REV. LITIG. 45, 117 (2014).
+192.  See,  e.g., Ambatielos v. Found. Co.,  116 N.Y.S.2d  641  (Sup.  Ct.  1952)
+(involving a sequence of contract actions in England,  Greece, England,  and New
+York).Winter 2017]  LIMTING LAST-IN-TIME RULE  45
+Of course,  the  compulsion  to  follow  the  last-in-time  rule
+lessens  as  we  move  from  full  faith  and  credit  into  the  realm  of
+comity.193  The  American  court  can  consider  local  interests  and
+policies in the context of special circumstances.'94  Thus, the last-in-
+time rule might presumptively apply,' 95 but the American  court can
+reject  the  F-2 judgment  if F-i's judgment  is  clearly  preferable.196
+193.  See Hilton v.  Guyot,  159 U.S.  113,  163-64 (1895)  ("'Comity,'  in the
+legal sense, is neither a matter of absolute obligation, on the one hand, nor of mere
+courtesy and good will, upon the other. But it is the recognition which one nation
+allows within its territory to the legislative,  executive or judicial acts of another
+nation, having due regard both to international duty and convenience,  and to the
+rights of its own citizens, or of other persons who are under the protection of its
+laws.").  See  generally Christopher  R.  Drahozal,  Some  Observations on  the
+Economics  of Comity,  in  ECONOMIC  ANALYSIS  OF  INTERNATIONAL  LAW  147
+(Thomas  Eger et al.  eds.,  2014); Joel R.  Paul,  Comity in InternationalL aw, 32
+HARv. INT'L L.J. 1 (1991).
+194.  Chromalloy  Aeroservs.,  a  Div.  of Chromalloy Gas  Turbine  Corp.  v.
+Arab  Republic  of Egypt,  939  F.  Supp.  907,  913  (D.D.C.  1996)  (involving
+arbitration):
+"No nation  is under  an  unremitting obligation  to enforce
+foreign interests which are fundamentally prejudicial to those of
+the  domestic  forum."  Laker Airways Ltd.  v.  Sabena, Belgian
+World Airlines, 731  F.2d 909, 937 (D.C.  Cir.  1984). "[C]omity
+never obligates a national forum to ignore 'the rights of its own
+citizens or of other persons who are under the protection of its
+laws."' Id.  at 942 (emphasis  added)  (quoting  Hilton v.  Guyot,
+159 U.S.  113, 164, 16 S. Ct. 139, 143-44, 40 L. Ed. 95 (1895)[)].
+Egypt alleges that, "Comity is the chief doctrine of international
+law requiring U.S.  courts to respect the decisions of competent
+foreign tribunals." However, comity does not and may not have
+the preclusive effect upon U.S. law that Egypt wishes this Court
+to create for-it.
+195.  See RESTATEMENT (THIRD) OF FOREIGN RELATIONS LAW OF THE UNITED
+STATES  § 482(2)(e) cmt. g (AM. LAW INST.  1987) ("Courts are likely to recognize
+the later of two inconsistent  foreign judgments, but under  Subsection  (2)(e)  the
+court may recognize  the  earlier judgment  or neither  of them.");  Courtland  H.
+Peterson, Foreign Country Judgments and the Second Restatement of Conflict of
+Laws,  72  COLUM.  L.  REv.  220, 256-57  (1972)  (discussing  the  failure  of the
+Restatement (Second) of Conflict of Laws to clarify this issue).
+196.  Cf  RECOGNITION  AND  ENFORCEMENT  OF  FOREIGN  JUDGMENTS:
+ANALYSIS  AND  PROPOSED  FEDERAL STATUTE  § 5(c)(ii)  (AM.  LAW  INST.  2006).
+This  provision  says  that  F-3  need  not recognize  a  foreign judgment  if "the
+judgment is irreconcilable with another foreign judgment entitled to recognition or
+enforcement  under  the  Act.  and  involving  the  same  parties."  The  pertinent
+comment explains that the F-3 court "should inquire into the circumstances giving
+rise to the inconsistency" and usually should recognize the  F-2 judgment only if
+the F-2 court had "considered  the other judgment or proceeding  and declined to
+recognize it under standards substantially  comparable to the standards set forth in46 THE RE VIEW OF LITIGATION [ Vol. 36: 1
+"Clearly"  serves  the  purpose  of  enhancing  predictability.
+"Preferable"  will  turn  most  heavily  on  how  disrespectfully  F-2
+considered F-I's judgment.
+Accordingly,  the  highly  influential  Uniform  Act  on
+recognition  provides  that  a  foreign-nation  judgment  need not be
+recognized or enforced  if "the judgment conflicts with another final
+and  conclusive  judgment." 97  If  F-3  does  not  recognize  an  F-2
+judgment  under the Act, then F-3  would look to the F-I judgment.
+This  provision  thus  handles  two  inconsistent  foreign-nation
+judgments arriving at an American court.
+What  if,  of the  two  inconsistent  judgments,  the  first  is
+American  and the  second is  foreign?198  Certainly,  the flexibility of
+comity allows F-3 to  disregard the  foreign F-2.  But the inclination
+might  still  persist  to  apply  the  last-in-time  rule  presumptively  in
+favor  of  the  foreign-nation  judgment.199  I  shall  show  that  the
+inclination here is misplaced.
+One could indeed argue over whether F-3  must disregard the
+F-2 judgment in favor of an otherwise preclusive American judgment
+this Act." Id. cmt. j; see Victrix S.S. Co. v. Salen Dry Cargo A.B., 825 F.2d 709,
+713-16 (2d Cir. 1987) (looking to F-1, under federal and state law, in sequence of
+Sweden, England, and Southern District of New York, when F-2 had disregarded
+F-i's bankruptcy proceeding);  cf Films by Jove, Inc. v. Berov, 250 F. Supp.  2d
+156,  164-66,  175-77  (E.D.N.Y.  2003)  (looking  to  F-1,  under  federal  law,  in
+sequence  of France,  France,  and  Eastern  District  of New  York,  when  F-2's
+"interpretation is contradicted by an earlier ruling of the same court, upheld by the
+court of last resort, in a suit involving the same parties and identical legal issues,
+and, more significantly,  when the interpretation appears very obviously mistaken
+based on the more probative  evidence  of Russian law furnished to this court by
+plaintiffs'  experts"),  motion to  vacate denied, 341  F.  Supp.  2d  199  (E.D.N.Y.
+2004).
+197.  UNIF.  FOREIGN-COUNTRY  MONEY  JUDGMENTS  RECOGNITION  ACT  §
+4(c)(4) (2005),  13 (pt. II) U.L.A.  28 (Supp. 2015);  see UNIF.  FOREIGN MONEY-
+JUDGMENTS  RECOGNITION  ACT  §  4(b)(4)  (1962),  13 (pt.  II) U.L.A.  59  (2002)
+(same);  Byblos Bank Eur., S.A.  v.  Sekerbank Turk Anonym  Syrketi, 885 N.E.2d
+191, 192 (N.Y. 2008)  (looking to F-i  in sequence of Turkey, Belgium, and New
+York, when F-2 had exercised revision aufond and found the Turkish judgment to
+be "affected by substantial error").
+198.  If the first judgment is foreign and the second is American, the last-in-
+time rule gives the desirable result. See,  e.g., Perkins v. Benguet Consol. Mining
+Co., 132 P.2d 70 (Cal.  Dist. Ct. App.  1942) (involving a sequence of ownership
+actions in the Philippines, New York, and California).  But that right result derives
+less from the reasons for respecting  the last judgment,  and rather more from the
+reasons for preferring the local judgment over the foreign judgment.
+199.  See Perkins  v.  DeWitt,  111  N.Y.S.2d  752  (App.  Div.  1952)  (looking
+tentatively to the latest Philippine judgment in a sequence of ownership actions in
+the Philippines, New York, Philippines,  and New York), rev'g 94 N.Y.S.2d  177
+(Sup. Ct. 1950).Winter 2017] LIMTING LAST-IN-TIME RULE 47
+from F-1. This is Ackerman's "knotty question."2 00 This question of
+mandatoriness  remains  an open one,  but I shall argue in support of
+mandatoriness.
+As we have seen, the American  Law Institute at first punted
+on the application of last-in-time to international litigation.201  Then,
+in  the  Restatement  (Third)  of  Foreign  Relations  Law,  the  ALI
+expressly adopted the discretionary approach of the Uniform Act,202
+thereafter  attracting  some  case  support.203  Now,  in  its  proposed
+statute  on  recognition,  the  ALI  has  extended  the  Uniform  Act's
+approach, by providing, without case citation and only in a comment
+to  its proposed  statute,  that  F-3  must not respect  a  foreign-nation
+judgment over an American judgment:
+If recognition or enforcement of a foreign judgment is
+sought  in  a  court  in  the  United  States  and  the
+judgment  is  asserted  to  be  irreconcilable  with  a
+judgment rendered by a court in the United States, the
+court in the United States is obligated to recognize the
+judgment  rendered  in  the  United  States  and  deny
+200.  See supra text accompanying note 186.
+201.  See RESTATEMENT (SECOND)  OF CONFLICT OF LAWS  § 114 cmt. d (AM.
+LAW INST.  1971) ("It is uncertain whether the rule of this Section will be applied to
+judgments rendered in a foreign nation."); supra text accompanying note 96.
+202.  See RESTATEMENT (THIRD) OF FOREIGN RELATIONS LAW OF THE UNITED
+STATES  § 482(2) (AM.  LAW INST.  1987) ("A court in the United States need not
+recognize a judgment of the court of a foreign state if... (e) the judgment conflicts
+with another  final judgment that  is  entitled to recognition ....  ).  The pertinent
+comment  went  on  to  say:  "If a  later  foreign  judgment  otherwise  entitled  to
+recognition in  a court  in the United  States conflicts with  an earlier sister-State
+judgment, there is no principle requiring automatic preference for the sister-State
+judgment."  Id.  cmt.  g.  But  its  only  support  was  the  lower-court  opinion  in
+Ackerman. See id. reporters' note 4. There was no section comparable to § 482 in
+the  previous  Restatement  of Foreign  Relations  Law,  and the  new  § 482(2)(e)
+prompted no debate  other than on comment  g.  See 60 A.L.I.  PROC.  508  (1983)
+(Prof. Charles Alan Wright) ("But as between a judgment of a sister State and a
+foreign judgment, I would think there would be not the slightest doubt you have to
+follow, you are constitutionally  compelled to follow, the judgment of other State
+and to disregard the later judgment of the foreign court.").
+203.  See, e.g., Derr v. Swarek, 766 F.3d 430, 437 n.4 (5th Cir. 2014) (citing
+the  Restatement  provision  in a  footnote);  In re Bruetman,  259  B.R.  649,  672
+(Bankr. N.D.  Ill.)  (observing,  in a sequence  of Southern  District of New York,
+Argentina,  and  Northern  District of Illinois:  "Indeed,  parties  who  litigate  to  a
+conclusion in a United States court can hardly expect any United States court to
+give effect to a subsequent contrary ruling by a foreign court, and that should not
+be done here."), aff'd sub nom. Herbstein v. Bruetman, 266 BR. 676, 686 (N.D.
+Ill. 2001) (treating the Argentine judgment as nonfinal), aff'd, 32 F. App'x 158
+(7th Cir.), cert. denied, 537 U.S.  878 (2002).48 THE RE VIEW OF LITIGATION [ Vol. 36: 1
+recognition  or enforcement  to  the  foreign judgment.
+This  obligation,  derived  from  the  command  of the
+Full Faith and Credit Clause of the U.S.  Constitution
+and  the  implementing  legislation,  is  applicable
+regardless  of whether the foreign action or the  action
+in  the  United  States  was  commenced  first  and
+regardless of which judgment was first entered.204
+In  other  words,  the  ALI  finally  approved  the  approach
+followed  in  the  rest  of the  world's  countries  to  favor  their  own
+judgments.  American  courts  would  be  wise  to  get  on  this
+bandwagon.  The rest of the countries may know what they are doing
+here.  There may even be a value in applying the same rule as other
+countries  do  for  local-foreign  inconsistencies,  In  any  event,  the
+rationales  for the last-in-time  rule  do not carry over to this setting,
+and so the balance of policies tips to a first-in-time rule. If America
+were to get on the bandwagon,  we would operate  under the scheme
+summarized in the following table:
+Treatment of Inconsistent Judgments by American F-3
+F-1  F-2  Rule
+American  American  Last-in-Time
+Foreign-Nation  American  Last-in-Time
+Foreign-Nation  Foreign-Nation  Presumptively
+Last-in-Time
+American  Foreign-Nation  First-in-Time
+First, for the table's last row, the rationale of waiver weakens
+considerably  when F-2 is  a foreign-nation  court.  Although we have
+come  to  accept  the  last-in-time  rule's  forcing  attendance  in  an
+204.  RECOGNITION AND  ENFORCEMENT OF FOREIGN JUDGMENTS:  ANALYSIS
+AND PROPOSED FEDERAL  STATUTE  § 5(c)(ii) cmt. j  (AM.  LAW INST.  2006).  The
+early drafts provided in blackletter  that an American court need not recognize a
+foreign-nation  judgment  irreconcilable  with  an  American  judgment,  but  the
+comment said instead  that it must not. E.g.,  id. § 5(b)(ii)  cmt.  i (AM. LAW INST.
+Preliminary Draft  No.  1,  2001).  In  response  to  arguments  made  at an  annual
+meeting,  81  A.L.I.  PROC.  292-94 (2004)  (Prof.  Mary  Coombs & Mr.  Michael
+Marks  Cohen),  the  reference  to  American  judgments  dropped  out  of  the
+blackletter,  leaving just the comment.  See RECOGNITION AND  ENFORCEMENT  OF
+FOREIGN JUDGMENTS:  ANALYSIS  AND  PROPOSED  FEDERAL  STATUTE  reporters'
+memorandum, at xviii (AM.  LAW INST. Proposed Final Draft, 2005) (noting that the
+section was restructured to address the issue).Winter 2017] LIMTING LAST-IN-TIME RULE 49
+American F-2, we should be wary of increasing the  compulsion on
+someone,  who  has  won  in  the  United  States,  to  show  up  in  the
+foreign-nation  forum.  We  should  also  be  wary  of  compelling
+someone, who has shown up abroad, to make what they may view as
+a hopeless contention  that the foreign court should give res judicata
+effect to  a prior American judgment.  Indeed,  it is  puzzling how to
+contend that failure to argue preclusion under foreign law somehow
+constitutes waiver of the full faith and credit argument.
+Second,  an even more powerful  point is that the preclusion
+rationale  drops  out altogether.  If F-2 were within the  full faith  and
+credit circle, the binding effect of F-i's judgment would be the same
+question whether it is faced  by F-2 or by F-3.  But the res judicata
+question faced by a foreign-nation F-2 is a different question (should
+it,  under  the  foreign  law,  recognize  the  American  F-i  judgment?)
+from the one faced by an American  F-3  (would it, under American
+full faith and credit, recognize the American F-1 judgment?).  Thus F-
+2's res judicata decision should have little or no preclusive effect in
+F-3  (even  making  the  unlikely  assumption  that  a  foreign  nation
+would  give  issue  preclusion  to  its  own  determinations  about  res
+judicata). Moreover, even if F-2 was wrong under F-2 law in denying
+res judicata to F-i's judgment, there was no possibility of getting a
+supranational court to correct the denial of preclusion.
+Third,  it  is  difficult  to  believe  that  looking  at  the  later
+judgment  is somehow  simpler.  If F-3 were  instead to look to F-i's
+judgment,  it could avoid the question of recognizability of a foreign-
+nation judgment and the task of testing the F-2 judgment's validity,
+finality,  and  preclusion  under  foreign  law.  It  should  on  average
+reduce  the litigatory  load to  look to the  American judgment  rather
+than the foreign-nation judgment.
+Fourth,  it is hard to work up enthusiasm  for the proposition
+that the  foreign-nation judgment  is, on average,  likely more correct
+or otherwise more acceptable than the prior American judgment. The
+foreign-nation  court  probably  used  different  choice-of-law  and
+substantive doctrines,  and employed procedures that probably would
+not appeal to us, to come to an inconsistent decision.  It is not being
+parochial to presume that F-1 produced  a decision  as likely reliable
+as F-2's.
+Fifth,  going  beyond  the  rationales,  independent  arguments
+against the last-in-time rule  exist in this context.  Honoring the last-
+in-time  would be  an  invitation  to  forum-shopping  among  foreign-
+nation courts  by the F-i  loser, who could either  sue abroad on the
+claim or seek an injunction  or declaratory judgment of nonliability.
+A last-in-time rule would result in "judgment scrubbing," whereby a50 THE REVIEW OF LITIGATION [Vol. 36: 1
+compliant foreign-nation  court could erase the effects of a loss in the
+United States.205 By contrast, domestic forum-shopping is not such a
+concern, because full faith and credit stands as a defense to shopping.
+Sixth,  one  purpose  of the  conflict  of laws  doctrine  is  to
+enhance  the  coherence  of the  country's  legal  system. 206  In  this
+situation of conflicting local and foreign judgments, it is not coherent
+to treat the judgments as equals. The suggestion here is not for blind
+adherence  to the American judgment.  The suggestion is that a valid
+and  final  American  judgment  was  originally  entitled  to  a  certain
+respect  in American courts,  and that the intervening  foreign-nation
+judgment had no authority to defeat that respect. Nor was the foreign
+nation's  decision  on recognition  even  focused  on that  respect.  To
+repeat,  the  foreign-nation  court  is  operating  under  a  different
+recognition  regime.  The  foreign-nation  judgment was  not deciding
+the respect owed in America, but only respect under the foreign law.
+In any event, the American F-3 should feel little motivation to honor
+the  judgment  of a  foreign  nation  that  has  refused  to  honor  an
+American judgment, as they often do.207
+Seventh,  there  is  no  case  law  standing  in  the  way  of the
+United States adopting a rule of local preference.  A tricky illustration
+of the closest precedents lies in Derr v.  Swarek.208
+The first judgment in Derr came by voluntary dismissal with
+prejudice  of a Mississippi  action by  the purchasers  of Mississippi
+farmland  against  the  German  sellers.209  Even  though  under
+Mississippi res judicata law the purchasers'  claim was extinguished,
+the second judgment came in a suit by the sellers in a German court,
+which rejected res judicata to reach the merits of the contract dispute,
+granted  the  sellers  a  declaratory  judgment  of  nonliability,  and
+assessed nearly $300,000  in court costs against the purchasers.210 For
+the  third  action,  the  sellers  resorted  to  the  Southern  District  of
+Mississippi to enforce the German judgment for costs. 211
+205.  The  allusion  is  to  the  "judgment  laundering"  practice  of getting  a
+compliant court to convert a shaky foreign judgment into an unassailable domestic
+judgment. CLERMONT, supran ote 23, at 436-37.
+206.  See Hessel E. Yntema, The Objectives of Private InternationalL aw, 35
+CAN.  B. REv.  721,  724, 734-35  (1957)  (discussing  the view that  "the essential
+objective is to co-ordinate the incidence of legal systems in conflicts cases").
+207.  Samuel P. Baumgartner, How Well Do U.S. Judgments Fare in Europe?,
+40 GEO. WASH. INT'L L. REv.  173, 227-31 (2008).
+208.  766 F.3d 430 (5th Cir. 2014) (2-1 decision).
+209.  Id. at 435.
+210.  Id.
+211.  Id.Winter 2017] LIMTTING LAST-IN-TIME  RULE 51
+The Derr federal district court rejected the German judgment,
+and the court of appeals affirmed.  "Because  federal jurisdiction was
+invoked by way of diversity of citizenship, we apply Mississippi law
+governing  the  recognition  of foreign judgments."212  In the  federal
+court  of appeals'  view,  the  German  court's  failure  to  respect  the
+purchasers'  dismissal  with  prejudice  of their  claims  against  the
+sellers  violated Mississippi public  policy and rendered  meaningless
+the right of the purchasers to put an end to litigation of their claims.
+"As  the  German  declaratory  judgment  and  attendant  cost  award
+issued only because the German court ignored the res judicata effect
+of the . . .dismissal with prejudice, the district court did not abuse its
+discretion in refusing to extend comity to the judgment."213
+The Derr facts  seem  to suggest  a slight  complication.214  in
+one  sense, the judgments were consistent, as the purchasers  had lost
+in both F-I and F-2.215 But Germany would have decided differently
+if it  had  given  the  American judgment  its  claim-preclusive  effect.
+How then can we refine the rule to empower Mississippi to look at
+Mississippi's prior judgment? We need to include this kind of case-
+when  F-3  wants to  look at  F-I's judgment to  knock out  an action
+upon  F-2's  judgment-within  the  problem  of  inconsistency.
+Inconsistent  judgments  have  to  be  made  to  include  the  situation
+where  enforcing  F-2's  judgment  in  F-3  would  defeat  the  claim
+preclusive-effect that F-i's judgment would have  under its own res
+judicata law.
+The Derr federal  courts viewed the denial of recognition to
+the German judgment as a discretionary decision under Mississippi's
+comity-based  state  law.216  They  could  go  the  Mississippi  way
+because  the  case's  facts  of Mississippi  (F-1),  Germany  (F-2),  and
+Mississippi (F-3) put it outside the reach of any federal  compulsion.
+In  any  event,  because  the  federal  district  court  had  exercised  its
+212.  Id. at 436.
+213.  Id. at437.
+214.  This complication is an additional argument against applying the first-in-
+time rule broadly. See supra text accompanying note 36. The last-in-time rule more
+simply sidesteps the complication in all but this foreign-nation judgment situation.
+See supra text accompanying note 10.
+215.  The Pierre v.  Doug hypothetical presents  the same complication.  See
+supra text accompanying note 175. The first New York judgment and the French
+judgment are not inconsistent in all senses, as the New York judgment technically
+could not be used for preclusion in the later action upon the French judgment in F-
+3. But the New York judgment should have claim-precluded the French action, and
+so F-3 would want to escape the last-in-time rule.
+216.  See Derr, 766 F.3d at 442, 446 (noting that Mississippi has not enacted
+the Uniform Act, but it follows the usual public-policy exception to comity).52 THE RE VIEW OF LITIGATION [Vol. 36: 1
+discretion against the German judgment, the court of appeals did not
+have to decide whether the district court was obliged to disregard the
+German judgment, under Mississippi or federal law.217
+The ALI believes that the general American law should make
+mandatory  the  denial  of  recognition  to  the  foreign-nation
+judgment.218  In  my  view  too,  based  on  the  reasons  above,  an
+American  court  must  disregard  a  foreign-nation  judgment
+inconsistent with an American judgment.  Whether the foreign-nation
+court just ignored the American judgment, correctly rejected it under
+the foreign law, or erroneously denied respect under the foreign law,
+the American  court  should look to  the  American judgment.  If the
+foreign  country  was  trying  to  respect  the  American judgment  but
+erroneously interpreted American law, that is a tougher call on which
+there is no case guidance. Because the line between naked disrespect
+and  honest  mistake  could be  rather  fine and  because  many  of the
+arguments  for letting the local judgment control still apply,  I would
+persist in saying the American  court must disregard  such a foreign-
+nation  judgment.  If,  however,  the  foreign-nation  court  were,
+someday,  to  become  mutually  obligated  by  treaty  to  give  the
+equivalent  of full faith  and  credit  to  an  American judgment,  the
+balance would tip back to the last-in-time rule.219
+The ALI simply attributed  the mandatory preference for the
+local judgment to the Full Faith and Credit Clause and Act. I was less
+certain that these provisions address this point. No case has squarely
+addressed the point, because the court can duck it by disregarding the
+foreign judgment "in its discretion" as the Derr courts did. When the
+issue  finally arises,  I do  think that an American court  should hold
+that  the  preference  is  mandatory,  at  least  as  a  matter  of federal
+common law. Although the Uniform Act and some other state laws
+leave  the  preference  for  the  local  judgment  discretionary,  the
+217.  The  same  issues are  currently  on  appeal  in  the Fourth  Circuit.  The
+sequence of cases there was District of Maryland, Iraq, District of Maryland. The
+federal cases  were in diversity,  and Maryland is a Uniform Act state.  See Iraq
+Middle Mkt. Dev. Found. v. Harmoosh, No. 15-CV-01 124, 2016 WL 1242598, at
+*8-9 & n.9 (D. Md. Mar. 30, 2016) (rejecting Iraqi judgment on another ground),
+appealfiled, No. 16-1403 (4th Cir. Filed Apr. 11, 2016).
+218.  See supra text accompanying note 204.
+219.  An argument against constitutionalizing the preference for an American
+judgment would be that it might hamper our ability to enter into such treaties. See
+generally Kevin M. Clermont, JurisdictionalS alvation and the Hague Treaty, 85
+CORNELL L. REv.  89, 124-27 (1999)  (discussing similar constitutional issues in the
+context  of jurisdiction).  But  recall  that  U.S.  CONsT.  art.  IV,  §  1  authorizes
+congressional  exceptions  to full  faith  and  credit.  The  implementing  legislation
+could adjust the preference for local judgments.Winter 2017] LIMITING LAST-IN-TIME RULE 53
+mandatoriness  of the federal law would override it when that federal
+law was applicable interjurisdictionally.  If F-2 is a foreign nation and
+F-1 and F-3 are the same U.S.  state, then state law would govern.
+Nonetheless,  I ultimately believe that the ALI was right that
+mandatoriness flows from the Full Faith and Credit Clause and Act.
+The way they work is  to require  that an American  court give  full
+faith  and credit  to  an American judgment,  subject  only to  narrow
+exceptions  expressly provided  by statute  or by rare  court  decision
+based on a national  policy.220  In the  situation  under  consideration,
+there is only one prior American judgment,  and no statute or strong
+policy  calls  for  an  exception  in  favor  of  a  last-in-time  foreign
+judgment, so the Clause and Act impose a first-in-time rule.
+CONCLUSION
+The  current  American  law  on  inconsistent  judgments
+enshrines  the last-in-time  rule, despite  the fact that it is  out of step
+with the rest of the world's devotion to a broadly applicable  first-in-
+time  rule.  Although  America's  law  is  a  bit  imprecise,  not  even
+defining  the  idea  of  "inconsistent"  judgments,  it  shows  lack  of
+complete conviction only when the last-in-time judgment loser could
+not get review in the U.S.  Supreme Court or when a prior domestic
+judgment goes toe-to-toe with a subsequent foreign-nation judgment.
+It  is  high  time  to  refine  the  imprecisions  and  to  resolve  the
+uncertainties.
+To  do so,  this  Article  proposes  the  following  "blackletter"
+formulation:221
+INCONSISTENT  JUDGMENTS:  When  two  (or
+more)  prior judgments would  preclude a claim  or
+issue differently in a subsequent action, the last-in-
+time of the prior judgments will  be  recognized  as
+controlling on the claim or issue.
+If, however,  both judgments come  from foreign
+nations, the flexibility of comity  means the last-in-
+220.  See CLERMONT, supra note 23, at 429-31  (discussing rule of full faith
+and credit under "state-state" and "state-federal"  situations).
+221.  See Kasia  Solon  Cristobal,  From Law in  Bischletter to  "Blackletter
+Law," 108 LAw LIBR. J. 181  (2016) (tracing the history of this phrase's meaning
+from the off-putting use in law of very black Gothic type to the concise statement
+of the basic principles of a legal subject).54 THE RE VIEW OF LITIGATION [ Vol. 36: 1
+time  judgment  need  not  be  recognized  as
+controlling in circumstances that make the first-in-
+time resolution appear clearly preferable.
+Moreover,  in  an  inconsistency  between  an
+American  judgment  and  a  foreign-nation
+judgment,  including  where  enforcing  the foreign-
+nation judgment would  defeat the claim-preclusive
+effect  that  the  American  judgment  would  have
+under its own  res judicata law,  the foreign-nation
+judgment will  not be  recognized  as controlling  on
+the claim or issue.
+This  formulation  realizes  the  slight advantages  of a last-in-
+time  approach,  while  recognizing  needed  exceptions  for  treating
+foreign-nation judgments. Additionally, it accords with the American
+cases,  intelligently  reread,  a  case  law  position to  which  a goodly
+number of Supreme  Court cases  have pretty  much  committed  us.
+Finally, given American  law's  current exception  for foreign-nation
+judgments, and recalling the incipient acceptance abroad of waiver as
+an exception to their first-in-time rule, it turns out that America and
+the  rest  of the  world  are  not  so  far  apart  in  the  treatment  of
+inconsistent  judgments  after  all.  The  consequential  irony  is  that
+comparative law, which prompted my questioning of American law,
+ultimately  reveals  convergence  and  so  provides  support  for  the
+proposed reformulation.

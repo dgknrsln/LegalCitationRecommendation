@@ -1,0 +1,1623 @@
+\\jciprod01\productn\C\CIN\50-3\CIN305.txt unknown Seq: 1  7-MAR-18 12:33
+Comity and International Courts
+and Tribunals
+Thomas Schultz† & Niccolo` Ridi††
+Introduction ..................................................... 578 R
+I. The Concept of Comity .................................. 580 R
+A. Comity and Public International Law.................. 581 R
+B. Comity in Private International Law................... 582 R
+1. Background........................................ 582 R
+2. Current Uses of Comity ............................ 583 R
+3. New Understandings of Comity ..................... 585 R
+C. Comity: A Summary .................................. 586 R
+II. The Potential of Comity in International Adjudication .... 586 R
+A. Proliferation and its Implications ...................... 587 R
+B. Challenges in Using Comity for International
+Adjudication.......................................... 588 R
+1. Horizontality as an Ordering Model................. 588 R
+2. Conflict of Laws Analogies and Regime Interaction ... 590 R
+3. Comity: Between Judicial Tool and Meta-Principle of
+Coordination ...................................... 591 R
+C. An Uncertain Umpire? The Case of Competing
+Proceedings........................................... 593 R
+1. The Regulation of Jurisdiction: Jurisdictional Clauses
+and General Principles ............................. 593 R
+2. On the Exercise of Jurisdiction: Comity and Inherent
+Powers............................................ 595 R
+3. The Potential of Comity: Advantages and Drawbacks . 598 R
+III. Mentions of Comity by International Courts and
+Tribunals................................................. 600 R
+A. Comity as Opposed to “Legal Obligations”............. 600 R
+B. Comity as Non-Interference ........................... 601 R
+C. Comity and the Management of Multiple Proceedings .. 601 R
+D. Comity as Respect and Recognition.................... 604 R
+E. Comity and Precedent ................................ 607 R
+F. Comity as Neighborliness, Cooperation, and Respect for
+Other Sovereign Entities............................... 607 R
+Conclusion ...................................................... 609 R
+† Professor  of  Law,  King’s  College  London;  SNSF  Research  Professor  of
+International  Law,  Graduate  Institute  of  International  and  Development  Studies,
+Geneva; Editor-in-Chief, Journal of International Dispute Settlement.
+†† LLB (Florence); LLM (Cantab); Modern Law Review Scholar and PhD Candidate,
+Dickson Poon School of Law, King’s College London; Research Fellow, Graduate
+Institute of International and Development Studies, Geneva.
+50 CORNELL INT’L L.J. 577 (2017)\\jciprod01\productn\C\CIN\50-3\CIN305.txt unknown Seq: 2  7-MAR-18 12:33
+578 Cornell International Law Journal Vol.50
+Introduction
+  In June 2003, a United Nations Convention on the Law of the Sea
+(UNCLOS) tribunal, constituted under the auspices of the Permanent
+Court of Arbitration, rendered a procedural order that has since entered
+the number of international decisions to be studied in a modern interna-
+tional law course.1 This was not the only decision in the broader dispute
+between Ireland and the United Kingdom concerning the operation of the
+nuclear reprocessing plant in Sellafield (in fact, the dispute yielded a grand
+total of six); nor was it the one that settled it.2 Rather, its importance lies
+in the way the tribunal—one of illustrious composition—decided to man-
+age a potential conflict with other international jurisdictions. Faced with
+the prospect of an almost certain involvement of the European Court of
+Justice, the tribunal opted to suspend its proceedings.3
+  Let us keep the tape rolling as we fast-forward a decade. In 2013, an
+International Centre for Settlement of Investment Disputes (ICSID) arbitral
+tribunal observed that, while the tribunal was not bound in principle by
+any rule of precedent, “it should have regard to earlier decisions of courts
+(particularly the International Court of Justice (ICJ)) and of other interna-
+tional dispute tribunals engaged in the interpretation of the terms of a
+[Bilateral Investment Treaty].”4 And the next year, another example: faced
+with the problem of parallel proceedings on the same dispute pending
+before the domestic courts of the respondent state, an investment tribunal
+observed that it had “a measure of discretion with respect to the timing and
+conduct of the arbitration and that municipal judicial proceedings may
+sometimes need to be taken into account.”5
+  What the cases (and the list could be extended quite at length) have in
+common is not the originating regime, the factual matrix at issue, or the
+legal problem in question, but rather the reliance on a specific, if mul-
+tifaceted, principle: comity. Most legal systems look at the word with some
+suspicion because there seems to be no end to the debate on its meaning.6
+In the field of international law, the problem is even greater, as to talk of a
+principle of “comity” is to talk of a principle that does not satisfy the legal-
+ity threshold.7 Yet, this is a concept that can lay claim to a long history,
+and stubbornly refuses to go away: with some generalizations, the tradi-
+tional definition of comity may be that of a principle in the name of which
+courts would fine-tune the reach of their national substantive law and juris-
+dictional rules, refrain from questioning the lawfulness of another sover-
+1. See generally MOX Plant Case (Ir. v. U.K.), (Order No. 3) (Perm. Ct. Arb. June 24,
+2003) [hereinafter MOX Plant Case].
+2. Id.
+3. Id.
+4. Tulip Real Est. Inv. & Dev. Netherlands v. Turkey ICSID Case No. ARB/11/28,
+Decision on Bifurcated Jurisdictional Issue, para. 45 (Mar. 5, 2013).
+5. Brit. Caribbean Bank Ltd. v. Gov’t Belize (Turks & Caicos Is. v. Belize), para. 187
+(Perm. Ct. Arb. Dec. 19, 2014).
+6. See Joel R. Paul, Comity in International Law, 32 HARV. L. REV. 1, 3–4 (1991).
+7. JAMES CRAWFORD, BROWNLIE’S PRINCIPLES OF PUBLIC INTERNATIONAL LAW 23–24
+(8th ed. 2012).\\jciprod01\productn\C\CIN\50-3\CIN305.txt unknown Seq: 3  7-MAR-18 12:33
+2017 Comity and International Courts and Tribunals 579
+eign state’s acts, and restrict themselves from issuing such judgments and
+orders when to do so would amount to an unjustifiable interference.
+Whatever one thinks of it, comity is widely referred to in the case law of
+domestic courts.8 And of more immediate relevance for our purposes,
+there are indications that it may be resurfacing in the context of interna-
+tional adjudication.9 While it was never really a stranger in their cham-
+bers, its recent rediscovery by international courts and tribunals can be
+better explained against the background of the proliferation of judicial and
+arbitral institutions and the interactions deriving therefrom.
+  International law, to go along with an oft-cited decision, “lacks a central-
+ised structure,” and “does not provide for an integrated judicial system
+operating an orderly division of labour among a number of tribunals.”10
+Given the number and diversity of international judicial bodies, it is hardly
+surprising that those who adopted expressions such as “the international
+judiciary” only did so at the price of far-reaching caveats or inverted com-
+mas.11 Jurisdictional competition need not necessarily be considered dis-
+advantageous, but it inevitably brings to the table the possibility of parallel
+proceedings, diverging interpretations of the same rule, instances of forum
+shopping, as well as the risk of conflicting decisions.12 Conflicts of legal
+regimes probably cannot be dealt with in a fashion that is entirely satisfac-
+tory with the currently available rules. Doubts in fact remain as to whether
+any rules at all could succeed in the task. For this reason, comity, which is
+a creature subtler than rules, may well appear as a readily available cure for
+some of these systemic problems.13
+  The question we want to address, then, is this: what exactly is the place of
+comity in modern public international law adjudication? To do so, the
+present study moves in three parts: Part I deals with the concept of comity
+in private and public international law, briefly considering its develop-
+ment and its modern understanding. In Part II, we shift our focus to inter-
+national dispute settlement and seek to identify the problems for which the
+use of comity has been proposed and we engage with the current scholarly
+debate on the matter. In Part III we discuss all the publicly available deci-
+sions by international courts and tribunals using the term comity and clas-
+8. Paul, supra note 6, at 2. R
+9. See generally MOX Plant Case, supra note 1.
+10. Prosecutor v. Tadic, Case No. IT–94–1–I, Decision on Defence Motion for Inter-
+locutory Appeal on Jurisdiction, P 11 (Int’l Crim. Trib. for the Former Yugoslavia, Oct. 2,
+1995). See also J. Pauwelyn & L.E. Salles, Forum Shopping Before International Tribunals:
+(Real) Concerns, (Im)Possible Solutions, 42 CORNELL INT’L L.J. 77, 84 (2009).
+11. See Chester Brown, The Evolution and Application of Rules Concerning Indepen-
+dence of the International Judiciary, 2 LAW & PRAC. INT’L CTS. & TRIBUNALS 63, 64 (2003);
+Cesare P.R. Romano, The Proliferation of International Judicial Bodies: The Pieces of the
+Puzzle, 31 N.Y.U.J. INT’L L. & POL. 709, 752 (1999).
+12. See CHESTER BROWN, A COMMON LAW OF INTERNATIONAL ADJUDICATION 33–34
+(Philippe Sands et al. eds., 2007); see also YUVAL SHANY, THECOMPETINGJURISDICTIONSOF
+INTERNATIONALCOURTSANDTRIBUNALS 73–74 (Philippe Sands et al. eds., 2003).
+13. Yuval Shany, Similarity in the Eye of the Beholder: Revisiting the Application of
+Rules Governing Jurisdictional Conflicts in the Lauder/CME Cases, in CONTEMPORARY
+ISSUES IN INTERNATIONAL ARBITRATION AND MEDIATION: THE FORDHAM PAPERS 2007 136
+(Arthur W. Rovine ed., 2008).\\jciprod01\productn\C\CIN\50-3\CIN305.txt unknown Seq: 4  7-MAR-18 12:33
+580 Cornell International Law Journal Vol.50
+sify them before finally pulling the threads together.14
+I. The Concept of Comity
+A celebrated international law textbook quipped that comity is “a won-
+derful word to use when one wants to blur the distinction between public
+and private international law, or to avoid clarity of thought.”15 There are
+two pieces of conventional wisdom here. The first is that, indeed, private
+and public international lawyers, with some remarkable exceptions, seem
+to agree that the concept of comity is not to be understood as terribly help-
+ful. We will try, throughout this Article, to show that the helpfulness of
+comity may well depend on how well we understand it. The second is that
+private and public international law understandings of comity need to be
+distinguished. In attempts to investigate what comity means, it is indeed
+problematic to dispense with this distinction. It leads us, for instance, to
+try to find a common denominator for comity in private and in public
+international law. This common denominator, according to Cheatham, is
+the idea that “the relation or the action in question is governed by consider-
+ations other than compulsion or legal duty.”16 Not much understanding is
+gained this way. Along the same line of thought, if we focus on the etymo-
+logical origins of the word, we end up in a similar place. Consider: the
+word comity derives from the Latin noun comitas, meaning “courtesy,”
+“friendliness,” and “civility,” but also “humanity.”17 In the English lan-
+guage, the term indicates courtesy and considerate behaviour towards
+others,18 or “a loose widespread community based on common social
+institutions.”19
+  In this Part, then, we will examine what comity means in public and in
+private international law separately. This does mean, however, that the
+concept in one field cannot be conveniently used in the other, as we will
+argue throughout this Article. Before we do this, however, we should recall
+that it is not too hard to find cases where comity was employed as short-
+14. This covers all decisions issued by dispute settlement mechanisms in disputes
+with at least one state party where there is some discussion of what comity is. Accord-
+ingly, we have included cases where mentions of the principle were meaningful, albeit
+brief, and excluded decisions which, while containing the word “comity, clearly and
+unambiguously addressed entirely different issues. Consideration was also given to the
+issue of “false positives”: this is the case, for example, of expressions such as “the comity
+of the majority” and citations of excerpts from other judgments lacking further discus-
+sion, but also of decisions referring to unrelated concepts such as “positive comity.” See
+Agreement on the Application of Positive Comity Principles in the Enforcement of Their
+Competition Laws, June 3–4, 1998, U.S.-E.C., art. III.
+15. PETER MALANCZUK, AKEHURST’S MODERN INTRODUCTIONTO INTERNATIONAL LAW 73
+(2002).
+16. Elliott E. Cheatham, American Theories of Conflict of Laws: Their Role and Utility,
+HARV. L. REV. 361, 374 (1945).
+17. Comitas,  A  LATIN  DICTIONARY FOR  SCHOOLS  (1879);  Comitas DIZIONARIO–
+ITALIANO–LATINO.
+18. Definition of “comity,”OXFORD DICTIONARIES ONLINE, http://www.oxforddictionar
+ies.com/definition/english/comity [https://perma.cc/HBL6-8N3M].
+19. Comity, MERRIAM-WEBSTER’S COLLEGIATE DICTIONARY(11th ed. 2003).\\jciprod01\productn\C\CIN\50-3\CIN305.txt unknown Seq: 5  7-MAR-18 12:33
+2017 Comity and International Courts and Tribunals 581
+hand for public international law or the entire field of conflict of law. But
+it is for a more specific meaning that we are looking.
+A. Comity and Public International Law
+  In traditional public international law scholarship, the term comity tradi-
+tionally designates, first and foremost, those acts performed—by states and
+towards states only—for reasons other than the belief that there is a bind-
+ing legal norm mandating them.20 Accordingly, it is customary to focus on
+them to explain what international law is not.21
+The non-bindingness of the rules of international comity is clearly not
+disputed, but to conclude that they have no normative value whatsoever
+would be a non sequitur.22 Bindingness and normativity are two different
+things.23 As Hedley Bull pointed out, “order in social life is very closely
+connected with the conformity of human behaviour to [normative] rules of
+conduct, if not necessarily to [binding] rules of law.”24 This is surely the
+case of rules of comity, which too arise from repetition of conduct—con-
+duct which, however, is carried out in the belief that is not mandated by a
+rule of international law.25 In the real world, rules of comity are routinely
+complied with.26 This may result, as Hersch Lauterpacht put it, in a rule of
+comity “acquiring the complexion” of rules of customary international
+law.27 In other words, comity is not a source of international law, but it
+may be, and has been, the basis and justification for the emergence of rules
+of international law.28 Questions of immunity, for instance, largely fall
+into this category.29 Where comity constitutes the basis of a rule of inter-
+20. Paul supra note 6, at 79. R
+21. CRAWFORD, supra note7, at 23–24; LASSA OPPENHEIM, OPPENHEIM’S INTERNATIONAL R
+LAW 1, 51 (Robert Jennings & Arthur Watts eds., 9th ed. 2008); MALCOLM N. SHAW,
+INTERNATIONAL LAW 2 (7th ed. 2014); Hugh Thirlway, The Sources of International Law, in
+91 MALCOLM D. EVANS, INTERNATIONAL LAW 99 (2014).
+22. Gerald J. Postema, Custom in International Law: A Normative Practice Account, in
+THE NATUREOF CUSTOMARY LAW, 285 (Amanda Perreau–Saussine & James Bernard Mur-
+phy eds., 2007).
+23. HEDLEY BULL, THE ANARCHICAL SOCIETY: A STUDYOF ORDER IN WORLD POLITICS 6
+(2002).
+24. Id.
+25. For a helpful discussion of comity and custom see Postema, supra note 22, at
+285.
+26. Id.
+27. 1 HERSCH LAUTERPACHT, INTERNATIONAL LAW, BEING THE COLLECTED PAPERS OF
+HERSCH LAUTERPACHT43–44 (Elihu Lauterpacht ed., 1970); CRAWFORD, supra note 7, at R
+24. It should be pointed out that the reverse may also occur, so that rules of interna-
+tional law may lose their legal nature and be demoted to rules of comity. One usual
+example is the practice of greeting foreign warships. Jo¨rn Ka¨mmerer, COMITY, MAX
+PLANCK ENCYCLOPEDIAOF PUBLIC INTERNATIONAL LAW §7 (Ru¨diger Wolfrum ed., 2006).
+28. 1 LASSA OPPENHEIM, PEACE,INTERNATIONAL LAW: A TREATISE 25 (1905) (“But there
+can be no doubt that many a rule which formerly was a rule of International Comity
+only is nowadays a rule of International Law. And it is certainly to be expected that this
+development will go on in future also, and that thereby many a rule of present Interna-
+tional Comity will in future become one of International Law.”) The passage is repro-
+duced without substantial changes in OPPENHEIM, supra note 21, at 51. R
+29. Schooner Exchange v. McFaddon, 11 U.S. 116, 134 (1812); Hazel Fox, Interna-
+tional Law and Restraints on the Exercise of Jurisdiction by National Courts of States, in\\jciprod01\productn\C\CIN\50-3\CIN305.txt unknown Seq: 6  7-MAR-18 12:33
+582 Cornell International Law Journal Vol.50
+national law, the question may arise of what significance, if any, this origin
+should have. In any event, while it has been argued that reading a rule of
+international law with comity in mind could, for example, “determine what
+is required by good faith, which takes into account reliability based on
+tradition and expectations of courtesy.”30 Reliance on the principle is, in
+any event, limited to elucidating the meaning and purpose of the rule
+itself.31
+B. Comity in Private International Law
+1. Background
+The history of the notion of comity in private international law is very
+much a history of the concept of sovereignty.32 With the development of
+the Westphalian system, territorial sovereignty and freedom from interfer-
+ence were consecrated as the essential pillars of the new world order, and a
+system of territorial law replaced the old personal statutes.33 Still, the
+transnational commercial relations that flourished on the European conti-
+nent were not ready for such rigidity.34 Accordingly, comity was developed
+as a doctrine intended to mitigate the ill-effects of strict territoriality.35
+The doctrine was developed in the Netherlands by scholars seeking to
+answer the specific problem of which law should govern a specific legal
+relationship.36 In its most celebrated formulation, by Ulrich Huber, the
+doctrine provided an elegant solution based on three axioms, the first two
+reaffirming the principle of territorial sovereignty, and the third postulat-
+INTERNATIONAL LAW, 344 (Malcolm Evans ed., 2010); Jasper Finke, Sovereign Immunity:
+Rule, Comity or Something Else?, 21 EUR. J. INT. LAW 853, 870–71 (2010). It must be
+pointed out that there exist, in this area, references to comity that blur the distinction.
+According to Collins, for example, “[i]t is no doubt in the sense of binding rules of
+public international law that the expression is used” with reference to immunity. Lau-
+rence Collins, Comity in Modern Private International Law, inREFORMAND DEVELOPMENT
+OF PRIVATE INTERNATIONAL LAW: ESSAYS IN HONOUR OF SIR PETER NORTH, 96–97 (James
+Fawcett ed., 2002).
+30. Ka¨mmerer, supra note 27, §8. R
+31. See e.g., Cudak v. Lithuania, App. No. 15869/02 (Eur. Ct. H.R. Mar. 23, 2010)
+(“The Court must first examine whether the limitation pursued a legitimate aim. In this
+connection, it observes that State immunity was developed in international law out of
+the principle par in parem non habet imperium, by virtue of which one State could not be
+subject to the jurisdiction of another. The Court considers that the grant of immunity to
+a State in civil proceedings pursues the legitimate aim of complying with international
+law to promote comity and good relations between States through the respect of another
+State’s sovereignty.”). The matter will be further investigated infra Part III.
+32. KURT LIPSTEIN, PRINCIPLES OF THE CONFLICT OF LAWS: NATIONAL AND INTERNA-
+TIONAL 16 (1981); Thomas Schultz & David Holloway, Retour sur la comity, deuxi`eme
+partie: La comity dans l’histoire du droit international priv´e, J. DROIT INT’L 571, 573
+(2012).
+33. Id. at 576–77.
+34. SeeRODOLFO DE NOVA, HISTORICALANDCOMPARATIVEINTRODUCTIONTOCONFLICT
+OFLAWS 441 (1966); Harold G. Maier, Resolving Extraterritorial Conflicts, or There and
+Back Again, 25 VA. J. INT’L L. 7, 10 (1984).
+35. CEDRIC RYNGAERT, JURISDICTIONIN INTERNATIONAL LAW, 150 (2d ed. 2015).
+36. JOHANNES VOET, COMMENTARIUSAD PANDECTAS. (1698); PAULUS VOET, DESTATUTIS
+EORUMQUECONCURSULIBERSINGULARIS (1661).\\jciprod01\productn\C\CIN\50-3\CIN305.txt unknown Seq: 7  7-MAR-18 12:33
+2017 Comity and International Courts and Tribunals 583
+ing that state authorities could have applied foreign laws to govern private
+interactions, “so far as they do not cause prejudice to the power or rights”
+of the state concerned.37
+There is no genuine consensus as to the issue of whether the third
+axiom was meant to grant absolute discretion to the national authorities of
+one nation or was, on the contrary, a simple description of the current
+practices.38 Huber’s understanding of international law was fundamen-
+tally Grotian, and it is not inconceivable that his intention might have been
+to qualify the rule as an international usage—if not as a custom proper.39
+It was comity’s discretionary component, however, that had the most sig-
+nificant impact, especially in the common law world.40 Lord Mansfield in
+England and Joseph Story in the United States realized the significance of
+the concept, and the latter in particular granted widespread recognition to
+Huber’s views—though, according to some, he did so at the cost of some
+inaccuracies.41 A United States Supreme Court Justice, Story did not see
+comity as amounting to anything more than a rather imperfect obligation,
+arising “from mutual interest and utility, from a sense of the inconve-
+niences which would result from a contrary doctrine.”42 The Supreme
+Court later produced what still is the most influential statement of the
+doctrine. In Hilton v Guyot, a decision of immeasurable influence, Justice
+Gray defined comity as “neither a matter of absolute obligation, on the one
+hand, nor of mere courtesy and goodwill, upon the other.”43 Comity was
+in fact, Justice Gray continued, “the recognition which one nation allows
+within its territory to the legislative, executive, or judicial acts of another
+nation, having due regard both to international duty and convenience and
+to the rights of its own citizens or of other under the protection of its
+laws.”44
+2. Current Uses of Comity
+With the unfolding of the positivist revolution, comity ceased to be
+considered a suitable basis for private international law.45 Yet, as Law-
+rence Collins noted in 2002, the use of the term by the judiciary remains
+37. This translation appears in ERNEST GUSTAV LORENZEN, HUBER’S DE CONFLICTU
+LEGUM, inSELECTED ARTICLESONTHE CONFLICTOF LAWS 139 (1947). See also the text in
+Ernest G. Lorenzen, Story’s Commentaries on the Conflict of Laws: One Hundred Years
+after, 48 HARV. L. REV. (1934); Paul supra note 6, at 15–16. R
+38. DE NOVA, supra note 34, at 449. R
+39. Id. at 450.
+40. Id.
+41. ALAN WATSON, JOSEPH STORY AND THE COMITY OF ERRORS: A CASE STUDY IN CON-
+FLICTOF LAWS 38 (1992).
+42. JOSEPH STORY, COMMENTARIESONTHECONFLICTOFLAWS, FOREIGNANDDOMESTIC: IN
+REGARD TO CONTRACTS, RIGHTS, AND REMEDIES, AND ESPECIALLY IN REGARD TO MARRIAGES,
+DIVORCES, WILLS, SUCCESSIONS, ANDJUDGMENTS (1834) (quoting SAMUEL LIVERMORE, DISSER-
+TATIONSONTHE QUESTIONS WHICH ARISE FROMTHE CONTRARIETYOFTHE POSITIVE LAWSOF
+DIFFERENT STATESAND NATIONS 28 (1828)).
+43. Hilton v. Guyot, 159 U.S. 113, 143 (1895).
+44. Id.
+45. CHESHIRE, NORTH & FAWCETT: PRIVATE INTERNATIONAL LAW, (James Fawcett et al.
+eds., 14th ed. 2008); Collins refers in particular to the description of comity as “grating\\jciprod01\productn\C\CIN\50-3\CIN305.txt unknown Seq: 8  7-MAR-18 12:33
+584 Cornell International Law Journal Vol.50
+extensive, regardless how much it is frowned upon in textbooks.46 In its
+modern incarnation, the “doctrine of comity” requires courts to place trust
+in and not interfere with foreign courts, as well as to give “full faith and
+credit to, or [respect] the conclusiveness of, the acts of foreign institutions”;
+at the same time, it provides the principles that should guide these prac-
+tices.47 With some approximation, the uses of comity may be classified
+according to a taxonomy proposed by Harold Koh, which distinguishes
+between legislative (or prescriptive) comity, judicial comity, and executive
+comity.48 The first two concern the application of foreign law or the limi-
+tation of the reach of local law, as well as the recognition of foreign deci-
+sions or the use of discretion to limit the jurisdiction of domestic courts.49
+The third, instead, commands deference when foreign sovereign interests
+are at stake and provides a basis for the “act of state doctrine”—which bars
+a court from sitting in judgment of the acts that another sovereign state
+performs in its territory—and does not necessarily fit well with the other
+two categories.50 All these uses reflect, as Donald Childress puts it, “a set
+of ideas about sovereign-sovereign relations that courts can point to and
+take into account when adjudicating transnational disputes.”51 In the day-
+to-day administration of justice, comity tends, however, to be a simpler
+matter, and operates as a judicial tool in such a way that, in Adrian Briggs’s
+words, “the language of the comity of sovereigns . . . feels out of place.”52
+In practice, comity has been invoked as an upper limit to restrain the reach
+of domestic law in cases concerning issues as diverse as competition and
+human rights. It has been considered a relevant factor in the granting of
+recognition to foreign and international judicial decisions, and interpreted
+as counseling restraint in passing judgment on the sovereign acts of other
+states; further, it has also been considered as a compelling reason to refrain
+from adjudication in cases of international litispendence (actual or simply
+foreseen)  and  a  significant  parameter  for  the  granting  of  anti-suit
+injunctions.53
+to the ear when it proceeds from a court of law.” Collins, supra note 29, at 96–97. The R
+phrase is Samuel Livermore’s, supra note 42, at 39.
+46. See Collins, supra note 29, at 96–97.
+47. Adrian Briggs, The Principle of Comity in Private International Law, 354 in
+RECUEILDES COURSDEL’ACADE´MIEDE DROIT INTERNATIONAL 65, 91.
+48. HAROLD HONGJU KOH, TRANSNATIONAL LITIGATIONIN UNITED STATES COURTS 6, 80,
+102 (2008); Donald Earl III Childress, Comity as Conflict: Resituating International Com-
+ity as Conflict of Laws, 44 U.C. DAVIS L. REV. 11, 48 (2010).
+49. KOH, supra note 48. R
+50. Id; Childress, supra note 48, at 48. On the emergence of executive comity and R
+the act of state doctrine as a way to “accommodate respect for foreign sovereignty with
+growing American intercourse with other nations,” see Harold Koh, Transnational Public
+Law Litigation, YALE L.J. 2347, 2357 (1991).
+51. Childress, supra note 48, at 60. R
+52. Briggs, supra note 47, at 89. R
+53. On the operation of comity, see Childress, supra note 48; Paul, supra note 6; Joel
+R. Paul, The Transformation of International Comity, 71 LAW & CONTEMP. PROBS. 19,
+36–37 (2008); Thomas Schultz & Jason Mitchenson, Navigating Sovereignty and Trans-
+national Commercial Law: The Use of Comity by Australian Courts, 12 J. PRIV. INT’L LAW
+(2016).\\jciprod01\productn\C\CIN\50-3\CIN305.txt unknown Seq: 9  7-MAR-18 12:33
+2017 Comity and International Courts and Tribunals 585
+Comity, not entirely unlike equity, operates infra and praeter legem,
+but never overrides a command of the sovereign.54 In practice, while the
+transnational regulatory web has become denser, comity still remains a
+useful tool in the hands of courts, capable as it is of operating as a lubri-
+cant or counterbalancing “the inadequacy of the normative criteria” neces-
+sary to solve jurisdictional conflicts.55
+3. New Understandings of Comity
+While sovereignty constitutes the traditional theoretical underpinning
+of the doctrine, it does not follow that it covers the ways in which comity
+has been used or necessarily matches the evolution of its understanding.
+These changes have occurred through gradual—but radical—changes in the
+backdrop of transnational adjudication, so that it has been referenced to
+justify instances of deference to “the needs of the international commercial
+system,”56 to support transnationally consistent interpretations of interna-
+tional instruments (public or private alike),57 and, more generally, to fur-
+ther  the  “mutual  interests  of  all  nations  in  a  smoothly  functioning
+international legal regime.”58
+Moreover, comity constitutes a key concept for understanding judicial
+networks. Anne-Marie Slaughter has convincingly relied on this notion to
+explain certain dynamics.59 In her view, comity constitutes one of the
+building blocks of judicial dialogue occurring in the “global community”
+of national and international courts, offering “the framework and the
+ground rules for a global dialogue among judges in the context of specific
+cases.”60 According to her model, courts would respect foreign courts “qua
+courts . . . rather than simply as the face of a foreign government,” recog-
+nizing them as “co-equals in the global task of judging,” though with a
+distinctive emphasis on individual rights and the judicial role in protecting
+them.61
+To be sure, Slaughter’s theory is not without its critics and it has been
+54. Briggs, supra note 47, at 87. R
+55. ELISA D’ALTERIO, LAFUNZIONEDIREGOLAZIONEDELLECORTINELLOSPAZIOAMMINIS-
+TRATIVOGLOBALE 190 (2011); Briggs, supra note 47. R
+56. For example, giving effect to an arbitration clause that covered antitrust matters,
+traditionally considered non-arbitrable, see Mitsubishi Motors Corp. v. Soler Chrysler-
+Plymouth, Inc., 473 U.S. 614, 615 (1985). The decision was also cited in ADF Group
+Inc. v. United States ICSID Case No. ARB (AF)/00/1, Award, P 15 (Jan. 9, 2003).
+57. Paul, supra note 6; Schultz & Mitchenson, supra note 53. Thomas Schultz & R
+Niccolo` Ridi, How Comity Makes Transnationalism Work (King’s College London Dickson
+Poon School of Law Paper No. 2017-14, 2017), https://ssrn.com/abstract=2897538.
+58. Soci´et´e Nationale Industrielle A´erospatiale v. U.S. Dist. Court, 482 U.S. 522, 555
+(1987).
+59. ANNE-MARIE SLAUGHTER, A NEW WORLD ORDER, 87 (2004). Anne-Marie Slaughter,
+A Global Community of Courts, 44 HARV. INT’L L.J. 191, 194 (2003) [hereinafter Global
+Community]; Anne-Marie Slaughter, Judicial Globalization, 40 VA. J. INT’L L. 1103,
+1112–13 (1999) [hereinafter Judicial Globalization].
+60. Global Community, supra note 59, at 211, 206. R
+61. Judicial Globalization, supra note 59, at 206. R\\jciprod01\productn\C\CIN\50-3\CIN305.txt unknown Seq: 10  7-MAR-18 12:33
+586 Cornell International Law Journal Vol.50
+suggested that it is, to a large extent, quite starry-eyed.62 Yet, it has the
+merit of emphasising the role of judges and arbitrators—national and inter-
+national—as facilitators of the coordination of legal regimes.63 In this
+guise, comity is a primary rule of conduct addressed to judges and arbitra-
+tors, asking them to balance some of the variegated interests implied in
+making one legal regime prevail over another in a specific instance.64 Such
+a theory of comity underscores the importance of balancing efforts, and is
+hardly “arbitrary and dangerous” as the traditional critique has often
+suggested.65
+C. Comity: A Summary
+One problem with most of the scholarship on comity is that it almost
+invariably defines the concept in the negative or indirectly.66 For the sake
+of clarity and the discussion that follows, but without any claim of exhaus-
+tiveness, we attempt to offer a positive, working definition. We understand
+comity as a judicial tool which, pursuant to an accepted paradigm on the
+allocation of regulatory authority (such as sovereignty), directs courts to
+engage in acts of restraint or recognition. This concretely translates into
+the following actions taken by courts: fine-tuning the reach of domestic
+substantive law; resorting to discretionary abstention in case of actual or
+foreseen jurisdictional conflicts; granting respect and recognition to the
+judgments of their foreign counterparts or presuming that foreign law and
+acts are valid; or otherwise respecting an expression of coequal authority
+that does not infringe its external limits. By extension, the term comity
+also designates the rationale for the set of judicial tools and techniques
+developed to achieve these goals.
+This understanding of comity essentially originates in private interna-
+tional law. But as we will try to show, it can also helpfully be used—and
+actually is helpfully used—in public international law. This is particularly
+so in international adjudication, to which we now turn.
+II. The Potential of Comity in International Adjudication
+Comity, as we have already mentioned, is routinely used in domestic
+adjudication, and not at all unheard of in international fora.67 Its re-emer-
+gence, however, is linked to a specific phenomenon: the proliferation of
+international courts and tribunals.68 In this context, the concept of comity
+62. Alex Mills & Tim Stephens, Challenging the Role of Judges in Slaughter’s Liberal
+Theory of International Law, 18 LEIDEN J. INT’L L. 1, 3 (2005).
+63. Global Community, supra note 59, at 192–93. R
+64. Id. at 206.
+65. T.H. HEALY, Th´eorie  g´en´erale de l’ordre public, in 9 RECUEIL DES COURS DE
+L’ACADE´MIEDE DROIT INTERNATIONAL (1925) 411, 433; see Louise Weinberg, Against Com-
+ity, 80 GEO. L.J. 53, 70 (1991).
+66. Elisa D’Alterio, From Judicial Comity to Legal Comity: A Judicial Solution to Global
+Disaster? 9 INT’L. J. CONST. L. 394, 396 (2011).
+67. Paul, supra note 6, at 5–6, 50–51. R
+68. CAMPBELL  MCLACHLAN,  LIS  PENDENS IN  INTERNATIONAL  LITIGATION  299,  421
+(2009).\\jciprod01\productn\C\CIN\50-3\CIN305.txt unknown Seq: 11  7-MAR-18 12:33
+2017 Comity and International Courts and Tribunals 587
+may have the potential to solve, or at least mitigate, some of the problems
+arising from a disorderly multiplication of competing authorities.
+A. Proliferation and its Implications
+The multiplication of international judicial institutions is likely one of
+the most significant developments to have ever occurred in the interna-
+tional legal system. Its causes have been identified, on the one hand, in the
+increased willingness of states to submit to international adjudication and,
+on the other hand, in the inevitable specialisation of certain fields.69 A
+burgeoning and spread of international courts and tribunals resulted, dif-
+fering in their mandates, the rules they apply, the status of the parties to
+the disputes they resolve, and the very inclusiveness of their jurisdictions—
+which tend to grow more inclusive and difficult to elude as international
+adjudication  moves  from  a  consensual  to  a  compulsory  paradigm.70
+Proliferation is a divisive topic. For some, a numerous and diverse set of
+judicial institutions may better serve the interests of justice, efficiency, and
+party autonomy, because different approaches to the same matters can ulti-
+mately spark legal development.71 Others contend that proliferation is a
+reason for concern, both for the parties to the dispute and the international
+legal system as a whole.72 If the problem is seen through this lens, the
+value of comity comes quite naturally into focus. With more international
+courts comes a greater risk of parallel proceedings, instances of forum
+shopping, conflicting decisions, and diverging interpretations of the same
+rules of law that may bring about “fragmentation” issues as a consequence
+of the move towards specialisation.73 Conflicts may occur between inter-
+national courts and tribunals and their counterparts, but can also easily
+involve national courts.74 There exists ample room for inter-systemic and
+infra-systemic conflicts, which have further complicated the resolution of
+certain disputes and diminished the overall trust in international dispute
+settlement.
+The root of the problem is threefold: First, “general international law
+does not provide for jurisdiction-regulating rules.”75 Second, in most cases
+the  treaties  establishing  international  courts  and  tribunals  do  not
+expressly provide rules governing their relationships with the jurisdictions
+69. BROWN, supra note 13, at 15–21; Geir Ulfstein, International Courts and Judges:
+Independence, Interaction, and Legitimacy, N.Y.U.J. INT’L L. & POL849, 857 (2014).
+70. Cesare P.R. Romano, The Shift from the Consensual to the Compulsory Paradigm in
+International Adjudication: Elements for a Theory of Consent, The, 39 N.Y.U.J. INT’L L. &
+POL. 791, 794–95 (2006).
+71. Jacob Katz Cogan, Competition and Control in International Adjudication, 48 VA.
+J. INT’L L. 411, 447–48 (2007).
+72. Gilbert Guillaume, Advantages and Risks of Proliferation: A Blueprint for Action, 2
+J. INT’L CRIM. JUST. 300, 301 (2004).
+73. Id; see Martti Koskenniemi, Fragmentation of International Law: Difficulties Aris-
+ing from the Diversification and Expansion of International Law: Report of the Study Group
+of the International Law Commission, para. 8, U.N. Doc. A/CN.4/L.682 (Apr. 13, 2006).
+74. SeeYUVAL SHANY, REGULATING JURISDICTIONAL RELATIONS BETWEEN NATIONAL AND
+INTERNATIONAL COURTS 75 (2007).
+75. BROWN, supra note 12, at 29. R\\jciprod01\productn\C\CIN\50-3\CIN305.txt unknown Seq: 12  7-MAR-18 12:33
+588 Cornell International Law Journal Vol.50
+of their counterparts or national jurisdictions.76 Third, jurisdictional pro-
+visions of individual international courts and tribunals are characterized
+by some degree of rigidity: as James Crawford puts it, it is precisely this
+lack of elasticity that produces the problems generally blamed on the
+proliferation phenomenon.77
+The use of comity has the potential of alleviating some of the problems
+arising from this rigidity, improving coordination between overlapping
+jurisdictions, and mitigating the undesired effects of unilateral forum shop-
+ping by encouraging a sound management of simultaneously pending pro-
+ceedings and the choice of the most suitable forum. Further, it can serve
+as a theoretical basis to foster overall coordination between judicial bodies,
+prompting them to accord respect to the decisions of other international
+courts and tribunals and, more generally, creating a framework for their
+jurisdictional interaction—a framework which at the same time encourages
+cross-fertilization and “promotes the systematic nature of international
+law.”78
+B. Challenges in Using Comity for International Adjudication
+A traditional understanding of comity, as we pointed out in section 1,
+links it to sovereignty.79 Can a principle developed to deal with issues
+regarding sovereignty—in a private international law dimension—be ade-
+quately used to deal with jurisdictional arrangements within the interna-
+tional judiciary? To answer the question, we first argue that horizontality,
+which is at the heart of sovereignty, is not an inappropriate ordering model
+for the relationship of the competences of international courts and tribu-
+nals. This in turn leads us to the transposition of conflicts of law to regime
+interactions. We finally take a step back from these considerations, which
+are arguably overly doctrinal and insufficiently pragmatic, and turn to
+comity as a tool of judicial reasoning.
+1. Horizontality as an Ordering Model
+The global arrangement of states is not so different from the global
+arrangement of international judicial bodies. As James Crawford puts it,
+comity “arises from the horizontal arrangements of state jurisdictions . . . .
+and the field’s lack of a hierarchical system of norms.”80 In the interstate
+system, horizontality is a consequence of the principle of sovereign equal-
+ity of states; in the international system, it is the ordering model of the
+“new style of public international law litigation.”81
+76. MCLACHLAN, supra note 68, at 44. R
+77. JAMES CRAWFORD, CHANCE, ORDER, CHANGE: THE COURSEOF INTERNATIONAL LAW,
+THE GENERAL COURSEON PUBLIC INTERNATIONAL LAW 211 (2014).
+78. BROWN, supra note 12, at 29; SHANY, supra note 74, at 179–81; VAN HARTEN, R
+SOVEREIGN CHOICES AND SOVEREIGN CONSTRAINTS: JUDICIAL RESTRAINT IN INVESTMENT
+TREATY ARBITRATION 117, 117 (2013); D’Alterio, supra note 66, at 416.
+79. LIPSTEIN, supra note 32, at 14. R
+80. CRAWFORD, supra note 7, at 485. R
+81. MCLACHLAN,supra note 68, at 41. R\\jciprod01\productn\C\CIN\50-3\CIN305.txt unknown Seq: 13  7-MAR-18 12:33
+2017 Comity and International Courts and Tribunals 589
+It is true that not all international judicial bodies are created equal,
+with some having, according to an accepted classification, universal juris-
+diction ratione personae, others a regional mandate, a general competence
+rationae materiae or a high degree of specialization.82 However, despite
+some advocacy of a more central role for the International Court of Jus-
+tice,83 no tribunal currently holds such a central function,84 and indeed
+one should recall that when the problem concerns international tribunals,
+“the notion of a court of a court of general jurisdiction is an inapt anal-
+ogy.”85 Some may have greater jurisdictional reach, but none formally
+stands out as hierarchically superior to the others: thus their potential
+clashes still occur in a horizontal dimension.86
+More intriguing is the problem of the exercise of comity by interna-
+tional courts towards national courts, and vice versa. As a principle, com-
+ity has sometimes been identified as the basis of particular aspects of the
+relationship between courts of different orders.87 The broader question,
+however, is whether it can help overcome the lack of jurisdictional rules
+and principles governing the relationship of their competences.88 Sover-
+eignty-based arguments may cut both ways, but at least they are useful in
+justifying different types of “deferential review” concerning the acts of a
+state.89
+82. Shany, supra note 13, at 29. R
+83. The United Nations Charter, on the other hand, expressly provides for the possi-
+bility of entrusting disputes to other tribunals, either already in operation or to be cre-
+ated, see U.N. Charter art. 95, para. 1.
+84. Pierre-Marie Dupuy, The Danger of Fragmentation or Unification of the Interna-
+tional Legal System and the International Court of Justice, 31 N.Y.U.J. INT’L L. & POL. 791,
+798–99 (1998); see generally Rosalyn Higgins, A Babel of Judicial Voices? Ruminations
+from the Bench, 55 INT’L COMP. L.Q. (2006); Ulfstein, supra note 69, at 849–50. R
+85. James Crawford & Penelope Nevill, Relations between International Courts and
+Tribunals: The “Regime Problem,” inREGIME INTERACTIONIN INTERNATIONAL LAW: FACING
+FRAGMENTATION 235, 249 (Margaret A. Young ed., 2012).
+86. See Romano, supra note 70, at 848. R
+87. SABINO CASSESE, I TRIBUNALIDI BABELE. I GIUDICIALLARICERCADIUNNUOVOORDINE
+GLOBALE 87–88 (2009).
+88. For an example of an arbitral tribunal that established its jurisdiction to hear the
+case, but stayed its proceedings in favor of the domestic courts, which had been selected
+as the appropriate forum in a contract clause through a decision on the admissibility of
+claims. The move has generally been described as based on comity, see Soci´et´e G´en´erale
+de Surveillance S.A. v. Republic of the Philippines, ICSID Case No. ARB/02/6, Objec-
+tions to Jurisdiction, (Jan. 29, 2004) 8 Rep. 518 (2005) [hereinafter Soci´et´e G´en´erale v.
+Philippines]; Michael Waibel, Coordinating Adjudication Processes, in THE FOUNDATIONS
+OF INTERNATIONAL INVESTMENT LAW: BRINGING THEORYINTO PRACTICE, 505 (Zachary Doug-
+las, Joost Pauwelyn, & Jorge E. Vin˜uales eds., 2014); SHANY, supra note 74, at 74–76. R
+One of the arbitrators of the case expressly stated that the tribunal stayed its proceed-
+ings “in the interests of comity.” James Crawford, Continuity and Discontinuity in Inter-
+national Dispute Settlement: An Inaugural Lecture, 1 J. INT’L DISPUTE SETTL. 3, 22 (2010).
+On the distinction between jurisdiction and admissibility, see generally Jan Paulsson,
+Jurisdiction and admissibility, inGLOBAL REFLECTIONSON INTERNATIONAL LAW COMMERCE
+AND DISPUTE RESOLUTION 601 (Gerald Asken et al. eds., 2010).
+89. The margin of appreciation doctrine has been considered one such example, see
+SHANY, supra note 74, at 185. R\\jciprod01\productn\C\CIN\50-3\CIN305.txt unknown Seq: 14  7-MAR-18 12:33
+590 Cornell International Law Journal Vol.50
+2. Conflict of Laws Analogies and Regime Interaction
+If one takes on the view that jurisdictional clashes occur in a horizon-
+tal dimension, conflict of laws analogies become alluring, in particular if
+one has in mind the “jurisdictional” nature of these clashes.90 Such com-
+parisons are not novel, and have been employed to describe the overlaps
+between the functional jurisdictions of international organisations, which,
+as was submitted, presented “a closer analogy with the problem of conflict
+of laws than with the problem of conflicting obligations within the same
+legal system.”91
+There is merit in the idea of these analogies, but how far they can be
+used in practice is a distinct question. From the perspective of an interna-
+tional adjudicator, it is possible to single out rather useful doctrines, such
+as those of governmental interest analysis or the “comparative impairment
+principle.”92 With some simplification, the first requires the interpreter to
+look to the specific policy goals underlying the provisions to be applied.93
+The second “requires the interpreter to weigh the relative interests of the
+conflicting legal systems” with a view to determining which among them
+“would be most greatly impaired by a legal decision, assuming that that
+decision were to become a general practice.”94
+The main problem with these conflicts of law approaches is that, while
+they are implemented at the judicial level, they mainly relate to choice of
+law matters, and cannot do much for the resolution of jurisdictional con-
+flicts—as  such—between  courts.  The  perspective  may  change  slightly
+when it comes to the application of substantive law, or when international
+adjudication is embedded, as it often is, in a certain “regime.” Granted, the
+very use of the word regime, in the sense of “regime interactions,” which is
+a loan from international relations literature, is somewhat controversial in
+the field of international law.95 But it is not without analytical purchase.
+Broadly, regime interactions scholarship deals with sets of norms, deci-
+sion-making procedures and organisations coalescing around functional
+issue-areas.96 More to the point, it addresses questions relating to overlaps
+90. For a critique of this “temptation,” see JOOST PAUWELYN, CONFLICTOF NORMSIN
+PUBLIC INTERNATIONAL LAW: HOW WTO LAW RELATESTOOTHER RULESOF INTERNATIONAL
+LAW 8–10 (2003).
+91. C. Wilfred Jenks, The Conflict of Law-Making Treaties, 30 BR. Y.B. INT’L L. 401,
+403 (H. Lauterpacht ed., 1953); see also Joel P. Trachtman, Institutional Linkage: Tran-
+scending “Trade and . . . ,” 96 AM. J. INT’L L. 77 (2002).
+92. See generally William F. Baxter, Choice of Law and the Federal System, 16 STAN. L.
+REV. 1 (1963) (explaining the principle of comparative impairment).
+93. BRAINERD CURRIE, SELECTED ESSAYS ON THE CONFLICT OF LAWS. 584–628 (1963).
+For a concise critique of this approach, see PAUL SCHIFF BERMAN, GLOBAL LEGAL PLURAL-
+ISM: A JURISPRUDENCEOF LAW BEYOND BORDERS 251–52 (2012).
+94. On the principle of comparative impairment, see DIRK PULKOWSKI, THE LAW AND
+POLITICS OF INTERNATIONAL REGIME CONFLICT 333–34 (2014); see generally Baxter, supra
+note 92. R
+95. MARGARET A. YOUNG, Introduction: The Productive Friction Between Regimes, in
+REGIME INTERACTIONIN INTERNATIONAL LAW: FACING FRAGMENTATION1, 1–2 (Margaret A.
+Young ed., 2012).
+96. Id. at 23.\\jciprod01\productn\C\CIN\50-3\CIN305.txt unknown Seq: 15  7-MAR-18 12:33
+2017 Comity and International Courts and Tribunals 591
+of these areas and their conflicts, and methods with which certain agents—
+such  as  international  organisations—should engage in interaction and
+accommodation, and the basis of any such power to do so.97 What we
+must observe, in this regard, is that the function of an international court
+cannot be easily isolated from the regime to which it pertains. Their judi-
+cial process, and “the law-making that occurs contingently in litigation,”
+have implications that have bearing on the interaction between different
+regimes.98 In the search for a solution to jurisdictional conflicts, this per-
+spective must perforce be taken into account.
+3. Comity: Between Judicial Tool and Meta-Principle of Coordination
+Comity may offer a possible solution to conflicts occurring between
+international jurisdictions. As a concept, it pertains to the realm of judicial
+reasoning and behavior. As Crawford and Nevill have observed, judges
+and arbitrators owe allegiance to their jurisdictional mandate, and their
+approaches in seeking coordination—rather  than  competition—between
+different regimes might be described as a “meta-position,” or even as an
+exercise  of  imagination.99  Still,  as  the  authors  continue,  there  is  no
+“informing meta-principle” from which easy answers can be drawn.100
+Rather,  when  jurisdictional  overlaps  between  international  courts  and
+tribunals are seen as a form of regime conflict and interaction, we are left
+with the troublesome realisation that no hard and fast rules exist for their
+resolution, though concerns about legitimacy and the risk of managerial-
+ism are hard to deflect.101
+The arguments for hard rules and final arbiters are quite compelling,
+but, so far, these are desiderata that do not lie in the realm of what is
+accessible. What we do have, instead, is the understanding that conflicts
+can be otherwise managed. “A problem,” Philip Jessup wrote in his Storrs
+lectures, “may also be resolved not by the application of law (although
+equally not in violation of law) but by a process of adjustment—an extrale-
+gal or metajuridical means.”102 Comity is one such principle—or “meta-
+principle.”103 Its potential, which we attempted to unpack in the previous
+sections, is revealed by its historical evolution and continual application at
+the domestic (so to speak) level. We submit that, lacking (unlikely) hierar-
+chical solutions, comity may assist international courts and tribunals in
+mediating  jurisdictional  conflicts  between  themselves,  balancing  their
+coordination efforts with the need to provide justice in individual cases.104
+97. Id.
+98. Crawford & Nevill, supra note 85, at 250. R
+99. Id.; PHILIPPA WEBB, INTERNATIONAL JUDICIAL INTEGRATION AND FRAGMENTATION
+203–04 (2013).
+100. Crawford & Nevill, supra note 85, at 259. R
+101. MARGARET A. YOUNG, TRADING FISH, SAVING FISH: THE INTERACTIONS BETWEEN
+REGIMESIN INTERNATIONALLAW 276, 276–77 (2011).
+102. PHILIP C. JESSUP, TRANSNATIONAL LAW 6 (1956).
+103. Crawford & Nevill, supra note 85, at 243. R
+104. CRAWFORD, supra note 77, at 208. R\\jciprod01\productn\C\CIN\50-3\CIN305.txt unknown Seq: 16  7-MAR-18 12:33
+592 Cornell International Law Journal Vol.50
+Of course, “managerialism” is a risk, and the proposition that the
+degree to which judges are required to strive for the “maintenance of the
+integrity of the international legal system . . . [and] the broader idea of an
+international rule of law’ is hardly uncontested.”105 Still, there is little
+doubt that international adjudication has overcome its quasi-arbitral begin-
+nings,106 and that, when it comes to the proper and sound administration
+of justice (a concept, we should perhaps emphasise, which has deeper
+moral implications than that of “the rule of law”107), community interests
+(or something much akin to them) are at stake.108 As far as international
+courts and tribunals are concerned, judges pursue these interests the best
+way they can, through the use of shared assumptions, methodological
+tools, the responsible use of legal doctrine, and—perhaps most impor-
+tantly—with the limitations that their own profession calls for.109
+Comity does not simply respond to the hopes for coordination within
+the international judiciary—and, more broadly, the international legal sys-
+tem. It is also something that international adjudicators can and know
+how to employ in order to attain these goals.110 With this in mind, comity
+can be employed to ease other types of conflict. For example, comity could
+act as a principle informing the use by certain international tribunals of
+extrasystemic elements imported from other legal regimes, for indeed the
+use of such “outside law” is not devoid of complications and calls for a
+careful balancing of the interests at stake.111
+105. Andreas Paulus, International Adjudication, inTHE PHILOSOPHYOF INTERNATIONAL
+LAW 207, 221 (Samantha Besson & John Tasioulas eds., 2010); see generally ROSALYN
+HIGGINS, PROBLEMSAND PROCESS: INTERNATIONAL LAWAND HOW WE USE IT (1995) (detail-
+ing law and process perspective); W. Michael Reisman, ‘Case Specific Mandates’ versus
+‘Systemic Implications’: How Should Investment Tribunals Decide?: The Freshfields Arbitra-
+tion Lecture, 29 ARB. INT’L 131 (2013) (arguing that save for a few narrow exceptions
+international  investment  tribunals  should  confine  themselves  to  a  case-specific
+methodology).
+106. Paulus, supra note 105, at 223.
+107. Thomas Schultz, Against Consistency in Investment Arbitration, in THE FOUNDA-
+TIONSOF INTERNATIONAL INVESTMENT LAW: BRINGING THEORYINTO PRACTICE 297, 297–98
+(Zachary Douglas, et al. eds., 2014).
+108. On community interests, see Bruno Simma, From Bilateralism to Community
+Interest in International Law, RECUEILDES COURSDEL’ACADE´MIEDE DROIT INTERNATIONAL
+1994, at 217, 235–43 (outlining international peace and security, solidarity between
+developed and developing countries, protection of the environment, the “common heri-
+tage” concept, international concern with human rights, as community interests we
+should kept at the forefront of international law).
+109. PULKOWSKI, supra note 94; Crawford & Nevill, supra note 85, at 249; Bruno R
+Simma, Universality of International Law from the Perspective of a Practitioner, 20 EUR. J.
+INT’L. L. 265, 275–79, 289 (2009).
+110. Paul, supra note 53, at 22. R
+111. On this type of regime interaction and the implications for international govern-
+mental organizations (as a possible analogy), see YOUNG, supra note 101 at 279; see R
+generally Jos´e E. Alvarez, “Beware: Boundary Crossings”—A Critical Appraisal of Public
+Law Approaches to International Investment Law, 17 J. WORLD INV. & TRADE 171 (2016)
+(discussing different kinds of complications inherent in boundary crossing); see YOUNG,
+supra note 101, at 279. R\\jciprod01\productn\C\CIN\50-3\CIN305.txt unknown Seq: 17  7-MAR-18 12:33
+2017 Comity and International Courts and Tribunals 593
+C. An Uncertain Umpire? The Case of Competing Proceedings
+What type of relief exactly could comity provide to the problem of
+jurisdictional conflicts? Answering this question requires a more advanced
+understanding of the problem of regulation of jurisdiction in international
+adjudication. This section examines the potential of comity as an instru-
+ment to alleviate the ill effects that derive from the pendency of parallel
+proceedings in the same dispute.
+1. The Regulation of Jurisdiction: Jurisdictional Clauses and General
+Principles
+General international law does not provide for rules governing the
+jurisdiction of international courts and tribunals, but the constituting
+instruments of the latter often do. Normally, they do so indirectly, namely
+through their jurisdictional clauses. According to the classification pro-
+posed by Yuval Shany, it is possible to distinguish between exclusive juris-
+dictional clauses, barring litigation before any other forum, and non-
+exclusive jurisdictional clauses.112 Exclusive jurisdiction clauses can be
+further qualified as flexible or inflexible, depending on whether they can
+be derogated from; non-exclusive jurisdiction clauses can be unqualified or
+residual, such as Article 282 UNCLOS.113 The latter species of jurisdic-
+tional clauses may be chosen for the purpose of limiting, to some extent,
+unilateral forum shopping.114 In contrast, very few instruments include
+rules intended to coordinate multiple proceedings and, more broadly,
+mediate conflicts.115
+Some have argued that, in the absence of a hierarchical system, the
+instruments to achieve these results are to be found outside the framework
+of their own legal order.”116 The central question is whether the vacuum
+can be filled with general jurisdiction-regulating principles. One such
+principle is res judicata, a preclusion doctrine aimed at protecting the final-
+ity of the decision.117 Its applicability in international adjudication is well
+112. SHANY, supra note 12, at 180. R
+113. United Nations Convention on the Law of the Sea, Dec. 10, 1982, 1833 U.N.T.S.
+397, art. 282 (“If the States Parties which are parties to a dispute concerning the inter-
+pretation or application of this Convention have agreed, through a general, regional or
+bilateral agreement or otherwise, that such dispute shall, at the request of any party to
+the dispute, be submitted to a procedure that entails a binding decision, that procedure
+shall apply in lieu of the procedures provided for in this Part, unless the parties to the
+dispute otherwise agree.”).
+114. SHANY, supra note 12, at 202–04. R
+115. According to Shany, Article 56(7) of the African Charter (barring the admissibil-
+ity of communication from “other sources” dealing with cases “which have been settled
+by these States involved in accordance with the principles of the Charter of the United
+Nations, or the Charter of the Organization of African Unity or the provisions of the
+present Charter”) must be considered an implied res judicata clause. Id. at 225 (quoting
+African (Banjul) Charter on Human and Peoples’ Rights, June 27, 1981, 1520 U.N.T.S.
+217, 21 I.L.M. 58 (1982).
+116. MCLACHLAN, supra note 68, at 346. R
+117. Waibel, supra note 88, at 522. R\\jciprod01\productn\C\CIN\50-3\CIN305.txt unknown Seq: 18  7-MAR-18 12:33
+594 Cornell International Law Journal Vol.50
+accepted,118 though recent judicial practice demonstrates that there still is
+some degree of uncertainty as to its practical operation.119 There is ample
+agreement that for res judicata to apply strict conditions must be satisfied:
+these are normally reduced to a “triple identity test,” which is intended to
+ascertain that persona, petitum, and causa petendi of the multiple disputes
+are in fact the same.120 In international adjudication, this is easier said
+than done. Due to a plethora of different treaty regimes, jurisdiction and
+cause of action are intimately linked and meeting the conditions for the
+operation of the principle is unlikely.121 Further, especially in investment
+arbitration, it is quite possible that multiple arbitrations will be initiated by
+formally different entities.122 As a consequence, there is a renewed interest
+in less restrictive doctrine such as issue estoppel.123
+While res judicata is intended to shield from the undesired conse-
+quences of sequential proceedings, lis alibi pendens deals with parallel pro-
+ceedings, giving priority to the ones first established.124 Compared to res
+judicata, its applicability in international adjudication does not enjoy the
+same widespread support.125 Overall, the number of cases involving the
+principle has been comparatively low, and no tribunal has authoritatively
+pronounced on the issue.126 Further, the status of lis pendens as a general
+principle of law has been disputed on the grounds that it is mainly a civil
+law doctrine,127 and, it too requires the satisfaction of a strict triple iden-
+tity test.128
+118. Application of the Convention on the Prevention and Punishment of the Crime
+of Genocide (Bosnia and Herzegovina v. Serbia and Montenegro) 2007 I.C.J. Rep. 43, at
+89–93, paras. 115–20 (Feb. 26); see also BIN CHENG, GENERAL PRINCIPLES OF LAW AS
+APPLIED BY INTERNATIONAL COURTS AND TRIBUNALS 336 (1994); Shany, supra note 13, at R
+245; Pauwelyn & Salles, supra note 10, at 102; August Reinisch, The Use and Limits of R
+Res Judicata and Lis Pendens as Procedural Tools to Avoid Conflicting Dispute Settlement
+Outcomes, 3 LAW & PRAC. INT’L CTS. & TRIB. 37, 44–45 (2004).
+119. For example, see Question of the Delimitation of the Continental Shelf between
+Nicaragua and Colombia beyond 200 nautical miles from the Nicaraguan Coast (Nicar.
+v. Colom.), Judgment, 17 (Mar. 2016), available at http://www.icj-cij.org/files/case-
+related/154/154-20160317-JUD-01-00-EN.pdf [https://perma.cc/BYZ2-9YFF].
+120. Factory at Chorzo´w (Ger. v. Pol.) 1927 PCIJ (ser. A) No. 13, 4, at 23 (dissenting
+opinion of Ehrlich, J.); Pauwelyn & Salles, supra note 10, at 103. R
+121. Pauwelyn & Salles, supra note 10, at 104. R
+122. Waibel, supra note 88, at 523. R
+123. Id.
+124. Id. at 523–25.
+125. Reinisch, supra note 118, at 44–45 (justifying the principle as a corollary of res R
+judicata); seeMCLACHLAN, supra note 7, at 57–58 (arguing that the principle should be
+applied, and that it does not import a strict “first seized” requirement). But see CRAW-
+FORD, supra note 77, at 384; SHANY, supra note 12, at 220 (arguing that the status of the R
+principle is still unclear).
+126. MCLACHLAN, supra note 68, at 180–87; CRAWFORD, supra note 77, at 384. See R
+generally Certain German Interests in Polish Upper Silesia, 1925 P.C.I.J. (ser. A) No. 6
+(discussing, but failing to pronounce on the issue because the “triple identity test” was
+not satisfied).
+127. Gilles Cuniberti, Parallel Litigation and Foreign Investment Dispute Settlement, 21
+ICSID REV. FOREIGN INV. L.J. 381, 383 (2006).
+128. Pauwelyn & Salles, supra note 10, at 110. R\\jciprod01\productn\C\CIN\50-3\CIN305.txt unknown Seq: 19  7-MAR-18 12:33
+2017 Comity and International Courts and Tribunals 595
+Moreover, while the application of res judicata enjoys virtually univer-
+sal support as a matter of policy, the use of lis pendens has, at least on
+occasion, been criticised. First, it has been observed that the simple fact
+that a tribunal has already been given jurisdiction does not constitute a
+guarantee that a dispute will be settled.129 Second, it has been argued that
+the increase in litigation costs is a minor and, in any event, secondary issue
+in international adjudication.130 This proposition is not entirely convinc-
+ing, and does not take into account other adverse effects of duplicative liti-
+gation on any given dispute.131 Third, and perhaps more interesting, is the
+contention that the pendency of parallel proceedings could be an incentive
+for proverbially slow tribunals to issue their judgment first, a result that
+can only be achieved if res judicata applies and lis alibi pendens does not
+(encouraging a “race to ruling,” rather than a race to court).132
+2. On the Exercise of Jurisdiction: Comity and Inherent Powers
+In the current international dispute settlement scenario, comity has
+appeal as a technique for the management of jurisdictional conflicts arising
+from the commencement of multiple proceedings before different courts or
+tribunals.
+When domestic courts employ comity, they do so by dismissing or
+staying proceedings; thus, they adopt a decision not to exercise a jurisdic-
+tion that they indubitably have.133 The resolution of conflicts concerning
+the allocation of regulatory (or jurisdictional) authority tends to take this
+form, demanding the surrender of legal (or judicial) authority from one
+legal system or regime to another.134 The same applies in international
+adjudication, where coordinating efforts have been broadly labelled as
+exercises in avoidance and temporization.135
+Judicial discretion of this kind has faced comparatively few challenges
+at the domestic level, at least in common law countries, where it is more
+characteristic; doubts, as to the authority of a court of general jurisdiction,
+remain the exception.136 Things tend to be different for international
+tribunals: do they or do they not have the power to stay or dismiss proceed-
+129. Factory at Chorzo´w (Ger. v. Pol.), Judgment, 1927 P.C.I.J. (ser. A) No. 9, 30 (July
+26); Cuniberti, supra note 129, at 143.
+130. Pauwelyn & Salles, supra note 10, at 108. R
+131. Eyal Benvenisti & George W. Downs, The Empire’s New Clothes: Political Economy
+and the Fragmentation of International Law, STAN. L. REV. 595, 595–98 (2007) (arguing
+the creation of a plurality of fora along “narrow functionalist lines” and their overlapping
+authority is detrimental to weaker states).
+132. Pauwelyn & Salles, supra note 10, at 109; Waibel, supra note 88, at 518. R
+133. Donald Earl Childress III, Comity as Conflict: Resituating International Comity as
+Conflict of Laws, 44 U.C. DAVIS L. REV. 11, 47–48 (2010).
+134. A. Pillet, Th´eorie Continentale des Conflits de Lois, 2 RECUEIL DES COURS DE
+L’ACADE´MIE DE DROIT INTERNATIONAL 451, 472 (1924); see PULKOWSKI, supra note 94, at
+330–31.
+135. Jeffrey L Dunoff, A New Approach to Regime Interaction, inREGIME INTERACTIONIN
+INTERNATIONAL LAW: FACING FRAGMENTATION 136, 156 (Margaret A. Young ed., 2012).
+136. Frederick Schauer, The Dilemma of Ignorance: PGA Tour, Inc. v. Casey Martin,
+2001 SUP. CT. REV. 267, 268–69 (2001).\\jciprod01\productn\C\CIN\50-3\CIN305.txt unknown Seq: 20  7-MAR-18 12:33
+596 Cornell International Law Journal Vol.50
+ings? To be sure, it is possible for such a power to be provided for
+expressly.137 However, the constitutive instruments of international courts
+and tribunals are seldom exhaustive and, in order to fill the gap, reliance
+has been placed on alternative sources of procedural rules and the more
+controversial concept of “inherent power.”138
+One possible solution is to qualify comity as a principle of interna-
+tional law139 or a general principle of law in the sense of Article 38(1)(c) of
+the Statute of the International Court of Justice.140 Debates as to the suita-
+bility of such principles to constitute a source of procedural law have been
+largely overcome, and the proposition that that “no sharp distinction”
+exists in international law between substantive and adjectival aspects is
+relatively uncontroversial.141 It must be pointed out, however, that the
+scarcity of practice does not appear to warrant the conclusion that comity
+fits squarely in the first category. By the same token, the fact that the prin-
+ciple of comity does not enjoy universal acceptance at the domestic level
+seems to militate against it inclusion in the second.142
+A preferable alternative is to find the source of discretion not to exer-
+cise jurisdiction in the inherent powers of international courts and tribu-
+nals.143 As Judge Higgins observed in her separate opinion in the Use of
+Force cases, the inherent powers of a tribunal include that of not exercising
+a jurisdiction that it has.144 Specifically, such powers are a corollary of the
+judicial character of the tribunal and descend from the need to protect the
+integrity of the judicial process.145 Their exercise is thus to be considered
+possible, if exceptional.146 In other words, in this approach, inherent pow-
+137. SHANY, supra note 74, at 172.
+138. See Chester Brown, The Inherent Powers of International Courts and Tribunals, 76
+BRIT. Y.B. INT’L L. 195, 198 (2006).
+139. We accept the definition employed by Crawford: “certain logical propositions
+underlying judicial reasoning on the basis of existing international law.” SeeCRAWFORD,
+supra note 21, at 37. R
+140. See Statute of the International Court of Justice, art. 38, para. 1; SHANY, supra
+note 74, at 261. R
+141. BROWN, supra note 12, at 37; SHABTAI ROSENNE, 1 THE LAW AND PRACTICE OF THE R
+INTERNATIONAL COURT 486 (1965).
+142. SHANY, supra note 74, at 172. This result is not surprising: while it is accepted R
+that general principles of law may be sources of procedure, very few of them are applied
+extensively at the national level. See BROWN, supra note 140, at 198–205; see generally
+CHENG, supra note 120 (discussing general principles of law).
+143. CRAWFORD, supra note 21, at 40. R
+144. Legality of Use of Force (Serb. & Montenegro v. Belg.), Separate Opinion of
+Judge Higgins, 2004 I.C.J. para. 11 (Dec. 15) [hereinafter Use of Force], (discussing the
+possibility of summarily dismissing abusive claims). See Brown, supra note 12, at 249.
+Contra Northern Cameroons (Cameroon v. U.K.), Judgment, 1963 I.C.J. 15, 29 (Dec. 2)
+(“[T]he Court is not compelled in every case to exercise that jurisdiction. There are
+inherent limitations on the exercise of the judicial function which the Court, as a court
+of justice, can never ignore . . . . The Court itself, and not the parties, must be the
+guardian of the Court’s judicial integrity.”).
+145. See Use of Force, supra note 144, at para. 12.
+146. Id. at para.12. For the Court to discharge itself from carrying out the primary
+obligation of deciding disputes in accordance with international law “must be consid-
+ered as highly exceptional and a step to be taken only when the most cogent considera-
+tions of judicial propriety so require.” Caroline Henckels, Overcoming Jurisdictional\\jciprod01\productn\C\CIN\50-3\CIN305.txt unknown Seq: 21  7-MAR-18 12:33
+2017 Comity and International Courts and Tribunals 597
+ers must be justified on the basis of the function of the international court
+concerned—and, arguably, of the general function of international adjudi-
+cation. This last point warrants further consideration as it implies the
+question of whether the role of international courts and tribunals should
+be restricted to the settlement of the particular dispute between the parties
+or have wider implications.147
+The “inherent powers” approach is advantageous for two main rea-
+sons: first, it allows rejecting the misconstruction of comity as a jurisdic-
+tional rule and qualifying it as a set of principles that should inform the
+exercise of jurisdiction.148 Second, it allows dispensing with an express
+provision of the power to stay or dismiss proceedings in the constitutive
+instrument of the tribunal. Nevertheless, there are limits to its operation.
+In general, a provision or a effect of either the constitutive instrument as a
+whole or the very function of an international tribunal could exclude the
+existence of an inherent power.149 It is doubtful, for example, whether an
+exclusive jurisdictional clause could warrant the exercise of such discre-
+tion. By the same token, it questionable whether certain dispute settlement
+bodies possess the discretion to stay proceedings.
+The case of the WTO dispute settlement mechanism can provide a
+useful illustration of the problem. Some have questioned the existence of
+such discretion for the panels for different reasons. For example, some
+have contended that they lack inherent powers due to the atypical nature of
+such bodies: a power to suspend proceedings would thus have to be based
+on different grounds.150 Others have argued for the exclusion of a power
+to stay proceedings on the grounds of the strict procedures and timeframes
+the  panels  must  respect.151  Finally,  in  Mexico–Soft  Drinks  the  Panel
+rejected Mexico’s request not to exercise its jurisdiction maintaining that it
+did not have “discretion to decide whether or not to exercise [it] in a case
+Isolationism at the WTO–FTA Nexus: A Potential Approach for the WTO, 19 EUR. J. INT’L. L.
+571, 585 (2008) (quoting Judge Higgins reference to the Court’s dictum, in Nuclear
+Tests (Austl. v. Fr.) 1974 I.C.J., para. 22).
+147. Henckels, supra note 146, at 585.
+148. Laurence Boisson de Chazournes, The Principle of Comp´etence-Comp´etence in
+International Adjudication, inLOOKINGTOTHE FUTURE: ESSAYSON INTERNATIONAL LAWIN
+HONOR OF W. MICHAEL REISMAN, 1059 (Mahnoush H. Arsanjani & Jacob Cogan eds.,
+2011).
+149. Brown, supra note 12, at 91.
+150. FRIEDL WEISS, THE WTO DISPUTE SETTLEMENT SYSTEM, 1995–2003, at 885 (Fede-
+rico Ortino & Ernst-Ulrich Petersmann eds., 2004). According to Bartels, the panels or
+the appellate body are not plagued with a complete lack of power to regulate their pro-
+ceedings, but still have to base its decision on a positive grant of authority under the
+World Trade Organization (WTO) Dispute Settlement Understanding (DSU). He con-
+cludes that it would be possible for a panel or the Appellate Body to suspend its proceed-
+ings on the basis of the Working Procedures they can adopt under Article 12.1 (or 17.9,
+for the Appellate Body) DSU irrespective of the consent of the parties. As the Working
+Procedures are adopted for the purpose of hearing a particular case, it would not be
+possible to use them to decline jurisdiction altogether, but the result of a suspension of
+proceedings might be attainable. Lorand Bartels, The Separation of Powers in the WTO:
+How to Avoid Judicial Activism, 53 INT’L COMP. L.Q. 861, 862 (2004).
+151. SHANY, supra note 74, at 265. R\\jciprod01\productn\C\CIN\50-3\CIN305.txt unknown Seq: 22  7-MAR-18 12:33
+598 Cornell International Law Journal Vol.50
+properly before it.”152 The Appellate Body upheld the approach followed
+by the Panel in Mexico–Soft Drinks, arguing that the Panel would not have
+fulfilled its mandate of making “an objective assessment of the matter
+before it, including an objective assessment of the facts of the case and the
+applicability of and conformity with the relevant covered agreements” if it
+had declined to exercise a validly established jurisdiction.153 According to
+Caroline Henckels, such an approach is rooted in “arid textualism” and
+might be overcome by paying due regard to the purpose of the WTO dis-
+pute settlement mechanism.154 Comity, she further argues, could thus be
+used upon meeting the high threshold of “an inextricable connection to an
+antecedent or concurrent dispute under another trade instrument . . . bear-
+ing in mind the need to ensure stability and predictability in the interna-
+tional trading system.”155 Such a conclusion seems correct in principle.
+What is more, it is also buttressed by the recent practice of some interna-
+tional courts and tribunals, which have demonstrated an increasing will-
+ingness to suspend proceedings before them.156 However, the extent to
+which other tribunals will be willing to do so is still unknown.
+3. The Potential of Comity: Advantages and Drawbacks
+The application of the doctrine of comity has a number of advantages.
+First of all, as a general abstention doctrine, it does not need to be provided
+for expressly in the constitutive instrument of the tribunal concerned—pro-
+vided that the tribunal possesses the powers necessary to exercise comity it
+constitutes a readily available remedy against the dangers of abusive litiga-
+tion.157 Second, and more attractive, its flexible character allows the deci-
+sion-maker to defer the dispute to the jurisdiction of other tribunals in a
+number of cases, without the need to satisfy the strict requirements of
+either res judicata, lis alibi pendens and, where similarities apply, electa una
+via provisions. Third, comity is predicated on the postulate that the tribu-
+nal exercising it has jurisdiction, in that it is not necessarily different from
+the principles considered above, which are more accurately classified as
+concerning the admissibility of claims.158 But, one might make the argu-
+ment that res judicata and lis alibi pendens are hard-edged principles. Spe-
+cifically, they are preclusion doctrines; as a consequence, as soon as the
+requirements for their operation are met, they bar the adjudicator from
+entertaining the dispute.159 In contrast, the doctrine of comity simply
+152. WTO, Panel Report, Mexico—Tax Measures on Soft Drinks and Other Beverages,
+paras. 7.4–7.18, WT/DS308/R, Oct. 7, 2005.
+153. Panel Report, Tax Measures on Soft Drinks and Other Beverages, paras. 51–53,
+WTO Doc. WT/DS308/AB/R (adopted Mar. 6, 2006).
+154. Henckels, supra note 146, at 589–95.
+155. Id. at 595, 597.
+156. BROWN, supra note 12, at 250–52. R
+157. SHANY, supra note 12, at 74. R
+158. Pauwelyn & Salles, supra note 10, at 92–93; Gretta L. Walters, Fitting a Square R
+Peg into a Round Hole: Do Res Judicata Challenges in International Arbitration Constitute
+Jurisdictional or Admissibility Problems? 29 J. INT’L. ARB. 651 (2012).
+159. Pauwelyn & Salles, supra note 10, at 83. R\\jciprod01\productn\C\CIN\50-3\CIN305.txt unknown Seq: 23  7-MAR-18 12:33
+2017 Comity and International Courts and Tribunals 599
+results in a tribunal using its discretion and refraining from exercising a
+jurisdiction it has when hearing the case would not be appropriate. As a
+consequence, it does not deprive the tribunal of its power to hear the dis-
+pute when the reasons not to do so (such as, for example, simultaneously
+pending proceedings), albeit formally compelling, prove shaky as a matter
+of substance.
+Using comity is not entirely unproblematic: its operation is subject to
+the tribunal exercising discretion, an idea that many constituencies could
+find problematic when associated with adjudication. From the parties’
+perspective, preclusion arguments may indeed be more attractive: a tribu-
+nal may have variegated reasons to be hesitant in declining to exercise its
+jurisdiction. Its members may simply be convinced that they do not have
+the power to make this decision, and err on the side of caution and give the
+parties their proverbial “day in court.” Reluctance of this kind may also
+occur even if there is no legal impediment: the conduct of the international
+judiciary, just as of any body of individuals, is not only affected by consid-
+erations of justice and the parties’ interests. For example, as Cesare P. R.
+Romano points out, permanent tribunals could be reluctant to defer a dis-
+pute to other judicial bodies due to the fear that doing so could negatively
+affect their status in the area of international dispute settlement and the
+problematic correlation between caseload and funding.160 In contrast, the
+members of an arbitral tribunal can be said to have, from a law and eco-
+nomics perspective, a vested interest in making the dispute reach the merits
+stage. It makes sense for them to increase the demand for arbitration.161
+And, of course, even then mistakes may be made. For example, in the
+MOX Plant case, the Annex VII Tribunal relied on comity to avoid a juris-
+dictional conflict, and, insofar as it based the decision on the virtually cer-
+tain involvement of the European Court of Justice, its approach seems to be
+informed by a correct, if overly prudent and deferential, understanding of
+the principle.162 But, as Campbell McLachlan has observed, the tribunal
+adopted its decision before the European Court, which undoubtedly has
+the competence to decide on its jurisdiction, was even seized of the dis-
+pute.163 It is thus arguable that, had the tribunal decided otherwise, its
+exercise of jurisdiction would not have infringed comity as no one had
+initiated proceedings; perhaps, most importantly—the risk of leaving Ire-
+land without any proceedings against the United Kingdom was a real
+one.164
+160. See Guillaume, supra note 72, at 391; Romano, supra note 71, at 80. R
+161. See Thomas Schultz, Arbitral Decision-Making: Legal Realism and Law & Econom-
+ics, 6 J. INT’L. DISP. SETTLEMENT. 231, 241–42 (2015).
+162. MOX Plant Case (Order No. 4) (Perm. Ct. Arb. June 24, 2003).
+163. MCLACHLAN, supra note 68, at 334. R
+164. The argument has also been made that, in affirming its exclusive jurisdiction,
+the European Court of Justice de facto negated that the Annex VII Tribunal could rule on
+its competence. MCLACHLAN, supra note 68, at 334. For a different narrative, against the R
+idea that the European Court proceeded some sort of usurpation, see Crawford & Nev-
+ill, supra note 85, at 254. R\\jciprod01\productn\C\CIN\50-3\CIN305.txt unknown Seq: 24  7-MAR-18 12:33
+600 Cornell International Law Journal Vol.50
+III. Mentions of Comity by International Courts and Tribunals
+The foregoing sections have sought to clarify, at a theoretical level, the
+potential and shortcomings of the use of comity in international adjudica-
+tion. In this section, we look more empirically at cases, which use comity.
+A. Comity as Opposed to “Legal Obligations”
+First of all, in some of the cases, international courts and tribunals
+have employed the notion of comity to clarify the legal nature of an obliga-
+tion. For example, in Fisheries Jurisdiction, Judge Dillard appended a sepa-
+rate opinion in which he argued “in practice States accord deference to the
+twelve-mile limit as a matter of legal obligation and not merely as a matter
+of reciprocal tolerance or comity.”165
+In Nuclear Tests (Australia v. France) the concept was only mentioned
+in passing in Judge Barwick’s dissent, in which he criticized the view that
+the dispute at issue was only a political difference “as to whether France
+ought or ought not in comity to cease to test in the atmosphere of the South
+Pacific.”166 In his opinion, there was a legal dispute and that the Court’s
+finding that Australia application had no object was incorrect.167
+Again, in Avena, the issue of comity was raised in Mexico’s argument
+at the provisional measures stage.168 On the basis of a declaration by the
+President of the United States to the effect that the nation will “discharge
+its international obligations under the decision of the International Court
+of Justice . . . in accordance with general principles of comity.”169 Mexico
+argued that the United States’ reference to comity the made clear that it did
+not believe to have any legal obligation.170 The Court did not address the
+issue.171 Finally, in Jurisdictional  Immunities, the Court referred to the
+concept of comity to observe that the parties were in agreement as to the
+applicable law and, in particular, they agreed that “immunity is governed
+by international law and is not a mere matter of comity.”172
+The European Court of Human Rights espoused a similar interpreta-
+tion of the term in Mamatkulov.173 In this case, the Court observed that
+previous practice had described the practice of complying with interim
+165. Fisheries Jurisdiction (U.K. v. Ice.) Separate Opinion of Judge Dillard, 1974 I.C.J.
+3, 58 (July 25).
+166. Nuclear Tests (Austl. v. Fr.), Judgment, 1974 I.C.J. 253, 446 (Dec. 20) (Barwick,
+J. dissenting).
+167. Id.
+168. Request for Interpretation of the Judgment of 31 March 2004 in the Case Con-
+cerning Avena and Other Mexican Nationals (Mex. v. U.S.), Judgement, 2009 I.C.J.311
+(Jan. 19) [hereinafter Request for Interpretation]. See also Request for Interpretation,
+(Judge Buergenthal dissenting).
+169. I.C.J., Written Observations of the United States of America on the Application
+for Interpretation of the Judgement of 31 March 2004 in the Case Concerning Avena and
+Other Mexican Nationals (Mex. v. U.S.) (Aug. 29, 2008), at 1–2.
+170. Id.
+171. See generally Request for Interpretation, supra note 168. R
+172. Jurisdictional Immunities of the State (Ger. v. It.), Judgment, 2012 I.C.J. 99 para.
+53 (Feb. 3).
+173. Mamatkulov v. Turkey, 2005-I Eur. Ct. H.R. 293, 349.\\jciprod01\productn\C\CIN\50-3\CIN305.txt unknown Seq: 25  7-MAR-18 12:33
+2017 Comity and International Courts and Tribunals 601
+measures as “a matter of expediency and comity.”174
+B. Comity as Non-Interference
+In a second group of cases, references to comity were made in connec-
+tion with non-interference arguments.
+The principle was referred to in Loewen as the source of the require-
+ment of “continuous nationality.”175 According to the tribunal, the princi-
+ple arose as a consequence of the fact that “[i]t was not normally the
+business of one nation to be interfering into the manner in which another
+nation handled its internal commerce.”176
+Two cases of the Court of Justice of the European Communities con-
+cerned issues of regulation of competition: the first, Ahlstro¨m v. Commis-
+sion, was part of the joined “wood pulp” cases.177 The comity argument
+was raised by a number of Canadian applicants contended that regulating
+their  conduct—relating  to  activities  performed  outside  of,  but  having
+effects within Europe—the Commission had “infringed Canada’s sover-
+eignty and thus breached the principle of international comity.”178 The
+Court quickly dismissed the argument, stating that it amounted to ques-
+tioning the Community’s jurisdiction to apply its competition rules.179
+IBM v. Commission concerned entirely similar issues, the main difference
+being that the conduct of the claimant was not only performed in another
+jurisdiction (the United States), but also the subject of legal proceedings
+there.180 The Court did not address the claim, and dismissed it on other
+grounds.181 To this day, the Court has not modified its approach, and a
+recent decision by the General Court referring to Ahlstro¨m reveals that the
+timeworn dictum withstands the test of time.182
+C. Comity and the Management of Multiple Proceedings
+In a third category of cases, references to comity concerned the coordi-
+nation of multiple proceedings relating to the same dispute pending before
+different national or international judicial bodies.
+Perhaps the best-known instance of the use of comity was considered
+in relation to parallel proceedings is the early ICSID case Southern Pacific
+174. Id.
+175. Loewen Group Inc. v. United States, ICSID Case No. ARB (AF)/98/3, Award,
+para. 230 (June 26, 2003).
+176. Id.
+177. Joined Cases C-89/85, C-104/85, C-114/85, C-116/85, C-117/85, C-125–29/85
+(Wood Pulp Cases), Ahlstro¨m Osakeyhtio¨ v. Commission of European Communities,
+1993 I-01307 ECR 1307.
+178. Id. at para. 524.
+179. Id.
+180. Case C-60/81, IBM v. Comm’n, [1981] E.C.R. 2639, 2650.
+181. Id. at 2655.
+182. Case T-406/08, Industries chemiques du fluor (ICF) v. Comm’n [2013] E.C.R.
+00000  (June  18),  http://curia.europa.eu/juris/celex.jsf?celex=62008TJ0406&lang1
+=en&type=TXT&ancre=  [https://perma.cc/6Q87-F5MB]; Wallishauser v. Austria, App
+No. 156/04, Eur. Ct. H.R. (July 17, 2012), http://hudoc.echr.coe.int/eng?i=001-112194
+[https://perma.cc/4CC7-GTRU].\\jciprod01\productn\C\CIN\50-3\CIN305.txt unknown Seq: 26  7-MAR-18 12:33
+602 Cornell International Law Journal Vol.50
+Properties.183 The dispute at issue had been referred to arbitration before
+the International Chamber of Commerce and only later ICSID proceedings
+were initiated.184 As domestic proceedings concerning the arbitration
+clause were pending before the French Cour de Cassation, the Tribunal was
+faced with the request to decline its jurisdiction.185 Eventually, the tribu-
+nal stayed its proceedings, but went to great lengths to clarify that, it was
+doing so “in the interest of international judicial order, in its discretion and
+as a matter of comity.”186 In its view, there was no rule of international
+law preventing two tribunals whose jurisdictions extended to the same dis-
+pute from exercising such jurisdiction.187
+Questions relating to comity were considered again in the MOX Plant
+case.188 There the Permanent Court of Arbitration (PCA) Annex VII Tribu-
+nal relied on “considerations of mutual respect and comity which should
+prevail between judicial institutions” to justify the suspension of its pro-
+ceedings in the face of a virtually certain involvement of the European
+Court of Justice.189 Such an occurrence would have excluded the Tribu-
+nal’s jurisdiction under Article 282 of the UNCLOS.190 Comity was also
+mentioned in the separate opinion appended by Judge Treves to the Order
+on Provisional Measures issued by the International Tribunal for the Law
+of the Sea in the same dispute.191 Treves regretted that a discussion on the
+existence and content “of a customary law rule or of a general principle
+concerning the consequences of litispendence, as well as considerations of
+economy of legal activity and of comity between courts and tribunals’ had
+not been included in the order.”192
+Comity arguments were also raised in Itera International Energy.193
+The respondent maintained that the claimant was trying to bring before the
+ICSID Tribunal, under the cloak of ancillary claims, a wholly separate dis-
+pute, which was already the subject of separate proceedings before the
+International Commercial Arbitration Court of the Russian Chamber of
+Commerce.194 These proceedings had been initiated by the claimant and
+had been going on for three years.195 According to the respondent, the
+Tribunal’s dismissal of these claims would have avoided potentially con-
+flicting decisions and served the interests of “efficiency and comity.”196
+183. Southern Pacific Properties (Middle East) Ltd. v. Arab Republic of Egypt, Deci-
+sion on Jurisdiction, ICSID Case No ARB/84/3 (Nov. 1985).
+184. Id.
+185. Id.
+186. Id.
+187. Id.
+188. MOX Plant Case (Order No. 3) (Perm. Ct. Arb. June 24, 2003).
+189. Id.
+190. Id.
+191. MOX Plant Case, Separate Opinion of Judge Treves.
+192. Id. at para. 5.
+193. Itera International Energy LLC & Itera Group NV v. Georgia, Admissibility of
+Ancillary Claims, ICSID Case No ARB/08/7 (Dec. 3, 2009).
+194. Id.
+195. Id.
+196. Id. at para. 81.\\jciprod01\productn\C\CIN\50-3\CIN305.txt unknown Seq: 27  7-MAR-18 12:33
+2017 Comity and International Courts and Tribunals 603
+Eventually, the claims were not found to arise from the same dispute and
+the Tribunal did not address the issue of comity.197
+The issue of comity was raised again in Achmea.198 The European
+Commission had submitted written observations to propose a stay of the
+PCA proceedings in order to avoid a potential conflict between its decision
+and an ensuing ECJ ruling.199 It suggested that the PCA adopted the same
+approach embraced in MOX Plant, where the arbitral tribunal had con-
+cluded that “considerations of mutual respect and comity” warranted a
+stay of proceedings. According to the Commission, such considerations
+formed “part of the general principles of law that the Tribunal must apply
+by virtue of Article 8(6) of the [Bilateral Investment Treaty].”200 Ulti-
+mately, the Tribunal concluded that while the it wished to organize its pro-
+ceedings “with full regard for considerations of mutual respect and comity
+as regards other courts and institutions” it did not consider the questions
+at issue “so far coextensive with the claims in the present case” to warrant a
+suspension of the proceedings.201 Yet, the tribunal left open the possibility
+of a later suspension if it were to become clear, “that the relationship
+between the two sets of proceedings is so close as to be a cause of procedu-
+ral unfairness or serious inefficiency.”202
+Finally, questions concerning comity and the management of multiple
+proceedings  were  discussed,  rather  thoroughly,  in  British  Caribbean
+Bank.203 In that case, the Respondent invoked the precedents of Southern
+Pacific Properties and MOX Plant to argue that, when parallel proceedings
+are pending, a tribunal may “in its discretion and as a matter of comity”
+stay the exercise of its jurisdiction.204 The argument was accepted as a
+matter of principle, and the Tribunal admitted that it had “a measure of
+discretion with respect to the timing and conduct of the arbitration and
+that municipal judicial proceedings may sometimes need to be taken into
+account in the exercise of international comity.”205 However, the Tribunal
+also observed that any such discretion “must be carefully exercised,” for to
+do otherwise would have amounted to “[permitting] comity to frustrate a
+claimant’s right to the arbitral forum and, potentially, to the relief offered
+by the bilateral investment treaty under which the arbitration proceedings
+were commenced.”206 In this respect, the Tribunal observed the situation
+in the case at issue was entirely different from the precedent cited, as a stay
+would not have been motivated by either an exclusive jurisdictional clause
+197. Id. at para. 100.
+198. Achmea B.V. v. The Slovak Republic, UNCITRAL, Case No. 2008-13 (Perm. Ct.
+Arb. 2008).
+199. Id. at paras. 148–50.
+200. Id. at paras. 195–96.
+201. Id. at para. 292.
+202. Id.
+203. British Caribbean Bank Limited (Turks & Caicos) v. Gov’t of Belize, PCA Case
+Repository No. 2010-18 paras. 179, 187 (Perm. Ct. Arb. 2014).
+204. Id. at para. 179.
+205. Id. at para. 187.
+206. Id.\\jciprod01\productn\C\CIN\50-3\CIN305.txt unknown Seq: 28  7-MAR-18 12:33
+604 Cornell International Law Journal Vol.50
+included in a contract (as in Socie´t´e Ge´n´erale de Surveillance (“SGS”) or
+the exclusive jurisdiction vested in a certain forum by a treaty.207 What is
+more, its determinations did not depend from the result of any action
+before the domestic court, and, even then, none were currently pending.208
+D. Comity as Respect and Recognition
+International juridical bodies have also relied on comity in order to
+assist their reasoning about the respect to be granted to what we may
+broadly refer to as the regulatory space of states: what faith and credit
+should be accorded to states regarding their own conduct? What are the
+appropriate evidential weight, evidential requirements, and standards of
+review for the conduct of states? Four cases point the way.
+In Soufraki, an investment arbitration, a reference to comity appears in
+Omar Nabulsi’s dissenting opinion.209 The question concerned certifi-
+cates of nationality issued by the Italian government.210 According to
+Nabulsi, the tribunal had the power to make determinations of nationality,
+but these had to be made in accordance with the proper law, which was, in
+the case at issue, Italian law.211 In his view, “The Tribunal’s application of
+rules other than the substantive rules of Italian law would be a manifest
+excess of power.”212 Nabulsi went on to ask whether the “Act of State”
+doctrine applied to the issue.213 This would have required that the tribu-
+nal “abstain[s] from inquiring into the validity of acts of the government of
+another country,” namely the certificates of nationality.214 He answered
+the question in the negative, finding that the doctrine did not apply to
+international tribunals whose jurisdiction depends on the parties’ nation-
+ality.215 So the power of the tribunal to go beyond official certificates was
+not up for debate.216 Yet, and this is the key point, he maintained that the
+concept of “comity” required that “international tribunals should accord
+respect to official certificates by treating them as “prima facie evidence.”217
+A similar reference to comity and evidence, though dealing with a
+qualitatively different issue, was made in Tokios Tokel¨es (also an investment
+arbitration).218 The tribunal held that, when addressing the issue of alle-
+gations made against persons or bodies “in a position of [state] authority,”
+evidentiary requirements could not be “heightened purely on the grounds
+of deference or comity or otherwise.”219
+207. Id. at para. 188.
+208. Id. at para. 189.
+209. Soufraki v. United Arab Emirates, ICSID Case No. ARB/02/7, Separate Opinion
+and Statement of Dissent by Omar Nabulsi (June 5, 2007).
+210. See id. at para. 36.
+211. See id. at para. 51.
+212. Id. at para. 62.
+213. See id. at 84.
+214. Id.
+215. See id.
+216. See id.
+217. Id.
+218. Tokios Tokele¨s v. Ukraine, ICSID Case No. ARB/02/18, Award (July 26, 2007).
+219. Id. at para. 124.\\jciprod01\productn\C\CIN\50-3\CIN305.txt unknown Seq: 29  7-MAR-18 12:33
+2017 Comity and International Courts and Tribunals 605
+In CCL, a commercial arbitration decided by a Stockholm Chamber of
+Commerce Tribunal, the issue of comity was raised with reference to the
+possibility of reviewing the conduct of a foreign state.220 The principle
+was invoked by the respondent, who argued that “as a matter of interna-
+tional comity” the Tribunal should have been hesitant to review the acts of
+Kazakhstan in its sovereign and judicial capacity, acting to enforce its laws
+against its own government agency, absent a blatant abuse of power, which
+clearly is not the case.221 The Tribunal “should at least give the sovereign,
+non-commercial acts of Kazakhstan the deference that comity requires.”222
+The claimant was lucky enough that comity was such an ambiguous con-
+cept, shrouded in misunderstandings, rarely if ever seriously examined—a
+situation explained, as we may recall from the introduction to this Article,
+by lawyers’ generally dismissive attitude for the concept. Hence the claim-
+ant could safely argue that comity was a public international law concept
+referring to “non-binding rules of politeness, convenience and goodwill
+observed by sovereign states in their mutual dealings.”223 A tribunal not
+being a sovereignty state, it followed that the reference to comity was mis-
+placed.224 The Tribunal tagged along, holding that the concept of comity
+had no applicability in arbitration.225 Further, it stated that it had not
+been shown that “such a legal principle is part of any known laws or rules
+concerning  international  commercial  arbitration,  including  Swedish  or
+Kazakh arbitration law.”226 It thus concluded that there was no legal basis
+for it to abstain from reviewing the acts of the respondent solely because it
+was a sovereign state and that comity was not, under the arbitration clause,
+a bar to the exercise of jurisdiction.227
+While less straightforward, the reference to comity in the Second Pro-
+cedural Order in ADF can also be included under this heading.228 In the
+decision, concerning the place of arbitration, the Tribunal relayed the
+United States argument voicing its commitment to “facilitating interna-
+tional  arbitration,”  and  considered  the  approach  of  the  United  States
+Supreme Court on the matter.229 In particular, the Tribunal relied on the
+deferential approach epitomised in Mitsubishi v Soler, which we discussed
+supra, I B. 3.230
+A comity argument was again raised by the respondent state in Rail-
+220. CCL v. Kazakhstan, SCC Case No. 122/2001, 1 SIAR 123, Jurisdictional Award
+(Jan. 1, 2003).
+221. Id. at para. 138.
+222. Id.
+223. Id.
+224. See id.
+225. See id.
+226. Id.
+227. See id. at para. 139.
+228. See generally ADF Group Inc. v. United States, ICSID Case No ARB(AF)/00/1,
+Procedural Order No. 2 Concerning Place of Arbitration (July 1, 2001).
+229. See id. at para. 9.
+230. See id. at para. 14.\\jciprod01\productn\C\CIN\50-3\CIN305.txt unknown Seq: 30  7-MAR-18 12:33
+606 Cornell International Law Journal Vol.50
+road Development Corporation.231 The case was about Guatemala’s use of a
+legal process known as lesividad or lesivo, which serves to declare an activ-
+ity harmful to the interests of the state.232 Guatemala maintained that this
+process was not in itself contrary to the minimum standard of treat-
+ment.233 Finding otherwise, Guatemala argued, would in effect “under-
+mine the requirement that fair and equitable treatment be determined by a
+case-specific, fact-based inquiry, and would violate notions of comity and
+sovereignty.”234 The investment arbitral tribunal dodged the issue of com-
+ity and merely found that the procedure had been abused.235
+A similar argument was raised by one of the parties in Hesham T.M. Al
+Warraq.236  Appearing  as  the  Respondent,  Indonesia  argued  that  the
+Claimant’s accusation that the decisions of the domestic courts had been
+“unfair and unjust” amounted to “a grave charge against the independent
+judiciary of one of the world’s largest democracies.”237 Accordingly, “[t]he
+principle of comity alone” required the Tribunal to act on the presumption
+that the Indonesian Court had acted properly.238
+More recently, comity arguments were also considered by a PCA tribu-
+nal in Chevron and Texaco v. Ecuador.239 The decision on Track 1B is par-
+ticularly interesting: the claimants had requested, among other things, a
+declaratory award stating that the Lago Agrio Judgment “violate[d] interna-
+tional public policy and natural justice, and that as a matter of interna-
+tional comity and public policy . . . [it] should not be recognised and
+enforced.”240 The Tribunal noted that “whilst not strictly bound to follow
+their result or reasoning as a matter of international law, this Tribunal
+would have wished to be guided, as regards any relevant issue of Ecuado-
+rian law, by the decisions of the Lago Agrio Court, the Appellate Court of
+Lago Agrio and the Cassation Court.”241 Such an approach, the Tribunal
+was eager to remark, “would extend beyond courtesy, comity and due
+respect for the Respondent’s judicial branch.”242 Ultimately, the Tribunal
+found that the circumstances of the case—namely the multiple allegations
+of denial of justice raised by the claimants—militated against the adoption
+of one such approach.243
+231. R.R. Dev. Corp. v. Republic of Guatemala, ICSID Case No. ARB/07/23, Award,
+para. 75 (June 29, 2012).
+232. See id. at para. 41.
+233. See id. at para. 73.
+234. Id. at para. 175.
+235. Id. at para. 233.
+236. Hesham T.M. Al Warraq v. Republic of Indonesia, UNCITRAL, Final Award,
+para. 405 (Dec. 15, 2014).
+237. Id.
+238. Id.
+239. Chevron Corp. v. Republic of Ecuador, PCA Case No 2009–23, Decision on
+Track 1B, para. 102 (Mar. 12, 2015).
+240. Id.
+241. Id. at para. 140.
+242. Id.
+243. Id.\\jciprod01\productn\C\CIN\50-3\CIN305.txt unknown Seq: 31  7-MAR-18 12:33
+2017 Comity and International Courts and Tribunals 607
+E. Comity and Precedent
+The idea that precedents—in the non-technical meaning of “prior
+cases”—of other tribunals should be followed, because of comity, was
+entertained in the ICSID case Tulip Real Estate.244 The parties had referred
+the Tribunal to prior decisions of various international judicial bodies.245
+Here is what the Tribunal thought of it: “[a]lthough not bound by such
+citations . . . as a matter of comity, it should have regard to earlier deci-
+sions of courts (particularly the ICJ) and of other international dispute
+tribunals engaged in the interpretation of the terms of a [Bilateral Invest-
+ment Treaty].”246
+Interestingly, the Tribunal also considered issues of hierarchy: the
+respondent submitted that the Tribunal accord preference to the decisions
+of the International Court of Justice; the claimant maintained that ICSID
+tribunal decisions were more relevant.247 The Tribunal concluded that
+both sources could inform its interpretation of the terms of the BIT accord-
+ing to their rigour and persuasiveness.248
+F. Comity as Neighborliness, Cooperation, and Respect for Other
+Sovereign Entities
+In other cases, the term comity comes up as a catchall expression,
+covering neighborliness and respect for the sovereign prerogatives of other
+states.
+In Passage Through the Great Belt, Judge Broms mentions comity in a
+separate opinion, arguing that the dispute at issue could be resolved by the
+use of negotiations if the parties negotiated “in the best Nordic spirit of
+comity and co-operation.”249 Nordic spirits notwithstanding, it is hard to
+ascribe any certain meaning, beyond the general idea of co-operation, to
+this invocation of comity.
+The European Court of Human Rights has, in turn, invoked the con-
+cept several times with reference to the question of the grant of sovereign
+immunities in civil proceedings. The Court has addressed the issue several
+times to assess whether such a grant of immunity could unduly limit one’s
+right to access a court.250 Under the European Convention of Human
+Rights, limitations to rights such as the one of access to a court must,
+among other things, pursue a legitimate aim.251 Since 2001, the Court has
+244. Tulip Real Estate Inv. & Dev. Netherlands B.V. v. Republic of Turkey, ICSID Case
+No. ARB/11/28, Decision on Bifurcated Jurisdictional Issue, paras. 45–47 (Mar. 5,
+2013).
+245. Id. at para. 45.
+246. Id.
+247. Id. at para. 46.
+248. Id. at para. 47.
+249. Passage through the Great Belt (Fin. v. Den.), Order, 1991 I.C.J. 12 (July 29).
+250. Convention for the Protection of Human Rights and Fundamental Freedoms, art.
+6. Nov. 4, 1950, E.T.S. No. 005, 213 U.N.T.S. 243.
+251. Id. art. 18.\\jciprod01\productn\C\CIN\50-3\CIN305.txt unknown Seq: 32  7-MAR-18 12:33
+608 Cornell International Law Journal Vol.50
+consistently argued that the grant of sovereign immunity does just that.252
+It “is a concept of international law, developed out of the principle par in
+parem non habet imperium, by virtue of which one State shall not be subject
+to the jurisdiction of another State.”253 Its grant thus “pursues the legiti-
+mate aim of complying with international law to promote comity and good
+relations  between  States  through  the  respect  of  another  State’s
+sovereignty.”254
+The concept was also invoked in an unclear fashion in Certain Ques-
+tions of Mutual Assistance in Criminal Matters.255 The issue of comity was
+raised in an argument by Djibouti about a witness summons issued under
+French law to the Djiboutian head of state.256 Djibouti contended that
+France would have been required to take preventive measures to protect the
+immunity and dignity of a head of state on its territory on an official visit
+(as per Article 29 of the VCDR).257 France was thus responsible for “inter-
+nationally wrongful acts consisting of infringements of the principles of
+international comity and of the customary and conventional rules relating
+to immunities.”258 The Court ultimately found that the defects in the sum-
+mons were not unambiguously attributable to France and eluded the inter-
+pretation of the term “comity.”259
+More recently, mentions of the principle in the European Court of
+Human Rights case law have arguably leaned toward more qualified forms
+of neighborliness; for example, in a recent case one judge has emphasized
+the role of the Court in ensuring the uniform application of the 1980
+Hague Convention on Child Abduction furthers comity among States.260
+In yet another case it was argued that “reasons of international comity and
+practicality” could have called for an effort by a state party to the Conven-
+tion, which had become a source of migrants, to assist other states in the
+implementation of their immigration rules and policies.261
+It is arguable that the European Commission employed the term to the
+same ends in one of the Kadi cases. The Court of First Instance relayed the
+252. Jones and Others v. United Kingdom, 2014-I Eur. Ct. H.R.1; Wallishauser v. Aus-
+tria,  App.  No.  156/04  (Eur.  Ct.  H.R.  Nov.  19,  2012),  http://hudoc.echr.coe.int/
+eng?i=001-112194  [https://perma.cc/B9KV-3684];  Oleynikov  v.  Russia,  App.  No.
+36703/04 (Eur. Ct. H.R. Mar. 3, 2013), http://hudoc.echr.coe.int/eng?i=001-117124
+[https://perma.cc/HNR5-TF3U]; Sabeh el Leil v. France, App. No.34869/0 (Eur. Ct.
+H.R., June 29, 2011) , http://hudoc.echr.coe.int/eng?i=001-105378 [https://perma.cc/
+XK7N-UTZM]; Al-Adsani v. United Kingdom, 2001-XI Eur. Ct. H.R. 79; Cudak v. Lithua-
+nia, 2001-XI Eur. Ct. H.R. 121; Fogarty v. United Kingdom, 2001-XI Eur. Ct. H.R. 157;
+McElhinney v. Ireland, 2001-XI Eur. Ct. H.R. 37.
+253. Al-Adsani v. United Kingdom, 2001-XI Eur. Ct. H.R. 79.
+254. Id.
+255. Certain Questions of Mutual Assistance in Criminal Matters (Djib. v. Fr.), Judg-
+ment, 2008 I.C.J. 177 para. 162 (June 4).
+256. Id. at para. 162.
+257. Id. at para. 165.
+258. Vienna Convention on Diplomatic Relations art. 29, Apr. 18, 1961, 23 U.S.T.
+3227, 500 U.N.T.S. 95.
+259. Certain Questions of Mutual Assistance in Criminal Matters,paras. 172–75.
+260. X v. Latvia, 2013-VI Eur. Ct. H.R. 319 (Judge Albuquerque, concurring).
+261. Stamose v. Bulgaria, 2012-VI Eur. Ct. H.R. 1.\\jciprod01\productn\C\CIN\50-3\CIN305.txt unknown Seq: 33  7-MAR-18 12:33
+2017 Comity and International Courts and Tribunals 609
+Commission’s argument that “the principle of comity of nations obliges the
+Community to implement those measures (UNSC sanctions) inasmuch as
+they are designed to protect all States against terrorist attacks,” but did not
+discuss the remarkable claim.262
+The European Court of Justice has later used the term in a different
+way in the context of a reference for a preliminary ruling concerning the
+interpretation of a directive for the protection of workers.263 The case con-
+cerned the closure of a United States military base in the United Kingdom,
+where the United States argued that the application of the directive con-
+cerned to such a strategic decision would have been incompatible with
+“principles of public international law, in particular the principle of jus
+imperii and that of the ‘comity of nations.”264 The Court, however, did not
+decide the issue on the grounds that it did not have jurisdiction, as the
+situation did not fall within the scope of the directive.265
+Conclusion
+This study has sought to clarify the importance, current and potential,
+of the use of comity by international courts and tribunals. Our findings
+support the idea that comity might be an emerging principle of procedural
+law,  though  agreement  on  its  exact  meaning—or unequivocal choices
+among its many connotations—still tends to be uncommon. We submit
+that, as long as other solutions are not in place, the principle can be suc-
+cessfully employed to assist international courts and tribunals in mediat-
+ing jurisdictional conflicts between themselves by balancing coordination
+efforts and the demands of justice in the individual cases.
+Comity may serve as a meta-principle of coordination between inter-
+national judicial bodies, to be employed in the pursuit of the common
+interest to an efficient and fair system of international dispute settlement.
+There are strong reasons militating in favour of this proposition: interna-
+tional tribunals, by and large, possess the powers necessary to exercise it;
+international judges and arbitrators know how to use it; and its long his-
+tory of applications at the domestic level suggests that it can be employed
+successfully for a variety of purposes.
+We also submit the hunch that comity may most likely be employed as
+a central principle for further aspects of the coordination of international
+adjudication, for instance informing the sound use of analogical reasoning
+and precedent-borrowing process. Further study will be required to assess
+the potential of comity in this context. We have, so far, restricted ourselves
+to a simpler and more crucial task, seeking to resituate the principle of
+comity as one on which to rely for the resolution of different types of con-
+flicts between international jurisdictions, and to question the traditional
+262. Kadi v. Council, Case T-315/01, 2005 E.C.R. II-364.
+263. Case C-583/10, United States v. Nolan, 1 C.M.L.R. 32 (2012).
+264. Id. at para. 24.
+265. Id. at para. 25.\\jciprod01\productn\C\CIN\50-3\CIN305.txt unknown Seq: 34  7-MAR-18 12:33
+610 Cornell International Law Journal Vol.50
+assumption that it is just an unhelpful complication: its history and redis-
+covery suggest otherwise.

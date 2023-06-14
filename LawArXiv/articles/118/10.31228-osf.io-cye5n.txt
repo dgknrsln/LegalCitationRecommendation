@@ -1,0 +1,531 @@
+HOW MANY STANDARDS IN A LAPTOP?  
+(AND OTHER EMPIRICAL QUESTIONS) 
+   
+Brad Biddle, Andrew White and Sean Woods 
+ 
+Arizona State University Sandra Day O’Connor College of Law     
+ 
+ABSTRACT  embodied  or  directly  utilized  in  a  modern  laptop 
+  computer.  We focused only on standards that facilitate 
+An  empirical  study  which  identifies  251  technical  technical interoperability, and did not count quality, 
+interoperability standards implemented in a modern laptop  safety,  performance,  measurement,  environmental, 
+computer, and estimates that the total number of standards  accessibility, design process, manufacturing process or 
+relevant to such a device is much higher.  Of the identified  electromagnetic compatibility standards.  Further, our 
+standards, the authors find that 44% were developed by  count  of  interoperability  standards  is  not 
+consortia,  36%  by  formal  standards  development  comprehensive: we have become aware of significant 
+organizations,  and  20%  by  single  companies.    The  omissions.  Accordingly, we believe our count sets only 
+intellectual property rights policies associated with 197 of  a floor: a modern laptop embodies or utilizes at least 
+the standards are assessed: 75% were developed under  251 interoperability standards, but the actual number is 
+“RAND” terms, 22% under “royalty free” terms, and 3%  certainly  much  higher  (the  authors  would  be 
+utilize  a  patent  pool.  The  authors  make  certain  unsurprised  by  a  total  number  of  500  or  more).  
+observations  based  on  their  findings,  and  identify  Including other types of relevant standards, such as 
+promising areas for future research.       environmental  or  safety  standards,  in  addition  to 
+  interoperability standards would further raise the count 
+Keywords—  standards,  SDOs,  consortia,  intellectual  dramatically. 
+property rights (IPR), RAND, royalty free   •  Of the 251 standards we identified, 112 (44%) were 
+ 
+developed by consortia, 90 (36%) by formal standards 
+ 
+development organizations, and 49 (20%) by individual 
+1. OVERVIEW 
+companies (see Figure 1).   
+ 
+Our effort began with some simple questions: how many  •  We were able to allocate 197 of the 251 standards into 
+standards are embodied in a modern laptop computer? How  one  of  three  broad  intellectual  property  model 
+many of these standards are developed by formal standards  categories:  RAND,  RF  or  patent  pool  (we  lacked 
+development organizations and how many by consortia?   sufficient information to categorize the remaining 54 
+What type of intellectual property rights policies – e.g.  standards).  Of the 197 we categorized, 148 (75%) 
+“RAND”  or  “royalty-free”  –  apply  to  each  of  these  were RAND, 43 (22%) were RF, and 6 (3%) utilized a 
+standards?  patent pool (see Figure 2).   
+Answering  these  seemingly-simple  questions  proved  In order to meaningfully assess our data it is imperative that 
+dauntingly complex.  Nonetheless, subject to the limitations  readers understand our terminology and our methodology.  
+and qualifications described in this paper, we were able to  These  are  described  in  Section  2,  below.    Section  3 
+reach the following conclusions:  highlights some limitations of our approach, and identifies 
+some  gaps  in  our  research.    Section  4  explores  some 
+•  We identified 251 interoperability standards that are 
+preliminary observations and conclusions based on our data.  
+Brad Biddle is an Adjunct Professor at ASU and Standards Counsel  Section  5  identifies  opportunities  for  further  research.  
+for Intel Corporation; Andrew White and Sean Woods are law  Finally, the appendix contains a table listing the particular 
+students.  This article reflects the authors’ personal views.  The  standards we identified and the values we assigned to each.      
+authors  thank  Steve  Balogh,  Carl  Cargill,  Wayne  Carr, Kevin 
+ 
+Cornelius, Bob Grow, Earl Nied, Ken Salzberg, Kim Turner, Steve 
+Whalley and Andrew Wilson for their invaluable input.  Errors are  2. TERMINOLOGY AND METHODOLOGY 
+solely the responsibility of the authors.    
+We  began  by  examining  the  specifications  of  various 
+Paper accepted for presentation at the ITU-T "Beyond the Internet? – 
+Innovations  for  future  networks  and  services"  Kaleidoscope  current-generation laptop computers produced by different 
+Conference, Pune, India, http://itu-kaleidoscope.org/2010, and will  manufacturers, and developing a vision of a composite, 
+be published in the conference proceedings.  This version of the 
+hypothetical laptop that drew from the features of each.  We 
+paper is considered final.  It was completed on September 10, 2010 
+also  gave  ourselves  some  flexibility  to  include  a  few 
+and supersedes a draft dated May 7, 2010.  Suggested citation: 
+“Biddle,  Brad,  White,  Andrew  and  Woods,  Sean,  How  Many  features that are widely expected to be included in laptops 
+Standards in a Laptop? (And Other Empirical Questions) (September  in the imminent future (e.g. hi-definition wireless display 
+10, 2010). Available at SSRN: http://ssrn.com/abstract=1619440.”    capabilities).  
+Next,  we  created  a  set  of  broad  categories  –  display,  commitments, without precluding the option of patent 
+graphics, sound, storage, BIOS, input device, processor,  owners collecting patent royalties for essential patent 
+power,  file  system,  networking,  wireless,  I/O  ports,  claims.  If a SDO or Consortia permitted a RAND 
+memory, software, codecs, content protection, security and  option, even if it contemplated other options as well, 
+“other” – and sought relevant standards.  Using a variety of  we included it in the RAND category.  We note that the 
+methods, including interviews with experts and extensive  fact that an IPR policy permits collection of royalties 
+primary research, we identified standards in each category  does not mean that parties in fact collect royalties. 
+that  would  be  embodied  in  or  directly  utilized  by  our  (IETF  provides  an  example:  the  IETF  IPR  policy 
+hypothetical laptop computer.     permits  RAND,  and  thus  we  categorized  all  IETF 
+standards as RAND, but in practice parties attempt to 
+For our purposes, “standards” included not just standards 
+collect royalties on few, if any, IETF standards.)   
+developed by formal standards development organizations 
+like  ISO,  but  also  industry  specifications  developed  by  •  RF.      This  category  included  standards  that  were 
+consortia like PCI-SIG.  We also encountered a number of  created  under  terms  that  prohibit  the  participating 
+specifications  intentionally  promulgated  by  a  single  companies  or  individuals  from  collecting  patent 
+company for broader industry adoption, and we counted  royalties for essential patent claims (usually subject to 
+these as “standards” as well.  We limited our count of  important limitations).  For our purposes, IPR models 
+company-promulgated standards to those that a company  such  as  “RF-RAND”  (royalty-free  RAND)  and 
+intentionally and specifically made available for adoption as  “RAND-Zero” (RAND with zero royalties) fall into 
+an industry specification; we did not include proprietary  this category.  We also included standards with IPR 
+technologies that have significant market share but that are  policies that rely on promises not to assert essential 
+not  otherwise  intentionally  made  available  for  industry  patent claims here.  Note that our designation of a 
+adoption.   standard as RF does not mean that the standard is in 
+fact royalty free to implement, as entities not bound by 
+As noted in the introduction, we focused only on standards 
+the IPR policy could assert patents, for example. 
+that facilitate technical interoperability, and did not count 
+quality, safety, performance, measurement, environmental,  •  Patent pool.  The term “patent pool” is sometimes 
+accessibility,  design  process,  manufacturing  process  or  defined in a way that would sweep in virtually any 
+electromagnetic compatibility standards.    RAND or RF IPR policy, but for our purposes we 
+adopted  a  narrow  definition.    We  focused  on  the 
+We identified the developer/promoter of each standard as 
+scenario where a specification is made available subject 
+either (a) a formal standards development organization or 
+to execution of a license agreement, and that license 
+“SDO,” (b) a consortium, or (c) an individual company.  
+agreement  conveys  a  license  to  patents  pooled  by 
+For this step we utilized the taxonomy suggested by the IPO 
+multiple parties.  The DVD specifications provide an 
+Standards  Setting  Committee  in  their  2009  “Standards 
+example.   
+Primer” document. [1]  We counted as SDOs: (a) the “Big 
+I” international standards organizations (ITU, ISO, IEC),  •  NA (“not available”).  In 54 of our 251 cases we 
+(b) the “Little I” international organizations (IEEE, ASTM),  simply could not determine the intellectual property 
+(c) government-sanctioned regional bodies such as ETSI,  policy associated with a particular standard.  Figure 2 
+(d) government-sanctioned national bodies, such as BSI,  below includes only the 197 bodies that we were able 
+and (e) organizations sanctioned or accredited by a national  to categorize. 
+body, such as all of the ANSI-accredited organizations (e.g., 
+We should emphasize that our taxonomy glosses over a 
+JEDEC,  TIA).    All  other  group-focused  specification-
+great deal of complexity, including the key issue of whether 
+development efforts were classified as “Consortia.”  The 
+the RAND or RF promise extends from participants in the 
+consortia  category  contains  a  wide  variety  of  different 
+standards development process to all implementers or only 
+groups, ranging from formal organizations like the W3C to 
+to those implementers that join the relevant consortia or 
+very informal open source development efforts.  We called 
+SDO.  For our categorization purposes, either approach 
+specifications  created  by  single  commercial  entity 
+sufficed: e.g., if a group required that participants promise 
+“Company” standards.   
+to license on RAND terms only to members of that group, 
+Assessing  the  intellectual  property  rights  (IPR)  policies  with no other license obligation, we counted that group as 
+associated with each standard proved difficult.  Many IPR  RAND.  
+policies  were  extraordinarily  complex.    Further,  IPR   
+policies for some organizations were not publicly available,  3. LIMITATIONS AND GAPS 
+leaving  us  to  rely  on  second-hand  accounts  or  draw   
+inferences. Noting some risk of oversimplification or error,  Our  hypothetical/composite  laptop  approach  potentially 
+we allocated each standard to one of four broad categories:  allows some ambiguity or duplication.  For example, we 
+•  RAND.  This category included standards that were  include file systems standards for both Linux and Windows 
+computers, even though in many cases they would not co-
+developed under RAND or F/RAND terms – (fair,) 
+exist in a single machine.  Likewise, we include wireless 
+reasonable  and  non-discriminatory  patent  license 
+display standards that might be competitive rather than co- 
+existing.    Focusing  on  a  single,  specific  “real  world”  dominant role played by the private sector in at least 
+machine would have mitigated this risk.  However, our  this  aspect  of  ICT  standardization  will  come  as  a 
+composite approach enabled us to avoid singling out a  surprise  to  some  policymakers  and  other 
+specific vendor, and enabled us to anticipate soon-to-be  standardization stakeholders. 
+implemented standards. 
+A related point: while our primary focus was on standards 
+that would be fully implemented in our hypothetical laptop, 
+we also included some standards that would be directly used 
+by our hypothetical machine, but that are not necessarily 
+fully implemented on the client side (e.g., basic Internet 
+standards like IPv4, DNS or TCP).  This involved some 
+judgment calls and line drawing.  Similarly, we included 
+standards related to some basic software applications (e.g., 
+OpenXML), but tried to avoid expanding too far “up the 
+stack” into the software application world.   
+Another issue: our data are imperfect.  The authors bring 
+legal  expertise  to  the  table  rather  than  deep  technical   
+expertise.    Understanding each of our various technical 
+•  The  preponderance  of  RAND  as  IPR  model.    The 
+focus areas – display, graphics, sound, storage, BIOS, input 
+merits  of  RAND  and  RF  IPR  models  are  fiercely 
+device, processor, power, file system, networking, wireless, 
+debated  by  their  respective  proponents.    Our  data 
+I/O ports, memory, software, codecs, content protection, 
+suggests that historically RAND has been effective in 
+security – sufficiently to assess the relevant standards in 
+the computing sector, if measured by implementation of 
+each area proved challenging.  We suspect there are errors 
+associated standards: we see that 75% of the standards 
+of both under-inclusion and over-inclusion in some of our 
+we examined were developed under RAND terms (see 
+focus areas.   Further, we have realized that our focus areas 
+Figure 2).  Conceivably the financial industry axiom 
+may  have  been  too  narrow.    For  example,  battery 
+that  “past  performance  is  not  indicative  of  future 
+technologies,  biometrics,  camera  hardware,  solid  state 
+results” may be applicable, given the emergence of 
+drives  and  docking  systems  standards  are  currently 
+open source, increasing patent litigiousness, or other 
+underrepresented in our list.  We will continue to refine and 
+factors.  Further, the practical impact of RAND policies 
+improve the quality of our data set.  However, we do not 
+seems to be different in different contexts (e.g., IETF 
+believe that this refinement will dramatically change our 
+standards, while nominally RAND, appear to be largely 
+observations or conclusions.   
+RF in practice; other RAND standards, such as the 
+ 
+IEEE’s 802.11 standards, are the subject of licensing 
+4. OBSERVATIONS  
+and  patent  litigation).    Nonetheless,  the  strong 
+ 
+dominance of RAND in our set of successful (i.e., 
+The focus of this stage of our effort has been primarily on 
+implemented)  standards  is  notable.    Our  data  also 
+collecting  empirical  data  rather  than  interpreting  it.  
+suggest that patent pools, to date, have not played a 
+However,  a  set  of  fairly  obvious  conclusions  are 
+significant role for at least the computing sector of the 
+immediately apparent: 
+ICT industry. 
+•  The critical role of standards in ICT.  The fact that a 
+modern laptop computer implements or relies on over 
+250  (and  probably  closer  to  500,  we  estimate) 
+interoperability  standards  is  remarkable.    While 
+certainly no one doubted the importance of standards to 
+the information and communications technology (ICT) 
+industry in the absence of this data, quantifying the 
+volume  of  standards  embodied  in  a  common  ICT 
+device is striking.  We believe that as technological 
+convergence  continues,  and  ICT  devices  increasing 
+include elements from the computing, telephony and 
+consumer electronics sectors, the number of relevant 
+standards will only increase.   
+•  The  importance  of  consortia  for  ICT  standards 
+development.  Of the 251 standards we indentified,   
+ 
+only about one-third were developed by formal SDOs.  
+Consortia  developed  44%,  and  single  companies 
+developed  20%  (see  Figure  1).    We  suspect  the  
+5. NEXT STEPS AND CONCLUSION  REFERENCES 
+ 
+As noted in Section 3 above, a key next step for us is to 
+[1] IPO Standards Setting Committee, Standards Primer: 
+expand our data set and refine our data.  We welcome 
+An  Overview  of  Standards  Setting  Bodies  and  Patent-
+constructive input and will happily make our spreadsheets 
+Related  Issues  that  Arise  in  the  Context  of  Standards 
+available to interested parties. 
+Setting Activities, 2009 IPO Articles & Reps., Pats. Sec. 
+While we utilized a single RAND category, we have noted  No.  16  (10/09/2009).  Available  to  IPO  members  via 
+that in the ICT environment there seems to be two broad  http://ipo.org;  excerpts  publicly  available  at 
+subcategories of RAND standards: those for which the de  <http://standardslaw.org/seminar/class-2/excerpts-from-ipo-
+facto reality seems to be a RF environment, and those for  standards-primer/>.  
+which  there  are  active  royalty-collection  efforts.    We 
+ 
+believe that it would be interesting to attempt to count the 
+[2]  Per Anderson, Evaluation of Ten Standard Setting 
+number of standards in each subcategory.    
+Organizations With Regard to Open Standards,  IDC Study 
+Another  promising  focus  area  for  additional  empirical  commissioned  by  the  Danish  National  IT  and  Telecom 
+analysis is an assessment of consortia.  For our purposes  Agency, January 2008.  Available at <http://www.itst.dk/it-
+consortia occupied a single category, but in fact we saw a  arkitektur-og-standarder/standardisering/abne-
+bewildering variety of approaches among consortia in the  standarder/baggrundsrapporter/Evaluation%20of%20Ten%
+course  of  our  research.    Identifying  different  types  of  20Standard%20Setting%20Organizations.pdf>. 
+consortia, and analyzing the implementation of standards 
+produced  by  different types,  strikes us  as  a  fascinating 
+research question.  
+Additionally,  assessing  each  of  our  identified  standards 
+against various criteria of “openness,” along the lines of Per 
+Anderson’s recent study [2], could prove quite interesting.  
+Our working theory is that the development and distribution 
+processes associated with a significant percentage of the 
+successfully-implemented standards we identified would not 
+meet  typical  definitions  of  openness,  transparency  or 
+consensus  decision-making.    If  true,  this  would  be  an 
+interesting  data point to  bring into, e.g., current policy 
+debates over “good practices” for consortia, such as the 
+current BSI PAS 98 effort.  Further, it would be interesting 
+to consider whether the empirical data could demonstrate 
+either  a  positive  or  negative  correlation  between  the 
+“openness”  of  a  standards  development  effort  and  its 
+effectiveness as measured by widespread implementation of 
+that standard in the commercial marketplace. 
+*  *  * 
+The academic literature on standardization often bemoans 
+the dearth of empirical analysis of standards.  Our hope is 
+that the analysis documented in this paper helps to fill this 
+gap,  and  enables  policymakers,  academics,  commercial 
+stakeholders and others to better understand ICT standards 
+and industry specifications.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+APPENDIX:    
+LIST OF STANDARDS/SPECIFICATIONS 
+Name of  Developer  Developer  IP  Name of  Developer  Developer  IP 
+standard/specification  type  type  standard/specification  type  type 
+.NET  Microsoft  COMPANY  NA  DirectX  Microsoft  COMPANY  NA 
+16x9 Notebook Panel ver.  VESA  CONSORTIA  RAND  Display Identification Data  VESA  CONSORTIA  RAND 
+1a  [DisplayID] Structure v1.1 
+3GP  3GPP  SDO  RAND  Display Port Panel  VESA  CONSORTIA  RAND 
+Connector 
+8P8C/"RJ-45" IEC 60603  IEC  SDO  RAND 
+Display Subsystem Power  VESA  CONSORTIA  RAND 
+AC'97 v2.3  Intel  COMPANY  NA  Management 
+ACS-2 [ATA/ATAPI  T13 INCITS  SDO  RAND  DisplayPort  VESA  CONSORTIA  RAND 
+Command Set 2]  Interoperability Guidline 
+Advanced Configuration  ACPI  CONSORTIA  RAND  v1.1 
+and Power Interface Spec  DLNA  Digital Living  CONSORTIA  RAND 
+3.0  Network 
+Advanced eXpress I/O  ATI  COMPANY  NA  Alliance 
+Module [AXIOM]  DMI2 [Direct Media  Intel  COMPANY  NA 
+AES (U.S. FIPS PUB 197)  NIST  SDO  NA  Interface] 
+DNS  IETF  CONSORTIA  RAND 
+AGP  Intel  COMPANY  NA 
+DOM  W3C  CONSORTIA  RF 
+AIFF  Apple  COMPANY  NA 
+DVB-H/EN 302 304  DVB/ETSI  SDO  RAND 
+ALC889  RealTek  COMPANY  NA 
+DVD Multi  DVD Forum  CONSORTIA  POOL 
+Allegro 4.9.19  open source  CONSORTIA  RF 
+project  DVI  DDWG  CONSORTIA  RAND 
+ANSI INCITS 207- ANSI  SDO  RAND  DVI 1.0 Spec  Digital  CONSORTIA  NA 
+1991[R2007]  Display 
+ANSI INCITS 346- ANSI  SDO  RAND  Working 
+2001[r2006]  Group 
+ANSI INCITS 407-2005  ANSI  SDO  RAND  ECMA 262 3rd edition  ECMA  CONSORTIA  RAND 
+ANSI INCITS 417-2006  ANSI  SDO  RAND  ECMA C#  ECMA  CONSORTIA  RAND 
+APM  Microsoft  COMPANY  NA  ECMA CLR  ECMA  CONSORTIA  RAND 
+ASF  Microsoft  COMPANY  NA  ECMA-378  ECMA  SDO  RAND 
+Atom  IETF  CONSORTIA  RAND  ECMA-384  ECMA  SDO  RAND 
+AVI  Microsoft  COMPANY  NA  EDD-4 [Enhanced Disk  T13 INCITS  SDO  RAND 
+Bluetooth spec.  Bluetooth Sig  CONSORTIA  RF  Drive - 4 
+EHCI  Intel  COMPANY  NA 
+Blu-ray Disc Read-Only  Blu-ray Disc  CONSORTIA  POOL 
+Format ver. 1  Association  Embedded DisplayPort  VESA  CONSORTIA  RAND 
+Blu-ray Disc Recordable  Blu-ray Disc  CONSORTIA  POOL  Standard (eDP) 
+Format ver. 1  Association  Ethernet [802.3]  IEEE  SDO  RAND 
+Blu-ray Disc Rewrittable  Blu-ray Disc  CONSORTIA  POOL  EXT4  open source  CONSORTIA  RF 
+Fromat ver. 2  Association 
+Fat16  ECMA  SDO  RAND 
+C  ANSI/ISO  SDO  RAND 
+Fat32  Microsoft  COMPANY  NA 
+C++ (ISO/IEC  ISO/IEC  SDO  RAND 
+[Open Spec] 
+14882:2003) 
+Firewire/1394  IEEE  SDO  RAND 
+CD audio ("Red book") -  IEC  SDO  RAND 
+IEC 60908  Flash (FLV, F4V)  Adobe  COMPANY  NA 
+CDROM  ISO/IEC  SDO  RAND  FMOD  Firelight  COMPANY  NA 
+CIM [Common  DMTF  CONSORTIA  RAND  Technologies 
+Information Model] 2.250  FTP  IETF  CONSORTIA  RAND 
+Cinepak  SuperMac  COMPANY  NA  Guidline for transmission  DVD Forum  CONSORTIA  POOL 
+Technologies  and control for DVD-
+COLLADA 1.5  Khronos  CONSORTIA  RF  video/audio through 
+Compact Flash  Compact  CONSORTIA  RAND  IEEE1394 Bus 
+Flash Ass.  Guidline for Transmission  DVD Forum  CONSORTIA  POOL 
+CSS (Cascading Style  W3C  CONSORTIA  RF  and Control for DVD-
+Sheet)  video/audio through Most 
+CSS (Content Scramble  DVD Forum  CONSORTIA  NA  Bus 
+System)  H.263  ITU-T  SDO  RAND 
+DDR3  JEDEC  SDO  RAND  H.264  ITU- SDO  RAND 
+Dirac  BBC  COMPANY  RF  T/ISO/IEC 
+Research  JVT 
+Direct Drive Monitor  VESA  CONSORTIA  RAND  HDCP  DCP  COMPANY  NA 
+[DDM] v1  HDMI  HDMI  CONSORTIA  RAND 
+Direct3D 11  Microsoft  COMPANY  NA 
+HFS  Apple  COMPANY  NA 
+DirectCompute API  Microsoft  COMPANY  NA  
+HFS+  Apple  COMPANY  NA  ISO/IEC 24739-1:2009  ISO  SDO  RAND 
+HTML5  W3C  CONSORTIA  RF  ISO/IEC 24739-2:2009  ISO  SDO  RAND 
+HTTP  W3C  CONSORTIA  RF  ISO/IEC 24739-3:2009  ISO  SDO  RAND 
+HTTPS  W3C  CONSORTIA  RF  ISO/IEC 24757:2008  ISO  SDO  RAND 
+HuffYUV  Rudiak-Gould  COMPANY  NA  ISO/IEC 26300:2006 Open  ISO/IEC  SDO  RAND 
+Document Format 
+IEC 60320  IEC  SDO  RAND 
+ISO/IEC 29121:2009  ISO  SDO  RAND 
+IEC 60958 type II (S/PIF)  IEC  SDO  RAND 
+ISO/IEC 29171:2009  ISO  SDO  RAND 
+IEEE std. 1212.1-1993  IEEE  SDO  RAND 
+ISO/IEC 29171:2009  ISO  SDO  RAND 
+IEEE std. 1680.1-2009  IEEE  SDO  RAND  [iVDR spec] 
+IETF RFC 5545 iCalendar  IETF  CONSORTIA  RAND  ISO/IEC 29500 Office  ISO/IEC  SDO  RAND 
+Open XML 
+IMAP  IETF  CONSORTIA  RAND 
+ISO/IEC 9995-1:2009  ISO  SDO  RAND 
+INCITS 370-2004(1510D):  T13 INCITS  SDO  RAND 
+ISO/IEC 9995-2:2009  ISO  SDO  RAND 
+ATA Host Adapter 
+Standards  ISO/IEC 9995-3:202  ISO  SDO  RAND 
+INCITS 437-2008  ISO  SDO  RAND  ISO/IEC 9995-4:2009  ISO  SDO  RAND 
+INCITS 452-2008(D1699):  T13 INCITS  SDO  RAND  ISO/IEC 9995-5:2009  ISO  SDO  RAND 
+AT Attachment 8 
+ATA/ATAPI Command  ISO/IEC 9995-7:2009  ISO  SDO  RAND 
+Set  ISO/IEC 9995-8:2009  ISO  SDO  RAND 
+Intel 64 architecture  Intel  COMPANY  NA 
+ISO/IEC TR 24784:2009  ISO  SDO  RAND 
+x2APIC Spec 
+Intel AHCI  Intel  COMPANY  NA  ISO/IEC TR29106:2007  ISO/IEC  SDO  RAND 
+Intel High Definition  Intel  COMPANY  NA  ISO 32000-1:2008  ISO  SDO  RAND 
+Audio  JCP JSR 270 Java SE 6  Java  CONSORTIA  RF 
+Intel Platform Innovation  Intel  COMPANY  RAND  Community 
+Framework for UEFI  Process 
+IPSEC  IETF  CONSORTIA  RAND  Magsafe  Apple  COMPANY  NA 
+IPv4  IETF  CONSORTIA  RAND  MATHML  W3C  CONSORTIA  RF 
+ISO 8601 is dates and time  ISO/IEC  SDO  RAND  Matroska  open source  CONSORTIA  RF 
+ISO 9241-300:2008  ISO  SDO  RAND  project 
+MD5 (RFC 1321)  IETF  CONSORTIA  RAND 
+ISO 9241-302:2008  ISO  SDO  RAND 
+Micro SD  SD  CONSORTIA  RAND 
+ISO 9241-303:2008  ISO  SDO  RAND 
+Association 
+ISO 9241-304:2008  ISO  SDO  RAND  MIDI  MIDI  CONSORTIA  NA 
+Manufacturer
+ISO 9241-305:2008  ISO  SDO  RAND 
+s Ass'n 
+ISO 9241-306:2008  ISO  SDO  RAND  MIME  IETF  CONSORTIA  RAND 
+ISO 9241-307:2008  ISO  SDO  RAND  Mini Displayport  VESA  CONSORTIA  RF 
+ISO 9241-400:2007  ISO  SDO  RAND  MINI-DVI  Apple  COMPANY  NA 
+ISO 9241-400:2007  ISO/IEC  SDO  RAND  MiniSD  SD  CONSORTIA  RAND 
+ISO 9241-410:2008  ISO  SDO  RAND  Association 
+MJPEG (RFC 2435)  IETF  CONSORTIA  RAND 
+ISO 9241-410:2008  ISO/IEC  SDO  RAND 
+MMS  Open Mobile  CONSORTIA  RAND 
+ISO/IEC 1064 is Unicode  ISO/IEC  SDO  RAND 
+Alliance 
+(and uft-8, utf-16) 
+Monitor Control  VESA  CONSORTIA  RAND 
+ISO/IEC 11002:2008  ISO  SDO  RAND 
+Command Set [MCCS] 
+ISO/IEC 11989:2010  ISO  SDO  RAND  Standard v2.2 
+ISO/IEC 13170:2009  ISO  SDO  RAND  MP3 (MPEG-1 Layer 3)  ISO/IEC  SDO  RAND 
+ISO/IEC 14772-2:2004  ISO  SDO  RAND  MP4 (ISO/IEC 14496- ISO/IEC  SDO  RAND 
+14:2003) 
+ISO/IEC 14776-150:2004  ISO  SDO  RAND 
+MPEG-2  ISO/IEC  SDO  RAND 
+ISO/IEC 15412:1999  ISO  SDO  RAND 
+MPEG-2 (ISO/IEC 13818)  ISO/IEC  SDO  RAND 
+ISO/IEC 15948:2004  ISO  SDO  RAND 
+MPEG-4 Part 2 (ISO/IEC  ISO/IEC  SDO  RAND 
+ISO/IEC 19774:2006  ISO  SDO  RAND  14496-2) 
+ISO/IEC 19775-1:2008  ISO  SDO  RAND  MSFT Silverlight  Microsoft  COMPANY  NA 
+ISO/IEC 19775-2:2004  ISO  SDO  RAND  MXF  SMPTE  CONSORTIA  NA 
+ISO/IEC 19776-1:2008  ISO  SDO  RAND  MXM Graphic Module  MXM  CONSORTIA  RF 
+Software Spec 3.0 revision  Group/SIG 
+ISO/IEC 19776-2:2008  ISO  SDO  RAND 
+1.1 
+ISO/IEC 19776-3:2007  ISO  SDO  RAND  MXM Graphics Module  MXM  CONSORTIA  RF 
+Mobile PCI Express  Group/SIG 
+ISO/IEC 19777-1:2006  ISO  SDO  RAND 
+Module Electromechanical 
+ISO/IEC 19777-2:2006  ISO  SDO  RAND  Spec version 3.0 rev 1.1  
+Net2Display Remoting  VESA  CONSORTIA  RAND  Sorenson  Sorenson  COMPANY  NA 
+Standard (N2D) 
+SQL - ISO/IEC 9075  ISO/IEC  SDO  RAND 
+NTFS  Microsoft  COMPANY  NA 
+[Closed Spec]  SVCD (IEC 62107)  IEC  SDO  RAND 
+NTP (time  IETF  CONSORTIA  RAND  SVG  W3C  CONSORTIA  RF 
+synchronization) 
+TCG EFI Platform Spec  UEFI  CONSORTIA  RAND 
+OGG  Xiph.Org  CONSORTIA  RF 
+1.2 
+Foundation 
+TCG EFI Protocol Spec.  UEFI  CONSORTIA  RAND 
+OpenAL  Creative  COMPANY  RF 
+1.2 
+Technology 
+TCG Physical Presence  Trusted  CONSORTIA  RAND 
+OpenCL  Khronos  CONSORTIA  RF 
+Interface Spec  computing 
+OpenGL 4.0 Compaitbility  Khronos  CONSORTIA  RF  Group 
+Profile Specification  TCP  IETF  CONSORTIA  RAND 
+OpenGL 4.0 Core Profile  Khronos  CONSORTIA  RF 
+Theora  Xiph.Org  CONSORTIA  RF 
+Specification 
+Foundation 
+OpenGL ES  Khronos  CONSORTIA  RF 
+TKIP  IEEE  SDO  RAND 
+OpenGL SC 1.0  Khronos  CONSORTIA  RF 
+TPM 1.2 Protection Profile  Trusted  CONSORTIA  RAND 
+OpenGL Shading  Khronos  CONSORTIA  RF  computing 
+Language 4.00.7  Group 
+Specification  TSR jack 3.5mm (PCXX  Intel  COMPANY  NA 
+OpenKode  Khronos  CONSORTIA  RF  version) 
+OpenMAX  Khronos  CONSORTIA  RF  UDP  IETF  CONSORTIA  RAND 
+OpenML  Khronos  CONSORTIA  RF  UEFI Platform Initilization  UEFI  CONSORTIA  RAND 
+Distribution Packaging 
+OpenSL/ES  Khronos  CONSORTIA  RF  Spec 1.0 
+Group  UEFI Platform Initilization  UEFI  CONSORTIA  RAND 
+OpenVG  Khronos  CONSORTIA  RF  Specification 1.2 
+OpenWF  Khronos  CONSORTIA  RF  UEFI Shell Spec 2.0  UEFI  CONSORTIA  RAND 
+PCI Express Base  PCI-SIG  CONSORTIA  RAND  UEFI Specification  UEFI  CONSORTIA  RAND 
+Specification 2.0 [x8,x16]  Version 2.3 
+PCI Local bus Spec 3.0  PCI-SIG  CONSORTIA  RAND  Universal Audio  Microsoft  COMPANY  NA 
+Architecture 
+PCI Local Bus  PCI-SIG  CONSORTIA  RAND 
+UPnP  UPnP Forum  CONSORTIA  RF 
+Specification 3.0 
+PCMCIA/PC Card  USB-IF  CONSORTIA  RF  USB  USB-IF  CONSORTIA  RF 
+PGA-989 socket  Intel  COMPANY  NA  VC-1 (SMPTE 421M)  SMPTE  CONSORTIA  NA 
+PGP (RFC 4880)  IETF  CONSORTIA  RAND  VCD ("White Book")  Various  CONSORTIA  NA 
+companies 
+PNG  W3C  CONSORTIA  RF 
+VESA DDC2/E-DDC  VESA  CONSORTIA  RAND 
+POP  IETF  CONSORTIA  RAND 
+VGA  IBM  COMPANY  NA 
+Quicktime  Apple  COMPANY  NA 
+VOB  DVD Forum  CONSORTIA  NA 
+RealVideo 3&4  RealNetworks  COMPANY  NA 
+VP5  On2  COMPANY  NA 
+RJ-11 (TIA-968-A)  TIA  SDO  RAND  Technologies 
+RSS  Various  CONSORTIA  NA  VP6  On2  COMPANY  NA 
+Technologies 
+RSVP  IETF  CONSORTIA  RAND 
+VP8  Google  COMPANY  NA 
+RTMP  Adobe  COMPANY  RF 
+WAV  MSFT and  COMPANY  NA 
+RTP  IETF  CONSORTIA  RAND  IBM 
+RTSP  IETF  CONSORTIA  RAND  WebGL - OpenGL ES 2.0  Khronos  CONSORTIA  RF 
+S/MIME  IETF  CONSORTIA  RAND  WIGIG 1.0  Wireless  CONSORTIA  RF 
+Gigabit 
+SATA  Serial ATA  CONSORTIA  RAND 
+Alliance 
+Int'l Org. 
+WiMax (IEEE 802.16)  IEEE  SDO  RAND 
+SD  SD  CONSORTIA  RAND 
+Association  Wireless 802.11 [a/b/g/n]  IEEE  SDO  RAND 
+SDL 1.3  open source  CONSORTIA  RF  Wireless HD 1.0  Wireless HD  CONSORTIA  NA 
+project  Consortium 
+SDP  IETF  CONSORTIA  RAND  WMV  Microsoft  COMPANY  NA 
+SDRAM  JEDEC  SDO  RAND  WSDL  W3C  CONSORTIA  RF 
+SHA-1 (FIPS PUB 180)  NIST  SDO  NA  x.509  ITU-T  SDO  RAND 
+SIP  IETF  CONSORTIA  RAND  x86-64 Instruction Set  Intel/AMD  COMPANY  NA 
+SmartMedia  Toshiba  COMPANY  NA  XHCI  Intel  COMPANY  NA 
+SMTP  IETF  CONSORTIA  RAND  XML  W3C  CONSORTIA  RF 
+SOAP  W3C  CONSORTIA  RF   
+SODIMM  JEDEC  SDO  RAND 

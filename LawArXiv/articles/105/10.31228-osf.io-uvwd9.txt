@@ -1,0 +1,508 @@
+2015 IEEE International Symposium on Technology in Society (ISTAS) Proceedings           DOI: 10.1109/ISTAS.2015.7439432 
+Toward Meaningful Human Control of Autonomous 
+Weapons Systems through Function Allocation
+ 
+Marc C. Canellas & Rachel A. Haga 
+Cognitive Engineering Center 
+School of Aerospace Engineering 
+Georgia Institute of Technology 
+Atlanta, Georgia, 30332-0250 
+Email: {marc.c.canellas, rachel.haga}@gatech.edu 
+ 
+Abstract— One of the few convergent themes during the first  military technology such as AWS. This responsibility is likely 
+two United Nations Meeting of Experts on autonomous weapons  to fall entirely to the domains of ethics, law, policy, and 
+systems (AWS) was the requirement that there be meaningful  empathy. 
+human control (MHC) of AWS. What exactly constitutes MHC, 
+While research has begun to address these concerns, the 
+however, is still ill-defined. While multiple sets of definitions and 
+previous work has (1) been inconsistent in what authorities 
+analyses have been published and discussed, this work seeks to 
+and responsibilities of human and automated agents need to be 
+address two key issues with the current definitions:  (1) they are 
+regulated, and (2) lacked the specificity required for designers 
+inconsistent in what authorities and responsibilities of human 
+and automated agents need to be regulated, and (2) they lack the  and engineers to implement these restrictions in a systematic 
+specificity that would be required for designers to systemically  and meaningful way. Therefore, this paper will show how the 
+integrate these restrictions into AWS designs. Given that MHC  domain  of  cognitive  engineering,  specifically  function 
+centers on the interaction of human and autonomous agents, we  allocation, can provide technical support for the discussion 
+leverage the models and metrics of function allocation – the  and development of appropriate constraints. 
+allocation of work between human and autonomous agents – to 
+As defined by the U.S. Department of Defense (DoD), an 
+analyze and compare definitions of MHC and the definitions of 
+AWS is “a weapon system that, once activated, can select and 
+AWS proposed by the U.S. Department of Defense.  
+engage  targets  without  further  intervention  by  a  human 
+Specifically,  we  transform  the  definitions  into  function 
+operator” [1]. There have been significant public and literature 
+allocation form to model and compare the definitions, and then 
+show how a mismatch between authority and responsibility in an  debates about how autonomy will affect warfare and how the 
+exemplar  military  scenario  can  still  plague  the  human-AWS  law of armed conflict can adapt to these changes. To this end, 
+interactions. In summary, this paper provides a starting point for  there have been two United Nations Convention on Certain 
+future  research  to  investigate  the  application  of  function  Conventional Weapons (CCW) Meetings of Experts focused 
+allocation to the questions of MHC and more generally, the  on AWS, the first in May 2014 and second in April 2015. 
+development of rules and standards for incorporating AWS into 
+One  of  the  few  convergent  themes  during  the  CCW 
+the law of armed conflict. 
+Meetings of Experts for AWS was the requirement that there 
+Keywords—  Autonomous  weapons  systems,  meaningful 
+be meaningful human control (MHC) of AWS [9]. MHC was 
+human  control,  function  allocation,  human-automation 
+introduced  as  a  term  by  the  British  non-governmental 
+interaction 
+organization, Article 36 [10], as an organizing principle “that 
+I.   INTRODUCTION  those  who  plan  or  decide  on  an  attack  have  sufficient 
+The  next  generation  of  military  technology  has  many  information and control over a weapon to be able to predict 
+names:  autonomous  weapons  systems  (AWS,  [1]),  lethal  how the weapon will operate and what effects it will produce 
+autonomous weapons systems [2], lethal autonomous robots  in the context of an individual attack, and thus, to make the 
+[3], [4], killer robots [5], [6], terminators [7], and cyborg  required legal judgements” [11]. The United Nations Institute 
+assassins [7]. Whatever the name, the technology, in principle,  for Disarmament Research (UNIDIR)  discussed that MHC 
+is a relatively simple combination of new and old capabilities:  could be a beneficial framing concept for international debate  
+new  software  and  hardware  capable  of  making  decisions  because it is (1) more precise than discussions of “human-in-
+without  humans  are  being  attached  to  established  lethal  the-loop” or “judgment,” (2) consistent with the laws of armed 
+weapons  capable  of  killing  humans.  This  convergence  of  conflict  by  discussing  human  responsibility  for  decisions 
+technology  supply  and  military  demand  has  enabled  the  made,  and  (3)  broad  enough  to  integrate  human-machine 
+existence  of  AWS  [8].  The  increasing  amount  of  media  interaction [9]. 
+coverage, formal international discussions, legal essays, and  Since its introduction, MHC has been a popular concept 
+technical articles can be attributed to the growing awareness  among  nation-states,  non-governmental  organizations,  and 
+that in the near future, technology itself will not determine the  researchers for framing discussions on AWS [9]. However, 
+constraints on military combat and casualties [2]. Instead the  regardless  of  the  popularity  and  utility  of  the  current 
+limitations will only exist in restrictions imposed on the use of  discussions of MHC, there is a critical need for a precise 
+© 2015 IEEE      Page 1 of 7 
+ Electronic copy available at: https://ssrn.com/abstract=2927702 2015 IEEE International Symposium on Technology in Society (ISTAS) Proceedings           DOI: 10.1109/ISTAS.2015.7439432 
+definition  and  operationalization  of  MHC.  As  stated  by  person presses the button, a human has fired the 
+UNIDIR, “If states  wish to move from using [meaningful  weapon, but human control over the weapon is 
+human control] simply to structure policy discussion to using  far from meaningful. Alternatively, the Platonic 
+it as a basis for an international norm, further work will be  form of meaningful human control is when a 
+needed to develop a shared understanding of how such control  person swings a sword, axe, or knife -- or uses 
+is operationalized” [10].  their bare hands -- to directly end the life of an 
+The challenge faced in developing an operational standard  enemy combatant.  
+for MHC is explained by Anderson et al. [12]: “The double  To begin to precisely define the differences between these 
+challenge  here  is,  on  the  one  hand,  for  States  to  apply  two cases, Table 1 shows three proposed definitions of MHC 
+sufficiently  clear  and  robust  standards  and  rules,...  as  from Article 36 [11], ICRAC [17] (Sharkey [18], a member of 
+sophisticated,  modern  autonomous  weapon  systems  are  ICRAC,  provides  similar  autonomy  requirements),  and 
+gradually  fielded.  And,  on  the  other  hand,  ensure  that  Horowitz and Scharre [16]. While these definitions reveal 
+standards and rules... that States develop today will be equally  progress toward a definition, there are still limitations that 
+relevant or adaptable for the future systems which will be  must be addressed. (Also, though outside the scope of this 
+developed ten, twenty, thirty years from now.”  paper, there is still discussion as to the general applicability of 
+This  paper  argues  that  the  foundation  for  a  precise,  MHC to the law of armed conflict [9], [12].) 
+comprehensive and robust definition of MHC is found in the  Horowitz and Sharre raised the operational concern that 
+cognitive engineering discipline, whose primary focus is on  definitions  of  MHC  must  practically  consider  the  current 
+the interaction between automation and humans, particularly  accepted weapon use by not ruling out “the use of weapon 
+in complex and dynamic domains. Of specific interest to this  systems that today are used without controversy, including 
+work is cognitive engineering’s concept of function allocation.  systems that make civilian casualties less likely” [16]. If these 
+Function allocation is defined as the allocation of work within  practical  considerations  are  not  accounted  for,  then  the 
+teams of human and automated agents [13]. In a series of  definition  would  have  a  low  likelihood  of  success  at  the 
+papers Feigh and Pritchett first derived five requirements for  national or international level. Horowitz and Scharre criticized 
+effective function allocation from a critical literature review  the  ICRAC  definitions  from  this  operational  perspective, 
+[13], to which Pritchett, Kim, and Feigh outlined a modeling  stating that ICRAC's definitions are an “idealized version of 
+framework [14] and eight metrics [15] for evaluating human- human control divorced from the reality of warfare and the 
+automation function allocation.  weapons  that  have  long  been  considered  acceptable  in 
+To show how function allocation can be utilized to frame  conducting it.” ICRAC's first and third MHC requirements of 
+MHC such that it is sufficiently precise to be applied to a  a human commander  would seem  to eliminate the use of 
+specific system, while simultaneously comprehensive enough  unguided munitions which do not contain a guidance system 
+to adapt to the inevitable evolution of AWS, we first review  and simply follow their ballistic trajectory. Once the bomb or 
+the  current  ambiguities  and  questions  regarding  proposed  missile or bullet is launched/shot at an area containing enemy 
+definitions of  MHC. Then  we review  the requirements of  combatants,  a  non-combatant  may  enter  the  target  area, 
+effective  function  allocation,  methods  for  modeling  and  however, the commander would not be able to ‘react’ to the 
+measuring function allocation, and show how they relate to  change  (ICRAC  Req.  1)  nor  suspend  or  abort  the  attack 
+MHC.  Based  on  the  established  modeling  and  measuring  (ICRAC Req. 2). 
+techniques  for  function  allocation,  we  then  compare  and  Furthermore,  even  if  there  was  agreement  on  what 
+analyze  the  definitions  of  MHC  and  the  DoD  AWS  operational concerns to address and regulate, in many cases 
+definitions.  We  conclude  the  paper  by  introducing  a  the wording is insufficiently precise to be practically applied 
+framework  for  incorporating  operational  and  technical  by  designers.  Consider  for  instance  the  terms  ‘adequate 
+considerations into the process developing rules and standards  contextual information’, ‘sufficient time for deliberation’, or 
+for AWS.  ‘properly  trained.’  While  they  all  are  well  intended 
+requirements, there are no systematic ways to determine if 
+II.  BACKGROUND  these  metrics  are  met.  It  is  highly  unlikely  that  any  two 
+designers, much less nations, would interpret them in the same 
+A. Current Definitions of Meaningful Human Control 
+way.  
+Meaningful human control definitions are fundamentally  The current states of these definitions of MHC leave many 
+exclusionary.  They  are  intended  to  be  a  set  of  minimum  additional issues to be considered. In concluding discussions 
+requirements for sufficient information and control such that  of proposed MHC definitions, authors consistently express a 
+any  weapon  which  does  not  enable  this  information  and  need for further debate and further precision (e.g. [9], [10], 
+control should not be allowed to operate in armed conflict.  [16], [17], [19]). 
+Horowitz and Scharre [16] provide the canonical examples of 
+B. Requirements for Effective Function Allocation 
+the two extremes of MHC: 
+Consider a person who sits in a room and is  Progress in defining MHC will require the use of precise 
+supposed to press a button every time a light  definitions, models, and measures. MHC in the context of 
+bulb in the room goes on. If the person does this  lethal autonomous weapons systems is, at its heart, a question 
+as instructed, and a weapon fires each time the  of function allocation. A function is an activity to be 
+© 2015 IEEE      Page 2 of 7 
+ Electronic copy available at: https://ssrn.com/abstract=2927702 2015 IEEE International Symposium on Technology in Society (ISTAS) Proceedings           DOI: 10.1109/ISTAS.2015.7439432 
+Table 1. Summary of proposed definitions of meaningful human control. 
+Article 36 [10]  ICRAC [17]  Center for a New American Security [16] 
+PREFACE 
+Requirements  for  meaningful  human  control  over  ICRAC hold that the minimum necessary conditions  Meaningful  human  control  has  three 
+individual  attacks  include,  but  are  not  necessarily  for meaningful control are:  essential components: 
+limited to: 
+REQUIREMENTS 
+Information – a human operator, and others responsible  First, a human commander (or operator) must have  1. Human operators are making informed, 
+for attack planning, need to have adequate contextual  full contextual and situational awareness of the target  conscious  decisions  about  the  use  of 
+information on the target area of an attack, information  area and be able to perceive and react to any change  weapons. 
+on why any specific object has been suggested as a  or unanticipated situations that may have arisen since 
+target for attack, information on mission objectives,  planning the attack. 
+and information on the immediate and longer-term 
+weapon effects that will be created from an attack in 
+that context.  
+Action – initiating the attack should require a positive  Second, there must be active cognitive participation in  2.    Human  operators  have  sufficient 
+action by a human operator.   the attack and sufficient time for deliberation on the  information to ensure the lawfulness of the 
+nature of the target, its significance in terms of the  action they  are  taking,  given  what  they 
+necessity and appropriateness of attack, and likely  know about the target, the weapon, and the 
+incidental and possible accidental effects of the attack.  context for action. 
+Accountability – those responsible for assessing the  Third, there must be a means for the rapid suspension  3. The weapon is designed and tested, and 
+information  and  executing  the  attack  need  to  be  or abortion of the attack.  human operators are properly trained, to 
+accountable for the outcomes of the attack.  ensure effective control over the use of the 
+weapon. 
+ 
+performed by an agent (e.g. selecting or engaging a target).  From  those  models,  Pritchett,  Feigh,  and  Kim  [15] 
+Therefore,  function  allocation  determines  how  to  allocate  developed 8 metrics for evaluating function allocation which 
+work  within  teams  of  human  and  automated  agents  [13].  could  be  derived  from  human-in-the-loop  simulations  or 
+Based on a review of the function allocation literature, Feigh  understandings of real operations: 1) workload, 2) stability of 
+and  Pritchett  [13]  derived  five  requirements  for  effective  the work environment, 3) mismatches between  responsibility  
+function allocation:  and  authority,  4)  incoherency in function allocations, 5) 
+1.  Each  agent  must  be  allocated  functions  that  it  is  interruptive automation, 6) automation's boundary conditions, 
+capable of performing.  7) function allocations limiting human adaptation to context, 
+2.  Each  agent  must  be  capable  of  performing  its  8) and mission  performance. 
+collective set of functions.  With  the  high  legal  and  political  concerns  of  AWS, 
+3.  The  function  allocation  must  be  realizable  with  mismatches  between  authority  and  responsibility  are 
+reasonable teamwork.  particularly  relevant  to  MHC.  Authority  describes  which 
+4.  The function allocation must support the dynamics of  functions  an  agent  is  asked  to  perform  and  responsibility 
+the work.  describes which outcomes an agent will be accountable for in 
+5.  The  function  allocation  should  be  the  result  of  an organizational, regulatory or legal sense [13]. The exemplar 
+deliberate design decisions.  of  a  gap  between  authority  and  responsibility  is  when 
+The  only  way  to  adhere  to  the  fifth  requirement  of  automation is assigned to execute a function in an operational 
+effective function allocation, that function allocation should be  sense but human will be held accountable in an organizational 
+the result of deliberate design decisions, is through the use of  and legal sense for its outcome [14]. One common result of 
+effective models and measures of function allocation. Based  mismatches between authority and responsibility is that the 
+on reviews of modeling [14] and measuring [15] techniques  human  is  unable  to  assess  whether  automation  is  correct, 
+for function allocation, this subsection provides justification  leading to overtrust or undertrust in the automation's actions 
+for their specific application to the operationalization of MHC.  [13]. 
+Two examples of modeling function allocation from [14] 
+C. Parallels between Function Allocation and Meaningful 
+are:  modeling  the  teamwork  and  individual  work  through 
+Human Control 
+abstraction hierarchy, and modeling teamwork as defined by 
+function  allocation  and  team  design.  The  modeling  of  The status and history of function allocation research is 
+teamwork through function allocation and team design is most  particularly relevant to MHC. In the following three ways, we 
+applicable to the proposed definitions of MHC as that is the  show  that  function  allocation  research  can  enable  novel, 
+level of specification of the definitions in MHC in Table 1 and  technical perspectives on MHC issues. 
+the DoD definitions of AWS. This modeling provides explicit  1) Subjective-Objective Principles 
+notation of which agent (e.g. human operator or AWS) has  Foundational principles of the law of armed conflict, such 
+control  over  which  function.  From  the  explicit  notation,  as proportionality, still rely on combinations of subjective-
+different specifications of teamwork (e.g. different definitions  objective  standards  for  determining  key  components  [20]. 
+of MHC and definitions of AWS) can be compared.  Function allocation is a field with a similar combination of 
+subjective understandings and objective metrics. Designing 
+© 2015 IEEE      Page 3 of 7 2015 IEEE International Symposium on Technology in Society (ISTAS) Proceedings           DOI: 10.1109/ISTAS.2015.7439432 
+Table 2. Summary of requirements for effective function allocation categorized into taskwork, teamwork, and collective work [8]. 
+Effective Function 
+Design Considerations  Resulting Issues if Requirement is Not Met 
+Allocation Types 
+Brittle automation: where emergencies must be handled by humans and 
+there is little support for off-nominal conditions 
+High workload spikes during off-nominal situations [22] and excessively 
+low workload during normal operations in between the spikes leading to 
+TASKWORK: 
+Design functions around both the automation  humans becoming out of the loop [22], [23]. 
+Each  agent  is  able  to 
+perform  each  of  the  and the human's capabilities.  Leftover  allocation  (automate  as  many  functions  as  technology  will 
+taskwork  functions  permit, and assume the human will pick up whichever functions are 
+assigned  to  him/her/it  leftover) often results in a human assigned to monitor automation or the 
+(Effective  Function  environment for conditions beyond which the operate; functions in which 
+Allocation Requirements 1  humans are ineffective [24] 
+& 2)  Gap between authority and responsibility: automation is assigned to 
+execute a function is an operational sense but human will be held 
+Consider authority-responsibility   accountable in an organizational and legal sense for its outcome. [25] 
+Without being able to assess whether automation is correct, humans often 
+overtrust or undertrust the automation [26] 
+TEAMWORK:  Automation and/or human unable to anticipate each other's information 
+Each  agent  is  able  to  needs and provide information at useful, non-interruptive times [27] 
+perform  each  of  the 
+teamwork  functions  Consider automation as a team member.  Clumsy automation which interrupts its team members because it cannot 
+assigned  to  him/her/it  implicitly sense information about whether other team members would 
+(Effective  Function  benefit from an interruption [28] 
+Allocation Requirement 3) 
+COLLECTIVE WORK:  Dynamic analysis of the physical environment.  In complex work environments where many functions interdependent and 
+Each  agent  is  able  to  Function  allocation  should  support  how  the  coupled, some couplings may be hidden. Unaccounted-for couplings can 
+perform the collective set  work environment is managed by the agents.  result in insufficient coordination, idling, and workload accumulation. 
+of taskwork and teamwork  Examine  the  tradeoff  between  maintaining 
+functions.  (Effective  predictability for the human versus applying  Adaptive function allocation (dynamically changing function allocation) 
+Function  Allocation  complex  automated  capabilities  and  can aggravate environmental unpredictability. 
+Requirements 3 & 4)  dynamically allocating functions [29] 
+ 
+function allocation has long been considered an art [21]. For 
+example,  desired  attributes  of  automation  include  that  it  III. MODELING AND EVALUATING FUNCTION ALLOCATION 
+should be “a good team member” and “not clumsy” with  DESIGNS FOR MEANINGFUL HUMAN CONTROL 
+general heuristics used to evaluate criteria [15]. Only recently  There are numerous methods of modeling, measuring, and 
+has  modeling  and  measuring  advanced  to  states  where  evaluating the function allocation of complex systems. From 
+researchers  could  start  identifying  good/bad  function  our  review  of  the  function  allocation  literature  we  have 
+allocation using objective metrics [14], [15]. This push toward  selected one method of modeling and evaluating to exemplify 
+more quantitative assessment of function allocation is similar  the ability of function allocation to assist in the process of 
+to the push for operationalization of MHC [9].  developing  the  rules  and  standards  of  MHC.  A  table 
+2) Exemplar Human-Automation Issues  describing the implementation of function allocation (Tables 
+Given the number of experiments and simulations used to  1-4 of [14]), what we term function allocation form, is used to 
+examine  these  issues  for  function  allocation  and  human- model  the  proposed  definitions  of  MHC  and  the  policy 
+automation  interaction,  many  issues  have  already  been  definitions of AWS set out by the DoD. Once the definitions 
+identified and explored. In addition to the literature review of  are transformed into function allocation form, the definitions 
+Feigh  and  Pritchett  [13],  Sheridan  and  Parasuraman  [30]  are  compared  to  determine  potential  conflicts.  Then,  to 
+review specific automation-related incidents and accidents.  measure and evaluate the definitions we examine the potential 
+3) Focus on Minimum Requirements  for  mismatches  between  autonomy,  authority,  and 
+The particular relevance of the requirements for effective  responsibility. Since we do not have computational models 
+function allocation -- and the derived models and measures –  like [15] we do not explicitly count the number of mismatches. 
+is that, “instead of seeking an optimal function allocation, [the  However, the discussion of the mismatches shows the value of 
+authors]  identify  those  requirements  that  any  function  the technique.  
+allocation should meet” [13]. Just as MHC definitions are 
+A. Comparing Definitions through Function Allocation Form 
+intended  to  set  the  minimum  requirements  for  “sufficient 
+information and control” of a weapon [11], these requirements  The MHC definitions in Table 1 and the official DoD 
+for  effective  function  allocation  set  general  minimum  definitions  of  AWS  [1]  were  transformed  into  function 
+standards for dividing work between human and automated  allocation  form  with  results  in  Table  3.  To  explain  the 
+agents within a team.  transformation, we use the DoD definition of a semi-AWS:  
+ 
+ 
+© 2015 IEEE      Page 4 of 7 2015 IEEE International Symposium on Technology in Society (ISTAS) Proceedings           DOI: 10.1109/ISTAS.2015.7439432 
+Table 3. Transformation of proposed meaningful human control definitions and U.S. Dept. of Defense (DoD) definitions, into function allocation form. 
+     
+Proposed Meaningful 
+  Human Control Definitions  DoD Definitions 
+   
+Human-
+Function  Article 36  ICRAC  AWS  Supervised AWS  Semi-AWS 
+Tracking and identifying targets    Automation*  Automation*    Automation*  Automation*  Automation 
+Select targets    Human  Human    Automation  Automation  Human 
+Information about target    Human  Human    Automation*  Human*  Human* 
+Information on mission objectives    Human  Human    Automation*  Human*  Human* 
+Information on weapon effects    Human  Human    Automation*  Human*  Human* 
+Cueing potential targets    Automation*  Automation*    Automation*  Automation*  Automation 
+Prioritizing selected targets    Automation*  Human    Automation*  Automation*  Automation 
+Timing when to fire    Automation*  Automation*    Automation*  Automation*  Automation 
+Engage targets    Human  Human    Automation  Automation  Automation 
+Terminal guidance    Automation*  Automation*    Automation*  Automation*  Automation 
+Intervene and terminate engagements    Human*  Human    Automation*  Human  Human* 
+* Interpretation of whether the function would be allocated to a human or automation as the definition was unclear. 
+ 
+Semi-autonomous  weapon  system:  A  weapon  requires  humans  to  be  able  to  intervene  and  terminate 
+system that, once activated, is intended to only  engagements. 
+engage  individual  targets  or  specific  target  Table 3 shows that the proposed definitions from Article 
+groups  that  have  been  selected  by  a  human  36 and ICRAC are in conflict with the U.S. DoD definitions. 
+operator.  Specifically, should either Article 36 or ICRAC's definitions 
+  be adopted in the laws of armed conflict, all levels of the 
+This includes:  DoD’s  AWS  would  be  illegal.  Based  on  Table  3,  the 
+  suggested issue of discussion between the groups is how to 
+Semi-autonomous weapon systems that employ  allocate the functions: selecting targets, prioritizing selected 
+autonomy  for  engagement-related  functions  targets, and engaging targets. 
+including, but not limited to, acquiring, tracking, 
+B. Evaluation of Mismatches Between Authority and 
+and identifying potential targets; cueing potential 
+Responsibility 
+targets to human operators; prioritizing selected 
+targets;  timing  of  when  to  fire;  or  providing  To  show  how  function  allocation  can  provide  critical 
+terminal guidance to home in on selected targets,  analysis of proposed definitions of MHC, this subsection uses 
+provided that human control is retained over the  the metric, “mismatches between responsibility and authority” 
+decision to select individual targets and specific  to examine a real military scenario. From an operational and 
+target groups for engagement.  technical  standpoint,  the  question  of  concern  is:  do  the 
+  proposed MHC definitions, as they are written, actually ensure 
+The  definition  of  semi-AWS  is  explicit  in  describing  their intended goal of requiring sufficient information and 
+which functions are assigned to a human agent or autonomous  control of a weapon operating in armed conflict? 
+agent. Each of the functions listed in the semi-AWS definition  As  an  example  of  this  potential  concern,  we  use  the 
+were listed in Table 3 and then designated, per the definition,  example  of  Rules  of  Engagement  for  the  U.S.  Army  of 
+to a human agent (Human) or automated agent (Automation).  anticipating attack when encountering a potential threat [31]. 
+Where  definitions  were  unclear  about  whether  a  function  A soldier is required to “not base anticipatory force on a mere 
+should be allocated to a human agent or automation agent, an  hunch that the person is hostile” [31] and instead determine if 
+interpretation  was  made  and  denoted  by  the  use  of  an  someone's  intentions  are  hostile  based  on  the  SALUTE 
+asterisk*.  format: 
+For the definitions of MHC from Article 36 and ICRAC,    Size – How many individuals are you facing? 
+in written form the similarities or differences were difficult to    Activity – What are they doing? Pointing a weapon? 
+see, however, in function allocation form, the similarity and    Location – Are they within arms range? In a prepared 
+differences are clearer.  firing position? Entered a restricted area? 
+With regards to selection of targets and information provided    Unit  –  Are  they  wearing  a  uniform?  Part  of  an 
+to the operator, both definitions agree. In contrast, ICRAC  organized armed force? 
+explicitly states that humans must be perform: 1) prioritization    Time – How soon before they are upon you? 
+of  selected  targets  and  2)  intervening  and  terminating    Equipment – Are they armed? With what? Range and 
+engagements.  lethality of his weapon?   
+For the definitions of AWS, the increased automation  The following is a scenario adapted from a real incident 
+from semi-AWS to AWS is also more evident in function  with the U.S. Marine Corps in Somalia in 1993 [31]: 
+allocation form. The definition for semi-AWS explicitly states   
+that human control is retained over selection of targets while 
+human-supervised  whereas  human-supervised  AWS  only 
+© 2015 IEEE      Page 5 of 7 2015 IEEE International Symposium on Technology in Society (ISTAS) Proceedings           DOI: 10.1109/ISTAS.2015.7439432 
+Imagine a soldier sitting in front of a text-based  cover the use of weapons across all of the various ways they 
+console  at  a  military  base  monitoring  an  may be used, and 2) reflect a realistic vision for how weapons 
+autonomous  weapon  system  miles  away  are  used  by  soldiers  in  all  domains  [16].  Additional 
+protecting a convoy of officials as they move  operational considerations can be found in [9]. 
+through a dangerous city. In this city, adults have  Technical considerations should be based on the effective 
+been  seen  handing  grenades  to  children  and  function allocation literature. The principles [13], models [14], 
+persuading them to use them against convoys. As  and measures [15], of function allocation provide an important 
+the  convoy  moves,  verbal  warnings  are  basis for ensuring that the rules and standards are instituted for 
+constantly given out by the AWS to stay away  AWS can be technologically adhered to. 
+from the convoy with the threat of deadly force.  In an important practical sense, separating legal, policy, 
+Suddenly, a boy, ignores the warnings and runs  operational, and technical considerations allow for the two 
+toward the convoy. At this point, the soldier's  sides of the AWS debate to clarify their perspectives: the 
+text-only  screen  comes  to  life:  “Target  atechnists1, who believe that technology (sensors, artificial 
+approaching convoy. Target ignored warnings.  intelligence, etc.) will never be capable of adhering to the law 
+SALUTE  factors  support  identification  as  of armed conflict (e.g. [5], [6], [32–34]), and the technists, 
+hostile. Target 5 seconds from convoy. Engage  who believe that someday robot technology may advance to a 
+with aimed fire?”  point that will enable AWS to adhere to the law of armed 
+  conflict (e.g. [3], [35–37]). 
+In this scenario the soldier is responsible for determining  For example, this framework could be  used to clarify 
+whether  to  engage  and  the  legal  considerations  of  the  discussions such as those found in Docherty [6], which first 
+engagement, but the AWS has the authority over analyzing the  states,  “it  is  highly  unlikely  that  a  robot  could  be  pre-
+information.  Importantly,  most  of  the  information  programmed  to  handle  the  infinite  number  of  scenarios  it 
+requirements  put  forth  by  Article  36  (see  Table  1)  were  might face so it would have to interpret a situation in real 
+satisfied but yet, there is still a mismatch between authority  time;”  then  states,  “the  test  [of  whether  an  attack  is 
+and  responsibility.  The  soldier  is  provided  some  level  of  proportional] requires more than a balancing of quantitative 
+contextual information and the SALUTE factors did support  data, and a robot could not be programmed to duplicate the 
+engagement  in  the  real-life  scenario,  but  there  is  likely  psychological processes in human judgment that are necessary 
+inadequate contextual information for the soldier to have all  to assess proportionality.” These two statements, and many 
+the responsibility.  others in the atechnist literature, conflate what is technically 
+feasible, whether AWS can be preprogrammed to interpret 
+IV. FRAMEWORK FOR DEVELOPING AWS RULES AND  situations  in  real-time,  versus  philosophical  concerns  over 
+STANDARDS  whether humans, and only humans, can adhere to the law of 
+It  can  be  further  argued  that  the  effective  function  armed conflict. (See [35] for arguments that humans are not 
+allocation literature provides a framework for designing rules  very good at adhering to the law of armed conflict.) 
+and standards for AWS. In addition to Anderson et al. who 
+stated  that  “rules  and  guidelines  for  the  development  of  V.  DISCUSSION AND CONCLUSION 
+autonomous  systems...could  be  based  not  only  on  legal  The  roles  and  responsibilities  of  technologists  with 
+requirements, but also policy considerations” [12] we argue  respect to the development of autonomous weapons systems 
+that technical considerations are also fundamental to effective  (AWS)  is  nearly  unparalleled  in  the  direct  relationship  to 
+rules  and  guidelines  that  can  practically  implemented  and  armed  conflict  and  human  rights.  The  widespread  public, 
+enforced.  political,  and  academic  discussion  regarding  the  safe 
+First,  law  and  policies  should  be  transformed  into  operations of AWS shows that there are significant social 
+function allocation form. Specifically, laws are the rules and  implications of operationalizing the rules and standards for 
+standards to be followed compulsorily (e.g. the law of armed  AWS. As Anderson et al. [12] states: “it is quite rare for an 
+conflict: necessity, distinction, proportionality, and humanity  international-law related question to arise before it actually 
+[12]) whereas policies are the objectives or goals of rules and  becomes  a  real-life  drama.  There  is  therefore  a  unique 
+standards (e.g. the proposed definitions of MHC and AWS).  (although probably short-lived) opportunity to get it right; to 
+This allows for the incorporation of accountability and moral  develop the rules and code of conduct for such systems before 
+responsibility standards [16], based on what the law of armed  they  are  field  on  the  battlefields  of  the  world  in  large 
+conflict  states  regarding  allowable  actions  during  armed  numbers.” 
+conflict. These rules state what armed conflict should and  In the interest of getting it right, this paper provided the 
+should not be; including, for example, the specific rules of  foundational  connection  from  the  legal  and  policy 
+engagement (see [31]).  considerations  for  MHC  of  AWS  to  the  technical 
+Then,  operational  and  technical  considerations  can  be  considerations of human-automation interaction described by 
+used to determine what rules and standards of AWS will be 
+                                                           
+effective. Operational considerations based on the realities of  1The labels of the two sides use the Latin root, “tech-'' which refers to 
+the use of force include that rules and standards should 1)  technology.  For  example,  atechnist  refers  to  being  against  technology, 
+specifically the use of technology which interprets the law of armed conflict. 
+© 2015 IEEE      Page 6 of 7 2015 IEEE International Symposium on Technology in Society (ISTAS) Proceedings           DOI: 10.1109/ISTAS.2015.7439432 
+effective  function  allocation.  By  transforming  proposed  [15]  A. R. Pritchett, S. Y. Kim, and K. M. Feigh, “Measuring Human-
+definitions of MHC and operational definitions of AWS into  Automation Function Allocation,” Journal of Cognitive Engineering 
+and Decision Making, vol. 8, pp. 52–77, 2014. 
+function  allocation  form,  we  were  able  to  examine  the 
+[16]  M. C. Horowitz and P. Scharre, “Meaningful Human Control in 
+conflicts between what MHC definitions would regulate and  Weapons Systems: A Primer,” Center for a New American Security, 
+what the DoD AWS definitions are attempting to build, and  Mar. 2015. 
+then through an example scenario we examined mismatches  [17]  D. Garcia, “ICRAC statement on technical issues to the 2014 UN 
+CCW Expert Meeting,” in CCW Meeting of Experts on Lethal 
+between what automation may be assigned to do and what the 
+Autonomous Weapons Systems, 2014. 
+human will be held accountable for.  [18]  N. Sharkey, “Towards a principle for the human supervisory control 
+There is also much more to be done to address the legal,  of robot weapons,” Politica & Società, vol. 3, no. 2, pp. 305–324, 
+policy, operational, and technical challenges of AWS using  2014. 
+[19]  N. Sharkey, “ICRAC celebrates successful fulfillment of its 2009 
+effective  function  allocation.  Future  research  in  this  area 
+mission.” International Committee for Robot Arms Control, May-
+should  include  more  advanced  models,  metrics,  and  even  2014. 
+simulations (e.g. [38]) to evaluate real and hypothetical case  [20]  J. D. Wright, “Excessive‘ ambiguity: analysing and redefining the 
+studies of AWS operations.  proportionality standard,” International Review of the Red Cross, vol. 
+94, pp. 819–854, 2012. 
+[21]  T. B. Sheridan, H. P. Van Cott, D. D. Woods, R. W. Pew, and P. A. 
+ACKNOWLEDGMENTS 
+Hancock,  “Allocating  functions  rationally  between  humans  and 
+The authors thank the Sam Nunn Security Program at Georgia  machines,” Ergonomics in Design: The Quarterly of Human Factors 
+Applications, vol. 6, no. 3, pp. 20–25, 1998. 
+Tech,  Dr.  Sy  Goodman,  and  Dr.  Margaret  Kosal  for 
+[22]  L. Bainbridge, “Ironies of automation,” Automatica, vol. 19, no. 6, 
+facilitating  the  initial  development  of  this  paper.  We  also 
+pp. 775–779, 1983. 
+thank the Dr. Amy Pritchett and Dr. Karen Feigh of Georgia  [23]  M. R. Endsley and E. O. Kiris, “The out-of-the-loop performance 
+Tech’s  Cognitive  Engineering  Center  for  teaching  us  the  problem and level of control in automation,” Human Factors: The 
+Journal of the Human Factors and Ergonomics Society, vol. 37, no. 
+importance of human-automation interaction. We also thank 
+2, pp. 381–394, 1995. 
+the two anonymous reviewers for their instructive comments 
+[24]  R. W. Bailey, Human performance engineering: A guide for system 
+and remarks which helped to improve the paper.  designers. Prentice Hall Professional Technical Reference, 1982. 
+[25]  D. D. Woods, “Cognitive technologies: The design of joint human-
+REFERENCES  machine cognitive systems,” AI magazine, vol. 6, no. 4, p. 86, 1985. 
+[26]  R. Parasuraman and V. Riley, “Humans and automation: Use, misuse, 
+[1]  U. S. D. of Defense, “Directive 3000.09: Autonomy in Weapon 
+disuse, abuse,” Human Factors: The Journal of the Human Factors 
+Systems,” United States of America: Department of Defense, Nov. 
+and Ergonomics Society, vol. 39, no. 2, pp. 230–253, 1997. 
+2012. 
+[27]  E. E. Entin and E. B. Entin, “Measures for evaluation of team 
+[2]  M.  Hagerott,  “Lethal  Autonomous  Weapons  Systems  (LAWS): 
+processes  and  performance  in  experiments  and  exercises,”  in 
+Offering a Framework and Suggestions,” in CCW Meeting of Experts 
+Proceedings of the 6th International Command and Control Research 
+on Lethal Autonomous Weapons Systems, 2014. 
+and Technology Symposium, 2001, pp. 1–14. 
+[3]  R. Arkin, “Lethal Autonomous Systems and the Plight of the Non-
+[28]  K.  Christoffersen  and  D.  D.  Woods,  “Advances  in  human 
+combatant,” AISB Quarterly, no. 137, 2013. 
+performance  and  cognitive  engineering  research,”  E.  Salas,  Ed. 
+[4]  G. E. Marchant, B. Allenby, R. Arkin, E. T. Barrett, J. Borenstein, L. 
+Bingley, UK: Emerald Group, 2002, pp. 1–12. 
+M. Gaudet, O. Kittrie, P. Lin, G. R. Lucas, R. O’Meara, and others, 
+[29]  C. A. Miller and R. Parasuraman, “Designing for flexible interaction 
+“International  governance  of  autonomous  military  robots,”  The 
+between  humans  and  automation:  Delegation  interfaces  for 
+Columbia Science and Technology Law Review, vol. 12, no. 7, pp. 
+supervisory control,” Human Factors: The Journal of the Human 
+272–315, 2011. 
+Factors and Ergonomics Society, vol. 49, no. 1, pp. 57–75, 2007. 
+[5]  B. L. Docherty, Mind the Gap: The Lack of Accountability for Killer 
+[30]  T.  B.  Sheridan  and  R.  Parasuraman,  “Human-automation 
+Robots. Human Rights Watch, 2015. 
+interaction,” Reviews of human factors and ergonomics, vol. 1, no. 1, 
+[6]  B. L. Docherty, Losing Humanity: The Case Against Killer Robots. 
+pp. 89–129, 2005. 
+Human Rights Watch, 2012. 
+[31]  M. S. Martins, “Rules of engagement for land forces: a matter of 
+[7]  D. Garcia, “The Case Against Killer Robots: Why the United States 
+training, not lawyering,” Mil. L. Rev., vol. 143, p. 1, 1994. 
+Should Ban Them,” Feogn Affairs. Foreign Affairs: Council on 
+[32]  B.  L.  Docherty,  Shaking  the  Foundations:  The  Human  Rights 
+Foreign Relations, May-2014. 
+Implications of Killer Robots. Human Rights Watch, 2014. 
+[8]  M. Bowden, “How the Predator Drone Changed the Character of 
+[33]  A. Krishnan, Killer robots: legality and ethicality of autonomous 
+War,” Smithsonian Magazine, pp. 1–3, 2013. 
+weapons. Ashgate Publishing, Ltd., 2009. 
+[9]  “The  Weaponization  of  Increasingly  Autonomous  Technologies: 
+[34]  N.  Sharkey,  “Death  strikes  from  the  sky:  the  calculus  of 
+Considering  how  Meaningful  Human  Control  might  move  the 
+proportionality,” Technology and Society Magazine, IEEE, vol. 28, 
+discussion  forward,”  United  Nations  Institute  for  Disarmament 
+no. 1, pp. 16–19, 2009. 
+Research (UNIDIR), 2014. 
+[35]  R. C. Arkin, “Governing Lethal Behavior: Embedding Ethics in a 
+[10]  A. 36, “Killer Robots: UK Government Policy on Fully Autonomous 
+Hybrid Deliberative/Reactive Robot Architecture,” Mobile Robot 
+Weapons,” Article 36, Apr. 2013. 
+Laboratory, College of Computing, Georgia Institute of Technology, 
+[11]  A. 36, “Key areas for debate on autonomous weapons systems,” 
+2011. 
+Article 36, May 2014. 
+[36]  P. M. Asaro, “Modeling the moral user,” Technology and Society 
+[12]  K. Anderson, D. Reisner, and M. C. Waxman, “Adapting the Law of 
+Magazine, IEEE, vol. 28, no. 1, pp. 20–24, 2009. 
+Armed Conflict to Autonomous Weapon Systems,” 2014. 
+[37]  J.  Canning,  “You’ve  just  been  disarmed.  Have  a  nice  day!,” 
+[13]  K.  M.  Feigh  and  A.  R.  Pritchett,  “Requirements  for  Effective 
+Technology and Society Magazine, IEEE, vol. 28, no. 1, pp. 13–15, 
+Function  Allocation  A  Critical  Review,”  Journal  of  Cognitive 
+2009. 
+Engineering and Decision Making, vol. 8, no. 1, pp. 23–32, 2014. 
+[38]  A. R. Pritchett, “Simulation to Assess Safety in Complex Work 
+[14]  A. R. Pritchett, S. Y. Kim, and K. M. Feigh, “Modeling Human–
+Environments,” in The Oxford handbook of cognitive engineering, J. 
+Automation Function Allocation,” Journal of Cognitive Engineering 
+D. Lee and A. Kirlik, Eds. New York, NY: Oxford University Press, 
+and Decision Making, vol. 8, no. 1, pp. 33–51, 2014. 
+2013, pp. 352–366. 
+ 
+© 2015 IEEE      Page 7 of 7 

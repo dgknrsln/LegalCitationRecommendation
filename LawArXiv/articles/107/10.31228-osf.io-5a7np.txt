@@ -1,0 +1,1961 @@
+Regulating Loot Boxes as Gambling? Towards a Combined Legal and 
+Self-Regulatory Consumer Protection Approach 
+ 
+Abstract 
+Loot boxes represent a popular and prevalent contemporary monetisation 
+innovation in video games that offers the purchasing player-consumer, who always 
+pays a set amount of money for each attempt, the opportunity to obtain randomised 
+virtual rewards of uncertain in-game and real-world value. Loot boxes have been 
+and continue to be scrutinised by regulators and policymakers because their 
+randomised nature is akin to gambling. The regulation of loot boxes is a current and 
+challenging international public policy and consumer protection issue. This paper 
+reviews the psychology literature on the potential harms of loot boxes and applies the 
+behavioural economics literature in order to identify the potentially abusive nature 
+and harmful effects of loot boxes, which justify their regulation. This paper calls on 
+the industry to publish loot box spending data and cooperate with independent 
+empirical research to avoid overregulation. By examining existing regulation, this 
+paper identifies the flaws of the ‘regulate loot boxes as gambling’ approach and 
+critiques the alternative consumer protection approach of adopting ethical game 
+design, such as disclosing the probabilities of obtaining randomised rewards and 
+setting maximum spending limits. This paper recommends a combined legal and 
+self-regulatory approach: the law should set out minimal acceptable standards of 
+consumer protection and industry self-regulation should thrive to achieve an even 
+higher standard. 
+ 
+Keywords 
+Loot Boxes; Video Game Law; Video Game Regulation; Consumer Protection; 
+Gambling; Video Games; Game Design; Ethical Game Design    
+    1  
+Table of Content 
+1. Introduction ........................................................................................................................ 3 
+1.1. History and commercial background ........................................................................... 4 
+1.2. Statistics: prevalence; engagement; total spending and individual spending ....... 6 
+2. Potential harm: perspectives from psychology and behavioural economics ............ 8 
+2.1. Link between problem gambling and loot boxes ........................................................ 9 
+2.2. Loot box prizes as rewards in a variable-ratio schedule of reinforcement .......... 10 
+2.3. Behavioural economics: loot boxes may abuse irrational biases .......................... 12 
+2.3.1. Entrapment .................................................................................................................. 13 
+2.3.2. Gambler’s fallacy ....................................................................................................... 13 
+2.3.3. Near-miss effect .......................................................................................................... 15 
+2.3.4. Blurring of lines between gambling and video gaming ........................................ 15 
+2.4. Call for game companies to release loot box spending data .................................. 16 
+2.4.1. Different perspectives on the ‘ethics’ of loot boxes in the industry ................... 18 
+2.5. Pre-emptive regulation justified by the precautionary principle? ........................ 21 
+2.5.1. Avoiding undesirable but potentially imminent overregulation ........................ 21 
+2.5.2. Certain implementations of loot boxes are defensible ......................................... 23 
+3. Regulating loot boxes as gambling? Limited success and many flaws ................... 24 
+3.1. Divergent definitions of gambling .............................................................................. 24 
+3.2. Divergent degrees of enforcement ............................................................................... 25 
+3.3. Lack of universal, international consumer protection ............................................ 26 
+3.4. Departing from the ‘regulate loot boxes as gambling’ approach ........................... 27 
+4. Consumer protection measures? .................................................................................... 28 
+4.1. Disclosure of probabilities of obtaining potential rewards ................................... 29 
+4.1.1. Discretion as to the method of compliance is problematic ................................. 30 
+4.1.2. Enforcement is necessary to ensure consumer confidence .................................... 32 
+4.1.3. Voluntary self-regulation has no teeth and may be ignored ............................... 33 
+4.2. Maximum spending limit ............................................................................................. 34 
+4.2.1. Maximum in-game spending limits in South Korea and the PRC ...................... 36 
+4.2.2. Enforcement of the limits is difficult ...................................................................... 37 
+4.2.3. Maximum gameplay time limits and curfew shutdown laws ............................. 38 
+4.3. Ethical game design ‘tool box’: consumer protection measures applied 
+simultaneously ..................................................................................................................... 44 
+4.4. Past instances of minimal compliance by game companies sowed distrust ....... 47 
+5. Conclusion: a combined legal and self-regulatory approach to loot boxes ............ 49 
+References .............................................................................................................................. 52 
+   
+2      
+1. Introduction 
+‘Loot boxes’ are consumable virtual items in video games that can be 
+redeemed (or ‘opened’) by players to receive randomised rewards, which may be 
+merely cosmetic, or which may influence the game more significantly by unlocking 
+additional game content or manipulating the player’s in-game power. This paper 
+adopts a wide interpretation of the meaning of ‘loot boxes’ to include other 
+randomised monetisation methods in video games which may not necessarily be 
+represented as a ‘box:’ for example, treasure chests; military supply crates; card 
+packs; gacha prize dispensers; and prize wheels. In some games, these rewards may 
+be transferable between players and accordingly gain real-world monetary value.1 
+Randomised game mechanics in general are arguably inherent to game design and 
+have been implemented in video games for decades.2 However, paid loot boxes 
+specifically, i.e., loot boxes that require the payment of real-world money to obtain 
+(rather than loot boxes that are obtained ‘for free’ by completing in-game tasks, such 
+as defeating enemies3) is a relatively recent monetisation innovation that has been 
+ 
+1 Aaron Drummond and others, ‘Why Loot Boxes Could Be Regulated as Gambling’ (2020) Advance 
+online publication. Nature Human Behaviour <doi.org/10.1038/s41562-020-0900-3> accessed 3 
+August 2020; David Zendle and others, ‘Paying for Loot Boxes Is Linked to Problem Gambling, 
+Regardless of Specific Features Like Cash-out and Pay-to-Win’ (2019) 102 Computers in Human 
+Behavior 181; Leon Y Xiao, ‘Which Implementations of Loot Boxes Constitute Gambling? A UK Legal 
+Perspective on the Potential Harms of Random Reward Mechanisms’ Forthcoming International 
+Journal of Mental Health and Addiction <doi.org/10.1007/s11469-020-00372-3>. 
+2 Rune Kristian Lundedal Nielsen and Paweł Grabarczyk, ‘Are Loot Boxes Gambling? Random 
+Reward Mechanisms in Video Games’ (2019) 4 Transactions of the Digital Games Research 
+Association 171, 175–179. 
+3 Non-paid loot boxes have been hypothesised to also be potentially harmful by normalising 
+gambling behaviour, especially in relation to children, see Xiao, ‘Which Implementations of Loot 
+Boxes Constitute Gambling?’ (n 1). However, the empirical basis for this assertion remains to be 
+established; therefore, this paper focuses on paid loot boxes. 
+    3  
+the subject of public controversy4 and regulatory scrutiny5 due to its randomised 
+nature and apparent similarity to gambling. 
+ 
+1.1. History and commercial background 
+The origin of the loot box mechanic can be traced back to the collectible and 
+tradable sports cards of the mid-twentieth century.6 Loot boxes were inspired by the 
+successful monetisation of Magic: The Gathering (1993, Wizards of the Coast), a 
+tabletop trading card game,7 which, instead of selling a complete collection of every 
+available card to its players, sells blind sealed packages of randomised cards of 
+varying power and value that forces players to effectively purchase duplicate cards, 
+and thereby spend more money than they otherwise would have to, in order to 
+obtain a complete collection.8 Magic: The Gathering has relied upon and sustained 
+itself on this same lucrative business model through to the present day. 
+ 
+The initial digital implementations of loot boxes were in free-to-play games 
+on mobile phones that relied solely on paid loot boxes to monetise, e.g., Puzzle & 
+Dragons (2012, GungHo Online Entertainment). Such games adopt the ‘freemium’ 
+business model: instead of directly selling all of their content outright, they offer a 
+ 
+4 Mainly in response the implementation of loot boxes in Star Wars Battlefront 2 (2017, Electronic Arts), 
+see GameSpot Staff, ‘Star Wars Battlefront 2’s Loot Box Controversy Explained’ (GameSpot, 22 
+November 2017) <www.gamespot.com/articles/star-wars-battlefront-2s-loot-box-controversy-
+expl/1100-6455155/> accessed 3 August 2020. Nielsen and Grabarczyk (n 2) 172. 
+5 Xiao, ‘Which Implementations of Loot Boxes Constitute Gambling?’ (n 1). 
+6 Nielsen and Grabarczyk (n 2) 176. See also Sara A Elliott and Daniel S Mason, ‘Emerging Legal 
+Issues in the Sports Industry: Are Trading Cards a Form of Gambling?’ (2003) 13 Journal of Legal 
+Aspects of Sport 101, 103.  
+7 See Jan Švelch, ‘Mediatization of a Card Game: Magic: The Gathering, Esports, and Streaming’ 
+(2019) Advance online publication. Media, Culture & Society 1, 5 
+<doi.org/10.1177/0163443719876536> accessed 3 August 2020. 
+8 Greg Costikyan, Uncertainty in Games (MIT Press 2013) 67–68. Nielsen and Grabarczyk (n 2) 176. cf 
+Magic: The Gathering’s now-expired patent detailed how the duplicate cards were intended to 
+encourage trading between players, see Richard Channing Garfield, ‘Patent No. US5662332A: Trading 
+Card Game Method of Play’ (United States Patent and Trademark Office 1994) 11. 
+4      
+portion of their content to players for free as an alternative business strategy in order 
+to attract the largest possible userbase, and then monetised by convincing a portion 
+of that userbase they have attracted to make optional ‘premium’ in-game purchases 
+and unlock more content.9 However, loot boxes are now also commonly 
+implemented in full-priced games on consoles and PCs, e.g., Overwatch (2015, 
+Blizzard Entertainment).10 Such games originally monetised based solely on title 
+sales, but now also implement loot boxes as an additional, supplementary 
+monetisation method. 
+ 
+The adoption of alternative monetisation methods, such as implementing loot 
+boxes, is a highly successful attempt by the video game industry to respond to 
+commercial pressures within the rapidly developing but hypercompetitive 
+industry,11 such as meeting consumer pressures to keep title prices low despite 
+increasing production costs; rampant piracy facilitated by illegal online file-sharing, 
+including torrenting, that digital rights management (DRM) has failed to prevent 
+technologically; and the pressing need for less-established game companies to 
+explore alternative business models and user acquisition methods, such as 
+freemium, in an over-saturated market.12 The prevalent implementation of loot boxes 
+reflects a change in the business model of many video games to rely significantly on 
+‘microtransactions:’ this transition can be conceptualised as ‘game as a service,’ 
+which will be provided and paid for segmentally and periodically over a length of 
+ 
+9 Some free-to-play games’ content can potentially be accessed entirely for free if the player is willing 
+to invest significant amounts of their time. 
+10 Nielsen and Grabarczyk (n 2) 178. 
+11 Sebastian Schwiddessen and Philipp Karius, ‘Watch Your Loot Boxes! – Recent Developments and 
+Legal Assessment in Selected Key Jurisdictions From a Gambling Law Perspective’ (2018) 1 
+Interactive Entertainment Law Review 17, 19. 
+12 Andrew Moshirnia, ‘Precious and Worthless: A Comparative Perspective on Loot Boxes and 
+Gambling’ (2018) 20 Minnesota Journal of Law, Science & Technology 77, 84–85. 
+    5  
+time (e.g., subscription-based monthly ‘battle pass’ systems), as compared to the 
+traditional ‘game as a product’ conceptualisation by which a game was provided 
+and sold at once as a complete package. This change brings positive effects to 
+consumers, such as increased accessibility to gaming products, and the freedom to 
+choose to pay for video gaming services in manners more suitable to the consumer’s 
+own financial situation and desired amount of dedication to a particular game.13 
+Nonetheless, the widespread implementation of paid loot boxes in video games is 
+concerning. 
+ 
+1.2. Statistics: prevalence; engagement; total spending and individual spending 
+Loot boxes are currently prevalent in video games; are purchased by a 
+significant percentage of players; and are deemed suitable for purchase by children. 
+Macey and Hamari concluded that loot boxes are presently ‘prevalent in all types 
+and genres of contemporary video games’14 and that their purchase is widely 
+popular with esports participants across all age groups (46.2% of those surveyed 
+purchased loot boxes).15 Zendle et al.’s survey of the UK games market found that 
+56% of top-grossing mobile games on Apple and Android, and 36% of top-grossing 
+desktop games on Steam, contained loot boxes, and that 93% of Android games 
+containing loot boxes were deemed suitable for children aged 12+ and 57% were also 
+deemed suitable for children aged 7+.16 The UK Gambling Commission’s 2019 
+ 
+13 The Author is grateful to an anonymous peer-reviewer for providing this balanced perspective. 
+14 Joseph Macey and Juho Hamari, ‘ESports, Skins and Loot Boxes: Participants, Practices and 
+Problematic Behaviour Associated With Emergent Forms of Gambling’ (2019) 21 New Media & 
+Society 20, 28. 
+15 ibid 32, 35. 
+16 David Zendle and others, ‘The Prevalence of Loot Boxes in Mobile and Desktop Games’ (2020) 
+Advance online publication Addiction 3 <doi.org/10.1111/add.14973> accessed 3 August 2020. 
+6      
+survey found that 28.1% of 11–16-year-olds in the UK have used in-game items and 
+22.9% have paid money to open loot boxes.17 
+ 
+Conclusive data on loot box spending (either total or per individual player) 
+cannot be collated because such data is held by game companies and they do not 
+release loot box sales data to the public. Juniper Research predicted that total 
+spending on loot boxes and ‘skins gambling’ (i.e., gambling on, inter alia, eSports 
+tournament results using in-game cosmetic items, including those obtained from 
+loot boxes18) will rise from under US$30 billion (≈£22.9 billion) in 2018 to US$50 
+billion (≈£38.2 billion) in 2022.19 Approximately 20% of all surveyed Heroes of the 
+Storm (2015, Blizzard Entertainment) players were classified as problem gamblers on 
+the Problem Gambling Severity Index (PGSI):20 such players were documented to 
+have individually spent on average US$83.86 (≈£64) monthly on the loot boxes of 
+just this one game.21 Players may well be invested in and playing multiple games 
+simultaneously, and therefore spending money buying loot boxes in multiple games. 
+Therefore, actual monthly individual spending on loot boxes may be many times 
+more than Zendle’s findings. Indeed, mainstream media has reported extreme cases, 
+demonstrating public attention to the issue: four children spent ‘nearly £550 in three 
+ 
+17 UK Gambling Commission, ‘Young People and Gambling Survey 2019: A Research Study among 
+11-16 Year Olds in Great Britain’ (2019) 39 <www.gamblingcommission.gov.uk/PDF/Young-People-
+Gambling-Report-2019.pdf> accessed 3 August 2020. 
+18 Skins gambling is another gambling-related video game issue that should be addressed either by 
+law or self-regulation to ensure consumer protection, especially in relation to vulnerable groups, such 
+as children. The psychology literature on loot boxes, and how loot boxes will be addressed by the 
+industry and by regulators, may inform the regulation of skins gambling. However, skins gambling is 
+not within the ambit of this paper. 
+19 Juniper Research, ‘In-Game Gambling ~ the Next Cash Cow for Publishers’ (2018) 4 
+<www.juniperresearch.com/document-library/white-papers/in-game-gambling-the-next-cash-cow> 
+accessed 3 August 2020. 
+20 David Zendle, ‘Problem Gamblers Spend Less Money When Loot Boxes Are Removed from a 
+Game: A before and after Study of Heroes of the Storm’ (2019) 7 PeerJ e7700, 7. 
+21 ibid 11. 
+    7  
+weeks’ on loot boxes using their father’s bank account without permission and still 
+failed to get the rare item they were after.22 Another player discovered that he has 
+‘spent over US$10,000 [(≈£7642)] in just two years’ on the loot boxes of one single 
+game by requesting his personal data from the game company using data protection 
+legislation;23 this latter case also demonstrates that game companies have indeed 
+collected and are in possession of data on individual players’ loot box spending. 
+ 
+The statistics cited demonstrate that the video game industry has a significant 
+financial interest in loot boxes and may be incentivised to ensure their continued un-
+regulation, and that the regulation of loot boxes is a substantial issue that impacts 
+many people across the world, including vulnerable groups, such as children. 
+Accordingly, the regulation of loot boxes may be justifiable to prevent potential 
+gambling-related harms and, regardless of any contravention of gambling laws, to 
+ensure consumer protection in general. 
+ 
+2. Potential harm: perspectives from psychology and behavioural economics 
+Loot boxes are structurally similar to gambling because they possess elements 
+in common with gambling and satisfy Griffiths’ definition of gambling in 
+psychology.24 The purchase of loot boxes has been identified as an ‘emergent 
+ 
+22 Zoe Kleinman, ‘“The Kids Emptied Our Bank Account Playing Fifa”’ (BBC News, 9 July 2019) 
+<www.bbc.co.uk/news/technology-48908766> accessed 3 August 2020. 
+23 Wesley Yin-Poole, ‘FIFA Player Uses GDPR to Find out Everything EA Has on Him, Realises He’s 
+Spent over $10,000 in Two Years on Ultimate Team’ (Eurogamer, 25 July 2018) 
+<www.eurogamer.net/articles/2018-07-23-fifa-player-uses-gdpr-to-find-out-everything-ea-has-on-
+him-realises-hes-spent-over-usd10-000-in-two-years-on-ultimate-team> accessed 3 August 2020. 
+24 Aaron Drummond and James D Sauer, ‘Video Game Loot Boxes Are Psychologically Akin to 
+Gambling’ (2018) 2 Nature Human Behaviour 530. See Mark D Griffiths, Adolescent Gambling 
+(Routledge 1995) 1–2. A wider interpretation of ‘gambling’ may conclude that an even higher 
+proportion of loot boxes are structurally similar to gambling, see Leon Y Xiao, ‘Conceptualising the 
+Loot Box Transaction as a Gamble Between the Purchasing Player and the Video Game Company’ 
+(2020) Advance online publication. International Journal of Mental Health and Addiction 
+<doi.org/10.1007/s11469-020-00328-7> accessed 3 August 2020. 
+8      
+gambling behaviour.’25 The randomised nature of loot boxes is arguably designed to 
+encourage purchase in manners similar to gambling.26 Certain implementations of 
+loot boxes may be ‘predatory’ because they ‘disguise or withhold the true long-term 
+cost of the activity until players are already ﬁnancially and psychologically 
+committed.’27 
+ 
+2.1. Link between problem gambling and loot boxes 
+Zendle and Cairns’ large-scale survey, based on the players’ self-reported 
+quantitative measures of the intensity of their problem gambling on the Problem 
+Gambling Severity Index (PGSI), demonstrated ‘an important relationship between 
+problem gambling and the use of loot boxes,’28 which is that: ‘[t]he more severe that 
+participants’ problem gambling was, the more money they spent on loot boxes.’29 
+Subsequent psychology research has generally consistently reported some 
+ 
+25 Macey and Hamari (n 14) 20. 
+26 Digital, Culture, Media and Sport Committee of the House of Commons [DCMS Committee] (UK), 
+‘Immersive and Addictive Technologies: Fifteenth Report of Session 2017–19’ (2019) HC 1846 paras 
+121, 123 <publications.parliament.uk/pa/cm201719/cmselect/cmcumeds/1846/1846.pdf> accessed 
+14 April 2020. 
+27 Daniel L King and Paul H Delfabbro, ‘Predatory Monetization Schemes in Video Games (e.g. “Loot 
+Boxes”) and Internet Gaming Disorder’ (2018) 113 Addiction 1967, 1967. 
+28 David Zendle and Paul Cairns, ‘Video Game Loot Boxes Are Linked to Problem Gambling: Results 
+of a Large-Scale Survey’ (2018) 13 PLoS One 13(11): e0206767 6 
+<doi.org/10.1371/journal.pone.0206767> accessed 13 April 2020. 
+29 ibid 6–7. 
+    9  
+relationship between problem gambling and loot boxes.30 Further research is 
+required to conclusively identify the exact nature of the relationship between loot 
+boxes and gambling; however, arguably, further independent research is currently 
+being stifled by the video game industry’s general failure to be socially responsible 
+by cooperating with academics by providing verifiable player spending data on loot 
+boxes. 
+ 
+2.2. Loot box prizes as rewards in a variable-ratio schedule of reinforcement 
+Players’ problematic escalating desire to purchase and open loot boxes may 
+be explained by applying the behavioural psychology concept of ‘reinforcement:’ 
+Skinner demonstrated that a certain desired behaviour can be ‘reinforced’ in a 
+subject through a gradual process of incrementally ‘rewarding’ behaviours which 
+constitute correct steps towards the formation of that certain desired final 
+behaviour.31 Rare and valuable prizes obtained from loot boxes have been likened in 
+popular media to ‘rewards’ which are able to ‘positively reinforce’ the player 
+behaviour of purchasing and opening more loot boxes through the release, in the 
+ 
+30 See David Zendle and Paul Cairns, ‘Loot Boxes Are Again Linked to Problem Gambling: Results of 
+a Replication Study’ (2019) 14 PLoS One 14(3): e0213194 <doi.org/10.1371/journal.pone.0213194> 
+accessed 13 April 2020; Zendle and others (n 1); Gabriel A Brooks and Luke Clark, ‘Associations 
+between Loot Box Use, Problematic Gaming and Gambling, and Gambling-Related Cognitions’ (2019) 
+96 Addictive Behaviors 26; Søren Kristiansen and Majbritt Christine Severin, ‘Loot Box Engagement 
+and Problem Gambling among Adolescent Gamers: Findings from a National Survey’ (2019) 103 
+Addictive Behaviors 106254; Wen Li, Devin Mills and Lia Nower, ‘The Relationship of Loot Box 
+Purchases to Problem Video Gaming and Problem Gambling’ (2019) 97 Addictive Behaviors 27; 
+Chanel J Larche and others, ‘Rare Loot Box Rewards Trigger Larger Arousal and Reward Responses, 
+and Greater Urge to Open More Loot Boxes’ (2019) Advance online publication. Journal of Gambling 
+Studies <doi.org/10.1007/s10899-019-09913-5> accessed 3 August 2020; Andrew Brady and Garry 
+Prentice, ‘Are Loot Boxes Addictive? Analyzing Participant’s Physiological Arousal While Opening a 
+Loot Box’ (2019) Advance online publication Games and Culture 
+<doi.org/10.1177/1555412019895359> accessed 3 August 2020; cf Whitney DeCamp, ‘Loot Boxes and 
+Gambling: Similarities and Dissimilarities in Risk and Protective Factors’ (2020) Advance online 
+publication. Journal of Gambling Studies <doi.org/10.1007/s10899-020-09957-y> accessed 5 July 2020. 
+31 BF Skinner, Science and Human Behavior (reprinted 2014, B F Skinner Foundation 1953) 92 
+<www.bfskinner.org/newtestsite/wp-content/uploads/2014/02/ScienceHumanBehavior.pdf> 
+accessed 31 July 2019. 
+10     
+player’s brain, of dopamine,32 a neurotransmitter activated by rewards, and which 
+causes ‘wanting’ and potentially ‘addiction.’33 
+ 
+The randomised and unpredictable value of the rewards obtained from loot 
+boxes qualifies their reward schedule as the variable-ratio schedule of 
+reinforcement.34 This particular schedule of reinforcement rewards the subject 
+unpredictably such that they are forced to exhibit the desired behaviour repeatedly, 
+even when they are not guaranteed to obtain a reward for each instance of doing so, 
+in the hope that any one such instance of the desired behaviour would finally elicit a 
+reward.35 This schedule of reinforcement is widely known to and heavily abused by 
+gambling operators.36 
+ 
+The psychology literature appreciates that the positive reinforcement 
+framework, particularly the variable-ratio schedule of reinforcement, is capable of 
+causing the acquisition of extremely persistent behaviours, e.g., gambling and, 
+ 
+32 See Nathan Lawrence, ‘The Science Behind Why We Love Loot’ (Game Informer, 23 October 2015) 
+<www.gameinformer.com/b/features/archive/2015/10/23/the-science-behind-why-we-love-
+loot.aspx> accessed 3 August 2020; Alex Wiltshire, ‘Behind the Addictive Psychology and Seductive 
+Art of Loot Boxes’ (PC Gamer, 28 September 2017) <www.pcgamer.com/behind-the-addictive-
+psychology-and-seductive-art-of-loot-boxes/> accessed 21 August 2019; Heather Alexandra, ‘Loot 
+Boxes Are Designed to Exploit Us’ (Kotaku, 13 October 2017) <kotaku.com/loot-boxes-are-designed-
+to-exploit-us-1819457592> accessed 3 August 2020. 
+33 For the current understanding of the role of dopamine in the context of reward and addiction in 
+psychology, in relation to incentive salience, see Kent C Berridge and Terry E Robinson, ‘What Is the 
+Role of Dopamine in Reward: Hedonic Impact, Reward Learning, or Incentive Salience?’ (1998) 28 
+Brain Research Reviews 309; Kent C Berridge, ‘The Debate Over Dopamine’s Role in Reward: The 
+Case for Incentive Salience’ (2007) 191 Psychopharmacology 391; Kent C Berridge, Terry E Robinson 
+and J Wayne Aldridge, ‘Dissecting Components of Reward: “Liking”, “Wanting”, and Learning’ 
+(2009) 9 Neurosciences 65. 
+34 Vic Hood, ‘Are Loot Boxes Gambling?’ (Eurogamer, 12 October 2017) 
+<www.eurogamer.net/articles/2017-10-11-are-loot-boxes-gambling> accessed 3 August 2020; 
+Drummond and Sauer (n 24) 530, 531; Moshirnia (n 12) 87. 
+35 CB Ferster and BF Skinner, Schedules of Reinforcement (reprinted 2015, B F Skinner Foundation 1957) 
+ch 7 <www.bfskinner.org/wp-content/uploads/2015/05/Schedules_of_Reinforcement_PDF.pdf> 
+accessed 31 July 2019. 
+36 Skinner (n 31) 104; See also Terry J Knapp, ‘Behaviorism and Public Policy: B. F. Skinner’s Views on 
+Gambling’ (1997) 7 Behavior and Social Issues 129. 
+    11  
+perhaps by extension, purchasing and opening loot boxes, and therefore can explain 
+why loot boxes may constitute a predatory monetisation method.37 
+ 
+2.3. Behavioural economics: loot boxes may abuse irrational biases 
+In addition to loot boxes’ link with problem gambling and their potential 
+abuse of the variable-ratio schedule of reinforcement, loot boxes may also be 
+predatory because they present and abuse experimentally demonstrable decision-
+making cognitive biases and fallacies of the player,38 and thereby cause players to 
+make irrational, ‘maladaptive purchasing decisions.’39 It is arguable that, when 
+influenced and misled by decision-making biases, the player’s ‘choice’ to purchase 
+and open loot boxes is no longer free, voluntary and informed. This is synonymous 
+with how gamblers are influenced by fallacies and decision-making heuristics,40 
+which simplify judgement but may lead to ‘severe and systematic errors.’41 For 
+example, ignoring any house rules, the popular game of 38-pocket American roulette 
+has an expected value of − 5.26%, thus a bet of $1 is expected to, in the long-term, on 
+average, lose $0.0526.42 Playing roulette in these circumstances is irrational. 
+Nonetheless, gamblers continue willingly to make the decision of betting on roulette 
+and participating in other gambling games, and losing their money because they are 
+ 
+37 e.g., see Drummond and Sauer (n 24) 530; Zendle (n 20) 2. 
+38 Daniel L King and Paul H Delfabbro, ‘Loot Box Limit-Setting Is Not Sufficient on Its Own to 
+Prevent Players From Overspending: A Reply to Drummond, Sauer & Hall’ (2019) 114 Addiction 
+1324, 1324; Nielsen and Grabarczyk (n 2) 183–185. 
+39 King and Delfabbro, ‘Predatory Monetization Schemes in Video Games (e.g. “Loot Boxes”) and 
+Internet Gaming Disorder’ (n 27) 1967. 
+40 See Richard A Epstein, The Theory of Gambling and Statistical Logic (Academic Press 1967) ch 11. 
+41 Amos Tversky and Daniel Kahneman, ‘Judgment under Uncertainty: Heuristics and Biases’ (1974) 
+185 Science 1124, 1124. 
+42 Epstein (n 40) 131–135. 
+12     
+influenced by decision-making fallacies which cause them to make irrational 
+decisions.43 
+ 
+2.3.1. Entrapment 
+Irrational biases, previously identified to arise in relation to gambling, may 
+also be abused by game companies to cause players to purchase more loot boxes 
+than they otherwise would have. One such bias has been identified as ‘entrapment,’ 
+whereby ‘a decision-maker continues to expend resources at least in part to justify 
+previous, hitherto unfulfilled, expenditures.’44 For example, ‘when the gambler 
+wishes to recoup losses he has already incurred and therefore decides to roll the dice 
+“just one more time.”’45 Similarly, the loot box-purchasing player may wish to justify 
+the losses they have incurred in their previous failed loot box openings (when they 
+did not obtain the rewards they wanted) by buying even more loot boxes in the hope 
+of finally obtaining their desired valuable rewards; therefore, entrapment may 
+deceptively cause the player to make ‘maladaptive’ loot box purchasing decisions.46 
+ 
+2.3.2. Gambler’s fallacy 
+ 
+43 See DB Cornish, ‘Gambling, a Review of the Literature and Its Implications for Policy and Research: 
+A Home Office Research Unit Report’ (Home Office Research Study 42, Her Majesty’s Stationery 
+Office 1978) ch 11. 
+44 Joel Brockner, Myril C Shaw and Jeffrey Z Rubin, ‘Factors Affecting Withdrawal from an Escalating 
+Conflict: Quitting Before It’s Too Late’ (1979) 15 Journal of Experimental Social Psychology 492, 493. 
+45 Jeffrey Z Rubin and Joel Brockner, ‘Factors Affecting Entrapment in Waiting Situations: The 
+Rosencrantz and Guildenstern Effect’ (1975) 31 Journal of Personality and Social Psychology 1054, 
+1054. 
+46 King and Delfabbro, ‘Predatory Monetization Schemes in Video Games (e.g. “Loot Boxes”) and 
+Internet Gaming Disorder’ (n 27) 1967; Daniel L King and others, ‘Unfair Play? Video Games as 
+Exploitative Monetized Services: An Examination of Game Patents from a Consumer Protection 
+Perspective’ (2019) 101 Computers in Human Behavior 131, 140–141. 
+    13  
+Another such bias is the ‘gambler’s fallacy.’47 For example, ‘[a]fter observing a 
+long run of red on the roulette wheel, most people erroneously believe that black is 
+now due…’48 Such gamblers are failing to rationally recognise independent random 
+events as independent,49 and are instead irrationally and erroneously interrelating 
+them.50 The gambler’s fallacy could apply to the purchasing and opening of loot 
+boxes because players may erroneously interrelate each independent loot box 
+openings and believe that they would gain a better chance of ‘winning’ and opening 
+valuable content after successively ‘losing’ and failing to obtain rare items. 
+Accordingly, the gambler’s fallacy is capable of misleading the player into 
+purchasing more loot boxes immediately after they had just failed to obtain rare 
+items from a prior batch of loot box purchases, which would result in the player 
+spending more money on loot boxes than they had previously intended to or 
+budgeted for. It is particularly concerning that some games manipulate the 
+probabilities of obtaining rarer rewards according to the player’s spending 
+behaviour: ‘pity-timer’ mechanics increase the probabilities of acquiring rarer 
+rewards, or guarantee their acquisition, after the player has failed to obtain the rarer 
+rewards in prior attempts.51 These pity-timers arguably reinforce the gambler’s 
+fallacy by literally making it true with regards to certain, but not all, loot boxes: 
+ 
+47 See Daniel Kahneman and Amos Tversky, ‘Belief in the Law of Small Numbers’ (1971) 76 
+Psychological Bulletin 105, 106; Gideon B Keren and Willem A Wagenaar, ‘On the Psychology of 
+Playing Blackjack: Normative and Descriptive Considerations With Implications for Decision Theory’ 
+(1985) 114 Journal of Experimental Psychology: General 133, 149–150. 
+48 Tversky and Kahneman (n 41) 1125. 
+49 Charles T Clotfelter and Philip J Cook, ‘Notes: The “Gambler’s Fallacy” in Lottery Play’ (1993) 39 
+Management Science 1521, 1521. 
+50 Paul Rogers, ‘The Cognitive Psychology of Lottery Gambling: A Theoretical Review’ (1998) 14 
+Journal of Gambling Studies 111, 119. 
+51 Leon Y Xiao and Laura L Henderson, ‘Towards an Ethical Game Design Solution to Loot Boxes: A 
+Commentary on King and Delfabbro’ (2019) Advance online publication International Journal of 
+Mental Health and Addiction 7 <doi.org/10.1007/s11469-019-00164-4> accessed 3 August 2020; See 
+also King and others (n 46). 
+14     
+players may erroneously assume that all loot boxes have an in-built pity-timer 
+mechanic. 
+ 
+2.3.3. Near-miss effect 
+The third irrational bias that loot boxes may abuse is the ‘near-miss effect.’52 A 
+‘near-miss’ occurs when ‘an unsuccessful outcome is proximal to the designated 
+win, such as when a chosen horse finishes in second place or when two cherries are 
+displayed on the slot machine payline.’53 The near-miss effect refers to how the 
+presentation of a losing situation as a near-miss encourages players to make further 
+attempts.54 Clark et al. argued that ‘the recruitment of win-related regions [of the 
+brain] during near-miss outcomes underlies their ability to promote gambling 
+behavior.’55 Loot box openings are often presented with explosive visual animation 
+and celebratory audio effects regardless of the value of the rewards obtained. 
+Arguably, loot boxes are designed to build anticipation in the player similar to 
+gambling,56 and to disappoint that player in order to expose them to a near-miss so 
+as to encourage further purchases. 
+ 
+2.3.4. Blurring of lines between gambling and video gaming 
+ 
+52 Autorité de regulation des jeux en ligne [Regulatory Authority for Online Games; ARJEL] (France), 
+‘Rapport d’activité 2017-2018 [Activity Report 2017-2018]’ (2018) 5 <www.arjel.fr/IMG/pdf/rapport-
+activite-2017.pdf> accessed 3 August 2020; Cecilia D’Anastasio, ‘Why Opening Loot Boxes Feels Like 
+Christmas, According To Game Devs’ (Kotaku, 20 March 2017) <kotaku.com/why-opening-loot-
+boxes-feels-like-christmas-according-1793446800> accessed 24 August 2019; Moshirnia (n 12) 87; 
+David Zendle, Rachel Meyer and Harriet Over, ‘Adolescents and Loot Boxes: Links With Problem 
+Gambling and Motivations for Purchase’ (2019) 6 Royal Society Open Science: 190049 4 
+<doi.org/10.1098/rsos.190049> accessed 13 April 2020; Zendle and others (n 1) 183. 
+53 Luke Clark and others, ‘Gambling Near-Misses Enhance Motivation to Gamble and Recruit Win-
+Related Brain Circuitry’ (2009) 61 Neuron 481, 481. 
+54 RL Reid, ‘The Psychology of the Near Miss’ (1986) 2 Journal of Gambling Behavior 32, 32. 
+55 Clark and others (n 53) 485. 
+56 See Larche and others (n 30); Brady and Prentice (n 30). 
+    15  
+Reid suggested that people inexperienced with gambling may be more prone 
+to the near-miss effect.57 This is particularly worrying and relevant to the potential 
+regulation of loot boxes because many players engaging with loot boxes do not 
+necessarily realise that they are gambling when they play video games. Indeed, 
+sixteen regional gambling regulators58 have expressed their concerns with the risks 
+posed by ‘the blurring of lines between gambling and … video gaming.’59 Loot boxes 
+are randomised, not ‘innocent’ and may represent ‘games of chance,’ but they are 
+presented (or, if viewed more sceptically, hidden) within video games which are 
+generally perceived as ‘games of skill.’60 The conflation of the two activities is 
+socially worrying and a ‘clear public concern’ because consumers may be unable to 
+differentiate between the video game itself and (quasi-)gambling elements 
+incorporated into it (e.g., loot boxes), such that, for example, children may end up 
+gambling unknowingly with ‘money intended for computer game products’ given to 
+them to spend by their similarly unknowing parents.61 
+ 
+2.4. Call for game companies to release loot box spending data 
+ 
+57 Reid (n 54) 36. 
+58 Fifteen of the regulators are from Europe and represent: Austria, Czechia (the Czech Republic), 
+France, Gibraltar, Ireland, the Isle of Man, Jersey, Latvia, Malta, The Netherlands, Norway, Poland, 
+Portugal, Spain, the United Kingdom; and one, the Washington State Gambling Commission, is from 
+the United States of America. 
+59 UK Gambling Commission and others, ‘Declaration of Gambling Regulators on Their Concerns 
+Related to the Blurring of Lines Between Gambling and Gaming’ (2018) 
+<www.gamblingcommission.gov.uk/PDF/International-gaming-and-gambling-declaration-
+2018.pdf> accessed 25 July 2019. 
+60 See Belgische Kansspelcommissie [Belgian Gaming Commission], ‘Belgian Gaming Commission 
+Rules after Analysis: “Paying Loot Boxes Are Games of Chance”’ 
+<www.gamingcommission.be/opencms/opencms/jhksweb_en/gamingcommission/news/news_00
+61.html> accessed 3 August 2020. 
+61 UK Gambling Commission, ‘International Concern Over Blurred Lines Between Gambling and 
+Video Games’ (UK Gambling Commission Website, 17 September 2018) 
+<www.gamblingcommission.gov.uk/news-action-and-statistics/News/international-concern-over-
+blurred-lines-between-gambling-and-video-games> accessed 26 August 2019. 
+16     
+Actual loot box purchasing data collected and possessed by game companies62 
+is required to conduct comprehensive, empirical investigations on the relationship 
+between loot boxes and gambling; to confirm if the additional introduction of any 
+irrational biases outlined above induces maladaptive loot box purchases; and to 
+assess the potential harms of loot boxes in general. However, currently, such crucial 
+data has not been made available for independent research by game companies. 
+Although this failure to release data can be appreciated from a commercial 
+standpoint, this position does not treat consumers fairly, and is socially irresponsible 
+and arguably unethical. Although such data may be commercially sensitive as they 
+may reveal the amount of total sales and user numbers,63 game companies should 
+proactively collaborate with researchers to find appropriate ways to desensitise and 
+anonymise the data released.64 For example, the limited release of the anonymised 
+spending data of 1000 random users would not reveal any business sensitive 
+information but would still assist empirical research significantly. The release of 
+such data may also give rise to data protection concerns; however, an update to the 
+privacy policy should resolve any such issue. Most players would likely welcome 
+such research. 
+ 
+The applicability and effectiveness of industry data to research was 
+demonstrated by Zendle who took advantage of the removal of paid loot boxes from 
+ 
+62 As compared to experimental loot box purchasing data that may be collected by researchers using a 
+specially designed which would not have been derived from a commercially viable video game, or 
+potentially biased and inaccurate anecdotal data reported by players themselves. 
+63 The Author is grateful to an anonymous peer-reviewer for identifying this issue. 
+64 Whilst also ensuring that no conflicts of interests arise, e.g., when a certain company’s game is 
+incidentally ‘promoted’ by empirical research for being less harmful, especially when other 
+companies were not given the opportunity to be assessed in a comparable manner. 
+    17  
+Heroes of the Storm in March 201965 and conducted a survey which demonstrated that 
+‘When loot boxes were removed from Heroes of the Storm, problem gamblers spent 
+significantly less money in-game.’66 However, Zendle’s conclusion was only 
+tentative due to a lack of verifiable datasets: Zendle was only able to rely on 
+unverifiable, self-reported data from players. Only with the release of industry data 
+by game companies for further independent empirical research could the many 
+questions surrounding the potential harms of loot boxes be fully assessed and 
+answered.67 
+ 
+Currently, there is an ‘information asymmetry’ between elements of the video 
+game industry that implement paid loot boxes and the public: these companies are 
+in possession of data (if not also the results) as to the potential harms of loot boxes, 
+but the public and regulators are forced by these companies to have access to little, if 
+any, information. This information asymmetry renders the current relationship 
+between these companies and the public arguably inequitable, and renders the 
+current relationship between these companies and regulators ‘evasive’ and 
+disingenuous.68 
+ 
+2.4.1. Different perspectives on the ‘ethics’ of loot boxes in the industry 
+ 
+65 No reasoning was provided for this removal, see Blizzard Entertainment, ‘Heroes of the Storm PTR 
+Patch Notes – March 18, 2019’ (Heroes of the Storm Official Website, 18 March 2019) 
+<heroesofthestorm.com/en-us/blog/22933130/heroes-of-the-storm-ptr-patch-notes-march-18-2019-
+2019-3-18> accessed 11 August 2019. 
+66 Zendle (n 20) 11. 
+67 ibid. 
+68 See Clive Efford, Matthew Weissinger and Canon Pence, ‘Oral Evidence (Questions 1156–1157) to 
+the Immersive and Addictive Technologies Inquiry of the Digital, Culture, Media and Sport 
+Committee of the House of Commons’ (2019) 
+<data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/digital-culture-
+media-and-sport-committee/immersive-and-addictive-technologies/oral/103191.pdf> accessed 3 
+August 2020. 
+18     
+It ought to be recognised that different video game companies hold divergent 
+perspectives on the continued implementation of loot boxes. When giving evidence 
+to the Digital, Culture, Media and Sport Committee of the UK House of Commons 
+(DCMS Committee), Kerry Hopkins, Vice President for Legal at Electronics Arts, 
+refused to recognise paid loot boxes implemented in FIFA Ultimate Team as paid ‘loot 
+boxes’ and categorised them as ‘quite ethical and quite fun.’69 In contrast, Epic 
+Games has implemented ‘X-Ray Llamas’ which are paid loot boxes that reveal all of 
+its rewards prior to purchase, thus allowing players to make an informed decision.70 
+This effectively removed randomisation from the purchasing of loot boxes, but not 
+from the mechanic itself,71 and rendered the product no longer a ‘loot box’ per se and 
+more akin to purchasable additional game content, i.e., ‘DLCs.’ Other game 
+companies never implemented loot boxes in their games and have no plans to do so 
+in the future: Wan Hazmer of Metronomik, an indie developer, has recognised the 
+ethical issues relating to the implementation of paid loot boxes and refused to 
+implement them despite potential commercial loss.72 Given the current notoriety of 
+and aversion to paid loot boxes amongst video game players, it is arguable whether 
+or not the decision not to implement loot boxes by a particular game company could 
+be seen as an ‘ethical’ decision that is capable of being appreciated by players and 
+ 
+69 Kerry Hopkins, ‘Oral Evidence (Question 1142) to the Immersive and Addictive Technologies 
+Inquiry of the Digital, Culture, Media and Sport Committee of the House of Commons’ (2019) 
+<data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/digital-culture-
+media-and-sport-committee/immersive-and-addictive-technologies/oral/103191.pdf> accessed 3 
+August 2020. 
+70 Fortnite Team, ‘Loot Unboxing’ (Fortnite Official Website, 25 January 2019) 
+<www.epicgames.com/fortnite/en-US/news/loot-unboxing> accessed 3 August 2020. See also 
+Rebekah Valentine, ‘Epic Games Commits to Loot Box Transparency across Portfolio’ 
+(GamesIndustry.biz, 9 August 2019) <www.gamesindustry.biz/articles/2019-08-09-epic-games-
+commits-to-loot-box-transparency-across-portfolio> accessed 9 August 2019. 
+71 Which arguably ensures that they are still ‘quite fun’ as the content that the player can choose to 
+purchase (or not) is still randomised. 
+72 Ellia Pikri, ‘A Glimpse Into Wan Hazmer’s New RM300K M’sian Project After The Success Of 
+FFXV’ (Vulcan Post, 22 May 2018) <vulcanpost.com/640032/wan-hazmer-metronomik-malaysia-
+game> accessed 23 December 2019. 
+    19  
+may be promoted by the media,73 and would in turn drive up sales of the game and 
+be a better commercial decision in the long-term than implementing paid loot boxes. 
+ 
+Although the industry does not hold a uniform position on whether or not 
+paid loot boxes are ethical,74 the industry’s failure to release data for independent 
+research has been universal. For companies that are continuing to implement paid 
+loot boxes in video games, their failure to cooperate with regulators and researchers 
+by providing loot box spending data is irresponsible and arguably unethical, but 
+may be excused for commercial reasons, given that the area remains unregulated in 
+most countries. However, companies that have already stopped implementing paid 
+loot boxes (perhaps in recognition of the ethical implications), but are still in 
+possession of past loot box spending data, would not necessarily be negatively 
+affected by the prospective regulation of loot boxes and may be in a position to 
+release these data for independent research. In fact, the release of this data may 
+benefit responsible companies immediately through positive publicity, and also 
+long-term if prospective regulation of loot boxes would divert spending on loot 
+boxes to other more ethical video gaming monetisation methods. However, no such 
+release has been forthcoming. Socially responsible game companies that are in a 
+position to gain (or at least in a position not to lose) from the release of loot box 
+spending data should publish it and support independent research.75 
+ 
+73 See text to n 160. 
+74 And whether or not particular implementations of paid loot boxes are ethical, as pointed out by an 
+anonymous peer-reviewer, e.g., in relation to ‘pay-to-win,’ whereby a player can only be competitive 
+when compared to other players if they continually invest money into the game by purchasing newly 
+released products. 
+75 For academics, policymakers and NGO representatives calling for the release of industry data, see, 
+inter alia, Zendle (n 20) 10; Margaret Wood Hassan to Patricia Vance (14 February 2018) 2 
+<hassan.senate.gov/imo/media/doc/180214.ESRB.Letter.Final.pdf> accessed 18 August 2019; 
+Federal Trade Commission (US), ‘Inside the Game: Unlocking the Consumer Issues Surrounding Loot 
+Boxes, Session 2’ (Public Workshop, Washington, DC, US, 7 August 2019) <www.ftc.gov/news-
+events/audio-video/video/inside-game-unlocking-consumer-issues-surrounding-loot-boxes-session-
+2> accessed 11 August 2019 video record timestamps 1:52:54–1:53:08. 
+20     
+ 
+2.5. Pre-emptive regulation justified by the precautionary principle? 
+The DCMS Committee, in its recent inquiry report, argued that the 
+‘precautionary principle’ (that ‘the lack of scientific certainty cannot justify 
+[regulatory] inactivity in cases of high risk’76) should apply to justify the pre-emptive 
+regulation of loot boxes, because game companies cannot prove that the 
+monetisation schemes which they have designed and implemented, such as loot 
+boxes, are not harmful.77 The Committee went above and beyond only calling for 
+game companies to release industry data for research into the extent of the potential 
+harm of loot boxes in order to better inform potential regulation: the Committee 
+argued that it is no longer necessary for academics or regulators to prove that loot 
+boxes represent a predatory monetisation method and are harmful in order to justify 
+regulation, and that it is now instead the responsibility of the game companies 
+implementing these monetisation methods to prove that loot boxes are not predatory 
+and harmful in order to justify the continued lack of regulation. The DCMS 
+Committee’s assertion is worrying in that negative proof of loot boxes not being 
+harmful is impossible to obtain from a scientific perspective: it is literally asking the 
+impossible from the industry.78 A more reasonable approach would be to ask for 
+evidence that harm is unlikely or minimal. 
+  
+2.5.1. Avoiding undesirable but potentially imminent overregulation 
+ 
+76 Miguel Á Recuerda Girela, ‘Risk and Reason in the European Union Law’ (2006) 1 European Food 
+and Feed Law Review 270, 285. 
+77 DCMS Committee (n 26) para 79. 
+78 Xiao, ‘Which Implementations of Loot Boxes Constitute Gambling?’ (n 1). 
+    21  
+The DCMS Committee recommended that UK gambling law should be 
+amended in due course after consultation to regulate paid loot boxes,79 whilst, only a 
+few months later, the Gambling Industry Committee of the UK House of Lords 
+recommended the immediate regulation of paid loot boxes as gambling by executive 
+regulations without waiting for further consultation.80 These recommendations 
+teeter on the edge of overregulation and mirror the position taken by the Belgian 
+gambling regulator (that all paid loot boxes constitute gambling regardless of 
+whether or not their rewards are worth real-world money, and that consumers’ 
+access to all loot boxes would be prohibited, unless they are appropriately licensed 
+as regulated gambling), which has led to the complete removal of certain games 
+from the Belgian market, e.g., Animal Crossing: Pocket Camp (2017, Nintendo & 
+NDcube),81 and therefore deprived consumers of the opportunity to play certain 
+games. An overly paternalistic outright ban of loot boxes also unduly restricts the 
+industry’s creative output and economic potential82 (although forcing game 
+companies to stop defaulting to monetising with loot boxes and instead invent and 
+experiment with other more ethical monetisation methods may revitalise creativity). 
+Both game companies and players lose out when loot boxes are overregulated. These 
+comparatively drastic regulatory positions that have been recommended (a version 
+of which has been adopted in Belgium) suggest that, if the video game industry 
+continues to be uncooperative when working with independent researchers and 
+ 
+79 DCMS Committee (n 26) paras 97–98. 
+80 Select Committee on the Social and Economic Impact of the Gambling Industry of the House of 
+Lords (UK), ‘Report of Session 2019–21: Gambling Harm— Time for Action’ (2020) HL Paper 79 para 
+446 
+<web.archive.org/web/20200702195336/https://publications.parliament.uk/pa/ld5801/ldselect/ld
+gamb/79/79.pdf> accessed 2 July 2020. 
+81 Nintendo, ‘Belangrijke informatie voor gebruikers in België [Important Information for Users in 
+Belgium]’ (in Dutch, Nintendo Belgium, 21 May 2019) 
+<www.nintendo.be/nl/Nieuws/2019/mei/Belangrijke-informatie-voor-gebruikers-in-Belgie-
+1561911.html> accessed 3 August 2020. 
+82 Xiao and Henderson (n 51) 10. See also Moshirnia (n 12) 111–112. 
+22     
+regulators, overregulation negatively affecting the industry creatively and 
+commercially may be the inevitable result. The industry should be well-advised to 
+act responsibly now to avoid this potential undesirable outcome. 
+ 
+2.5.2. Certain implementations of loot boxes are defensible 
+The most prominent problem with paid loot boxes is potential 
+overspending.83 A loot box implementation released monthly whose rewards are all 
+guaranteed to be obtained if the maximum capped spending of £30 is reached by the 
+player is defensible. A paid loot box mechanic that can simultaneously be relatively 
+easily accessed by performing non-paid in-game actions, such as logging-in to the 
+game or defeating enemies, would also make the implementation more defensible. If 
+the rewards of the loot box do not influence the player’s in-game powers (and 
+perhaps only make cosmetic changes), and would not advantage the player when 
+compared to other players or a hypothetical version of themself who did not 
+purchase loot boxes, then this implementation is also defensible. These changes in 
+loot box implementation which try to prevent overspending and avoid placing 
+undue pressures on the consumer to spend money (such as when a loot box is made 
+available for purchase only for a limited time) can be referred to as ‘ethical game 
+design.’84 Therefore, in the Author’s opinion, the consumer protection issue relating 
+to loot boxes needs not necessarily be solved by the outright ban of loot boxes, which 
+may negatively affect game companies financially and deny players access to certain 
+ 
+83 Notwithstanding the potential harms of non-paid loot boxes and other seemingly harmless 
+gambling references ‘normalising’ gambling behaviours by making them appear to be regular social 
+activities that ‘normal’ people engage with, as such potential harms remain to be empirically 
+established, see Xiao, ‘Which Implementations of Loot Boxes Constitute Gambling?’ (n 1). 
+84 For other ethical game design measures that game companies should consider implementing, see 
+Daniel L King and Paul H Delfabbro, ‘Video Game Monetization (e.g., “Loot Boxes”): A Blueprint for 
+Practical Social Responsibility Measures’ (2019) 17 International Journal of Mental Health and 
+Addiction 166. See also Xiao and Henderson (n 51). 
+    23  
+video game content, and which may not be the best solution to the problem for all 
+parties involved. Accordingly, the prohibitive gambling law approach to regulating 
+loot boxes should be critiqued. 
+ 
+3. Regulating loot boxes as gambling? Limited success and many flaws 
+The obvious regulatory response to loot boxes has been to examine whether 
+or not they constitute ‘gambling’ under existing gambling regulation, and to classify 
+and regulate them as such if they do. The benefit of directly adopting existing 
+gambling law to potentially regulate loot boxes is that such laws are already 
+legislated and in effect, and therefore can be immediately executively applied by 
+relevant regulators, if appropriate. 
+ 
+3.1. Divergent definitions of gambling 
+To oversimplify the divergent gambling laws of various jurisdictions, 
+‘gambling’ is generally conceived of in law as requiring three elements: ‘stake;’ 
+‘chance;’ and ‘prize.’85 Certain implementations of loot boxes may plainly constitute 
+gambling under existing laws by satisfying these elements. However, each 
+jurisdiction defines each element differently, and may add or remove elements: for 
+example, under UK law, the ‘prize’ must be worth real-world money for the element 
+to be satisfied;86 in contrast, in Belgium, there is no ‘prize’ element per se, and Belgian 
+ 
+85 See Daniel L King, ‘Online Gaming and Gambling in Children and Adolescents – Normalising 
+Gambling in Cyber Places: A Review of the Literature’ (Victorian Responsible Gambling Foundation 
+2018) 21–22 
+<web.archive.org/web/20200629185932/https://responsiblegambling.vic.gov.au/documents/479/
+Online-gaming-and-gambling-in-children-and-adolescents_.pdf>. 
+86 See UK Gambling Commission, ‘Virtual Currencies, ESports and Social Gaming — Position Paper’ 
+(2017) 7, para 3.17 <www.gamblingcommission.gov.uk/PDF/Virtual-currencies-eSports-and-social-
+casino-gaming.pdf> accessed 14 April 2020. 
+24     
+gambling law instead examines whether or not there is a ‘chance of wins or losses.’87 
+A prize which is not worth real-world money is nonetheless a ‘win’ under Belgian 
+gambling law.88 
+ 
+Different gambling laws mean that certain implementations of loot boxes may 
+constitute gambling in one jurisdiction, but not in another.89 For example, the UK 
+Gambling Commission opined that only loot boxes which are both paid for and 
+which provide rewards worth real-world money constitute ‘gambling,’90 and that 
+neither non-paid loot boxes (which may nonetheless provide rewards worth real-
+world money), nor paid loot boxes that do not provide rewards worth real-world 
+money constitute ‘gambling.’91 The Dutch92 and French93 gambling regulators came 
+to similar conclusions. In contrast, the Belgian gambling regulator opined that paid 
+loot boxes constitute gambling regardless of whether or not their rewards can be 
+transferred between players and therefore possess real-world value.94  
+ 
+3.2. Divergent degrees of enforcement 
+ 
+87 Belgische Kansspelcommissie [Belgian Gaming Commission], ‘Onderzoeksrapport loot boxen 
+[Research Report on Loot Boxes]’ (2018) 11 
+<www.gamingcommission.be/opencms/export/sites/default/jhksweb_nl/documents/onderzoeksr
+apport-loot-boxen-final-publicatie.pdf> accessed 14 April 2020. 
+88 ibid. 
+89 Xiao, ‘Which Implementations of Loot Boxes Constitute Gambling?’ (n 1). 
+90 UK Gambling Commission, Position Paper (n 86) 7, para 3.17. 
+91 ibid 8, para 3.18. See also Schwiddessen and Karius (n 11) 23–28. 
+92 Kansspelautoriteit [The Netherlands Gaming Authority], ‘Onderzoek naar loot boxes: Een buit of 
+een last? [Study into Loot Boxes: A Treasure or a Burden?]’ (2018) para 4 
+<www.kansspelautoriteit.nl/publish/library/6/onderzoek_naar_loot_boxes_-
+_een_buit_of_een_last_-_nl.pdf> accessed 14 April 2020. 
+93 ARJEL (n 52) 5, 7. 
+94 Belgische Kansspelcommissie [Belgian Gaming Commission] (n 87) 17. 
+    25  
+A divergence can be identified even between the Dutch, and the UK and 
+French regulators: although they have taken similar regulatory positions on which 
+implementations of loot boxes constitute gambling, they enforce their positions to 
+different degrees. The Dutch regulator was much less sympathetic towards game 
+companies, who ostensibly explicitly disallow the transfer and selling of in-game 
+items between players (which would give them real-world value) but nonetheless 
+implicitly facilitate such activities. The Dutch regulator opined that such 
+implementations constitute gambling. The UK and French regulators gave game 
+companies the benefit of the doubt and determined that such transfer facilities do 
+not necessarily render a loot box ‘gambling’ if and when the game companies have 
+attempted to restrict the players’ ability to transfer and sell in-game items: the UK 
+regulator opined that the restriction has to be ‘successful,’95 but no prosecution or 
+other enforcement action has been brought against evidently ‘unsuccessful’ 
+implementations that can be and have been exploited;96 the French regulator decided 
+that, at present, the potential monetisation of the prizes through third-party websites 
+has not been explicitly authorised by the game operator, and, therefore, the prizes of 
+such loot boxes do not possess monetary value.97 
+ 
+3.3. Lack of universal, international consumer protection 
+The potential harms of paid loot boxes do not appear to be related to whether 
+or not their prizes are worth real-world money; paid loot boxes whose rewards are 
+not transferable and are not worth real-world money appear to be just as potentially 
+harmful.98 When a certain implementation of loot boxes constitutes gambling in a 
+ 
+95 See UK Gambling Commission, Position Paper (n 86) para 3.18. 
+96 See Drummond and others (n 1). 
+97 ARJEL (n 52) 7. 
+98 Zendle and others (n 1) 188, 190. 
+26     
+certain jurisdiction, then it should be regulated as gambling in that jurisdiction. 
+Unfortunately, not all implementations of paid loot boxes fall under the definitions 
+of gambling in all jurisdictions. This meant that consumers are protected only if they 
+happen to live in a country whose existing gambling law covers both paid loot box 
+types. Indeed, currently, only Belgian consumers are fully protected, as all paid loot 
+boxes have been removed; in the Netherlands, game companies complied by only 
+removing paid loot box reward transfer features (thus ensuring that loot box 
+rewards are not worth real-world money), without removing paid loot boxes 
+themselves.99 Dutch consumers remain exposed to the potential harms of paid loot 
+boxes whose rewards are not worth real-world money. The contrast in compliance 
+by 2K Games in the Netherlands and Belgium is particularly telling.100 Consumer 
+protection is not ensured universally as it should be. 
+ 
+3.4. Departing from the ‘regulate loot boxes as gambling’ approach 
+All paid loot boxes should be regulated regardless of whether or not their 
+rewards are worth real-world money, but not necessarily as gambling per se. 
+Multiple papers in the legal literature and gambling regulators have attempted to fit 
+the regulation of loot boxes into the existing gambling law framework of various 
+jurisdictions101 (e.g., arguing that certain implementations should constitute illegal 
+lottery gambling under Californian law102). Such assessments often fail in relation to 
+ 
+99 2K Games, ‘Statement Netherlands’ (2K Games Official Website, 2018) 
+<www.2k.com/myteaminfo/nl> accessed 10 September 2019; cf 2K Games, ‘Statement Belgium’ (2K 
+Games Official Website, 2018) <www.2k.com/myteaminfo/be> accessed 10 September 2019. 
+100 See ibid. 
+101 e.g., Moshirnia (n 12) 97–107; Schwiddessen and Karius (n 11) 23–42; David J Castillo, ‘Unpacking 
+the Loot Box: How Gaming’s Latest Monetization System Flirts with Traditional Gambling Methods’ 
+(2019) 59 Santa Clara Law Review 165, 176–193; Edwin Hong, ‘Loot Boxes: Gambling for the Next 
+Generation’ (2019) 46 Western State Law Review 61, 68–78; Kevin Liu, ‘A Global Analysis into Loot 
+Boxes: Is It “Virtually” Gambling?’ (2019) 28 Washington International Law Journal 763, 778–788. 
+102 Hong (n 101) 65–68. 
+    27  
+paid loot boxes whose rewards are not worth real-world money because the ‘prize’ 
+element cannot be satisfied. However, in the Author’s opinion, the inability of 
+existing gambling law in many jurisdictions to include paid loot boxes whose 
+rewards are not worth real-world money should be accepted. Hasty amendments to 
+gambling law that extends existing definitions of gambling to cover such 
+implementations of loot boxes, as for example recommended by the DCMS 
+Committee in the UK,103 is not necessarily well-advised: expanding the legal concept 
+of what may constitute ‘prizes,’ specifically the meaning of ‘money’s worth’ in the 
+UK to include perceived non-monetary value, ostensibly only for the purpose of 
+regulating loot boxes, may potentially unfairly render other harmless activities, and 
+other activities which are unlikely to be harmful, ‘gambling’ in the eyes of the law 
+and unduly restrict people’s ability to engage with them. Additionally, regulating 
+loot boxes as gambling would face the same difficulties encountered by the 
+regulation of online gambling in general, including complications with enforcement 
+when consumers gamble with overseas service providers.104 
+ 
+4. Consumer protection measures? 
+The regulation of loot boxes should also be approached from a consumer 
+protection perspective, in addition to applying existing gambling law.105 Ethical 
+game design measures that seek to minimise harms include, amongst others: 
+disclosing the probabilities of obtaining potential rewards; establishing maximum 
+ 
+103 DCMS Committee (n 26) paras 97–98. 
+104 See Adrian Parke and Mark Griffiths, ‘Why Internet Gambling Prohibition Will Ultimately Fail’ 
+(2004) 8 Gaming Law Review 295, 296–298. 
+105 See Annette Cerulli-Harms and others, ‘Loot Boxes in Online Games and Their Effect on 
+Consumers, in Particular Young Consumers’ (2020), p 42 
+<www.europarl.europa.eu/RegData/etudes/STUD/2020/652727/IPOL_STU(2020)652727_EN.pdf> 
+accessed 29 July 2020. 
+28     
+spending limits; and disabling ‘cash out’ features.106 These three measures have been 
+partially implemented in certain countries and as self-regulation by the industry in 
+other jurisdictions. The practicality of regulating through and enforcing these 
+measures are critiqued, and recommendations as to how to improve their 
+implementation in the future are made. 
+ 
+4.1. Disclosure of probabilities of obtaining potential rewards 
+The People’s Republic of China (PRC) did not approach the regulation of loot 
+boxes from a gambling perspective: instead, video gaming service providers in the 
+PRC are required to disclose the probabilities of obtaining potential rewards.107 The 
+video game industry has also generally been accepting of this measure as a self-
+regulation solution in other jurisdictions.108 For example, the Entertainment Software 
+Association (ESA) announced that the video game industry is ‘committing’ to 
+‘further inform[ing] consumer purchases:’ the three leading hardware providers, 
+Sony; Microsoft and Nintendo, ‘will require paid loot boxes in games developed for 
+their platforms to disclose information on the relative rarity or probability of 
+obtaining randomized virtual items.’109 The ESA’s proposal would have a global 
+ 
+106 For other ethical game design measures, see text to nn 84, 151–154. 
+107 文化部 [Ministry of Culture] (PRC), ‘文化部关于规范网络游戏运营加强事中事后监管工作的通知 
+[Notice of the Ministry of Culture on Regulating the Operation of Online Games and Strengthening 
+Concurrent and Ex-Post Supervisions] 文市发〔2016〕32号’ (1 December 2016) para 6 
+<www.mcprc.gov.cn/whzx/bnsjdt/whscs/201612/t20161205_464422.html> accessed 5 October 2018. 
+108 In Japan and South Korea, respectively, see NHN Japan 株式会社 [NHN Japan Corporation] and others, 
+‘ゲーム内表示等に関するガイドライン [Guidelines for In-Game Disclosures and Other Matters]’ (9 July 
+2012) 1–3, arts 3–5 
+<web.archive.org/web/20120709220824/http:/www.gree.co.jp/news/press/2012/0622_01/In-
+game_display_guidelines.pdf> accessed 6 July 2020; 한국게임산업협회 [Korea Association of Game Industry; 
+K-GAMES], ‘건강한 게임문화 조성을 위한 자율규제 시행기준 [Criteria on Implementation of Self-
+Regulation for Healthy Game Culture]’ (in Korean, 2018) 2, art 5 <www.gsok.or.kr/regulations-on-self-
+regulation/?uid=89&mod=document&pageid=1> accessed 9 July 2020. 
+109 Entertainment Software Association (ESA), ‘Video Game Industry Commitments to Further Inform 
+Consumer Purchases’ (ESA Official Website, 7 August 2019) <www.theesa.com/perspectives/video-
+game-industry-commitments-to-further-inform-consumer-purchases> accessed 8 August 2019. 
+    29  
+reach and will likely better protect many consumers across the world. The ESA also 
+identified that several major game publishers already disclose such information in 
+their games.110 Apple and Google both also require probability disclosures for games 
+published on their respective app stores which contain paid loot boxes.111 
+ 
+4.1.1. Discretion as to the method of compliance is problematic 
+Probabilities disclosures do not restrict consumer choice, but only seek to 
+better inform it. Similar disclosure requirements are imposed in regards to gambling 
+in other jurisdictions ‘to enable the customer to make an informed decision about his 
+or her chances of winning.’112 However, when discretion is given to gambling 
+operators as to the amount; format and location of how such information is to be 
+presented to consumers, gambling operators have arguably chosen suboptimal 
+methods in order to misguide consumers.113 In the PRC, significant discretion is 
+allowed to game companies as to where the probabilities should be disclosed: 
+disclosures made either in-game on the loot box purchase page or the game’s official 
+website are both compliant with the law.114 However, arguably, a disclosure made 
+in-game on the loot box’s purchase page would appear more prominently to the 
+consumer than a disclosure made on an official website, whose existence the player 
+ 
+110 ibid. 
+111 Apple, ‘App Store Review Guidelines’ (Apple Developer, 2020) <developer.apple.com/app-
+store/review/guidelines/> accessed 3 August 2020; Google, ‘Monetisation and Ads – Payments’ 
+(Google Play Developer Policy Centre, 2019) <play.google.com/intl/en-GB/about/monetization-
+ads/payments> accessed 29 July 2019. 
+112 e.g., UK Gambling Commission, ‘Remote Gambling and Software Technical Standards’ (2017) 12 
+<www.gamblingcommission.gov.uk/PDF/Remote-gambling-and-software-technical-standards.pdf> 
+accessed 30 July 2020. 
+113 Philip WS Newall, Lukasz Walasek and Elliot A Ludvig, ‘Equivalent Gambling Warning Labels 
+Are Perceived Differently’ Advance online publication Addiction <doi.org/10.1111/add.14954> 
+accessed 17 July 2020. 
+114 cf the more detailed guidance, which includes screenshots and examples, as to how to comply with 
+probabilities disclosure obligations provided by the South Korean self-regulation, see K-GAMES (n 
+108) 19–32. 
+30     
+may not even be aware of. A disclosure made in-game would accordingly arguably 
+be more likely to be read, and therefore be more effective at informing consumers 
+and preventing overspending.  
+ 
+The PRC law also did not set out requirements as to how accessible the 
+disclosures ought to be. For example, the disclosure in certain games can only be 
+accessed if the player interacts with a tiny question mark hidden away in a corner of 
+the loot box purchase screen; for other games, the disclosure can only be accessed 
+after the player follows multiple hyperlinks on the official website. The disclosure 
+could readily be provided more prominently and be more easily accessible, but 
+many game companies have chosen not to provide this information in the most 
+effective way. Indeed, the probabilities disclosure could be an automatic pop-up 
+(with audio effects, such as an alarm sound) that interrupts purchase when the 
+player attempts to buy loot boxes. Such an intrusive disclosure may be more 
+effective at alerting the consumers as to the probabilities of obtaining rewards and 
+preventing overspending. 
+ 
+Apple, Google and the ESA have similarly not specified where the 
+probabilities should be disclosed and how accessible the disclosure should be. The 
+PRC law, and existing and prospective self-regulation, can be improved: specific 
+requirements as to how, when and where probabilities disclosures should be made 
+may ensure that disclosures are easy to access and understand, and are made at 
+similar locations in all games, thus ensuring players playing multiple games and 
+players playing a new game would readily be able to find the disclosures, and 
+therefore be more effective at informing consumer choice and preventing 
+overspending. Compliance rate with the PRC legal obligation (and Apple and 
+    31  
+Google’s existing self-regulation) to disclosure probabilities in general, and the 
+discretionary methods of compliance that game companies have chosen to adopt 
+have not been assessed empirically. Future research should examine these aspects to 
+better inform future legal regulation and/or self-regulation. 
+ 
+4.1.2. Enforcement is necessary to ensure consumer confidence 
+A flaw with probabilities disclosures is that players cannot verify and thus be 
+confident that the probabilities disclosed by the game companies are accurate. This is 
+especially true in relation to voluntary disclosures and disclosures which are not 
+scrutinised through some form of enforcement. Indeed, the PRC law did not specify 
+how it will be enforced and it is unclear how the law is currently being enforced, if at 
+all.115 Apple and Google’s existing self-regulation similarly appears to be based on 
+trust and the probabilities disclosed by game companies are not scrutinised by either 
+platform provider. 
+ 
+In contrast, the South Korean self-regulation system, organised by K-GAMES 
+(Korea Association of Game Industry), which provides a certification system that 
+‘incentivises’ disclosure, has an enforcement system as set out in the Enforcement 
+Rules of Self-regulation Code for Healthy Game Culture.116 Article 11 explains that the 
+compliance of the most popular games on each platform will be monitored every 
+month.117 Article 12 details that: for the first instance of identified non-compliance, 
+the game company will be advised as to how it can comply; for the second offence, 
+ 
+115 The Author reasons from anecdotal evidence that limited enforcement is carried out when 
+competing game companies scrutinise and report each other, and when consumers report games that 
+they are playing, to the PRC’s official consumer protection hotline. 
+116 See K-GAMES (n 108) 40–43. 
+117 ibid 42. 
+32     
+the company will be warned that it is non-compliant; and for the third offence, the 
+company’s violation will be identified and published to inform consumers and it 
+will also be decertified.118 K-GAMES’ monthly ‘name-and-shame’ admirably does 
+not collude with influential game companies and does not discriminate against 
+smaller game companies by only targeting them: Dota 2 (2013), one of the most 
+popular MOBA games developed and published by Valve, a leading international 
+video game company that developed and operates Steam, is prominently published 
+at the top of the name and shame list for repeated non-compliance.119 
+ 
+4.1.3. Voluntary self-regulation has no teeth and may be ignored 
+K-GAMES’ self-regulatory system is exemplary: the PRC law; Apple and 
+Google’s existing self-regulation; and the ESA’s prospective self-regulation should 
+emulate K-GAMES’ enforcement system by ensuring that the probabilities 
+disclosures made by companies are accurate and can be trusted by consumers. 
+However, it must be noted that even with a robust self-regulatory system, such as K-
+GAMES’, some games remain non-compliant but continue to be popular with 
+consumers. For example, Valve’s Dota 2 has been declared non-compliant 19 times as 
+of June 2020 by K-GAMES without inspiring any change to Dota 2’s non-compliance 
+and Valve’s non-cooperation,120 which means that consumers remain at risk of 
+potential harm. Indeed, self-regulation may not ultimately be effective as measures 
+ 
+118 ibid. 
+119 한국게임산업협회 [Korea Association of Game Industry; K-GAMES], ‘확률형아이템 자율규제 미준수 
+게임물 19차 공표 [The 19th Announcement of Games Which Are Non-Compliant with Self-Regulatory 
+Probabilities Disclosure Obligations]’ (22 June 2020) 2 <www.gsok.or.kr/wp-
+content/uploads/2020/06/%EB%B3%B4%EB%8F%84%EC%9E%90%EB%A3%8C%ED%99%95%EB%A5%
+A0%ED%98%95%EC%95%84%EC%9D%B4%ED%85%9C-%EC%9E%90%EC%9C%A8%EA%B7%9C%E
+C%A0%9C-%EB%AF%B8%EC%A4%80%EC%88%98-%EA%B2%8C%EC%9E%84%EB%AC%BC-
+19%EC%B0%A8-%EA%B3%B5%ED%91%9C.pdf> accessed 1 August 2020. 
+120 ibid. 
+    33  
+remain voluntary. Decertification, and name-and-shame may not be sufficiently 
+strong disincentives. Legal sanctions, such as fines and injunctions against the 
+continued non-compliant operation of such games, may be the only reliable solution 
+in such cases to guarantee compliance and consumer protection. A combination of 
+the binding force of law and a robust enforcement regime may be a satisfactory first 
+step to ameliorating the potential harms of loot boxes by responsibly informing 
+consumers of the (un)likelihood of obtaining rewards and the potential harms of 
+paid loot boxes. 
+ 
+4.2. Maximum spending limit 
+As argued in Section 2.5.2. above,121 the most concerning issue with loot boxes 
+is overspending. More ethically designed implementations are defensible and need 
+not necessarily be prohibited. The probabilities disclosure measure discussed above 
+may assist players in making more informed decisions and therefore becoming less 
+likely to overspend. However, it is possible to be more interventionist by literally 
+preventing overspending by setting a maximum limit on the amount of money 
+players are allowed to spend on loot boxes. 
+ 
+In gambling contexts, ‘pre-commitment limit-setting involves users specifying 
+(voluntarily or compulsorily), before engaging in gambling, the maximum they 
+would like to spend. Once reached, this limit triggers a reminder message and a 
+cooling-off period in which the player is unable to gamble further.’122 Pre-
+commitment limit-setting is known to have a positive, if subtle, effect on reducing 
+ 
+121 See text to nn 83–84. 
+122 Aaron Drummond, James D Sauer and Lauren C Hall, ‘Loot Box Limit-Setting: A Potential Policy 
+to Protect Video Game Users With Gambling Problems?’ (2019) 114 Addiction 935, 935; cf King and 
+Delfabbro, ‘Loot Box Limit-Setting Is Not Sufficient on Its Own to Prevent Players from 
+Overspending’ (n 38). 
+34     
+and controlling problem gambling.123 Although it may not necessarily be the 
+monetary limit itself that curtails the gambling behaviour, but rather the ‘break in 
+play,’ i.e., that the gambler is forced to stop playing, cool off, step back and think 
+rationally, which is effective.124 
+ 
+The most prominent issue with setting a maximum spending limit is deciding 
+how much this limit should be, as regulators would need to make the difficult 
+assessment as to what is a fair and equitable amount of money to be spent on a game 
+for a specific period of time.125 Drummond, Sauer and Hall recommended a monthly 
+cap of US$50 (≈£38.21) on loot boxes to ensure the protection of players who would 
+be classified as problem gamblers (i.e., those who would significantly overspend on 
+loot boxes).126 US$50 is not necessarily the most optimal amount of money to spend 
+on loot boxes for every individual consumer: indeed, US$50 may be quite a lot more 
+money than many players, especially children, would be willing or allowed to spend 
+on a game per month, but US$50 may also be much less than what an affluent player 
+may want to spend monthly to financially support their favourite game developer. A 
+monthly limit of US$50 may also be appropriate because it is close to how much a 
+player would be expected to pay when purchasing a video game outright ‘as a 
+ 
+123 Andrew Harris and Mark D Griffiths, ‘A Critical Review of the Harm-Minimisation Tools 
+Available for Electronic Gambling’ (2017) 33 Journal of Gambling Studies 187, 214–215. 
+124 ibid 213. 
+125 cf the PRC judiciary recently expressed perfect willingness to engage with this assessment in 
+relation to how much money a particular child should be allowed to spend on video games given 
+their family’s economic circumstance and the game’s ‘genre:’ their jurisprudence on this point may be 
+insightful once generated, see Leon Y Xiao, ‘People’s Republic of China Legal Update: Supreme 
+People’s Court’s Guiding Opinion on Refund Requests Relating to Unauthorised Online Video 
+Gaming Transactions Paid for by Minors (Published 15 May 2020)’ (2020) Advance online publication. 
+Gaming Law Review <doi.org/10.1089/glr2.2020.0014> accessed 3 August 2020. 
+126 Drummond, Sauer and Hall (n 122) 935. 
+    35  
+product’127 (it is quite reasonable for such a game to be purchased, and for such an 
+amount of money to be spent on video gaming, every month); and because 
+monetising with loot boxes, in a non-predatory manner, and selling game titles 
+outright are equally valid monetisation methods that game companies may adopt 
+and therefore should be treated equally by the law. A relevant point to consider is 
+that the law may be able to disincentivise the implementation of loot boxes by 
+decreasing the maximum monthly spending limit on loot boxes to be lower than the 
+average price of a game software to discourage game companies from monetising 
+with loot boxes, as they would be forced to only be able to generate less revenue if 
+they choose to monetise with loot boxes than otherwise. 
+ 
+4.2.1. Maximum in-game spending limits in South Korea and the PRC 
+Monthly maximum spending limits on online video games generally (and not 
+limits on loot box spending specifically) have been imposed in South Korea and the 
+PRC against players. The South Korean monthly limits were previously imposed on 
+‘juveniles’ under the age of 19 at 70,000 Won (≈£44.8) and on adults at 500,000 Won 
+(≈£320.02). The adult limit was set arbitrarily high and would only have been 
+capable of preventing particularly extreme overspending. Notably, both South 
+Korean limits ‘have since been repealed citing unfair economic discrimination 
+against the video game industry as compared to other creative industries.’128 The 
+ 
+127 The average unit price of a video game software in the UK in 2017 was £33.47, see Katrin Kienast, 
+‘Video Game Software: Unit Price in the UK 2008-2017’ (Statista, 25 June 2018) 
+<www.statista.com/statistics/282012/video-game-software-unit-price-in-the-united-kingdom-uk> 
+accessed 11 September 2019. 
+128 Leon Y Xiao, ‘People’s Republic of China Legal Update: The Notice on the Prevention of Online 
+Gaming Addiction in Juveniles (Published October 25, 2019, Effective November 1, 2019)’ (2020) 24 
+Gaming Law Review 51, 53; See 문화체육관광부 [Ministry of Culture, Sports and Tourism (S Korea)], 
+‘보도자료 - 피시(PC)·온라인게임 성인 결제한도 폐지 [Press Release - Repeal of Maximum Spending 
+Limit for PC and Online Games Imposed on Adults]’ (in Korean, 2019) 
+<www.mcst.go.kr/kor/s_notice/press/pressView.jsp?pSeq=17352> accessed 2 September 2019. 
+36     
+PRC had imposed an impractical and unreasonable monthly limit of ¥10 Renminbi 
+(≈£1.10) on minors under the age of 18 in March 2011.129 This limit has been updated 
+in November 2019: minors under the age of 8 are prohibited from spending any 
+money at all; minors aged between 8 and 16 are allowed to spend up to ¥200 (≈£22); 
+and minors aged between 16 and 18 are allowed to spend ¥400 Renminbi (£44).130 
+These updated limits are more realistic; however, their regulatory effects remain to 
+be seen. 
+ 
+4.2.2. Enforcement of the limits is difficult 
+Pre-commitment maximum spending limits have proven difficult to impose 
+compulsorily in gambling contexts: gamblers may be able to switch to another 
+service provider to evade the limit and gamble more (although this issue may be 
+avoided if providers share information between each other).131 Such enforcement 
+difficulties are similarly present in the video gaming context. Both South Korea and 
+the PRC are countries that have universal national identification card systems that 
+advantageously allow for the verification of the real-life identity of all online players 
+(i.e., all user accounts must belong to a verified real-life identity), which then allows 
+for the enforcement of maximum spending limits against those players across 
+multiple user accounts; across different games and video gaming service providers; 
+and across hardware platforms. However, identity verification regulations have 
+ 
+129 文化部 [Ministry of Culture] (PRC) and others, ‘关于印发《“网络游戏未成年人家长监护工程”实施方
+案》的通知 [Notice on the Publication of the “‘Parental Monitoring of the Online Gaming of Minors Project’ 
+Implementation Plan”] 文市发[2011]6号’ (in Chinese, 15 January 2011) appendix 2, art 2 
+<old.moe.gov.cn//publicfiles/business/htmlfiles/moe/moe_1779/201105/119727.html> accessed 25 July 2019. 
+130 Xiao, ‘People’s Republic of China Legal Update’ (n 128) 52; 国家新闻出版署 [National Press and 
+Publication Administration; NPPA] (PRC), ‘关于防止未成年人沉迷网络游戏的通知 [Notice on the 
+Prevention of Online Gaming Addiction in Juveniles]’ (25 October 2019) art 3 
+<www.sapprft.gov.cn/sapprft/contents/6588/407807.shtml> accessed 20 November 2019. 
+131 Harris and Griffiths (n 123) 214. 
+    37  
+been documented to have been easily bypassed by minors in both South Korea and 
+in the PRC through using the personal identification documents of others, such as 
+the minor’s parents’ or the internet café operators’.132 
+ 
+In countries without universal identification systems, e.g., the UK,133 these 
+limits are even more difficult to impose against individuals.134 The alternative 
+imposition of these limits against only the player’s user account, rather than the 
+player’s real-life identity, can be circumvented through the creation and use of 
+multiple accounts for the same game, and by simply switching to playing another 
+game. However, unlike in gambling contexts where the gambling game’s game 
+design cannot realistically be changed, the multiple account issue can be resolved 
+through ethical game design by heavily disincentivising the player for possessing 
+multiple accounts, e.g., progression through the game requires virtual items that 
+cannot be directly bought using real-world money or transferred between accounts, 
+and must be earned through gameplay. Admittedly, this requires the unlikely 
+voluntary commitment to this measure from the entire video game industry 
+(because such game design would be commercially detrimental), as otherwise the 
+player would simply choose to switch to games with more unscrupulous operators. 
+ 
+4.2.3. Maximum gameplay time limits and curfew shutdown laws 
+Video gaming has also been regulated and restricted using the concept of 
+time, rather than money. Such measures may not be directly applicable to loot box 
+ 
+132 Jiyun Choi and others, ‘Effect of the Online Game Shutdown Policy on Internet Use, Internet 
+Addiction, and Sleeping Hours in Korean Adolescents’ (2018) 62 Journal of Adolescent Health 548, 
+549, 551–552; Jing Da Zhan and Hock Chuan Chan, ‘Government Regulation of Online Game 
+Addiction’ (2012) 30 Communications of the Association for Information Systems 193 
+<aisel.aisnet.org/cais/vol30/iss1/13>. 
+133 See Identity Documents Act 2010 s 1 repealing Identity Cards Act 2006. 
+134 Xiao, ‘People’s Republic of China Legal Update’ (n 128) 52, fn 2. 
+38     
+spending, but may provide certain insight from a regulatory perspective. Maximum 
+gameplay time limits seek to limit the total amount of time that a player is allowed 
+to play games. Curfew shutdown laws restrict players from playing games during 
+certain times, e.g., late nights and early mornings to ensure adequate sleep time, or 
+school hours to ensure attendance. Both measures are aimed towards reducing 
+gameplay time rather than in-game spending; nonetheless, the implications of their 
+imposition are insightful. Recently imposed rules in the PRC limit minors’ gameplay 
+time to 3 hours on public holidays, including weekends, and 1.5 hours on 
+weekdays.135 Curfew laws on online games have been imposed ‘between 0:00 and 
+6:00 in South Korea on juveniles under the age of 16 by Article 26(1) of the Juvenile 
+Protection Act (2011, No. 10659). The PRC restricts minors under the age of 18 from 
+online game services between 22:00 and 8:00.136 
+ 
+Such measures are particularly paternalistic as they severely restrict the 
+liberty of the individual, which is likely why they have thus far only been imposed 
+against minors. This suggests that loot box regulation may potentially also need to 
+be applied differently against child and adult players, and against children of 
+different ages. Temporal restriction measures have been documented to cause 
+economic harm against the game industry, and have been argued to even potentially 
+infringe fundamental human rights, ‘such as the underage players’ right to pursue 
+happiness and self-determination, their parents’ right to educate their children and 
+ 
+135 NPPA (n 130) art 2. 
+136 ibid. 
+    39  
+the game companies’ freedom of expression.’137 Stringent loot box (over)regulation 
+may cause similar harms. 
+ 
+Measures restricting gameplay time have also proven difficult to enforce 
+because they are easily circumvented using the personal identification documents of 
+others.138 Notably, psychology research has concluded that the South Korean curfew 
+law has been ineffective from a regulatory perspective because it neither reduced 
+adolescent internet usage nor increased adolescent sleeping hours, as were its 
+legislative intent.139 This is meaningful for loot box regulation and suggests that 
+more interventionist regulatory ‘solutions’ (such as banning all paid loot boxes) may 
+not be appropriate without empirical research evidence. Such overregulation fails to 
+protect consumers and harms the industry, and should be avoided. The call for 
+video game companies to be socially responsible by releasing loot box purchase data 
+and cooperating with independent researchers, in order to avoid harmful 
+overregulation, is worth repeating. 
+ 
+4.2.4. An ideal maximum spending limit system as applied to loot boxes 
+In the Author’s view, a universal monthly US$50 limit may be too low. 
+Considering individual circumstances, a particular player spending US$100 monthly 
+on the only game that they play every day for many hours may not be unreasonable 
+and should not be restricted. A higher monthly limit of US$200 per game should be 
+set universally as law to prevent extreme overspending on one particular video 
+ 
+137 Xiao and Henderson (n 51) 10–11; citing Byung-gwan Kim, ‘Implications of Forced Shutdown in 
+the Fourth Industrial Revolution’ (2018) 33 KISO Journal <journal.kiso.or.kr/?p=9248> accessed 21 
+August 2019. 
+138 Choi and others (n 132) 551–552. 
+139 ibid 551. 
+40     
+game. Game companies are welcome to set a lower limit for their games if they deem 
+it more ethical to do so (for example, a game company may voluntarily set a lower 
+monthly US$30 limit for their child players). This overarching legal limit could then 
+be complemented: individual players’ past spending behaviour would be examined 
+in a socially responsible and benevolent manner (rather than malevolently and 
+abusively to derive additional commercial gain140) to identify potential problematic 
+spenders, then such users are advised as to the potential harms of overspending on 
+loot boxes; provided with resources to participate in support programmes; and, 
+importantly, offered the option to set limits on their own future spending on loot 
+boxes. Ideally, the spending limits of various video games would be organised into 
+one centralised management system using which the player may be able to set 
+individual spending limits on a particular game and also a total spending limit on all 
+games. 
+ 
+Game companies do not necessarily need to implement their own maximum 
+spending limit as a hard cap on spending: instead, the loot box mechanic can be 
+designed to be exhaustive, such that once a predetermined amount of money is 
+spent (i.e., the maximum spending limit), all rewards are guaranteed to be given to 
+(or ‘won’ by) the player. It is also important to ensure that rewards do not expire or 
+cannot be expended, such that players need not make repeat purchases to obtain the 
+same rewards.141 Game companies can also additionally provide an alternative 
+(reasonably priced) option to buy all possible rewards (or even specific rewards) 
+from the loot box mechanic in a non-randomised manner for a predetermined 
+amount of money. This provides the players with the choice to either engage with 
+ 
+140 King and others (n 46). 
+141 King and Delfabbro, ‘Video Game Monetization (e.g., “Loot Boxes”)’ (n 84) 171. 
+    41  
+the loot box mechanic for a potential chance to win the most desirable rewards at a 
+discount, or to directly purchase all desired items upfront. 
+ 
+4.3. Disabling cash out features 
+‘Cash out’ features refer to methods by which in-game items can be 
+transferred between players and thus gain real-world value (e.g., inter-player trading 
+and auction houses). In-game item transfer systems in multiplayer games being 
+misused for money laundering has been well-documented by the media in the 
+PRC.142 In October 2019, the ability to cash out was disabled globally for Counter-
+Strike: Global Offensive (CS:GO) (2012, Hidden Path Entertainment & Valve 
+Corporation) by the Game’s publisher because ‘worldwide fraud networks have 
+recently shifted to using CS:GO keys to liquidate their gains, [such that] nearly all key 
+purchases that end up being traded or sold on the marketplace are believed to be 
+fraud-sourced.’143 This may have been done in recognition of potential intermediary 
+liability, as these video game features are facilitating criminality. Additionally, issues 
+of the validity and legality of the transfer of ownership (potentially involving minors 
+with no legal capacity) over decentralised virtual items and currency, whose value 
+may be particularly volatile and subject to little, if any, oversight, also arise.144 
+ 
+ 
+142 See e.g., 新浪游戏 [Sina Games], ‘网络游戏缘何变“洗钱”平台 [How Online Games Became 
+Platforms for Money-Laundering]’ (in Chinese, 5 September 2013) <games.sina.com.cn/y/n/2013-09-
+05/1116731339.shtml> accessed 31 October 2019; 腾讯游戏 [Tencent Games], ‘团伙网上诈骗百万元 通
+过游戏账户充值洗钱 [Criminal Gang Committed Million-Yuan Online Fraud and Money-Laundering 
+by Purchasing Microtransactions with Video Game Accounts]’ (in Chinese, 26 October 2014) 
+<games.qq.com/a/20141026/016665.htm> accessed 31 October 2019. 
+143 Valve Corporation, ‘Key Change’ (28 October 2019) <blog.counter-
+strike.net/index.php/2019/10/26113> accessed 31 October 2019 emphasis added. 
+144 See Xiao, ‘People’s Republic of China Legal Update: Supreme People’s Court’s Guiding Opinion on 
+Refund Requests Relating to Unauthorised Online Video Gaming Transactions Paid for by Minors 
+(Published 15 May 2020)’ (n 125). 
+42     
+Game companies have complied with the Dutch gambling regulator’s 
+requirement to disable cash out features, albeit sometimes unwillingly.145 The UK 
+and French regulators have also recognised the possible abuse of cash out features, 
+but have yet to act against demonstrable current cases (arguably a failure of their 
+executive function).146 Considering existing evidence of criminal abuse, there is a 
+substantial public policy reason to subject cash out features to additional regulatory 
+scrutiny. Existing self-regulatory measures that discourage abusing in-game item 
+transfer systems to cash out, such as by telling players not to do so and punishing 
+players caught doing so by banning or restricting their user accounts,147 are 
+insufficient, because abuse remains factually possible as such measures respond only 
+after the abuses have occurred and after harm has already been caused. Some 
+players would always be willing to risk account termination to cash out. Only the 
+blanket ban of cash out features can completely prevent abuse. Until cash out 
+features can be technologically secured such that they could not be abused, they 
+should not be implemented in new games and should be disabled in existing games. 
+ 
+This is the position that the Dutch regulator has enforced. Therefore, game 
+companies can be reasonably expected to understand how to comply with this 
+regulatory position. The UK and French regulators are also theoretically aligned 
+with this position, although they have not enforced it. Video game companies are in 
+a better position than gambling regulators to understand when and how in-game 
+ 
+145 e.g., ‘While we disagree with this position, we are working to comply with Kansspelautoriteit’s 
+current interpretation of these laws.’ See 2K Games, ‘Statement Netherlands’ (n 99). 
+146 Xiao, ‘Which Implementations of Loot Boxes Constitute Gambling?’ (n 1). See text to nn 95–97. 
+147 e.g., Electronic Arts (EA), ‘Be Safe with FUT Coins and FIFA Points’ (4 September 2019) 
+<web.archive.org/web/20200629224510/https://help.ea.com/en/help/fifa/be-safe-with-fut-coins-
+and-fifa-points/> accessed 29 June 2020; Electronic Arts (EA), ‘Know the Rules in EA SPORTS FIFA’ 
+(20 September 2019) 
+<web.archive.org/web/20200629224510/https://help.ea.com/en/help/fifa/fifa-rules/> accessed 29 
+June 2020. 
+    43  
+item transfer systems they have implemented may be abused by players. Gambling 
+regulators may not necessarily be able to identify each case easily and promptly. 
+Certain currently non-compliant game companies should act now to disable cash out 
+features; comply with UK and French law; and prevent potential harms to 
+consumers, instead of waiting until the regulators decide to finally enforce the law 
+against them. Similarly, if game companies are willing to comply with Dutch law to 
+better protect consumers in the Netherlands, then they should also responsibly 
+apply the same higher standard of consumer protection to all their consumers in 
+every jurisdiction, rather than merely complying minimally with the law (or, in the 
+case of UK and French law, be non-compliant with the law until it is enforced 
+against them.) 
+ 
+4.3. Ethical game design ‘tool box’: consumer protection measures applied 
+simultaneously 
+Recognising the practical difficulties with regulating using and enforcing 
+ethical game design measures detailed above,148 these measures are nonetheless 
+likely to be effective at reducing overspending on loot boxes to an extent and should 
+still be imposed where possible. Pre-commitment limit-setting in gambling contexts 
+only reduces gambling to a limited extent,149 and maximum spending limits in video 
+games would be difficult to effectively impose compulsorily by regulators in all 
+countries. Therefore, the imposition of any one measure (such as setting maximum 
+spending limits) cannot be perceived as a singular, permanent solution to loot 
+boxes.150 Multiple measures should be imposed simultaneously. The ineffectiveness 
+ 
+148 See Xiao and Henderson (n 51). 
+149 Harris and Griffiths (n 123). 
+150 King and Delfabbro, ‘Loot Box Limit-Setting Is Not Sufficient on Its Own to Prevent Players from 
+Overspending’ (n 38). 
+44     
+of the curfew law in South Korea at reducing internet usage or increasing sleeping 
+hours, and its economic harms, demonstrate that the regulation of technology, 
+particularly video gaming, requires a process of trial and error. The regulation of 
+technology is difficult and its impact unpredictable. Therefore, regulators should 
+experiment with multiple measures simultaneously with the aim of measuring their 
+effects, after being sufficiently informed by empirical research. 
+ 
+Additional ethical game design measures to consider include, amongst others: 
+not offering limited-time-only loot boxes containing unique rewards, so as to not 
+induce an unfair sense of artificial urgency in the player;151 not adopting the pay-to-
+win model152 by not offering loot box rewards that provide a competitive 
+advantage;153 and ensuring that loot box rewards can also realistically be obtained 
+either through gameplay without payment or through direct (rather than 
+randomised) purchase.154  
+ 
+For ethical game design to succeed, players and game companies must be 
+accepting of the concept. Xiao and Henderson argued that players may be averse to 
+these measures and perceive them as paternalistic.155 However, on the contrary, it is 
+especially encouraging that a survey of Norwegian gamblers has demonstrated that 
+ 
+151 King and Delfabbro, ‘Video Game Monetization (e.g., “Loot Boxes”)’ (n 84) 172. 
+152 Which leads to ‘power-creep’ which arguably destroys consumer confidence in the product and is 
+unsustainable from a game design perspective as more and more powerful items need to be created, 
+see Mark Rosewater, ‘Why Is Power Creep a Bad Thing?’ (Blogatog, 31 January 2016) 
+<markrosewater.tumblr.com/post/138448198918/why-is-power-creep-a-bad-thing> accessed 1 
+September 2019; Sam Stoddard, ‘Dealing With Power Creep’ (Magic: The Gathering Official Website, 9 
+August 2013) <magic.wizards.com/en/articles/archive/latest-developments/dealing-power-creep-
+2013-08-09> accessed 31 August 2019. 
+153 King and Delfabbro, ‘Video Game Monetization (e.g., “Loot Boxes”)’ (n 84) 171. 
+154 ibid 170–171. 
+155 Xiao and Henderson (n 51) 6–7. 
+    45  
+four-fifths of them have a positive attitude towards maximum spending limits, even 
+though it was compulsorily imposed, and that very few actually sought alternative 
+operators after they reached their limit.156 Therefore, players can be reasonably 
+expected to support these ethical game design measures once they appreciate that 
+these measures are implemented for their protection. 
+ 
+Admittedly, there are practical difficulties with convincing video game 
+companies to voluntarily adopt these measures as many of them are plainly not 
+commercially beneficial as their adoption will negatively impact revenue.157 A few 
+established game companies have voluntarily implemented some of these principles 
+to a certain degree:158 for example, Path of Exile (2013, Grinding Gear Games) and 
+Overwatch only sell loot boxes containing cosmetic items which do not confer 
+competitive advantages, and Hearthstone allows the possibility for players to obtain 
+all loot box rewards through gameplay and provides uses for duplicate rewards to 
+ensure that they would still be somewhat useful.159 There may be certain, albeit 
+limited, potential PR (public relations) benefits to adopting ethical game design, i.e., 
+the media and the public choosing to give recognition and business to certain game 
+companies for their demonstrated social responsibility. For example, video gaming 
+media widely reported on Fortnite’s implementation of X-Ray Llamas and Epic 
+Game’s commitment to ‘loot box transparency.’160 Indeed, public and commercial 
+pressures can encourage ethical game design practices from the industry and ensure 
+ 
+156 Michael Auer, Sigrun Høvik Reiestad and Mark D Griffiths, ‘Global Limit Setting as a Responsible 
+Gambling Tool: What Do Players Think?’ [2018] International Journal of Mental Health and Addiction 
+<doi.org/10.1007/s11469-018-9892-x> accessed 29 December 2019. 
+157 Xiao and Henderson (n 51) 5–6. 
+158 Matthew McCaffrey, ‘The Macro Problem of Microtransactions: The Self-Regulatory Challenges of 
+Video Game Loot Boxes’ (2019) 62 Business Horizons 483, 489–481. 
+159 Xiao and Henderson (n 51) 2. 
+160 See text to n 70. 
+46     
+their adoption: consumers should exert pressure by voting with their wallet and 
+choosing to spend their money only on ethically designed video games, and 
+governments should through discretionary grants and tax relief incentivise the 
+cessation of the implementation of potentially abusive game mechanics and the 
+adoption of ethical game design principles.161 
+ 
+The adoption of ethical game design also has the long-term benefit of 
+ensuring that game companies would not seek to invent other potentially abusive 
+mechanics to replace loot boxes after loot boxes become regulated, and thereby force 
+academics and regulators to again scramble to identify the potential harms of 
+another newly invented monetisation method and justify their regulation, whilst 
+exposing consumers to potential harms in the meantime before regulation is finally 
+again made. 
+ 
+4.4. Past instances of minimal compliance by game companies sowed distrust 
+Voluntary self-regulation is likely the best solution, if all elements of the video 
+game industry can be trusted to comply and endeavour to ensure consumer 
+protection to the best of their abilities. Unfortunately, self-regulation alone as a 
+solution must be treated with scepticism because major game companies have often 
+only acted when explicitly regulated against and have not sought to promote 
+consumer protection to the fullest and uniformly across jurisdictions.162 
+ 
+ 
+161 Xiao and Henderson (n 51) 12–13. 
+162 ibid 8–9; Hong (n 101) 79; cf the perspective from the industry, see Kerry Hopkins, ‘Oral Evidence 
+(Questions 1150–1152) to the Immersive and Addictive Technologies Inquiry of the Digital, Culture, 
+Media and Sport Committee of the House of Commons’ (2019) 
+<data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/digital-culture-
+media-and-sport-committee/immersive-and-addictive-technologies/oral/103191.pdf> accessed 3 
+August 2020. 
+    47  
+Consumers in Belgium are now protected from the potential harms of all paid 
+loot boxes only because of the regulatory action of the Belgian gambling regulator;163 
+consumers in the Netherlands are protected from cash out features, but not from 
+overspending on paid loot boxes that do not contain rewards that are worth real-
+world money, because of the comparatively more limited regulatory action of the 
+Dutch gambling regulator;164 and consumers in the UK and France and most other 
+countries remain largely unprotected from cash out features and overspending, 
+because of a lack of substantive regulatory action. 
+ 
+The disclosure of the probabilities of obtaining rewards from loot boxes was 
+initially published only because of the imposition of PRC law and only in Simplified 
+Chinese for the benefits of PRC players.165 Although the disclosures were often 
+immediately translated into English and published online by dedicated players for 
+the benefits of international players, technically and officially, the disclosures have 
+not been made available to players from non-PRC countries. Game companies have 
+not endeavoured to provide this information as soon as possible to all players in 
+manners most accessible to them, and only complied minimally by providing this 
+information to PRC players. 
+ 
+163 e.g., Blizzard Entertainment, ‘Paid Loot Boxes and Loot Chests Disabled for Players in Belgium’ 
+(Official Overwatch Forums, 27 August 2018) <eu.forums.blizzard.com/en/overwatch/t/paid-loot-
+boxes-and-loot-chests-disabled-for-players-in-belgium/8139> accessed 10 September 2019; 2K Games, 
+‘Statement Belgium’ (n 99); Nintendo (n 81). 
+164 e.g., 2K Games, ‘Statement Netherlands’ (n 99). 
+165 e.g., ‘In response to the Ministry of Culture’s new regulations…’ see DOTA2运营团队 [Chinese Dota 
+2 Operations Team], ‘应文化部新政策要求关于珍藏概率与结果的公示 [Disclosures in Response to New 
+Regulations Issued by the Ministry of Culture Concerning the Drop Rates and Results of Loot Boxes]’ (in 
+Chinese, Chinese Dota 2 Website, 2 May 2017) <www.dota2.com.cn/article/details/20170502/194771.html> 
+accessed 26 August 2019; See also Blizzard Entertainment, ‘关于《守望先锋》补给抽取概率公告 [Notice on 
+the Drop Rates of Overwatch Loot Boxes]’ (in Chinese, Official Chinese Overwatch Website, 23 March 2017) 
+<ow.blizzard.cn/article/news/486> accessed 29 July 2019; Blizzard Entertainment, ‘关于《炉石传说》卡牌包
+抽取概率的公示方式调整公告 [Notice on the Amended Drop Rates of Hearthstone Packs]’ (in Chinese, 
+Official Chinese Hearthstone Website, 2 August 2018) <hs.blizzard.cn/touch/articles/20/9546> accessed 29 July 
+2019. 
+48     
+ 
+5. Conclusion: a combined legal and self-regulatory approach to loot boxes 
+The level of consumer protection provided by game companies often depends 
+on the legal regulation in place, which is why it is necessary for legal regulation to 
+set a minimum acceptable standard to ensure a sufficient degree of consumer 
+protection, in the absence of proactive voluntary self-regulation. The best solution 
+going forward with loot box regulation may be for the law to set a minimum 
+standard that does not overregulate, and for self-regulation to complement the legal 
+regime by thriving to achieve an even higher standard of consumer protection. 
+ 
+In terms of the two types of paid loot boxes, this combined approach would 
+require that the law either prohibit, or regulate as licensed gambling, loot boxes 
+whose rewards are worth real-world money, depending on whether or not gambling 
+is either prohibited or regulated in the jurisdiction, so as to potentially allow video 
+gaming companies to expand into the regulated gambling industry in certain 
+jurisdictions. The combined regulatory approach would ensure that loot boxes 
+whose rewards are worth real-world money cannot be sold to children (which 
+addresses an issue of particular concern to academics; regulators; policymakers; the 
+media; and the public) and that their sale to adults will be strictly scrutinised (and 
+taxed) as gambling by regulators. Cash out features should be restricted by law 
+(which should be strictly enforced) at present until they can be technologically 
+secured, at which point the law may be disapplied and cash out features will be self-
+regulated as game companies would be in a better position to identify and prevent 
+abuse. 
+ 
+    49  
+The other type of paid loot boxes, those whose rewards are not worth real-
+world money, need not necessarily be prohibited or regulated as gambling (and in 
+fact, in the Author’s view, should not be). To prevent overspending, a reasonable but 
+considerably high maximum spending limit (which may be set at different values for 
+adults and children, and for children of various ages, and thus should resolve 
+academics’; regulators’; policymakers’; the media’s; and the public’s particular 
+concern as to children overspending on loot boxes) should be imposed as law, and 
+game companies should be encouraged to complement this legal requirement by 
+restricting player spending further by imposing lower spending limits, or by 
+ensuring that all loot box rewards are guaranteed to be obtained for a predetermined 
+and reasonable amount of money. 
+ 
+To facilitate the adoption of ethical game design, where possible, the law 
+should impose certain ethical game design measures as law: for example, the 
+obligation to disclose probabilities of obtaining rewards. The law should detail a 
+specific and uniform way to communicate such information to players, that is 
+sufficiently prominent and easy to understand, and the law should contain an 
+enforcement regime that is capable of punishing non-compliant game companies. 
+Game companies should be encouraged to improve on the legal requirement by 
+providing additional, even more prominent and easy-to-understand ways for 
+players to access probabilities disclosures. Other ethical game design measures 
+which cannot realistically be codified (because they would require the arguably 
+impossible exercise of subjective discretion by a yet-to-be-established regulatory 
+body166) should be promoted to game companies through incentives, such as a 
+certification regime, discretionary grants and tax relief. Instead of having a 
+ 
+166 See Xiao and Henderson (n 51) 11–12. 
+50     
+prospective regulator decide what is ethical game design per se and prohibit ‘abusive 
+game design,’ the video game industry should lead this effort as its members are in 
+the best position to evaluate the ‘ethics’ of game design. Finally, consumers should 
+be informed of the benefits of ethical game design and encouraged to support only 
+ethically designed video games. 
+ 
+ 
+Word Count (excluding footnotes): 10310   
+    51  
+References 
+2K Games, ‘Statement Belgium’ (2K Games Official Website, 2018) 
+<www.2k.com/myteaminfo/be> accessed 10 September 2019 
+——, ‘Statement Netherlands’ (2K Games Official Website, 2018) 
+<www.2k.com/myteaminfo/nl> accessed 10 September 2019 
+Alexandra H, ‘Loot Boxes Are Designed to Exploit Us’ (Kotaku, 13 October 2017) 
+<kotaku.com/loot-boxes-are-designed-to-exploit-us-1819457592> accessed 3 August 
+2020 
+Apple, ‘App Store Review Guidelines’ (Apple Developer, 2020) 
+<developer.apple.com/app-store/review/guidelines/> accessed 3 August 2020 
+Auer M, Reiestad SH and Griffiths MD, ‘Global Limit Setting as a Responsible 
+Gambling Tool: What Do Players Think?’ [2018] International Journal of Mental 
+Health and Addiction <doi.org/10.1007/s11469-018-9892-x> accessed 29 December 
+2019 
+Autorité de regulation des jeux en ligne [Regulatory Authority for Online Games; 
+ARJEL] (France), ‘Rapport d’activité 2017-2018 [Activity Report 2017-2018]’ (2018) 
+<www.arjel.fr/IMG/pdf/rapport-activite-2017.pdf> accessed 3 August 2020 
+Belgische Kansspelcommissie [Belgian Gaming Commission], ‘Onderzoeksrapport 
+loot boxen [Research Report on Loot Boxes]’ (2018) 
+<www.gamingcommission.be/opencms/export/sites/default/jhksweb_nl/docume
+nts/onderzoeksrapport-loot-boxen-final-publicatie.pdf> accessed 14 April 2020 
+——, ‘Belgian Gaming Commission Rules after Analysis: “Paying Loot Boxes Are 
+Games of Chance”’ 
+<www.gamingcommission.be/opencms/opencms/jhksweb_en/gamingcommission
+/news/news_0061.html> accessed 3 August 2020 
+Berridge KC, ‘The Debate Over Dopamine’s Role in Reward: The Case for Incentive 
+Salience’ (2007) 191 Psychopharmacology 391 
+Berridge KC and Robinson TE, ‘What Is the Role of Dopamine in Reward: Hedonic 
+Impact, Reward Learning, or Incentive Salience?’ (1998) 28 Brain Research Reviews 
+309 
+Berridge KC, Robinson TE and Aldridge JW, ‘Dissecting Components of Reward: 
+“Liking”, “Wanting”, and Learning’ (2009) 9 Neurosciences 65 
+Blizzard Entertainment, ‘关于《守望先锋》补给抽取概率公告 [Notice on the Drop 
+Rates of Overwatch Loot Boxes]’ (in Chinese, Official Chinese Overwatch Website, 23 
+March 2017) <ow.blizzard.cn/article/news/486> accessed 29 July 2019 
+——, ‘关于《炉石传说》卡牌包抽取概率的公示方式调整公告 [Notice on the 
+Amended Drop Rates of Hearthstone Packs]’ (in Chinese, Official Chinese Hearthstone 
+Website, 2 August 2018) <hs.blizzard.cn/touch/articles/20/9546> accessed 29 July 
+2019 
+52     
+——, ‘Paid Loot Boxes and Loot Chests Disabled for Players in Belgium’ (Official 
+Overwatch Forums, 27 August 2018) 
+<eu.forums.blizzard.com/en/overwatch/t/paid-loot-boxes-and-loot-chests-
+disabled-for-players-in-belgium/8139> accessed 10 September 2019 
+——, ‘Heroes of the Storm PTR Patch Notes – March 18, 2019’ (Heroes of the Storm 
+Official Website, 18 March 2019) <heroesofthestorm.com/en-
+us/blog/22933130/heroes-of-the-storm-ptr-patch-notes-march-18-2019-2019-3-18> 
+accessed 11 August 2019 
+Brady A and Prentice G, ‘Are Loot Boxes Addictive? Analyzing Participant’s 
+Physiological Arousal While Opening a Loot Box’ (2019) Advance online publication 
+Games and Culture <doi.org/10.1177/1555412019895359> accessed 3 August 2020 
+Brockner J, Shaw MC and Rubin JZ, ‘Factors Affecting Withdrawal from an 
+Escalating Conflict: Quitting Before It’s Too Late’ (1979) 15 Journal of Experimental 
+Social Psychology 492 
+Brooks GA and Clark L, ‘Associations between Loot Box Use, Problematic Gaming 
+and Gambling, and Gambling-Related Cognitions’ (2019) 96 Addictive Behaviors 26 
+Castillo DJ, ‘Unpacking the Loot Box: How Gaming’s Latest Monetization System 
+Flirts with Traditional Gambling Methods’ (2019) 59 Santa Clara Law Review 165 
+Cerulli-Harms A and others, ‘Loot Boxes in Online Games and Their Effect on 
+Consumers, in Particular Young Consumers’ (2020) 
+<www.europarl.europa.eu/RegData/etudes/STUD/2020/652727/IPOL_STU(2020)
+652727_EN.pdf> accessed 29 July 2020 
+Choi J and others, ‘Effect of the Online Game Shutdown Policy on Internet Use, 
+Internet Addiction, and Sleeping Hours in Korean Adolescents’ (2018) 62 Journal of 
+Adolescent Health 548 
+Clark L and others, ‘Gambling Near-Misses Enhance Motivation to Gamble and 
+Recruit Win-Related Brain Circuitry’ (2009) 61 Neuron 481 
+Clotfelter CT and Cook PJ, ‘Notes: The “Gambler’s Fallacy” in Lottery Play’ (1993) 39 
+Management Science 1521 
+Cornish DB, ‘Gambling, a Review of the Literature and Its Implications for Policy 
+and Research: A Home Office Research Unit Report’ (Home Office Research Study 
+42, Her Majesty’s Stationery Office 1978) 
+Costikyan G, Uncertainty in Games (MIT Press 2013) 
+D’Anastasio C, ‘Why Opening Loot Boxes Feels Like Christmas, According To Game 
+Devs’ (Kotaku, 20 March 2017) <kotaku.com/why-opening-loot-boxes-feels-like-
+christmas-according-1793446800> accessed 24 August 2019 
+DeCamp W, ‘Loot Boxes and Gambling: Similarities and Dissimilarities in Risk and 
+Protective Factors’ (2020) Advance online publication. Journal of Gambling Studies 
+<doi.org/10.1007/s10899-020-09957-y> accessed 5 July 2020 
+    53  
+Digital, Culture, Media and Sport Committee of the House of Commons (UK), 
+‘Immersive and Addictive Technologies: Fifteenth Report of Session 2017–19’ (2019) 
+HC 1846 
+<publications.parliament.uk/pa/cm201719/cmselect/cmcumeds/1846/1846.pdf> 
+accessed 14 April 2020 
+DOTA2 运营团队 [Chinese Dota 2 Operations Team], ‘应文化部新政策要求关于珍藏
+概率与结果的公示 [Disclosures in Response to New Regulations Issued by the 
+Ministry of Culture Concerning the Drop Rates and Results of Loot Boxes]’ (in 
+Chinese, Chinese Dota 2 Website, 2 May 2017) 
+<www.dota2.com.cn/article/details/20170502/194771.html> accessed 26 August 
+2019 
+Drummond A and others, ‘Why Loot Boxes Could Be Regulated as Gambling’ (2020) 
+Advance online publication. Nature Human Behaviour <doi.org/10.1038/s41562-
+020-0900-3> accessed 3 August 2020 
+Drummond A and Sauer JD, ‘Video Game Loot Boxes Are Psychologically Akin to 
+Gambling’ (2018) 2 Nature Human Behaviour 530 
+Drummond A, Sauer JD and Hall LC, ‘Loot Box Limit-Setting: A Potential Policy to 
+Protect Video Game Users With Gambling Problems?’ (2019) 114 Addiction 935 
+Efford C, Weissinger M and Pence C, ‘Oral Evidence (Questions 1156–1157) to the 
+Immersive and Addictive Technologies Inquiry of the Digital, Culture, Media and 
+Sport Committee of the House of Commons’ (2019) 
+<data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/
+digital-culture-media-and-sport-committee/immersive-and-addictive-
+technologies/oral/103191.pdf> accessed 3 August 2020 
+Electronic Arts (EA), ‘Be Safe with FUT Coins and FIFA Points’ (4 September 2019) 
+<web.archive.org/web/20200629224510/https://help.ea.com/en/help/fifa/be-
+safe-with-fut-coins-and-fifa-points/> accessed 29 June 2020 
+——, ‘Know the Rules in EA SPORTS FIFA’ (20 September 2019) 
+<web.archive.org/web/20200629224510/https://help.ea.com/en/help/fifa/fifa-
+rules/> accessed 29 June 2020 
+Elliott SA and Mason DS, ‘Emerging Legal Issues in the Sports Industry: Are 
+Trading Cards a Form of Gambling?’ (2003) 13 Journal of Legal Aspects of Sport 101 
+Entertainment Software Association (ESA), ‘Video Game Industry Commitments to 
+Further Inform Consumer Purchases’ (ESA Official Website, 7 August 2019) 
+<www.theesa.com/perspectives/video-game-industry-commitments-to-further-
+inform-consumer-purchases> accessed 8 August 2019 
+Epstein RA, The Theory of Gambling and Statistical Logic (Academic Press 1967) 
+Federal Trade Commission (US), ‘Inside the Game: Unlocking the Consumer Issues 
+Surrounding Loot Boxes, Session 2’ (Public Workshop, Washington, DC, US, 7 
+August 2019) <www.ftc.gov/news-events/audio-video/video/inside-game-
+unlocking-consumer-issues-surrounding-loot-boxes-session-2> accessed 11 August 
+2019 
+54     
+Ferster CB and Skinner BF, Schedules of Reinforcement (reprinted 2015, B F Skinner 
+Foundation 1957) <www.bfskinner.org/wp-
+content/uploads/2015/05/Schedules_of_Reinforcement_PDF.pdf> accessed 31 July 
+2019 
+Fortnite Team, ‘Loot Unboxing’ (Fortnite Official Website, 25 January 2019) 
+<www.epicgames.com/fortnite/en-US/news/loot-unboxing> accessed 3 August 
+2020 
+GameSpot Staff, ‘Star Wars Battlefront 2’s Loot Box Controversy Explained’ 
+(GameSpot, 22 November 2017) <www.gamespot.com/articles/star-wars-battlefront-
+2s-loot-box-controversy-expl/1100-6455155/> accessed 3 August 2020 
+Garfield RC, ‘Patent No. US5662332A: Trading Card Game Method of Play’ (United 
+States Patent and Trademark Office 1994) 
+Girela MÁR, ‘Risk and Reason in the European Union Law’ (2006) 1 European Food 
+and Feed Law Review 270 
+Google, ‘Monetisation and Ads – Payments’ (Google Play Developer Policy Centre, 
+2019) <play.google.com/intl/en-GB/about/monetization-ads/payments> accessed 
+29 July 2019 
+Griffiths MD, Adolescent Gambling (Routledge 1995) 
+Harris A and Griffiths MD, ‘A Critical Review of the Harm-Minimisation Tools 
+Available for Electronic Gambling’ (2017) 33 Journal of Gambling Studies 187 
+Hassan MW to Patricia Vance (14 February 2018) 
+<hassan.senate.gov/imo/media/doc/180214.ESRB.Letter.Final.pdf> accessed 18 
+August 2019 
+Hong E, ‘Loot Boxes: Gambling for the Next Generation’ (2019) 46 Western State 
+Law Review 61 
+Hood V, ‘Are Loot Boxes Gambling?’ (Eurogamer, 12 October 2017) 
+<www.eurogamer.net/articles/2017-10-11-are-loot-boxes-gambling> accessed 3 
+August 2020 
+Hopkins K, ‘Oral Evidence (Question 1142) to the Immersive and Addictive 
+Technologies Inquiry of the Digital, Culture, Media and Sport Committee of the 
+House of Commons’ (2019) 
+<data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/
+digital-culture-media-and-sport-committee/immersive-and-addictive-
+technologies/oral/103191.pdf> accessed 3 August 2020 
+——, ‘Oral Evidence (Questions 1150–1152) to the Immersive and Addictive 
+Technologies Inquiry of the Digital, Culture, Media and Sport Committee of the 
+House of Commons’ (2019) 
+<data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/
+digital-culture-media-and-sport-committee/immersive-and-addictive-
+technologies/oral/103191.pdf> accessed 3 August 2020 
+    55  
+Juniper Research, ‘In-Game Gambling ~ the Next Cash Cow for Publishers’ (2018) 
+<www.juniperresearch.com/document-library/white-papers/in-game-gambling-
+the-next-cash-cow> accessed 3 August 2020 
+Kahneman D and Tversky A, ‘Belief in the Law of Small Numbers’ (1971) 76 
+Psychological Bulletin 105 
+Kansspelautoriteit [The Netherlands Gaming Authority], ‘Onderzoek naar loot 
+boxes: Een buit of een last? [Study into Loot Boxes: A Treasure or a Burden?]’ (2018) 
+<www.kansspelautoriteit.nl/publish/library/6/onderzoek_naar_loot_boxes_-
+_een_buit_of_een_last_-_nl.pdf> accessed 14 April 2020 
+Keren GB and Wagenaar WA, ‘On the Psychology of Playing Blackjack: Normative 
+and Descriptive Considerations With Implications for Decision Theory’ (1985) 114 
+Journal of Experimental Psychology: General 133 
+Kienast K, ‘Video Game Software: Unit Price in the UK 2008-2017’ (Statista, 25 June 
+2018) <www.statista.com/statistics/282012/video-game-software-unit-price-in-the-
+united-kingdom-uk> accessed 11 September 2019 
+Kim B, ‘Implications of Forced Shutdown in the Fourth Industrial Revolution’ (2018) 
+33 KISO Journal <journal.kiso.or.kr/?p=9248> accessed 21 August 2019 
+King DL, ‘Online Gaming and Gambling in Children and Adolescents – Normalising 
+Gambling in Cyber Places: A Review of the Literature’ (Victorian Responsible 
+Gambling Foundation 2018) 
+<web.archive.org/web/20200629185932/https://responsiblegambling.vic.gov.au/d
+ocuments/479/Online-gaming-and-gambling-in-children-and-adolescents_.pdf> 
+——, ‘Unfair Play? Video Games as Exploitative Monetized Services: An 
+Examination of Game Patents from a Consumer Protection Perspective’ (2019) 101 
+Computers in Human Behavior 131 
+King DL and Delfabbro PH, ‘Predatory Monetization Schemes in Video Games (e.g. 
+“Loot Boxes”) and Internet Gaming Disorder’ (2018) 113 Addiction 1967 
+——, ‘Loot Box Limit-Setting Is Not Sufficient on Its Own to Prevent Players From 
+Overspending: A Reply to Drummond, Sauer & Hall’ (2019) 114 Addiction 1324 
+——, ‘Video Game Monetization (e.g., “Loot Boxes”): A Blueprint for Practical Social 
+Responsibility Measures’ (2019) 17 International Journal of Mental Health and 
+Addiction 166 
+Kleinman Z, ‘“The Kids Emptied Our Bank Account Playing Fifa”’ (BBC News, 9 July 
+2019) <www.bbc.co.uk/news/technology-48908766> accessed 3 August 2020 
+Knapp TJ, ‘Behaviorism and Public Policy: B. F. Skinner’s Views on Gambling’ (1997) 
+7 Behavior and Social Issues 129 
+Kristiansen S and Severin MC, ‘Loot Box Engagement and Problem Gambling 
+among Adolescent Gamers: Findings from a National Survey’ (2019) 103 Addictive 
+Behaviors 106254 
+56     
+Larche CJ and others, ‘Rare Loot Box Rewards Trigger Larger Arousal and Reward 
+Responses, and Greater Urge to Open More Loot Boxes’ (2019) Advance online 
+publication. Journal of Gambling Studies <doi.org/10.1007/s10899-019-09913-5> 
+accessed 3 August 2020 
+Lawrence N, ‘The Science Behind Why We Love Loot’ (Game Informer, 23 October 
+2015) <www.gameinformer.com/b/features/archive/2015/10/23/the-science-
+behind-why-we-love-loot.aspx> accessed 3 August 2020 
+Li W, Mills D and Nower L, ‘The Relationship of Loot Box Purchases to Problem 
+Video Gaming and Problem Gambling’ (2019) 97 Addictive Behaviors 27 
+Liu K, ‘A Global Analysis into Loot Boxes: Is It “Virtually” Gambling?’ (2019) 28 
+Washington International Law Journal 763 
+Macey J and Hamari J, ‘ESports, Skins and Loot Boxes: Participants, Practices and 
+Problematic Behaviour Associated With Emergent Forms of Gambling’ (2019) 21 
+New Media & Society 20 
+McCaffrey M, ‘The Macro Problem of Microtransactions: The Self-Regulatory 
+Challenges of Video Game Loot Boxes’ (2019) 62 Business Horizons 483 
+Moshirnia A, ‘Precious and Worthless: A Comparative Perspective on Loot Boxes 
+and Gambling’ (2018) 20 Minnesota Journal of Law, Science & Technology 77 
+Newall PWS, Walasek L and Ludvig EA, ‘Equivalent Gambling Warning Labels Are 
+Perceived Differently’ Advance online publication Addiction 
+<doi.org/10.1111/add.14954> accessed 17 July 2020 
+NHN Japan 株式会社 [NHN Japan Corporation] and others, ‘ゲーム内表示等に関す
+るガイドライン [Guidelines for In-Game Disclosures and Other Matters]’ (9 July 
+2012) 
+<web.archive.org/web/20120709220824/http:/www.gree.co.jp/news/press/2012/
+0622_01/In-game_display_guidelines.pdf> accessed 6 July 2020 
+Nielsen RKL and Grabarczyk P, ‘Are Loot Boxes Gambling? Random Reward 
+Mechanisms in Video Games’ (2019) 4 Transactions of the Digital Games Research 
+Association 171 
+Nintendo, ‘Belangrijke informatie voor gebruikers in België [Important Information 
+for Users in Belgium]’ (in Dutch, Nintendo Belgium, 21 May 2019) 
+<www.nintendo.be/nl/Nieuws/2019/mei/Belangrijke-informatie-voor-gebruikers-
+in-Belgie-1561911.html> accessed 3 August 2020 
+Parke A and Griffiths M, ‘Why Internet Gambling Prohibition Will Ultimately Fail’ 
+(2004) 8 Gaming Law Review 295 
+Pikri E, ‘A Glimpse Into Wan Hazmer’s New RM300K M’sian Project After The 
+Success Of FFXV’ (Vulcan Post, 22 May 2018) <vulcanpost.com/640032/wan-
+hazmer-metronomik-malaysia-game> accessed 23 December 2019 
+Reid RL, ‘The Psychology of the Near Miss’ (1986) 2 Journal of Gambling Behavior 
+32 
+    57  
+Rogers P, ‘The Cognitive Psychology of Lottery Gambling: A Theoretical Review’ 
+(1998) 14 Journal of Gambling Studies 111 
+Rosewater M, ‘Why Is Power Creep a Bad Thing?’ (Blogatog, 31 January 2016) 
+<markrosewater.tumblr.com/post/138448198918/why-is-power-creep-a-bad-thing> 
+accessed 1 September 2019 
+Rubin JZ and Brockner J, ‘Factors Affecting Entrapment in Waiting Situations: The 
+Rosencrantz and Guildenstern Effect’ (1975) 31 Journal of Personality and Social 
+Psychology 1054 
+Schwiddessen S and Karius P, ‘Watch Your Loot Boxes! – Recent Developments and 
+Legal Assessment in Selected Key Jurisdictions From a Gambling Law Perspective’ 
+(2018) 1 Interactive Entertainment Law Review 17 
+Select Committee on the Social and Economic Impact of the Gambling Industry of 
+the House of Lords (UK), ‘Report of Session 2019–21: Gambling Harm— Time for 
+Action’ (2020) HL Paper 79 
+<web.archive.org/web/20200702195336/https://publications.parliament.uk/pa/ld
+5801/ldselect/ldgamb/79/79.pdf> accessed 2 July 2020 
+Skinner BF, Science and Human Behavior (reprinted 2014, B F Skinner Foundation 
+1953) <www.bfskinner.org/newtestsite/wp-
+content/uploads/2014/02/ScienceHumanBehavior.pdf> accessed 31 July 2019 
+Stoddard S, ‘Dealing With Power Creep’ (Magic: The Gathering Official Website, 9 
+August 2013) <magic.wizards.com/en/articles/archive/latest-
+developments/dealing-power-creep-2013-08-09> accessed 31 August 2019 
+Švelch J, ‘Mediatization of a Card Game: Magic: The Gathering, Esports, and 
+Streaming’ (2019) Advance online publication. Media, Culture & Society 
+<doi.org/10.1177/0163443719876536> accessed 3 August 2020 
+Tversky A and Kahneman D, ‘Judgment under Uncertainty: Heuristics and Biases’ 
+(1974) 185 Science 1124 
+UK Gambling Commission, ‘Virtual Currencies, ESports and Social Gaming — 
+Position Paper’ (2017) <www.gamblingcommission.gov.uk/PDF/Virtual-currencies-
+eSports-and-social-casino-gaming.pdf> accessed 14 April 2020 
+——, Remote Gambling and Software Technical Standards (2017) 
+<www.gamblingcommission.gov.uk/PDF/Remote-gambling-and-software-
+technical-standards.pdf> accessed 30 July 2020 
+——, ‘Young People and Gambling Survey 2019: A Research Study among 11-16 
+Year Olds in Great Britain’ (2019) <www.gamblingcommission.gov.uk/PDF/Young-
+People-Gambling-Report-2019.pdf> accessed 3 August 2020 
+—— and others, ‘Declaration of Gambling Regulators on Their Concerns Related to 
+the Blurring of Lines Between Gambling and Gaming’ (2018) 
+<www.gamblingcommission.gov.uk/PDF/International-gaming-and-gambling-
+declaration-2018.pdf> accessed 25 July 2019 
+58     
+Valentine R, ‘Epic Games Commits to Loot Box Transparency across Portfolio’ 
+(GamesIndustry.biz, 9 August 2019) <www.gamesindustry.biz/articles/2019-08-09-
+epic-games-commits-to-loot-box-transparency-across-portfolio> accessed 9 August 
+2019 
+Valve Corporation, ‘Key Change’ (28 October 2019) <blog.counter-
+strike.net/index.php/2019/10/26113> accessed 31 October 2019 
+Wiltshire A, ‘Behind the Addictive Psychology and Seductive Art of Loot Boxes’ (PC 
+Gamer, 28 September 2017) <www.pcgamer.com/behind-the-addictive-psychology-
+and-seductive-art-of-loot-boxes/> accessed 21 August 2019 
+Xiao LY, ‘Conceptualising the Loot Box Transaction as a Gamble Between the 
+Purchasing Player and the Video Game Company’ (2020) Advance online 
+publication. International Journal of Mental Health and Addiction 
+<doi.org/10.1007/s11469-020-00328-7> accessed 3 August 2020 
+——, ‘People’s Republic of China Legal Update: Supreme People’s Court’s Guiding 
+Opinion on Refund Requests Relating to Unauthorised Online Video Gaming 
+Transactions Paid for by Minors (Published 15 May 2020)’ (2020) Advance online 
+publication. Gaming Law Review <doi.org/10.1089/glr2.2020.0014> accessed 3 
+August 2020 
+——, ‘People’s Republic of China Legal Update: The Notice on the Prevention of 
+Online Gaming Addiction in Juveniles (Published October 25, 2019, Effective 
+November 1, 2019)’ (2020) 24 Gaming Law Review 51 
+——, ‘Which Implementations of Loot Boxes Constitute Gambling? A UK Legal 
+Perspective on the Potential Harms of Random Reward Mechanisms’ Forthcoming 
+International Journal of Mental Health and Addiction <doi.org/10.1007/s11469-020-
+00372-3> 
+Xiao LY and Henderson LL, ‘Towards an Ethical Game Design Solution to Loot 
+Boxes: A Commentary on King and Delfabbro’ (2019) Advance online publication 
+International Journal of Mental Health and Addiction <doi.org/10.1007/s11469-019-
+00164-4> accessed 3 August 2020 
+Yin-Poole W, ‘FIFA Player Uses GDPR to Find out Everything EA Has on Him, 
+Realises He’s Spent over $10,000 in Two Years on Ultimate Team’ (Eurogamer, 25 July 
+2018) <www.eurogamer.net/articles/2018-07-23-fifa-player-uses-gdpr-to-find-out-
+everything-ea-has-on-him-realises-hes-spent-over-usd10-000-in-two-years-on-
+ultimate-team> accessed 3 August 2020 
+Zendle D, ‘Problem Gamblers Spend Less Money When Loot Boxes Are Removed 
+from a Game: A before and after Study of Heroes of the Storm’ (2019) 7 PeerJ e7700 
+——, ‘Paying for Loot Boxes Is Linked to Problem Gambling, Regardless of Specific 
+Features Like Cash-out and Pay-to-Win’ (2019) 102 Computers in Human Behavior 
+181 
+——, ‘The Prevalence of Loot Boxes in Mobile and Desktop Games’ (2020) Advance 
+online publication Addiction <doi.org/10.1111/add.14973> accessed 3 August 2020 
+    59  
+Zendle D and Cairns P, ‘Video Game Loot Boxes Are Linked to Problem Gambling: 
+Results of a Large-Scale Survey’ (2018) 13 PLoS One 13(11): e0206767 
+<doi.org/10.1371/journal.pone.0206767> accessed 13 April 2020 
+——, ‘Loot Boxes Are Again Linked to Problem Gambling: Results of a Replication 
+Study’ (2019) 14 PLoS One 14(3): e0213194 <doi.org/10.1371/journal.pone.0213194> 
+accessed 13 April 2020 
+Zendle D, Meyer R and Over H, ‘Adolescents and Loot Boxes: Links With Problem 
+Gambling and Motivations for Purchase’ (2019) 6 Royal Society Open Science: 
+190049 <doi.org/10.1098/rsos.190049> accessed 13 April 2020 
+Zhan JD and Chan HC, ‘Government Regulation of Online Game Addiction’ (2012) 
+30 Communications of the Association for Information Systems 
+<aisel.aisnet.org/cais/vol30/iss1/13> 
+문화체육관광부 [Ministry of Culture, Sports and Tourism (S Korea)], ‘보도자료 - 
+피시(PC)·온라인게임 성인 결제한도 폐지 [Press Release - Repeal of Maximum 
+Spending Limit for PC and Online Games Imposed on Adults]’ (in Korean, 2019) 
+<www.mcst.go.kr/kor/s_notice/press/pressView.jsp?pSeq=17352> accessed 2 
+September 2019 
+한국게임산업협회 [Korea Association of Game Industry; K-GAMES], ‘건강한 
+게임문화 조성을 위한 자율규제 시행기준 [Criteria on Implementation of Self-
+Regulation for Healthy Game Culture]’ (in Korean, 2018) 
+<www.gsok.or.kr/regulations-on-self-
+regulation/?uid=89&mod=document&pageid=1> accessed 9 July 2020 
+——, ‘확률형아이템 자율규제 미준수 게임물 19 차 공표 [The 19th Announcement of 
+Games Which Are Non-Compliant with Self-Regulatory Probabilities Disclosure 
+Obligations]’ (22 June 2020) <www.gsok.or.kr/wp-
+content/uploads/2020/06/%EB%B3%B4%EB%8F%84%EC%9E%90%EB%A3%8C%
+ED%99%95%EB%A5%A0%ED%98%95%EC%95%84%EC%9D%B4%ED%85%9C-%E
+C%9E%90%EC%9C%A8%EA%B7%9C%EC%A0%9C-%EB%AF%B8%EC%A4%80%E
+C%88%98-%EA%B2%8C%EC%9E%84%EB%AC%BC-
+19%EC%B0%A8-%EA%B3%B5%ED%91%9C.pdf> accessed 1 August 2020 
+国家新闻出版署 [National Press and Publication Administration] (PRC), ‘关于防止未
+成年人沉迷网络游戏的通知 [Notice on the Prevention of Online Gaming Addiction 
+in Juveniles]’ (25 October 2019) 
+<www.sapprft.gov.cn/sapprft/contents/6588/407807.shtml> accessed 20 
+November 2019 
+文化部 [Ministry of Culture] (PRC), ‘文化部关于规范网络游戏运营加强事中事后监管
+工作的通知 [Notice of the Ministry of Culture on Regulating the Operation of Online 
+Games and Strengthening Concurrent and Ex-Post Supervisions] 文市发〔2016〕32
+号’ (1 December 2016) 
+<www.mcprc.gov.cn/whzx/bnsjdt/whscs/201612/t20161205_464422.html> 
+accessed 5 October 2018 
+60     
+——, ‘关于印发《“网络游戏未成年人家长监护工程”实施方案》的通知 [Notice on the 
+Publication of the “‘Parental Monitoring of the Online Gaming of Minors Project’ 
+Implementation Plan”] 文市发[2011]6 号’ (in Chinese, 15 January 2011) 
+<old.moe.gov.cn//publicfiles/business/htmlfiles/moe/moe_1779/201105/119727.
+html> accessed 25 July 2019 
+新浪游戏 [Sina Games], ‘网络游戏缘何变“洗钱”平台 [How Online Games Became 
+Platforms for Money-Laundering]’ (in Chinese, 5 September 2013) 
+<games.sina.com.cn/y/n/2013-09-05/1116731339.shtml> accessed 31 October 2019 
+腾讯游戏 [Tencent Games], ‘团伙网上诈骗百万元 通过游戏账户充值洗钱 [Criminal 
+Gang Committed Million-Yuan Online Fraud and Money-Laundering by Purchasing 
+Microtransactions with Video Game Accounts]’ (in Chinese, 26 October 2014) 
+<games.qq.com/a/20141026/016665.htm> accessed 31 October 2019 
+ 
+    61 

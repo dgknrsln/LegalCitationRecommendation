@@ -1,0 +1,1637 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+I/S: A JOURNAL OF LAW AND POLICY FOR THE INFORMATION SOCIETY 
+Copyright, Exhaustion, and the Role of Libraries 
+in the Ecosystem of Knowledge
+ARIEL KATZ* 
+CONTENTS 
+I.   INTRODUCTION ........................................................................... 82 
+II.   LIBRARIES PREDATE COPYRIGHT ................................................. 84 
+III.   THE PLAUSIBILITY OF DIGITAL EXHAUSTION ............................... 88 
+  A.  Kirtsaeng v. John Wiley & Sons: Life Beyond s 109(a) ........ 88 
+  B. Exhaustion Beyond Distribution .......................................... 92 
+IV.   THE LIMITS OF PRIVATE REORDERING ......................................... 95 
+  A.  Exhaustion: Limits on Contract and License Override ....... 95 
+  B.  Towards a Digital Restraint of Trade Doctrine................... 99 
+V.   DIGITAL EXHAUSTION AND THE CASE OF LIBRARIES .................. 103 
+  A.  Why Do Libraries Even Exist? ............................................ 103 
+  B.  Libraries Mitigate a Web of Market Failures .................... 104 
+  C.  Technology Contingent, Endemic, and Strategic  
+    Impediments to Access .........................................................105 
+    1.  Technology Contingent Impediments ............................ 106 
+    2.  Endemic Impediments ..................................................... 107 
+    3.  Strategic Impediments ................................................... 109 
+  D.  Price Discrimination and Impediments Thereto ................ 110 
+  E.  Alternatives to Direct Price Discrimination ....................... 115 
+  F.  Indirect Price Discrimination: Bundling, Sharing, and  
+    Libraries ............................................................................... 117 
+VI.   CONCLUSIONS ............................................................................ 121 
+* Ariel Katz is an Associate Professor, Innovation Chair–Electronic Commerce, Faculty of 
+Law, University of Toronto. Many thanks to Guy Rub, Margot Kaminski, Peter Shane, 
+Matthew Marinett, Pietro Cimino, and the participants of the I/S Symposium on The 
+Future of Libraries in the Digital Age for their helpful comments and suggestions. 82  I/S: A JOURNAL OF LAW AND POLICY  [Vol. 13:1 
+I.INTRODUCTION
+American book and journal publishers sold 2.7 billion units in 
+2014, generating $27.98 billion in net revenue.1 Meanwhile, libraries 
+in the United States circulate almost twice that amount, engaging in 
+over 4.42 billion circulation transactions a year,2 most of which are for 
+free. Presumably, most of the works that libraries circulate are under 
+copyright, and the Copyright Act grants to the owner of the copyright 
+the  exclusive  right  “to  distribute  copies  or  phono  records  of  the 
+copyrighted work to the public by . . . lending.”3 Nevertheless, libraries 
+continue to circulate such a vast number of works, without seeking 
+permission from the owners of the copyright or paying any royalties, 
+because the first-sale doctrine, now codified in section 109(a), allows 
+them  to  do  that.  Moreover,  libraries  benefit  from  the  first-sale 
+doctrine not only when they circulate materials, but also when they 
+acquire them. The first-sale doctrine makes it easier for libraries to 
+build their collections because those who sell  them lawfully made 
+copies do not need to obtain the copyright owners’ permission to do 
+so. Thus, distributors and resellers of in-print books or out-of-print 
+books, and owners of new books or used ones, can all sell, give, or lend 
+them  to  libraries  without  worrying  about  copyright  law.4  This 
+ecosystem, where market-based remunerated transactions constitute 
+only  a  subset  of  a  much  larger  number  of  non-market  and  non-
+remunerated transactions, has existed for generations—probably ever 
+since publishers published books and libraries circulated them—and 
+publishers have been doing just fine. 
+But this ecosystem is currently under pressure. Rumor has it that 
+the first-sale doctrine is dying.5 According to the rumor, the first-sale 
+1 Marisa Bluestone, U.S. Publishing Industry’s Annual Survey Reveals $28 Billion in 
+Revenue in 2014, ASS'N OF AM. PUBLISHERS, http://publishers.org/news/us-publishing-
+industry%E2%80%99s-annual-survey-reveals-28-billion-revenue-2014 
+[https://perma.cc/526T-8PA8]. 
+2 Brief for Am. Lib. Ass’n et al. as Amici Curiae Supporting Petitioner at 3, Kirtsaeng v. 
+John Wiley & Sons, Inc., 133 S. Ct. 1351 (2013) (No. 11-697). 
+3 17 U.S.C. § 106(3) (1976). 
+4 See Kirtsaeng v. John Wiley & Sons, Inc., 133 S. Ct. 1351, 1366 (2013). 
+5 The analysis and critique of the “death prognosis” is based on Ariel Katz, Digital 
+Exhaustion: North American Observations, in RESEARCH HANDBOOK ON ELECTRONIC 
+COMMERCE LAW 137 (John A. Rothchild ed., 2016). 2016]  KATZ  83 
+doctrine, forged in the era of the physical copy and limited to the 
+distribution of physical copies, will lose its prominence in the brave 
+new  digital  world,  where  works  in  digital  formats  are  no  longer 
+distributed and enjoyed as particular identifiable objects.6 The first-
+sale doctrine may not disappear altogether, but history may relegate it 
+to the geriatric departments of culture and knowledge, together with 
+yellowing used books, dusty records, and crumbling films.  
+This  “death  prognosis”  further  relies  on  the  proliferation  of 
+contractual  and  licensing  conditions  that  purport  to  prohibit  one 
+buyer from transferring what she purchased to another, even if such a 
+transfer were otherwise technically possible and legally permissible.7 
+If those restrictive conditions are enforceable (and many assume they 
+usually  are),  then  the  first-sale  doctrine  may  be  legally  alive,  but 
+practically dead.  
+If the death prognosis is accurate, it implies a rather dim future for 
+libraries—at  least  as  we  know  them.  Libraries  may  not  disappear 
+altogether,  but  will  slowly  function  less  as  libraries  and  more  as 
+archives. Or perhaps some of their functions will be taken over by 
+commercial enterprises (imagine iTunes, Spotify, or Netflix for books 
+or journal articles), or might require separate licensing arrangements. 
+For this shift to happen, two propositions must be true. First, as a 
+legal matter, it must either be the case that the that the first-sale 
+doctrine applies only to physical copies and not to digital copies, or 
+that the doctrine does apply to digital copies, but contractual and 
+licensing limitations on the doctrine are unquestionably enforceable. 
+Second, if commercial enterprises were to replace libraries, then, as an 
+economic matter, business models that perform the functions that 
+libraries currently perform must be viable.  
+In this paper, I challenge both of these propositions. First, as a 
+legal  matter,  the  rumor  of  the  doctrine’s  demise,  while  taken  for 
+granted  by  many  commentators,  is  far  from  being  a  foregone 
+conclusion. Notwithstanding views to the contrary, the Copyright Act 
+does not preclude courts from applying the principle of exhaustion to 
+the  transfer of digital  files.  Likewise,  the  general  enforceability of 
+contractual and licensing limitations on the doctrine should not be 
+taken for granted. Second, as an economic matter, many of libraries’ 
+6 Aaron Perzanowski & Jason Schultz, Legislating Digital Exhaustion, 29 BERKELEY TECH. 
+L.J. 1535, 1539 (2014). 
+7 Id. at 1539-44. 84  I/S: A JOURNAL OF LAW AND POLICY  [Vol. 13:1 
+core functions address endemic market failures that will continue to 
+persist even if most content were digitized. Therefore, the erosion of 
+the first-sale doctrine may not result in new business models that 
+better serve the public while remunerating authors, but may instead 
+result in a net loss for all.  
+The  paper  begins  with  a  historical  reminder:  libraries  and 
+universities predate copyright. In Part I, I note that the institutional 
+role of libraries and institutions of higher learning in the “promotion 
+of science” and the “encouragement of learning” was acknowledged 
+even before the first copyright statutes were enacted. This history is 
+important for charting the future direction of copyright law because it 
+constitutes part of the context in which copyright law was born and it 
+helps illuminate the goals copyright was created to achieve. In Part II, 
+I establish the plausibility of digital exhaustion. I explain why the 
+first-sale doctrine is only one manifestation of a broader principle of 
+exhaustion, which is not necessarily limited to the distribution right 
+and is capable of broader application. In Part III, I explain why not all 
+licensing  or  contractual  restrictions  on  downstream  uses  are 
+enforceable. In Part IV, I show how the social functions of libraries 
+justify the development of the law in the direction argued for below.  
+II.LIBRARIESPREDATE COPYRIGHT
+Libraries and universities predate copyright. The institutional role 
+of libraries and institutions of higher learning in the “promotion of 
+science”  and  the  “encouragement  of  learning”  was  acknowledged 
+before legislators decided to grant authors exclusive rights in their 
+writings.  Beginning  in  the  sixteenth  century,  the  universities  of 
+Cambridge and Oxford (the only two English universities at the time) 
+were entrusted “with the special privilege and authority of printing 
+within their respective Universities, and of selling or causing to be 
+sold throughout his Majesty's dominions or elsewhere all manner of 
+books and works of whatever description, not prohibited by public 
+authority,  and  whether  the  same  may  be  or  not  contained  or 
+mentioned in any other Royal Charter or Grant to any other Printer”.8 
+Not only were universities permitted to print and sell books regardless 
+of any exclusive rights granted to others,9 but subsequent legislation 
+also required publishers to deliver the best quality copies of every 
+8 The Universities of Oxford & Cambridge v. Richardson, 31 ER 1260 (1802). 
+9 DAVID MCKITTERICK, A HISTORY OF CAMBRIDGE UNIVERSITY PRESS xii (1992). 2016]  KATZ  85 
+newly printed or reprinted book for the use of the public libraries of 
+the universities.10 
+Moreover, when the Statute of Anne, the first copyright act, was 
+enacted in 1709, it included both a provision clarifying that it did not 
+affect any right that the universities have had, or could claim to have, 
+to the printing or reprinting of any book,11 and an expanded duty to 
+deliver books to the libraries of the universities and other institutions 
+in England and Scotland.12 The act also established a mechanism to 
+control the prices of books if found to be “too high and unreasonable”, 
+and it included the vice chancellors of the two universities among the 
+group of public officials that could set the maximum price for which a 
+book could be sold.13 In Cambridge University v. Bryer, the court 
+10 See, e.g., Licensing Act, 1662, 5 Statutes of the Realm 428 1625-1680 (An Act for 
+preventing the frequent Abuses in printing seditious treasonable and unlicensed Books and 
+Pamphlets and for regulating of Printing and Printing Presses, 13 & 14 Car. 2, e. 33, ss. 16, 
+17 (1662)).  
+11 Statute of Anne, s IX (“Provided, that nothing in this act contained shall extend, or be 
+construed to extend, either to prejudice or confirm any right that the said universities, or 
+any of them, or any person or persons have, or claim to have, to the printing or reprinting 
+any book or copy already printed, or hereafter to be printed.”). 
+12 Statute of Anne, s V (“[A]nd it is hereby enacted, that nine copies of each book or books, 
+upon the best paper . . . shall, by the printer and printers thereof, be delivered . . . for the 
+use of the royal library, the libraries of the universities of Oxford and Cambridge, the 
+libraries of the four universities in Scotland, the library of Sion College in London, and the 
+library commonly called the library belonging to the faculty of advocates at Edinburgh 
+respectively . . . ”). 
+13 Statute of Anne, s IV (“if any bookseller or booksellers, printer or printers, shall . . . set a 
+price upon, or sell, or expose to sale, any book or books at such a price or rate as shall be 
+conceived by any person or persons to be too high and unreasonable; it shall and may be 
+lawful for any person or persons, to make complaint thereof to the lord archbishop of 
+Canterbury for the time being, the lord chancellor, or lord keeper of the great seal of Great 
+Britain for the time being, the lord bishop of London for the time being, the lord chief 
+justice of the court of Queen's Bench, the lord chief justice of the court of Common Pleas, 
+the lord chief baron of the court of Exchequer for the time being, the vice chancellors of the 
+two universities for the time being, . . . who, or any one of them, shall and have hereby full 
+power and authority, from time to time, to send for, summon, or call before him or them 
+such bookseller or booksellers, printer or printers, and to examine and enquire of the 
+reason of the dearness and inhauncement of the price or value of such book or books by 
+him or them so sold or exposed to sale; and if upon such enquiry and examination it shall 
+be found, that the price of such book or books is inhaunced, or any wise too high or 
+unreasonable, then and in such case the said [officials], or any one or more of them, so 
+enquiring and examining, have hereby full power and authority to reform and redress the 
+same, and to limit and settle the price of every such printed book and books, from time to 
+time, according to the best of their judgments, and as to them shall seem just and 
+reasonable . . . ”). 86  I/S: A JOURNAL OF LAW AND POLICY  [Vol. 13:1 
+explained that both measures demonstrated the legislature’s intent to 
+encourage  learning  by  facilitating  access  to  books.  Price  controls 
+aimed to ensure the accessibility of literature to persons desirous of 
+purchasing books, and mandatory library deposit of books enabled 
+literary persons to access books even if they may not be able to afford 
+purchasing them.14  
+While  today’s  copyright  statutes  no  longer  contain  these  exact 
+statutory  provisions,  this  history  is  nonetheless  important.  First, 
+because it constitutes part of the context in which copyright law was 
+born and it helps illuminate the goals it was created to achieve.15 The 
+public interest in gaining access to works has always been the main 
+goal of copyright law,16 even if the means to achieve this goal might 
+change over time.  
+Second, as the case law discussed in the next Parts affirms, the 
+copyright statute should not be interpreted as if it were written on a 
+legal clean slate, but against the backdrop of previously existing or 
+recognized rights and interests. Just as the statute presumably retains 
+the substance of the common law rights of individuals,17 it should also 
+presumably preserve the ability of public institutions to pursue their 
+recognized mandate, unless there is a clear indication of legislative 
+intent to the contrary.18  
+Third,  in  countries  such  as  Canada  or  the  United  States,  this 
+history  might  also  affect  the  ability  of  federal legislation  to  enact 
+copyright laws that impact the ability of libraries and educational 
+institutions to pursue their mandates. While the Constitutions of both 
+countries empower the federal legislature to enact copyright laws, 
+principles of federalism limit the extent of these powers inasmuch as 
+14 Univ. of Cambridge v. Bryer, 16 ER 317, 321 (1812). 
+15 Id. (noting that even though the specific price-setting provision had been repealed, it was 
+part of an entire Act, which shows that and facilitating access to works was one of the 
+objectives of the legislation).  
+16 See, e.g., Feist Pubs., Inc. v. Rural Tel. Svc. Co., Inc., 499 U.S. 340, 349 (1991) (“The 
+primary objective of copyright is not to reward the labor of authors, but ‘to promote the 
+Progress of Science and useful Arts.’”). 
+17 Kirtsaeng v. John Wiley & Sons, Inc., 133 S. Ct. 1351, 1353 (2013). 
+18 Id. at 1374. 2016]  KATZ  87 
+they intrude into subject matter that falls within provincial or state 
+jurisdiction.19  
+None of these considerations, of course, can directly determine the 
+question of digital exhaustion—after all, one could search the law 
+books in vain and would not find any case law predating the copyright 
+statutes that explicitly recognizes a right to reproduce digital copies of 
+books in order to transfer them to others. At the same time, however, 
+one would equally fail to find a common law right to prohibit such 
+reproductions, because there was no common law right to prohibit the 
+reproduction of books at all. Ultimately, the question is whether the 
+existing  copyright  statute  prohibits  such  reproductions,  and  in 
+answering this question history and the common law base lines could 
+matter.  
+But  even  if  these  considerations  seem  to  offer  only  a  limited 
+doctrinal  utility, they  still  carry  considerable moral  and rhetorical 
+force. They remind librarians that the various acts that constitute 
+“librarying” are not mere legal crumbs they were permitted to collect 
+to the extent they fell off the copyright table. Rather, they reiterate 
+that copyright law was never intended to hinder librarying, and that 
+the public interest in the various social and cultural interactions that 
+libraries facilitate was preserved and etched into the copyright system 
+from its very beginning.  
+This history, combined with the line of exhaustion cases, discussed 
+below, teaches that the interpretative task in construing the scope of 
+owners’  exclusive  rights  ought,  among  other  things,  to  consider 
+whether,  to  the  extent  that  a  copyright  owner’s  proffered 
+interpretation  interferes  with  the  freedoms  of  libraries  and  their 
+patrons, the legislature intended to impose such a limitation. In a 
+similar vein, the Supreme Court of Canada recently held that the 
+traditional balance between authors and users should be preserved in 
+the digital environment, and that, absent evidence of legislative intent 
+to the contrary, courts should interpret the Copyright Act “in a way 
+that avoids imposing an additional layer of protections and fees based 
+19 In Canada, for example, laws in relation to “property and civil rights”, or “education” fall 
+under exclusive provincial jurisdiction. Thus, copyright legislation that unduly restricts 
+what people can do with objects or devices that embody works of authorship (or how 
+educational institutions carry out their mandate) might be unconstitutional. See, e.g., 
+Jeremy F. de Beer, Copyrights, Federalism, and the Constitutionality of Canada’s Private 
+Copying Levy, 51 MCGILL L.J. 735 (2005–2006) (discussing “property and civil rights”); 
+Ariel Katz, Spectre: Canadian Copyright and the Mandatory Tariff - Part II, 28 IPJ 39, 
+92–93 (2015) (discussing “education”). 88  I/S: A JOURNAL OF LAW AND POLICY  [Vol. 13:1 
+solely on the method of delivery of the work to the end user. To do 
+otherwise would effectively impose a gratuitous cost for the use of 
+more efficient, Internet-based technologies.”20  
+These principles of statutory interpretation do not immediately 
+solve  the  question  of  digital  exhaustion,  but  they  do  clarify  the 
+baselines for the debate and the burdens of proof: libraries do not 
+need to prove that the current copyright legislation intended to allow 
+them to continue pursuing their mandate in the digital realm. Rather, 
+copyright  owners  have  to  prove  that  the  legislature  intended  to 
+prevent  libraries  from  so  doing.  To  the  extent  that  a  broad 
+construction  of  the  reproduction  or  distribution  rights  (and  a 
+corresponding narrow construction of the first-sale doctrine) diminish 
+the capacity of libraries to pursue their public mandate, and adapt it to 
+the  digital  realities,  these  principles  provide  a  juridical  basis  for 
+rejecting such a construction.  
+III.THE PLAUSIBILITY OF DIGITAL EXHAUSTION
+A.Kirtsaeng v. John Wiley & Sons: Life Beyond s 109(a)
+In Capitol Records v. ReDigi,21 the U.S. District Court for the 
+Southern District of New York adopted the view that the first-sale 
+doctrine would not apply whenever the resale of a work in digital 
+format requires a reproduction of the work. The holding had two 
+prongs:  first,that  transferring  a  digital  file  from  one  medium  to 
+another  constitutes  a  reproduction  within  the  meaning  of  the 
+Copyright Act, even if there is no multiplication of copies;22 second, 
+that the first-sale doctrine affords protection only against assertions of 
+the distribution right but not against violation of other rights.23 The 
+court also declined to entertain any interpretation of the Act that 
+could  allow  digital  first-sale.  It  held  that  the  Act  unambiguously 
+precludes  any  such  outcome,  and  concluded  that  an  alternative 
+interpretation would amount to an amendment of the Copyright Act, 
+20 Entm’t Software Ass’n v. Soc’y of Composers, Authors & Music Publishers of Canada, 
+[2012] 2 S.C.R. 231 ¶ ¶ 8-9 (Can.). 
+21 Capitol Records, LLC v. ReDigi Inc., 934 F. Supp. 2d 640 (S.D.N.Y. 2013). 
+22 Id. at 648. 
+23 Id. at 655. 2016]  KATZ  89 
+which is “a legislative prerogative that courts are unauthorized and ill 
+suited to attempt.”24  
+Yet, eleven days before the court handed down its decision in 
+ReDigi, the Supreme Court decided Kirtsaeng, which casts doubt on 
+the District Court’s unequivocal decision. Kirtsaeng did not involve 
+digital exhaustion. The question before the Court in that case was 
+whether the first-sale doctrine applied to copies made abroad and 
+imported into the United States without the consent of the copyright 
+owner. The majority held that it did, and their reasons are relevant to 
+digital  exhaustion  as  well.  The  majority,  per  Justice  Breyer, 
+emphasized that the first-sale doctrine does not owe its origin to the 
+statute, and that Section 109 (and its predecessor in Copyright Act of 
+1909) merely codifies the common law refusal to permit restraints on 
+alienation, which harkens back at least to the early 17th century.25 This 
+recognition, combined with the presumption that unless the contrary 
+is evident “‘[s]tatutes which invade the common law…are to be read 
+with a presumption favoring the retention of long-established and 
+familiar principles,’”26 led the majority to reject an interpretation that 
+would limit the scope of the first-sale doctrine to copies made in the 
+United States.27 Likewise, Justice Kagan, in her concurring opinion, 
+emphasized that the doctrine has played an integral part in American 
+copyright law even prior to its codification.28  
+Justice  Ginsburg’s  dissent  is  equally  instructive.  She  did  not 
+disagree with the majority’s general characterization of the doctrine 
+and  its  non-statutory  origin,  and  explained  that  the  doctrine 
+“recognizes that a copyright owner should not be permitted to exercise 
+perpetual  control  over  the  distribution  of  copies  of  a  copyrighted 
+work.”29  Nevertheless,  she  was  convinced  that  in  1976  Congress 
+intended to exclude copies made abroad from the ambit of Section 
+24 Id. 
+25 Kirtsaeng v. John Wiley & Sons, Inc., 133 S. Ct. 1351, 1361-63 (2013). 
+26 Id. at 1363 (quoting Isbrandtsen Co. v. Johnson, 343 U.S. 779, 783 (1952) (omission by 
+the Court)). 
+27 For a survey of earlier cases applying exhaustion principles in the U.S., see Aaron 
+Perzanowski & Jason Schultz, Digital Exhaustion, 58 UCLA L. REV. 889, 912-22 (2011). 
+28 Kirtsaeng, 133 S. Ct. at 1372 (Kagan, J., concurring). 
+29 Id. at 1374 (Ginsburg, J., dissenting). 90  I/S: A JOURNAL OF LAW AND POLICY  [Vol. 13:1 
+109(a). She concluded, however, that the first-sale doctrine would still 
+apply  to  such  copies  after  the  copyright  holder  authorized  their 
+importation. Even though she could not anchor this proposition in the 
+statutory language, she reasoned, based on the statutory history, that 
+the term “distribute” in Section 106(3) already incorporates the first-
+sale doctrine. Acknowledging that this interpretation means Section 
+109(a)’s  codification  of  that  doctrine  adds  little  to  the  regulatory 
+regime,  she  insisted  that  the  section  is  not  redundant, because  it 
+prevents  courts  from  deviating  from  the  doctrine  in  a  way  that 
+increases copyright owners’ control over downstream distribution30 
+and in some specific instances even expands the doctrine’s scope.31 
+Therefore, even though the doctrine’s application to the importation 
+of  copies  made  abroad  divided  the  Court,  it  appears  (practically) 
+unanimous that the first-sale doctrine has life beyond the words of 
+Section 109(a).32  
+Kirtsaeng affirmed that the basis of the first-sale doctrine is not 
+statutory. The upshot of the opinions of both Breyer and Ginsburg is 
+that people can resell, lend, or give away lawfully made books - not 
+because Congress created a limited exception to the copyright owner’s 
+distribution right, but because Congress had never intended to allow 
+copyright owners the power to do so. 
+Justice Ginsburg wrote that it was appropriate for the Court in 
+Bobbs-Merrill  v.  Straus  (the  1908  case  articulating  the  first-sale 
+doctrine), to hold that “Congress did not intend to permit copyright 
+owners ‘to fasten . . . a restriction upon the subsequent alienation of 
+30 Id. at 1387 (Ginsburg, J., dissenting). 
+31 Id. at 1387 n.20. Section 109 expands the scope of exhaustion beyond that recognized in 
+Bobbs-Merrill Co. v. Straus, 210 U.S. 339 (1908). Bobbs-Merrill held that the copyright 
+owner could not control sales beyond the first authorized sale. Id. at 350-51. Section 109, 
+however, makes it lawful for the owner of a lawfully made copy to resell it, regardless of 
+whether a previous authorized sale had taken place. See John A. Rothchild, Exhaustion of 
+Intellectual Property Rights and the Principle of Territoriality in the United States, in 
+RESEARCH HANDBOOK ON INTELLECTUAL PROPERTY EXHAUSTION AND PARALLEL IMPORTS 
+226, 228 n.4 (Irene Calboli & Edward Lee eds., 2016). 
+32 I say “practically unanimous” because Justice Scalia joined Justice Ginsburg’s dissent, 
+but did not join this part of her decision. He did not, however, provide any reasons 
+explaining his disagreement. Justice Ginsburg’s interpretation explicitly resorted to the 
+doctrine’s pre-codified form in order to give the doctrine meaning not anchored in the 
+codifying text, and the opinions of Justice Breyer and Justice Kagan are not inconsistent 
+with this view.  2016]  KATZ  91 
+the subject-matter of copyright’”33 even though the statute then did 
+not include any such explicit limitation. Consequently, it would have 
+been legitimate for the court in ReDigi to do the same.  
+The  line  of  patent  exhaustion  cases  following  Bobbs-Merrill 
+supports the conclusion that the first-sale doctrine is only a species of 
+a broader principle of exhaustion, and, as such, it is not necessarily 
+limited to the distribution right. In Henry v. A.B. Dick Co.,34 the Court 
+declined  to  extend  the  holding  of  Bobbs-Merrill  to  patent  law, 
+emphasizing that Bobbs-Merrill dealt only with a copyright owner’s 
+exclusive right to “vend”, not with a patentee’s exclusive right to “use” 
+the  invention.35  But  five years  later,  in  Motion  Picture  Patents v. 
+Universal,  the  Court  reversed  Henry  and  held  that  the  sale  of  a 
+machine  embedding  a  patented  invention  exhausts  that  patent 
+owner’s exclusive right to “use” the invention, just as it exhausts the 
+exclusive right to “vend” it.36 Indeed, the fact that Congress has never 
+codified the principle of exhaustion in patent law provides additional 
+evidence that the source of the doctrine is not statutory.37   
+The significance of Kirtsaeng (and the line of previous exhaustion 
+cases) lies in clarifying the baseline for understanding the scope of 
+exhaustion  as  developed  by  the  Court’s  jurisprudence:  copyright 
+owners’ exclusive rights are a creature of statute, but users’ liberty of 
+transferring ownership or possession of copies of books to others is 
+not. Users can exercise this liberty not because Congress has chosen to 
+exempt it from what otherwise would be prohibited, but because it 
+never intended to limit it in the first place. These holdings reflect an 
+established legal principle: Under the common law, every person is 
+free to dispose of their possessions or carry on their business as they 
+please in the absence of positive law limiting those freedoms. The 
+legislature could limit those freedoms, but courts should not construe 
+statutes  to  have  such  a  limiting  effect,  unless  the  legislature  has 
+communicated its intent to depart from common law principles with 
+33 Kirtsaeng, 133 S. Ct. at 1386 (quoting Bobbs-Merrill Co., 210 U.S. at 349–50). 
+34 Henry v. A.B. Dick Co., 224 U.S. 1 (1912). 
+35 Id. at 46. 
+36 Motion Picture Patents Co. v. Universal Film Co., 243 U.S. 502, 516 (1917). 
+37 While it could be argued that this is no longer true with respect to copyright, where 
+Congress codified the doctrine, Kirtsaeng, as discussed above would not support this 
+proposition.   92  I/S: A JOURNAL OF LAW AND POLICY  [Vol. 13:1 
+irresistible  clarity,38  and  statutory  grants  that  derogate  from  the 
+common law rights of others ought to be construed narrowly.39 
+B.Exhaustion Beyond Distribution 
+Exhaustion’s death prognosis rests on the proposition that the 
+first-sale doctrine limits only the scope of the distribution right and 
+therefore becomes inapplicable the moment that a transfer of a work 
+in a digital format requires its reproduction. Accepting this premise, 
+the  defendant  in  ReDigi  developed  technology  that  allegedly 
+permitted  users  to  transfer  digital  files  without  multiplying  them, 
+arguing that reproduction occurs only if copies are being multiplied. 
+The  District  Court  rejected  that  view  and  held  that  reproduction 
+occurs  whenever  a  work  is  embedded  in  a  new  material  object, 
+regardless of whether additional copies were made or not.40  
+The  Disctrict  Court’s  interpretation  is  questionable.  It  ignored 
+dicta of the Supreme Court referring to the reproduction right as the 
+right to multiply copies,41 and it refused to follow an earlier case, by 
+another district court, involving transfer of ink from one medium to 
+another where the court held that no reproduction occurred in the 
+absence  of  multiplication.42  Instructively,  the  Supreme  Court  of 
+Canada  held  that  reproduction  indeed  requires  multiplication  of 
+38 Goodyear Tire & Rubber Co. of Canada v. T. Eaton Co., [1956] S.C.R. 610 (Can.); United 
+States v. Texas, 507 U.S. 529, 534 (1993). 
+39 See, e.g., THEODORE SEDGWICK, A TREATISE ON THE RULES WHICH GOVERN THE 
+INTERPRETATION AND CONSTRUCTION OF STATUTORY AND CONSTITUTIONAL LAW 291-92 
+(John Norton Pomeroy ed., 2d ed. 1874). See also Ariel Katz, Intellectual Property, 
+Antitrust, and the Rule of Law: Between Private Power and State Power, 17 THEORETICAL 
+INQUIRIES L. 633 (2016). 
+40 Capitol Records, LLC v. ReDigi Inc., 934 F. Supp. 2d 640, 640 (S.D.N.Y. 2013). 
+41 See, e.g., Stephens v. Cady, 55 U.S. 528, 530-31 (1852); Bobbs-Merrill Co. v. Straus, 210 
+U.S. 339 (1998); Globe Newspaper Co. v. Walker, 210 U.S. 356, 362 (1908); Bong v. Alfred 
+S. Campbell Art Co., 214 U.S. 236, 246 (1909); Caliga v. Inter Ocean Newspaper Co., 215 
+U.S. 182 (1909); Henry v. A.B. Dick Co., 224 U.S. 1, 46 (1912); Fox Film Corp. v. Doyal, 286 
+U.S. 123, 127 (1932). 
+42 ReDigi Inc., 934 F. Supp. 2d at 650 (discussing C.M. Paula Co. v. Logan, 355 F. Supp. 
+189, 190 (N.D. Tex. 1973). 2016]  KATZ  93 
+copies, not merely new fixation, relying, among other things, on the 
+same American case that the court in ReDigi rejected.43 
+Nevertheless, the premise that reproduction necessarily renders 
+the first-sale doctrine inapplicable is false, because it presupposes that 
+when Congress codified the doctrine articulated in Bobbs-Merrill it 
+intended to confine the principle to the distribution right and preclude 
+its application to other rights. Without a clear indication that this was 
+Congress’ intent, it is open for the courts to apply the principle of 
+exhaustion to the various exclusive rights in the copyright bundle, not 
+only to the distribution right. Therefore, the principle may encompass 
+situations where reproduction is incidental to the transfer of a digital 
+file.  
+The evolution of exhaustion in patent law illustrates the point. In 
+Henry v. A.B. Dick Co., a divided U.S. Supreme Court had initially 
+declined to apply its copyright exhaustion holding from Bobbs-Merrill 
+in the area of patent law, emphasizing the differences between the 
+statutes.44 But this holding was short lived. The following year, the 
+Court held that the exclusive right to vend had the same meaning 
+under the patent and the copyright statutes, and that the scope of the 
+right was the same; if the sale of a book exhausts the exclusive right to 
+vend it, so does the sale of a patented machine.45 Shortly thereafter, 
+the Court overruled Henry and applied the exhaustion principle not 
+only to the exclusive right to “vend” the patented article, but also to 
+the right to “use” it.46 Taken together, those decisions support the 
+following propositions: (a) there are no major differences between the 
+exhaustion of copyrights and the exhaustion of patents; (b) exhaustion 
+of a patent is not limited to the right to sell it; (c) therefore, exhaustion 
+43 See Théberge v. Galerie d’Art du Petit Champlain Inc., [2002] 2 S.C.R. 336 (Can.) (the 
+dissent interpreted the reproduction right exactly as the court in ReDigi did). 
+44 Henry, 224 U.S. at 46 (explaining that while the copyright statute only grants an 
+exclusive right to multiply and sell, the patent statute provides more extensive rights “to 
+make, use, and vend the invention or discovery.”). Notably, when Henry was decided, 
+Congress had already codified the first-sale doctrine in the Copyright Act of 1909, but the 
+fact that Congress only codified the exhaustion of the copyright owner’s right to vend, but 
+not other rights, let alone any of the exclusive rights of patentees, played no role in the 
+majority opinion.  
+45 Bauer & Cie v. O'Donnell, 229 U.S. 1, 17-18 (1912). As noted in note 44 with respect to 
+Henry, the fact that exhaustion of the vending right under copyright law had been codified 
+but Congress had not codified any of the rights of patentees also played no part in this case. 
+46 Motion Picture Patents Co. v. Universal Film Co., 243 U.S. 502, 516 (1917). 94  I/S: A JOURNAL OF LAW AND POLICY  [Vol. 13:1 
+of copyright may also not be limited to the distribution right. The 
+codified “first sale” doctrine may be limited to the distribution right, 
+but  the  un-codified  principle  of  exhaustion,  of  which  it  is  only  a 
+subset, is not so limited.  
+Moreover,  as  Perzanowski  and  Schultz  demonstrate,  American 
+courts have applied the principle of exhaustion more broadly than as a 
+limitation on the distribution right,47 and as I discuss elsewhere, the 
+logic  of  exhaustion  has  animated  various  Canadian  copyright 
+decisions  that  narrowed  the  construction  of  the  reproduction  and 
+public performance rights, respectively.48 
+The most recent patent exhaustion case from the U.S. Supreme 
+Court, Bowman v. Monsanto,49 may help draw some of the limitations 
+on the broad application of the exhaustion principle. In that case, the 
+Court held that the exhaustion doctrine in patent law does not permit 
+a farmer to reproduce patented seeds through planting and harvesting 
+without the patent holder’s permission. The Court distinguished this 
+case  from other  exhaustion cases on  the  grounds  that  it  involved 
+multiplication and replication of the patented item, and not merely its 
+reuse. At the same time, the Court emphasized that the ruling does not 
+imply a broader rule whereby multiplication would necessarily negate 
+exhaustion, giving, as an example, instances where reproduction is a 
+necessary but incidental step in using the item for another lawful 
+purpose.50  In  the  case  at  hand,  the  defendant  could  not  rely  on 
+exhaustion because he planted patented soybeans solely to make and 
+market replicas of them, thus depriving the company of the reward 
+patent law provides for the sale of each article.  
+The same logic can apply to distinguish between situations where 
+reproduction is merely a necessary and incidental step in the transfer 
+of  a  digital  copy  of  a  work  from  one  user  to  another—where 
+exhaustion should apply—from instances where a user who purchases 
+a single copy reproduces and distributes multiple copies in a way that 
+directly competes with the sale of additional copies by the copyright 
+47 Perzanowski & Schultz, supra note 27, at 912–22. 
+48 Katz, supra note 5, at 152-56.  
+49 Bowman v. Monsanto, 133 S. Ct. 1761 (2013). 
+50 Id. at 1769 (referring to 17 U.S.C. § 117(a)(1) ("[I]t is not [a copyright] infringement for 
+the owner of a copy of a computer program to make . . . another copy or adaptation of that 
+computer program provide[d] that such a new copy or adaptation is created as an essential 
+step in the utilization of the computer program")). 2016]  KATZ  95 
+owner. In the first case, the incidental reproduction does not change 
+the quantity of copies that are available in the market and can be 
+enjoyed at any particular time—the quantum of simultaneous uses 
+remains  entirely  dependent  on  the  number  of  copies  that  the 
+copyright owner has chosen to sell. Conversely, in the second case, the 
+reproduction  increases  the  number  of  such  copies  beyond  the 
+quantum chosen by the copyright owner.  
+In sum, the first prong of the death prognosis—the premise that 
+there can be no digital exhaustion because the transfer of digital file 
+involves their reproduction—is false. The principle of exhaustion can 
+be applied, and has been applied, broadly and is not limited to the 
+distribution right.  
+IV.THE LIMITS OF PRIVATE REORDERING
+A.Exhaustion: Limits on Contract and License Override
+The premise that license restrictions and contracts can override 
+exhaustion constitutes the second prong of the death prognosis of the 
+first-sale doctrine. Those who take this premise for granted do it at 
+their  own  peril,  because  principle  and  legal  precedent  suggest 
+otherwise. Over a period of ten years, beginning with Bobbs-Merrill in 
+1908 and ending with Boston Store in 1918, the same Court decisions 
+that established the doctrine of exhaustion also restricted the ability of 
+IP owners to evade it using various techniques, including notices, 
+license restrictions, and contracts.  
+With respect to notices, Bobbs-Merrill made it clear that copyright 
+owners cannot restrict the rights of buyers and expand the scope of 
+their own rights by merely printing a notice in the book.51 It might 
+seem straightforward that if a copyright owner lacks the power to 
+control sales beyond the first authorized sale, it cannot assume this 
+power by the mere act of posting a notice, but when the Court decided 
+Bobbs-Merrill,  the  competing  view  seemed  at  least  as  plausible. 
+Indeed, the same year the U.S. Supreme Court decided Bobbs-Merrill, 
+the High Court of Australia was divided on the question of whether a 
+patentee’s  exclusive  right  to  “vend”  the  patented  article  conferred 
+upon  it  the  power  to  maintain  the  resale  price  of  the  patented 
+51 Bobbs-Merrill Co. v. Straus, 210 U.S. 339, 350 (1908). 96  I/S: A JOURNAL OF LAW AND POLICY  [Vol. 13:1 
+articles.52 The majority opinion in Nat’l Phonograph Co. of Austl. v. 
+Menck was remarkably similar to that of the U.S. Supreme Court in 
+Bobbs-Merrill. However, on appeal, the Privy Council reversed and 
+decided that “the general doctrine of absolute freedom of disposal of 
+chattels  of  an  ordinary  kind  is,  in  the  case  of  patented  goods, 
+restricted  when  the  patentee  attaches  conditions  which  the  buyer 
+becomes aware of at the time of sale.”53 The scope of exhaustion, 
+under that view, depended entirely on the IP owner’s preferences. In 
+the absence of an indication to the contrary, the patentee is presumed 
+to have exhausted her right, but the right of buyers to dispose of what 
+they  had  purchased  could  be  taken  away  by  mere  notice  of  the 
+patentee’s intention to restrict it. Any person having notice of such 
+restrictions could be liable for infringing the patent if she violates 
+them. 
+The majority of the U.S. Supreme Court in Henry followed the 
+Privy Council decision in Menck.54 But shortly thereafter the Court 
+overruled Henry in the concurrently decided cases of Motion Picture 
+Patents and Straus v. Victor Talking Machine Co.55 In those cases, the 
+Court held that the rights of a patentee under the patent statute did 
+not include the power to impose restrictions on the use of a patented 
+machine through license agreements or license notices. The Court, in 
+these two decisions, also rejected the patentees’ attempts to avoid the 
+consequences  of  exhaustion  by  describing  the  transactions  they 
+entered into with users not as “sales” of the patented machines, but as 
+leases or licenses to use them.56 
+The logic that animates the premise that license restrictions can 
+override  exhaustion  is  eerily  similar  to  the  logic  that  patentees 
+promoted a hundred years ago. Back then, patentees claimed that 
+since  they  had  an  exclusive  right  to  “use”  the  invention,  any  use 
+required  their  permission.  This,  in  turn,  enabled  them  to  grant 
+permission  subject  to  conditions  that  allowed  them  to  exercise 
+52 Nat’l Phonograph Co. of Austl. v. Menck (1908) 7 C.L.R. 481, rev’d, Nat’l Phonograph Co. 
+of Austl. v. Menck (1911) 12 C.L.R. 15 (PC) (appeal taken from Austl.). 
+ 
+53 Nat’l Phonograph Co. of Austl., 12 C.L.R. at 21, 24. 
+54 Henry v. A.B. Dick Co., 224 U.S. 1, 1, 42-43, 49 (1912). 
+55 Motion Picture Patents Co. v. Universal Film Co., 243 U.S. 502, 515 (1917); Straus v. 
+Victor Talking Machine Co., 243 U.S. 490, 501 (1917). 
+56 Id. 2016]  KATZ  97 
+ongoing  control  over  how  devices  that  embodied  their  inventions 
+could be used, even after they parted with them.57 They also argued 
+that they could maintain control over the use of the machines they 
+sold by describing the transactions as leases or licenses rather than 
+sales.58 Today, copyright owners advance a similar logic by arguing 
+that downloading or installing a digital file requires a license,59 and 
+that  describing  these  transactions  as  licenses  rather  than  sales, 
+overcomes  exhaustion.60 Because they have no obligation to grant 
+anyone license, and can refuse to grant one altogether, it must follow, 
+pursuant  to  this  logic,  that  they  are  entitled  to  grant  restrictive 
+licenses, including those that prohibit users from doing otherwise 
+permissible  activities.  However,  the  Court  rejected  that  logic  and 
+lower courts should decline the invitation to apply it.   
+In  sum,  by  1917,  the  Court  affirmed  conclusively  that  the  IP 
+statutes did not confer upon the owners of patents and copyrights the 
+power to control how the products embodying their inventions or 
+works could be used or resold after they parted with them. Therefore, 
+they could not arrogate to themselves such powers by purporting to 
+reserve them through licensing restrictions. The Court emphatically 
+rejected the notion that exhaustion was no more than a default rule 
+that IP owners could reverse by providing notice of their intent to 
+restrict it. Rather, the Court understood exhaustion as an integral 
+component of the general legal order, which Congress did not intend 
+to modify, and which IP owners were incapable of altering.61  
+The plaintiffs in this line of cases alleged that when the various 
+defendants violated the restrictive terms they purported to impose on 
+users,  these  defendants  were  liable  for  copyright  or  patent 
+57 See, e.g., Motion Picture Patents Co., 243 U.S. at 519 (Holmes, J., dissenting: “I suppose 
+that a patentee has no less property in his patented machine than any other owner, and 
+that in addition to keeping the machine to himself the patent gives him the further right to 
+forbid the rest of the world from making others like it. In short, for whatever motive, he 
+may keep his device wholly out of use . . . So much being undisputed, I cannot understand 
+why he may not keep it out of use unless the licensee, or, for the matter of that, the buyer, 
+will use some unpatented thing in connection with it.” Internal citation omitted). 
+58 Id. at 515; Straus, 243 U.S. at 501. 
+59 And under some views even executing it. See MAI Sys. Corp. v. Peak Computer, Inc., 991 
+F.2d 511 (9th Cir. 1993). 
+60 See, e.g., Vernor v. Autodesk, Inc., 621 F.3d 1102 (9th Cir. 2010). 
+61 See Katz, supra note 39, at 681. 98  I/S: A JOURNAL OF LAW AND POLICY  [Vol. 13:1 
+infringement. The defendants prevailed in those cases because the 
+Court held that the IP statutes did not confer the power to restrain the 
+defendants from the acts complained about. Since the defendants did 
+not  infringe  the  IP  rights,  the  plaintiffs  were  not  entitled  to  any 
+remedy that otherwise could be available to them had the IP rights 
+been infringed. Therefore, these cases did not answer the question of 
+whether contracts that contain the same or similar restriction could 
+be relied on to limit exhaustion. In fact, in Bobbs-Merrill the Court 
+noted there was no contract claim before it62 and emphasized that it 
+was only dealing with the question of whether the copyright statute 
+conferred the power to restrict subsequent sales and not with whether 
+a contract restricting the same would be enforceable.63  
+This,  according  to  some,  indicates  that  nothing  in  the  Court’s 
+jurisprudence supports the proposition that contractual restrictions 
+on exhaustion will not be enforceable- implying that as long as the 
+contract  is  otherwise  valid,  courts  will  enforce  the  restrictions.64 
+However,  in  reality  one  can  infer  very  little  from  the  Court’s 
+unsurprising failure to decide an issue that was not properly before 
+it.65  The  Court’s  subsequent  decisions  provide  more  than  solid 
+indications that while some contractual limitations might be valid, 
+others would not.66  
+Three years after Bobbs-Merrill, the Court in Dr. Miles Medical 
+Co. v. John D. Park & Sons Co.67 held that contracts to maintain the 
+resale price of proprietary medicines were invalid both at common law 
+as unreasonable restraint of trade, and also under the Sherman Act.68 
+The following year, the majority in the short-lived Henry v. A.B. Dick 
+case  held  that  Dr.  Miles  was  inapplicable  to the  sale  of  patented 
+62 Bobbs-Merrill Co. v. Straus, 210 U.S. 339, 346 (1908). 
+63 Id. at 350. 
+64 See, e.g., John F. Duffy & Richard M. Hynes, Statutory Domain and the Commercial 
+Law of Intellectual Property, 102 VA. L. REV. 1, 10 (2016).  
+65 Ariel Katz, Aaron Perzanowski & Guy A. Rub, The Interaction of Exhaustion and the 
+General Law: A Reply to Duffy and Hynes, 102 VA. L. REV. ONLINE 8, 15 (2016).  
+66 Katz, supra note 39, at 695-96. 
+67 Dr. Miles Med. Co. v. John D. Park & Sons Co., 220 U.S. 373 (1911).  
+68 Id. at 409. 2016]  KATZ  99 
+goods.69 However, as noted, the Henry decision was short lived, and 
+the vigorous dissent written by Chief Justice White became the view of 
+the majority five years later.70 A year later in Boston Store of Chicago 
+v. American Graphophone Co.,71 the Court discarded any remaining 
+doubts  that  the  general  common  law  rules  regarding  contractual 
+restraints on trade apply to the sale of patented articles or copyrighted 
+works in the same way as they apply to other chattels.72  
+Dr. Miles in subsequent years stood for the proposition that resale 
+price maintenance constituted a per se antitrust violation: that is, a 
+practice categorically prohibited, without inquiry into its actual effect 
+on  competition.  In  2007,  the  Court  overruled  this  aspect  of  that 
+decision.73  However,  the  more  general  propositions  that  contracts 
+purporting to exert downstream control over the sale or use of goods 
+could be invalid at common law as unreasonable restraint of trade, 
+and that the grant of a patent or copyright does not include the power 
+to make contracts in derogation of that general law, remain valid.74 
+Thus,  the  Court  held  that  as  a  matter  of  federal  antitrust  law  a 
+restrictive contract will not attract antitrust liability unless it has been 
+proven to restrain competition in a relevant market, but the contract 
+may still be invalidated as unreasonable restraint of trade under the 
+law of the relevant state.75 
+B.Towards a Digital Restraint of Trade Doctrine
+Noting  that  contracts  attempting  to  limit  exhaustion  could  be 
+invalidated under the common law doctrine of restraint of trade does 
+not imply, of course, that all such contracts would be invalid. The key 
+question is whether the restraint is reasonable.  
+69 Henry v. A.B. Dick Co., 224 U.S. 1, 49 (1912). 
+70 See supra Part II(B).  
+71 Bos. Store of Chi. v. Am. Graphophone Co., 246 U.S. 8 (1918). 
+72 Id. at 25. 
+73 Leegin Creative Leather Products v. PSKS, Inc., 551 U.S. 877 (2007). 
+74 Katz, supra note 39, at 693. 
+75 Cf. Erie R.R. Co. v. Tompkins, 304 U.S. 64 (1938). 100  I/S: A JOURNAL OF LAW AND POLICY  [Vol. 13:1 
+Generally,  a  reasonable  restraint  would  be  one  that  is  merely 
+ancillary to an otherwise legitimate contract and where it is “inserted 
+only  to  protect  one  of  the  parties  from  the  injury  which,  in  the 
+execution of the contract or enjoyment of its fruits, he may suffer from 
+the unrestrained competition of the other.”76 If the restraint is not 
+necessary for achieving the goal of the contract, or if it exceeds what is 
+necessary  to  achieve  that  goal,  it  is  void.77  Moreover,  even  if  the 
+restraint  is  no  greater  than  is  needed  to  protect  the  promisee’s 
+interest, it might still be void if the harm to the promisor and the 
+likely injury to the public outweigh the need of the promisee.78 
+Like the first-sale doctrine itself, which the Court described as “a 
+common  law  doctrine  with  impeccable  historic  pedigree”,79  the 
+aversion to contracts in restraint of trade is one of the common law’s 
+oldest and best-established doctrines.80 As a venerable common law 
+rule, the doctrine of restraint of trade provides a heft of legal history 
+along with flexibility and capacity to adapt to the realities of the digital 
+realm.  It  also  provides  a  useful  framework  for  distinguishing 
+situations  where  contractual  limitations  on  exhaustion  could  be 
+justified  from  those  where  they  would  not.  Providing  a  thorough 
+analysis of various contractual restraints and their validity would go 
+beyond  the  scope  of  this  essay  (and  post  Erie  Railroad  Co.  v. 
+Tompkins,81 the question might have to be decided as a matter of state 
+law rather than federal law), but a few examples could illustrate the 
+direction. 
+Supporters of narrow exhaustion rules (and of extended freedom 
+to contract around them) often argue that allowing copyright owners 
+to control the downstream use of their works would allow them to set 
+different  prices  for  different  users.  Without  the  power  to  price 
+discriminate, they argue, the copyright owner might elect to set a high 
+uniform price, resulting in a lower quantity of distributed copies and 
+76 U.S. v. Addyston Pipe & Steel Co., 85 F. 271, 282 (6th Cir 1898). 
+77 Id. 
+78 RESTATEMENT (SECOND) OF CONTRACTS § 188 (1981). 
+79 Kirtsaeng v. John Wiley & Sons, Inc., 133 S. Ct. 1351, 1363 (2013).  
+80 RESTATEMENT (SECOND) OF CONTRACTS CHAPTER 8 INTRO. NOTE (1981). 
+81 Erie R.R. Co. v. Tompkins, 304 U.S. 64 (1938). 2016]  KATZ  101 
+the exclusion of consumers with a lower willingness or ability to pay.82 
+If so, then greater control over downstream uses could be efficient; 
+efficient both in the static sense of reducing the deadweight loss that 
+may result from the grant of copyright, as well as efficient in the 
+dynamic sense of allowing copyright owners to earn a higher profit, 
+potentially increasing the incentive to create (even without improving 
+static efficiency).83 
+Elsewhere,  I  have  discussed  why  the  economics  of  price 
+discrimination  are  more  complicated  than  the  above  account:  its 
+benefits are not as straightforward, and exhaustion does not seriously 
+threaten these benefits, when they exist.84 Even if copyright law does 
+not allow publishers to control the resale of digital copies, publishers 
+have options. They can still sell digital copies subject to reasonable 
+post-sale contractual “sticks” to discourage resale, or offer “carrots” to 
+induce the retention of copies if the speed and ease of digital resale 
+proves detrimental.85 As long as (i) publishers’ inability to control any 
+downstream  use  proves  detrimental  to  the  incentivizing  goals  of 
+copyright law, (ii) they adopt limited contractual restraints that are 
+narrowly tailored to counter this detrimental effect, and (iii) those 
+restraints  do  not  impose  a  greater  harm  on  the  access  and 
+dissemination goals of copyright law and on the freedoms of users, 
+such contractual restraints could be held valid. At the same time, it is 
+easy to see how restraints that are neither limited in time or scope, nor 
+otherwise tailored narrowly to address a specific legitimate purpose, 
+can do more harm than good, and should be invalidated.  
+Opponents  of  digital  exhaustion  also  argue  that  unlike  used 
+tangible copies that ordinarily wear out through use and repeated 
+transfers from one user to another, digital copies remain pristine and 
+perfect substitutes for the original. With the ease, speed, and global 
+reach  of  Internet  transmission,  allowing  digital  exhaustion  might 
+threaten copyright owners’ profits on a level not experienced before.86 
+82 See, e.g., Kirtsaeng, 133 S. Ct. at 1390 n.27 (Ginsburg, J., dissenting). 
+83 Katz, supra note 5, at 145; see also, Ariel Katz, The First Sale Doctrine and the 
+Economics of Post-Sale Restraints, 2014 BYU L. REV. 55, 77 (2014) [hereinafter First Sale 
+Doctrine]; Guy A. Rub, Rebalancing Copyright Exhaustion, 64 EMORY L.J. 741, 775 
+(2015). 
+84 First Sale Doctrine, supra note 83, at 55; Katz, supra note 5, at 145-46, 164-66. 
+85 Katz, supra note 5, at 165. 
+86 Id. at 164 (and cited references therein). 102  I/S: A JOURNAL OF LAW AND POLICY  [Vol. 13:1 
+Moreover,  digital  exhaustion  sometimes  invokes  the  specter  of 
+facilitating unbridled piracy because nothing prevents people who sell 
+their digital copies from simultaneously retaining them.87 
+These arguments rely on a series of plausible, but certainly not 
+inevitable or incontrovertible, empirical predictions. They discount 
+the myriad types of reasonable contractual restrictions that publishers 
+could utilize, as well as the fact that publishers are better positioned 
+than resellers  to develop various strategies to compete with  those 
+resellers. For example, they can offer price-match guarantees, or they 
+can discourage resellers by threatening to increase the supply of new 
+copies, or they can offer bundles of work at a discount, and so on. 
+Large and sophisticated resellers might offer their own inducements, 
+but  the  copyright  owner’s  control  over  the  release  of  new  copies 
+provides publishers with a strategic advantage over the reseller whose 
+supply of used copies will always be depended on and affected by the 
+actions of the copyright owner.88  
+The specter of piracy-run-amok ignores the simple fact that as a 
+matter of law a person who sells his copy but makes and retains 
+another may still infringe copyright, and that as a practical reality, 
+people who wish to evade the law do not need to masquerade as 
+complying with first-sale rules when they can obtain illegal copies 
+much  more  easily  elsewhere.89  Moreover,  even  though  it  may  be 
+difficult to distinguish between a legitimate resale of a work in digital 
+format and the sale of an illicit copy, law-abiding buyers of used works 
+might  prefer  buying  from  reputable  intermediaries  ensuring  the 
+legitimacy  of  the  transaction.90  Therefore,  the  ways  in  which 
+recognizing digital exhaustion might increase the incidence of illicit 
+copying  are  far  from  obvious.  In  fact,  legitimizing  second-hand 
+markets for digital copies will allow individuals unable or unwilling to 
+purchase new copies legitimately to buy used copies, which in turn 
+reduces the demand for pirated copies. Such sales might not enrich 
+copyright owners directly, but may benefit them indirectly, because 
+consumers who know that they can resell the goods that they buy are 
+87 Id. 
+88 Id. at 165. 
+89 Id. 
+90 See, e.g., Digitally Delivered Goods Policy, EBAY, 
+http://pages.ebay.com/help/policies/downloadable.html [https://perma.cc/297U-K4PS].  2016]  KATZ  103 
+more willing to buy them in the first place.91 Moreover, the history of 
+copyright teaches us that dire predictions about the devastating effects 
+of digital and other technologies are frequently raised but have rarely 
+materialized.92 It’s true that the boy who cried wolf was eventually 
+right, but it is also true that after repeated false alarms, the rational 
+person becomes skeptical. 
+But more importantly, even if digital exhaustion presents new and 
+different challenges for publishers, the arguments against it tend to 
+focus on the short-term benefits that may accrue to copyright owners 
+if the doctrine could be eliminated, or on the challenges facing them if 
+maintained. But these arguments critically ignore exhaustion’s long-
+term benefit to the public, and the harms to the public that will result 
+from eliminating or narrowing it.  
+V.DIGITAL EXHAUSTION AND THE CASE OF LIBRARIES
+The social benefits of exhaustion and the harms that may result 
+from eliminating or restricting it are not limited to libraries, although 
+libraries provide an excellent case for demonstrating them. How we 
+assess those benefits and harms depends on our understanding of the 
+role and function of libraries, and how libraries interact with, and 
+impact upon, the commercial market activities of publishers. In this 
+Part, I discuss why libraries exist, the various market failures that they 
+mitigate, and why many of those market failures will likely persist 
+even  with  the  advent  of  more  advanced  business  models  for  the 
+dissemination of works in digital formats. 
+A. Why Do Libraries Even Exist?
+I  opened  this  Article  by  highlighting  the  interesting  fact  that 
+libraries engage in more transactions than publishers. I also noted 
+that this ecosystem, where market-based remunerated transactions 
+constitute only subset of a much larger number of non-market and 
+non-remunerated transactions, has existed for generations—probably 
+ever  since  publishers  began  publishing  books  and  libraries  began 
+91 See e.g.,  Rub, supra note 83, at 782. 
+92 Am. Broad. Companies v. Aereo, Inc., 134 S. Ct. 2498, 2517–18 (2014) (Scalia, J., 
+dissenting). 104  I/S: A JOURNAL OF LAW AND POLICY  [Vol. 13:1 
+circulating them. How did this happen, and why has this equilibrium 
+persisted? 
+One possible answer is that this is a historical error which the law 
+has failed to rectify; instead of relying on publicly funded institutions 
+(bureaucratic,  slow  to  adapt,  facing  no  market  discipline,  and  no 
+incentive  to  innovate),  we  could  have  let  publishers  (and  other 
+commercial intermediaries) take their place. Not only will commercial 
+enterprise develop business models providing the same social benefits 
+that we ascribe to libraries, but they could also do it in more efficient 
+ways. Moreover, by monetizing the billions of transactions that are 
+currently  free,  a  market-based  provision  of  library  services  will 
+generate more profit for authors and publishers and therefore will 
+increase the incentive to create new works. But as long as the law 
+allows libraries to provide those free services and taxpayers continue 
+to subsidize the libraries providing them, publishers cannot compete. 
+Under this view, libraries should be privatized, or, at the very least, 
+copyright law should be reformed to prevent libraries from providing 
+their free services.  
+If this answer makes you jubilant, you can stop reading here. 
+However, if you suspect that libraries provide services and play some 
+roles that the market actors cannot or would not, then you may wish 
+to continue reading.     
+B. Libraries Mitigate a Web of Market Failures
+All but the most extreme market-fundamentalist economists could 
+easily  explain  that  libraries  constitute  one  of  several  institutional 
+responses to the market failures inherent in the copyright ecosystem. 
+Therefore, libraries operate in a space that commerce does not and 
+will not occupy, and the services that libraries provide supplement 
+rather  than  compete  with  services  that  publishers  and  other 
+commercial intermediaries could offer. If so, then the legal rules that 
+facilitate the functioning of libraries (such as exhaustion) are efficient 
+at  least  insofar  as  they  permit  beneficial  activities  that  otherwise 
+would not exist. Those rules might still be efficient even if libraries 
+and commerce might compete at the margins (e.g., if some readers 
+choose to borrow a book from the library even if otherwise they would 
+buy  it),  so  long  as  overall  the  social  benefit  from  activities  they 
+facilitate outweighs whatever harms they cause. However, like any 
+type of cost-benefit analysis, the conclusion that libraries increase 
+efficiency by mitigating market failure is contingent on the types of 
+market failures that exist in any specific context. As technology and 2016]  KATZ  105 
+business methods evolve, so may the existence or severity of different 
+market  failures.  The  cost  of  some  market  transactions  might  be 
+prohibitively high under existing technologies, but new technologies 
+or different organizational structures might reduce those costs and 
+make  it  possible  for  new  business  models  to  emerge.  If  so,  then 
+recalibrating  the  respective  roles  of  market  and  non-market 
+institutions in the copyright system might be warranted.  
+Note how this framing might imply that libraries be permitted to 
+provide only those services that publishers would not provide, and 
+that by default, commercial (and copyright-dependent) models ought 
+to  be  preferred  over  non-commercial  models  or  models  that  are 
+otherwise not based on copyright and exclusion. But this would be 
+erroneous  because  copyright  itself  is  an  imperfect  solution  to  a 
+perceived market failure. Therefore, there is no a priori reason to 
+privilege  copyright-based  models  over  other  models  for  providing 
+access to information. In fact, if services can be provided in ways that 
+do not require incurring the social costs of copyright exclusion, a 
+strong case can be made in their favor.   
+C. Technology Contingent, Endemic, and Strategic Impediments to 
+Access
+Consider the most typical of the activities of libraries: the lending 
+of books. Some readers might prefer borrowing a book from a library 
+to buying because its price exceeds their willingness or ability to pay, 
+or because the book is out of print or otherwise not available for 
+purchase in the relevant market (e.g., a book in a foreign language). In 
+both cases, the fact that people borrow the book demonstrates that 
+there is demand for the book that commercial market players (i.e., 
+publishers or other commercial intermediaries) fail to supply. But why 
+do publishers forego what seems like considerable missing business 
+opportunities,  and  why  do  libraries  occupy  that  space  instead? 
+Understanding  what  causes  the  mismatch  between  demand  and 
+supply by commercial entities is crucial for evaluating the respective 
+roles of publishers, libraries, and the laws that regulate their activities.  
+Impediments to universal access to books can be classified into 
+three  general  categories:  technologically  contingent  impediments, 
+endemic  impediments,  and  strategic  impediments.  Technologically 
+contingent impediments reflect the cost of printing, distributing, and 
+storing  the  book  (production  costs).  They  also  include  the  costs 
+associated  with  running  the  business  models  under  which  those 
+activities are pursued. Improvements in the costs of production may 106  I/S: A JOURNAL OF LAW AND POLICY  [Vol. 13:1 
+result in an increase in market-based provision of access. Endemic 
+impediments to market provision reflect the public good nature of 
+information and the inherent difficulties in determining the value of 
+acquiring it. As a result, technological improvements are less likely to 
+affect them. Lastly, strategic impediments result from the exercise of 
+market power by publishers, which allows them to profit more by 
+limiting  production  even  if  profitable  production  were  otherwise 
+feasible. I address those categories in more detail below. 
+1.Technology Contingent Impediments
+Production costs affect how many books will be produced and 
+sold;  for  any  given  demand  curve, higher  production  costs  would 
+entail  fewer  books  that  will  be  produced  and  sold,  and  lower 
+production costs will result in more books will be produced and sold. 
+This suggests that when production costs are high, more people will 
+depend on libraries for access, and when production costs decrease, 
+the resulting lower prices will lead more people to buy their own 
+copies instead of borrowing them from a library. For example, before 
+the invention of the printing press, books were so expensive that not 
+only were they beyond the reach of all but the wealthiest people, even 
+if they were available in libraries, they were often chained to library 
+desks and could not be borrowed.93 The printing press, by reducing 
+the cost of printing, made books more affordable and their supply 
+increased  accordingly.94  With  further  technological  improvements, 
+production costs decreased and supply increased.  
+However, the decline in the production costs (and prices) of books 
+also means that libraries could purchase and lend even more books. 
+The volume of such library transactions raises the question of why 
+publishers  (or  other  commercial  intermediaries)  don’t  seize  the 
+opportunity and offer their own for-profit library alternatives? The 
+question already betrays an answer: the volume of library transactions 
+may be high, but many of those transactions may not be profitable 
+inasmuch as the cost of providing them exceeds the money that users 
+might be able or willing to pay for them. Libraries, in this regard, 
+resemble  other  business  models  based  on  the  sharing  of  existing 
+assets,  such  as  the  rental  of  homes  or  cars.  Just  as  a  car  rental 
+93 See generally JOSHUA GANS, INFORMATION WANTS TO BE SHARED (2012). 
+94 Id.  2016]  KATZ  107 
+company allows people to drive a car even if they do not buy it, a 
+library allows readers to borrow and read a book that they do not wish 
+or cannot afford buying. The difference, however, between libraries 
+and publishers or other commercial entities, is that, unlike libraries, 
+these commercial entities will only provide sharing and other library 
+services if those services could be profitable. Publicly funded libraries 
+could offer those services even when they are not.  
+If this explanation provided the full answer to why libraries exist, 
+it would be highly contingent on the technology of providing those 
+services.  New  technologies  and  innovative  business  models  may 
+reduce  production  costs  and  create  opportunities  to  profit  from 
+providing access to books. Technological advancements that reduce 
+the costs of producing and selling books will tend to increase the sale 
+of books and reduce the demand for and incidence of borrowing. 
+Other technological changes may not only result in greater sharing, 
+but might also induce entry of other players into the sharing space. 
+Imagine, for example, an Uber-like service for book sharing, where 
+instead of searching the catalog of the local library, people can search 
+an online catalog of books that their neighbors are willing to lend 
+them. 
+Likewise, changes in production costs can affect the incidence of 
+borrowing out of print books. Assuming that the demand for older 
+books  is  lower  than  the  demand  for  newer  books,  and  that  the 
+distribution  and  printing  costs  remain  the  same,  publishers  will 
+rationally prefer using their limited resources for producing newer 
+and  more  profitable  books.  Publishers  will  not  print  older  books 
+unless  the  expected  revenue  from  their  sale  exceeds  the  cost  of 
+producing them. However, lower production costs might change the 
+value proposition of older books: more of them might be printed and 
+sold, and relatively fewer might be borrowed from libraries.  
+2.Endemic Impediments
+Some impediments to market provision of access to books are 
+more endemic and less contingent on the technology of production. 
+Efficient  market  provision  requires  that  actors  have  enough 
+information on the costs and benefits of transacting, and that they 
+fully internalize those costs and benefits. If buyers cannot determine 
+the benefit of entering a transaction, or if some of the costs and 
+benefits are borne by others (what economists call “externalities”), 
+then  market  equilibrium  will  not  reflect  the  social  optimum. 
+Therefore, a lack of information, together with externalities, may lead 108  I/S: A JOURNAL OF LAW AND POLICY  [Vol. 13:1 
+to market failure, and the creation of further endemic impediments to 
+efficient  market  provision  of  access  to  books  which  technological 
+advances cannot easily cure. 
+Books  and  other  information  goods  present  both  of  these 
+problems. First, readers cannot fully ascertain the value of reading a 
+book before they read it, and oftentimes even long after. In some 
+cases, a book that seems promising turns out to be disappointing. In 
+other  cases,  the  value  of  what  the  reader  learns  today  may  only 
+materialize fully when connected with knowledge obtained later, or 
+when shared with other people. These unknowns present a pricing 
+problem for readers and publishers. Readers struggle to determine 
+whether the benefit from reading the book justified the cost of buying 
+it, (and therefore forego at least some transactions for which the price 
+seems  too  high  ex  ante).  Publishers,  facing  readers  with  varying 
+preferences, may find it difficult to determine an optimal market price 
+(and therefore set a price that, for some readers at least, would be too 
+high). Moreover, externalities compound these problems. A reader 
+can  only  expect  to  internalize  some  of  the  social  value  of  the 
+knowledge she acquires, but not all of it. This is especially so when the 
+reader acquires this information in order to share it with others (e.g., 
+a teacher, researcher, a worker, or a manager). This is one aspect of 
+knowledge being a public good. The benefits that accrue to others are 
+positive  externalities,  which  a  reader  will  rationally  ignore  when 
+deciding  whether  to  pay  for  a  book.  In  a  similar  vein,  a  profit-
+maximizing publisher will decide what to publish and at what price to 
+sell it only on the basis of what maximizes its profit today or in the 
+near future, and not on the basis of what maximizes social welfare in 
+the long run.95  
+Public libraries that provide free or heavily subsidized access to 
+books reduce the social cost of these market failures and partially 
+mitigate those endemic impediments to access. By allowing readers to 
+access books for free, they improve the net benefit for the reader and 
+thus increase readership towards the socially optimal level. Moreover, 
+since  their  mandate  reflects  the  long-term  benefits  of  their 
+communities and their funding depends on the public, public libraries 
+95 See, e.g., Brett Frischmann, Spillovers Theory and Its Conceptual Boundaries, 51 WM. & 
+MARY L. REV. 801, 812–13 (2009–2010). 2016]  KATZ  109 
+are  more  capable  of  providing  access  to  books  in  a  way  that 
+approximates society’s long-term benefits.96  
+3.Strategic Impediments
+The third type of impediments to access is strategic and reflects 
+publishers’  choices  to  limit  access  to books  in  order  to  maximize 
+profit. I refer to these impediments as strategic because unlike the 
+previous  two  types  of  impediments,  which  are  exogenous  to 
+publishers’ decisions, strategic impediments are fully dependent on 
+publishers’  choices.  Strategic  impediments  result  from  and  reflect 
+publishers’ market power, which allows them to increase profit by 
+reducing output below the technologically feasible, and economically 
+viable, level.  
+Copyright  is  one  of  the  key  factors  affecting  the  price  and 
+availability of books. By limiting competition from other producers of 
+the same book, the publisher can set the price at a supra-competitive 
+level  and  earn  a  higher  profit  by  reducing  the  quantity  of  copies 
+available. As a result, people who are willing to pay a price that is 
+higher than the cost of production but lower than the monopoly price 
+are  excluded  from  the  market.  This  deadweight  loss  is  not  an 
+unforeseen consequence of copyright, but an acknowledged cost of 
+granting it.97 If copyright works as intended and drives the prices of 
+books above the cost of their production, then the resulting unmet 
+demand  is  independent  of  the  technology  of  production  and 
+distribution. In other words, copyright, by design, leads to artificial 
+scarcity, and therefore as long as there is copyright, institutions that 
+mitigate the resulting deadweight will serve a purpose.98  
+In addition to limiting the supply and raising the price of printed 
+books, copyright may also allow publishers to strategically limit or 
+prevent the supply of older books. Since in many cases the marginal 
+reader may regard an old book as a close substitute for a new book, 
+96 The funding of libraries might still be lower than the optimal because the taxpayers that 
+ultimately fund them might still prefer spending public money on purposes with more 
+tangible and shorter-term benefits, and on those that benefit members of the immediate 
+community over those that benefit society at large.  
+97 Ariel Katz, Making Sense of Nonsense: Intellectual Property, Antitrust, and Market 
+Power, 49 ARIZ. L. REV. 837, 841 (2007). 
+98 Wendy J. Gordon, Intellectual Property As Price Discrimination: Implications For 
+Contract, CHI.-KENT L. REV. 1367, 1388 (1998). 110  I/S: A JOURNAL OF LAW AND POLICY  [Vol. 13:1 
+increasing the supply of older books might have the same depressing 
+effect on the price of new books as printing a larger quantity of the 
+new  book.  Therefore,  many  older  books  are  out  of  print  and 
+unavailable not only because the cost of supplying them relative to the 
+demand  for  them  makes  their  production  non  economical,  but 
+because  copyright  allows  publishers  who  hold  large  portfolios  of 
+copyright to strategically choose which books to continue producing, 
+and which books to suppress.99    
+Therefore, when impediments to market based provision of access 
+to books are strategic, libraries may reduce the resulting deadweight 
+loss by facilitating access to those books. Libraries can do this because 
+copyright  law  permits  libraries  to provide  certain  forms of  access 
+without the copyright owner’s permission.  
+D.Price Discrimination and Impediments Thereto
+The copyright explanation is incomplete, however, because while 
+copyright  allows  publishers  to  price  books  at  a  supra-competitive 
+level, copyright law also allows copyright owners to implement price-
+discrimination schemes that could generate even higher profits.100 If 
+the copyright owner could charge the higher monopoly price to those 
+who are willing to pay it, and set a lower price for those who are not, 
+then not only will the copyright owner be able to earn even higher 
+profits (meaning greater incentive to invest in the first place), it would 
+be achieved with no, or at least smaller, deadweight loss. In cases 
+where a monopolist could charge every user a price that corresponds 
+to that user’s ability or willingness to pay, the monopolist will produce 
+the same quantity that will be available under perfect competition 
+while earning much higher profits.101  
+In  order  to  price-discriminate,  the  seller  must  have:  (i)  some 
+market power (i.e., power to set the prices above the marginal cost of 
+production,  which  copyright,  by  preventing  other  producers  from 
+producing the same book, usually confers); (ii) an ability to have 
+99 See generally Paul J. Heald, How Copyright Keeps Works Disappeared, 11 J. EMPIRICAL 
+LEGAL STUD. 829. 
+100 See, e.g., Gordon, supra note 98. 
+101 James Boyle, Cruel, Mean, Or Lavish - Economic Analysis, Price Discrimination and 
+Digital Intellectual Property, 53 VAND. L. REV. 2007, 2025–26 (2000); see also Rub, 
+supra note 83, at 766. 2016]  KATZ  111 
+sufficient information about users’ preferences and willingness and 
+ability to pay combined with the ability to sort them out accordingly; 
+and (iii) an ability to prevent arbitrage: that is, to prevent a user who 
+purchased the good at a lower price from reselling it to another user 
+who would otherwise be willing to pay a higher price to the copyright 
+owner.  
+Digital technologies promise greater potential for profitable price-
+discrimination  insofar  as  they  can  improve  the  ability  to  gather 
+information on users and offer a more finely-tuned array of products, 
+services,  and  prices  to  match  heterogeneous  demand.  From  this 
+perspective,  exhaustion  could  be  seen  as  presenting  a  serious 
+problem: it reduces the copyright owner’s power to prevent arbitrage 
+because it makes it lawful for a person who purchased a book at a 
+lower price to resell it to another reader who would otherwise be 
+willing to pay a higher price. Further, it facilitates secondary markets 
+of used books that can be sold in competition with the higher-price 
+offerings  of  the  publisher.  In  addition,  by  permitting  resale 
+transactions that do not require the copyright owner’s permission, 
+exhaustion  interferes  with  the  copyright  owner’s  effort  to  collect 
+information on its users. Those who believe that  ubiquitous price 
+discrimination creates a strong incentive to create and disseminate 
+new works are inclined to endorse the view that (a) exhaustion should 
+not apply to the transfer of digital files, and (b) even if it did apply, 
+copyright owners should be able to circumvent it using technological 
+means, license restrictions, or contracts. In the same vein, they might 
+tend  to  see  the  library  (and  its  reliance  on  exhaustion)  as  an 
+institution that might have mitigated the market failures of yore, but 
+whose continued existence is obsolete at best, and at worst represents 
+a threat to the growth of new business models.  
+Earlier critics of these views assumed that this model of ubiquitous 
+price discrimination is indeed possible, though some of them have 
+questioned  whether  it  is  also  desirable.102  They  questioned,  for 
+example, the overly optimistic, and sometimes simplistic, assumptions 
+that proponents of the ubiquitous price-discrimination vision make,103 
+and highlighted that the move from one regime to another is not 
+necessarily value neutral104 and may influence the type of works that 
+102 See, e.g., Julie Cohen, Copyright and the Perfect Curve, 53 VAND. L. REV. 1799 (2000); 
+Gordon, supra note 98. 
+103 Cohen, supra note 102, at 1809-10. 
+104 Boyle, supra note 101, at 2027. 112  I/S: A JOURNAL OF LAW AND POLICY  [Vol. 13:1 
+are created and used.105 Others have noted that price discrimination 
+does not necessarily result in greater output, and might result in less 
+access, rather than more.106 
+I would like to add to this debate by focusing on the type  of 
+information that would be necessary to implement ubiquitous price 
+discrimination, whether gathering it is possible, and why publishers 
+might strategically choose not to implement the vision of ubiquitous 
+access-maximizing  price  discrimination,  even  if  they  could.  This 
+discussion will reveal that there are some endemic impediments to 
+efficient price discrimination, as well as some strategic reasons why 
+publishers might refrain from implementing it, even if they could. 
+This discussion will also provide important insights about why some 
+of the roles of libraries are economically indispensable, while other 
+roles are politically crucial.  
+In order to implement a system of efficient and ubiquitous price 
+discrimination  that  achieves  the  optimistic  vision  for  which  its 
+proponents  advocate,  publishers  should  be  able  to  amass  large 
+amounts of information on users, which users might have very little 
+incentive to supply, good reasons to keep private, or at least disclose 
+strategically (i.e., to provide information they believe the publisher 
+will interpret as signaling low willingness or ability to pay). However, 
+even if users were willing to candidly provide full information, the 
+information would still be incomplete, because users themselves may 
+not know what they will learn from reading a book they have not read, 
+or  what  utility  they  might  derive  from  it.  Moreover,  even  if  the 
+publisher were willing to take the information that the user provides 
+at face value (which they should not) before setting a price, a rational 
+publisher would still need to interpret the information. But the more 
+idiosyncratic the individual user’s preferences and intended use are, 
+the more difficult and prone to error is the task of setting a “correct” 
+individual price.  
+Furthermore,  many  limitations  on  copyright  permit  users  to 
+engage in activities that benefit not only the users themselves, but also 
+third parties and society at large. These users, however, can expect to 
+internalize only part of the social benefits arising from their activities 
+and will not take into account the positive spillovers conferred on 
+105 Glynn S. Lunney, Jr., Copyright’s Price Discrimination Panacea, 21 HARV. J.L. & TECH. 
+387, 448 (2007–2008). 
+106 See e.g., Guy A. Rub, Contracting around Copyright: The Uneasy Case for Unbundling 
+of Rights in Creative Works, U. CHI. L. REV. 257, 268 (2011). 2016]  KATZ  113 
+others. For example, a reader may buy a book and then decide to write 
+a critique of it; or the book may inspire her to write additional works. 
+If that reader has to pay for the right to criticize the book or for the 
+right to be inspired by it, her willingness to pay will reflect only the 
+private value that she might expect to derive from these activities, but 
+not the value that her activities will generate to others.107 Copyright 
+owners ignore those positive spillovers as well and would be especially 
+reluctant to permit uses that might harm their own interests. Or, 
+copyright owners might strategically exploit situations of hold-up to 
+extract  the  highest  licensing  fees  possible.  Consequently,  even  if 
+publishers could implement mechanisms that provide access to all 
+readers, the terms of those transactions will not result in a socially 
+optimal equilibrium.108 
+Strategic reasons might also deter publishers from implementing 
+less-than-perfect  price  discrimination.  As  noted  above,  publishers 
+may  choose  to  keep  older  books  out  of  circulation  for  strategic 
+reasons, rather than cost-related reasons. In addition, while digital 
+technologies provide tools that could be used for more effective price 
+discrimination,  they  also  create  unique  strategic  challenges.  For 
+example,  large-scale  printing  technologies  typically  involve 
+considerable set up costs, which compel the publisher to determine in 
+advance the number of copies in each print run. Printing additional 
+copies would entail incurring the set up costs again (as well as the 
+opportunity cost of printing this book rather than another book), and 
+the publisher will only incur them if it expects that the demand for the 
+additional run will generate enough profit to cover those costs. Even 
+though the information embodied in the book is non-rivalrous, the 
+book  itself  is  rivalrous and  the  limited  quantity  of  printed  copies 
+forces the buyer to reveal how much she values the book (or at least 
+she values getting a copy of the book more than other potential buyers 
+against whom she is bidding).  
+This is not the case with fully digital books, such as e-books, where 
+the marginal cost of producing another copy or authorizing another 
+use is close to zero, and where communicating with any potential user 
+is easy. These features entail that once the publisher produces a digital 
+copy of a work, it effectively has the capacity to supply the entire 
+107 Frischmann, supra note 95. 
+108 First Sale Doctrine, supra note 83, at 107-08. 114  I/S: A JOURNAL OF LAW AND POLICY  [Vol. 13:1 
+demand for it.109 As a result, selling or licensing a digital book to one 
+person does not diminish the opportunity to sell it to another. Since 
+users are no longer bidding over a resource with finite quantity, there 
+are fewer reasons for them to reveal how much they are willing to pay, 
+and greater reasons to stall and pretend to be a marginal consumer 
+further down the demand curve, who values the work just slightly 
+above the marginal cost of its production. Having built the capacity to 
+supply the entire demand, the publisher cannot credibly threaten not 
+to sell or to sell to someone else and should, in theory, be willing to 
+accept any price above zero. The key difference between the printed 
+book and the e-book in this regard is that the traditional technology of 
+printing  results  in  scarcity  (at  least  temporarily),  which  allows 
+publishers to reliably commit to selling the book at prices that exceed 
+marginal  costs.  In  contrast,  there  is  no  equivalent  technological 
+impediment to producing another e-book instantly.110 Paradoxically, 
+the very conditions that make the online provision of digital goods so 
+amenable  to  ubiquitous  price  discrimination  can  also  make  it 
+unattractive for publishers to so discriminate.111  
+If  we  assume  that  publishers  can  implement  perfect  price 
+discrimination  (not  near  perfect,  but  perfectly  perfect)  then  we 
+assume away these challenges. So let’s imagine, that sophisticated big 
+data tools will allow publishers to create a precise profile of every user 
+that will not only determine that user’s precise preferences, but also 
+predict their social utility with perfect accuracy, without being tricked 
+by any attempt to pretend to have a lower willingness to pay. And if we 
+take  the  promise  of  perfect  and  ubiquitous  price  discrimination 
+seriously, we should also contemplate harnessing the power of the 
+state to ensure that the collected data is both complete and accurate, 
+and  that  attempts  to  undermine  the  system  by  not  providing 
+publishers full and accurate disclosure of all necessary data or through 
+arbitrage will not be tolerated. In other words, accomplishing the 
+optimistic  vision  of  ubiquitous  price  discrimination  might  involve 
+109 This may also be true for digital print-on-demand.  
+110 This type of pricing challenge is reminiscent of the pricing challenges that monopolists 
+selling durable goods face. See generally R.H. Coase, Durability and Monopoly, 15 J.L. & 
+ECON. 143 (1972); Barak Orbach, The Durapolist Puzzle: Monopoly Power in Durable-
+Goods Markets, 21 YALE J. ON REG. 67 (2004). 
+111 This might explain, at least in part, publishers’ reluctance to embrace e-books and why 
+the resorted to various techniques, some of them illegal, in their attempt to prevent the sale 
+of cheap e-books. See United States v. Apple Inc., 952 F. Supp. 2d 638 (S.D.N.Y. 2013). 2016]  KATZ  115 
+intrusive  surveillance  mechanisms  that  can  seem  decidedly 
+Orewllian.112 One may notice that a capitalist’s ideal of ubiquitous 
+price  discrimination  resembles  the  utopian  socialist  “from  each 
+according to his ability, to each according to his needs”, not only in 
+their  outcome,  but  also  in  the  means  that  might  be  necessary  to 
+accomplish them.113 
+The dependency of ubiquitous price discrimination schemes on 
+intrusive  surveillance  demonstrates  that  historically  libraries  have 
+offered not only access to books, but have also endeavored to provide 
+access under conditions that guarantee readers’ privacy and freedom 
+from  surveillance.  To  the  extent  that  readers  value  the  ability  of 
+reading  without  being  watched,  libraries  offer  them  a  service  for 
+which the market cannot, or may not, easily substitute. Moreover, 
+because readers cannot internalize the entire social benefits that stem 
+from an environment that enables this kind of free inquiry, they may 
+rationally  waive  their  privacy  in  return  for  more  immediate  and 
+tangible commercial offerings. Therefore, to the extent that society has 
+an  interest  in  preserving  an  environment  that  promotes  free, 
+anonymous, and private inquiry, libraries and the legal rules that 
+enable their operation are worth keeping, even if the market could 
+otherwise provide seemingly comparable services.114  
+E.Alternatives to Direct Price Discrimination
+If amassing the data required for implementing perfect or near-
+perfect price discrimination now seems impossible, or if we consider 
+the necessary conditions for it undesirable, then publishers could still 
+resort to other forms of price discrimination. They could offer a menu 
+of  options  for  accessing  works,  catering  to  readers  with  different 
+112 Christina M. Mulligan, Personal Property Servitudes on the Internet of Things, 50 GA. 
+L. REV. 1121 (2016). See also Boyle, supra note 101, at 2034 (“Perfect price discrimination 
+requires more information about customers than can be revealed by mere self-selection 
+and more information-gathering (to prevent illicit arbitrage, lending, or gifts). Do we really 
+want to commit ourselves to a regime that will offer companies major assistance in the 
+form of state power, assistance that will yield them big bucks, but only if they monitor their 
+customers superlatively well? This seems like a rather perverse set of incentives.”). 
+113 But with a major difference, as Oren Bracha reminded me: proponents of ubiquitous 
+price discrimination tend to conflate the concepts of “needs,” “willingness to pay,” and 
+“ability to pay.”  
+114 See generally Julie E. Cohen, A Right to Read Anonymously: A Closer Look at 
+“Copyright Management” in Cyberspace, 28 CONN. L. REV. 981 (1996). 116  I/S: A JOURNAL OF LAW AND POLICY  [Vol. 13:1 
+preferences and letting readers reveal their preferences by choosing 
+the version that suits them best (economists often refer to this as 
+second  degree  price  discrimination).  Alternatively,  publishers  can 
+offer a single version of the work, but charge prices on the basis of 
+easily observable characteristics that serve as a proxy for willingness 
+or ability to pay (economists often refer to this as third degree price 
+discrimination).  
+Publishers have used these methods for years. For example, the 
+difference  in  price  between  hard  cover  and  paperback  typically 
+exceeds the difference in the cost of production, and their sequential 
+release serves as a method for second-degree price discrimination: 
+eager  and  more  affluent  readers  may  rush  to buy  the hard cover 
+edition, while less eager or less affluent readers might wait for the 
+paperback. The higher durability of hard cover books may also make 
+them more appealing to libraries because it reduces the wear and tear 
+that  may  result  from  the  circulation  of  the  copy  among  different 
+readers, and libraries might be willing to pay a premium for this 
+additional functionality. Discounts offered to students and seniors 
+(which presumably earn less and have lower ability to pay) are a 
+common  form of  third  degree  price  discrimination, because  those 
+characteristics can be easily observed or at least verified.  
+While perfect price discrimination could, in theory, maximize both 
+access and profit, other types of price discrimination could increase 
+profit  (otherwise  publishers  wouldn’t implement  them  voluntarily) 
+without resulting in full or even greater access, compared to the level 
+of access under uniform pricing, let alone when the role of non-market 
+access (e.g., through libraries) is counted. Therefore, even considering 
+only the narrow economic question of how many people gain access, 
+imperfect  price  discrimination  is  not  a  priori  preferable  to  other 
+mechanisms.  
+There  are  three  additional  techniques  that  have  enabled 
+publishers  to  indirectly  accomplish  outcomes  equivalent  to  those 
+under direct price discrimination: the first is through the bundling of 
+content, the second is through permitting or tolerating sharing of 
+content among users, and the third is through a combination of both. 
+As  the  next  section  shows,  publishers  employ  these  techniques 
+routinely, and in many cases, libraries form part of the ecosystem that 
+enables them.  2016]  KATZ  117 
+F.Indirect Price Discrimination: Bundling, Sharing, and Libraries
+The bundling of content in a single object (e.g., an issue of a 
+newspaper or a magazine) or in a license that pertains to different 
+works (e.g., subscription to a bundle of cable channels, or a database 
+of journal articles, or a streaming services such as Netflix) allows the 
+content provider to achieve the effect of price discrimination without 
+needing  to  know  how  different  consumers  value  different  works. 
+Bundling achieves this result because, even though readers’ tastes, 
+preferences, and willingness to pay with respect to individual works 
+will vary significantly, their willingness to pay for a bundle tends to 
+average out.115  
+For example, imagine two brothers, Jacob and Esau. Both like to 
+be  informed  about  what  is  going  on  in  the  world,  but  they  have 
+somewhat  different  interests  and  preferences:  Jacob  spends  more 
+time  on  op-eds  than  on  news,  while  Esau  does  the  opposite.  In 
+addition, Jacob likes to read articles on food and style, while Esau 
+prefers stories about hunting and adventures (though he will not miss 
+a recipe for good lentil stew). If the publisher of Canaan Times could 
+determine exactly how much each of them is willing to pay for each 
+article, it could maximize profit by setting such individual prices and 
+selling individual articles accordingly- but obtaining such information 
+is nearly impossible.116 However, the price that each of them is willing 
+to pay for a bundle that includes various articles tends to average out, 
+regardless of the variance in their respective preferences for individual 
+articles. Therefore, bundling the different article in an issue of the 
+newspaper makes it easier for the publisher to predict how consumers 
+will evaluate a collection of works, without needing to know how they 
+value any individual work.117 
+The publisher can combine this strategy with other indirect forms 
+of price discrimination. For example, if Esau, the farmer and hunter 
+who never went to university, is less affluent than his erudite brother, 
+115 See Yannis Bakos & Erik Brynjolfsson, Bundling Information Goods: Pricing, Profits, 
+and Efficiency, 45 MGMT. SCI. 1613 (1999). See also GANS, supra note 93, at 27. 
+116 News articles, and most other copyrighted works are experience goods, meaning that 
+buyers cannot ascertain their quality before buying them. This makes per-work per-user 
+pricing even more challenging. 
+117 See, e.g., Ariel Katz, Commentary: Is Collective Administration of Copyrights Justified 
+by the Economic Literature?, in COMPETITION POLICY AND INTELLECTUAL PROPERTY 
+(Marcel Boyer et al. eds., 2009).  118  I/S: A JOURNAL OF LAW AND POLICY  [Vol. 13:1 
+then offering the bundle at a discount to members of the Hunters and 
+Farmers Association could increase the publisher’s profit.  
+Now,  suppose  that  Esau,  after  settling  in  Edom,  prefers  The 
+Edomite to the Canaan Times as his main source of information, but 
+is still interested in reading the Canaan Times occasionally. At the 
+same time, the educated Jacob, who generally prefers the Canaan 
+Times, enjoys reading stories from The Edomite now and again. Each 
+of them would be happy to subscribe to both newspapers, but the full 
+price of a subscription to The Edomite exceeds Jacob’s marginal utility 
+from reading that newspaper—and vice versa with respect to Esau 
+paying for a subscription to Canaan Times. If the publisher of The 
+Edomite offered Jacob a substantial discount on a subscription, Jacob 
+would buy it, and Esau would do the same with respect to the Canaan 
+Times. However, the cost of determining what the prices should be 
+and of maintaining a system for such differential pricing exceeds what 
+each of the publishers could gain from implementing it.  
+Moreover,  their  inability  to  afford  subscribing  to  another 
+newspaper does not really prevent the brothers from reading articles 
+from the other newspaper because they often share them: once a 
+month Jacob sends the used issues of the Cannan Times to Esau, and 
+Esau  does  the  same  with  his  used  issues  of  The  Edomite.  And 
+occasionally, they might even scan selected articles of special interest 
+and email them to each other so that they can be read much sooner; 
+or, they simply email links to articles from the online edition of the 
+newspapers (their respective lawyers advised them that the first-sale 
+doctrine  allows  them  to  mail  the  used  issues  to  each  other,  that 
+reproducing and emailing the occasional article will likely qualify as 
+fair use under the circumstances, and that emailing a hyperlink does 
+not normally give rise to any copyright concerns). 
+Although this arrangement may not be as convenient as being fully 
+subscribed to a second newspaper, the brothers find this solution 
+satisfactory. Moreover, each of them also realized that this sharing 
+allows them to maintain their otherwise complicated relationships, 
+and that by being able to share their newspapers with each other their 
+respective subscriptions became more valuable to them: so much so, 
+that even though both of them were hit by the Great Recession and 
+had to reduce their expenses, the brothers—unlike some readers who 
+cancelled their subscriptions (and had to be induced with significant 
+discounts to re-subscribe)—retained their respective subscriptions.  
+When the publisher of the Canaan Times decided to charge for full 
+access to its online edition, limit the number of articles that non-
+subscribers could access, and offer an online-only subscription that 2016]  KATZ  119 
+costs less than full or print-only subscription, Esau considered buying 
+the online-only subscription, but the price was still too high for him. 
+Jacob, however, was happy to upgrade his subscription and get the 
+full print-plus-online version, and share his login credentials with his 
+brother.  
+Not only did the various ways in which the brothers legally shared 
+newspaper articles not hurt the publishers, they probably benefited 
+them financially because the unpaid sharing increased each of the 
+brothers’ willingness to pay for the content they paid for, and allowed 
+the publishers indirectly to achieve an outcome similar to those under 
+direct price discrimination without incurring the costs that setting up 
+direct  price  discrimination  schemes  demand.  Moreover,  these 
+beneficial outcomes are possible because copyright law permits them.  
+Publishers  routinely  sell  or  license  content  in  ways  that  are 
+consistent with the economics of bundling and sharing as a means of 
+indirect price discrimination. For example, the traditional method of 
+distributing scientific articles has been bundling them in issues of 
+journals, which, in turn, are distributed mainly to subscribers. This 
+method involves two levels of bundling: allowing readers to access all 
+the articles bundled in a single issue, and allowing subscribers to 
+access  all  the  issues  within  the  subscription  period.  Digital 
+technologies enabled even greater levels of bundling, where users gain 
+access to even the larger bundles available through large databases of 
+journal articles.  
+Common  practices  are  also  consistent  with  the  economics  of 
+indirect price discrimination via sharing. The market for academic 
+monographs and specialized reference books tend to be small (relative 
+to, say, novels or magazines). It consists of readers with varying and 
+idiosyncratic types of uses who might be interested in reading the 
+book or sections of it in highly unpredictable ways over long periods of 
+time. Moreover, the utility that users derive is often uncertain, and not 
+easily internalized by the reader (e.g., in the form of pleasure or by 
+charging  a  client).  While  developing  an  effective  direct  price 
+discrimination scheme for this type of literature seems dauntingly 
+difficult, if not impossible, publishers can still deploy at least two 
+types of indirect price discrimination. Many of these books are sold 
+primarily to libraries who allow readers to share them, either through 
+lending or through photocopying of excerpts. A library is willing to 
+pay a higher price than most of its patrons would be willing to pay 
+because  it  provides  patrons  a  valuable  service,  and  its  continued 
+funding depends on satisfying the needs of its patrons. In essence, the 
+library  internalizes  the  preferences  of  its  patrons  and  allows  the 120  I/S: A JOURNAL OF LAW AND POLICY  [Vol. 13:1 
+publisher to set a higher price for the book without worrying about 
+trying to determine the preferences of individual readers. Effectively, 
+these  books  are  meant  to  be  shared  and  publishers  price  them 
+accordingly.  In  addition  to  libraries,  select  individuals  who  need 
+permanent access to those books or otherwise prefer the benefits that 
+are incidental to full ownership of a copy of a book might also be 
+willing to pay the typically high price of those books.  
+These  observations  go  some  way  towards  explaining  why  the 
+present  ecosystem,  where  market-based  remunerated  transactions 
+constitute only a subset of a much larger number of non-market and 
+non-remunerated transactions, has existed for generations, and why 
+there is no a priori reason why it could not continue to exist with 
+respect to digital content.  
+These observations do not imply that the legal rules that facilitate 
+sharing  (including  exhaustion  and  fair  use)  necessarily  benefit 
+copyright owners in every instance. Sharing benefits copyright owners 
+unambiguously only when no unpaid use substitutes for paid uses, or 
+when the additional profit that result from greater willingness to pay 
+for  sharable  content  outweighs  the  losses  from  substitution. 
+Moreover,  the  legality  of  sharing  makes  it  more  difficult  for  the 
+publishers to implement direct price discrimination schemes that, if 
+practicable, would be even more profitable. When users’ gain merely 
+offsets  this  forgone  profit  for  publishers  it  has  no  effect  on  total 
+welfare, but the prospect of gaining this additional profit could, at the 
+margin,  influence  a  publisher’s  decision  whether  to  invest  in  a 
+particular  project  or  not.  Arguably,  if  lower  expected  profit 
+discourages publishers from investing in otherwise profitable projects, 
+readers  are  harmed  as  well.  If  so,  then  it  might  be  tempting  to 
+conclude  that  copyright  owners  should  be  granted  the  power  to 
+control all sharing; if they expect that the benefits from sharing will be 
+greater than the losses of sharing they will rationally allow it, but if the 
+sharing  interferes  with  their  ability  to  implement  profitable  price 
+discrimination schemes they will disallow it. For libraries, this implies 
+that publishers should be able to fully control what libraries do and to 
+what extent.   
+As tempting as this view might be, however, it is only attractive if 
+one  assumes  that  the  interests  of  publishers  and  the  interests  of 
+society are constantly aligned. As noted in the earlier discussion, they 
+are  not.  Even  if  we  assume  that  technology  could  eliminate  all 
+technological impediments to efficient market based access to books, 
+it cannot eliminate all of the impediments that are endemic to the 
+nature of information goods. Moreover, granting copyright owners 2016]  KATZ  121 
+control over all forms and types of sharing provides no guarantee that 
+they will exercise it in benign welfare enhancing ways, rather than in 
+ways that strategically maximize profit while reducing overall welfare. 
+And once we add the liberal values of democracy and freedom into the 
+welfare  equation,  the  inescapable  conclusion  is  that  perfect  price 
+discrimination  (even  if  technically  feasible)  may  not  be  welfare 
+maximizing,  because  its  accomplishment  requires  a  legal 
+infrastructure that is inimical to those very values.   
+This analysis suggests that if the copyright ecosystem has a public 
+purpose, then some of the functions that libraries perform are not 
+only fundamental but also indispensable for attaining this purpose. 
+Therefore, the legal rules (such as exhaustion and other limitations on 
+copyright)  that  allow  libraries  to  perform  these  functions  are  as 
+integral to the copyright system as copyright itself.118  
+VI.CONCLUSIONS
+In this Article I presented and challenged the view that the first-
+sale doctrine, or exhaustion, applies only to the transfer of tangible 
+copies of works from one person to another- but not to the transfer of 
+digital files. Under this view, the first-sale doctrine merely exists as a 
+statutory exception, and one that limits only the copyright owner’s 
+distribution right, but not other rights. It protects defendants who can 
+show that their acts fall within the bounds of the statutory exception, 
+but any incongruence with the statutory exception would be fatal to 
+their defense. This view, in turn, depends on certain assumptions 
+about the meaning of the several exclusive rights, the meaning of the 
+first-sale doctrine, and what the interaction among them entails. I 
+demonstrated that none of these assumptions is self-evident. The law 
+on digital exhaustion is anything but settled, and is capable of being 
+interpreted differently. As a “first sale” doctrine it may limit only the 
+distribution right, but its statutory presence might merely affirm a 
+broader principle of exhaustion—one of several principles in copyright 
+law  that  limit  the  copyright  owner’s  powers.  The  principle  of 
+exhaustion  can  apply,  and  at  times  has  been  applied,  beyond  the 
+distribution right.  
+I also showed that copyright owners’ ability to escape exhaustion 
+by characterizing transactions as “licenses” rather than “sales”, or by 
+using contracts to exercise downstream control is hardly a foregone 
+118 Compare CCH v. LSUC, [2004] S.C.C. 13 (Can.). 122  I/S: A JOURNAL OF LAW AND POLICY  [Vol. 13:1 
+conclusion. Established precedent and sound legal principle indicate 
+that  while  the  law  recognizes  some  scope  for  contracting  around 
+exhaustion, courts will not necessarily uphold any private reordering 
+of the respective legal entitlements of copyright owners and users. 
+How  those  principles  will  apply  to  digital  exhaustion  is,  at  most, 
+unsettled. I argued that the doctrine of restraint of trade provides a 
+well-known  (albeit  somewhat  neglected)  legal  framework  for 
+distinguishing  between  those  limitations  on  exhaustion  that  are 
+reasonable and justified and those that are not.  
+While  these  observations  and  conclusions  apply  to  exhaustion 
+generally,  they  apply  most  demonstrably  in  the  case  of  libraries. 
+Libraries  occupy  a  privileged  space  in  the  copyright  system. 
+Historically, libraries predate copyright, and the institutional role of 
+libraries  and  institutions  of  higher  learning  in  the  “promotion  of 
+science”  and  the  “encouragement  of  learning”  was  acknowledged 
+before legislators decided to grant authors exclusive rights in their 
+writings.  The  historical  precedence  of  libraries  and  the  legal 
+recognition  of  their  public  function  cannot  determine  every 
+contemporary copyright question, but this historical fact is not devoid 
+of  legal  consequence.  History  is  part  of  the  legislative  history  of 
+statutes,  and  it  constitutes  part  of  the  context  that  informs  the 
+interpretation  of  current  statutes.  Specifically,  if  one  proffered 
+interpretation of the Copyright Act threatens to seriously curtail the 
+function of libraries, courts should require a clear indication that this 
+was the intended goal of the legislation before  adopting it. Taken 
+together, the first parts of this Article demonstrate that the conclusion 
+that the current legislation does not allow digital exhaustion is at least 
+questionable, if not false.  
+Looking forward, whether digital exhaustion should be preserved 
+or permitted depends, in the case of libraries, on understanding their 
+function, and how they might be impacted by digital technologies. In 
+analyzing  the  role  of  libraries  in  facilitating  non-market  access  to 
+books, I identified three types of impediments to efficient market-
+based  access:  technology  contingent  impediments,  endemic 
+impediments, and strategic impediments. I noted that technological 
+changes might only lead publishers to develop market-based models 
+of access that are technology contingent, but market-based models 
+aren’t likely to displace the role of libraries when libraries address 
+endemic or strategic impediments. More specifically, I explained why 
+digital technologies and the abolition of exhaustion would not result 
+in perfect price discrimination, and that exhaustion has not and will 
+not  prevent  publishers  from  continuing  to  implement  indirect 2016]  KATZ  123 
+methods  of  price  discrimination.  Since  giving  publishers  greater 
+powers to implement imperfect modes of price discrimination will not 
+necessarily  lead  to  superior  outcomes  relative  to  the  current 
+ecosystem, there is no a priori reason to assume that eliminating 
+digital exhaustion will increase social welfare. In fact, because profit-
+maximizing publishers will prefer models that increase their private 
+returns while ignoring the long-term effects on society, the prudent 
+assumption is that eliminating digital exhaustion will not increase 
+social  welfare.  Libraries,  institutionally  designed  to  consider  the 
+collective long-term benefits of access to knowledge would therefore 
+continue to play an indispensable role in providing access to works in 
+digital formats, and policy-makers should insist that strong evidence 
+be presented before they are willing to discard this assumption.  
+As long as the copyright ecosystem has a public purpose, then 
+some of the functions that libraries perform are not only fundamental 
+but also indispensable for attaining this purpose. Therefore, the legal 
+rules (such as exhaustion and other limitations on copyright) that 
+allow libraries to perform these functions remain, and will continue to 
+be,  as  integral  to  the  copyright  system  as  the  copyright  itself. 
